@@ -14,6 +14,23 @@ interface QuizAppProps {
     onBack?: () => void;
 }
 
+type ChapterOption = {
+    id: string;
+    title: string;
+    book: string;
+    chapterTitle: string;
+};
+
+const parseChapterTitle = (chapter: { id: string; title: string }): ChapterOption => {
+    const match = chapter.title.match(/^(國[一二三][上下])\s+(.+)$/);
+
+    return {
+        ...chapter,
+        book: match?.[1] || '其他',
+        chapterTitle: match?.[2] || chapter.title
+    };
+};
+
 export function QuizApp({ onBack }: QuizAppProps) {
     const [chapters, setChapters] = useState<{ id: string, title: string }[]>([]);
     const [currentChapterId, setCurrentChapterId] = useState<string>('');
@@ -130,6 +147,34 @@ export function QuizApp({ onBack }: QuizAppProps) {
         return quizData.sections.reduce((acc, section) => acc + section.questions.length, 0);
     }, [quizData]);
 
+    const chapterOptions = useMemo(() => chapters.map(parseChapterTitle), [chapters]);
+    const currentChapter = useMemo(
+        () => chapterOptions.find(ch => ch.id === currentChapterId),
+        [chapterOptions, currentChapterId]
+    );
+    const bookOptions = useMemo(() => {
+        const seen = new Set<string>();
+        return chapterOptions
+            .map(ch => ch.book)
+            .filter(book => {
+                if (seen.has(book)) return false;
+                seen.add(book);
+                return true;
+            });
+    }, [chapterOptions]);
+    const selectedBook = currentChapter?.book || bookOptions[0] || '';
+    const chaptersInSelectedBook = useMemo(
+        () => chapterOptions.filter(ch => ch.book === selectedBook),
+        [chapterOptions, selectedBook]
+    );
+
+    const handleBookChange = (book: string) => {
+        const firstChapter = chapterOptions.find(ch => ch.book === book);
+        if (firstChapter) {
+            setCurrentChapterId(firstChapter.id);
+        }
+    };
+
     const handleAnswer = (questionId: string, isCorrect: boolean, needsManualCheck: boolean = false, selectedAnswer: string = '') => {
         setAnswers(prev => {
             const newAnswers = {
@@ -207,15 +252,32 @@ export function QuizApp({ onBack }: QuizAppProps) {
                                     {/* Chapter Selection from chapters.json */}
                                     <div className="relative group">
                                         <select
+                                            value={selectedBook}
+                                            onChange={(e) => handleBookChange(e.target.value)}
+                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm min-w-[112px]"
+                                        >
+                                            {bookOptions.length === 0 && (
+                                                <option value="">無冊別資料</option>
+                                            )}
+                                            {bookOptions.map(book => (
+                                                <option key={book} value={book}>{book}</option>
+                                            ))}
+                                        </select>
+                                        <div className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-blue-500 transition-colors">
+                                            <ChevronDown className="h-4 w-4" />
+                                        </div>
+                                    </div>
+                                    <div className="relative group">
+                                        <select
                                             value={currentChapterId}
                                             onChange={(e) => setCurrentChapterId(e.target.value)}
-                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm max-w-[240px]"
+                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm max-w-[300px]"
                                         >
-                                            {chapters.length === 0 && (
+                                            {chaptersInSelectedBook.length === 0 && (
                                                 <option value="">無章節資料</option>
                                             )}
-                                            {chapters.map(ch => (
-                                                <option key={ch.id} value={ch.id}>{ch.title}</option>
+                                            {chaptersInSelectedBook.map(ch => (
+                                                <option key={ch.id} value={ch.id}>{ch.chapterTitle}</option>
                                             ))}
                                         </select>
                                         <div className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-blue-500 transition-colors">
