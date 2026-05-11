@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>點 $(0,\\ -5)$ 位於第三象限。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>$(0,\\ -5)$ 的 $x$ 座標為 0，表示這個點在 $y$ 軸上，<strong>不屬於任何象限</strong>。坐標軸上的點都不屬於四個象限。</p>"
         },
         {
@@ -35,7 +35,7 @@
           "number": 4,
           "type": "true_false",
           "content": "<p>$A(2,\\ 5)$ 與 $B(2,\\ -3)$ 兩點的 $x$ 座標相同，所以 $\\overline{AB}$ 是一條水平線。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>兩點的 $x$ 座標相同表示 $\\overline{AB}$ 為<strong>鉛直線</strong>（平行 $y$ 軸），不是水平線。水平線是兩點的 $y$ 座標相同。</p>"
         },
         {

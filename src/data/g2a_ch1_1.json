@@ -88,7 +88,7 @@
           "id": "g2a_ch1_1_q10",
           "number": 10,
           "type": "single_choice",
-          "content": "<p>速算 $103 \\times 97$。</p><p>A. 9991</p><p>B. 9999</p><p>C. 10000</p><p>D. 9991</p>",
+          "content": "<p>速算 $103 \\times 97$。</p><p>A. 9991</p><p>B. 9999</p><p>C. 10000</p><p>D. 10009</p>",
           "answer": "A",
           "explanation": "<p>$(100+3)(100-3) = 100^2 - 3^2 = 10000 - 9 = 9991$（A）</p>"
         },

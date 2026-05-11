@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>直線 $x = 5$ 是一條水平線。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>$x = 5$ 是<strong>鉛直線</strong>（垂直 $x$ 軸、平行 $y$ 軸），不是水平線。水平線的形式是 $y = k$，平行於 $x$ 軸。</p>"
         },
         {
@@ -43,7 +43,7 @@
           "number": 5,
           "type": "true_false",
           "content": "<p>直線 $y = 3x - 2$ 與直線 $y = 3x + 5$ 互相平行，它們組成的聯立方程式有無限多組解。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>這兩條直線確實互相平行（$x$ 係數相同，常數項不同），但平行線<strong>沒有交點</strong>，所以聯立方程式<strong>無解</strong>，不是無限多組解。無限多組解是兩條直線<strong>重合</strong>的情況。</p>"
         }
       ]

@@ -11,7 +11,7 @@
           "number": 1,
           "type": "true_false",
           "content": "<p>計算 $\\frac{3}{7} + \\frac{2}{7} = \\frac{5}{14}$。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>同分母分數相加時，<strong>分母不變</strong>、分子相加，所以 $\\frac{3}{7} + \\frac{2}{7} = \\frac{3+2}{7} = \\frac{5}{7}$，不是 $\\frac{5}{14}$。分母不能跟著一起加。</p>"
         },
         {
@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>$\\frac{18}{24}$ 是最簡分數。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>$18$ 與 $24$ 的最大公因數是 $6$（不是 $1$），所以可以約分為 $\\frac{18 \\div 6}{24 \\div 6} = \\frac{3}{4}$。最簡分數須分子分母互質，$\\frac{18}{24}$ 不是最簡分數。</p>"
         },
         {

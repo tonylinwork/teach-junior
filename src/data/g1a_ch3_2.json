@@ -11,7 +11,7 @@
           "number": 1,
           "type": "true_false",
           "content": "<p>式子 $x + 4$ 是一個一元一次方程式。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>$x + 4$ 只是一個一元一次<strong>代數式</strong>，沒有等號等於一個定值，所以<strong>不是方程式</strong>。一元一次方程式必須同時滿足：只有一種未知數、最高次為一次、且有等號等於一個定值。</p>"
         },
         {
@@ -27,7 +27,7 @@
           "number": 3,
           "type": "true_false",
           "content": "<p>等量公理是指：等號的兩邊可以同時加、減、乘、除一個<strong>任意</strong>的數，等式仍然成立。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>等量公理在除法時要求除數<strong>不能為 0</strong>，因此「同除一個數」必須限制在<strong>不為 0</strong> 的數，不能說「任意」。</p>"
         },
         {

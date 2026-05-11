@@ -27,7 +27,7 @@
           "number": 3,
           "type": "true_false",
           "content": "<p>用代入消去法解 $\\begin{cases} y = x - 1 \\\\ 2x - 3y = 7 \\end{cases}$ 時，應將「$y = x - 1$」代入第一式，得到一元一次方程式。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>「$y = x - 1$」本身就是第一式，代回自己沒有意義（會得到恆等式無法求解）。要把它代入<strong>第二式</strong> $2x - 3y = 7$，才能消去 $y$ 變成一元一次方程式。</p>"
         },
         {

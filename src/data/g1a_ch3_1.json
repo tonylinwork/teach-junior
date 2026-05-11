@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>代數式 $3x$ 和 $x3$ 寫法都正確，意思相同。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>數字與文字元號相乘時，習慣上<strong>數字寫前、文字寫後</strong>，要寫成 $3x$，不可寫成 $x3$。雖然兩者數值相同，但 $x3$ 不是規範寫法。</p>"
         },
         {
@@ -35,7 +35,7 @@
           "number": 4,
           "type": "true_false",
           "content": "<p>代數式 $x^2 + 3x - 5$ 是一元一次式。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>「一元一次式」要求最高次數為 1，但 $x^2 + 3x - 5$ 的最高次方是 2，所以是一元<strong>二次式</strong>，不是一元一次式。</p>"
         },
         {

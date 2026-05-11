@@ -27,7 +27,7 @@
           "number": 3,
           "type": "true_false",
           "content": "<p>$-\\frac{2}{7}$ 的倒數是 $\\frac{7}{2}$。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>取倒數時<strong>正負號不變</strong>，只把分子分母顛倒。所以 $-\\frac{2}{7}$ 的倒數是 $-\\frac{7}{2}$，不是 $\\frac{7}{2}$。</p>"
         },
         {
@@ -43,7 +43,7 @@
           "number": 5,
           "type": "true_false",
           "content": "<p>計算 $2 + 3 \\times \\frac{1}{6}$ 時，要先做加法再做乘法，答案是 $\\frac{5}{6}$。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>四則運算口訣是「<strong>先乘除、後加減</strong>」，所以要先算 $3 \\times \\frac{1}{6} = \\frac{1}{2}$，再算 $2 + \\frac{1}{2} = \\frac{5}{2}$。正確答案是 $\\frac{5}{2}$，不是 $\\frac{5}{6}$。</p>"
         }
       ]

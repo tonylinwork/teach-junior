@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>$3x + 5y - 7 = 9$ 是一個二元一次<strong>式</strong>。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>它有等號，所以是二元一次<strong>方程式</strong>，不是二元一次式。<br>「式」沒有等號（是代數式），「方程式」有等號。</p>"
         },
         {
@@ -27,7 +27,7 @@
           "number": 3,
           "type": "true_false",
           "content": "<p>一個二元一次方程式若沒有任何條件限制，它只會有一組解。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>一個二元一次方程式（無任何條件限制）會有<strong>無限多組解</strong>。<br>例如 $x + y = 5$：$(0, 5)$、$(1, 4)$、$(2, 3)$、$(3.5, 1.5)$、$(-1, 6)$… 都是解。<br>幾何意義上，二元一次方程式的圖形是一條直線，線上有無限多個點。</p>"
         },
         {
@@ -35,7 +35,7 @@
           "number": 4,
           "type": "true_false",
           "content": "<p>$(x, y) = (3, 5)$ 是方程式 $x + 3y = 12$ 的解。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>代入檢查：$3 + 3 \\times 5 = 3 + 15 = 18 \\neq 12$，不滿足等式。<br>所以 $(3, 5)$ 不是這個方程式的解。</p>"
         },
         {
@@ -43,7 +43,7 @@
           "number": 5,
           "type": "true_false",
           "content": "<p>化簡 $\\frac{x + y - 1}{2} - \\frac{2x - y}{3}$ 時，可以把兩個分母（2 和 3）直接消掉，然後合併分子。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p><strong>不可以</strong>直接把分母消掉。分數型的化簡必須<strong>通分</strong>：找分母的最小公倍數（這裡是 6），把兩個分數通分成同分母後，分子部分要用<strong>括號保留</strong>再分配，最後同類項合併。直接消分母是常見的錯誤。</p>"
         }
       ]

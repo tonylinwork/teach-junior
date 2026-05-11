@@ -27,7 +27,7 @@
           "number": 3,
           "type": "true_false",
           "content": "<p>直方圖分組時，規則是「含上不含下」，例如 $10\\sim 20$ 這組包含 $20$ 但不包含 $10$。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>正確規則是<strong>「含下不含上」</strong>，$10\\sim 20$ 這組包含 $10$，不包含 $20$（最後一組除外）。</p>"
         },
         {

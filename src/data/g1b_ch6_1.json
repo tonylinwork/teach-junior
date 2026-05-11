@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>平行四邊形是線對稱圖形。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>平行四邊形無論橫切、縱切或對角線切，兩邊都不會完全重合，故不是線對稱圖形（它是點對稱圖形）。</p>"
         },
         {
@@ -35,7 +35,7 @@
           "number": 4,
           "type": "true_false",
           "content": "<p>射線 AB 與射線 BA 是同一條射線。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>射線 AB 從 A 出發往 B 方向延伸；射線 BA 從 B 出發往 A 方向延伸，兩者起點不同，是不同的射線。</p>"
         },
         {

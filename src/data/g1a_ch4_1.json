@@ -19,7 +19,7 @@
           "number": 2,
           "type": "true_false",
           "content": "<p>平行四邊形是線對稱圖形。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>平行四邊形<strong>不是</strong>線對稱圖形。無論橫切、直切或沿對角線切，左右兩側都無法完全重合。這是考試常出的陷阱題，老師「強調一百遍」的重點。</p>"
         },
         {
@@ -27,7 +27,7 @@
           "number": 3,
           "type": "true_false",
           "content": "<p>圓形只有 1 條對稱軸。</p>",
-          "answer": "✕",
+          "answer": "╳",
           "explanation": "<p>圓有<strong>無限多條</strong>對稱軸。任何一條通過圓心的直徑都是圓的對稱軸，而圓有無限多條直徑。</p>"
         },
         {
