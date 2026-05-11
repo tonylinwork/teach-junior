@@ -1,0 +1,176 @@
+{
+  "title": "國一上 1-1 數與數線",
+  "summary": "<ul><li><strong>正數／負數／零</strong>：正數大於 0，負數小於 0，零不是正數也不是負數（為中性整數）。自然數（正整數）不含 0，最小的自然數是 1。</li><li><strong>數線三要素</strong>：① 方向（箭頭，向右為正）② 原點（座標為 0 的點）③ 單位長（每格等長）。數線上越靠右的數越大。</li><li><strong>相反數</strong>：與原數到原點距離相等、方向相反，兩數相加恆等於 0。0 的相反數是 0。注意：倒數（兩數相乘 = 1）與相反數不同。</li><li><strong>絕對值</strong>：$|x|$ 表示 $x$ 到原點的距離，恆 $\\geq 0$。$|x| = A$（$A > 0$）時 $x = \\pm A$；若多個絕對值之和 $= 0$，則每一項各自為 0。</li><li><strong>三一律與遞移律</strong>：兩數大小關係只有「$>$、$<$、$=$」三種且恰好滿足一種（三一律）。$A > B$ 且 $B > C \\Rightarrow A > C$（遞移律）。</li><li><strong>數線等分點與整數計數</strong>：將線段 $N$ 等分有 $N-1$ 個等分點。$|x| < N$ 的整數共 $2N - 1$ 個；$|x| \\leq N$ 的整數共 $2N + 1$ 個。數線上兩點距離 $= |大座標 - 小座標|$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch1_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>零是正數。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。零不是正數，也不是負數，是中性整數，介於正數與負數之間。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>數線上越靠右的數越大。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。數線規定向右為正方向，因此數線上越靠右的數值越大。例如 $3$ 在 $-1$ 的右方，故 $3 > -1$。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>一個數與它的相反數相加等於零。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。相反數的定義：兩數互為相反數，則兩數之和為 0。例如 $5 + (-5) = 0$，$(-3) + 3 = 0$。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>任何數的絕對值都大於零。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$|0| = 0$，零的絕對值等於零，不大於零。正確說法是：任何數的絕對值<strong>恆大於或等於零</strong>（$|x| \\geq 0$）。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若 $A > B$ 且 $C > B$，則 $A > C$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。遞移律的條件是「$A > B$ 且 $B > C$」才能得出「$A > C$」。本題只知道 $A$ 和 $C$ 都比 $B$ 大，但無法比較 $A$ 與 $C$ 的大小關係。反例：$A = 2,\\ B = 1,\\ C = 3$，有 $A > B$ 且 $C > B$，但 $A < C$，故無法一概而論。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪個數<strong>不是</strong>負數？</p><p>A. $-3$</p><p>B. $-0.5$</p><p>C. $0$</p><p>D. $-\\dfrac{1}{2}$</p>",
+          "answer": "C",
+          "explanation": "<p>負數是小於 0 的數。選項 A、B、D 都小於 0，均為負數。<strong>選項 C：$0$ 不是正數也不是負數</strong>，故答案為 C。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>以下哪個不是畫數線的必要要素？</p><p>A. 方向（箭頭）</p><p>B. 原點（座標 0 的點）</p><p>C. 刻度的顏色</p><p>D. 單位長（每格等長）</p>",
+          "answer": "C",
+          "explanation": "<p>數線的三要素是：① 方向（箭頭）② 原點 ③ 單位長。<strong>刻度顏色</strong>不影響數線的數學意義，不是必要要素。答案 C。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$-7$ 的相反數是？</p><p>A. $7$</p><p>B. $-7$</p><p>C. $\\dfrac{1}{7}$</p><p>D. $-\\dfrac{1}{7}$</p>",
+          "answer": "A",
+          "explanation": "<p>相反數與原數到原點距離相等、方向相反。$-7$ 在原點左方距離 7，故其相反數在原點右方距離 7，即 $7$。驗證：$(-7) + 7 = 0$。答案 A。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$|-5| = $ ？</p><p>A. $-5$</p><p>B. $5$</p><p>C. $\\pm 5$</p><p>D. $0$</p>",
+          "answer": "B",
+          "explanation": "<p>絕對值是到原點的距離，恆為非負數。$-5$ 到原點的距離是 $5$，故 $|-5| = 5$。答案 B。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>若 $|x| = 4$，則 $x$ 等於？</p><p>A. 只有 $4$</p><p>B. 只有 $-4$</p><p>C. $4$ 或 $-4$</p><p>D. 無解</p>",
+          "answer": "C",
+          "explanation": "<p>$|x| = A$（$A > 0$）時，$x = A$ 或 $x = -A$。故 $|x| = 4$ 表示 $x = 4$ 或 $x = -4$，兩個解均符合。答案 C。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>數線上 $-1$ 到 $5$ 之間（不含兩端點）的整數有幾個？</p><p>A. 4 個</p><p>B. 5 個</p><p>C. 6 個</p><p>D. 7 個</p>",
+          "answer": "B",
+          "explanation": "<p>不含端點 $-1$ 和 $5$，區間內的整數為：$0, 1, 2, 3, 4$，共 <strong>5 個</strong>。答案 B。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>滿足 $|x| < 3$ 的整數共有幾個？</p><p>A. 3 個</p><p>B. 5 個</p><p>C. 6 個</p><p>D. 7 個</p>",
+          "answer": "B",
+          "explanation": "<p>$|x| < 3$ 表示 $-3 < x < 3$，整數有：$-2, -1, 0, 1, 2$，共 <strong>5 個</strong>。<br>公式：$|x| < N$ 的整數個數 $= 2N - 1 = 2 \\times 3 - 1 = 5$。答案 B。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>若 $|A + 3| + |B - 1| = 0$，則 $A + B = $ ？</p><p>A. $-4$</p><p>B. $-2$</p><p>C. $2$</p><p>D. $4$</p>",
+          "answer": "B",
+          "explanation": "<p>絕對值恆 $\\geq 0$，兩絕對值之和等於 0，則每一項各自為 0：<br>$|A + 3| = 0 \\Rightarrow A = -3$<br>$|B - 1| = 0 \\Rightarrow B = 1$<br>$A + B = -3 + 1 = $ <strong>$-2$</strong>。答案 B。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>數線上 $A$ 點座標為 $-3$，$B$ 點座標為 $5$，$A$、$B$ 兩點的距離為？</p><p>A. $2$</p><p>B. $6$</p><p>C. $8$</p><p>D. $10$</p>",
+          "answer": "C",
+          "explanation": "<p>兩點距離 $= |大座標 - 小座標| = |5 - (-3)| = |5 + 3| = $ <strong>$8$</strong>。答案 C。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些數是負數？（多選）</p><p>A. $-1$</p><p>B. $0$</p><p>C. $-0.5$</p><p>D. $-(-3)$</p><p>E. $-100$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：$-1 < 0$，是負數。</p><p><strong>B ╳</strong>：$0$ 不是負數，也不是正數。</p><p><strong>C ○</strong>：$-0.5 < 0$，是負數。</p><p><strong>D ╳</strong>：$-(-3) = 3 > 0$，是正數，不是負數（負負得正）。</p><p><strong>E ○</strong>：$-100 < 0$，是負數。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於絕對值，下列哪些敘述正確？（多選）</p><p>A. $|0| = 0$</p><p>B. 任何數的絕對值都大於 $0$</p><p>C. $|x| = A$（$A > 0$）有兩個解：$x = A$ 或 $x = -A$</p><p>D. $|-5| = -5$</p><p>E. $|3| = 3$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：$0$ 到原點距離為 $0$，故 $|0| = 0$。</p><p><strong>B ╳</strong>：零的絕對值等於 $0$，並非大於 $0$；正確說法是絕對值<strong>恆 $\\geq 0$</strong>。</p><p><strong>C ○</strong>：$|x| = A$（$A > 0$）時，$x = A$ 或 $x = -A$，共兩個解。</p><p><strong>D ╳</strong>：$|-5| = 5$，絕對值不會是負數。</p><p><strong>E ○</strong>：$3 \\geq 0$，$|3| = 3$。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列哪些數對互為相反數？（多選）</p><p>A. $3$ 與 $-3$</p><p>B. $0$ 與 $0$</p><p>C. $\\dfrac{1}{2}$ 與 $-2$</p><p>D. $-7$ 與 $7$</p><p>E. $5$ 與 $\\dfrac{1}{5}$</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：$3 + (-3) = 0$，互為相反數。</p><p><strong>B ○</strong>：$0$ 的相反數是 $0$ 本身，$0 + 0 = 0$。</p><p><strong>C ╳</strong>：$\\dfrac{1}{2} + (-2) = -\\dfrac{3}{2} \\neq 0$，兩者不互為相反數；$\\dfrac{1}{2}$ 與 $-2$ 也不是倒數（互為倒數需相乘等於 1）。</p><p><strong>D ○</strong>：$(-7) + 7 = 0$，互為相反數。</p><p><strong>E ╳</strong>：$5 + \\dfrac{1}{5} \\neq 0$；$5$ 與 $\\dfrac{1}{5}$ 互為倒數（$5 \\times \\dfrac{1}{5} = 1$），不是相反數。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於三一律與遞移律，下列哪些敘述正確？（多選）</p><p>A. 任意兩個數的大小關係只有「$>$」「$<$」「$=$」三種可能</p><p>B. $A \\geq B$ 表示「$A > B$」或「$A = B$」其中一種成立</p><p>C. 兩個不相等的數，必有一大一小</p><p>D. 若 $A > B$ 且 $C > B$，則 $A > C$</p><p>E. 若 $A > B$ 且 $B > C$，則 $A > C$</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：三一律：兩數大小關係恰好且只有「$>$、$<$、$=$」三種。</p><p><strong>B ○</strong>：$\\geq$ 的定義即為「大於或等於」，兩種情況恰有一種成立。</p><p><strong>C ○</strong>：由三一律，不相等則必為大於或小於，即一大一小。</p><p><strong>D ╳</strong>：此不成立。遞移律要求「$A > B$ 且 $B > C$」。若只知 $A > B$ 且 $C > B$，$A$ 與 $C$ 的大小不確定。</p><p><strong>E ○</strong>：遞移律：$A > B$ 且 $B > C \\Rightarrow A > C$。</p>"
+        },
+        {
+          "id": "g1a_ch1_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>關於數線，下列哪些敘述正確？（多選）</p><p>A. 數線上的點與實數一一對應</p><p>B. 數線向右為正方向</p><p>C. 數線上兩點的距離等於大座標減小座標</p><p>D. 數線的單位長必須是 $1$ 公分</p><p>E. $-5$ 在數線上比 $-3$ 更靠左</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：數線上每個點對應唯一一個實數，每個實數對應唯一一個點，兩者一一對應。</p><p><strong>B ○</strong>：數線的規定：向右為正方向，向左為負方向。</p><p><strong>C ○</strong>：兩點距離 $= |大座標 - 小座標| = 大座標 - 小座標$（大減小必為正）。</p><p><strong>D ╳</strong>：單位長只需每格等長即可，並無規定必須是幾公分，可依需要自行設定。</p><p><strong>E ○</strong>：$-5 < -3$，在數線上 $-5$ 在 $-3$ 的左方，故 $-5$ 比 $-3$ 更靠左。</p>"
+        }
+      ]
+    }
+  ]
+}

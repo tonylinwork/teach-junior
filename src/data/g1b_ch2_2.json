@@ -1,0 +1,176 @@
+{
+  "title": "國一下 2-2 直線方程式",
+  "summary": "<ul><li><strong>相異兩點決定直線</strong>：平面上兩個不同的點可以唯一決定一條直線。</li><li><strong>一般直線方程式</strong>：設直線方程式為 $y = ax + b$，將兩點代入聯立方程式求出 $a$、$b$。</li><li><strong>鉛直線</strong>：形如 $x = k$，該直線上所有點的 $x$ 座標相同，「垂直 $x$ 軸」或「平行 $y$ 軸」即為鉛直線，無斜率。</li><li><strong>水平線</strong>：形如 $y = k$，該直線上所有點的 $y$ 座標相同，「垂直 $y$ 軸」或「平行 $x$ 軸」即為水平線，斜率為 0。</li><li><strong>斜直線解法</strong>：觀察兩點的 $x$、$y$ 座標是否相同，若相同直接寫答案；否則假設 $y = ax + b$ 再聯立求解。</li><li><strong>截距</strong>：直線與 $x$ 軸的交點令 $y = 0$ 求出；與 $y$ 軸的交點令 $x = 0$ 求出。</li><li><strong>聯立方程式的圖形意義</strong>：兩條直線的交點就是聯立方程式的解（唯一解）。</li><li><strong>平行線（無解）</strong>：兩直線平行時沒有交點，$x$、$y$ 係數成比例但常數項比例不同。</li><li><strong>重合線（無限多解）</strong>：兩條直線完全重疊，$x$、$y$ 係數與常數項比例完全相同。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1b_ch2_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>平面上任意兩個相異的點可以唯一決定一條直線。</p>",
+          "answer": "○",
+          "explanation": "<p>這是直線的基本性質：平面上兩個不同的點（相異兩點）恰好可以決定唯一一條直線。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>直線 $x = 5$ 是一條水平線。</p>",
+          "answer": "✕",
+          "explanation": "<p>$x = 5$ 是<strong>鉛直線</strong>（垂直 $x$ 軸、平行 $y$ 軸），不是水平線。水平線的形式是 $y = k$，平行於 $x$ 軸。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>若兩點 $A(2,\\ 3)$ 與 $B(7,\\ 3)$ 的 $y$ 座標相同，則通過這兩點的直線方程式為 $y = 3$。</p>",
+          "answer": "○",
+          "explanation": "<p>兩點的 $y$ 座標都是 3，表示這條直線是水平線，方程式直接寫 $y = 3$，不需要聯立計算。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>二元一次聯立方程式如果有唯一解，在座標平面上代表兩條直線恰好有一個交點。</p>",
+          "answer": "○",
+          "explanation": "<p>二元一次聯立方程式的解在圖形上就是兩條直線的交點。唯一解代表兩條直線相交於一點。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>直線 $y = 3x - 2$ 與直線 $y = 3x + 5$ 互相平行，它們組成的聯立方程式有無限多組解。</p>",
+          "answer": "✕",
+          "explanation": "<p>這兩條直線確實互相平行（$x$ 係數相同，常數項不同），但平行線<strong>沒有交點</strong>，所以聯立方程式<strong>無解</strong>，不是無限多組解。無限多組解是兩條直線<strong>重合</strong>的情況。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1b_ch2_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>通過點 $A(-1,\\ 4)$ 且與 $y$ 軸平行的直線方程式為何？</p><p>A. $y = 4$</p><p>B. $x = -1$</p><p>C. $y = -x + 3$</p><p>D. $x = 4$</p>",
+          "answer": "B",
+          "explanation": "<p>與 $y$ 軸平行的直線就是<strong>鉛直線</strong>，形式為 $x = k$。通過點 $A(-1,\\ 4)$，$x$ 座標為 $-1$，所以方程式為 $x = -1$。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>通過點 $(3,\\ -2)$ 且垂直於 $y$ 軸的直線方程式為何？</p><p>A. $x = 3$</p><p>B. $x = -2$</p><p>C. $y = 3$</p><p>D. $y = -2$</p>",
+          "answer": "D",
+          "explanation": "<p>垂直於 $y$ 軸的直線就是<strong>水平線</strong>，形式為 $y = k$。通過點 $(3,\\ -2)$，$y$ 座標為 $-2$，所以方程式為 $y = -2$。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>通過兩點 $A(1,\\ 2)$ 與 $B(3,\\ 8)$ 的直線方程式為何？</p><p>A. $y = 2x$</p><p>B. $y = 3x - 1$</p><p>C. $y = 2x + 1$</p><p>D. $y = 3x + 1$</p>",
+          "answer": "B",
+          "explanation": "<p>設直線方程式為 $y = ax + b$。<br>代入 $A(1,\\ 2)$：$2 = a + b$ ……①<br>代入 $B(3,\\ 8)$：$8 = 3a + b$ ……②<br>②－①：$6 = 2a$，$a = 3$；代回①得 $b = -1$。<br>直線方程式為 $y = 3x - 1$。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>直線 $L$ 通過點 $(0,\\ 2)$ 與點 $(4,\\ 0)$，則直線 $L$ 的方程式為何？</p><p>A. $y = -\\frac{1}{2}x + 2$</p><p>B. $y = \\frac{1}{2}x + 2$</p><p>C. $y = 2x + 2$</p><p>D. $y = -2x + 2$</p>",
+          "answer": "A",
+          "explanation": "<p>設直線方程式為 $y = ax + b$。<br>代入 $(0,\\ 2)$：$b = 2$。<br>代入 $(4,\\ 0)$：$0 = 4a + 2$，$a = -\\frac{1}{2}$。<br>直線方程式為 $y = -\\frac{1}{2}x + 2$。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>直線 $L$ 通過點 $(-2,\\ -6)$ 與點 $(2,\\ 0)$，若點 $(4,\\ m)$ 也在直線 $L$ 上，則 $m$ 的值為何？</p><p>A. $3$</p><p>B. $4$</p><p>C. $5$</p><p>D. $6$</p>",
+          "answer": "A",
+          "explanation": "<p>設直線方程式為 $y = ax + b$。<br>代入 $(-2,\\ -6)$：$-6 = -2a + b$ ……①<br>代入 $(2,\\ 0)$：$0 = 2a + b$ ……②<br>①＋②：$-6 = 2b$，$b = -3$；代回②得 $a = \\frac{3}{2}$。<br>直線方程式為 $y = \\frac{3}{2}x - 3$。<br>代入 $x = 4$：$m = \\frac{3}{2} \\times 4 - 3 = 6 - 3 = 3$。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>聯立方程式 $\\begin{cases} x + y = 5 \\\\ 2x - y = 1 \\end{cases}$ 的解，在座標平面上代表什麼？</p><p>A. 兩條平行直線</p><p>B. 兩條重合直線</p><p>C. 兩條直線的交點 $(2,\\ 3)$</p><p>D. 兩條直線的交點 $(3,\\ 2)$</p>",
+          "answer": "C",
+          "explanation": "<p>兩式相加：$3x = 6$，$x = 2$；代回第一式得 $y = 3$。交點為 $(2,\\ 3)$。在圖形上，唯一解就是兩條直線的交點。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>下列哪組聯立方程式的圖形為兩條<strong>平行線</strong>（無解）？</p><p>A. $\\begin{cases} x + y = 3 \\\\ x - y = 1 \\end{cases}$</p><p>B. $\\begin{cases} 2x + y = 4 \\\\ 4x + 2y = 8 \\end{cases}$</p><p>C. $\\begin{cases} x + 2y = 3 \\\\ x + 2y = 7 \\end{cases}$</p><p>D. $\\begin{cases} 3x - y = 2 \\\\ x + 3y = 6 \\end{cases}$</p>",
+          "answer": "C",
+          "explanation": "<p>選項 C：兩方程式的 $x$ 係數都是 1、$y$ 係數都是 2（相同），但常數項 $3 \\neq 7$，所以是<strong>平行線，無解</strong>。<br>選項 B：後式是前式的 2 倍，完全相同，是<strong>重合線</strong>，有無限多解，不是平行。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>直線 $L$ 通過點 $(0,\\ \\frac{8}{3})$ 且與 $x$ 軸平行，則直線 $L$ 的方程式為何？</p><p>A. $x = 0$</p><p>B. $y = 0$</p><p>C. $x = \\frac{8}{3}$</p><p>D. $y = \\frac{8}{3}$</p>",
+          "answer": "D",
+          "explanation": "<p>與 $x$ 軸平行的直線是<strong>水平線</strong>，形式為 $y = k$。通過 $(0,\\ \\frac{8}{3})$ 表示 $y$ 座標為 $\\frac{8}{3}$，所以方程式為 $y = \\frac{8}{3}$。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>直線 $2x + 3y = 12$ 與 $x$ 軸的交點座標為何？</p><p>A. $(0,\\ 4)$</p><p>B. $(4,\\ 0)$</p><p>C. $(6,\\ 0)$</p><p>D. $(0,\\ 6)$</p>",
+          "answer": "C",
+          "explanation": "<p>與 $x$ 軸的交點令 $y = 0$ 代入：<br>$2x + 3 \\times 0 = 12$，$2x = 12$，$x = 6$。<br>交點座標為 $(6,\\ 0)$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1b_ch2_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於鉛直線與水平線的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 鉛直線的方程式形式為 $x = k$（$k$ 為常數）</p><p>B. 水平線與 $x$ 軸平行</p><p>C. 鉛直線的斜率為 0</p><p>D. 水平線上任意兩點的 $y$ 座標相同</p><p>E. 「垂直 $x$ 軸」的直線就是鉛直線</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：鉛直線形式為 $x = k$，正確。<br><strong>B ○</strong>：水平線平行於 $x$ 軸，正確。<br><strong>C ✕</strong>：水平線的斜率為 0；鉛直線<strong>無斜率</strong>（斜率不存在），不能說斜率是 0，錯誤。<br><strong>D ○</strong>：水平線上所有點 $y$ 座標相同，正確。<br><strong>E ○</strong>：垂直 $x$ 軸的直線就是鉛直線，正確。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>已知兩點 $P(-3,\\ k)$ 與 $Q(5,\\ k)$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 通過 $P$、$Q$ 的直線是水平線</p><p>B. 通過 $P$、$Q$ 的直線方程式為 $y = k$</p><p>C. 通過 $P$、$Q$ 的直線方程式為 $x = k$</p><p>D. 通過 $P$、$Q$ 的直線與 $y$ 軸垂直</p><p>E. 若 $k = -4$，則直線方程式為 $y = -4$</p>",
+          "answer": "ABDE",
+          "explanation": "<p>兩點 $P(-3,\\ k)$ 與 $Q(5,\\ k)$ 的 $y$ 座標相同，所以通過這兩點的直線是水平線。<br><strong>A ○</strong>：水平線，正確。<br><strong>B ○</strong>：水平線方程式為 $y = k$，正確。<br><strong>C ✕</strong>：$x = k$ 是鉛直線；兩點的 $x$ 座標不同（$-3$ 和 $5$），不是鉛直線，錯誤。<br><strong>D ○</strong>：水平線與 $y$ 軸垂直，正確。<br><strong>E ○</strong>：$k = -4$ 時方程式為 $y = -4$，正確。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>關於下列聯立方程式與圖形關係，哪些配對<strong>正確</strong>？（多選）</p><p>A. $\\begin{cases} x + y = 3 \\\\ 2x + 2y = 6 \\end{cases}$ → 兩直線重合，無限多組解</p><p>B. $\\begin{cases} x + y = 3 \\\\ x + y = 5 \\end{cases}$ → 兩直線平行，無解</p><p>C. $\\begin{cases} x + y = 3 \\\\ x - y = 1 \\end{cases}$ → 兩直線相交，唯一解</p><p>D. $\\begin{cases} 3x - 6y = 9 \\\\ x - 2y = 4 \\end{cases}$ → 兩直線相交，唯一解</p><p>E. $\\begin{cases} 2x - 4y = 6 \\\\ x - 2y = 3 \\end{cases}$ → 兩直線重合，無限多組解</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：第二式為第一式 ×2，完全相同，重合，無限多解，正確。<br><strong>B ○</strong>：$x$、$y$ 係數相同（均為 1），常數項 $3 \\neq 5$，平行，無解，正確。<br><strong>C ○</strong>：$x$ 係數比 $1:1$，$y$ 係數比 $1:-1$，不成比例，有唯一解，正確。<br><strong>D ✕</strong>：$3x-6y=9$ 化簡為 $x-2y=3$，與 $x-2y=4$ 係數相同、常數項不同，是<strong>平行線，無解</strong>，錯誤。<br><strong>E ○</strong>：$x-2y=3$ 是 $2x-4y=6$ 除以 2，完全相同，重合，無限多解，正確。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>直線 $L$ 通過點 $(1,\\ 5)$ 且與直線 $y = 2x - 3$ 平行，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 直線 $L$ 的 $x$ 係數（斜率）與 $y = 2x-3$ 相同，都是 2</p><p>B. 直線 $L$ 可假設為 $y = 2x + k$</p><p>C. 將點 $(1,\\ 5)$ 代入 $y = 2x + k$，可得 $k = 3$</p><p>D. 直線 $L$ 的方程式為 $y = 2x + 3$</p><p>E. 直線 $L$ 與 $y = 2x - 3$ 沒有交點</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：平行線斜率（$x$ 係數）相同，都是 2，正確。<br><strong>B ○</strong>：平行線假設為 $y = 2x + k$（只有常數項不同），正確。<br><strong>C ○</strong>：代入 $(1,\\ 5)$：$5 = 2 \\times 1 + k$，$k = 3$，正確。<br><strong>D ○</strong>：直線 $L$ 為 $y = 2x + 3$，正確。<br><strong>E ○</strong>：兩條平行線沒有交點，正確。</p>"
+        },
+        {
+          "id": "g1b_ch2_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>下列哪些點在直線 $y = -x + 4$ 上？（多選）</p><p>A. $(0,\\ 4)$</p><p>B. $(4,\\ 0)$</p><p>C. $(2,\\ 2)$</p><p>D. $(-1,\\ 6)$</p><p>E. $(3,\\ 2)$</p>",
+          "answer": "ABC",
+          "explanation": "<p>將各點代入 $y = -x + 4$ 驗算：<br><strong>A ○</strong>：$-(0)+4 = 4$ ✓（在直線上）<br><strong>B ○</strong>：$-(4)+4 = 0$ ✓（在直線上）<br><strong>C ○</strong>：$-(2)+4 = 2$ ✓（在直線上）<br><strong>D ✕</strong>：$-(-1)+4 = 1+4 = 5 \\neq 6$（不在直線上）<br><strong>E ✕</strong>：$-(3)+4 = 1 \\neq 2$（不在直線上）</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "title": "國一上 2-2 公因數與公倍數",
+  "summary": "<ul><li><strong>公因數與最大公因數（GCD）</strong>：兩數（或多數）共同擁有的因數叫公因數；其中最大的叫最大公因數，符號用<strong>小括號</strong>表示，如 $(a,\\ b)$，也可寫 $\\gcd(a,\\ b)$。</li><li><strong>公倍數與最小公倍數（LCM）</strong>：兩數共同擁有的倍數叫公倍數；其中最小的叫最小公倍數，符號用<strong>中括號</strong>表示，如 $[a,\\ b]$，也可寫 $\\text{lcm}(a,\\ b)$。</li><li><strong>短除法求 GCD</strong>：用共同質因數一直除到下面兩數互質，<strong>左邊的數</strong>連乘起來就是 GCD。</li><li><strong>短除法求 LCM</strong>：除到下面互質為止，<strong>左邊加上最底下</strong>全部連乘起來就是 LCM。三個數要除到任兩個都沒有共同因數才能停。</li><li><strong>標準分解式求 GCD 口訣</strong>：「大家都有取最小，只有一個不要取」。即只取公共質因數，指數取最小。</li><li><strong>標準分解式求 LCM 口訣</strong>：「大家都有取最大，只有一個也要取」。所有出現過的質因數都要，指數取最大。</li><li><strong>互質</strong>：兩數的最大公因數等於 1 即為互質，例如 $(4,\\ 9) = 1$。互質不代表兩數都是質數。</li><li><strong>重要性質</strong>：兩數的最大公因數 × 最小公倍數 = 兩數乘積，即 $\\gcd(a,\\ b) \\times \\text{lcm}(a,\\ b) = a \\times b$。<strong>只適用於兩個數</strong>，三個數不成立。</li><li><strong>應用題關鍵字</strong>：「切、分、割」分配概念 → 求 GCD；「堆、疊、組、拼、相遇、週期」組合循環概念 → 求 LCM。</li><li><strong>餘數型問題</strong>：除某數有餘 → 扣掉餘數使其整除；不足某數 → 補上不足數使其整除。除數要比所有餘數都大。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch2_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>兩數互質代表這兩個數都是質數。</p>",
+          "answer": "✕",
+          "explanation": "<p>互質的定義是<strong>兩數的最大公因數等於 1</strong>，並不代表兩數本身都是質數。例如 $4$ 和 $9$，$(4,\\ 9) = 1$ 互質，但 $4 = 2^2$、$9 = 3^2$ 都不是質數。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>用短除法求最大公因數時，要一直除到下面的兩數互質為止，最大公因數等於<strong>左邊</strong>所有除數的乘積。</p>",
+          "answer": "○",
+          "explanation": "<p>短除法求 GCD 的標準步驟：用兩數共同的因數依序去除，除到下面兩數互質（最大公因數為 1）就停止。<strong>左邊那一行的除數連乘起來</strong>就是最大公因數，不包含下面的兩個數。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>對任意兩個正整數 $a$、$b$，恆有 $\\gcd(a,\\ b) \\times \\text{lcm}(a,\\ b) = a \\times b$。</p>",
+          "answer": "○",
+          "explanation": "<p>這是 GCD 和 LCM 的重要性質：兩數的最大公因數乘以最小公倍數，會等於兩數的乘積。<strong>注意這個性質只適用於兩個數</strong>，三個數不成立。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>已知 $a = 2^3 \\times 3^2 \\times 5$，$b = 2^2 \\times 3^3 \\times 7$，則 $\\gcd(a,\\ b) = 2^3 \\times 3^3$。</p>",
+          "answer": "✕",
+          "explanation": "<p>求最大公因數的口訣是「大家都有取最小，只有一個不要取」。<br>$2$：$a$ 有 $2^3$，$b$ 有 $2^2$，取最小 $2^2$。<br>$3$：$a$ 有 $3^2$，$b$ 有 $3^3$，取最小 $3^2$。<br>$5$、$7$ 只有一個有，不取。<br>所以 $\\gcd(a,\\ b) = 2^2 \\times 3^2 = 36$，不是 $2^3 \\times 3^3$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若一個正整數除 $206$ 餘 $2$，除 $131$ 不足 $5$，則「餘 $2$」表示要把 $206$ 減去 $2$，「不足 $5$」表示要把 $131$ 加上 $5$ 才能被該正整數整除。</p>",
+          "answer": "○",
+          "explanation": "<p>處理餘數型問題的口訣：<strong>有餘扣掉、不足補上</strong>。<br>除 $206$ 餘 $2$：$206 - 2 = 204$ 能被整除。<br>除 $131$ 不足 $5$：$131 + 5 = 136$ 能被整除。<br>所以該正整數是 $204$ 和 $136$ 的公因數。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一個數與 $55$ 互質？</p><p>A. $21$</p><p>B. $30$</p><p>C. $35$</p><p>D. $77$</p>",
+          "answer": "A",
+          "explanation": "<p>互質代表最大公因數等於 1，也就是兩數沒有共同的質因數。<br>$55 = 5 \\times 11$。<br><strong>A.</strong> $21 = 3 \\times 7$，與 $55$ 沒有共同質因數，$(21,\\ 55) = 1$，互質 ✓<br><strong>B.</strong> $30 = 2 \\times 3 \\times 5$，與 $55$ 有共同因數 $5$，不互質。<br><strong>C.</strong> $35 = 5 \\times 7$，有共同因數 $5$，不互質。<br><strong>D.</strong> $77 = 7 \\times 11$，有共同因數 $11$，不互質。<br>答案選 A。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>$24$ 和 $36$ 的最大公因數為何？</p><p>A. $6$</p><p>B. $12$</p><p>C. $18$</p><p>D. $72$</p>",
+          "answer": "B",
+          "explanation": "<p>用短除法：<br>$2\\ |\\ 24,\\ 36 \\to 12,\\ 18$<br>$2\\ |\\ 12,\\ 18 \\to 6,\\ 9$<br>$3\\ |\\ 6,\\ 9 \\to 2,\\ 3$（$2$ 和 $3$ 互質，停止）<br>$\\gcd(24,\\ 36) = 2 \\times 2 \\times 3 = 12$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$60$ 和 $84$ 的最小公倍數為何？</p><p>A. $84$</p><p>B. $120$</p><p>C. $420$</p><p>D. $840$</p>",
+          "answer": "C",
+          "explanation": "<p>用短除法：<br>$2\\ |\\ 60,\\ 84 \\to 30,\\ 42$<br>$2\\ |\\ 30,\\ 42 \\to 15,\\ 21$<br>$3\\ |\\ 15,\\ 21 \\to 5,\\ 7$（$5$ 和 $7$ 互質，停止）<br>LCM = 左邊全部連乘 × 最下面的數 = $2 \\times 2 \\times 3 \\times 5 \\times 7 = 420$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>已知 $a = 2^3 \\times 3 \\times 5^2$，$b = 2^2 \\times 3^2 \\times 5 \\times 7$，則 $\\text{lcm}(a,\\ b)$ 為何？</p><p>A. $2^2 \\times 3 \\times 5$</p><p>B. $2^3 \\times 3^2 \\times 5^2$</p><p>C. $2^3 \\times 3^2 \\times 5^2 \\times 7$</p><p>D. $2^5 \\times 3^3 \\times 5^3 \\times 7$</p>",
+          "answer": "C",
+          "explanation": "<p>求最小公倍數的口訣是「大家都有取最大，只有一個也要取」。<br>$2$：$2^3$ vs $2^2$，取最大 $2^3$。<br>$3$：$3^1$ vs $3^2$，取最大 $3^2$。<br>$5$：$5^2$ vs $5^1$，取最大 $5^2$。<br>$7$：只有 $b$ 有 $7$，也要取 $7$。<br>$\\text{lcm}(a,\\ b) = 2^3 \\times 3^2 \\times 5^2 \\times 7$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>$72$、$120$、$168$ 三數的最大公因數為何？</p><p>A. $8$</p><p>B. $12$</p><p>C. $24$</p><p>D. $48$</p>",
+          "answer": "C",
+          "explanation": "<p>三個數的短除法，要找三個都共同的因數：<br>$2\\ |\\ 72,\\ 120,\\ 168 \\to 36,\\ 60,\\ 84$<br>$2\\ |\\ 36,\\ 60,\\ 84 \\to 18,\\ 30,\\ 42$<br>$2\\ |\\ 18,\\ 30,\\ 42 \\to 9,\\ 15,\\ 21$<br>$3\\ |\\ 9,\\ 15,\\ 21 \\to 3,\\ 5,\\ 7$（三數兩兩互質，停止）<br>GCD = $2 \\times 2 \\times 2 \\times 3 = 24$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>已知兩數的最大公因數為 $23$，最小公倍數為 $195$，其中一數為 $39$，求另一數為何？</p><p>A. $65$</p><p>B. $115$</p><p>C. $195$</p><p>D. $345$</p>",
+          "answer": "B",
+          "explanation": "<p>利用性質：兩數乘積 = GCD × LCM。<br>設另一數為 $y$，則 $39 \\times y = 23 \\times 195$。<br>$y = \\dfrac{23 \\times 195}{39}$。<br>由於 $\\dfrac{195}{39} = 5$，所以 $y = 23 \\times 5 = 115$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>有一塊長 $72$ 公分、寬 $54$ 公分、高 $90$ 公分的長方體木塊，要切成大小相同的正方體小積木而不剩下，則所切出的正方體邊長最大為何？</p><p>A. $6$ 公分</p><p>B. $9$ 公分</p><p>C. $12$ 公分</p><p>D. $18$ 公分</p>",
+          "answer": "D",
+          "explanation": "<p>「切成正方體不剩下」表示正方體邊長同時為 $72$、$54$、$90$ 的因數。要邊長最大，就找最大公因數。<br>$2\\ |\\ 72,\\ 54,\\ 90 \\to 36,\\ 27,\\ 45$<br>$3\\ |\\ 36,\\ 27,\\ 45 \\to 12,\\ 9,\\ 15$<br>$3\\ |\\ 12,\\ 9,\\ 15 \\to 4,\\ 3,\\ 5$（兩兩互質，停止）<br>邊長 = $2 \\times 3 \\times 3 = 18$ 公分。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>承上題，將該長方體切成邊長最大的正方體小積木，共可切出幾塊？</p><p>A. $30$ 塊</p><p>B. $60$ 塊</p><p>C. $90$ 塊</p><p>D. $120$ 塊</p>",
+          "answer": "B",
+          "explanation": "<p>邊長 $18$ 公分，計算各方向能切幾段：<br>長 $72 \\div 18 = 4$ 段<br>寬 $54 \\div 18 = 3$ 段<br>高 $90 \\div 18 = 5$ 段<br>總塊數 = $4 \\times 3 \\times 5 = 60$ 塊。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>長方體火柴盒長 $30$ 公分、寬 $12$ 公分、高 $10$ 公分。若要堆成最小的正方體，需要多少個火柴盒？</p><p>A. $20$ 個</p><p>B. $30$ 個</p><p>C. $60$ 個</p><p>D. $120$ 個</p>",
+          "answer": "C",
+          "explanation": "<p>「堆成正方體」是組合概念，正方體邊長要同時為 $30$、$12$、$10$ 的倍數，且最小。<br>$2\\ |\\ 30,\\ 12,\\ 10 \\to 15,\\ 6,\\ 5$<br>$5\\ |\\ 15,\\ 6,\\ 5 \\to 3,\\ 6,\\ 1$（兩兩之間用）<br>$3\\ |\\ 3,\\ 6,\\ 1 \\to 1,\\ 2,\\ 1$<br>$\\text{lcm}(30,\\ 12,\\ 10) = 2 \\times 5 \\times 3 \\times 1 \\times 2 \\times 1 = 60$ 公分。<br>長方向 $60 \\div 30 = 2$，寬方向 $60 \\div 12 = 5$，高方向 $60 \\div 10 = 6$。<br>總個數 = $2 \\times 5 \\times 6 = 60$ 個。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於互質的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 兩數互質的定義是兩數的最大公因數等於 $1$</p><p>B. 互質的兩數必定都是質數</p><p>C. $(8,\\ 15) = 1$，所以 $8$ 與 $15$ 互質</p><p>D. 用短除法求 GCD 時，除到下面兩數互質就要停止</p><p>E. 兩個相異質數一定互質</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：互質的定義就是 GCD = 1，正確。<br><strong>B ✕</strong>：互質不代表兩數都是質數，例如 $4$ 與 $9$ 互質但都不是質數。<br><strong>C ○</strong>：$8 = 2^3$，$15 = 3 \\times 5$，沒有共同質因數，$(8,\\ 15) = 1$，互質。<br><strong>D ○</strong>：短除法求 GCD 的停止條件就是下面兩數互質。<br><strong>E ○</strong>：兩個不同質數沒有共同因數，必定互質，例如 $(2,\\ 3) = 1$、$(5,\\ 7) = 1$。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>已知 $a = 2^4 \\times 3^2 \\times 5$，$b = 2^2 \\times 3^3 \\times 7$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. $\\gcd(a,\\ b) = 2^2 \\times 3^2$</p><p>B. $\\text{lcm}(a,\\ b) = 2^4 \\times 3^3 \\times 5 \\times 7$</p><p>C. $\\gcd(a,\\ b) = 36$</p><p>D. $a$ 和 $b$ 互質</p><p>E. $\\gcd(a,\\ b) \\times \\text{lcm}(a,\\ b) = a \\times b$</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：求 GCD「大家都有取最小」，$2$ 取 $2^2$、$3$ 取 $3^2$，$5$、$7$ 只有一個有不取，所以 $\\gcd = 2^2 \\times 3^2$。<br><strong>B ○</strong>：求 LCM「大家都有取最大，只有一個也要取」，$2^4 \\times 3^3 \\times 5 \\times 7$ 正確。<br><strong>C ○</strong>：$2^2 \\times 3^2 = 4 \\times 9 = 36$，正確。<br><strong>D ✕</strong>：$\\gcd(a,\\ b) = 36 \\neq 1$，不互質。<br><strong>E ○</strong>：這是兩數的恆等關係，永遠成立。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>一個正整數除 $206$ 餘 $2$、除 $131$ 不足 $5$，下列哪些<strong>可能</strong>是該正整數？（多選）</p><p>A. $4$</p><p>B. $17$</p><p>C. $34$</p><p>D. $68$</p><p>E. $136$</p>",
+          "answer": "BCD",
+          "explanation": "<p>有餘扣掉、不足補上：$206 - 2 = 204$、$131 + 5 = 136$。該正整數同時整除 $204$ 與 $136$，所以是 $(204,\\ 136)$ 的公因數。<br>$\\gcd(204,\\ 136) = 68$，所以該正整數必為 $68$ 的因數：$1,\\ 2,\\ 4,\\ 17,\\ 34,\\ 68$。<br>關鍵限制：<strong>除數必須大於所有餘數</strong>，所以要 $>5$（同時也要 $>2$）。<br><strong>A ✕</strong>：$4$ 不大於 $5$，不行。<br><strong>B ○</strong>：$17 > 5$，且 $17$ 整除 $204$ 和 $136$。<br><strong>C ○</strong>：$34 > 5$，是 $68$ 的因數。<br><strong>D ○</strong>：$68 > 5$，本身就是 GCD。<br><strong>E ✕</strong>：$136$ 不是 $204$ 的因數（$204 \\div 136$ 不整除），錯。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>下列<strong>應用題</strong>中，哪些題目要用「<strong>最大公因數</strong>」來解？（多選）</p><p>A. 把 $36$ 顆糖果與 $48$ 顆巧克力平均分給若干位小朋友，每人分到的糖果一樣多、巧克力也一樣多，最多可分給幾人</p><p>B. 大寶 $8$ 天回家一次、二寶 $12$ 天回家一次，最少幾天後兩人會同一天回家</p><p>C. 將一塊長 $48$ 公分、寬 $36$ 公分的長方形紙板切成大小相同的正方形不剩下，正方形邊長最大為多少</p><p>D. 火柴盒長 $30$、寬 $12$、高 $10$ 公分，至少需要幾個堆成正方體</p><p>E. 兩人分別在原處唱歌，甲每 $4$ 分鐘唱一次，乙每 $6$ 分鐘唱一次，幾分鐘後兩人會再次同時唱歌</p>",
+          "answer": "AC",
+          "explanation": "<p>關鍵字判斷：「切、分、割、分配」→ GCD；「堆、組合、相遇、週期」→ LCM。<br><strong>A ○</strong>：平均分配 → GCD。<br><strong>B ✕</strong>：相遇 / 週期 → LCM。<br><strong>C ○</strong>：切成正方形 → GCD。<br><strong>D ✕</strong>：堆成正方體（組合） → LCM。<br><strong>E ✕</strong>：再次同時唱（週期） → LCM。</p>"
+        },
+        {
+          "id": "g1a_ch2_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>已知兩正整數的最大公因數為 $7$，最小公倍數為 $385$，則下列哪些<strong>可能</strong>是這兩數？（多選）</p><p>A. $7$ 和 $385$</p><p>B. $14$ 和 $192$</p><p>C. $35$ 和 $77$</p><p>D. $49$ 和 $55$</p><p>E. $7$ 和 $55$</p>",
+          "answer": "AC",
+          "explanation": "<p>設兩數為 $7a$、$7b$（其中 $a$、$b$ 互質），則 LCM $= 7ab = 385$，所以 $ab = 55$。<br>$55 = 1 \\times 55$ 或 $5 \\times 11$（兩組都互質）。<br><strong>情況 1</strong>：$a = 1$、$b = 55$，兩數為 $7$ 與 $385$。<br><strong>情況 2</strong>：$a = 5$、$b = 11$，兩數為 $35$ 與 $77$。<br><strong>A ○</strong>：$\\gcd(7,\\ 385) = 7$、$\\text{lcm} = 385$ ✓<br><strong>B ✕</strong>：$14 \\times 192$ 跟 $7 \\times 385$ 不相等，且 $\\gcd(14,\\ 192) \\neq 7$。<br><strong>C ○</strong>：$\\gcd(35,\\ 77) = 7$、$\\text{lcm} = 385$ ✓<br><strong>D ✕</strong>：$\\gcd(49,\\ 55) = 1 \\neq 7$。<br><strong>E ✕</strong>：$7 \\times 55 = 385 \\neq 7 \\times 385$，且 $\\text{lcm}(7,\\ 55) = 385$ 但 $\\gcd = 1$ 不等於 $7$。</p>"
+        }
+      ]
+    }
+  ]
+}

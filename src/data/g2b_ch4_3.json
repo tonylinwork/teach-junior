@@ -1,0 +1,176 @@
+{
+  "title": "國二下 4-3 特殊四邊形與梯形",
+  "summary": "<ul><li><strong>矩形</strong>：四個角皆 90° 的平行四邊形；對角線等長（AC = BD）但不垂直；常搭配畢氏定理求對角線長。</li><li><strong>菱形</strong>：四邊等長的平行四邊形；對角線互相垂直平分（但不等長）；面積 $= \\frac{1}{2} \\times d_1 \\times d_2$（二分之對對）。</li><li><strong>正方形</strong>：四邊等長且四角 90°；同時具備矩形與菱形所有性質；對角線等長且互相垂直平分；對角線將正方形切成 45-45-90°，邊長比 $1:1:\\sqrt{2}$。</li><li><strong>對角線性質對照</strong>：平行四邊形（互相平分，不垂直，不等長）、矩形（互相平分，不垂直，等長）、菱形（互相平分，垂直，不等長）、正方形（互相平分，垂直，等長）、等腰梯形（不互相平分，不垂直，等長）。</li><li><strong>梯形</strong>：一組對邊平行（上底、下底），另一組不平行（兩腰）；中線（連兩腰中點）$= \\frac{\\text{上底}+\\text{下底}}{2}$，平行兩底；面積 $= \\frac{1}{2} \\times (\\text{上底}+\\text{下底}) \\times \\text{高} = \\text{中線} \\times \\text{高}$。</li><li><strong>等腰梯形</strong>：兩腰相等；兩底角（同底）相等；對角線等長（AC = BD）；作高後兩側三角形全等。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch4_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>矩形的對角線等長且互相垂直。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。矩形的對角線<strong>等長</strong>（AC = BD），但不垂直。對角線垂直是<strong>菱形</strong>（或正方形）的特性，矩形不具備。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>菱形的四個角都是直角。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。菱形的定義是<strong>四邊等長</strong>的平行四邊形，角度不一定是 90°。四個角皆為直角的菱形才叫正方形。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>正方形同時具備矩形與菱形的所有性質。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。正方形四邊等長（菱形性質）且四角皆 90°（矩形性質），因此同時擁有矩形與菱形的所有性質，包含對角線等長、互相垂直平分。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>梯形的中線長度等於上底與下底的平均值，即 $\\dfrac{\\text{上底}+\\text{下底}}{2}$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。梯形中線（連兩腰中點的線段）長度 $= \\dfrac{\\text{上底}+\\text{下底}}{2}$，且中線平行兩底。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>等腰梯形的對角線等長。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。等腰梯形（兩腰相等）的兩條對角線等長（AC = BD）。這是等腰梯形的重要性質，可利用全等三角形證明。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch4_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>矩形 ABCD 中，AB = 6，BC = 8，求對角線 AC 的長。</p><p>A. 7</p><p>B. 8</p><p>C. 10</p><p>D. 14</p>",
+          "answer": "C",
+          "explanation": "<p>矩形四角皆 90°，故 △ABC 為直角三角形（∠B = 90°）。<br>由畢氏定理：$AC = \\sqrt{AB^2 + BC^2} = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = $ <strong>10</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>矩形 ABCD 的對角線交於 O，已知 AC = 10，求 OB = ？</p><p>A. 5</p><p>B. 7</p><p>C. 10</p><p>D. 20</p>",
+          "answer": "A",
+          "explanation": "<p>矩形的對角線等長且互相平分，故 BD = AC = 10，OB = $\\dfrac{BD}{2} = \\dfrac{10}{2} = $ <strong>5</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>菱形的兩條對角線分別為 6 和 8，求菱形的面積。</p><p>A. 12</p><p>B. 24</p><p>C. 48</p><p>D. 無法確定</p>",
+          "answer": "B",
+          "explanation": "<p>菱形面積公式：$S = \\dfrac{1}{2} \\times d_1 \\times d_2 = \\dfrac{1}{2} \\times 6 \\times 8 = $ <strong>24</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>菱形的兩條對角線分別為 6 和 8，求菱形的邊長。</p><p>A. 4</p><p>B. 5</p><p>C. 7</p><p>D. 10</p>",
+          "answer": "B",
+          "explanation": "<p>菱形對角線互相垂直平分，故每條對角線各被分成兩半：半對角線為 3 和 4。<br>菱形邊長 $= \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = $ <strong>5</strong>（3-4-5 直角三角形）。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>梯形的上底 = 5，下底 = 11，求中線長。</p><p>A. 6</p><p>B. 8</p><p>C. 9</p><p>D. 16</p>",
+          "answer": "B",
+          "explanation": "<p>梯形中線長 $= \\dfrac{\\text{上底}+\\text{下底}}{2} = \\dfrac{5+11}{2} = \\dfrac{16}{2} = $ <strong>8</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>梯形的中線長 = 9，下底 = 14，求上底 = ？</p><p>A. 4</p><p>B. 5</p><p>C. 7</p><p>D. 9</p>",
+          "answer": "A",
+          "explanation": "<p>由中線公式：中線 $= \\dfrac{\\text{上底}+\\text{下底}}{2}$<br>$9 = \\dfrac{\\text{上底}+14}{2}$<br>上底 $= 9 \\times 2 - 14 = 18 - 14 = $ <strong>4</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>梯形的上底 = 6，下底 = 10，高 = 4，求梯形面積。</p><p>A. 16</p><p>B. 24</p><p>C. 32</p><p>D. 64</p>",
+          "answer": "C",
+          "explanation": "<p>梯形面積公式：$S = \\dfrac{1}{2} \\times (\\text{上底}+\\text{下底}) \\times \\text{高} = \\dfrac{1}{2} \\times (6+10) \\times 4 = \\dfrac{1}{2} \\times 16 \\times 4 = $ <strong>32</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，∠A = 70°，求 ∠B = ？</p><p>A. 70°</p><p>B. 110°</p><p>C. 140°</p><p>D. 無法確定</p>",
+          "answer": "A",
+          "explanation": "<p>等腰梯形兩底角（同底）相等，∠A 與 ∠B 同在下底 AB，故 ∠B = ∠A = <strong>70°</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，對角線 AC = 10。因等腰梯形對角線等長，求 BD = ？</p><p>A. 6</p><p>B. 8</p><p>C. 10</p><p>D. 12</p>",
+          "answer": "C",
+          "explanation": "<p>等腰梯形的兩條對角線等長，故 BD = AC = <strong>10</strong>。答案（C）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch4_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些四邊形的對角線<strong>互相平分</strong>？（多選）</p><p>A. 平行四邊形</p><p>B. 矩形</p><p>C. 菱形</p><p>D. 正方形</p><p>E. 等腰梯形</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：平行四邊形的對角線互相平分，這是平行四邊形的基本性質。</p><p><strong>B ○</strong>：矩形是平行四邊形，繼承對角線互相平分的性質。</p><p><strong>C ○</strong>：菱形是平行四邊形，繼承對角線互相平分的性質。</p><p><strong>D ○</strong>：正方形同時是矩形與菱形，對角線互相平分。</p><p><strong>E ╳</strong>：等腰梯形只有一組對邊平行，<strong>不是</strong>平行四邊形，對角線不互相平分。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些四邊形的對角線<strong>等長</strong>？（多選）</p><p>A. 矩形</p><p>B. 正方形</p><p>C. 菱形</p><p>D. 等腰梯形</p><p>E. 一般平行四邊形</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：矩形對角線等長（AC = BD），這是矩形的重要性質。</p><p><strong>B ○</strong>：正方形同時是矩形，對角線等長。</p><p><strong>C ╳</strong>：一般菱形對角線不等長，兩條對角線通常一長一短。只有正方形（特殊菱形）的對角線才等長。</p><p><strong>D ○</strong>：等腰梯形對角線等長（AC = BD），可由全等三角形證明。</p><p><strong>E ╳</strong>：一般平行四邊形對角線不等長。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>關於菱形，下列哪些敘述正確？（多選）</p><p>A. 四邊等長</p><p>B. 對角線互相垂直平分</p><p>C. 四個角都是直角</p><p>D. 面積 $= \\dfrac{1}{2} \\times$ 兩條對角線之積</p><p>E. 對角線等長</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：菱形定義：四邊等長的平行四邊形。</p><p><strong>B ○</strong>：菱形對角線互相垂直平分，是菱形的重要特徵。</p><p><strong>C ╳</strong>：菱形四角不一定是直角。四邊等長且四角皆 90° 才是正方形。</p><p><strong>D ○</strong>：菱形面積 $= \\dfrac{1}{2} \\times d_1 \\times d_2$，其中 $d_1, d_2$ 為兩條對角線長。</p><p><strong>E ╳</strong>：一般菱形的兩條對角線<strong>不等長</strong>；只有正方形（特殊菱形）的對角線才等長。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於梯形與等腰梯形，下列哪些敘述正確？（多選）</p><p>A. 梯形的中線平行兩底</p><p>B. 梯形的中線長 $= \\dfrac{\\text{上底}+\\text{下底}}{2}$</p><p>C. 等腰梯形的兩底角（同底）相等</p><p>D. 等腰梯形的對角線互相垂直</p><p>E. 等腰梯形的對角線等長</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：梯形中線（連兩腰中點的線段）平行上底與下底。</p><p><strong>B ○</strong>：梯形中線長 $= \\dfrac{\\text{上底}+\\text{下底}}{2}$，為上下底的平均值。</p><p><strong>C ○</strong>：等腰梯形同底的兩個底角相等（如 ∠A = ∠B，∠C = ∠D）。</p><p><strong>D ╳</strong>：等腰梯形的對角線<strong>等長</strong>但不垂直。對角線垂直是菱形（或正方形）的特性。</p><p><strong>E ○</strong>：等腰梯形的兩條對角線等長（AC = BD），可由全等三角形證明。</p>"
+        },
+        {
+          "id": "g2b_ch4_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>矩形 ABCD 中，AB = 8，BC = 6，對角線交於 O，下列哪些計算正確？（多選）</p><p>A. 對角線 AC = 10（利用畢氏定理：$\\sqrt{8^2+6^2}=10$）</p><p>B. OA = OC = 5（對角線互相平分）</p><p>C. OB = OD = 5（對角線等長且互相平分：BD = AC = 10）</p><p>D. AC ⊥ BD（矩形對角線互相垂直）</p><p>E. △AOB ≅ △COD（對頂角相等，OA = OC，OB = OD）</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：矩形 ∠B = 90°，由畢氏定理 $AC = \\sqrt{8^2+6^2} = \\sqrt{64+36} = \\sqrt{100} = 10$。</p><p><strong>B ○</strong>：矩形對角線互相平分，$OA = OC = \\dfrac{AC}{2} = 5$。</p><p><strong>C ○</strong>：矩形對角線等長，BD = AC = 10，故 $OB = OD = \\dfrac{BD}{2} = 5$。</p><p><strong>D ╳</strong>：矩形對角線<strong>不垂直</strong>。對角線垂直是菱形（或正方形）的性質，不是矩形的性質。</p><p><strong>E ○</strong>：在 △AOB 與 △COD 中，OA = OC（對角線平分），OB = OD（對角線平分），∠AOB = ∠COD（對頂角），由 SAS 全等，故 △AOB ≅ △COD。</p>"
+        }
+      ]
+    }
+  ]
+}

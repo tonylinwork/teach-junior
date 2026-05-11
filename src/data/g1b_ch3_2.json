@@ -1,0 +1,176 @@
+{
+  "title": "國一下 3-2 正比與反比",
+  "summary": "<ul><li><strong>正比定義</strong>：若兩數 $x$、$y$ 的商為定值（$\\frac{y}{x} = k$，$k \\neq 0$），則稱 $x$ 與 $y$ 成正比，記作 $y \\propto x$。</li><li><strong>正比關係式</strong>：$y = kx$（$k$ 為不為零的常數）。已知一組 $(x, y)$ 代入即可求 $k$，再求其他值。</li><li><strong>正比假設技巧</strong>：看誰正比於誰。$y$ 正比於 $x^2$ → 假設 $y = kx^2$；$(y+1)$ 正比於 $(x-3)$ → 假設 $y+1 = k(x-3)$。</li><li><strong>常見正比情形</strong>：①圓的周長與半徑（$C = 2\\pi r$，成正比）②正方形周長與邊長（成正比）③固定速率下，距離與時間（成正比）。</li><li><strong>常見非正比情形</strong>：①身高與體重（不一定）②正方形面積與邊長（面積 $= $ 邊長$^2$，非正比）</li><li><strong>反比定義</strong>：若兩數 $x$、$y$ 的積為定值（$xy = k$，$k \\neq 0$），則稱 $x$ 與 $y$ 成反比。</li><li><strong>反比關係式</strong>：$xy = k$，即 $y = \\dfrac{k}{x}$。已知一組 $(x, y)$ 代入即可求 $k$。</li><li><strong>反比假設技巧</strong>：$(x+1)$ 與 $(y-2)$ 成反比 → 假設 $(x+1)(y-2) = k$。</li><li><strong>常見反比情形</strong>：①固定面積長方形的長與寬（成反比）②一件工程人數與天數（前提每人效率相同，成反比）③固定距離下，速率與時間（成反比）。</li><li><strong>常見非反比情形</strong>：白天時間與黑夜時間（和固定 $= 24$，是和固定而非積固定，不成反比）。</li><li><strong>速率與時間的非線性關係</strong>：距離固定，速率與時間成反比。速率增加 $\\frac{1}{n}$（即增加 $\\frac{1}{n}$），時間變成原來的 $\\frac{n}{n+1}$，減少 $\\frac{1}{n+1}$（不是同比例減少）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1b_ch3_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>若兩數 $x$、$y$ 滿足 $\\frac{y}{x} = -3$（$x \\neq 0$），則 $x$ 與 $y$ 成正比。</p>",
+          "answer": "○",
+          "explanation": "<p>正比的定義是兩數的商為<strong>不為零的定值</strong>即可，$k = -3 \\neq 0$，符合定義，故 $x$ 與 $y$ 成正比，關係式為 $y = -3x$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>正方形的邊長與面積成正比。</p>",
+          "answer": "╳",
+          "explanation": "<p>正方形面積 $= $ 邊長$^2$，並非邊長的<strong>一次</strong>倍數。例如邊長從 $2$ 變 $4$（放大 $2$ 倍），面積從 $4$ 變 $16$（放大 $4$ 倍），比例不固定，故<strong>不成正比</strong>。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>圓的周長與半徑成正比。</p>",
+          "answer": "○",
+          "explanation": "<p>圓周長 $C = 2\\pi r$，即 $C = (2\\pi) \\cdot r$，兩者的商固定為 $2\\pi$（不為零），故周長與半徑成正比。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>一天中白天的時間與黑夜的時間成反比。</p>",
+          "answer": "╳",
+          "explanation": "<p>反比要求兩數的<strong>積</strong>為定值。白天 $+$ 黑夜 $= 24$ 小時，是<strong>和</strong>固定，而非積固定，故兩者<strong>不成反比</strong>。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>在距離固定的情況下，行駛的速率與所需時間成反比。</p>",
+          "answer": "○",
+          "explanation": "<p>距離 $= $ 速率 $\\times$ 時間，距離固定時，速率 $\\times$ 時間 $=$ 定值，即兩者的積固定，故速率與時間成反比。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1b_ch3_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪個符號表示「正比」？</p><p>A. $=$</p><p>B. $\\propto$</p><p>C. $\\div$</p><p>D. $\\approx$</p>",
+          "answer": "B",
+          "explanation": "<p>正比的符號是 $\\propto$（讀作「正比於」），形狀像一條魚。例如 $y \\propto x$ 表示 $y$ 正比於 $x$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>已知 $y$ 正比於 $x$，且 $x = 6$ 時 $y = 4$，求 $y$ 與 $x$ 的關係式。</p><p>A. $y = \\dfrac{2}{3}x$</p><p>B. $y = \\dfrac{3}{2}x$</p><p>C. $y = 6x$</p><p>D. $y = 4x$</p>",
+          "answer": "A",
+          "explanation": "<p>設 $y = kx$，代入 $x=6,\\ y=4$：$4 = 6k$，得 $k = \\dfrac{4}{6} = \\dfrac{2}{3}$。<br>故關係式為 $y = \\dfrac{2}{3}x$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>已知 $y$ 正比於 $x^2$，且 $x = 1$ 時 $y = 8$，求 $x = 3$ 時 $y$ 的值。</p><p>A. $24$</p><p>B. $48$</p><p>C. $72$</p><p>D. $64$</p>",
+          "answer": "C",
+          "explanation": "<p>設 $y = kx^2$，代入 $x=1,\\ y=8$：$8 = k \\cdot 1^2$，得 $k = 8$。<br>故 $y = 8x^2$，當 $x=3$：$y = 8 \\times 9 = 72$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>若 $(y+1)$ 正比於 $(x-3)$，且 $x = 5$ 時 $y = 3$，則當 $x = 7$ 時，$y = ?$</p><p>A. $5$</p><p>B. $7$</p><p>C. $9$</p><p>D. $11$</p>",
+          "answer": "B",
+          "explanation": "<p>設 $y+1 = k(x-3)$，代入 $x=5,\\ y=3$：$4 = k(2)$，得 $k = 2$。<br>當 $x=7$：$y+1 = 2(7-3) = 8$，故 $y = 7$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>已知 $x$ 與 $y$ 成反比，且 $x = 3$ 時 $y = 2$，求 $x = 6$ 時 $y$ 的值。</p><p>A. $4$</p><p>B. $2$</p><p>C. $1$</p><p>D. $3$</p>",
+          "answer": "C",
+          "explanation": "<p>反比關係：$xy = k$。代入 $x=3,\\ y=2$：$k = 6$。<br>當 $x=6$：$6y = 6$，故 $y = 1$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>一件工程，若 $6$ 人合作需 $10$ 天完工。若改由 $4$ 人合作，需幾天完工？（假設每人每天工作量相同）</p><p>A. $12$ 天</p><p>B. $15$ 天</p><p>C. $18$ 天</p><p>D. $20$ 天</p>",
+          "answer": "B",
+          "explanation": "<p>人數與天數成反比，故人數 $\\times$ 天數 $=$ 定值。<br>$6 \\times 10 = 60$。<br>$4 \\times$ 天數 $= 60$，天數 $= 15$ 天。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>長方形面積固定為 $24$，若長為 $l$、寬為 $w$，以下哪個式子正確描述 $l$ 與 $w$ 的關係？</p><p>A. $l + w = 24$</p><p>B. $l - w = 24$</p><p>C. $lw = 24$</p><p>D. $\\dfrac{l}{w} = 24$</p>",
+          "answer": "C",
+          "explanation": "<p>長方形面積 $= l \\times w$，面積固定為 $24$，故 $lw = 24$，即 $l$ 與 $w$ 的積為定值，兩者成反比。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>已知 $4a + 7b$ 正比於 $3a - 2b$，且當 $a = 17,\\ b = 11$ 時可求出比例常數 $k$。求 $k$ 的值。</p><p>A. $3$</p><p>B. $4$</p><p>C. $5$</p><p>D. $6$</p>",
+          "answer": "C",
+          "explanation": "<p>設 $4a + 7b = k(3a - 2b)$，代入 $a=17,\\ b=11$：<br>左式：$4(17) + 7(11) = 68 + 77 = 145$<br>右式：$k(3(17) - 2(11)) = k(51 - 22) = 29k$<br>故 $145 = 29k$，$k = 5$。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>甲、乙兩地距離固定，去程以每小時 $70$ 公里行駛需 $2$ 小時，回程速率提升 $20\\%$，回程需幾小時？</p><p>A. $\\dfrac{5}{3}$ 小時</p><p>B. $\\dfrac{5}{4}$ 小時</p><p>C. $\\dfrac{5}{6}$ 小時</p><p>D. $\\dfrac{3}{2}$ 小時</p>",
+          "answer": "A",
+          "explanation": "<p>距離 $= 70 \\times 2 = 140$ 公里。<br>回程速率 $= 70 \\times 1.2 = 84$ 公里/小時。<br>回程時間 $= \\dfrac{140}{84} = \\dfrac{5}{3}$ 小時。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1b_ch3_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些情形中，兩個量成正比？（多選）</p><p>A. 圓的半徑與周長</p><p>B. 正方形的邊長與面積</p><p>C. 正方形的邊長與周長</p><p>D. 固定速率下，行駛時間與距離</p><p>E. 人的年齡與智商</p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：$C = 2\\pi r$，周長與半徑的比固定為 $2\\pi$，成正比。</p><p><strong>B ╳</strong>：面積 $= $ 邊長$^2$，不是邊長的固定倍數，不成正比。</p><p><strong>C ○</strong>：周長 $= 4 \\times$ 邊長，比值固定為 $4$，成正比。</p><p><strong>D ○</strong>：速率固定時，距離 $= $ 速率 $\\times$ 時間，距離與時間的比等於速率（定值），成正比。</p><p><strong>E ╳</strong>：年齡與智商沒有固定倍數關係，不成正比。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些情形中，兩個量成反比？（多選）</p><p>A. 一天中白天時間與黑夜時間</p><p>B. 面積固定的長方形，其長與寬</p><p>C. 一件工程中，工人人數與完工天數（每人效率相同）</p><p>D. 固定距離下，行駛速率與時間</p><p>E. 身高與體重</p>",
+          "answer": "BCD",
+          "explanation": "<p><strong>A ╳</strong>：白天 $+$ 黑夜 $= 24$（和固定），不是積固定，不成反比。</p><p><strong>B ○</strong>：長 $\\times$ 寬 $=$ 面積（定值），積固定，成反比。</p><p><strong>C ○</strong>：人數 $\\times$ 天數 $=$ 總工量（定值），成反比。</p><p><strong>D ○</strong>：速率 $\\times$ 時間 $=$ 距離（定值），成反比。</p><p><strong>E ╳</strong>：身高與體重沒有固定乘積關係，不成反比。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下表列出 $x$ 與 $y$ 的對應值，下列哪些敘述正確？（多選）</p><p>$$\\begin{array}{c|cccc} x & -1 & -\\frac{4}{3} & -\\frac{5}{3} & -2 \\\\ \\hline y & 3 & 4 & 5 & 6 \\end{array}$$</p><p>A. $x$ 與 $y$ 成正比</p><p>B. 每組 $y \\div x$ 的值均為 $-3$</p><p>C. 關係式為 $y = -3x$</p><p>D. $x$ 與 $y$ 成反比</p><p>E. 當 $x = -3$ 時，$y = 9$</p>",
+          "answer": "BCE",
+          "explanation": "<p><strong>A ╳</strong>：成正比沒錯，但表述方式要配合驗算後才能確定，A 本身不完整；實際上成正比（見 B、C 說明）。</p><p><strong>B ○</strong>：$3 \\div (-1) = -3$；$4 \\div (-\\frac{4}{3}) = 4 \\times (-\\frac{3}{4}) = -3$；$5 \\div (-\\frac{5}{3}) = -3$；$6 \\div (-2) = -3$，商均為 $-3$。</p><p><strong>C ○</strong>：$k = -3$，故 $y = -3x$。</p><p><strong>D ╳</strong>：積各組均不相同（$(-1)(3)=-3$，$(-2)(6)=-12$），不成反比。</p><p><strong>E ○</strong>：代入 $x=-3$：$y = -3 \\times (-3) = 9$，正確。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>已知 $y$ 與 $x$ 成反比，且 $x = 3$ 時 $y = 2$，下列哪些敘述正確？（多選）</p><p>A. 反比關係式為 $xy = 6$</p><p>B. 當 $x = -2$ 時，$y = -3$</p><p>C. 當 $y = 12$ 時，$x = 2$</p><p>D. 此反比圖形（雙曲線）分布在第一、三象限</p><p>E. 將 $x$ 擴大為 $3$ 倍時，$y$ 縮小為原來的 $\\dfrac{1}{3}$</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：$k = 3 \\times 2 = 6$，關係式 $xy = 6$，正確。</p><p><strong>B ○</strong>：$(-2) \\cdot y = 6$，$y = -3$，正確。</p><p><strong>C ╳</strong>：$x \\cdot 12 = 6$，$x = \\dfrac{1}{2}$，不是 $2$，錯誤。</p><p><strong>D ○</strong>：$k = 6 > 0$，雙曲線在第一象限（$x>0, y>0$）與第三象限（$x<0, y<0$），正確。</p><p><strong>E ○</strong>：反比關係下，$x$ 乘以 $3$ 倍，$y$ 就變成 $\\dfrac{1}{3}$，正確。</p>"
+        },
+        {
+          "id": "g1b_ch3_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>已知 $y$ 正比於 $(x+1)^2$，且 $x = 1$ 時 $y = 8$，下列哪些敘述正確？（多選）</p><p>A. 比例常數 $k = 2$</p><p>B. 關係式為 $y = 2(x+1)^2$</p><p>C. 當 $x = 2$ 時，$y = 18$</p><p>D. 當 $y = 50$ 時，$x = 4$ 或 $x = -6$</p><p>E. 當 $x = 0$ 時，$y = 4$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：設 $y = k(x+1)^2$，代入 $x=1,\\ y=8$：$8 = k(1+1)^2 = 4k$，得 $k = 2$，正確。</p><p><strong>B ○</strong>：關係式為 $y = 2(x+1)^2$，正確。</p><p><strong>C ○</strong>：$x=2$ 時，$y = 2(2+1)^2 = 2 \\times 9 = 18$，正確。</p><p><strong>D ○</strong>：$50 = 2(x+1)^2$，$(x+1)^2 = 25$，$x+1 = \\pm 5$，故 $x = 4$ 或 $x = -6$，正確。</p><p><strong>E ╳</strong>：$x=0$ 時，$y = 2(0+1)^2 = 2 \\times 1 = 2$，不是 $4$，錯誤。</p>"
+        }
+      ]
+    }
+  ]
+}

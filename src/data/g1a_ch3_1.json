@@ -1,0 +1,176 @@
+{
+  "title": "國一上 3-1 以符號列式與一元一次式化簡",
+  "summary": "<ul><li><strong>代數式</strong>：用文字符號（$x$、$y$、$a$、$b$ 等）代表未知數，並由這些符號與數字組成的式子稱為代數式。</li><li><strong>列式技巧</strong>：「比 $x$ 多 5」寫成 $x+5$、「比 $x$ 少 5」寫成 $x-5$、「$x$ 的 3 倍」寫成 $3x$、「$x$ 的一半」寫成 $\\frac{1}{2}x$。</li><li><strong>乘號省略</strong>：數字乘以文字元號時，數字寫前、文字寫後，乘號可省略（$3 \\times x = 3x$），不可寫成 $x3$。</li><li><strong>分數型寫法</strong>：$\\frac{1}{2}x$ 也可寫成 $\\frac{x}{2}$，文字元號可寫在分子或旁邊，但不可寫在分母（寫在分母代表負一次方，意義不同）。</li><li><strong>一元一次式</strong>：式子中只含一個文字元號（一元）且最高次數為 1（一次），如 $3x-6$、$-7x-4$。</li><li><strong>項與係數</strong>：以 $3x-6$ 為例，$3x$ 是一次項、$3$ 是 $x$ 的係數，$-6$ 是常數項（負號要連同數字一起看）。</li><li><strong>同類項</strong>：所含文字元號相同的項才能合併；含 $x$ 的跟含 $x$ 的合併，常數項跟常數項合併。</li><li><strong>去括號</strong>：利用分配律把括號前的數字（含正負號）乘進括號內每一項；遇到負號乘進去時，括號內每一項都要變號。</li><li><strong>化簡步驟</strong>：先去括號，再合併同類項；分數型則先通分（找最小公倍數），再化簡。</li><li><strong>代入求值</strong>：把指定的值代入代數式中對應的文字元號計算；負數代入要加括號，注意 $-x^2$ 與 $(-x)^2$ 不同。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch3_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>「比 $x$ 多 5」的代數式可以寫成 $x+5$。</p>",
+          "answer": "○",
+          "explanation": "<p>「比 $x$ 多 5」表示在 $x$ 上再加 5，所以代數式為 $x+5$。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>代數式 $3x$ 和 $x3$ 寫法都正確，意思相同。</p>",
+          "answer": "✕",
+          "explanation": "<p>數字與文字元號相乘時，習慣上<strong>數字寫前、文字寫後</strong>，要寫成 $3x$，不可寫成 $x3$。雖然兩者數值相同，但 $x3$ 不是規範寫法。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$\\frac{1}{2}x$ 可以寫成 $\\frac{x}{2}$，這兩個式子相等。</p>",
+          "answer": "○",
+          "explanation": "<p>$\\frac{1}{2}x = \\frac{1}{2} \\times x = \\frac{x}{2}$，文字元號可以寫在分子或旁邊，兩種寫法表示同一個值。但<strong>不能</strong>寫成 $\\frac{1}{2x}$（那是把 $x$ 放到分母，意義就不同了）。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>代數式 $x^2 + 3x - 5$ 是一元一次式。</p>",
+          "answer": "✕",
+          "explanation": "<p>「一元一次式」要求最高次數為 1，但 $x^2 + 3x - 5$ 的最高次方是 2，所以是一元<strong>二次式</strong>，不是一元一次式。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>化簡 $2x - 5 + 3x + 8$ 得 $5x + 3$。</p>",
+          "answer": "○",
+          "explanation": "<p>合併同類項：一次項 $2x + 3x = 5x$；常數項 $-5 + 8 = 3$。化簡結果為 $5x + 3$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch3_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>小明的月考分數比小華多 10 分。若小華考 $x$ 分，則小明考幾分？</p><p>A. $x - 10$</p><p>B. $10 - x$</p><p>C. $x + 10$</p><p>D. $10x$</p>",
+          "answer": "C",
+          "explanation": "<p>「比小華多 10 分」表示在小華的分數上加 10。小華考 $x$ 分，所以小明考 $x + 10$ 分。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>下列關於 $-7x - 4$ 的敘述，何者<strong>正確</strong>？</p><p>A. 一次項係數為 $7$，常數項為 $4$</p><p>B. 一次項係數為 $-7$，常數項為 $-4$</p><p>C. 一次項係數為 $-7$，常數項為 $4$</p><p>D. 一次項係數為 $7$，常數項為 $-4$</p>",
+          "answer": "B",
+          "explanation": "<p>$-7x - 4$ 中，$x$ 前面的數字（含符號）是 $-7$，所以一次項係數為 $-7$；常數項是 $-4$（負號要連同數字一起看）。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>大寶與小寶共有 180 元，若小寶有 $a$ 元，則大寶有幾元？</p><p>A. $180 + a$</p><p>B. $180 - a$</p><p>C. $a - 180$</p><p>D. $180a$</p>",
+          "answer": "B",
+          "explanation": "<p>兩人合計 180 元，扣掉小寶的 $a$ 元，剩下就是大寶的錢，所以大寶有 $180 - a$ 元。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>一杯珍奶 15 元，莉莉用 1000 元買了 $a$ 杯（夠付），找回的金額為何？</p><p>A. $1000 - 15a$</p><p>B. $1000 - 15 - a$</p><p>C. $15a - 1000$</p><p>D. $1000a - 15$</p>",
+          "answer": "A",
+          "explanation": "<p>花掉的錢是 $15 \\times a = 15a$ 元，找回的錢 = 給的錢 $-$ 花掉的錢 $= 1000 - 15a$ 元。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>已知 5 年後是 $a$ 歲，則 10 年後是幾歲？</p><p>A. $a + 10$</p><p>B. $a + 5$</p><p>C. $a - 5$</p><p>D. $a - 10$</p>",
+          "answer": "B",
+          "explanation": "<p>5 年後是 $a$ 歲 → 今年是 $a - 5$ 歲 → 10 年後（再加 10 年）是 $a - 5 + 10 = a + 5$ 歲。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>化簡 $3(2x - 5) - 4(2x + 2)$ 的結果為何？</p><p>A. $-2x - 23$</p><p>B. $-2x - 7$</p><p>C. $2x - 23$</p><p>D. $14x - 23$</p>",
+          "answer": "A",
+          "explanation": "<p>先去括號：$3(2x-5) = 6x - 15$；$-4(2x+2) = -8x - 8$。<br>合併同類項：$6x - 8x = -2x$；$-15 - 8 = -23$。<br>結果為 $-2x - 23$。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>當 $x = -3$ 時，代數式 $\\frac{1}{12}x + 10$ 的值為何？</p><p>A. $10\\frac{1}{4}$</p><p>B. $9\\frac{3}{4}$</p><p>C. $-9\\frac{3}{4}$</p><p>D. $\\frac{37}{4}$</p>",
+          "answer": "B",
+          "explanation": "<p>代入 $x = -3$：$\\frac{1}{12} \\times (-3) + 10 = -\\frac{1}{4} + 10 = 9\\frac{3}{4}$。<br>注意 D 選項 $\\frac{37}{4}$ 化成帶分數是 $9\\frac{1}{4}$，並非正確答案；正解化成假分數為 $\\frac{39}{4}$。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>當 $x = -1$ 時，下列哪一個式子的值為 $2$？</p><p>A. $-x^2$</p><p>B. $2x^2$</p><p>C. $(2x)^2$</p><p>D. $-2x^2$</p>",
+          "answer": "B",
+          "explanation": "<p>代入 $x = -1$：<br>A. $-(-1)^2 = -1$<br>B. $2 \\times (-1)^2 = 2 \\times 1 = 2$ ✓<br>C. $(2 \\times -1)^2 = (-2)^2 = 4$<br>D. $-2 \\times (-1)^2 = -2$<br>所以選 B。注意 $2x^2$ 是先平方再乘 2，而 $(2x)^2$ 是先乘 2 再平方，結果不同。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>化簡 $\\frac{5x - 7}{2} - \\frac{4x - 1}{3}$ 的結果為何？</p><p>A. $\\frac{7x - 19}{6}$</p><p>B. $\\frac{7x - 23}{6}$</p><p>C. $\\frac{x - 8}{6}$</p><p>D. $\\frac{7x + 19}{6}$</p>",
+          "answer": "A",
+          "explanation": "<p>通分為 6：$\\frac{3(5x-7) - 2(4x-1)}{6} = \\frac{15x - 21 - 8x + 2}{6} = \\frac{7x - 19}{6}$。<br>特別注意第二個括號前的負號，乘進去時 $-1$ 變成 $+2$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch3_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些式子是<strong>一元一次式</strong>？（多選）</p><p>A. $3x - 6$</p><p>B. $x^2 + 5$</p><p>C. $\\frac{1}{2}a$</p><p>D. $\\frac{3}{x} + 2$</p><p>E. $-7y + 4$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：一個未知數 $x$，最高次為 1，是一元一次式。<br><strong>B ✕</strong>：最高次為 2，是一元二次式。<br><strong>C ○</strong>：$\\frac{1}{2}a = \\frac{a}{2}$，文字元號在分子，最高次為 1，是一元一次式。<br><strong>D ✕</strong>：$\\frac{3}{x} = 3x^{-1}$，$x$ 在分母代表 $-1$ 次方，不是一元一次式。<br><strong>E ○</strong>：一個未知數 $y$，最高次為 1，是一元一次式。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於代數式 $-5x + 8$，下列哪些敘述<strong>正確</strong>？（多選）</p><p>A. 是一元一次式</p><p>B. 一次項為 $-5x$</p><p>C. 一次項係數為 $5$</p><p>D. 常數項為 $8$</p><p>E. 共有兩項</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：只有一個未知數 $x$，最高次為 1，正確。<br><strong>B ○</strong>：含 $x$ 的項是 $-5x$，正確。<br><strong>C ✕</strong>：一次項係數要連同負號，是 $-5$，不是 $5$。<br><strong>D ○</strong>：不含 $x$ 的部分是 $+8$，常數項為 $8$，正確。<br><strong>E ○</strong>：$-5x$ 與 $+8$ 共兩項，正確。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列代數式與文字敘述的配對，哪些<strong>正確</strong>？（多選）</p><p>A. $x$ 的 3 倍 → $3x$</p><p>B. 比 $x$ 少 5 → $5 - x$</p><p>C. $x$ 的一半 → $\\frac{1}{2}x$</p><p>D. $x$ 與 $y$ 的和的 2 倍 → $2(x+y)$</p><p>E. $x$ 的 2 倍再加 3 → $2x + 3$</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：$x$ 的 3 倍就是 $3 \\times x = 3x$，正確。<br><strong>B ✕</strong>：「比 $x$ 少 5」要寫成 $x - 5$（從 $x$ 減去 5），不是 $5 - x$。<br><strong>C ○</strong>：$x$ 的一半就是 $\\frac{1}{2}x$，正確。<br><strong>D ○</strong>：「和的 2 倍」要加括號再乘 2，$2(x+y)$ 正確。<br><strong>E ○</strong>：先 2 倍是 $2x$，再加 3 是 $2x+3$，正確。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>化簡 $2(3x - 7) - 4(2x + 2)$，下列哪些步驟或結果<strong>正確</strong>？（多選）</p><p>A. 第一步去括號：$6x - 14 - 8x - 8$</p><p>B. 一次項合併：$6x - 8x = -2x$</p><p>C. 常數項合併：$-14 - 8 = -22$</p><p>D. 化簡結果為 $-2x - 22$</p><p>E. 化簡結果為 $-2x + 6$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：$2 \\times 3x = 6x$、$2 \\times (-7) = -14$、$-4 \\times 2x = -8x$、$-4 \\times 2 = -8$，正確。<br><strong>B ○</strong>：$6x - 8x = -2x$，正確。<br><strong>C ○</strong>：$-14 - 8 = -22$，正確。<br><strong>D ○</strong>：化簡結果為 $-2x - 22$，正確。<br><strong>E ✕</strong>：算錯了，正確答案不是 $-2x + 6$。</p>"
+        },
+        {
+          "id": "g1a_ch3_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>當 $a = -4$、$b = -2$ 時，下列哪些代數式的值<strong>等於 $1$</strong>？（多選）</p><p>A. $1 + 2b - ab$</p><p>B. $a + b + 7$</p><p>C. $-a - b - 5$</p><p>D. $ab - 7$</p><p>E. $a - 2b - 1$</p>",
+          "answer": "BCD",
+          "explanation": "<p>逐一代入 $a = -4$、$b = -2$：<br><strong>A ✕</strong>：$1 + 2 \\times (-2) - (-4) \\times (-2) = 1 - 4 - 8 = -11$。<br><strong>B ○</strong>：$-4 + (-2) + 7 = 1$。<br><strong>C ○</strong>：$-(-4) - (-2) - 5 = 4 + 2 - 5 = 1$。<br><strong>D ○</strong>：$(-4) \\times (-2) - 7 = 8 - 7 = 1$。<br><strong>E ✕</strong>：$-4 - 2 \\times (-2) - 1 = -4 + 4 - 1 = -1$。<br>負數代入時務必加括號，避免符號計算錯誤。</p>"
+        }
+      ]
+    }
+  ]
+}

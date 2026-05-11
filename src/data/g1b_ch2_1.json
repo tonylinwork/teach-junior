@@ -1,0 +1,176 @@
+{
+  "title": "國一下 2-1 象限與直角坐標平面",
+  "summary": "<ul><li><strong>直角坐標平面</strong>：由兩條互相垂直的數線組成，水平的稱為 $x$ 軸、鉛直的稱為 $y$ 軸，兩軸交點為原點 $O$。</li><li><strong>有序對</strong>：平面上每個點以 $(x,\\ y)$ 表示，先寫 $x$ 座標、後寫 $y$ 座標，順序不可交換。</li><li><strong>四象限（逆時針）</strong>：第一象限 $x>0,\\ y>0$；第二象限 $x<0,\\ y>0$；第三象限 $x<0,\\ y<0$；第四象限 $x>0,\\ y<0$。</li><li><strong>坐標軸上的點不屬於任何象限</strong>：$x$ 軸上的點 $y$ 座標為 0；$y$ 軸上的點 $x$ 座標為 0。</li><li><strong>點到坐標軸的距離</strong>：點 $(a,\\ b)$ 到 $x$ 軸的距離為 $|b|$，到 $y$ 軸的距離為 $|a|$。</li><li><strong>兩點之間的水平／鉛直距離</strong>：$A(x_1,\\ y_1)$、$B(x_2,\\ y_2)$ 若在水平線上（$y_1=y_2$）距離為 $|x_1-x_2|$；若在鉛直線上（$x_1=x_2$）距離為 $|y_1-y_2|$。</li><li><strong>水平線與鉛直線</strong>：同一條水平線上各點 $y$ 座標相同；同一條鉛直線上各點 $x$ 座標相同。</li><li><strong>對稱點</strong>：點 $(a,\\ b)$ 對 $x$ 軸對稱為 $(a,\\ -b)$；對 $y$ 軸對稱為 $(-a,\\ b)$；對原點對稱為 $(-a,\\ -b)$。</li><li><strong>點的移動</strong>：向右移為 $x$ 加、向左移為 $x$ 減；向上移為 $y$ 加、向下移為 $y$ 減。</li><li><strong>多邊形面積</strong>：利用坐標求邊長，再以底乘高、填補法或切割法計算。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1b_ch2_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>在直角坐標平面上，第一象限到第四象限的排列順序是逆時針方向。</p>",
+          "answer": "○",
+          "explanation": "<p>四個象限的編號從右上方的第一象限開始，依逆時針方向依序為第二、第三、第四象限。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>點 $(0,\\ -5)$ 位於第三象限。</p>",
+          "answer": "✕",
+          "explanation": "<p>$(0,\\ -5)$ 的 $x$ 座標為 0，表示這個點在 $y$ 軸上，<strong>不屬於任何象限</strong>。坐標軸上的點都不屬於四個象限。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>點 $A(-4,\\ 3)$ 到 $x$ 軸的距離為 3。</p>",
+          "answer": "○",
+          "explanation": "<p>點到 $x$ 軸的距離看 $y$ 座標的絕對值，$|3| = 3$，正確。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$A(2,\\ 5)$ 與 $B(2,\\ -3)$ 兩點的 $x$ 座標相同，所以 $\\overline{AB}$ 是一條水平線。</p>",
+          "answer": "✕",
+          "explanation": "<p>兩點的 $x$ 座標相同表示 $\\overline{AB}$ 為<strong>鉛直線</strong>（平行 $y$ 軸），不是水平線。水平線是兩點的 $y$ 座標相同。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>點 $P(3,\\ -7)$ 對原點對稱的點為 $(-3,\\ 7)$。</p>",
+          "answer": "○",
+          "explanation": "<p>對原點對稱時，$x$ 和 $y$ 座標都變號，$(3,\\ -7)\\to(-3,\\ 7)$，正確。也可以理解為原點是兩點的中點，兩座標相加皆為 0。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1b_ch2_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一個點位於第二象限？</p><p>A. $(3,\\ 5)$</p><p>B. $(-2,\\ 4)$</p><p>C. $(-1,\\ -6)$</p><p>D. $(7,\\ -3)$</p>",
+          "answer": "B",
+          "explanation": "<p>第二象限為「負正」，即 $x<0$ 且 $y>0$。<br>A：正正→第一象限。<br>B：負正→<strong>第二象限</strong>。<br>C：負負→第三象限。<br>D：正負→第四象限。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>已知 $A(a,\\ b)$ 在第四象限，下列敘述何者正確？</p><p>A. $a > 0,\\ b > 0$</p><p>B. $a < 0,\\ b > 0$</p><p>C. $a < 0,\\ b < 0$</p><p>D. $a > 0,\\ b < 0$</p>",
+          "answer": "D",
+          "explanation": "<p>第四象限為「正負」，即 $x$ 座標為正、$y$ 座標為負，所以 $a > 0,\\ b < 0$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>點 $P(-6,\\ 2)$ 到 $y$ 軸的距離為何？</p><p>A. $2$</p><p>B. $4$</p><p>C. $6$</p><p>D. $8$</p>",
+          "answer": "C",
+          "explanation": "<p>點到 $y$ 軸的距離看 $x$ 座標的絕對值，$|-6| = 6$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>點 $A$ 在第二象限，且與 $x$ 軸距離為 4，與 $y$ 軸距離為 7，則 $A$ 點座標為何？</p><p>A. $(7,\\ 4)$</p><p>B. $(-7,\\ 4)$</p><p>C. $(-4,\\ 7)$</p><p>D. $(4,\\ -7)$</p>",
+          "answer": "B",
+          "explanation": "<p>與 $x$ 軸距離 4 表示 $|y|=4$，與 $y$ 軸距離 7 表示 $|x|=7$。<br>因為 $A$ 在第二象限（負正），所以 $x=-7,\\ y=4$，座標為 $(-7,\\ 4)$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>將點 $A(-1,\\ 5)$ 向右移 4 單位、再向下移 8 單位後得到點 $B$，則 $B$ 點座標為何？</p><p>A. $(3,\\ -3)$</p><p>B. $(3,\\ 13)$</p><p>C. $(-5,\\ -3)$</p><p>D. $(-5,\\ 13)$</p>",
+          "answer": "A",
+          "explanation": "<p>向右移看 $x$（加 4），向下移看 $y$（減 8）。<br>$x = -1 + 4 = 3$；$y = 5 - 8 = -3$。<br>$B$ 點座標為 $(3,\\ -3)$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>點 $A(5,\\ 3)$ 對 $y$ 軸對稱的點 $B$ 座標為何？</p><p>A. $(5,\\ -3)$</p><p>B. $(-5,\\ 3)$</p><p>C. $(-5,\\ -3)$</p><p>D. $(3,\\ 5)$</p>",
+          "answer": "B",
+          "explanation": "<p>對 $y$ 軸對稱時 $y$ 座標不變、$x$ 座標變號（兩點連線為水平線，$y$ 不變、$x$ 互為相反數）。<br>$A(5,\\ 3)\\to B(-5,\\ 3)$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>若 $A(a,\\ b)$ 在第三象限，則點 $P(-a,\\ b^2)$ 位於第幾象限？</p><p>A. 第一象限</p><p>B. 第二象限</p><p>C. 第三象限</p><p>D. 第四象限</p>",
+          "answer": "A",
+          "explanation": "<p>$A$ 在第三象限，所以 $a<0,\\ b<0$。<br>$-a$：$a$ 為負，加負號變正，所以 $-a > 0$。<br>$b^2$：任何非零實數的平方都為正，所以 $b^2 > 0$。<br>$(-a,\\ b^2)$ 為「正正」，在<strong>第一象限</strong>。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>點 $P(3t-6,\\ t+3)$ 在 $y$ 軸上，則 $P$ 點座標為何？</p><p>A. $(0,\\ 5)$</p><p>B. $(0,\\ -5)$</p><p>C. $(4,\\ 0)$</p><p>D. $(-4,\\ 0)$</p>",
+          "answer": "A",
+          "explanation": "<p>$P$ 在 $y$ 軸上表示 $x$ 座標為 0，所以 $3t-6=0$，解得 $t=2$。<br>代回 $y$ 座標：$y = t+3 = 2+3 = 5$。<br>$P$ 點座標為 $(0,\\ 5)$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>長方形 $ABCD$ 的四邊分別平行 $x$ 軸與 $y$ 軸，已知 $A(-2,\\ 3)$、$C(3,\\ 0)$ 為對角頂點，則此長方形的周長為何？</p><p>A. $14$</p><p>B. $16$</p><p>C. $18$</p><p>D. $20$</p>",
+          "answer": "B",
+          "explanation": "<p>長方形邊平行於坐標軸，所以兩相鄰邊的水平、鉛直長度分別為：<br>長 $= |3-(-2)| = 5$；寬 $= |3-0| = 3$。<br>周長 $= (5+3)\\times 2 = 16$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1b_ch2_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於直角坐標平面的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. $x$ 軸與 $y$ 軸的交點稱為原點 $O$，座標為 $(0,\\ 0)$</p><p>B. $x$ 軸是水平的數線，$y$ 軸是鉛直的數線</p><p>C. 平面上每個點都恰好屬於四個象限中的一個</p><p>D. 有序對 $(2,\\ 5)$ 與 $(5,\\ 2)$ 代表同一個點</p><p>E. 第三象限的點 $x$ 座標、$y$ 座標皆為負</p>",
+          "answer": "ABE",
+          "explanation": "<p><strong>A ○</strong>：原點為兩軸交點 $(0,\\ 0)$。<br><strong>B ○</strong>：$x$ 軸水平、$y$ 軸鉛直。<br><strong>C ✕</strong>：坐標軸上的點（如 $(3,\\ 0)$、$(0,\\ -2)$）<strong>不屬於任何象限</strong>。<br><strong>D ✕</strong>：有序對的 $x$、$y$ 順序不可交換，$(2,\\ 5)$ 與 $(5,\\ 2)$ 是不同的點。<br><strong>E ○</strong>：第三象限「負負」，正確。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些點到 $x$ 軸的距離為 5？（多選）</p><p>A. $(3,\\ 5)$</p><p>B. $(-2,\\ -5)$</p><p>C. $(5,\\ 0)$</p><p>D. $(0,\\ 5)$</p><p>E. $(-5,\\ 2)$</p>",
+          "answer": "ABD",
+          "explanation": "<p>點到 $x$ 軸的距離 $= |y|$，要等於 5 即 $|y|=5$，所以 $y=5$ 或 $y=-5$。<br><strong>A ○</strong>：$|5|=5$。<br><strong>B ○</strong>：$|-5|=5$。<br><strong>C ✕</strong>：$|0|=0 \\neq 5$。<br><strong>D ○</strong>：$|5|=5$。<br><strong>E ✕</strong>：$|2|=2 \\neq 5$。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>已知 $A(2,\\ -3)$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. $A$ 點在第四象限</p><p>B. $A$ 對 $x$ 軸對稱的點為 $(2,\\ 3)$</p><p>C. $A$ 對 $y$ 軸對稱的點為 $(-2,\\ -3)$</p><p>D. $A$ 對原點對稱的點為 $(-2,\\ 3)$</p><p>E. $A$ 到 $y$ 軸的距離為 3</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：$(2,\\ -3)$ 為「正負」，第四象限。<br><strong>B ○</strong>：對 $x$ 軸對稱 $y$ 變號，$(2,\\ -3)\\to(2,\\ 3)$。<br><strong>C ○</strong>：對 $y$ 軸對稱 $x$ 變號，$(2,\\ -3)\\to(-2,\\ -3)$。<br><strong>D ○</strong>：對原點對稱 $x,y$ 皆變號，$(2,\\ -3)\\to(-2,\\ 3)$。<br><strong>E ✕</strong>：$A$ 到 $y$ 軸距離 $=|x|=|2|=2$，不是 3。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>$A(-3,\\ 2)$、$B(5,\\ 2)$、$C(5,\\ -4)$ 為長方形 $ABCD$ 的三個頂點，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. $\\overline{AB}$ 是水平線，長度為 8</p><p>B. $\\overline{BC}$ 是鉛直線，長度為 6</p><p>C. $D$ 點座標為 $(-3,\\ -4)$</p><p>D. 長方形面積為 48</p><p>E. $D$ 點在第三象限</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：$A$、$B$ 的 $y$ 座標皆為 2 為水平線，長度 $=|5-(-3)|=8$。<br><strong>B ○</strong>：$B$、$C$ 的 $x$ 座標皆為 5 為鉛直線，長度 $=|2-(-4)|=6$。<br><strong>C ○</strong>：$D$ 與 $A$ 在同一條鉛直線（$x=-3$），與 $C$ 在同一條水平線（$y=-4$），所以 $D=(-3,\\ -4)$。<br><strong>D ○</strong>：面積 $= 8\\times 6 = 48$。<br><strong>E ○</strong>：$(-3,\\ -4)$ 為「負負」，第三象限。</p>"
+        },
+        {
+          "id": "g1b_ch2_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>$A$、$B$ 為相異兩點，若 $A$ 對 $x$ 軸的對稱點恰為 $B$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. $A$、$B$ 的 $x$ 座標相同</p><p>B. $A$、$B$ 的 $y$ 座標互為相反數</p><p>C. $A$、$B$ 的 $y$ 座標相加為 0</p><p>D. $\\overline{AB}$ 是一條鉛直線</p><p>E. 若 $A$ 在第一象限，則 $B$ 必在第四象限</p>",
+          "answer": "ABCDE",
+          "explanation": "<p>對 $x$ 軸對稱：兩點 $x$ 座標相同、$y$ 座標互為相反數。<br><strong>A ○</strong>：$x$ 座標相同。<br><strong>B ○</strong>：$y$ 座標互為相反數。<br><strong>C ○</strong>：相反數相加為 0。<br><strong>D ○</strong>：$x$ 座標相同，連線為鉛直線。<br><strong>E ○</strong>：第一象限為正正，對 $x$ 軸對稱後變正負，落在第四象限。</p>"
+        }
+      ]
+    }
+  ]
+}

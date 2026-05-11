@@ -1,0 +1,176 @@
+{
+  "title": "國二下 3-4 中垂線與角平分線",
+  "summary": "<ul><li><strong>中垂線性質</strong>：中垂線上任意點 P 到線段兩端點距離相等（PA = PB）。逆定理：若 PA = PB，則 P 在 AB 的中垂線上。解題聯想：① 求長度（利用 PA = PB）② 畢氏定理（中垂線垂直線段，形成直角）。</li><li><strong>角平分線性質</strong>：角平分線上任意點 P 到角兩邊的垂直距離相等。逆定理：若到兩邊垂直距離相等，則在角平分線上。解題聯想：① 面積法（大三角形 = 兩小三角形面積和）② 共高三角形（高 = 垂直距離，共高故面積比 = 底邊比）。</li><li><strong>等腰三角形特例</strong>：等腰三角形從頂角作到底邊的高，同時也是底邊的中垂線，也是頂角的角平分線（三線合一）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch3_4_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>中垂線上任意一點到線段兩端點的距離相等。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這就是中垂線的基本性質：若 L 是 AB 的中垂線，P 在 L 上，則 PA = PB。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>角平分線上任意一點到角兩邊的垂直距離相等。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這是角平分線的基本性質：若 AP 是 ∠BAC 的角平分線，P 在 AP 上，則 P 到 AB 的垂直距離等於 P 到 AC 的垂直距離。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>若點 P 到線段 AB 兩端點距離相等（PA = PB），則 P 一定在 AB 的中垂線上。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這是中垂線性質的逆定理：到線段兩端點距離相等的點，一定在該線段的中垂線上。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>在 △ABC 中，∠A 的角平分線 AD（D 在 BC 上）一定會平分 BC，即 BD = DC。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。角平分線只保證到<strong>兩邊垂直距離相等</strong>，不代表對邊被平分。只有等腰三角形（AB = AC）時，角平分線才同時平分底邊。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>等腰三角形 △ABC 中，AB = AC，從頂點 A 作 AD ⊥ BC，則 AD 同時是 BC 的中垂線，也是 ∠BAC 的角平分線。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。等腰三角形的「三線合一」：頂角向底邊所作的高（AD ⊥ BC），同時也是底邊的中垂線（BD = DC）和頂角的角平分線（∠BAD = ∠CAD）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_4_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>L 為線段 AB 的中垂線，點 P 在 L 上，已知 PA = 9，求 PB = ？</p><p>A. 4.5</p><p>B. 9</p><p>C. 18</p><p>D. 無法確定</p>",
+          "answer": "B",
+          "explanation": "<p>中垂線上任意點到兩端點距離相等，故 PB = PA = <strong>9</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>L 為線段 MN 的中垂線，點 P 在 L 上，已知 PM = 11、MN = 14，求 △PMN 的周長。</p><p>A. 36</p><p>B. 38</p><p>C. 40</p><p>D. 42</p>",
+          "answer": "A",
+          "explanation": "<p>中垂線上任意點到兩端點距離相等，故 PN = PM = 11。<br>△PMN 周長 = PM + PN + MN = 11 + 11 + 14 = <strong>36</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>L 為線段 AB 的中垂線，垂足為 M，C 在 L 上，CA = 13，AM = 12，求 CM = ？</p><p>A. 5</p><p>B. 7</p><p>C. 8</p><p>D. 10</p>",
+          "answer": "A",
+          "explanation": "<p>L ⊥ AM，故 △CAM 是直角三角形（直角在 M）。<br>$CM = \\sqrt{CA^2 - AM^2} = \\sqrt{169 - 144} = \\sqrt{25} = $ <strong>5</strong>。答案（A）。<br>（辨認 5-12-13 直角三角形也可直接得出答案。）</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>在 △ABC 中，∠A = 90°，AB = 6，BC = 10，L 為 BC 的中垂線，R 為 L 與 AC 的交點。因 R 在中垂線 L 上，故 RB = RC。設 $CR = x$，可列方程解得 $x = \\dfrac{25}{4}$，求 AR = ？</p><p>A. $\\dfrac{7}{4}$</p><p>B. 2</p><p>C. $\\dfrac{9}{4}$</p><p>D. $\\dfrac{11}{4}$</p>",
+          "answer": "A",
+          "explanation": "<p>AC = $\\sqrt{BC^2 - AB^2} = \\sqrt{100 - 36} = \\sqrt{64} = 8$（6-8-10 直角三角形）。<br>設 $CR = x$，則 $AR = 8 - x$。R 在中垂線 L 上，故 $RB = RC = x$。<br>在直角 △ABR（∠A = 90°）中：$RB^2 = AB^2 + AR^2$<br>$x^2 = 36 + (8-x)^2 = 100 - 16x + x^2$<br>$16x = 100$，$x = \\dfrac{25}{4}$<br>$AR = 8 - \\dfrac{25}{4} = \\dfrac{32}{4} - \\dfrac{25}{4} = $ <strong>$\\dfrac{7}{4}$</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>AP 為 ∠BAC 的角平分線，P 在角平分線上，PD ⊥ AB 於 D，PE ⊥ AC 於 E，已知 PD = 5，求 PE = ？</p><p>A. 2.5</p><p>B. 5</p><p>C. 10</p><p>D. 無法確定</p>",
+          "answer": "B",
+          "explanation": "<p>角平分線上任意點到角兩邊的垂直距離相等，故 PE = PD = <strong>5</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>在 △ABC 中，AB = 8、AC = 7，AZ 為 ∠A 的角平分線，Z 在 BC 上，△ABC 面積 = 30。設 Z 到 AB 的垂直距離（亦等於 Z 到 AC 的垂直距離）為 h，求 h = ？</p><p>A. 3</p><p>B. 4</p><p>C. 5</p><p>D. 6</p>",
+          "answer": "B",
+          "explanation": "<p>角平分線性質：Z 到 AB 與 AC 的垂直距離相等，均為 h。<br>△ABC 面積 = △ABZ 面積 + △ACZ 面積<br>$= \\frac{1}{2} \\cdot AB \\cdot h + \\frac{1}{2} \\cdot AC \\cdot h = \\frac{1}{2}(8+7)h = \\frac{15h}{2} = 30$<br>⇒ h = <strong>4</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>在 △ABC 中，點 P 在 △ABC 內部，PD ⊥ AB 於 D，PE ⊥ AC 於 E，且 PD = PE，則 AP 所在的直線是？</p><p>A. AB 的中垂線</p><p>B. ∠BAC 的角平分線</p><p>C. BC 的中垂線</p><p>D. ∠ABC 的角平分線</p>",
+          "answer": "B",
+          "explanation": "<p>P 到 AB 和 AC 兩邊的垂直距離相等，根據角平分線的<strong>逆定理</strong>，P 在 ∠BAC 的角平分線上，即 AP 是 ∠BAC 的角平分線。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>等腰 △ABC 中，AB = AC = 15，BC = 24，AD ⊥ BC，D 在 BC 上，求 AD = ？</p><p>A. 7</p><p>B. 8</p><p>C. 9</p><p>D. 10</p>",
+          "answer": "C",
+          "explanation": "<p>等腰三角形三線合一，AD ⊥ BC 故 BD = DC = 12。<br>$AD = \\sqrt{AB^2 - BD^2} = \\sqrt{225 - 144} = \\sqrt{81} = $ <strong>9</strong>（9-12-15 = 3-4-5 放大 3 倍）。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>承上題，等腰 △ABC 中，AB = AC = 15，BC = 24，AD ⊥ BC，AD = 9，求 △ABC 的面積 = ？</p><p>A. 96</p><p>B. 108</p><p>C. 120</p><p>D. 144</p>",
+          "answer": "B",
+          "explanation": "<p>取底邊 BC = 24，高 AD = 9。<br>面積 $= \\frac{1}{2} \\times 24 \\times 9 = $ <strong>108</strong>。答案（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_4_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>關於中垂線性質，下列哪些敘述正確？（多選）</p><p>A. 中垂線上任意點到線段兩端點距離相等</p><p>B. 到線段兩端點距離相等的點一定在該線段的中垂線上（逆定理）</p><p>C. 中垂線上的點到兩端點的距離等於 $\\dfrac{AB}{2}$</p><p>D. 中垂線與線段垂直相交，且交點為線段中點</p><p>E. 解題時，中垂線常與畢氏定理搭配使用</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：基本性質。</p><p><strong>B ○</strong>：逆定理（PA = PB ⇒ P 在中垂線上）。</p><p><strong>C ╳</strong>：PA = PB 只代表兩段相等，不代表等於 $\\frac{AB}{2}$。例如線段外的點到兩端點距離相等，遠大於 $\\frac{AB}{2}$。</p><p><strong>D ○</strong>：中垂線的定義：垂直且平分該線段。</p><p><strong>E ○</strong>：中垂線與線段垂直，常形成直角三角形，自然搭配畢氏定理。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於角平分線性質，下列哪些敘述正確？（多選）</p><p>A. 角平分線上任意點到角兩邊的垂直距離相等</p><p>B. 到角兩邊垂直距離相等的點，一定在角平分線上（逆定理）</p><p>C. 在三角形中，角平分線一定平分對邊（底邊）</p><p>D. 用角平分線解題時，常將大三角形面積分拆為兩個小三角形面積之和</p><p>E. 角平分線相關的兩個小三角形，其高（到角平分線的垂直距離）相等，稱為共高三角形</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：基本性質。</p><p><strong>B ○</strong>：逆定理。</p><p><strong>C ╳</strong>：只有等腰三角形（兩腰等長時）角平分線才平分對邊；一般三角形不成立。</p><p><strong>D ○</strong>：面積拆法是角平分線解題的核心技巧。</p><p><strong>E ○</strong>：兩小三角形的高皆等於角平分線上那點到兩邊的垂直距離，互為共高三角形。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>在等腰 △ABC 中，AB = AC，AD ⊥ BC，D 在 BC 上，下列哪些敘述正確？（多選）</p><p>A. AD 是 BC 的中垂線</p><p>B. BD = DC</p><p>C. AD 是 ∠BAC 的角平分線</p><p>D. △ABD ≅ △ACD</p><p>E. AD 是 ∠ABC 的角平分線</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：AD ⊥ BC 且等腰對稱，AD 平分 BC，故 AD 是 BC 的中垂線。</p><p><strong>B ○</strong>：由 A 得 BD = DC。</p><p><strong>C ○</strong>：三線合一，AD 也是頂角 ∠BAC 的角平分線。</p><p><strong>D ○</strong>：△ABD 與 △ACD 中，AB = AC、BD = DC、AD = AD，由 SSS 全等。</p><p><strong>E ╳</strong>：AD 是從 A 作的高，不是從 B 作的線；AD 不是 ∠ABC 的角平分線。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>若點 P 滿足 PA = PB（A、B 為線段端點），下列哪些敘述正確？（多選）</p><p>A. P 在線段 AB 的中垂線上</p><p>B. P 一定是線段 AB 的中點</p><p>C. 若另一點 Q 也滿足 QA = QB，則直線 PQ 就是 AB 的中垂線</p><p>D. $PA = PB = \\dfrac{AB}{2}$</p><p>E. P 到 AB 所作垂線的垂足，恰好是 AB 的中點</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：逆定理，PA = PB ⇒ P 在中垂線上。</p><p><strong>B ╳</strong>：P 可在中垂線上的任意位置，不一定是中點。</p><p><strong>C ○</strong>：中垂線上有兩個不同的點 P、Q，即可唯一確定中垂線所在的直線。</p><p><strong>D ╳</strong>：PA = PB 只代表兩者相等，數值不一定等於 $\\frac{AB}{2}$。</p><p><strong>E ○</strong>：從線段外一點 P（PA = PB）向 AB 作垂線，垂足為 M，則 △PAM ≅ △PBM（RHS），故 AM = BM，M 是中點。</p>"
+        },
+        {
+          "id": "g2b_ch3_4_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>在 △ABC 中，AB = 10、AC = 6、BC = 8，AZ 為 ∠A 的角平分線，Z 在 BC 上，且 △ABC 面積 = 24。設 Z 到 AB、AC 的垂直距離皆為 h，下列哪些計算正確？（多選）</p><p>A. △ABZ 面積 = 5h</p><p>B. △ACZ 面積 = 3h</p><p>C. △ABZ 面積 + △ACZ 面積 = 8h</p><p>D. h = 3</p><p>E. $\\dfrac{BZ}{ZC} = \\dfrac{AB}{AC} = \\dfrac{5}{3}$（內分比性質）</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：$\\triangle ABZ = \\frac{1}{2} \\cdot AB \\cdot h = \\frac{1}{2} \\cdot 10 \\cdot h = 5h$。</p><p><strong>B ○</strong>：$\\triangle ACZ = \\frac{1}{2} \\cdot AC \\cdot h = \\frac{1}{2} \\cdot 6 \\cdot h = 3h$。</p><p><strong>C ○</strong>：合計 $5h + 3h = 8h$。</p><p><strong>D ○</strong>：$8h = 24 \\Rightarrow h = 3$。</p><p><strong>E ○</strong>：由共高三角形面積比等於底邊比，$\\frac{\\triangle ABZ}{\\triangle ACZ} = \\frac{BZ}{ZC}$；兩面積比 $= \\frac{5h}{3h} = \\frac{5}{3}$，且 $\\frac{AB}{AC} = \\frac{10}{6} = \\frac{5}{3}$，故 $\\frac{BZ}{ZC} = \\frac{5}{3}$（角平分線內分比性質）。</p>"
+        }
+      ]
+    }
+  ]
+}

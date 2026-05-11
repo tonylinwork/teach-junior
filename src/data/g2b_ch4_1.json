@@ -1,0 +1,176 @@
+{
+  "title": "國二下 4-1 平行線",
+  "summary": "<ul><li><strong>平行線定義與面積應用</strong>：同平面內永遠不相交且等距的兩直線互相平行，記為 $L \\parallel M$。兩平行線間，底邊在同一直線的三角形共高，面積比等於底邊比；頂點在同一平行線、底邊相同的兩三角形面積相等（蝴蝶定理：去掉共同部分後兩塊面積相等）。</li><li><strong>截線產生的三種角</strong>：截線與兩直線相交，形成同位角（位置相同，一上一上或一下一下）、內錯角（在兩線內部且交錯分布）、同側內角（在兩線內部且同側）。</li><li><strong>平行線三大性質（充要條件）</strong>：$L \\parallel M$ ↔ 同位角相等 ↔ 內錯角相等 ↔ 同側內角互補（和為 $180°$）。以上均為充分且必要條件，可互推。</li><li><strong>閃電型（Z 型）求角</strong>：折線折點在兩平行線之間，左側兩個尖角之和等於右側轉折角。解題技巧：過折點作第三條平行線，利用內錯角拆成兩部分相加。</li><li><strong>梳型（一根 $180°$）</strong>：$n$ 段折線的所有角度和等於 $180° \\times n$。</li><li><strong>角平分線交角</strong>：兩平行線上，截線在兩線形成互補的同側內角，各自的角平分線相交，交角必為 $90°$（兩互補角各取一半，相加仍為 $90°$）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch4_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>兩平行線之間，任意兩點間的垂直距離（即兩線間的距離）處處相等。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。平行線的定義要求兩線等距，因此兩平行線之間的垂直距離處處相同，這也是平行線「等距」的核心含義。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>兩直線被一截線截出的同位角一定相等。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。同位角相等是<strong>兩直線平行</strong>的充要條件，並非普遍成立。若兩直線不平行，同位角不相等；唯有在 $L \\parallel M$ 的前提下，同位角才相等。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>若兩直線被一截線截出的內錯角相等，則此兩直線平行。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。「內錯角相等」是「兩直線平行」的充要條件之一。內錯角相等 $\\Rightarrow$ 兩直線平行，此為判斷平行的重要依據。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>若兩直線被一截線截出的同側內角相加等於 $180°$，則此兩直線平行。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。「同側內角互補（和為 $180°$）」是「兩直線平行」的充要條件之一。可作為判斷平行的依據。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>兩平行線 $L$ 與 $M$ 被截線截出一組同側內角，各自的角平分線相交，交角一定為直角。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。設同側內角為 $\\alpha$ 與 $\\beta$，因 $L \\parallel M$，同側內角互補，故 $\\alpha + \\beta = 180°$。各自的角平分線將角平分，兩條平分線夾角為 $\\dfrac{\\alpha}{2} + \\dfrac{\\beta}{2} = \\dfrac{\\alpha + \\beta}{2} = \\dfrac{180°}{2} = 90°$，確為直角。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch4_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>截線 $t$ 與兩直線 $L$、$M$ 相交，在 $L$ 上形成 $\\angle 1$（左上）、$\\angle 2$（右上）、$\\angle 3$（左下）、$\\angle 4$（右下），在 $M$ 上形成 $\\angle 5$（左上）、$\\angle 6$（右上）、$\\angle 7$（左下）、$\\angle 8$（右下）。請問 $\\angle 3$ 與 $\\angle 7$ 是何種關係？</p><p>A. 同位角</p><p>B. 內錯角</p><p>C. 同側內角</p><p>D. 對頂角</p>",
+          "answer": "A",
+          "explanation": "<p>$\\angle 3$ 在 $L$ 的左下方，$\\angle 7$ 在 $M$ 的左下方，兩角位置相同（皆在截線與直線交點的左下），故為<strong>同位角</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>兩直線被截線截出一組同側內角，分別為 $65°$ 與 $115°$，請問這兩直線的關係為何？</p><p>A. 平行，因為同側內角互補</p><p>B. 平行，因為內錯角相等</p><p>C. 不平行，因為同側內角不相等</p><p>D. 無法判斷</p>",
+          "answer": "A",
+          "explanation": "<p>$65° + 115° = 180°$，同側內角互補，根據平行線充要條件，兩直線<strong>平行</strong>。判斷依據是「同側內角互補」，而非內錯角。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$L \\parallel M$，截線截出一對內錯角，分別為 $(3x+10)°$ 和 $(5x-20)°$，求 $x$ 的值。</p><p>A. 10</p><p>B. 12</p><p>C. 15</p><p>D. 18</p>",
+          "answer": "C",
+          "explanation": "<p>$L \\parallel M$，內錯角相等，故：<br>$3x + 10 = 5x - 20$<br>$30 = 2x$<br>$x = $ <strong>15</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>兩直線被截線截出一對同位角，兩角皆為 $70°$，請問這兩直線是否平行？</p><p>A. 平行（同位角相等）</p><p>B. 平行（同側內角互補）</p><p>C. 不平行</p><p>D. 無法確定</p>",
+          "answer": "A",
+          "explanation": "<p>同位角相等（皆為 $70°$），根據充要條件，兩直線<strong>平行</strong>。判斷依據是「同位角相等」。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>如圖，$L \\parallel M$，折線折點在兩平行線之間，左側兩個角分別為 $40°$ 和 $50°$，求右側轉折角的度數。</p><p>A. $80°$</p><p>B. $85°$</p><p>C. $90°$</p><p>D. $100°$</p>",
+          "answer": "C",
+          "explanation": "<p>閃電型（Z 型）公式：右側轉折角 = 左側兩角之和。<br>轉折角 $= 40° + 50° = $ <strong>$90°$</strong>。<br>（亦可過折點作第三條平行線，利用內錯角分別得 $40°$ 與 $50°$ 相加驗證。）答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>$L \\parallel M$，折線折點在兩平行線之間（閃電型），左側兩個角分別為 $(2x+10)°$ 和 $(3x-5)°$，右側轉折角為 $100°$，求 $x$ 的值。</p><p>A. 15</p><p>B. 17</p><p>C. 19</p><p>D. 21</p>",
+          "answer": "C",
+          "explanation": "<p>閃電型：左側兩角之和 = 右側轉折角。<br>$(2x+10) + (3x-5) = 100$<br>$5x + 5 = 100$<br>$5x = 95$<br>$x = $ <strong>19</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>梳型折線：兩平行線之間有兩段折線（即折線在兩平行線間來回折兩次），各折角為 $a$、$b$、$c$、$d$，請問 $a + b + c + d$ 等於多少？</p><p>A. $180°$</p><p>B. $270°$</p><p>C. $360°$</p><p>D. 無法確定</p>",
+          "answer": "C",
+          "explanation": "<p>梳型（一根 $180°$）公式：$n$ 段折線的所有角之和 $= 180° \\times n$。<br>本題 $n = 2$，故角度和 $= 180° \\times 2 = $ <strong>$360°$</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>$L \\parallel M$，截線在 $L$ 上形成一個 $100°$ 的角（另一側為 $80°$）。$L$ 上 $100°$ 角的角平分線與 $M$ 上對應同側內角（$80°$）的角平分線相交，請問交角為多少？</p><p>A. $50°$</p><p>B. $70°$</p><p>C. $90°$</p><p>D. $100°$</p>",
+          "answer": "C",
+          "explanation": "<p>$L \\parallel M$，同側內角 $100° + 80° = 180°$（互補）。<br>兩角各自的角平分線將角分成 $50°$ 與 $40°$。<br>交角 $= 50° + 40° = $ <strong>$90°$</strong>（兩互補角各取一半，和仍為 $90°$）。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>$A$、$D$ 兩點在同一條平行線上，$BC$ 在另一條平行線上，$\\triangle ABC$ 的底邊為 $BC = 8$，面積為 $24$。若 $D$ 在與 $A$ 同側的平行線上，$\\triangle DBC$ 與 $\\triangle ABC$ 共底邊 $BC$，請問 $\\triangle DBC$ 的面積為多少？</p><p>A. $12$</p><p>B. $16$</p><p>C. $24$</p><p>D. 無法確定</p>",
+          "answer": "C",
+          "explanation": "<p>$A$ 與 $D$ 同在一條平行線上，$BC$ 在另一條平行線上，故 $\\triangle ABC$ 與 $\\triangle DBC$ 的高（兩平行線間距離）相等，底邊 $BC$ 也相同。<br>面積 $= \\dfrac{1}{2} \\times BC \\times h$，相同底邊與相同高 $\\Rightarrow$ 面積相等。<br>$\\triangle DBC$ 面積 $= $ <strong>$24$</strong>（蝴蝶定理的應用）。答案（C）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch4_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>關於平行線的性質，下列哪些敘述正確？（多選）</p><p>A. $L \\parallel M$ $\\Rightarrow$ 同位角相等</p><p>B. $L \\parallel M$ $\\Rightarrow$ 內錯角相等</p><p>C. $L \\parallel M$ $\\Rightarrow$ 同側內角互補（和為 $180°$）</p><p>D. 同位角相等 $\\Rightarrow$ $L \\parallel M$</p><p>E. 內錯角互補 $\\Rightarrow$ $L \\parallel M$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：平行線性質，同位角相等。</p><p><strong>B ○</strong>：平行線性質，內錯角相等。</p><p><strong>C ○</strong>：平行線性質，同側內角互補。</p><p><strong>D ○</strong>：充要條件的逆方向，同位角相等可判斷平行。</p><p><strong>E ╳</strong>：判斷平行需要「內錯角<strong>相等</strong>」，而非「內錯角互補」；內錯角互補不能推出兩線平行（除非各為 $90°$）。答案：<strong>ABCD</strong>。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些條件可以判斷「兩直線平行」？（多選）</p><p>A. 同位角相等</p><p>B. 內錯角相等</p><p>C. 同側內角互補（和為 $180°$）</p><p>D. 對頂角相等</p><p>E. 同側內角各為 $90°$</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：同位角相等 $\\Rightarrow$ 平行（充要條件）。</p><p><strong>B ○</strong>：內錯角相等 $\\Rightarrow$ 平行（充要條件）。</p><p><strong>C ○</strong>：同側內角互補 $\\Rightarrow$ 平行（充要條件）。</p><p><strong>D ╳</strong>：對頂角永遠相等（無論兩線是否平行），無法用來判斷平行。</p><p><strong>E ○</strong>：同側內角各為 $90°$，則 $90° + 90° = 180°$，互補，故可判斷平行（屬於 C 的特例）。答案：<strong>ABCE</strong>。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>關於閃電型（Z 型）求角，下列哪些敘述正確？（多選）</p><p>A. 兩平行線之間，折線左側兩角之和等於右側轉折角</p><p>B. 可以過折點作第三條平行線，利用內錯角將轉折角拆成兩部分求解</p><p>C. 閃電型中，左側兩個角一定相等</p><p>D. 閃電型的折點必須在兩平行線之間，才能直接套用「左兩角之和 = 右轉折角」</p><p>E. 若左側兩角各為 $x°$，則右側轉折角也為 $x°$</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：閃電型核心公式，右側轉折角 = 左側兩角之和。</p><p><strong>B ○</strong>：輔助第三條平行線是閃電型的標準解題技巧，利用內錯角分拆。</p><p><strong>C ╳</strong>：左側兩角不一定相等，只要折點在兩平行線之間、公式就成立，各角大小無限制。</p><p><strong>D ○</strong>：折點須在兩平行線「之間」，否則需另行分析。</p><p><strong>E ╳</strong>：若左側兩角各為 $x°$，右側轉折角為 $x° + x° = 2x°$，不是 $x°$。答案：<strong>ABD</strong>。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於共高三角形與面積，下列哪些敘述正確？（多選）</p><p>A. 兩平行線間，底邊在同一直線上的兩個三角形，高相等</p><p>B. 只要兩三角形的高相等，面積就一定相等</p><p>C. $\\triangle ABC$ 中，$M$ 是 $BC$ 的中點，$AM$ 為中線，則 $\\triangle ABM$ 與 $\\triangle ACM$ 面積相等</p><p>D. 在兩平行線之間，底邊相同（等長且在同一直線）的兩三角形，面積相等</p><p>E. 蝴蝶定理：兩平行線間，若兩三角形有共同部分（重疊區域），去掉重疊部分後兩塊剩餘面積相等</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：兩平行線間距固定，底邊在同一直線的三角形共享該距離為高，故高相等。</p><p><strong>B ╳</strong>：高相等時，面積比等於底邊比，底邊不同則面積不一定相等。</p><p><strong>C ○</strong>：$\\triangle ABM$ 與 $\\triangle ACM$ 共高（從 $A$ 到 $BC$），底邊 $BM = MC$，故面積相等。</p><p><strong>D ○</strong>：共高且共底邊（等長），面積必相等。</p><p><strong>E ○</strong>：蝴蝶定理的敘述正確：整體面積相等，去掉重疊部分後兩塊剩餘面積也相等。答案：<strong>ACDE</strong>。</p>"
+        },
+        {
+          "id": "g2b_ch4_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>$L \\parallel M$，截線 $t$ 交 $L$ 於 $A$，交 $M$ 於 $B$。在 $A$ 點形成 $\\angle 1$（左上）、$\\angle 2$（右上）、$\\angle 3$（左下）、$\\angle 4$（右下）；在 $B$ 點形成 $\\angle 5$（左上）、$\\angle 6$（右上）、$\\angle 7$（左下）、$\\angle 8$（右下）。下列哪些敘述正確？（多選）</p><p>A. $\\angle 1$ 與 $\\angle 5$ 是同位角，故 $\\angle 1 = \\angle 5$</p><p>B. $\\angle 4$ 與 $\\angle 6$ 是內錯角，故 $\\angle 4 = \\angle 6$</p><p>C. $\\angle 2$ 與 $\\angle 8$ 是同側內角，故 $\\angle 2 + \\angle 8 = 180°$</p><p>D. $\\angle 3$ 與 $\\angle 5$ 是同側內角，故 $\\angle 3 + \\angle 5 = 180°$</p><p>E. $\\angle 1$ 與 $\\angle 8$ 是同側內角，故 $\\angle 1 + \\angle 8 = 180°$</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：$\\angle 1$（$A$ 左上）與 $\\angle 5$（$B$ 左上）位置相同，為同位角，$L \\parallel M$ 故相等。</p><p><strong>B ○</strong>：$\\angle 4$（$A$ 右下，在兩線內部）與 $\\angle 6$（$B$ 右上，在兩線內部）交錯分布，為內錯角，$L \\parallel M$ 故相等。</p><p><strong>C ╳</strong>：$\\angle 2$（$A$ 右上）在 $L$ 上方（兩線外部），$\\angle 8$（$B$ 右下）在 $M$ 下方（兩線外部），兩者皆在兩平行線外部，不是同側內角，此敘述錯誤。</p><p><strong>D ○</strong>：$\\angle 3$（$A$ 左下，在兩線內部）與 $\\angle 5$（$B$ 左上，在兩線內部）在同側（左側），為同側內角，$L \\parallel M$ 故 $\\angle 3 + \\angle 5 = 180°$。</p><p><strong>E ╳</strong>：$\\angle 1$（$A$ 左上）在 $L$ 上方（外部），$\\angle 8$（$B$ 右下）在 $M$ 下方（外部），不在兩線之間，不是同側內角，此敘述錯誤。答案：<strong>ABD</strong>。</p>"
+        }
+      ]
+    }
+  ]
+}

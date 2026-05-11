@@ -1,0 +1,176 @@
+{
+  "title": "國一上 1-3 整數的四則",
+  "summary": "<ul><li><strong>乘除正負號</strong>：數負號個數，偶數個→結果為正，奇數個→結果為負；再算數字部分（絕對值相乘除）。</li><li><strong>四則運算優先順序</strong>：次方（指數）最優先 → 絕對值 → 括號（由內而外）→ 乘除 → 加減。同層級由左至右計算。</li><li><strong>分配律</strong>：$(a+b) \\times c = ac + bc$（✓）；$(a-b) \\times c = ac - bc$（✓）；$(a+b) \\div c = a \\div c + b \\div c$（✓，分子可分配）；$c \\div (a+b) \\neq c \\div a + c \\div b$（✗，分母不可分配）。</li><li><strong>巧算配對</strong>：$4 \\times 25 = 100$；$8 \\times 25 = 200$；$8 \\times 125 = 1000$；$16 \\times 25 = 400$；善用交換律與結合律先配出整百整千。</li><li><strong>同號異號判斷</strong>：$a \\times b > 0$ 或 $a \\div b > 0$ → a 與 b 同號；$a \\times b < 0$ 或 $a \\div b < 0$ → a 與 b 異號（一正一負）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch1_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>$(-3) \\times (-4) \\times (-2)$ 的結果為負數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。共有 3 個負號，奇數個負號 → 結果為負。數字部分：$3 \\times 4 \\times 2 = 24$，故結果為 $-24$（負數）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>四則運算中，乘除必須在加減之前計算。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。四則運算優先順序：次方 → 絕對值 → 括號 → <strong>乘除</strong> → <strong>加減</strong>。乘除的優先順序高於加減。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$(a+b) \\div c = a \\div c + b \\div c$</p>",
+          "answer": "○",
+          "explanation": "<p>正確。除以 $c$ 等同於乘以 $\\dfrac{1}{c}$，套用分配律：$(a+b) \\times \\dfrac{1}{c} = a \\times \\dfrac{1}{c} + b \\times \\dfrac{1}{c} = \\dfrac{a}{c} + \\dfrac{b}{c}$。分子（被除數的各項）可以分配。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$c \\div (a+b) = c \\div a + c \\div b$</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。分母不可分配。例如：$6 \\div (1+2) = 6 \\div 3 = 2$，但 $6 \\div 1 + 6 \\div 2 = 6 + 3 = 9 \\neq 2$。分配律只適用於<strong>括號在乘除的另一側（分子位置）</strong>，括號在分母時不可分配。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>$(-2)^2 = -4$</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$(-2)^2 = (-2) \\times (-2) = +4$（兩個負號相乘，結果為正）。注意與 $-2^2 = -(2^2) = -4$ 區別：有括號時，負號一起參與平方。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>$(-3) \\times (-4) \\times (-2) = \\text{？}$</p><p>A. $-24$</p><p>B. $24$</p><p>C. $-12$</p><p>D. $12$</p>",
+          "answer": "A",
+          "explanation": "<p>負號個數：3 個（奇數）→ 結果為<strong>負</strong>。<br>數字部分：$3 \\times 4 \\times 2 = 24$。<br>故 $(-3) \\times (-4) \\times (-2) = -24$。答案（A）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>四則運算中，下列何者運算優先順序最高（最先計算）？</p><p>A. 加法</p><p>B. 乘法</p><p>C. 括號</p><p>D. 次方（指數）</p>",
+          "answer": "D",
+          "explanation": "<p>四則運算優先順序：<strong>次方（指數）</strong> → 絕對值 → 括號（由內而外）→ 乘除 → 加減。次方的優先順序最高。答案（D）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$2 + 3 \\times 4 = \\text{？}$</p><p>A. $20$</p><p>B. $14$</p><p>C. $24$</p><p>D. $10$</p>",
+          "answer": "B",
+          "explanation": "<p>先算乘除：$3 \\times 4 = 12$。<br>再算加減：$2 + 12 = 14$。<br>答案（B）。（注意：不可從左到右直接算 $2+3=5$，$5 \\times 4=20$，乘法優先！）</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$(-2)^2 = \\text{？}$</p><p>A. $-4$</p><p>B. $4$</p><p>C. $-2$</p><p>D. $2$</p>",
+          "answer": "B",
+          "explanation": "<p>括號內整個數（含負號）一起平方：$(-2)^2 = (-2) \\times (-2) = +4$。兩個負號相乘為正，結果為 <strong>4</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>$-2^2 = \\text{？}$</p><p>A. $-4$</p><p>B. $4$</p><p>C. $-2$</p><p>D. $2$</p>",
+          "answer": "A",
+          "explanation": "<p>次方優先於負號（這裡負號相當於 $-1 \\times$）：先算 $2^2 = 4$，再加負號 $-4$。<br>即 $-2^2 = -(2^2) = -4$。答案（A）。<br>與 $(-2)^2 = 4$ 對照：<strong>有無括號結果不同！</strong></p>"
+        },
+        {
+          "id": "g1a_ch1_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>利用分配律計算 $25 \\times (40 + 4) = \\text{？}$</p><p>A. $1000$</p><p>B. $1100$</p><p>C. $1010$</p><p>D. $1110$</p>",
+          "answer": "B",
+          "explanation": "<p>套用分配律：$25 \\times (40 + 4) = 25 \\times 40 + 25 \\times 4 = 1000 + 100 = 1100$。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>$9 \\div (1 + 2) = \\text{？}$</p><p>A. $9 \\div 1 + 9 \\div 2 = 13.5$</p><p>B. $3$</p><p>C. $6$</p><p>D. $4.5$</p>",
+          "answer": "B",
+          "explanation": "<p>括號先算：$1 + 2 = 3$，再計算 $9 \\div 3 = 3$。<br>注意：分母不可分配，選項 A 的做法 $9 \\div 1 + 9 \\div 2$ 是錯誤的。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>若 $a \\times b < 0$，下列哪個敘述必然成立？</p><p>A. $a > 0$ 且 $b > 0$</p><p>B. $a < 0$ 且 $b < 0$</p><p>C. $a$ 與 $b$ 一正一負</p><p>D. $a = 0$ 或 $b = 0$</p>",
+          "answer": "C",
+          "explanation": "<p>$a \\times b < 0$ 表示乘積為負，需要兩數<strong>異號</strong>（一正一負）。<br>同號相乘結果為正（排除 A、B）；若有一個為 0，乘積為 0，不小於 0（排除 D）。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>巧算：$4 \\times (-25) \\times (-7) \\times (-4) = \\text{？}$</p><p>A. $2800$</p><p>B. $-2800$</p><p>C. $700$</p><p>D. $-700$</p>",
+          "answer": "B",
+          "explanation": "<p>先判斷正負：共 3 個負號（奇數）→ 結果為<strong>負</strong>。<br>再算數字部分，利用巧算配對：$4 \\times 25 = 100$，$7 \\times 4 = 28$；$100 \\times 28 = 2800$。<br>故結果為 $-2800$。答案（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>以下計算結果為<strong>正數</strong>的是？（多選）</p><p>A. $(-1) \\times (-2) \\times (-3) \\times (-4)$</p><p>B. $(-1) \\times (-2) \\times (-3)$</p><p>C. $(-5)^2$</p><p>D. $-5^2$</p><p>E. $(-2) \\times 3 \\times (-4)$</p>",
+          "answer": "ACE",
+          "explanation": "<p>A. 4 個負號（偶數）→ 正；$1 \\times 2 \\times 3 \\times 4 = 24 > 0$。✓<br>B. 3 個負號（奇數）→ 負；結果為 $-6$。✗<br>C. $(-5)^2 = (-5) \\times (-5) = 25 > 0$。✓<br>D. $-5^2 = -(5^2) = -25 < 0$（次方優先，無括號負號不參與平方）。✗<br>E. 2 個負號（偶數）→ 正；$2 \\times 3 \\times 4 = 24 > 0$。✓<br>答案（ACE）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於四則運算優先順序，哪些敘述<strong>正確</strong>？（多選）</p><p>A. 括號先算，由內而外</p><p>B. 乘除優先於加減</p><p>C. 次方（指數）的優先順序最高</p><p>D. 加減可以和乘除同時計算（順序不影響結果）</p><p>E. 絕對值運算優先於括號</p>",
+          "answer": "ABC",
+          "explanation": "<p>A. ✓ 括號先算，多層括號由最內層開始。<br>B. ✓ 乘除優先於加減，這是四則運算的基本規則。<br>C. ✓ 次方是所有四則運算中優先順序最高的。<br>D. ✗ 加減不能與乘除同時計算；乘除必須先，忽視此規則會得到錯誤結果。<br>E. ✗ 絕對值的優先順序在括號之後（絕對值符號本身類似括號，但括號由外到內的計算中，內層括號最先）。<br>答案（ABC）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>關於分配律，哪些等式<strong>成立</strong>？（多選）</p><p>A. $(3+5) \\times 2 = 3 \\times 2 + 5 \\times 2 = 16$</p><p>B. $(10-4) \\times 3 = 10 \\times 3 - 4 \\times 3 = 18$</p><p>C. $(3+5) \\div 2 = 3 \\div 2 + 5 \\div 2 = 4$</p><p>D. $2 \\div (3+5) = 2 \\div 3 + 2 \\div 5$</p><p>E. $(-6+4) \\times 3 = (-6) \\times 3 + 4 \\times 3 = -6$</p>",
+          "answer": "ABCE",
+          "explanation": "<p>A. ✓ $(3+5) \\times 2 = 8 \\times 2 = 16$；分配律：$6 + 10 = 16$。成立。<br>B. ✓ $(10-4) \\times 3 = 6 \\times 3 = 18$；分配律：$30 - 12 = 18$。成立。<br>C. ✓ $(3+5) \\div 2 = 8 \\div 2 = 4$；分配律（分子可分配）：$1.5 + 2.5 = 4$。成立。<br>D. ✗ $2 \\div (3+5) = 2 \\div 8 = 0.25$，但 $2 \\div 3 + 2 \\div 5 = \\dfrac{2}{3} + \\dfrac{2}{5} = \\dfrac{16}{15} \\neq 0.25$。分母不可分配！<br>E. ✓ $(-6+4) \\times 3 = (-2) \\times 3 = -6$；分配律：$(-18) + 12 = -6$。成立。<br>答案（ABCE）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>以下等式<strong>正確</strong>的是？（多選）</p><p>A. $(-2)^2 = 4$</p><p>B. $-2^2 = -4$</p><p>C. $(-3)^3 = -27$</p><p>D. $-3^3 = 27$</p><p>E. $(-1)^{100} = 1$</p>",
+          "answer": "ABCE",
+          "explanation": "<p>A. ✓ $(-2)^2 = (-2) \\times (-2) = 4$（兩個負號，偶數→正）。<br>B. ✓ $-2^2 = -(2^2) = -4$（次方優先，負號最後加）。<br>C. ✓ $(-3)^3 = (-3) \\times (-3) \\times (-3) = 9 \\times (-3) = -27$（三個負號，奇數→負）。<br>D. ✗ $-3^3 = -(3^3) = -27$（不是 $27$）。<br>E. ✓ $(-1)^{100}$：100 個負號，偶數→正，結果為 $1$。<br>答案（ABCE）。</p>"
+        },
+        {
+          "id": "g1a_ch1_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>以下哪些情形判定為<strong>同號</strong>（乘積或商必為正）？（多選）</p><p>A. $a \\times b > 0$</p><p>B. $a \\div b > 0$</p><p>C. $a + b > 0$</p><p>D. $(-2) \\times (-3) > 0$</p><p>E. $(-4) \\div 2 > 0$</p>",
+          "answer": "ABD",
+          "explanation": "<p>A. ✓ $a \\times b > 0$ 代表乘積為正，兩數必同號。<br>B. ✓ $a \\div b > 0$ 代表商為正，兩數必同號。<br>C. ✗ $a + b > 0$ 不能判斷同號，例如 $a = 5, b = -2$ 時 $a+b=3>0$，但兩數異號。<br>D. ✓ $(-2) \\times (-3) = 6 > 0$，兩個負號（同為負數），結果為正，符合同號。<br>E. ✗ $(-4) \\div 2 = -2 < 0$，一負一正為異號，商為負。<br>答案（ABD）。</p>"
+        }
+      ]
+    }
+  ]
+}

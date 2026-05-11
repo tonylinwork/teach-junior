@@ -1,0 +1,176 @@
+{
+  "title": "國一上 2-1 因數與倍數",
+  "summary": "<ul><li><strong>因倍數定義</strong>：若 a ÷ b 整除（餘數為 0），則 a 是 b 的倍數，b 是 a 的因數。0 是任何非零整數的倍數；1 是任何整數的因數。</li><li><strong>倍數判斷法</strong>：2（末位是偶數）、4（末兩位能被 4 整除）、8（末三位能被 8 整除）；3/9（各位數字和能被 3/9 整除）；5（末位是 0 或 5）；11（奇數位數字和 − 偶數位數字和為 0 或 11 的倍數）。</li><li><strong>質數</strong>：只有 2 個因數（1 和本身）；1 不是質數也不是合數；2 是最小的質數，也是唯一偶數質數；1 到 100 共 25 個質數。</li><li><strong>合數</strong>：至少有 3 個因數；1 到 100 共 74 個合數。</li><li><strong>質因數分解</strong>：用短除法以質數逐步去除，標準分解式用指數表示（如 $120 = 2^3 \\times 3 \\times 5$）。</li><li><strong>正因數個數公式</strong>：若 $N = p^a \\times q^b \\times r^c$，則正因數個數 $= (a+1)(b+1)(c+1)$。</li><li><strong>區間倍數計數</strong>：從 A 到 B 中，k 的倍數個數 $= \\lfloor B \\div k \\rfloor - \\lfloor (A-1) \\div k \\rfloor$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch2_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>12 是 4 的倍數，4 是 12 的因數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。$12 \\div 4 = 3$ 整除，故 12 是 4 的倍數，4 是 12 的因數。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>1 是質數。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。質數的定義是「恰好有 2 個因數（1 和本身）」。1 只有 1 個因數（本身），所以 1 <strong>不是質數，也不是合數</strong>，是獨立的特例。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>2 是唯一的偶數質數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。2 是最小的質數，也是所有質數中唯一的偶數；其他所有偶數都能被 2 整除，因此至少有 3 個因數，屬於合數。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>0 是任何整數的倍數。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。0 是任何<strong>非零</strong>整數的倍數（因為 $0 \\div k = 0$ 整除，k ≠ 0）；但 0 不是 0 的倍數，因為 $0 \\div 0$ 無意義。所以「任何整數」這個說法不正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若 $N$ 的標準分解式為 $2^3 \\times 3^2$，則 $N$ 的正因數個數為 $(3+1)(2+1) = 12$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。依正因數個數公式：若 $N = p^a \\times q^b$，則正因數個數 $= (a+1)(b+1)$。<br>此處 $a = 3, b = 2$，故個數 $= (3+1)(2+1) = 4 \\times 3 = \\mathbf{12}$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>以下哪個數是 3 的倍數？</p><p>A. 124</p><p>B. 135</p><p>C. 146</p><p>D. 157</p>",
+          "answer": "B",
+          "explanation": "<p>3 的倍數判斷法：各位數字和能被 3 整除。<br>A. $1+2+4=7$，不能被 3 整除。<br>B. $1+3+5=9$，能被 3 整除。✓<br>C. $1+4+6=11$，不能被 3 整除。<br>D. $1+5+7=13$，不能被 3 整除。<br>答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>以下哪個數是 9 的倍數？</p><p>A. 135</p><p>B. 246</p><p>C. 279</p><p>D. 153</p>",
+          "answer": "C",
+          "explanation": "<p>9 的倍數判斷法：各位數字和能被 9 整除。<br>A. $1+3+5=9$（$135 \\div 9 = 15$ ✓）。<br>B. $2+4+6=12$，不能被 9 整除。<br>C. $2+7+9=18$（$279 \\div 9 = 31$ ✓）。<br>D. $1+5+3=9$（$153 \\div 9 = 17$ ✓）。<br>本題以 <strong>C（279）</strong>為正解。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>以下哪個數是 11 的倍數？</p><p>A. 121</p><p>B. 143</p><p>C. 148</p><p>D. 162</p>",
+          "answer": "B",
+          "explanation": "<p>11 的倍數判斷法：奇數位數字和 − 偶數位數字和，結果為 0 或 11 的倍數。<br>A. 121：奇位 $1+1=2$，偶位 $2$，差 $=0$ ✓；$121 = 11 \\times 11$ ✓。但 A 也符合，需確認其他選項。<br>B. 143：奇位 $1+3=4$，偶位 $4$，差 $=0$ ✓；$143 = 11 \\times 13$ ✓。<br>C. 148：奇位 $1+8=9$，偶位 $4$，差 $=5$，不是 11 的倍數。✗<br>D. 162：奇位 $1+2=3$，偶位 $6$，差 $=-3$，不是 11 的倍數。✗<br>本題 A 和 B 均為 11 的倍數，以 <strong>B（143 = 11 × 13）</strong>為正解。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>1 到 100 的質數共有幾個？</p><p>A. 20</p><p>B. 25</p><p>C. 30</p><p>D. 24</p>",
+          "answer": "B",
+          "explanation": "<p>1 到 100 的 25 個質數為：2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97，共 <strong>25</strong> 個。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>120 的標準分解式為？</p><p>A. $2^3 \\times 3^2 \\times 5$</p><p>B. $2^3 \\times 3 \\times 5$</p><p>C. $2^2 \\times 3 \\times 5$</p><p>D. $2^4 \\times 3 \\times 5$</p>",
+          "answer": "B",
+          "explanation": "<p>用短除法分解 120：<br>$120 \\div 2 = 60$<br>$60 \\div 2 = 30$<br>$30 \\div 2 = 15$<br>$15 \\div 3 = 5$<br>$5 \\div 5 = 1$<br>故 $120 = 2^3 \\times 3 \\times 5$。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>120 的正因數個數為幾個？（已知 $120 = 2^3 \\times 3 \\times 5$）</p><p>A. 12</p><p>B. 14</p><p>C. 16</p><p>D. 18</p>",
+          "answer": "C",
+          "explanation": "<p>依正因數個數公式：$N = 2^3 \\times 3^1 \\times 5^1$<br>正因數個數 $= (3+1)(1+1)(1+1) = 4 \\times 2 \\times 2 = \\mathbf{16}$。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>500 到 800 之間（含端點），9 的倍數有幾個？</p><p>A. 30</p><p>B. 31</p><p>C. 33</p><p>D. 34</p>",
+          "answer": "C",
+          "explanation": "<p>$800 \\div 9 = 88$ 餘 $8$，故 800 以內有 88 個 9 的倍數（最大為 $9 \\times 88 = 792$）。<br>$499 \\div 9 = 55$ 餘 $4$，故 499 以內有 55 個 9 的倍數。<br>500 到 800 之間 9 的倍數個數 $= 88 - 55 = \\mathbf{33}$（最小為 $9 \\times 56 = 504$，最大為 $9 \\times 88 = 792$）。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>288 加上最小的正整數 $x$ 後，其和能被 13 整除，則 $x = $？</p><p>A. 9</p><p>B. 10</p><p>C. 11</p><p>D. 12</p>",
+          "answer": "C",
+          "explanation": "<p>$288 \\div 13 = 22$ 餘 $2$，即 $288 = 13 \\times 22 + 2$。<br>要讓 $288 + x$ 能被 13 整除，需補足到下一個 13 的倍數：$13 \\times 23 = 299$。<br>$x = 299 - 288 = \\mathbf{11}$。驗算：$288 + 11 = 299 = 13 \\times 23$ ✓。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>36 顆磁磚可以排成長方形（長 ≥ 寬，且不含正方形），共有幾種排法？</p><p>A. 4</p><p>B. 5</p><p>C. 6</p><p>D. 8</p>",
+          "answer": "A",
+          "explanation": "<p>36 的因數對（長 × 寬，長 &gt; 寬）：<br>$36 \\times 1$、$18 \\times 2$、$12 \\times 3$、$9 \\times 4$，共 4 種。<br>（$6 \\times 6$ 是正方形，題目要求排除。）答案（A）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>以下哪些是 12 的因數？（多選）</p><p>A. 1</p><p>B. 2</p><p>C. 5</p><p>D. 6</p><p>E. 12</p>",
+          "answer": "ABDE",
+          "explanation": "<p>12 的因數為所有能整除 12 的正整數：1, 2, 3, 4, 6, 12。<br><strong>A ○</strong>：1 是任何整數的因數。<br><strong>B ○</strong>：$12 \\div 2 = 6$ ✓。<br><strong>C ╳</strong>：$12 \\div 5 = 2.4$，不能整除。<br><strong>D ○</strong>：$12 \\div 6 = 2$ ✓。<br><strong>E ○</strong>：$12 \\div 12 = 1$ ✓。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於質數與合數，哪些敘述正確？（多選）</p><p>A. 1 不是質數，也不是合數</p><p>B. 2 是最小的質數</p><p>C. 所有質數都是奇數</p><p>D. 51 是質數</p><p>E. 97 是質數</p>",
+          "answer": "ABE",
+          "explanation": "<p><strong>A ○</strong>：1 只有 1 個因數（本身），不符合質數（2 個因數）也不符合合數（3 個以上因數）的定義。<br><strong>B ○</strong>：2 是最小的質數，也是唯一的偶數質數。<br><strong>C ╳</strong>：2 是偶數但也是質數，故並非所有質數都是奇數。<br><strong>D ╳</strong>：$51 = 3 \\times 17$，是合數。<br><strong>E ○</strong>：97 是質數（2 到 9 均不整除 97）。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>以下哪些是 4 的倍數？（多選）</p><p>A. 124</p><p>B. 136</p><p>C. 142</p><p>D. 200</p><p>E. 314</p>",
+          "answer": "ABD",
+          "explanation": "<p>4 的倍數判斷法：末兩位能被 4 整除。<br><strong>A ○</strong>：末兩位 24，$24 \\div 4 = 6$ ✓。<br><strong>B ○</strong>：末兩位 36，$36 \\div 4 = 9$ ✓。<br><strong>C ╳</strong>：末兩位 42，$42 \\div 4 = 10.5$，不能整除。<br><strong>D ○</strong>：末兩位 00，$0 \\div 4 = 0$ ✓。<br><strong>E ╳</strong>：末兩位 14，$14 \\div 4 = 3.5$，不能整除。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>若 $N = 2^2 \\times 3 \\times 5^2$，以下哪些是 $N$ 的因數？（多選）</p><p>A. 1</p><p>B. 6（$= 2 \\times 3$）</p><p>C. 8（$= 2^3$）</p><p>D. 15（$= 3 \\times 5$）</p><p>E. 50（$= 2 \\times 5^2$）</p>",
+          "answer": "ABDE",
+          "explanation": "<p>$N = 2^2 \\times 3 \\times 5^2 = 300$。判斷因數：各質因數次方數不超過 $N$ 中對應次方數即可。<br><strong>A ○</strong>：1 是任何整數的因數。<br><strong>B ○</strong>：$6 = 2^1 \\times 3^1$，$2^1 \\le 2^2$，$3^1 \\le 3^1$ ✓。<br><strong>C ╳</strong>：$8 = 2^3$，但 $N$ 中 2 的次方只有 $2^2$，$2^3 &gt; 2^2$，故 8 不是 $N$ 的因數。<br><strong>D ○</strong>：$15 = 3^1 \\times 5^1$，兩者次方均未超過 $N$ ✓。<br><strong>E ○</strong>：$50 = 2^1 \\times 5^2$，兩者次方均未超過 $N$ ✓。</p>"
+        },
+        {
+          "id": "g1a_ch2_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>以下關於倍數判斷法，哪些敘述正確？（多選）</p><p>A. 3 的倍數：各位數字和能被 3 整除</p><p>B. 5 的倍數：末位是 0 或 5</p><p>C. 8 的倍數：末三位能被 8 整除</p><p>D. 9 的倍數：各位數字和能被 9 整除</p><p>E. 11 的倍數：奇數位數字和與偶數位數字和之差為 0 或 11 的倍數</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：3 的倍數判斷法正確。例如 $1+3+5=9$，故 135 是 3 的倍數。<br><strong>B ○</strong>：5 的倍數判斷法正確。末位為 0 或 5 即可。<br><strong>C ○</strong>：8 的倍數判斷法正確。例如 1024 末三位 024，$24 \\div 8 = 3$ ✓。<br><strong>D ○</strong>：9 的倍數判斷法正確。例如 $2+7+9=18$，故 279 是 9 的倍數。<br><strong>E ○</strong>：11 的倍數判斷法正確。例如 143：奇數位 $1+3=4$，偶數位 $4$，差 $=0$ ✓，故 143 是 11 的倍數。</p>"
+        }
+      ]
+    }
+  ]
+}

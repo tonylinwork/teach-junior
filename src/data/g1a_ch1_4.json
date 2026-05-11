@@ -1,0 +1,176 @@
+{
+  "title": "國一上 1-4 指數律與科學記號",
+  "summary": "<ul><li><strong>指數定義</strong>：$a^m$ 表示 m 個 a 相乘；a 稱為底數，m 稱為指數。2 次方又稱平方，3 次方又稱立方。</li><li><strong>五大指數律</strong>：① 同底相乘指數相加：$a^m \\times a^n = a^{m+n}$；② 同底相除指數相減：$a^m \\div a^n = a^{m-n}$（$a \\neq 0$）；③ 次方的次方指數相乘：$(a^m)^n = a^{mn}$；④ 乘積的次方：$(a \\times b)^m = a^m \\times b^m$；⑤ 零次方與負次方：$a^0 = 1$（$a \\neq 0$），$a^{-n} = \\dfrac{1}{a^n}$（負次方等於倒數，不是負數）。</li><li><strong>有無括號的差異</strong>：$(-2)^2 = 4$（括號整體平方，負負得正）；$-2^2 = -4$（先算 $2^2 = 4$ 再加負號）。</li><li><strong>科學記號</strong>：寫成 $a \\times 10^n$，其中 $1 \\leq a < 10$，n 為整數。正次方 → 整數，共 $n+1$ 位數；負次方 → 小數，小數點後第 $|n|$ 位開始不為零。</li><li><strong>科學記號運算</strong>：乘法「數字乘數字，次方加次方」；加減法先化成相同次方，再運算前面的數字。</li><li><strong>末尾零的個數</strong>：將數分解，找 2 和 5 的個數，取最小值即為末尾零的個數（每組 2×5 貢獻一個 0）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch1_4_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>$2^3 \\times 2^4 = 2^{12}$（底數相同相乘，指數也要相乘）。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。同底相乘應是<strong>指數相加</strong>，不是相乘。<br>$2^3 \\times 2^4 = 2^{3+4} = 2^7$，不是 $2^{12}$。<br>$2^{12}$ 是 $(2^3)^4$ 的結果（次方的次方才相乘）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$(2^3)^4 = 2^{12}$（次方的次方，指數相乘）。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。次方的次方，指數相乘：$(a^m)^n = a^{mn}$。<br>$(2^3)^4 = 2^{3 \\times 4} = 2^{12}$。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$(-2)^2 = 4$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。有括號時，整個 $(-2)$ 一起平方：$(-2)^2 = (-2) \\times (-2) = 4$（負負得正）。<br>注意和 $-2^2 = -4$ 區分（後者先算 $2^2 = 4$，再加負號）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>任何數的零次方都等於 1。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。應是「任何<strong>非零數</strong>的零次方等於 1」。<br>$0^0$ 無意義（數學上未定義），所以「任何數」的說法不正確。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>科學記號 $a \\times 10^n$ 中，$a$ 的範圍是 $1 \\leq a < 10$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。科學記號規定前面的數字 $a$ 必須滿足 $1 \\leq a < 10$，且 $n$ 為整數。<br>例如 $3.5 \\times 10^4$ 符合，但 $12 \\times 10^3$ 或 $0.5 \\times 10^5$ 不符合。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_4_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>計算 $2^5 \\times 2^3 = $ ？</p><p>A. $2^8$</p><p>B. $2^{15}$</p><p>C. $4^8$</p><p>D. $2^2$</p>",
+          "answer": "A",
+          "explanation": "<p>同底相乘，指數相加：$2^5 \\times 2^3 = 2^{5+3} = 2^8$。答案（A）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>計算 $3^6 \\div 3^2 = $ ？</p><p>A. $3^3$</p><p>B. $3^4$</p><p>C. $3^8$</p><p>D. $3^{12}$</p>",
+          "answer": "B",
+          "explanation": "<p>同底相除，指數相減：$3^6 \\div 3^2 = 3^{6-2} = 3^4$。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>計算 $(2^3)^2 = $ ？</p><p>A. $2^5$</p><p>B. $2^6$</p><p>C. $2^9$</p><p>D. $4^6$</p>",
+          "answer": "B",
+          "explanation": "<p>次方的次方，指數相乘：$(2^3)^2 = 2^{3 \\times 2} = 2^6$。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$2^{-3}$ 等於下列哪一個？</p><p>A. $-8$</p><p>B. $-6$</p><p>C. $\\dfrac{1}{8}$</p><p>D. $8$</p>",
+          "answer": "C",
+          "explanation": "<p>負次方等於倒數（不是負數）：$2^{-3} = \\dfrac{1}{2^3} = \\dfrac{1}{8}$。答案（C）。<br>常見錯誤：誤以為 $2^{-3} = -8$，但負次方代表倒數，結果仍為正數。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>將 77168 寫成科學記號，下列何者正確？</p><p>A. $77.168 \\times 10^3$</p><p>B. $7.7168 \\times 10^4$</p><p>C. $7.7168 \\times 10^5$</p><p>D. $771.68 \\times 10^2$</p>",
+          "answer": "B",
+          "explanation": "<p>科學記號要求 $1 \\leq a < 10$，故小數點放在第一個非零數字後：$7.7168$。<br>小數點從原位置往左移了 4 位，故指數為 4：$7.7168 \\times 10^4$。答案（B）。<br>選項 A、D 的 $a$ 值不符合 $1 \\leq a < 10$；選項 C 指數算錯。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>$3 \\times 10^{-4}$ 所代表的數，從小數點後第幾位開始不為零？</p><p>A. 3</p><p>B. 4</p><p>C. 5</p><p>D. 1</p>",
+          "answer": "B",
+          "explanation": "<p>科學記號 $a \\times 10^{-n}$（$n > 0$），表示小數點後第 $n$ 位開始不為零。<br>$3 \\times 10^{-4} = 0.0003$，小數點後第 <strong>4</strong> 位（即第 $|{-4}| = 4$ 位）開始不為零。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>計算 $(3 \\times 10^4) \\times (2 \\times 10^3) = $ ？</p><p>A. $6 \\times 10^7$</p><p>B. $6 \\times 10^{12}$</p><p>C. $5 \\times 10^7$</p><p>D. $6 \\times 10^1$</p>",
+          "answer": "A",
+          "explanation": "<p>科學記號乘法：數字乘數字，次方加次方。<br>$3 \\times 2 = 6$，$10^4 \\times 10^3 = 10^{4+3} = 10^7$。<br>結果：$6 \\times 10^7$。答案（A）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>計算 $2^7 \\times 5^{10}$ 的結果末尾有幾個 0？</p><p>A. 5</p><p>B. 7</p><p>C. 10</p><p>D. 17</p>",
+          "answer": "B",
+          "explanation": "<p>末尾零由 $2 \\times 5 = 10$ 決定，每組 2 和 5 配對貢獻一個 0。<br>有 7 個 2、10 個 5，能配對 7 組（取最小值）。<br>故末尾有 <strong>7</strong> 個 0。答案（B）。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>比較 $2^{11}$、$4^5$、$8^4$ 的大小，由大到小排列正確的是？</p><p>A. $2^{11} > 4^5 > 8^4$</p><p>B. $8^4 > 4^5 > 2^{11}$</p><p>C. $8^4 > 2^{11} > 4^5$</p><p>D. $4^5 > 2^{11} > 8^4$</p>",
+          "answer": "C",
+          "explanation": "<p>化為同底（底數 2）再比較：<br>$4^5 = (2^2)^5 = 2^{10}$<br>$8^4 = (2^3)^4 = 2^{12}$<br>$2^{11}$ 不變。<br>比較：$2^{12} > 2^{11} > 2^{10}$，即 $8^4 > 2^{11} > 4^5$。答案（C）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_4_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>關於指數律，下列哪些敘述正確？（多選）</p><p>A. $a^m \\times a^n = a^{m+n}$（同底相乘指數相加）</p><p>B. $a^m \\times b^m = (ab)^m$（同指數可合併底數）</p><p>C. $2^3 + 2^4 = 2^7$（不同底數的加法也能用指數律）</p><p>D. $(a^m)^n = a^{mn}$（次方的次方指數相乘）</p><p>E. $a^m \\div a^n = a^{m-n}$（同底相除指數相減）</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：同底相乘指數相加，正確的指數律。</p><p><strong>B ○</strong>：$(a \\times b)^m = a^m \\times b^m$，反過來也成立。</p><p><strong>C ╳</strong>：$2^3 + 2^4 = 8 + 16 = 24 \\neq 2^7 = 128$。<strong>加法不能使用指數律</strong>，指數律只適用於乘除。</p><p><strong>D ○</strong>：次方的次方，指數相乘，正確。</p><p><strong>E ○</strong>：同底相除指數相減，正確的指數律。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些計算結果正確？（多選）</p><p>A. $(-3)^2 = 9$</p><p>B. $-3^2 = -9$</p><p>C. $(-2)^3 = -8$</p><p>D. $(-2)^4 = 16$</p><p>E. $-2^4 = 16$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：$(-3)^2 = (-3) \\times (-3) = 9$（偶次方為正）。</p><p><strong>B ○</strong>：$-3^2 = -(3^2) = -9$（先算次方再加負號）。</p><p><strong>C ○</strong>：$(-2)^3 = (-2)\\times(-2)\\times(-2) = -8$（奇次方保留負號）。</p><p><strong>D ○</strong>：$(-2)^4 = 16$（偶次方為正）。</p><p><strong>E ╳</strong>：$-2^4 = -(2^4) = -16$（不是 16）。沒有括號時，先算 $2^4 = 16$，再加負號得 $-16$。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列哪些是合法的科學記號（符合 $1 \\leq a < 10$）？（多選）</p><p>A. $3.5 \\times 10^4$</p><p>B. $12 \\times 10^3$</p><p>C. $1 \\times 10^{-2}$</p><p>D. $0.5 \\times 10^5$</p><p>E. $9.99 \\times 10^0$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：$a = 3.5$，符合 $1 \\leq 3.5 < 10$。</p><p><strong>B ╳</strong>：$a = 12 \\geq 10$，不符合科學記號規定。應改寫為 $1.2 \\times 10^4$。</p><p><strong>C ○</strong>：$a = 1$，符合 $1 \\leq 1 < 10$（等號成立）。</p><p><strong>D ╳</strong>：$a = 0.5 < 1$，不符合科學記號規定。應改寫為 $5 \\times 10^4$。</p><p><strong>E ○</strong>：$a = 9.99$，符合 $1 \\leq 9.99 < 10$；$10^0 = 1$ 是合法的整數次方。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於科學記號運算，下列哪些敘述或計算正確？（多選）</p><p>A. $(2 \\times 10^3) \\times (4 \\times 10^2) = 8 \\times 10^5$</p><p>B. $(6 \\times 10^8) \\div (2 \\times 10^3) = 3 \\times 10^5$</p><p>C. 科學記號加減法：需先化成相同次方，再運算前面的數字</p><p>D. $3 \\times 10^4 + 2 \\times 10^3 = 5 \\times 10^7$（次方直接相加）</p><p>E. 把前面數字縮小 10 倍，後面的次方只需加 1</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：$2 \\times 4 = 8$，$10^3 \\times 10^2 = 10^5$，結果 $8 \\times 10^5$，正確。</p><p><strong>B ○</strong>：$6 \\div 2 = 3$，$10^8 \\div 10^3 = 10^5$，結果 $3 \\times 10^5$，正確。</p><p><strong>C ○</strong>：科學記號加減法必須化成相同次方才能運算，例如：$3 \\times 10^4 + 2 \\times 10^3 = 30 \\times 10^3 + 2 \\times 10^3 = 32 \\times 10^3 = 3.2 \\times 10^4$。</p><p><strong>D ╳</strong>：$3 \\times 10^4 + 2 \\times 10^3 \\neq 5 \\times 10^7$。次方不能直接相加（加法不是指數律的應用範圍），正確答案為 $3.2 \\times 10^4$。</p><p><strong>E ○</strong>：前面數字縮小 10 倍（÷10），相當於 $\\times 10^{-1}$，為了補回來後面次方需 $+1$，保持數值不變。例如 $3.5 \\times 10^4 = 0.35 \\times 10^5$。</p>"
+        },
+        {
+          "id": "g1a_ch1_4_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>以下何者成立（$a \\neq 0$）？（多選）</p><p>A. $a^0 = 1$</p><p>B. $0^0$ 無意義（未定義）</p><p>C. $a^{-1} = \\dfrac{1}{a}$</p><p>D. $(-1)$ 的偶次方等於 $1$</p><p>E. $(-1)$ 的奇次方等於 $1$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：任何非零數的零次方等於 1，$a^0 = 1$（$a \\neq 0$）。</p><p><strong>B ○</strong>：$0^0$ 在數學上未定義（無意義）。</p><p><strong>C ○</strong>：負一次方即倒數：$a^{-1} = \\dfrac{1}{a^1} = \\dfrac{1}{a}$。</p><p><strong>D ○</strong>：$(-1)^2 = 1$，$(-1)^4 = 1$，偶次方負負得正，結果為 1。</p><p><strong>E ╳</strong>：$(-1)^1 = -1$，$(-1)^3 = -1$，奇次方結果為 $-1$，不是 $1$。</p>"
+        }
+      ]
+    }
+  ]
+}

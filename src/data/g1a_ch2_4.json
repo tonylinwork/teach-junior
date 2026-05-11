@@ -1,0 +1,176 @@
+{
+  "title": "國一上 2-4 分數的乘除與四則",
+  "summary": "<ul><li><strong>分數乘法</strong>：分子乘分子、分母乘分母；計算時可<strong>先約分再相乘</strong>，速度較快。帶分數要先化成假分數，小數先化成分數。</li><li><strong>分數除法</strong>：「除以一數＝乘以該數的<strong>倒數</strong>」，只有除號後面那個數變倒數。</li><li><strong>倒數的定義</strong>：兩數相乘等於 1 互稱倒數。$\\frac{a}{b}$ 的倒數是 $\\frac{b}{a}$（分子分母顛倒），<strong>$0$ 沒有倒數</strong>。</li><li><strong>倒數的特殊值</strong>：$1$ 的倒數是 $1$；$-1$ 的倒數是 $-1$；負數的倒數還是負數（正負號不變）。</li><li><strong>負分數的乘除</strong>：先看負號個數判斷正負（偶數個負號→正、奇數個負號→負），再算絕對值。</li><li><strong>四則運算順序</strong>：<strong>先乘除、後加減；有括號先處理；絕對值優先算；次方最優先</strong>。</li><li><strong>含次方的分數</strong>：$\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}$，括號內的負號會隨次方變正負。</li><li><strong>應用題口訣</strong>：<strong>知道全部求部分用乘法、知道部分求全部用除法</strong>。</li><li><strong>分配律與結合律</strong>：用來簡化計算，如 $(a+b) \\times c = ac + bc$；觀察是否有共同因式可提出。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch2_4_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>$\\frac{3}{5}$ 的倒數是 $\\frac{5}{3}$。</p>",
+          "answer": "○",
+          "explanation": "<p>倒數的定義是<strong>分子分母顛倒</strong>，所以 $\\frac{3}{5}$ 的倒數就是 $\\frac{5}{3}$。驗證：$\\frac{3}{5} \\times \\frac{5}{3} = 1$ ✓。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$0$ 沒有倒數。</p>",
+          "answer": "○",
+          "explanation": "<p>倒數的定義是兩數相乘為 $1$。任何數乘以 $0$ 都等於 $0$，不可能得到 $1$，所以 <strong>$0$ 沒有倒數</strong>。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$-\\frac{2}{7}$ 的倒數是 $\\frac{7}{2}$。</p>",
+          "answer": "✕",
+          "explanation": "<p>取倒數時<strong>正負號不變</strong>，只把分子分母顛倒。所以 $-\\frac{2}{7}$ 的倒數是 $-\\frac{7}{2}$，不是 $\\frac{7}{2}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>計算 $\\frac{3}{4} \\div \\frac{6}{5}$ 時，可以把它改寫成 $\\frac{3}{4} \\times \\frac{5}{6}$。</p>",
+          "answer": "○",
+          "explanation": "<p>分數除法的規則是「除以一數＝乘以該數的倒數」，且<strong>只有除號後面的數變倒數</strong>，前面那個不變。所以 $\\frac{3}{4} \\div \\frac{6}{5} = \\frac{3}{4} \\times \\frac{5}{6}$，正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>計算 $2 + 3 \\times \\frac{1}{6}$ 時，要先做加法再做乘法，答案是 $\\frac{5}{6}$。</p>",
+          "answer": "✕",
+          "explanation": "<p>四則運算口訣是「<strong>先乘除、後加減</strong>」，所以要先算 $3 \\times \\frac{1}{6} = \\frac{1}{2}$，再算 $2 + \\frac{1}{2} = \\frac{5}{2}$。正確答案是 $\\frac{5}{2}$，不是 $\\frac{5}{6}$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_4_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一個數的倒數是 $-\\frac{3}{8}$？</p><p>A. $\\frac{3}{8}$</p><p>B. $-\\frac{8}{3}$</p><p>C. $\\frac{8}{3}$</p><p>D. $-\\frac{3}{8}$</p>",
+          "answer": "B",
+          "explanation": "<p>倒數要分子分母顛倒、正負號不變。$-\\frac{3}{8}$ 的倒數是 $-\\frac{8}{3}$。驗證：$-\\frac{3}{8} \\times \\left(-\\frac{8}{3}\\right) = 1$ ✓。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>$1\\frac{2}{3} \\times \\frac{9}{10}$ 的值為何？</p><p>A. $\\frac{3}{2}$</p><p>B. $\\frac{2}{3}$</p><p>C. $\\frac{5}{6}$</p><p>D. $\\frac{9}{6}$</p>",
+          "answer": "A",
+          "explanation": "<p>帶分數先化成假分數：$1\\frac{2}{3} = \\frac{5}{3}$。<br>$\\frac{5}{3} \\times \\frac{9}{10}$，先約分：$5$ 與 $10$ 同除 $5$，$3$ 與 $9$ 同除 $3$，得 $\\frac{1}{1} \\times \\frac{3}{2} = \\frac{3}{2}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$\\left(-\\frac{4}{9}\\right) \\div \\frac{8}{15}$ 的值為何？</p><p>A. $\\frac{5}{6}$</p><p>B. $-\\frac{5}{6}$</p><p>C. $\\frac{6}{5}$</p><p>D. $-\\frac{6}{5}$</p>",
+          "answer": "B",
+          "explanation": "<p>除法變乘法（後面變倒數）：$\\left(-\\frac{4}{9}\\right) \\times \\frac{15}{8}$。<br>約分：$4$ 與 $8$ 同除 $4$，$9$ 與 $15$ 同除 $3$，得 $-\\frac{1}{3} \\times \\frac{5}{2} = -\\frac{5}{6}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$\\left(-\\frac{2}{3}\\right)^2 \\times \\left(-\\frac{9}{8}\\right)$ 的值為何？</p><p>A. $\\frac{1}{2}$</p><p>B. $-\\frac{1}{2}$</p><p>C. $\\frac{3}{4}$</p><p>D. $-\\frac{3}{4}$</p>",
+          "answer": "B",
+          "explanation": "<p>次方最優先：$\\left(-\\frac{2}{3}\\right)^2 = \\frac{4}{9}$（負負得正）。<br>再算 $\\frac{4}{9} \\times \\left(-\\frac{9}{8}\\right)$，約分後得 $\\frac{1}{2} \\times (-1) = -\\frac{1}{2}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>$\\frac{3}{4} - \\frac{1}{2} \\times \\frac{2}{3}$ 的值為何？</p><p>A. $\\frac{1}{6}$</p><p>B. $\\frac{1}{4}$</p><p>C. $\\frac{5}{12}$</p><p>D. $\\frac{1}{12}$</p>",
+          "answer": "C",
+          "explanation": "<p>先乘除後加減：<br>$\\frac{1}{2} \\times \\frac{2}{3} = \\frac{1}{3}$。<br>$\\frac{3}{4} - \\frac{1}{3} = \\frac{9}{12} - \\frac{4}{12} = \\frac{5}{12}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>$\\left(\\frac{1}{2} + \\frac{1}{3}\\right) \\div \\frac{5}{6}$ 的值為何？</p><p>A. $\\frac{1}{2}$</p><p>B. $\\frac{5}{6}$</p><p>C. $1$</p><p>D. $\\frac{6}{5}$</p>",
+          "answer": "C",
+          "explanation": "<p>有括號先處理：$\\frac{1}{2} + \\frac{1}{3} = \\frac{3}{6} + \\frac{2}{6} = \\frac{5}{6}$。<br>$\\frac{5}{6} \\div \\frac{5}{6} = \\frac{5}{6} \\times \\frac{6}{5} = 1$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>小華用去他零用錢的 $\\frac{1}{3}$ 後還剩 $900$ 元，他原本有多少元？</p><p>A. $1200$ 元</p><p>B. $1350$ 元</p><p>C. $1800$ 元</p><p>D. $2700$ 元</p>",
+          "answer": "B",
+          "explanation": "<p>用去 $\\frac{1}{3}$，剩下 $\\frac{2}{3}$，所以「全部的 $\\frac{2}{3} = 900$」。<br><strong>知道部分求全部用除法</strong>：$900 \\div \\frac{2}{3} = 900 \\times \\frac{3}{2} = 1350$ 元。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>媽媽有一條長 $27\\frac{1}{2}$ 公分的火腿，每 $\\frac{3}{4}$ 公分切成一片，最多可以切成幾完整片？</p><p>A. $35$ 片</p><p>B. $36$ 片</p><p>C. $37$ 片</p><p>D. $38$ 片</p>",
+          "answer": "B",
+          "explanation": "<p>$27\\frac{1}{2} \\div \\frac{3}{4} = \\frac{55}{2} \\times \\frac{4}{3} = \\frac{55 \\times 2}{3} = \\frac{110}{3} = 36\\frac{2}{3}$。<br>整數部分是 $36$，所以最多可以切成 <strong>$36$ 完整片</strong>（剩下 $\\frac{2}{3}$ 片不足一片）。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>$\\left(-\\frac{1}{7}\\right) \\div \\frac{1}{42} \\times \\frac{5}{6} \\div \\left(-\\frac{5}{8}\\right)$ 的值為何？</p><p>A. $-8$</p><p>B. $8$</p><p>C. $-\\frac{1}{8}$</p><p>D. $\\frac{1}{8}$</p>",
+          "answer": "B",
+          "explanation": "<p>先看負號個數：有 $2$ 個負號 → 答案為正。<br>全部變乘法：$\\frac{1}{7} \\times 42 \\times \\frac{5}{6} \\times \\frac{8}{5}$。<br>約分：$\\frac{42}{7} = 6$，$6$ 與 $6$ 約掉，$5$ 與 $5$ 約掉，剩 $\\frac{8}{1} = 8$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_4_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於倒數的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. $1$ 的倒數是 $1$</p><p>B. $-1$ 的倒數是 $1$</p><p>C. $0$ 沒有倒數</p><p>D. 兩數互為倒數，則它們的乘積為 $1$</p><p>E. $-\\frac{5}{3}$ 的倒數是 $-\\frac{3}{5}$</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：$1 \\times 1 = 1$，$1$ 的倒數是 $1$，正確。<br><strong>B ✕</strong>：$-1$ 的倒數是 $-1$（自己本身），不是 $1$。驗證：$-1 \\times (-1) = 1$ ✓。<br><strong>C ○</strong>：$0$ 沒有倒數，正確。<br><strong>D ○</strong>：這就是倒數的定義，正確。<br><strong>E ○</strong>：分子分母顛倒、正負號不變，$-\\frac{5}{3}$ 的倒數是 $-\\frac{3}{5}$，正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列計算何者<strong>正確</strong>？（多選）</p><p>A. $\\frac{2}{5} \\times \\frac{15}{8} = \\frac{3}{4}$</p><p>B. $\\frac{3}{4} \\div \\frac{9}{16} = \\frac{27}{64}$</p><p>C. $\\left(-\\frac{1}{2}\\right) \\times \\left(-\\frac{4}{3}\\right) = \\frac{2}{3}$</p><p>D. $\\frac{5}{6} \\div \\left(-\\frac{10}{3}\\right) = -\\frac{1}{4}$</p><p>E. $\\left(-\\frac{3}{4}\\right)^2 = -\\frac{9}{16}$</p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：$\\frac{2}{5} \\times \\frac{15}{8} = \\frac{2 \\times 15}{5 \\times 8} = \\frac{30}{40} = \\frac{3}{4}$，正確。<br><strong>B ✕</strong>：$\\frac{3}{4} \\div \\frac{9}{16} = \\frac{3}{4} \\times \\frac{16}{9} = \\frac{4}{3}$，不是 $\\frac{27}{64}$（這是把分子分母都顛倒的錯誤）。<br><strong>C ○</strong>：負負得正，$\\frac{1}{2} \\times \\frac{4}{3} = \\frac{2}{3}$，正確。<br><strong>D ○</strong>：$\\frac{5}{6} \\times \\left(-\\frac{3}{10}\\right) = -\\frac{1}{4}$，正確。<br><strong>E ✕</strong>：$\\left(-\\frac{3}{4}\\right)^2 = \\left(-\\frac{3}{4}\\right) \\times \\left(-\\frac{3}{4}\\right) = \\frac{9}{16}$（負負得正），不是 $-\\frac{9}{16}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>關於四則運算的順序，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 先做乘除，再做加減</p><p>B. 有括號時，先算括號內的</p><p>C. 看到次方要優先算</p><p>D. 計算 $2 + 3 \\times 4$ 時要先算 $2 + 3$</p><p>E. 計算 $\\left(\\frac{1}{2}\\right)^2 + \\frac{1}{3}$ 時要先算次方</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：「先乘除後加減」是基本口訣，正確。<br><strong>B ○</strong>：括號優先，正確。<br><strong>C ○</strong>：「次方最優先」，正確。<br><strong>D ✕</strong>：應該先算 $3 \\times 4 = 12$，再算 $2 + 12 = 14$。先乘除後加減。<br><strong>E ○</strong>：次方最優先，先算 $\\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$，再加 $\\frac{1}{3}$，正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於 $\\left(-\\frac{1}{2}\\right) \\times \\left(-\\frac{2}{3}\\right) \\times \\left(-\\frac{3}{4}\\right) \\times \\left(-\\frac{4}{5}\\right)$ 的計算，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 有 $4$ 個負號，所以結果為正</p><p>B. 有 $4$ 個負號，所以結果為負</p><p>C. 約分後可得 $\\frac{1}{5}$</p><p>D. 計算結果為 $\\frac{1}{5}$</p><p>E. 計算結果為 $-\\frac{1}{5}$</p>",
+          "answer": "ACD",
+          "explanation": "<p>先看負號：有 $4$ 個負號（偶數），所以結果為<strong>正</strong>。<br><strong>A ○</strong>：偶數個負號為正，正確。<br><strong>B ✕</strong>：應為正不為負。<br>計算：$\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5}$，相鄰約分連消：$2$ 約 $2$、$3$ 約 $3$、$4$ 約 $4$，剩 $\\frac{1}{5}$。<br><strong>C ○</strong>、<strong>D ○</strong>：結果為 $\\frac{1}{5}$，正確。<br><strong>E ✕</strong>：是正的 $\\frac{1}{5}$，不是負的。</p>"
+        },
+        {
+          "id": "g1a_ch2_4_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>某商店一件衣服標價 $1200$ 元，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 打 $8$ 折後的售價是 $960$ 元</p><p>B. 「$8$ 折」就是售價 $\\times 0.8$</p><p>C. 打 $8$ 折後再加 $10\\%$ 服務費，要付 $1056$ 元</p><p>D. 若打折後售價是 $1080$ 元，則打的是 $9$ 折</p><p>E. 「$15\\%$ off」表示打 $15$ 折</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：$1200 \\times 0.8 = 960$ 元，正確。<br><strong>B ○</strong>：$8$ 折就是 $\\times 0.8$，正確。<br><strong>C ○</strong>：$960 \\times (1 + 10\\%) = 960 \\times 1.1 = 1056$ 元，正確。<br><strong>D ○</strong>：$1080 \\div 1200 = 0.9$，所以是 $9$ 折，正確。<br><strong>E ✕</strong>：「$15\\%$ off」是<strong>少掉 $15\\%$</strong>（剩 $85\\%$，即打 $85$ 折），不是打 $15$ 折。</p>"
+        }
+      ]
+    }
+  ]
+}

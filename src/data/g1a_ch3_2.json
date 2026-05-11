@@ -1,0 +1,176 @@
+{
+  "title": "國一上 3-2 等量公理與解一元一次方程式",
+  "summary": "<ul><li><strong>方程式的定義</strong>：含有等號「$=$」並且等號右邊是定值的式子叫做方程式；式中如果有未知數，就稱為含未知數的方程式。</li><li><strong>一元一次方程式</strong>：只含<strong>一種未知數</strong>、未知數的<strong>最高次方為一次</strong>、且有<strong>等號等於一個定值</strong>，這三個條件同時成立。</li><li><strong>方程式的解（根）</strong>：把某個數代入方程式後，能使等號兩邊相等（等式成立）的未知數值，就是方程式的解。</li><li><strong>驗算方法</strong>：將候選的解代入方程式，分別計算左右兩邊，若兩邊相等則為解，不相等則不是解。</li><li><strong>等量公理</strong>：等號兩邊可以同時加、減、乘、除一個<strong>不為 0</strong> 的數，等式仍然成立（除法時除數不能為 0）。</li><li><strong>移項法則</strong>：把一項從等號的一邊移到另一邊時，<strong>加變減、減變加、乘變除、除變乘</strong>。</li><li><strong>解題口訣</strong>：含未知數 $x$ 的項移到等號的一邊（通常左邊），常數項移到另一邊（通常右邊），最後合併同類項並求出 $x$。</li><li><strong>離 $x$ 越遠的越先處理</strong>：式子中若同時有加減與乘除，<strong>先處理加減</strong>（離 $x$ 較遠）再處理乘除。</li><li><strong>含分數係數的方程式</strong>：等號<strong>兩邊同乘分母的最小公倍數</strong>，把係數化為整數後再計算，分子是多項式時要記得加括號。</li><li><strong>含括號的方程式</strong>：先用分配律去括號，再依移項法則整理；多重括號則依「由內而外、由小而大」的順序處理。</li><li><strong>答案要約到最簡分數</strong>：國中起養成寫分數的習慣，盡量不寫小數，且結果必須化為最簡分數。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch3_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>式子 $x + 4$ 是一個一元一次方程式。</p>",
+          "answer": "✕",
+          "explanation": "<p>$x + 4$ 只是一個一元一次<strong>代數式</strong>，沒有等號等於一個定值，所以<strong>不是方程式</strong>。一元一次方程式必須同時滿足：只有一種未知數、最高次為一次、且有等號等於一個定值。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>方程式 $4x - 6 = 10$ 的解是 $x = 4$。</p>",
+          "answer": "○",
+          "explanation": "<p>將 $x = 4$ 代入：左邊 $= 4 \\times 4 - 6 = 16 - 6 = 10$，等於右邊 $10$，等號成立，所以 $x = 4$ 是方程式的解。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>等量公理是指：等號的兩邊可以同時加、減、乘、除一個<strong>任意</strong>的數，等式仍然成立。</p>",
+          "answer": "✕",
+          "explanation": "<p>等量公理在除法時要求除數<strong>不能為 0</strong>，因此「同除一個數」必須限制在<strong>不為 0</strong> 的數，不能說「任意」。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>解方程式時，把式子 $x + 5 = 7$ 的 $+5$ 移到等號右邊應該寫成 $x = 7 - 5$。</p>",
+          "answer": "○",
+          "explanation": "<p>移項法則：加變減。$+5$ 從左邊移到右邊變成 $-5$，所以 $x = 7 - 5 = 2$，正確。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>解方程式 $\\dfrac{x+1}{2} = \\dfrac{x-3}{4}$ 時，等號兩邊同乘 $4$，可寫成 $2(x+1) = x - 3$。</p>",
+          "answer": "○",
+          "explanation": "<p>兩邊同乘分母最小公倍數 $4$：左邊 $\\dfrac{x+1}{2} \\times 4 = 2(x+1)$，右邊 $\\dfrac{x-3}{4} \\times 4 = x - 3$。<strong>分子是多項式記得加括號</strong>，否則容易把後面項的正負號算錯。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch3_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一個式子是一元一次方程式？</p><p>A. $x + 4$</p><p>B. $x^2 + 5x - 6 = 0$</p><p>C. $2x + y = 5$</p><p>D. $3x - 1 = 8$</p>",
+          "answer": "D",
+          "explanation": "<p><strong>A ✕</strong>：沒有等號，只是代數式。<br><strong>B ✕</strong>：最高次為二次，是一元二次方程式。<br><strong>C ✕</strong>：有兩個未知數 $x$、$y$，是二元一次方程式。<br><strong>D ○</strong>：只有一個未知數 $x$，最高次為一次，且等於定值 $8$，符合一元一次方程式三個條件。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>下列哪一個數是方程式 $2x - 3 = 7$ 的解？</p><p>A. $x = 2$</p><p>B. $x = 3$</p><p>C. $x = 5$</p><p>D. $x = 7$</p>",
+          "answer": "C",
+          "explanation": "<p>依序代入驗算：<br>A：$2 \\times 2 - 3 = 1 \\neq 7$<br>B：$2 \\times 3 - 3 = 3 \\neq 7$<br>C：$2 \\times 5 - 3 = 7$ ✓<br>D：$2 \\times 7 - 3 = 11 \\neq 7$<br>所以解為 $x = 5$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>解方程式 $x + 6 = 11$，$x$ 的值為何？</p><p>A. $x = 5$</p><p>B. $x = -5$</p><p>C. $x = 17$</p><p>D. $x = 6$</p>",
+          "answer": "A",
+          "explanation": "<p>把 $+6$ 移到右邊變成 $-6$：$x = 11 - 6 = 5$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>解方程式 $2x - 6 = 11$，$x$ 的值為何？</p><p>A. $x = \\dfrac{5}{2}$</p><p>B. $x = \\dfrac{17}{2}$</p><p>C. $x = 5$</p><p>D. $x = -\\dfrac{17}{2}$</p>",
+          "answer": "B",
+          "explanation": "<p>第一步：$-6$ 移到右邊變 $+6$，$2x = 11 + 6 = 17$。<br>第二步：兩邊同除以 $2$（乘變除放分母），$x = \\dfrac{17}{2}$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>解方程式 $3x + 5 = -13$，$x$ 的值為何？</p><p>A. $x = -6$</p><p>B. $x = 6$</p><p>C. $x = -\\dfrac{8}{3}$</p><p>D. $x = -\\dfrac{18}{5}$</p>",
+          "answer": "A",
+          "explanation": "<p>離 $x$ 越遠的越先處理：先把 $+5$ 移過去，$3x = -13 - 5 = -18$。<br>再兩邊同除 $3$，$x = -6$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>解方程式 $2x + 5 = -3x + 8$，$x$ 的值為何？</p><p>A. $x = -\\dfrac{17}{3}$</p><p>B. $x = \\dfrac{17}{3}$</p><p>C. $x = \\dfrac{3}{5}$</p><p>D. $x = \\dfrac{13}{5}$</p>",
+          "answer": "C",
+          "explanation": "<p>含 $x$ 的項趕到左邊、常數項趕到右邊：<br>$2x + 3x = 8 - 5$<br>$5x = 3$<br>$x = \\dfrac{3}{5}$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>解方程式 $2(4x + 2) + (x - 5) = 17$，$x$ 的值為何？</p><p>A. $x = 1$</p><p>B. $x = 2$</p><p>C. $x = -2$</p><p>D. $x = \\dfrac{18}{9}$</p>",
+          "answer": "B",
+          "explanation": "<p>先用分配律去括號：$8x + 4 + x - 5 = 17$。<br>合併同類項：$9x - 1 = 17$。<br>移項：$9x = 18$，所以 $x = 2$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>解方程式 $\\dfrac{3x-1}{4} - \\dfrac{x+5}{6} = 1$，$x$ 的值為何？</p><p>A. $x = \\dfrac{25}{7}$</p><p>B. $x = 5$</p><p>C. $x = \\dfrac{7}{25}$</p><p>D. $x = -\\dfrac{25}{7}$</p>",
+          "answer": "A",
+          "explanation": "<p>兩邊同乘分母最小公倍數 $12$（分子是多項式記得加括號）：<br>$3(3x-1) - 2(x+5) = 12$<br>$9x - 3 - 2x - 10 = 12$<br>$7x - 13 = 12$<br>$7x = 25$，所以 $x = \\dfrac{25}{7}$。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>解方程式 $3\\{2x - [3 - (x + 1)]\\} = 12$，$x$ 的值為何？</p><p>A. $x = 1$</p><p>B. $x = 2$</p><p>C. $x = \\dfrac{5}{3}$</p><p>D. $x = -2$</p>",
+          "answer": "B",
+          "explanation": "<p>多重括號口訣「由內而外、由小而大」。<br>小括號：$x + 1$ 維持。$3 - (x + 1) = 3 - x - 1 = 2 - x$。<br>中括號：$2x - (2 - x) = 2x - 2 + x = 3x - 2$。<br>大括號展開：$3(3x - 2) = 9x - 6$。<br>方程式變成 $9x - 6 = 12$，移項得 $9x = 18$，所以 $x = 2$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch3_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列敘述中，哪些<strong>正確</strong>？（多選）</p><p>A. 一元一次方程式只能有一個未知數</p><p>B. 一元一次方程式中未知數的最高次方為一次</p><p>C. $x + 7$ 是一元一次方程式</p><p>D. $2y = 3y - y$ 是一元一次方程式</p><p>E. 一元一次方程式必須含有等號且等於一個定值</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：「一元」就是只有一種未知數。<br><strong>B ○</strong>：「一次」表示最高次方為一次。<br><strong>C ✕</strong>：沒有等號，只是代數式。<br><strong>D ○</strong>：移項後 $2y = 2y$（同類項合併後依然只有一個未知數、最高次為一次、等號兩邊相等），符合一元一次方程式定義（此為逐字稿範例 1 第五題）。<br><strong>E ○</strong>：方程式的核心特徵就是有等號且等於定值。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於等量公理與移項法則，下列哪些敘述<strong>正確</strong>？（多選）</p><p>A. 等號兩邊同加一個數，等式仍然成立</p><p>B. 等號兩邊同除一個數，等式恆成立（無任何限制）</p><p>C. $+a$ 從等號一邊移到另一邊變成 $-a$</p><p>D. $\\times a$ 從等號一邊移到另一邊變成 $\\div a$</p><p>E. $\\div a$ 從等號一邊移到另一邊變成 $\\times a$</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：等量公理的同加。<br><strong>B ✕</strong>：除法時除數<strong>不能為 0</strong>，要強調這個限制。<br><strong>C ○</strong>：加變減。<br><strong>D ○</strong>：乘變除。<br><strong>E ○</strong>：除變乘。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列哪些 $x$ 值是方程式 $1 + \\dfrac{x+2}{3} = \\dfrac{1-2x}{5}$ 的解？（多選）</p><p>A. $x = -1$</p><p>B. $x = 0$</p><p>C. $x = 1$</p><p>D. $x = -2$</p><p>E. $x = 2$</p>",
+          "answer": "D",
+          "explanation": "<p>逐一代入驗算：<br><strong>A</strong>：左 $= 1 + \\dfrac{1}{3} = \\dfrac{4}{3}$；右 $= \\dfrac{3}{5}$，不相等。<br><strong>B</strong>：左 $= 1 + \\dfrac{2}{3} = \\dfrac{5}{3}$；右 $= \\dfrac{1}{5}$，不相等。<br><strong>C</strong>：左 $= 1 + 1 = 2$；右 $= -\\dfrac{1}{5}$，不相等。<br><strong>D ○</strong>：左 $= 1 + 0 = 1$；右 $= \\dfrac{1-(-4)}{5} = \\dfrac{5}{5} = 1$，相等。<br><strong>E</strong>：左 $= 1 + \\dfrac{4}{3} = \\dfrac{7}{3}$；右 $= \\dfrac{-3}{5}$，不相等。<br>只有 $x = -2$ 是解（逐字稿範例 2）。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>解一元一次方程式時，下列哪些步驟或敘述<strong>正確</strong>？（多選）</p><p>A. 含分數時，等號兩邊同乘分母的最小公倍數，使係數化為整數</p><p>B. 含分數的方程式，分子是多項式時要記得加括號</p><p>C. 含括號的方程式，要先用分配律去括號再移項</p><p>D. 多重括號要「由外而內、由大而小」逐步處理</p><p>E. 同時有加減乘除時，要先處理離 $x$ 較遠的加減項</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：化為整係數方便計算。<br><strong>B ○</strong>：不加括號會把後面項的正負號弄錯，是常見錯誤。<br><strong>C ○</strong>：去括號是第一步。<br><strong>D ✕</strong>：多重括號口訣是「<strong>由內而外、由小而大</strong>」（先小括號、再中括號、再大括號）。<br><strong>E ○</strong>：離 $x$ 越遠的越先處理，加減先於乘除。</p>"
+        },
+        {
+          "id": "g1a_ch3_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>解方程式 $-5x + 8 = 14$ 的步驟，下列哪些<strong>正確</strong>？（多選）</p><p>A. 第一步把 $+8$ 移到右邊變成 $-8$</p><p>B. 移項後得 $-5x = 6$</p><p>C. 移項後得 $-5x = 22$</p><p>D. 兩邊同除以 $-5$，得 $x = -\\dfrac{6}{5}$</p><p>E. 答案 $x = -\\dfrac{6}{5}$ 已經是最簡分數，不需再化簡</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：離 $x$ 越遠的加減先處理。<br><strong>B ○</strong>：$-5x = 14 - 8 = 6$。<br><strong>C ✕</strong>：移項時 $+8$ 變成 $-8$，不是 $+8$，所以右邊應該是 $6$ 不是 $22$。<br><strong>D ○</strong>：兩邊同除 $-5$，$x = \\dfrac{6}{-5} = -\\dfrac{6}{5}$。<br><strong>E ○</strong>：$6$ 與 $5$ 互質，已經是最簡分數。</p>"
+        }
+      ]
+    }
+  ]
+}

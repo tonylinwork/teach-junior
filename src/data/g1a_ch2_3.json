@@ -1,0 +1,176 @@
+{
+  "title": "國一上 2-3 分數的加減",
+  "summary": "<ul><li><strong>最簡分數</strong>：寫成 $\\frac{p}{q}$ 且分子分母互質（最大公因數為 1）。國中寫分數答案一律要化成最簡分數。</li><li><strong>等值分數</strong>：分子與分母同乘或同除一個不為 0 的數，分數值不變（即「擴分」與「約分」）。</li><li><strong>分數加減法兩步驟</strong>：(1) 先去括號（注意負號分配律），(2) 通分母後分子相加減。</li><li><strong>同分母分數加減</strong>：分母不變，分子相加減。</li><li><strong>異分母分數加減</strong>：先通分（找分母的最小公倍數作為公分母）後，再做分子加減。</li><li><strong>帶分數加減</strong>：整數部分加整數、分數部分加分數；分子不夠減時向整數借 1。最後若是假分數要還原成帶分數，並化簡到最簡分數。</li><li><strong>負分數加減</strong>：先處理符號（負負得正、正負得負），再依整數加減法規則計算。</li><li><strong>整數視為分數</strong>：$n = \\frac{n}{1}$，可代入分數運算。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch2_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>計算 $\\frac{3}{7} + \\frac{2}{7} = \\frac{5}{14}$。</p>",
+          "answer": "✕",
+          "explanation": "<p>同分母分數相加時，<strong>分母不變</strong>、分子相加，所以 $\\frac{3}{7} + \\frac{2}{7} = \\frac{3+2}{7} = \\frac{5}{7}$，不是 $\\frac{5}{14}$。分母不能跟著一起加。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$\\frac{18}{24}$ 是最簡分數。</p>",
+          "answer": "✕",
+          "explanation": "<p>$18$ 與 $24$ 的最大公因數是 $6$（不是 $1$），所以可以約分為 $\\frac{18 \\div 6}{24 \\div 6} = \\frac{3}{4}$。最簡分數須分子分母互質，$\\frac{18}{24}$ 不是最簡分數。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>計算異分母分數加減時，要先通分為兩個分母的<strong>最小公倍數</strong>。</p>",
+          "answer": "○",
+          "explanation": "<p>異分母分數無法直接加減，須先通分。通分時取分母的最小公倍數作公分母，計算最簡單；當然取其他公倍數也可以做出答案，但數字會比較大、後面還要再約分。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>計算 $-\\frac{1}{3} - \\left(-\\frac{1}{6}\\right) = -\\frac{1}{6}$。</p>",
+          "answer": "○",
+          "explanation": "<p>負負得正：$-\\frac{1}{3} - \\left(-\\frac{1}{6}\\right) = -\\frac{1}{3} + \\frac{1}{6}$。通分為 6：$= -\\frac{2}{6} + \\frac{1}{6} = -\\frac{1}{6}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>整數 $5$ 可以寫成分數 $\\frac{5}{1}$，所以 $5 + \\frac{2}{3} = \\frac{15}{3} + \\frac{2}{3} = \\frac{17}{3}$。</p>",
+          "answer": "○",
+          "explanation": "<p>整數可以視為分母為 $1$ 的分數，$5 = \\frac{5}{1}$。要與 $\\frac{2}{3}$ 相加，先通分為 $\\frac{5}{1} = \\frac{5 \\times 3}{1 \\times 3} = \\frac{15}{3}$，再相加得 $\\frac{17}{3}$，正確。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>計算 $\\frac{5}{12} + \\frac{1}{12} - \\frac{7}{12} = ?$</p><p>A. $-\\frac{1}{12}$</p><p>B. $\\frac{1}{12}$</p><p>C. $-\\frac{1}{4}$</p><p>D. $\\frac{13}{12}$</p>",
+          "answer": "A",
+          "explanation": "<p>同分母分數相加減，分母不變，分子直接運算：<br>$\\frac{5+1-7}{12} = \\frac{-1}{12} = -\\frac{1}{12}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>計算 $\\frac{2}{3} + \\frac{3}{4} = ?$</p><p>A. $\\frac{5}{7}$</p><p>B. $\\frac{5}{12}$</p><p>C. $\\frac{17}{12}$</p><p>D. $1\\frac{1}{12}$</p>",
+          "answer": "C",
+          "explanation": "<p>$3$ 與 $4$ 的最小公倍數為 $12$，通分後：<br>$\\frac{2}{3} + \\frac{3}{4} = \\frac{8}{12} + \\frac{9}{12} = \\frac{17}{12}$（也可寫成 $1\\frac{5}{12}$）。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>計算 $2\\frac{1}{6} + 3\\frac{2}{9} = ?$</p><p>A. $5\\frac{1}{6}$</p><p>B. $5\\frac{7}{18}$</p><p>C. $5\\frac{3}{15}$</p><p>D. $6\\frac{1}{18}$</p>",
+          "answer": "B",
+          "explanation": "<p>整數加整數、分數加分數。<br>整數：$2 + 3 = 5$。<br>分數：$\\frac{1}{6} + \\frac{2}{9}$，通分為 $18$：$\\frac{3}{18} + \\frac{4}{18} = \\frac{7}{18}$。<br>合併：$5\\frac{7}{18}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>計算 $-\\frac{5}{8} + \\frac{3}{4} = ?$</p><p>A. $\\frac{1}{8}$</p><p>B. $-\\frac{1}{8}$</p><p>C. $\\frac{1}{4}$</p><p>D. $-\\frac{1}{2}$</p>",
+          "answer": "A",
+          "explanation": "<p>通分為 $8$：$-\\frac{5}{8} + \\frac{3}{4} = -\\frac{5}{8} + \\frac{6}{8} = \\frac{6-5}{8} = \\frac{1}{8}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>計算 $4\\frac{1}{3} - 1\\frac{5}{6} = ?$</p><p>A. $3\\frac{1}{2}$</p><p>B. $3\\frac{1}{3}$</p><p>C. $2\\frac{1}{2}$</p><p>D. $2\\frac{2}{3}$</p>",
+          "answer": "C",
+          "explanation": "<p>通分為 $6$：$4\\frac{1}{3} - 1\\frac{5}{6} = 4\\frac{2}{6} - 1\\frac{5}{6}$。<br>$\\frac{2}{6}$ 不夠減 $\\frac{5}{6}$，向整數借 $1$：$4\\frac{2}{6} = 3\\frac{8}{6}$。<br>$3\\frac{8}{6} - 1\\frac{5}{6} = 2\\frac{3}{6} = 2\\frac{1}{2}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>計算 $\\frac{7}{10} - \\left(-\\frac{2}{5}\\right) - \\frac{1}{2} = ?$</p><p>A. $\\frac{3}{5}$</p><p>B. $\\frac{1}{5}$</p><p>C. $-\\frac{1}{5}$</p><p>D. $\\frac{4}{5}$</p>",
+          "answer": "A",
+          "explanation": "<p>先去括號：$\\frac{7}{10} + \\frac{2}{5} - \\frac{1}{2}$。<br>通分為 $10$：$\\frac{7}{10} + \\frac{4}{10} - \\frac{5}{10} = \\frac{7+4-5}{10} = \\frac{6}{10} = \\frac{3}{5}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>已知 $\\frac{a}{12} = \\frac{15}{36}$，則 $a = ?$</p><p>A. $3$</p><p>B. $4$</p><p>C. $5$</p><p>D. $6$</p>",
+          "answer": "C",
+          "explanation": "<p>分母從 $36$ 變 $12$ 是除以 $3$，分子也要除以 $3$：$a = 15 \\div 3 = 5$。<br>驗算：$\\frac{5}{12} = \\frac{15}{36}$ 正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>小傑看一本哈利波特，第一天看完全書的 $\\frac{1}{7}$，第二天看完全書的 $\\frac{3}{8}$，請問還剩下全書的多少沒看完？</p><p>A. $\\frac{27}{56}$</p><p>B. $\\frac{29}{56}$</p><p>C. $\\frac{4}{15}$</p><p>D. $\\frac{1}{2}$</p>",
+          "answer": "A",
+          "explanation": "<p>全書視為 $1$。剩下 $= 1 - \\frac{1}{7} - \\frac{3}{8}$。<br>通分為 $56$：$\\frac{56}{56} - \\frac{8}{56} - \\frac{21}{56} = \\frac{56-8-21}{56} = \\frac{27}{56}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>計算 $\\frac{1}{2} + \\frac{1}{3} - \\frac{5}{6} + \\frac{3}{4} = ?$</p><p>A. $\\frac{1}{4}$</p><p>B. $\\frac{3}{4}$</p><p>C. $\\frac{5}{12}$</p><p>D. $\\frac{11}{12}$</p>",
+          "answer": "B",
+          "explanation": "<p>通分為 $12$：$\\frac{6}{12} + \\frac{4}{12} - \\frac{10}{12} + \\frac{9}{12} = \\frac{6+4-10+9}{12} = \\frac{9}{12} = \\frac{3}{4}$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch2_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些是<strong>最簡分數</strong>？（多選）</p><p>A. $\\frac{9}{16}$</p><p>B. $\\frac{14}{21}$</p><p>C. $\\frac{11}{15}$</p><p>D. $\\frac{12}{18}$</p><p>E. $\\frac{7}{12}$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：$\\gcd(9,16)=1$，是最簡分數。<br><strong>B ✕</strong>：$\\gcd(14,21)=7$，可約成 $\\frac{2}{3}$。<br><strong>C ○</strong>：$\\gcd(11,15)=1$，是最簡分數。<br><strong>D ✕</strong>：$\\gcd(12,18)=6$，可約成 $\\frac{2}{3}$。<br><strong>E ○</strong>：$\\gcd(7,12)=1$，是最簡分數。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列等式哪些<strong>正確</strong>？（多選）</p><p>A. $\\frac{2}{5} + \\frac{1}{5} = \\frac{3}{5}$</p><p>B. $\\frac{1}{2} + \\frac{1}{3} = \\frac{2}{5}$</p><p>C. $\\frac{3}{4} - \\frac{1}{6} = \\frac{7}{12}$</p><p>D. $-\\frac{2}{9} - \\frac{4}{9} = -\\frac{6}{9}$</p><p>E. $1 - \\frac{3}{7} = \\frac{4}{7}$</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：同分母分子相加，$\\frac{3}{5}$ 正確。<br><strong>B ✕</strong>：分母不能直接相加。正確為 $\\frac{3}{6}+\\frac{2}{6}=\\frac{5}{6}$。<br><strong>C ○</strong>：$\\frac{9}{12}-\\frac{2}{12}=\\frac{7}{12}$ 正確。<br><strong>D ○</strong>：$\\frac{-2-4}{9}=-\\frac{6}{9}$（雖未化簡，但等式成立）。<br><strong>E ○</strong>：$\\frac{7}{7}-\\frac{3}{7}=\\frac{4}{7}$ 正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列哪些分數與 $\\frac{4}{6}$ 為<strong>等值分數</strong>？（多選）</p><p>A. $\\frac{2}{3}$</p><p>B. $\\frac{8}{12}$</p><p>C. $\\frac{6}{8}$</p><p>D. $\\frac{10}{15}$</p><p>E. $\\frac{20}{30}$</p>",
+          "answer": "ABDE",
+          "explanation": "<p>$\\frac{4}{6} = \\frac{2}{3}$（最簡）。檢查各選項是否約成 $\\frac{2}{3}$：<br><strong>A ○</strong>：本身就是 $\\frac{2}{3}$。<br><strong>B ○</strong>：$\\frac{8}{12}=\\frac{2}{3}$。<br><strong>C ✕</strong>：$\\frac{6}{8}=\\frac{3}{4}$，不是 $\\frac{2}{3}$。<br><strong>D ○</strong>：$\\frac{10}{15}=\\frac{2}{3}$。<br><strong>E ○</strong>：$\\frac{20}{30}=\\frac{2}{3}$。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>計算 $3\\frac{1}{4} - 1\\frac{2}{3} = ?$ 下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 通分為 $12$ 後，被減數變為 $3\\frac{3}{12}$、減數變為 $1\\frac{8}{12}$</p><p>B. $\\frac{3}{12}$ 不夠減 $\\frac{8}{12}$，要向整數借 $1$，變成 $2\\frac{15}{12}$</p><p>C. 計算結果為 $1\\frac{7}{12}$</p><p>D. 計算結果為 $2\\frac{5}{12}$</p><p>E. 計算結果若化成假分數為 $\\frac{19}{12}$</p>",
+          "answer": "ABCE",
+          "explanation": "<p>通分為 $12$：$3\\frac{1}{4}=3\\frac{3}{12}$，$1\\frac{2}{3}=1\\frac{8}{12}$，A 正確。<br>$\\frac{3}{12}$ 不夠減 $\\frac{8}{12}$，借 $1$（即 $\\frac{12}{12}$）：$3\\frac{3}{12}=2\\frac{15}{12}$，B 正確。<br>相減：$2\\frac{15}{12} - 1\\frac{8}{12} = 1\\frac{7}{12}$，C 正確、D 錯。<br>$1\\frac{7}{12} = \\frac{12+7}{12} = \\frac{19}{12}$，E 正確。</p>"
+        },
+        {
+          "id": "g1a_ch2_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>計算 $\\frac{5}{6} - \\left(\\frac{2}{3} - \\frac{1}{4}\\right) + \\frac{1}{12} = ?$ 下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 去括號時，括號前是減號，括號內每一項都要變號</p><p>B. 去括號後可改寫成 $\\frac{5}{6} - \\frac{2}{3} + \\frac{1}{4} + \\frac{1}{12}$</p><p>C. 通分為 $12$ 後為 $\\frac{10}{12} - \\frac{8}{12} + \\frac{3}{12} + \\frac{1}{12}$</p><p>D. 最後結果為 $\\frac{6}{12}$</p><p>E. 最後結果化為最簡分數為 $\\frac{1}{2}$</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：減號分配進括號，每一項變號，正確。<br><strong>B ○</strong>：$-\\left(\\frac{2}{3}-\\frac{1}{4}\\right) = -\\frac{2}{3}+\\frac{1}{4}$，正確。<br><strong>C ○</strong>：通分為 $12$ 結果如算式。<br><strong>D ✕</strong>：$\\frac{10-8+3+1}{12} = \\frac{6}{12}$ 雖然數值對，但應化為最簡分數 $\\frac{1}{2}$，所以 D 不能算「最後結果」（最後結果要寫最簡）。<br><strong>E ○</strong>：$\\frac{6}{12} = \\frac{1}{2}$，是最簡形式，正確。</p>"
+        }
+      ]
+    }
+  ]
+}

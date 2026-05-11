@@ -1,0 +1,176 @@
+{
+  "title": "國一上 1-2 整數的加減",
+  "summary": "<ul><li><strong>六種加減型別</strong>：① 正減正（大減小→正，小減大→負）② 正加負（轉減法，看絕對值大的符號）③ 正減負（負負得正，改為加正）④ 負加正（看絕對值大的符號決定正負）⑤ 負減正（數字相加，保留負號）⑥ 負減負（改為加正，再看絕對值大小）。</li><li><strong>交換律與分組湊整</strong>：移動數字時，前面的符號要一起移動。利用分組湊整數（如 -168+(-32) 先算 = -200）可簡化計算。</li><li><strong>數線移動</strong>：向右移動 = 加法；向左移動 = 減法。</li><li><strong>中點座標</strong>：線段 AB 的中點 $M = (A+B) \\div 2$。互為相反數的兩數，中點座標 = 0。</li><li><strong>數線距離</strong>：兩點距離 $= |A-B| = $ 大座標 $-$ 小座標，恆為非負數。A 點和距離已知時，B 的位置有兩個可能（方向未定）。</li><li><strong>括號規則</strong>：正號括號去掉，括號內符號不變；負號括號去掉，括號內每項符號全部變號。</li><li><strong>去絕對值</strong>：內部 $\\geq 0$ 直接去掉絕對值符號；內部 $&lt; 0$ 則外加負號（取相反數）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1a_ch1_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>$21 - 40$ 的結果是負數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。$21 - 40$：正減正，小減大，結果為負。$21 - 40 = -(40-21) = -19$。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$7 - (-16) = 7 - 16 = -9$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。減一個負數要改為加正數（負負得正）：$7 - (-16) = 7 + 16 = 23$，不是 $-9$。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>若兩數相加等於 0，則這兩數互為相反數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。互為相反數的定義就是：兩數之和為 0。例如 $5 + (-5) = 0$，所以 $5$ 與 $-5$ 互為相反數。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>在數線上向左移動 $k$ 單位，等同於加上 $k$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。向左移動代表<strong>減法</strong>（座標變小），即 $-k$；向右移動才是加 $k$。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>數線上線段 AB 的中點 M 的座標為 $(A + B) \\div 2$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。中點座標公式：$M = \\dfrac{A + B}{2}$。例如 $A = -3$，$B = 7$，則 $M = \\dfrac{-3+7}{2} = 2$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>$27 + (-19) = $ ？</p><p>A. 8</p><p>B. -8</p><p>C. 46</p><p>D. -46</p>",
+          "answer": "A",
+          "explanation": "<p>正加負：絕對值大的是 $27$（正），故結果為正。$27 - 19 = $ <strong>8</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>$(-21) - 8 = $ ？</p><p>A. -13</p><p>B. 13</p><p>C. -29</p><p>D. 29</p>",
+          "answer": "C",
+          "explanation": "<p>負減正：數字相加，保留負號。$-(21 + 8) = $ <strong>$-29$</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$(-19) - (-21) = $ ？</p><p>A. -40</p><p>B. -2</p><p>C. 2</p><p>D. 40</p>",
+          "answer": "C",
+          "explanation": "<p>負減負：改為加正。$(-19) - (-21) = -19 + 21 = $ <strong>$2$</strong>（絕對值大的是 $21$，結果為正）。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>數線上 A 點座標為 $-6$，向右移動 8 單位後到達哪一點？</p><p>A. -14</p><p>B. -2</p><p>C. 2</p><p>D. 14</p>",
+          "answer": "C",
+          "explanation": "<p>向右移動 = 加法。$-6 + 8 = $ <strong>$2$</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>數線上 $A = -15$，$B = 17$，線段 AB 的中點 M 座標為何？</p><p>A. -1</p><p>B. 0</p><p>C. 1</p><p>D. 2</p>",
+          "answer": "C",
+          "explanation": "<p>$M = \\dfrac{A + B}{2} = \\dfrac{-15 + 17}{2} = \\dfrac{2}{2} = $ <strong>$1$</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>數線上 A 點座標為 $-6$，B 點座標為 $-9$，AB 兩點的距離為何？</p><p>A. 3</p><p>B. 9</p><p>C. 15</p><p>D. 6</p>",
+          "answer": "A",
+          "explanation": "<p>兩點距離 $= |A - B| = |(-6) - (-9)| = |-6 + 9| = |3| = $ <strong>$3$</strong>。答案（A）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>已知 A 點座標為 $-5$，AB 距離為 12，B 點座標可能是？</p><p>A. 只有 7</p><p>B. 只有 -17</p><p>C. 7 或 -17</p><p>D. 12</p>",
+          "answer": "C",
+          "explanation": "<p>方向未定，B 在 A 的右邊或左邊都有可能：<br>向右：$-5 + 12 = 7$<br>向左：$-5 - 12 = -17$<br>故 B 座標為 <strong>7 或 $-17$</strong>，有兩個答案。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>去掉括號，化簡 $-(3 - 7) = $ ？</p><p>A. -10</p><p>B. -4</p><p>C. 4</p><p>D. 10</p>",
+          "answer": "C",
+          "explanation": "<p>負號括號去掉，括號內每項符號全部變號：$-(3 - 7) = -3 + 7 = $ <strong>$4$</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>已知 $-2 &lt; a &lt; 0$，化簡 $|a + 2| + |a - 2| = $ ？</p><p>A. 0</p><p>B. 2</p><p>C. 4</p><p>D. $2a$</p>",
+          "answer": "C",
+          "explanation": "<p>$a$ 在 $-2$ 到 $0$ 之間（不含端點）：<br>$a + 2 &gt; 0$，故 $|a+2| = a+2$。<br>$a - 2 &lt; 0$，故 $|a-2| = -(a-2) = -a+2$。<br>合計：$(a+2) + (-a+2) = $ <strong>$4$</strong>。答案（C）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1a_ch1_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>以下哪些計算結果正確？（多選）</p><p>A. $(-3) + (-5) = -8$</p><p>B. $(-3) - (-5) = 2$</p><p>C. $3 - (-5) = -2$</p><p>D. $(-7) + 4 = -3$</p><p>E. $(-7) - 4 = -11$</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：負加負，數字相加保負號，$-(3+5) = -8$。</p><p><strong>B ○</strong>：負減負改為加正，$-3 + 5 = 2$（絕對值大的是 5，正）。</p><p><strong>C ╳</strong>：正減負改為加正，$3 + 5 = 8$，不是 $-2$。</p><p><strong>D ○</strong>：負加正，絕對值大的是 $7$（負），$-(7-4) = -3$。</p><p><strong>E ○</strong>：負減正，數字相加保負號，$-(7+4) = -11$。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於加減法的交換律與括號規則，哪些做法正確？（多選）</p><p>A. 計算 $(-168) + 57 + (-32) + 43$，先將 $(-168) + (-32) = -200$，再算 $57 + 43 = 100$，合計 $-100$</p><p>B. 移動數字時，前面的符號要一起移動</p><p>C. 正號括號去掉，括號內符號不變</p><p>D. 負號括號去掉，括號內符號不變</p><p>E. 利用分組湊整可以簡化計算</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：分組湊整，$-200 + 100 = -100$，計算正確。</p><p><strong>B ○</strong>：交換律的關鍵：數字帶著前面的符號一起移動。</p><p><strong>C ○</strong>：$+(a - b) = a - b$，正號括號去掉符號不變。</p><p><strong>D ╳</strong>：負號括號去掉，括號內<strong>每項符號全部變號</strong>，例如 $-(a - b) = -a + b$。</p><p><strong>E ○</strong>：分組湊整（如湊成整十、整百）是簡化計算的重要技巧。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>以下哪些等式成立？（多選）</p><p>A. $27 + (-19) = 27 - 19 = 8$</p><p>B. $(-3) + (-5) = -(3+5) = -8$</p><p>C. $(-72) + 39 = -(72-39) = -33$</p><p>D. $(-31) - (-18) = -31 - 18 = -49$</p><p>E. $18 - (-21) = 18 + 21 = 39$</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：正加負轉減法，$27 - 19 = 8$，正確。</p><p><strong>B ○</strong>：負加負，同號相加保符號，$-(3+5) = -8$，正確。</p><p><strong>C ○</strong>：負加正，絕對值大的是 $72$（負），$-(72-39) = -33$，正確。</p><p><strong>D ╳</strong>：負減負改為加正：$(-31) - (-18) = -31 + 18 = -13$，不是 $-49$。</p><p><strong>E ○</strong>：正減負改為加正，$18 + 21 = 39$，正確。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於數線上的距離，下列哪些敘述正確？（多選）</p><p>A. 兩點距離恆大於或等於 0</p><p>B. $A = -3$，$B = 5$，則 AB 距離 $= |(-3) - 5| = 8$</p><p>C. 距離可以是負數</p><p>D. 已知 A 點座標和 AB 距離，B 點的位置只有一個</p><p>E. $|A - B| = |B - A|$</p>",
+          "answer": "ABE",
+          "explanation": "<p><strong>A ○</strong>：距離是絕對值，恆為非負數。</p><p><strong>B ○</strong>：$|(-3) - 5| = |-8| = 8$，正確。</p><p><strong>C ╳</strong>：距離是絕對值，不可能為負數。</p><p><strong>D ╳</strong>：方向未定時，B 在 A 的左邊或右邊都可以，有兩個可能的位置。</p><p><strong>E ○</strong>：$|A-B| = |-(B-A)| = |B-A|$，絕對值加負號等於原值。</p>"
+        },
+        {
+          "id": "g1a_ch1_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>已知 $|A + 5| + |B - 3| + |C + 8| = 0$，下列哪些敘述正確？（多選）</p><p>A. $A = -5$</p><p>B. $B = 3$</p><p>C. $C = -8$</p><p>D. $A + B + C = -10$</p><p>E. 三個絕對值各自等於 0</p>",
+          "answer": "ABCDE",
+          "explanation": "<p>絕對值恆 $\\geq 0$，三個非負數之和為 0，故三個絕對值<strong>各自都必須等於 0</strong>。</p><p><strong>E ○</strong>：$|A+5| = 0$，$|B-3| = 0$，$|C+8| = 0$。</p><p><strong>A ○</strong>：$A + 5 = 0 \\Rightarrow A = -5$。</p><p><strong>B ○</strong>：$B - 3 = 0 \\Rightarrow B = 3$。</p><p><strong>C ○</strong>：$C + 8 = 0 \\Rightarrow C = -8$。</p><p><strong>D ○</strong>：$A + B + C = (-5) + 3 + (-8) = -10$。</p>"
+        }
+      ]
+    }
+  ]
+}

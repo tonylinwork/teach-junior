@@ -1,0 +1,176 @@
+{
+  "title": "國一下 1-1 二元一次式與二元一次方程式",
+  "summary": "<ul><li><strong>二元一次式</strong>：式子裡<strong>恰有兩種文字符號（未知數）</strong>，且每個未知數的最高次數都是 1，沒有等號。例如 $3x + 5y - 7$。</li><li><strong>非二元一次式的判斷</strong>：只有一個未知數（一元）、有三個或以上未知數（三元）、出現平方或更高次方（如 $x^2$）、出現 $\\frac{1}{y}$（相當於 $y^{-1}$）皆不是。</li><li><strong>同類項合併</strong>：$x$ 與 $x$ 合併、$y$ 與 $y$ 合併、常數與常數合併。化簡步驟為：先去括號（分配律）→ 再合併同類項。</li><li><strong>分數型化簡</strong>：先通分（分母最小公倍數），分子部分用括號保留再分配，不能直接消掉分母。</li><li><strong>二元一次方程式</strong>：含兩個未知數、最高次方為 1、有等號的方程式，可整理成 $ax + by = c$（$a, b$ 不同時為 0）。</li><li><strong>方程式的解</strong>：一組有序對 $(x, y)$ 代入後，等號兩邊相等。</li><li><strong>無限多組解</strong>：一個二元一次方程式若無條件限制，會有<strong>無限多組解</strong>（圖形是一條直線，線上有無限多個點）。</li><li><strong>正整數解／非負整數解</strong>：題目要求解為正整數時不含 0；非負整數解可含 0；通常用列表方式討論所有可能。</li><li><strong>列二元一次方程式</strong>：找出兩個未知數、依題意建立含 $x, y$ 的等式（人歸人、錢歸錢；總量歸總量、各部分歸各部分）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1b_ch1_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>「元」指的是「未知數」（文字符號）。所以「二元一次式」表示式子裡有兩個不同的未知數，且最高次方都是 1。</p>",
+          "answer": "○",
+          "explanation": "<p>「元」就是文字符號（未知數）的意思。「二元」表示式子裡有兩個不同的未知數（例如 $x$、$y$）；「一次」表示這些未知數的最高次方都是 1。所以 $3x + 5y - 7$ 是二元一次式。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$3x + 5y - 7 = 9$ 是一個二元一次<strong>式</strong>。</p>",
+          "answer": "✕",
+          "explanation": "<p>它有等號，所以是二元一次<strong>方程式</strong>，不是二元一次式。<br>「式」沒有等號（是代數式），「方程式」有等號。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>一個二元一次方程式若沒有任何條件限制，它只會有一組解。</p>",
+          "answer": "✕",
+          "explanation": "<p>一個二元一次方程式（無任何條件限制）會有<strong>無限多組解</strong>。<br>例如 $x + y = 5$：$(0, 5)$、$(1, 4)$、$(2, 3)$、$(3.5, 1.5)$、$(-1, 6)$… 都是解。<br>幾何意義上，二元一次方程式的圖形是一條直線，線上有無限多個點。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$(x, y) = (3, 5)$ 是方程式 $x + 3y = 12$ 的解。</p>",
+          "answer": "✕",
+          "explanation": "<p>代入檢查：$3 + 3 \\times 5 = 3 + 15 = 18 \\neq 12$，不滿足等式。<br>所以 $(3, 5)$ 不是這個方程式的解。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>化簡 $\\frac{x + y - 1}{2} - \\frac{2x - y}{3}$ 時，可以把兩個分母（2 和 3）直接消掉，然後合併分子。</p>",
+          "answer": "✕",
+          "explanation": "<p><strong>不可以</strong>直接把分母消掉。分數型的化簡必須<strong>通分</strong>：找分母的最小公倍數（這裡是 6），把兩個分數通分成同分母後，分子部分要用<strong>括號保留</strong>再分配，最後同類項合併。直接消分母是常見的錯誤。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1b_ch1_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一個是<strong>二元一次式</strong>？</p><p>A. $3x - 5 = 7$</p><p>B. $2x + 3y - 4$</p><p>C. $x^2 + y - 1$</p><p>D. $x + y + z + 7$</p>",
+          "answer": "B",
+          "explanation": "<p>二元一次式需要：兩個未知數、最高次方為 1、沒有等號。<br><strong>A ✕</strong>：只有一個未知數（一元），且有等號，是一元一次方程式。<br><strong>B ○</strong>：兩個未知數 $x, y$，最高次方為 1，無等號，正確。<br><strong>C ✕</strong>：$x^2$ 是二次方，是二元二次式。<br><strong>D ✕</strong>：有 $x, y, z$ 三個未知數（三元），不是二元。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>下列哪一個是<strong>二元一次方程式</strong>？</p><p>A. $2x + 3y - 5$</p><p>B. $3x - 2y - 6 = 1$</p><p>C. $x^2 + y = 4$</p><p>D. $x = \\dfrac{1}{y} - 7$</p>",
+          "answer": "B",
+          "explanation": "<p>二元一次方程式需要：兩個未知數、最高次方為 1、有等號。<br><strong>A ✕</strong>：沒有等號，是二元一次式。<br><strong>B ○</strong>：可整理成 $3x - 2y = 7$，符合 $ax + by = c$ 的形式，正確。<br><strong>C ✕</strong>：$x^2$ 是二次方。<br><strong>D ✕</strong>：$\\dfrac{1}{y} = y^{-1}$，不是一次方。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>化簡 $(3x + 5y - 2) + (x - 4y - 8)$ 後，下列何者正確？</p><p>A. $4x + 9y - 10$</p><p>B. $4x + y - 10$</p><p>C. $2x + y + 6$</p><p>D. $4x - 9y + 6$</p>",
+          "answer": "B",
+          "explanation": "<p>沒有括號要去（前面是正號），直接同類項合併：<br>$x$ 項：$3x + x = 4x$<br>$y$ 項：$5y + (-4y) = y$<br>常數項：$-2 + (-8) = -10$<br>結果為 $4x + y - 10$。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>化簡 $2(x - 2y) + 5(x + y) - 3(3x - y)$ 後，結果為何？</p><p>A. $-2x + 4y$</p><p>B. $-2x + 6y$</p><p>C. $2x + 4y$</p><p>D. $-2x - 2y$</p>",
+          "answer": "A",
+          "explanation": "<p><strong>步驟 1（去括號）</strong>：分配律展開<br>$2(x - 2y) = 2x - 4y$<br>$5(x + y) = 5x + 5y$<br>$-3(3x - y) = -9x + 3y$<br><strong>步驟 2（同類項合併）</strong>：<br>$x$ 項：$2x + 5x - 9x = -2x$<br>$y$ 項：$-4y + 5y + 3y = 4y$<br>結果為 $-2x + 4y$。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>化簡 $\\dfrac{2x + y - 1}{3} - \\dfrac{x - y + 2}{2}$ 後，結果為何？</p><p>A. $\\dfrac{x + 5y - 8}{6}$</p><p>B. $\\dfrac{x + 5y + 4}{6}$</p><p>C. $\\dfrac{x - 5y + 8}{6}$</p><p>D. $\\dfrac{5x - y - 8}{6}$</p>",
+          "answer": "A",
+          "explanation": "<p>分母 3 和 2 的最小公倍數為 6，通分：<br>$\\dfrac{2(2x + y - 1)}{6} - \\dfrac{3(x - y + 2)}{6}$<br>$= \\dfrac{(4x + 2y - 2) - (3x - 3y + 6)}{6}$<br>$= \\dfrac{4x + 2y - 2 - 3x + 3y - 6}{6}$<br>$= \\dfrac{x + 5y - 8}{6}$。<br><strong>注意</strong>：第二個括號前是負號，去括號時所有項都要變號。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>下列哪一組 $(x, y)$ 是方程式 $x + 3y = 12$ 的<strong>解</strong>？</p><p>A. $(0, 3)$</p><p>B. $(2, 3)$</p><p>C. $(-3, 5)$</p><p>D. $(-2, 9)$</p>",
+          "answer": "C",
+          "explanation": "<p>將各組代入檢驗：<br><strong>A ✕</strong>：$0 + 3 \\times 3 = 9 \\neq 12$。<br><strong>B ✕</strong>：$2 + 3 \\times 3 = 11 \\neq 12$。<br><strong>C ○</strong>：$-3 + 3 \\times 5 = -3 + 15 = 12$ ✓。<br><strong>D ✕</strong>：$-2 + 3 \\times 9 = 25 \\neq 12$。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>若 $(x, y) = (-2, -3)$ 是方程式 $3x - ky = 15$ 的解，則 $k$ 的值為何？</p><p>A. $3$</p><p>B. $5$</p><p>C. $7$</p><p>D. $-7$</p>",
+          "answer": "C",
+          "explanation": "<p>解就是代入會滿足。將 $x = -2, y = -3$ 代入：<br>$3 \\times (-2) - k \\times (-3) = 15$<br>$-6 + 3k = 15$<br>$3k = 21$<br>$k = 7$。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>已知方程式 $x + 3y = 4$ 滿足關係。若 $2x + 6y + 7$ 的值要由此求出，則答案為何？</p><p>A. $11$</p><p>B. $15$</p><p>C. $8$</p><p>D. $4$</p>",
+          "answer": "B",
+          "explanation": "<p>觀察係數關係：$x + 3y = 4$ 兩邊同乘 2，得 $2x + 6y = 8$。<br>所以 $2x + 6y + 7 = 8 + 7 = 15$。<br><strong>關鍵</strong>：求值問題不必算出 $x, y$ 個別的值，只要找出題目要求的式子與已知方程式的「倍數關係」。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>動物園的全票一張 60 元、半票一張 25 元。今天總共賣出 950 張票，總收入是 38000 元。設全票賣出 $x$ 張、半票賣出 $y$ 張，下列何者是<strong>正確</strong>的列式？</p><p>A. $\\begin{cases} x + y = 38000 \\\\ 60x + 25y = 950 \\end{cases}$</p><p>B. $\\begin{cases} x + y = 950 \\\\ 60x + 25y = 38000 \\end{cases}$</p><p>C. $\\begin{cases} 60x + 25y = 950 \\\\ x + y = 38000 \\end{cases}$</p><p>D. $\\begin{cases} 60x - 25y = 950 \\\\ x + y = 38000 \\end{cases}$</p>",
+          "answer": "B",
+          "explanation": "<p>口訣：<strong>人歸人、錢歸錢</strong>。<br><strong>人歸人</strong>（張數）：$x + y = 950$。<br><strong>錢歸錢</strong>（金額）：全票收入 $60x$ + 半票收入 $25y$ = 38000，即 $60x + 25y = 38000$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1b_ch1_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些式子<strong>是二元一次式</strong>？（多選）</p><p>A. $4x + 5y - 1$</p><p>B. $2x + 3y = 7$</p><p>C. $\\dfrac{1}{2}x - 3y$</p><p>D. $x^2 + y$</p><p>E. $a + b - 8$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：兩個未知數、最高次方為 1、無等號，正確。<br><strong>B ✕</strong>：有等號，是二元一次<strong>方程式</strong>，不是二元一次式。<br><strong>C ○</strong>：係數可以是分數，仍是二元一次式，正確。<br><strong>D ✕</strong>：$x^2$ 是二次方，是二元二次式。<br><strong>E ○</strong>：未知數可以是 $a, b$，仍是兩個未知數的一次式，正確。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些式子<strong>是二元一次方程式</strong>？（多選）</p><p>A. $5x - 4y + 5 = 4x - y - 10$</p><p>B. $x + y^2 = 9$</p><p>C. $x^2 - y = 0$</p><p>D. $\\dfrac{x}{2} + 3y = 4$</p><p>E. $x = \\dfrac{1}{y} + 6$</p>",
+          "answer": "AD",
+          "explanation": "<p>判斷標準：兩個未知數、最高次方為 1、有等號。<br><strong>A ○</strong>：移項整理為 $x - 3y + 15 = 0$ 或 $x - 3y = -15$，符合 $ax + by = c$。<br><strong>B ✕</strong>：$y^2$ 是二次方。<br><strong>C ✕</strong>：$x^2$ 是二次方。<br><strong>D ○</strong>：係數可以是分數，符合二元一次方程式形式。<br><strong>E ✕</strong>：$\\dfrac{1}{y} = y^{-1}$，是 $-1$ 次方，不是一次方。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列哪些<strong>有序對</strong> $(x, y)$ 是方程式 $2x + 3y = 12$ 的解？（多選）</p><p>A. $(0, 4)$</p><p>B. $(6, 0)$</p><p>C. $(3, 2)$</p><p>D. $(-3, 6)$</p><p>E. $(1, 4)$</p>",
+          "answer": "ABCD",
+          "explanation": "<p>將各組代入 $2x + 3y$ 檢驗是否等於 12：<br><strong>A ○</strong>：$2 \\times 0 + 3 \\times 4 = 12$ ✓<br><strong>B ○</strong>：$2 \\times 6 + 3 \\times 0 = 12$ ✓<br><strong>C ○</strong>：$2 \\times 3 + 3 \\times 2 = 6 + 6 = 12$ ✓<br><strong>D ○</strong>：$2 \\times (-3) + 3 \\times 6 = -6 + 18 = 12$ ✓<br><strong>E ✕</strong>：$2 \\times 1 + 3 \\times 4 = 14 \\neq 12$<br>從這題也可以看出：一個二元一次方程式的解有<strong>無限多組</strong>。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>下列關於「二元一次方程式」的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 二元一次方程式裡的「元」是指未知數（文字符號）</p><p>B. 二元一次方程式裡的兩個未知數，最高次方都是 1</p><p>C. 一個二元一次方程式（無條件限制時）有無限多組解</p><p>D. 二元一次方程式的解可以是分數，也可以是負數</p><p>E. 若 $(x, y)$ 是二元一次方程式 $ax + by = c$ 的解，則代入後 $ax + by$ 的值等於 $c$</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：「元」即未知數，正確。<br><strong>B ○</strong>：二元一次的「一次」即指最高次方為 1，正確。<br><strong>C ○</strong>：無條件限制時有無限多組解（圖形是一條直線），正確。<br><strong>D ○</strong>：解的範圍包含整數、分數、小數、正數、負數、零等，正確。<br><strong>E ○</strong>：這就是「解」的定義——代入後等號成立，正確。</p>"
+        },
+        {
+          "id": "g1b_ch1_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>設 $x, y$ 都是<strong>正整數</strong>，下列哪些有序對 $(x, y)$ 是方程式 $2x + y = 10$ 的解？（多選）</p><p>A. $(1, 8)$</p><p>B. $(2, 6)$</p><p>C. $(3, 4)$</p><p>D. $(4, 2)$</p><p>E. $(5, 0)$</p>",
+          "answer": "ABCD",
+          "explanation": "<p>正整數解的要求：$x, y$ 都 $\\geq 1$，且代入會滿足。<br><strong>A ○</strong>：$2 \\times 1 + 8 = 10$ ✓，且 $x, y$ 皆為正整數。<br><strong>B ○</strong>：$2 \\times 2 + 6 = 10$ ✓。<br><strong>C ○</strong>：$2 \\times 3 + 4 = 10$ ✓。<br><strong>D ○</strong>：$2 \\times 4 + 2 = 10$ ✓。<br><strong>E ✕</strong>：$2 \\times 5 + 0 = 10$ 雖滿足等式，但 $y = 0$ <strong>不是正整數</strong>（0 既不是正整數也不是負整數），所以不算正整數解。<br><strong>提醒</strong>：若題目改成「非負整數解」則包含 0，E 也會是解。</p>"
+        }
+      ]
+    }
+  ]
+}

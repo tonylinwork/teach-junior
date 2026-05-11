@@ -1,0 +1,176 @@
+{
+  "title": "國二下 4-2 平行四邊形",
+  "summary": "<ul><li><strong>定義</strong>：兩組對邊分別平行的四邊形稱為平行四邊形（這是定義，不是性質）。</li><li><strong>邊的性質</strong>：對邊相等（$\\overline{AB} = \\overline{CD}$，$\\overline{AD} = \\overline{BC}$）。</li><li><strong>角的性質</strong>：對角相等（$\\angle A = \\angle C$，$\\angle B = \\angle D$）；鄰角互補（$\\angle A + \\angle B = 180°$）。</li><li><strong>對角線性質</strong>：兩條對角線<strong>互相平分</strong>（各自平分對方）；對角線不一定等長（矩形才等長）；對角線交點將平行四邊形切成四個等積三角形。</li><li><strong>面積</strong>：底 × 高（高為兩底邊間的垂直距離）。</li><li><strong>內部點面積</strong>：平行四邊形 ABCD 內任意點 P，$\\triangle PAB + \\triangle PCD = \\triangle PAD + \\triangle PBC =$ 全面積的 $\\dfrac{1}{2}$。</li><li><strong>座標求頂點</strong>：利用對角線中點重合；已知三頂點求第四點時有三種可能（取決於哪兩點為對角）。</li><li><strong>判斷平行四邊形</strong>：一組對邊同時等長且平行 → 是平行四邊形。注意：一組對邊平行 + 另一組對邊等長 ≠ 一定是平行四邊形（反例：等腰梯形）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch4_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>平行四邊形的對邊相等。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。平行四邊形的對邊相等，即 $\\overline{AB} = \\overline{CD}$，$\\overline{AD} = \\overline{BC}$，這是平行四邊形的基本性質。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>平行四邊形的兩條對角線等長。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。一般平行四邊形的兩條對角線<strong>不一定等長</strong>。只有矩形（直角平行四邊形）的對角線才等長。平行四邊形對角線的性質是「互相平分」，不是「等長」。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>平行四邊形 ABCD 中，$\\angle A + \\angle B = 180°$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。平行四邊形的鄰角互補。因為 $\\overline{AB} \\parallel \\overline{CD}$，$\\angle A$ 與 $\\angle B$ 為同側內角，故 $\\angle A + \\angle B = 180°$。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>平行四邊形的兩條對角線互相平分（即各自平分對方）。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。平行四邊形 ABCD 的對角線 AC 與 BD 交於 O，則 AO = OC、BO = OD，即兩對角線互相平分對方。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若四邊形 ABCD 中，$\\overline{AB} \\parallel \\overline{CD}$，且 $\\overline{AD} = \\overline{BC}$，則 ABCD 一定是平行四邊形。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。一組對邊平行（$\\overline{AB} \\parallel \\overline{CD}$）加上另一組對邊等長（$\\overline{AD} = \\overline{BC}$），<strong>不足以</strong>保證是平行四邊形。反例：等腰梯形，兩腰相等但只有一組對邊平行，不是平行四邊形。要確定是平行四邊形，必須是「同一組對邊<strong>同時</strong>平行且等長」。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch4_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>平行四邊形 ABCD 中，$\\angle A = 70°$，求 $\\angle B = $？</p><p>A. 70°</p><p>B. 90°</p><p>C. 110°</p><p>D. 140°</p>",
+          "answer": "C",
+          "explanation": "<p>平行四邊形的鄰角互補，故 $\\angle B = 180° - \\angle A = 180° - 70° = $ <strong>110°</strong>。（對角相等：$\\angle C = \\angle A = 70°$，$\\angle D = \\angle B = 110°$。）答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>平行四邊形 ABCD 中，$\\angle A = (2x+20)°$，$\\angle B = (3x-10)°$，求 $x = $？</p><p>A. 28</p><p>B. 30</p><p>C. 32</p><p>D. 34</p>",
+          "answer": "D",
+          "explanation": "<p>平行四邊形的鄰角互補：$\\angle A + \\angle B = 180°$<br>$(2x+20) + (3x-10) = 180$<br>$5x + 10 = 180$<br>$5x = 170$<br>$x = $ <strong>34</strong>。答案（D）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>平行四邊形 ABCD 中，$\\overline{AB} = 5$，$\\overline{BC} = 8$，求平行四邊形的周長。</p><p>A. 13</p><p>B. 20</p><p>C. 26</p><p>D. 40</p>",
+          "answer": "C",
+          "explanation": "<p>平行四邊形的對邊相等，故 $\\overline{CD} = \\overline{AB} = 5$，$\\overline{AD} = \\overline{BC} = 8$。<br>周長 $= 2 \\times (\\overline{AB} + \\overline{BC}) = 2 \\times (5 + 8) = 2 \\times 13 = $ <strong>26</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>平行四邊形 ABCD 的對角線 AC 與 BD 交於 O，已知 $\\overline{AO} = 6$，$\\overline{BD} = 10$，求 $\\overline{OC} + \\overline{OB} = $？</p><p>A. 8</p><p>B. 10</p><p>C. 11</p><p>D. 16</p>",
+          "answer": "C",
+          "explanation": "<p>對角線互相平分，故 $\\overline{OC} = \\overline{AO} = 6$，$\\overline{OB} = \\dfrac{\\overline{BD}}{2} = \\dfrac{10}{2} = 5$。<br>$\\overline{OC} + \\overline{OB} = 6 + 5 = $ <strong>11</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>平行四邊形 ABCD 中，$\\overline{AB} = 2x+3$，$\\overline{CD} = 5x-9$，求 $\\overline{AB} = $？</p><p>A. 8</p><p>B. 9</p><p>C. 11</p><p>D. 14</p>",
+          "answer": "C",
+          "explanation": "<p>平行四邊形的對邊相等，故 $\\overline{AB} = \\overline{CD}$：<br>$2x + 3 = 5x - 9$<br>$12 = 3x$<br>$x = 4$<br>$\\overline{AB} = 2(4) + 3 = $ <strong>11</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>平行四邊形 ABCD 面積為 48，內部有一點 P，已知 $\\triangle PAB$ 面積 $= 10$，$\\triangle PCD$ 面積 $= 14$，求 $\\triangle PBC + \\triangle PAD$ 的面積和 $= $？</p><p>A. 12</p><p>B. 18</p><p>C. 24</p><p>D. 48</p>",
+          "answer": "C",
+          "explanation": "<p>平行四邊形內部任意點 P 的性質：$\\triangle PAB + \\triangle PCD = $ 全面積的 $\\dfrac{1}{2}$。<br>驗算：$10 + 14 = 24 = \\dfrac{48}{2}$ ✓<br>故 $\\triangle PBC + \\triangle PAD = 48 - 24 = $ <strong>24</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>平行四邊形三個頂點的座標為 $A(1, 2)$、$B(5, 2)$、$C(6, 5)$，求第四頂點 $D$ 的座標（以 AC 和 BD 為對角線）。</p><p>A. $(2, 3)$</p><p>B. $(2, 5)$</p><p>C. $(0, 5)$</p><p>D. $(3, 3)$</p>",
+          "answer": "B",
+          "explanation": "<p>平行四邊形對角線互相平分，故 AC 中點 = BD 中點。<br>AC 中點 $= \\left(\\dfrac{1+6}{2}, \\dfrac{2+5}{2}\\right) = (3.5,\\ 3.5)$<br>設 $D = (x, y)$，BD 中點 $= \\left(\\dfrac{5+x}{2}, \\dfrac{2+y}{2}\\right) = (3.5,\\ 3.5)$<br>解得 $x = 2$，$y = 5$，故 $D = $ <strong>$(2, 5)$</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>四邊形 ABCD 中，$\\overline{AB} \\parallel \\overline{CD}$，且 $\\overline{AD} = \\overline{BC}$，則 ABCD 是否一定是平行四邊形？</p><p>A. 是，因為一組對邊平行且另一組對邊等長</p><p>B. 不一定，可能是等腰梯形</p><p>C. 是，因為對邊等長就是平行四邊形</p><p>D. 無法判斷，資訊不足</p>",
+          "answer": "B",
+          "explanation": "<p>答案（B）。<strong>一組對邊平行加上另一組對邊等長，不能保證是平行四邊形。</strong><br>反例：等腰梯形中，$\\overline{AB} \\parallel \\overline{CD}$（上下底平行），且兩腰 $\\overline{AD} = \\overline{BC}$（等腰），但 $\\overline{AD}$ 與 $\\overline{BC}$ 不平行，所以是梯形，不是平行四邊形。<br>要判斷為平行四邊形，需要「同一組對邊<strong>同時</strong>平行且等長」。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>平行四邊形底邊 $\\overline{AB} = 12$，底邊到對邊 CD 的垂直距離（高）$= 7$，求平行四邊形的面積。</p><p>A. 42</p><p>B. 84</p><p>C. 96</p><p>D. 168</p>",
+          "answer": "B",
+          "explanation": "<p>平行四邊形面積 $=$ 底 $\\times$ 高 $= 12 \\times 7 = $ <strong>84</strong>。答案（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch4_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>關於平行四邊形的邊角性質，下列哪些敘述正確？（多選）</p><p>A. 對邊相等</p><p>B. 對角相等</p><p>C. 鄰角互補</p><p>D. 兩條對角線等長</p><p>E. 兩條對角線互相平分</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：對邊相等，$\\overline{AB} = \\overline{CD}$，$\\overline{AD} = \\overline{BC}$。</p><p><strong>B ○</strong>：對角相等，$\\angle A = \\angle C$，$\\angle B = \\angle D$。</p><p><strong>C ○</strong>：鄰角互補，$\\angle A + \\angle B = 180°$。</p><p><strong>D ╳</strong>：一般平行四邊形對角線<strong>不一定等長</strong>，只有矩形才等長。</p><p><strong>E ○</strong>：對角線互相平分，AO = OC，BO = OD（O 為交點）。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些條件可以確定一個四邊形是平行四邊形？（多選）</p><p>A. 兩組對邊分別平行（定義）</p><p>B. 兩組對邊分別相等</p><p>C. 一組對邊同時平行且等長</p><p>D. 一組對邊平行，另一組對邊等長</p><p>E. 對角線互相平分</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：符合定義，直接確定為平行四邊形。</p><p><strong>B ○</strong>：兩組對邊分別相等可推導出兩組對邊分別平行，故是平行四邊形。</p><p><strong>C ○</strong>：同一組對邊同時平行且等長，可確定另一組也平行，故是平行四邊形。</p><p><strong>D ╳</strong>：一組平行加另一組等長<strong>不足夠</strong>。反例：等腰梯形，$\\overline{AB} \\parallel \\overline{CD}$ 且 $\\overline{AD} = \\overline{BC}$，但不是平行四邊形。</p><p><strong>E ○</strong>：若對角線互相平分，可由此推導兩組對邊分別平行，故是平行四邊形。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>平行四邊形 ABCD 的對角線 AC 與 BD 交於 O，下列哪些敘述正確？（多選）</p><p>A. $\\overline{AO} = \\overline{OC}$</p><p>B. $\\overline{BO} = \\overline{OD}$</p><p>C. $\\overline{AC} = \\overline{BD}$</p><p>D. $\\overline{AC} \\perp \\overline{BD}$</p><p>E. $\\triangle AOB \\cong \\triangle COD$</p>",
+          "answer": "ABE",
+          "explanation": "<p><strong>A ○</strong>：對角線互相平分，故 $\\overline{AO} = \\overline{OC}$。</p><p><strong>B ○</strong>：同理，$\\overline{BO} = \\overline{OD}$。</p><p><strong>C ╳</strong>：一般平行四邊形對角線<strong>不等長</strong>，$\\overline{AC} \\neq \\overline{BD}$（矩形才等長）。</p><p><strong>D ╳</strong>：一般平行四邊形對角線<strong>不垂直</strong>（菱形才垂直）。</p><p><strong>E ○</strong>：在 $\\triangle AOB$ 與 $\\triangle COD$ 中，$\\overline{AO} = \\overline{OC}$，$\\overline{BO} = \\overline{OD}$，$\\angle AOB = \\angle COD$（對頂角），由 SAS 得 $\\triangle AOB \\cong \\triangle COD$。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>平行四邊形 ABCD 內有一點 P，關於內部點面積性質，下列哪些敘述正確？（多選）</p><p>A. $\\triangle PAB + \\triangle PCD = $ 平行四邊形面積的 $\\dfrac{1}{2}$</p><p>B. $\\triangle PAD + \\triangle PBC = $ 平行四邊形面積的 $\\dfrac{1}{2}$</p><p>C. 四個三角形 $\\triangle PAB$、$\\triangle PBC$、$\\triangle PCD$、$\\triangle PAD$ 的面積均相等</p><p>D. $\\triangle PAB + \\triangle PCD = \\triangle PAD + \\triangle PBC$</p><p>E. 若平行四邊形面積 $= 48$，$\\triangle PAB$ 面積 $= 10$，則 $\\triangle PCD$ 面積 $= 14$</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：內部點性質：P 到 AB 和 CD 的高之和等於兩底間距離（平行四邊形的高），故 $\\triangle PAB + \\triangle PCD = \\dfrac{1}{2} \\times $ 底 $\\times$ 高 $=$ 全面積的 $\\dfrac{1}{2}$。</p><p><strong>B ○</strong>：同理，AD 和 BC 方向也成立，$\\triangle PAD + \\triangle PBC = $ 全面積的 $\\dfrac{1}{2}$。</p><p><strong>C ╳</strong>：只有當 P 在對角線交點（中心）時四個三角形才等積，一般情況下不一定相等。</p><p><strong>D ○</strong>：由 A 和 B，兩組都等於全面積的 $\\dfrac{1}{2}$，故兩組相等。</p><p><strong>E ○</strong>：$\\triangle PCD = \\dfrac{48}{2} - \\triangle PAB = 24 - 10 = 14$。</p>"
+        },
+        {
+          "id": "g2b_ch4_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>平行四邊形 ABCD 中，$\\angle A = 60°$，關於各角度的計算，下列哪些正確？（多選）</p><p>A. $\\angle C = 60°$</p><p>B. $\\angle B = 120°$</p><p>C. $\\angle D = 120°$</p><p>D. $\\angle A + \\angle B + \\angle C + \\angle D = 360°$</p><p>E. $\\angle A = \\angle B$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：對角相等，$\\angle C = \\angle A = 60°$。</p><p><strong>B ○</strong>：鄰角互補，$\\angle B = 180° - 60° = 120°$。</p><p><strong>C ○</strong>：對角相等，$\\angle D = \\angle B = 120°$（或鄰角互補：$\\angle D = 180° - \\angle A = 120°$）。</p><p><strong>D ○</strong>：四邊形內角和恆為 $360°$；驗算：$60° + 120° + 60° + 120° = 360°$ ✓。</p><p><strong>E ╳</strong>：$\\angle A = 60°$，$\\angle B = 120°$，兩者<strong>不相等</strong>（鄰角互補而非相等）。</p>"
+        }
+      ]
+    }
+  ]
+}

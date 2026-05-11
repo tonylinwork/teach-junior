@@ -1,0 +1,176 @@
+{
+  "title": "國一下 1-2 二元一次聯立方程式",
+  "summary": "<ul><li><strong>二元一次聯立方程式</strong>：將兩個二元一次方程式用大括號合在一起，求同時滿足兩式的 $(x,\\ y)$。</li><li><strong>聯立方程式的解</strong>：必須同時代入兩個方程式都成立的 $(x,\\ y)$；只滿足其中一式不算。</li><li><strong>代入消去法</strong>：把其中一式整理成 $x = \\cdots$ 或 $y = \\cdots$（找係數為 $1$ 或 $-1$ 的較好整理），再代入另一式，將二元一次轉成一元一次方程式求解。</li><li><strong>加減消去法</strong>：先決定要消去 $x$ 或 $y$，找該變數係數的最小公倍數，將兩式同乘適當倍數使係數相同（同號相減）或相反（異號相加），消去一個變數。</li><li><strong>核心觀念</strong>：兩種解法的目標都是「把兩個未知數變成一個未知數」。</li><li><strong>變化型 — 有括號</strong>：先用分配律展開、化簡，再把 $x$、$y$ 移到同一邊，常數移到另一邊。</li><li><strong>變化型 — 分數係數</strong>：等號兩邊同乘分母的最小公倍數，先把分母消掉，再用代入或加減消去法。</li><li><strong>變化型 — 小數係數</strong>：等號兩邊同乘 $10$、$100$… 把小數變成整數。</li><li><strong>檢驗</strong>：算出 $(x,\\ y)$ 後須代回兩式皆成立才正確。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g1b_ch1_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>二元一次聯立方程式的解，必須同時滿足兩個方程式才算是聯立方程式的解。</p>",
+          "answer": "○",
+          "explanation": "<p>聯立方程式的解是「同時」滿足兩個方程式的 $(x,\\ y)$；如果只滿足其中一式而不滿足另一式，就不是聯立方程式的解。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>代入消去法與加減消去法的共同目的，都是把兩個未知數變成一個未知數，再解一元一次方程式。</p>",
+          "answer": "○",
+          "explanation": "<p>無論是代入消去法或加減消去法，核心觀念都是「消去其中一個未知數」，將二元一次方程式轉化為一元一次方程式求解。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>用代入消去法解 $\\begin{cases} y = x - 1 \\\\ 2x - 3y = 7 \\end{cases}$ 時，應將「$y = x - 1$」代入第一式，得到一元一次方程式。</p>",
+          "answer": "✕",
+          "explanation": "<p>「$y = x - 1$」本身就是第一式，代回自己沒有意義（會得到恆等式無法求解）。要把它代入<strong>第二式</strong> $2x - 3y = 7$，才能消去 $y$ 變成一元一次方程式。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>用加減消去法解 $\\begin{cases} 4x + 2y = 9 \\\\ 5x - 2y = 2 \\end{cases}$ 時，因為 $y$ 的係數一個正一個負，所以兩式應該相加，可以直接消去 $y$。</p>",
+          "answer": "○",
+          "explanation": "<p>$y$ 的係數是 $+2$ 和 $-2$（異號且絕對值相同），「異號相加」可以消去 $y$：$(4x + 2y) + (5x - 2y) = 9 + 2$，得到 $9x = 11$。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>解 $\\begin{cases} \\dfrac{x}{3} + \\dfrac{y}{2} = 1 \\\\ 2x - y = 4 \\end{cases}$ 時，可以先將第一式等號兩邊同乘 $6$，把分母消掉，再用加減消去法。</p>",
+          "answer": "○",
+          "explanation": "<p>分數型聯立方程式的標準做法就是「等號兩邊同乘分母的最小公倍數」消掉分母。$3$ 與 $2$ 的最小公倍數為 $6$，同乘 $6$ 後第一式變成 $2x + 3y = 6$，比較好計算。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g1b_ch1_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一組 $(x,\\ y)$ 是聯立方程式 $\\begin{cases} x + y = 5 \\\\ x - y = 1 \\end{cases}$ 的解？</p><p>A. $(2,\\ 3)$</p><p>B. $(3,\\ 2)$</p><p>C. $(4,\\ 1)$</p><p>D. $(1,\\ 4)$</p>",
+          "answer": "B",
+          "explanation": "<p>聯立方程式的解必須<strong>同時</strong>滿足兩式。檢驗 $(3,\\ 2)$：第一式 $3+2=5$ ✓；第二式 $3-2=1$ ✓，兩式都成立。其餘選項至少有一式不成立。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>用代入消去法解 $\\begin{cases} x = y + 3 \\\\ 2x + y = 12 \\end{cases}$，則 $y$ 之值為何？</p><p>A. $1$</p><p>B. $2$</p><p>C. $3$</p><p>D. $5$</p>",
+          "answer": "B",
+          "explanation": "<p>把 $x = y + 3$ 代入第二式：$2(y+3) + y = 12$，展開得 $2y + 6 + y = 12$，$3y = 6$，$y = 2$。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>用加減消去法解 $\\begin{cases} 4x + 2y = 7 \\\\ 5x - 2y = 2 \\end{cases}$，則 $x$ 之值為何？</p><p>A. $1$</p><p>B. $\\dfrac{3}{2}$</p><p>C. $2$</p><p>D. $\\dfrac{5}{2}$</p>",
+          "answer": "A",
+          "explanation": "<p>$y$ 的係數為 $+2$ 與 $-2$，異號相加可消去：$(4x+2y)+(5x-2y) = 7+2$，得 $9x = 9$，$x = 1$。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>用加減消去法解 $\\begin{cases} 2x + 3y = 12 \\\\ 3x + 2y = 13 \\end{cases}$，下列做法中，哪一個是要消去 $x$ 最有效率的步驟？</p><p>A. 第一式 $\\times 2$、第二式 $\\times 3$，再相減</p><p>B. 第一式 $\\times 3$、第二式 $\\times 2$，再相減</p><p>C. 第一式 $\\times 3$、第二式 $\\times 2$，再相加</p><p>D. 兩式直接相加</p>",
+          "answer": "B",
+          "explanation": "<p>$x$ 的係數為 $2$ 與 $3$，最小公倍數為 $6$。將第一式乘 $3$ 得 $6x + 9y = 36$，第二式乘 $2$ 得 $6x + 4y = 26$。$x$ 的係數變成同號的 $6$，<strong>同號相減</strong>可以消去 $x$，所以選 B。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>解 $\\begin{cases} 3(x - 1) - 2y = 5 \\\\ 2x - y = 6 \\end{cases}$，則 $(x,\\ y) = $ ?</p><p>A. $(4,\\ 2)$</p><p>B. $(5,\\ 4)$</p><p>C. $(2,\\ -2)$</p><p>D. $(8,\\ 10)$</p>",
+          "answer": "A",
+          "explanation": "<p>第一式展開：$3x - 3 - 2y = 5$，即 $3x - 2y = 8$。<br>聯立 $\\begin{cases} 3x - 2y = 8 \\\\ 2x - y = 6 \\end{cases}$。<br>由第二式得 $y = 2x - 6$，代入第一式：$3x - 2(2x-6) = 8$，$3x - 4x + 12 = 8$，$-x = -4$，$x = 4$；$y = 2(4)-6 = 2$。<br>驗算：第一式 $3(4-1)-2(2) = 9-4 = 5$ ✓，第二式 $2(4)-2 = 6$ ✓。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>解 $\\begin{cases} \\dfrac{x}{3} + \\dfrac{y}{2} = 4 \\\\ x - y = 2 \\end{cases}$，則 $(x,\\ y) = $ ?</p><p>A. $(4,\\ 2)$</p><p>B. $(6,\\ 4)$</p><p>C. $(8,\\ 6)$</p><p>D. $(2,\\ 0)$</p>",
+          "answer": "B",
+          "explanation": "<p>第一式兩邊同乘 $6$（$3$ 與 $2$ 的最小公倍數）得 $2x + 3y = 24$。<br>聯立 $\\begin{cases} 2x + 3y = 24 \\\\ x - y = 2 \\end{cases}$。<br>由第二式得 $x = y + 2$，代入：$2(y+2) + 3y = 24$，$5y + 4 = 24$，$y = 4$；$x = 6$。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>解 $\\begin{cases} 0.2x + 0.3y = 1.2 \\\\ x - y = 1 \\end{cases}$，則 $x + y$ 之值為何？</p><p>A. $3$</p><p>B. $5$</p><p>C. $7$</p><p>D. $9$</p>",
+          "answer": "B",
+          "explanation": "<p>第一式兩邊同乘 $10$ 消掉小數：$2x + 3y = 12$。<br>聯立 $\\begin{cases} 2x + 3y = 12 \\\\ x - y = 1 \\end{cases}$。由第二式得 $x = y + 1$，代入：$2(y+1) + 3y = 12$，$5y = 10$，$y = 2$；$x = 3$。<br>故 $x + y = 3 + 2 = 5$。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>已知 $(x,\\ y) = (2,\\ -1)$ 是聯立方程式 $\\begin{cases} ax + y = 5 \\\\ 2x - by = 6 \\end{cases}$ 的解，則 $a + b$ 之值為何？</p><p>A. $3$</p><p>B. $4$</p><p>C. $5$</p><p>D. $6$</p>",
+          "answer": "C",
+          "explanation": "<p>把 $(2,\\ -1)$ 代入兩式：<br>第一式：$2a + (-1) = 5 \\Rightarrow 2a = 6 \\Rightarrow a = 3$。<br>第二式：$2(2) - b(-1) = 6 \\Rightarrow 4 + b = 6 \\Rightarrow b = 2$。<br>故 $a + b = 3 + 2 = 5$。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>聯立方程式 $\\begin{cases} 2x + 3y = 5 \\\\ 4x + 6y = 10 \\end{cases}$ 的解的個數為何？</p><p>A. 沒有解</p><p>B. 恰有一組解</p><p>C. 恰有兩組解</p><p>D. 無限多組解</p>",
+          "answer": "D",
+          "explanation": "<p>第二式 $4x + 6y = 10$ 等於第一式 $2x + 3y = 5$ 的 $2$ 倍，兩式其實是<strong>同一條方程式</strong>，所有滿足第一式的 $(x,\\ y)$ 都是解，故有<strong>無限多組解</strong>。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g1b_ch1_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>關於二元一次聯立方程式的解法，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 代入消去法與加減消去法的目的，都是把兩個未知數變成一個未知數</p><p>B. 用代入消去法時，習慣優先找係數為 $1$ 或 $-1$ 的變數來表示，比較好計算</p><p>C. 用加減消去法時，若兩式中某變數的係數同號，則兩式相加可以消掉該變數</p><p>D. 解出一個變數後，可以代回任一原方程式求另一個變數，但建議代回計算較簡單的式子</p><p>E. 解出 $(x,\\ y)$ 後，應代回兩個原方程式檢驗是否同時成立</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：兩種方法的核心觀念都是消去一個未知數。<br><strong>B ○</strong>：係數為 $1$ 或 $-1$ 的變數最好整理成「$x = \\cdots$」或「$y = \\cdots$」。<br><strong>C ✕</strong>：<strong>同號相減</strong>、<strong>異號相加</strong>才能消去。同號相加只會讓係數變更大，無法消去。<br><strong>D ○</strong>：代回任一式都可以，挑簡單的式子比較不易出錯。<br><strong>E ○</strong>：聯立方程式的解必須同時滿足兩式，驗算才能確保正確。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>解聯立方程式 $\\begin{cases} 2x + y = 7 \\\\ x - 3y = -7 \\end{cases}$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 由第一式可寫成 $y = 7 - 2x$，再代入第二式</p><p>B. 由第二式可寫成 $x = 3y - 7$，再代入第一式</p><p>C. 將第一式乘 $3$ 後與第二式相加，可消去 $y$</p><p>D. 解為 $(x,\\ y) = (2,\\ 3)$</p><p>E. 解為 $(x,\\ y) = (-2,\\ 3)$</p>",
+          "answer": "ABCD",
+          "explanation": "<p>解法：第二式得 $x = 3y - 7$，代入第一式：$2(3y-7) + y = 7$，$7y = 21$，$y = 3$；$x = 3(3)-7 = 2$。所以 $(x,\\ y) = (2,\\ 3)$。<br><strong>A ○</strong>：$y = 7 - 2x$ 是第一式的合法整理。<br><strong>B ○</strong>：$x = 3y - 7$ 是第二式的合法整理。<br><strong>C ○</strong>：第一式 $\\times 3$ 得 $6x + 3y = 21$，與 $x - 3y = -7$ <strong>相加</strong>（$y$ 係數異號），可消去 $y$。<br><strong>D ○</strong>：$(2,\\ 3)$ 為正確解。<br><strong>E ✕</strong>：$(-2,\\ 3)$ 代入第一式 $2(-2)+3 = -1 \\neq 7$，錯誤。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列各組聯立方程式中，哪些<strong>適合直接使用代入消去法</strong>（不必先做倍數調整就有係數為 $1$ 或 $-1$ 的變數）？（多選）</p><p>A. $\\begin{cases} y = 2x + 1 \\\\ 3x + y = 6 \\end{cases}$</p><p>B. $\\begin{cases} x - 2y = 5 \\\\ 3x + 4y = 7 \\end{cases}$</p><p>C. $\\begin{cases} 2x + 3y = 8 \\\\ 5x - 4y = 9 \\end{cases}$</p><p>D. $\\begin{cases} x + 5y = 12 \\\\ 2x - y = 3 \\end{cases}$</p><p>E. $\\begin{cases} 4x + 6y = 7 \\\\ 3x - 9y = 5 \\end{cases}$</p>",
+          "answer": "ABD",
+          "explanation": "<p>適合直接用代入消去法的特徵：某個方程式中有變數的係數為 $1$ 或 $-1$。<br><strong>A ○</strong>：$y = 2x+1$ 已是「$y =\\cdots$」格式，最理想。<br><strong>B ○</strong>：第一式 $x - 2y = 5$ 中 $x$ 的係數為 $1$，可整理成 $x = 2y + 5$。<br><strong>C ✕</strong>：所有係數都是 $2,\\ 3,\\ 5,\\ 4$，沒有 $1$ 或 $-1$，較適合加減消去法。<br><strong>D ○</strong>：第一式 $x$ 係數為 $1$，第二式 $y$ 係數為 $-1$，兩個變數都可以方便寫成單獨形式。<br><strong>E ✕</strong>：係數 $4,\\ 6,\\ 3,\\ -9$ 沒有 $1$ 或 $-1$，較適合加減消去法。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>解 $\\begin{cases} 3(x+y) - 2y = 5 \\\\ 2x - (y - 3) = 8 \\end{cases}$，下列步驟與結果哪些<strong>正確</strong>？（多選）</p><p>A. 化簡後第一式為 $3x + y = 5$</p><p>B. 化簡後第二式為 $2x - y = 5$</p><p>C. 兩式相加可得 $5x = 10$，所以 $x = 2$</p><p>D. 解得 $(x,\\ y) = (2,\\ -1)$</p><p>E. 將 $(2,\\ -1)$ 代回原來兩式，皆能成立</p>",
+          "answer": "ABCDE",
+          "explanation": "<p>化簡：<br>第一式 $3(x+y) - 2y = 3x + 3y - 2y = 3x + y = 5$。<br>第二式 $2x - (y-3) = 2x - y + 3 = 8$，移項得 $2x - y = 5$。<br>聯立 $\\begin{cases} 3x + y = 5 \\\\ 2x - y = 5 \\end{cases}$，兩式相加：$5x = 10$，$x = 2$；代回 $y = 5 - 3(2) = -1$。<br>驗算：原第一式 $3(2-1)-2(-1) = 3+2 = 5$ ✓；原第二式 $2(2)-(-1-3) = 4+4 = 8$ ✓。<br>A、B、C、D、E 全部正確。</p>"
+        },
+        {
+          "id": "g1b_ch1_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>關於聯立方程式 $\\begin{cases} x + 2y = 3 \\\\ 2x + 4y = 7 \\end{cases}$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 第二式可整理為 $x + 2y = \\dfrac{7}{2}$</p><p>B. 兩式中 $x$、$y$ 的係數比例都是 $1 : 2$，常數項卻不同</p><p>C. 此聯立方程式有唯一一組解</p><p>D. 此聯立方程式無解</p><p>E. 此聯立方程式有無限多組解</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：第二式兩邊同除以 $2$，得 $x + 2y = \\dfrac{7}{2}$。<br><strong>B ○</strong>：$x$ 係數比 $1:2$、$y$ 係數比 $2:4 = 1:2$，係數比例相同；常數項 $3$ 與 $7$ 比例為 $3:7 \\neq 1:2$。<br><strong>C ✕</strong>：當「變數係數比例相同、常數項比例不同」時無解，不是唯一解。<br><strong>D ○</strong>：左邊 $x + 2y$ 不可能同時等於 $3$ 又等於 $\\dfrac{7}{2}$，<strong>無解</strong>。<br><strong>E ✕</strong>：無限多組解需要兩式完全成比例（包括常數項），此處常數項不成比例，故並非無限多組解。</p>"
+        }
+      ]
+    }
+  ]
+}
