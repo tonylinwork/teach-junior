@@ -1,0 +1,176 @@
+{
+  "title": "國二上 5-1 統計圖表與相對次數",
+  "summary": "<ul><li><strong>四種統計圖</strong>：圓形圖（佔比，全圓 360°）、長條圖（類別獨立、柱子不相連）、直方圖（連續分組、柱子相連）、折線圖（分組資料畫在組中點正上方）。</li><li><strong>含下不含上</strong>：分組區間如 10–20，端點 10 屬於該組、20 不屬於該組；最後一組例外，兩端都包含。</li><li><strong>組中點</strong>：區間兩端的平均，如 10–20 的組中點 = 15；用於畫分組折線圖與後續算分組平均。</li><li><strong>相對次數</strong> = 該組次數 ÷ 總次數；全部相對次數加總 = 1（或 100%）。</li><li><strong>累積（相對）次數</strong>：以下累積到最後一組 = 總次數（或 100%）；以上累積則從總次數（或 100%）遞減到 0。Z 字型運算：上一格累積 + 本組次數 = 本組累積。</li><li><strong>折線圖坡度</strong>：以下累積線越陡 → 該區間人數越多；越平 → 人數越少。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch5_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>長條圖與直方圖的差異在於：長條圖的柱子彼此<strong>不相連</strong>，直方圖的柱子<strong>相連</strong>。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。長條圖用於獨立類別比較（柱子分開），直方圖用於連續分組資料（柱子相連）。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>分組區間 10–20、20–30 中，數值 20 應該歸入 10–20 這一組。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。<strong>含下不含上</strong>：20 屬於 20–30 這一組，不屬於 10–20。（最後一組例外，兩端都包含）</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>所有組的相對次數加總一定等於 1（或 100%）。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。相對次數 = 該組次數 ÷ 總次數，全部加總後 = 總次數 ÷ 總次數 = 1。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>以下累積次數折線圖的圖形走勢是<strong>越來越低</strong>（單調遞減）。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。<strong>以下累積</strong>是從 0 開始一路加上去，走勢<strong>單調遞增</strong>；<strong>以上累積</strong>才是遞減。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>畫分組資料的折線圖時，每組的點應該畫在該組的<strong>組中點</strong>正上方。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。分組折線圖以組中點代表該組位置，例如 10–20 組的點要畫在 x = 15 的正上方。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch5_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>小明一天 24 小時中，閱讀的時間在圓形圖上佔的圓心角是 15°，則他閱讀了多少小時？</p><p>A. 0.5 小時</p><p>B. 1 小時</p><p>C. 1.5 小時</p><p>D. 2 小時</p>",
+          "answer": "B",
+          "explanation": "<p>百分比 = $\\frac{15°}{360°} = \\frac{1}{24}$，時間 = $24 \\times \\frac{1}{24} = $ <strong>1 小時</strong>（B）</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>某分組資料的組距為 10，第一組為 0–10，下列哪一組的<strong>組中點為 35</strong>？</p><p>A. 25–35</p><p>B. 30–40</p><p>C. 35–45</p><p>D. 20–30</p>",
+          "answer": "B",
+          "explanation": "<p>組中點 = $\\frac{30+40}{2} = 35$。指引：組中點 = 區間兩端的平均。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>下列哪一種資料最適合用<strong>直方圖</strong>呈現？</p><p>A. 班上各項社團人數比較</p><p>B. 一週每天的氣溫變化</p><p>C. 全班數學段考成績分組統計</p><p>D. 各種交通工具使用比例</p>",
+          "answer": "C",
+          "explanation": "<p>直方圖用於<strong>連續分組</strong>資料，成績分組統計最合適（C）。A 是長條圖、B 是折線圖、D 是圓形圖。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>某次考試 50 人，分數區間 60–70 有 15 人，則該組相對次數為何？</p><p>A. 0.15</p><p>B. 0.20</p><p>C. 0.25</p><p>D. 0.30</p>",
+          "answer": "D",
+          "explanation": "<p>相對次數 = $\\frac{15}{50} = 0.3$（D）</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>已知某分組資料分四組，前三組的次數依序為 8、12、15，且第三組的累積次數為 35，求第四組的次數。（總人數為 50）</p><p>A. 12</p><p>B. 15</p><p>C. 18</p><p>D. 20</p>",
+          "answer": "B",
+          "explanation": "<p>用 Z 字型：第四組累積 = 總人數 50；第四組次數 = $50 - 35 = $ <strong>15</strong>（B）</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>已知某組累積相對次數為 0.65，前一組累積相對次數為 0.40，則該組的相對次數為何？</p><p>A. 0.20</p><p>B. 0.25</p><p>C. 0.35</p><p>D. 0.40</p>",
+          "answer": "B",
+          "explanation": "<p>Z 字型反推：本組相對次數 = $0.65 - 0.40 = $ <strong>0.25</strong>（B）</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>有一筆分組資料共 80 人，分為 4 組，前三組相對次數分別為 0.15、0.30、0.25，則第四組有幾人？</p><p>A. 16 人</p><p>B. 20 人</p><p>C. 24 人</p><p>D. 28 人</p>",
+          "answer": "C",
+          "explanation": "<p>第四組相對次數 = $1 - 0.15 - 0.30 - 0.25 = 0.30$；人數 = $80 \\times 0.30 = $ <strong>24 人</strong>（C）</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>在以下累積次數折線圖中，<strong>第 3 組到第 4 組</strong>之間的線段最陡，這代表什麼？</p><p>A. 第 3 組人數最多</p><p>B. 第 4 組人數最多</p><p>C. 第 4 組到第 5 組人數最多</p><p>D. 累積次數開始下降</p>",
+          "answer": "B",
+          "explanation": "<p>以下累積折線圖中，某區間<strong>線越陡 → 該組人數越多</strong>。第 3 到第 4 組的陡升代表<strong>第 4 組</strong>新增人數最多（B）。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>某校 600 人參加調查，喜歡籃球的人在圓形圖上佔 90°，則喜歡籃球的人有幾人？</p><p>A. 100 人</p><p>B. 120 人</p><p>C. 150 人</p><p>D. 180 人</p>",
+          "answer": "C",
+          "explanation": "<p>百分比 = $\\frac{90°}{360°} = \\frac{1}{4}$；人數 = $600 \\times \\frac{1}{4} = $ <strong>150 人</strong>（C）</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch5_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於統計圖的敘述，何者正確？（多選）</p><p>A. 圓形圖適合呈現各類別佔整體的比例</p><p>B. 長條圖各柱子彼此相連</p><p>C. 直方圖用於連續分組資料</p><p>D. 折線圖可用來呈現隨時間變化的趨勢</p><p>E. 分組折線圖的點要畫在組距右端正上方</p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：圓形圖最適合佔比。</p><p><strong>B ╳</strong>：長條圖柱子<strong>不相連</strong>，相連的是直方圖。</p><p><strong>C ○</strong>：直方圖即用於連續分組資料。</p><p><strong>D ○</strong>：折線圖常用於時間變化趨勢。</p><p><strong>E ╳</strong>：應畫在<strong>組中點</strong>正上方，不是右端。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於「含下不含上」的分組方式（最後一組除外），下列何者正確？（多選）</p><p>A. 區間 20–30 中，20 屬於該組</p><p>B. 區間 20–30 中，30 屬於該組</p><p>C. 區間 20–30 中，25 屬於該組</p><p>D. 最後一組的兩個端點都包含</p><p>E. 含下不含上的「下」指的是區間的<strong>右端點</strong></p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：20 是左端點（下），屬於該組。</p><p><strong>B ╳</strong>：30 是右端點（上），不屬於該組（除非是最後一組）。</p><p><strong>C ○</strong>：25 在區間內，當然屬於該組。</p><p><strong>D ○</strong>：最後一組是例外，兩端都包含。</p><p><strong>E ╳</strong>：「下」指<strong>左端點</strong>（較小值），「上」才是右端點。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>關於累積次數與累積相對次數，下列何者正確？（多選）</p><p>A. 以下累積次數最後一組的值 = 總人數</p><p>B. 以下累積相對次數最後一組的值 = 100%</p><p>C. 以上累積次數第一組的值 = 0</p><p>D. 本組累積次數 − 上一組累積次數 = 本組次數</p><p>E. 累積相對次數可能超過 100%</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：以下累積到最後就是全體。</p><p><strong>B ○</strong>：同理，最後 = 100%。</p><p><strong>C ╳</strong>：以上累積<strong>第一組 = 總人數</strong>，最後一組才會降到該組本身的次數（不是 0；端點要看定義）。</p><p><strong>D ○</strong>：Z 字型反推公式。</p><p><strong>E ╳</strong>：累積相對次數上限是 100%。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>關於圓形圖的換算，下列何者正確？（多選）</p><p>A. 某項百分比 = 圓心角 ÷ 360°</p><p>B. 某項圓心角 = 360° × 該項百分比</p><p>C. 整個圓形圖的圓心角總和 = 180°</p><p>D. 各項百分比加總 = 100%</p><p>E. 圓心角 60° 表示該項佔整體 $\\frac{1}{6}$</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：百分比換算公式。</p><p><strong>B ○</strong>：圓心角換算公式。</p><p><strong>C ╳</strong>：全圓 = <strong>360°</strong>，不是 180°。</p><p><strong>D ○</strong>：各佔比加總 = 100%。</p><p><strong>E ○</strong>：$\\frac{60°}{360°} = \\frac{1}{6}$。</p>"
+        },
+        {
+          "id": "g2a_ch5_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>下表為某次考試 50 人的分組統計（部分缺漏）：</p><p>組距 50–60：次數 5、累積次數 5</p><p>組距 60–70：次數 A、累積次數 18</p><p>組距 70–80：次數 20、累積次數 B</p><p>組距 80–90：次數 C、累積次數 45</p><p>組距 90–100：次數 5、累積次數 50</p><p>下列何者正確？（多選）</p><p>A. A = 13</p><p>B. B = 38</p><p>C. C = 7</p><p>D. 70–80 這組的相對次數為 0.4</p><p>E. 80–90 這組的累積相對次數為 0.9</p>",
+          "answer": "ABCDE",
+          "explanation": "<p>用 Z 字型逐格推：</p><p><strong>A ○</strong>：A = 18 − 5 = <strong>13</strong>。</p><p><strong>B ○</strong>：B = 18 + 20 = <strong>38</strong>。</p><p><strong>C ○</strong>：C = 45 − 38 = <strong>7</strong>。</p><p><strong>D ○</strong>：相對次數 = $\\frac{20}{50} = 0.4$。</p><p><strong>E ○</strong>：累積相對次數 = $\\frac{45}{50} = 0.9$。指引：先用 Z 字型補齊累積次數，再轉相對次數。</p>"
+        }
+      ]
+    }
+  ]
+}

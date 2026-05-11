@@ -1,0 +1,176 @@
+{
+  "title": "國二上 3-1 提公因式法與乘法公式因式分解",
+  "summary": "<ul><li><strong>因式分解定義</strong>：把多項式的加減形式改寫成兩個以上多項式相乘；A 整除 B → A 是 B 的因式、B 是 A 的倍式。</li><li><strong>一次因式判別法</strong>：判 $(S-k)$ 是否為 $f(S)$ 的因式，令 $S=k$ 代入，若 $f(k)=0$ 即是因式；只判「是/不是」，要分解仍用長除法。</li><li><strong>提公因式</strong>：數字與文字符號分開提，文字取次數最少；變號技巧 $-(b-a)=a-b$、$(b-a)^2=(a-b)^2$、$(b-a)^3=-(a-b)^3$。</li><li><strong>分組分解</strong>：四項以上式子，依文字符號／正負號／係數比分組，提出共同括號項。</li><li><strong>乘法公式</strong>：和差平方 $A^2 \\pm 2AB + B^2 = (A \\pm B)^2$；平方差 $A^2 - B^2 = (A+B)(A-B)$。</li><li><strong>完全平方未知係數</strong>：$a^2 + \\square x + b^2$ 為完全平方 → $\\square = \\pm 2ab$（兩解）；缺補項：$S^4+4 = (S^2+2)^2 - (2S)^2$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch3_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>因式分解就是把一個多項式改寫成兩個以上多項式相乘的形式。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。因式分解的定義：把加減形式改寫成相乘形式。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>若 $f(S) = S^2 - 5S + 6$，將 $S = 2$ 代入得 $f(2) = 0$，則 $(S-2)$ 是 $f(S)$ 的因式。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。一次因式判別法：$f(k)=0$ → $(S-k)$ 是因式。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$(b - a)^2 = -(a - b)^2$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。偶次方時負號抵消，$(b-a)^2 = (a-b)^2$，不變號。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$x^2 - 9 = (x+3)(x-3)$，這個分解屬於平方差公式。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。$A^2 - B^2 = (A+B)(A-B)$，此處 $A=x$、$B=3$。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若 $x^2 + kx + 9$ 為完全平方式，則 $k$ 只有一個值 $k = 6$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$k = \\pm 2 \\cdot 1 \\cdot 3 = \\pm 6$，有 $k=6$ 與 $k=-6$ 兩解。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch3_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列何者是 $f(x) = x^2 + 2x - 15$ 的因式？</p><p>A. $(x-5)$</p><p>B. $(x+5)$</p><p>C. $(x+1)$</p><p>D. $(x-1)$</p>",
+          "answer": "B",
+          "explanation": "<p>用一次因式判別法：$f(-5) = 25 - 10 - 15 = 0$ → $(x+5)$ 是因式（B）。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>$6x^3y^2 - 9x^2y^3$ 提公因式後等於下列何者？</p><p>A. $3xy(2x^2y - 3xy^2)$</p><p>B. $3x^2y^2(2x - 3y)$</p><p>C. $xy(6x^2y - 9xy^2)$</p><p>D. $6x^2y^2(x - y)$</p>",
+          "answer": "B",
+          "explanation": "<p>數字最大公因數 = 3，文字取最小次數 $x^2y^2$，提出 $3x^2y^2$ 得 $3x^2y^2(2x-3y)$（B）。要提到「裡面再也提不出」為止。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>因式分解 $x(2S - 3) + 5(3 - 2S)$。</p><p>A. $(2S-3)(x+5)$</p><p>B. $(2S-3)(x-5)$</p><p>C. $(3-2S)(x+5)$</p><p>D. $(2S-3)(5-x)$</p>",
+          "answer": "B",
+          "explanation": "<p>$(3-2S) = -(2S-3)$，原式 $= x(2S-3) - 5(2S-3) = (2S-3)(x-5)$（B）。看到差負號項要先變號統一。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>用分組分解法分解 $ax + ay + bx + by$。</p><p>A. $(a+b)(x+y)$</p><p>B. $(a-b)(x+y)$</p><p>C. $(a+b)(x-y)$</p><p>D. $(ax+by)(a+b)$</p>",
+          "answer": "A",
+          "explanation": "<p>兩個兩個一組：$a(x+y) + b(x+y) = (a+b)(x+y)$（A）。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>因式分解 $x^2 + 10x + 25$。</p><p>A. $(x+5)^2$</p><p>B. $(x-5)^2$</p><p>C. $(x+5)(x-5)$</p><p>D. $(x+10)(x+25)$</p>",
+          "answer": "A",
+          "explanation": "<p>頭尾平方：$x^2$、$5^2$；中間 $10x = 2 \\cdot x \\cdot 5$ → 完全平方 $(x+5)^2$（A）。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>因式分解 $4x^2 - 9y^2$。</p><p>A. $(2x-3y)^2$</p><p>B. $(2x+3y)^2$</p><p>C. $(2x+3y)(2x-3y)$</p><p>D. $(4x+9y)(4x-9y)$</p>",
+          "answer": "C",
+          "explanation": "<p>$4x^2 = (2x)^2$、$9y^2 = (3y)^2$，平方差 → $(2x+3y)(2x-3y)$（C）。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>若 $x^2 + kx + 16$ 是完全平方式且 $k > 0$，求 $k$。</p><p>A. 4</p><p>B. 8</p><p>C. 16</p><p>D. 32</p>",
+          "answer": "B",
+          "explanation": "<p>$k = \\pm 2 \\cdot 1 \\cdot 4 = \\pm 8$，取 $k>0$ → $k = 8$（B）。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>因式分解 $2x^2 - 18$。</p><p>A. $2(x-3)^2$</p><p>B. $2(x+3)(x-3)$</p><p>C. $(2x+3)(x-3)$</p><p>D. $(x+9)(x-2)$</p>",
+          "answer": "B",
+          "explanation": "<p>先提公因數 2：$2(x^2 - 9)$，再用平方差 → $2(x+3)(x-3)$（B）。記得提完公因數還要繼續分解。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>用缺補項技巧因式分解 $S^4 + 4$。</p><p>A. $(S^2+2)^2$</p><p>B. $(S^2+2S+2)(S^2-2S+2)$</p><p>C. $(S^2+2)(S^2-2)$</p><p>D. 無法分解</p>",
+          "answer": "B",
+          "explanation": "<p>加減 $4S^2$：$S^4 + 4S^2 + 4 - 4S^2 = (S^2+2)^2 - (2S)^2$；再用平方差 → $(S^2+2+2S)(S^2+2-2S)$（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch3_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些是 $f(x) = x^3 - x^2 - 4x + 4$ 的因式？（多選）</p><p>A. $(x-1)$</p><p>B. $(x+1)$</p><p>C. $(x-2)$</p><p>D. $(x+2)$</p><p>E. $(x-4)$</p>",
+          "answer": "ACD",
+          "explanation": "<p>一次因式判別法：</p><p><strong>A ○</strong>：$f(1) = 1-1-4+4 = 0$。</p><p><strong>B ╳</strong>：$f(-1) = -1-1+4+4 = 6 \\neq 0$。</p><p><strong>C ○</strong>：$f(2) = 8-4-8+4 = 0$。</p><p><strong>D ○</strong>：$f(-2) = -8-4+8+4 = 0$。</p><p><strong>E ╳</strong>：$f(4) = 64-16-16+4 = 36 \\neq 0$。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列關於變號技巧的敘述，何者正確？（多選）</p><p>A. $-(b-a) = a-b$</p><p>B. $(b-a)^2 = (a-b)^2$</p><p>C. $(b-a)^3 = (a-b)^3$</p><p>D. $(a-b)^3 = -(b-a)^3$</p><p>E. $(2S-3) = -(3-2S)$</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：負號分配進去即得。</p><p><strong>B ○</strong>：偶次方兩個負號抵消。</p><p><strong>C ╳</strong>：奇次方差一個負號，應為 $(b-a)^3 = -(a-b)^3$。</p><p><strong>D ○</strong>：奇次方變號。</p><p><strong>E ○</strong>：$(2S-3) = -(3-2S)$，正確。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列何者為完全平方式？（多選）</p><p>A. $x^2 + 6x + 9$</p><p>B. $x^2 - 4x + 4$</p><p>C. $x^2 + 5x + 25$</p><p>D. $4x^2 + 12x + 9$</p><p>E. $x^2 - 8x - 16$</p>",
+          "answer": "ABD",
+          "explanation": "<p>檢查頭尾平方 + 中間 $= 2AB$：</p><p><strong>A ○</strong>：$(x+3)^2$，中間 $2 \\cdot x \\cdot 3 = 6x$。</p><p><strong>B ○</strong>：$(x-2)^2$，中間 $-2 \\cdot x \\cdot 2 = -4x$。</p><p><strong>C ╳</strong>：$2 \\cdot x \\cdot 5 = 10x \\neq 5x$。</p><p><strong>D ○</strong>：$(2x+3)^2$，中間 $2 \\cdot 2x \\cdot 3 = 12x$。</p><p><strong>E ╳</strong>：尾項為 $-16$ 非平方數，不是完全平方式。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>若 $x^2 + mx + 25$ 為完全平方式，下列關於 $m$ 的敘述何者正確？（多選）</p><p>A. $m = 10$ 是其中一解</p><p>B. $m = -10$ 是其中一解</p><p>C. 共有兩個解</p><p>D. $m$ 只有正解</p><p>E. $m$ 必為 $\\pm 2 \\cdot 1 \\cdot 5$</p>",
+          "answer": "ABCE",
+          "explanation": "<p>$m = \\pm 2 \\cdot 1 \\cdot 5 = \\pm 10$，兩解皆成立。</p><p><strong>A ○</strong>：$(x+5)^2$ 對應 $m=10$。</p><p><strong>B ○</strong>：$(x-5)^2$ 對應 $m=-10$。</p><p><strong>C ○</strong>：兩解。</p><p><strong>D ╳</strong>：題目沒講符號就要兩解都寫。</p><p><strong>E ○</strong>：完全平方式 $m = \\pm 2ab$。</p>"
+        },
+        {
+          "id": "g2a_ch3_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>下列因式分解何者正確？（多選）</p><p>A. $x^2 - 16 = (x+4)(x-4)$</p><p>B. $x^4 - 1 = (x^2+1)(x^2-1)$（已分解完畢）</p><p>C. $3x^2 - 27 = 3(x+3)(x-3)$</p><p>D. $x^2 + 4 = (x+2)^2$</p><p>E. $a(x-y) - b(y-x) = (x-y)(a+b)$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：平方差，正確。</p><p><strong>B ╳</strong>：$(x^2-1)$ 還能再分 $=(x+1)(x-1)$，要完整分解到不能再分。</p><p><strong>C ○</strong>：先提 3，再用平方差。</p><p><strong>D ╳</strong>：$x^2+4$ 在實數範圍內無法因式分解（不是 $x^2-4$）。</p><p><strong>E ○</strong>：$(y-x) = -(x-y)$，$a(x-y) + b(x-y) = (x-y)(a+b)$。</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "title": "國二上 1-1 乘法公式",
+  "summary": "<ul><li><strong>分配律</strong>：$(a+b)(c+d) = ac + ad + bc + bd$，所有乘法公式的基礎。</li><li><strong>和平方／差平方</strong>：$(a+b)^2 = a^2 + 2ab + b^2$、$(a-b)^2 = a^2 - 2ab + b^2$，差別只在中間項 $\\pm 2ab$。</li><li><strong>平方差</strong>：$a^2 - b^2 = (a+b)(a-b)$；和差平方與平方差最常被混淆。</li><li><strong>求值公式</strong>：$a^2 + b^2 = (a+b)^2 - 2ab = (a-b)^2 + 2ab$；倒數型 $a^2 + \\frac{1}{a^2} = (a+\\frac{1}{a})^2 - 2$。</li><li><strong>連續平方差</strong>：$(2-1)(2+1)(2^2+1)\\cdots(2^n+1) = 2^{2n} - 1$（最大次方乘 2）。</li><li><strong>三項和平方</strong>：$(a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ac$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch1_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>$(a+b)^2 = a^2 + b^2$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$(a+b)^2 = a^2 + 2ab + b^2$，中間項 $2ab$ 不能漏掉。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$a^2 - b^2 = (a+b)(a-b)$，此為平方差公式。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。平方差公式：兩數平方差 = 兩數和 $\\times$ 兩數差。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$(2x - 3)^2 = 4x^2 - 12x + 9$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。$(2x)^2 - 2 \\times 2x \\times 3 + 3^2 = 4x^2 - 12x + 9$。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$\\left(\\frac{2}{3}\\right)^2 = \\frac{4}{6}$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。分子分母都要平方，$\\left(\\frac{2}{3}\\right)^2 = \\frac{4}{9}$。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>已知 $a + b = 5$、$ab = 6$，則 $a^2 + b^2 = 13$。</p>",
+          "answer": "○",
+          "explanation": "<p>$a^2 + b^2 = (a+b)^2 - 2ab = 25 - 12 = 13$，正確。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch1_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>展開 $(x + 4)^2$。</p><p>A. $x^2 + 16$</p><p>B. $x^2 + 4x + 16$</p><p>C. $x^2 + 8x + 16$</p><p>D. $x^2 + 8x + 8$</p>",
+          "answer": "C",
+          "explanation": "<p>$(x+4)^2 = x^2 + 2 \\times x \\times 4 + 4^2 = x^2 + 8x + 16$（C）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>展開 $(3a - 5)^2$。</p><p>A. $9a^2 - 15a + 25$</p><p>B. $9a^2 - 30a + 25$</p><p>C. $9a^2 + 30a + 25$</p><p>D. $9a^2 - 30a - 25$</p>",
+          "answer": "B",
+          "explanation": "<p>$(3a)^2 - 2 \\times 3a \\times 5 + 5^2 = 9a^2 - 30a + 25$（B）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>展開 $(2x + 7)(2x - 7)$。</p><p>A. $4x^2 - 49$</p><p>B. $4x^2 + 49$</p><p>C. $2x^2 - 49$</p><p>D. $4x^2 - 14x - 49$</p>",
+          "answer": "A",
+          "explanation": "<p>平方差公式：$(2x)^2 - 7^2 = 4x^2 - 49$（A）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>用乘法公式速算 $99^2$。</p><p>A. 9801</p><p>B. 9809</p><p>C. 9901</p><p>D. 9881</p>",
+          "answer": "A",
+          "explanation": "<p>$99^2 = (100-1)^2 = 10000 - 200 + 1 = 9801$（A）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>速算 $103 \\times 97$。</p><p>A. 9991</p><p>B. 9999</p><p>C. 10000</p><p>D. 9991</p>",
+          "answer": "A",
+          "explanation": "<p>$(100+3)(100-3) = 100^2 - 3^2 = 10000 - 9 = 9991$（A）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>展開 $(3a + 2)(2 - 3a)$。</p><p>A. $9a^2 - 4$</p><p>B. $4 - 9a^2$</p><p>C. $9a^2 + 4$</p><p>D. $-9a^2 - 4$</p>",
+          "answer": "B",
+          "explanation": "<p>調整順序為 $(2+3a)(2-3a) = 2^2 - (3a)^2 = 4 - 9a^2$（B）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>已知 $a + b = 7$、$ab = 10$，求 $(a-b)^2$。</p><p>A. 9</p><p>B. 19</p><p>C. 29</p><p>D. 49</p>",
+          "answer": "A",
+          "explanation": "<p>$(a-b)^2 = (a+b)^2 - 4ab = 49 - 40 = 9$（A）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>已知 $a + \\frac{1}{a} = 4$，求 $a^2 + \\frac{1}{a^2}$。</p><p>A. 12</p><p>B. 14</p><p>C. 16</p><p>D. 18</p>",
+          "answer": "B",
+          "explanation": "<p>$a^2 + \\frac{1}{a^2} = \\left(a + \\frac{1}{a}\\right)^2 - 2 = 16 - 2 = 14$（B）</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>計算 $(2-1)(2+1)(2^2+1)(2^4+1)(2^8+1)$。</p><p>A. $2^8 - 1$</p><p>B. $2^{15} - 1$</p><p>C. $2^{16} - 1$</p><p>D. $2^{16} + 1$</p>",
+          "answer": "C",
+          "explanation": "<p>連續平方差：最大次方 $\\times 2 = 8 \\times 2 = 16$，答案為 $2^{16} - 1$（C）</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch1_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列展開何者正確？（多選）</p><p>A. $(x+5)^2 = x^2 + 10x + 25$</p><p>B. $(x-3)^2 = x^2 - 6x - 9$</p><p>C. $(x+6)(x-6) = x^2 - 36$</p><p>D. $(2x+1)^2 = 4x^2 + 2x + 1$</p><p>E. $(a-b)^2 = (b-a)^2$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：和平方正確。</p><p><strong>B ╳</strong>：應為 $x^2 - 6x + 9$，常數項要 $+9$。</p><p><strong>C ○</strong>：平方差正確。</p><p><strong>D ╳</strong>：中間項應為 $2 \\times 2x \\times 1 = 4x$，故為 $4x^2 + 4x + 1$。</p><p><strong>E ○</strong>：$(a-b)^2 = (b-a)^2$，因為平方後正負消失。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>已知 $a + b = 6$、$ab = 5$，下列何者正確？（多選）</p><p>A. $a^2 + b^2 = 26$</p><p>B. $(a-b)^2 = 16$</p><p>C. $a - b = \\pm 4$</p><p>D. $a^2 - b^2 = 24$</p><p>E. $a^3 + b^3$ 可直接由 $a+b$ 與 $ab$ 求出</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：$(a+b)^2 - 2ab = 36 - 10 = 26$。</p><p><strong>B ○</strong>：$(a+b)^2 - 4ab = 36 - 20 = 16$。</p><p><strong>C ○</strong>：$a - b = \\pm\\sqrt{16} = \\pm 4$（不可漏負）。</p><p><strong>D ╳</strong>：$a^2 - b^2 = (a+b)(a-b) = 6 \\times (\\pm 4) = \\pm 24$，不只 24。</p><p><strong>E ○</strong>：對稱式皆可由基本對稱式表示。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列速算何者正確？（多選）</p><p>A. $101^2 = 10201$</p><p>B. $98 \\times 102 = 9996$</p><p>C. $999^2 = 998001$</p><p>D. $(100-1)(100+1) = 9999$</p><p>E. $50.5 \\times 49.5 = 2499.75$</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：$(100+1)^2 = 10000 + 200 + 1 = 10201$。</p><p><strong>B ○</strong>：$(100-2)(100+2) = 10000 - 4 = 9996$。</p><p><strong>C ○</strong>：$(1000-1)^2 = 1000000 - 2000 + 1 = 998001$。</p><p><strong>D ○</strong>：$100^2 - 1 = 9999$。</p><p><strong>E ○</strong>：$(50 + 0.5)(50 - 0.5) = 2500 - 0.25 = 2499.75$。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>已知 $a - \\frac{1}{a} = 3$，下列何者正確？（多選）</p><p>A. $a^2 + \\frac{1}{a^2} = 11$</p><p>B. $\\left(a + \\frac{1}{a}\\right)^2 = 13$</p><p>C. $a + \\frac{1}{a} = \\pm\\sqrt{13}$</p><p>D. $a^2 - \\frac{1}{a^2} = 3\\left(a + \\frac{1}{a}\\right)$</p><p>E. $a^2 + \\frac{1}{a^2} = 9$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：$a^2 + \\frac{1}{a^2} = \\left(a - \\frac{1}{a}\\right)^2 + 2 = 9 + 2 = 11$。</p><p><strong>B ○</strong>：$\\left(a+\\frac{1}{a}\\right)^2 = a^2 + 2 + \\frac{1}{a^2} = 11 + 2 = 13$。</p><p><strong>C ○</strong>：開根號取正負。</p><p><strong>D ○</strong>：$a^2 - \\frac{1}{a^2} = \\left(a-\\frac{1}{a}\\right)\\left(a+\\frac{1}{a}\\right) = 3\\left(a+\\frac{1}{a}\\right)$。</p><p><strong>E ╳</strong>：應為 11 不是 9（漏加 $+2$）。</p>"
+        },
+        {
+          "id": "g2a_ch1_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>關於 $(a+b+c)^2$ 的展開，下列何者正確？（多選）</p><p>A. 展開後共有 6 項</p><p>B. $(a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ac$</p><p>C. 若 $a+b+c = 10$、$ab+bc+ac = 20$，則 $a^2+b^2+c^2 = 60$</p><p>D. $(1+2+3)^2 = 1 + 4 + 9 = 14$</p><p>E. $(x-y+z)^2 = x^2 + y^2 + z^2 - 2xy - 2yz + 2xz$</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：3 個平方項 + 3 組兩兩乘積 = 6 項。</p><p><strong>B ○</strong>：三項和平方標準公式。</p><p><strong>C ○</strong>：$a^2+b^2+c^2 = (a+b+c)^2 - 2(ab+bc+ac) = 100 - 40 = 60$。</p><p><strong>D ╳</strong>：$(1+2+3)^2 = 6^2 = 36$，不是各項平方和。</p><p><strong>E ○</strong>：把 $-y$ 當 $b$ 代入：$-2x \\cdot y$、$-2y \\cdot z$、$+2x \\cdot z$，正確。</p>"
+        }
+      ]
+    }
+  ]
+}

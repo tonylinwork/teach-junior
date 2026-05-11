@@ -1,0 +1,176 @@
+{
+  "title": "國二上 2-2 根式的運算",
+  "summary": "<ul><li><strong>最簡根式</strong>：根號內指數皆為 1 次方（無法再提整數），且分母不含根號。口訣「成雙成對才能出來，單身狗留在裡面」。</li><li><strong>變形金剛（乘除拆併）</strong>：$\\sqrt{a}\\cdot\\sqrt{b}=\\sqrt{ab}$、$\\dfrac{\\sqrt{a}}{\\sqrt{b}}=\\sqrt{\\dfrac{a}{b}}$（$a,b\\ge 0$）；$(k\\sqrt{a})^2 = k^2 a$。</li><li><strong>同類方根加減</strong>：先各項化最簡，再合併同類方根（像 $2\\sqrt{3}+5\\sqrt{3}=7\\sqrt{3}$；$\\sqrt{2}$ 與 $\\sqrt{3}$ 不可合併）。</li><li><strong>分母有理化</strong>：單根式上下同乘該根號；兩根式以上用「共軛」上下同乘（平方差使分母變純數 $a-b$）。</li><li><strong>根式比大小</strong>：和相同 → 兩邊各平方比；差相同 → 取倒數比（記得倒回後不等號要反轉）。</li><li><strong>乘法公式結合</strong>：$(a\\pm b)^2$、$(a+b)(a-b)$ 與根式混算；變化題用「同號一國、異號一國」改寫成平方差。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch2_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>$\\sqrt{50}$ 化成最簡根式為 $5\\sqrt{2}$。</p>",
+          "answer": "○",
+          "explanation": "<p>$\\sqrt{50}=\\sqrt{25\\times 2}=5\\sqrt{2}$。成雙的 $5^2$ 出來，單身的 $2$ 留下。正確。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$2\\sqrt{3}+3\\sqrt{2}=5\\sqrt{5}$。</p>",
+          "answer": "╳",
+          "explanation": "<p>$\\sqrt{3}$ 與 $\\sqrt{2}$ 不是同類方根，不可合併。就像 $2x+3y\\ne 5xy$。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$\\dfrac{1}{\\sqrt{3}}=\\dfrac{\\sqrt{3}}{3}$。</p>",
+          "answer": "○",
+          "explanation": "<p>分母有理化：上下同乘 $\\sqrt{3}$，得 $\\dfrac{\\sqrt{3}}{3}$。正確。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$(3\\sqrt{2})^2 = 6$。</p>",
+          "answer": "╳",
+          "explanation": "<p>外面平方 × 裡面平方：$(3\\sqrt{2})^2 = 9\\times 2 = 18$，不是 6。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>分母 $\\sqrt{5}+\\sqrt{3}$ 有理化時，上下同乘 $\\sqrt{5}-\\sqrt{3}$。</p>",
+          "answer": "○",
+          "explanation": "<p>兩根式以上用共軛，使分母變 $(\\sqrt{5})^2-(\\sqrt{3})^2=5-3=2$。正確。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch2_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>將 $\\sqrt{72}$ 化為最簡根式。</p><p>A. $4\\sqrt{3}$</p><p>B. $6\\sqrt{2}$</p><p>C. $3\\sqrt{8}$</p><p>D. $2\\sqrt{18}$</p>",
+          "answer": "B",
+          "explanation": "<p>$72=36\\times 2=6^2\\times 2$，故 $\\sqrt{72}=\\textbf{6}\\sqrt{2}$。（B）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>計算 $\\sqrt{12}+\\sqrt{27}-\\sqrt{48}$。</p><p>A. $0$</p><p>B. $\\sqrt{3}$</p><p>C. $2\\sqrt{3}$</p><p>D. $3\\sqrt{3}$</p>",
+          "answer": "B",
+          "explanation": "<p>先化最簡：$2\\sqrt{3}+3\\sqrt{3}-4\\sqrt{3}=(2+3-4)\\sqrt{3}=\\sqrt{3}$。（B）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>計算 $\\sqrt{6}\\times\\sqrt{8}$。</p><p>A. $\\sqrt{14}$</p><p>B. $\\sqrt{48}$</p><p>C. $4\\sqrt{3}$</p><p>D. $2\\sqrt{12}$</p>",
+          "answer": "C",
+          "explanation": "<p>$\\sqrt{6}\\cdot\\sqrt{8}=\\sqrt{48}=\\sqrt{16\\times 3}=\\textbf{4}\\sqrt{3}$。答案要化成最簡。（C）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$\\dfrac{10}{2\\sqrt{6}}$ 化為最簡並有理化後等於？</p><p>A. $\\dfrac{5\\sqrt{6}}{6}$</p><p>B. $\\dfrac{\\sqrt{6}}{6}$</p><p>C. $\\dfrac{5}{\\sqrt{6}}$</p><p>D. $\\dfrac{5\\sqrt{6}}{12}$</p>",
+          "answer": "A",
+          "explanation": "<p>外面歸外面：$\\dfrac{10}{2\\sqrt{6}}=\\dfrac{5}{\\sqrt{6}}=\\dfrac{5\\sqrt{6}}{6}$。（A）注意 10 不能跟根號裡的 6 約。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>計算 $\\dfrac{2}{\\sqrt{5}-\\sqrt{3}}$。</p><p>A. $\\sqrt{5}+\\sqrt{3}$</p><p>B. $\\sqrt{5}-\\sqrt{3}$</p><p>C. $\\dfrac{\\sqrt{5}+\\sqrt{3}}{2}$</p><p>D. $2(\\sqrt{5}+\\sqrt{3})$</p>",
+          "answer": "A",
+          "explanation": "<p>上下同乘共軛 $\\sqrt{5}+\\sqrt{3}$：分母 $=5-3=2$，分子 $=2(\\sqrt{5}+\\sqrt{3})$，約掉得 $\\sqrt{5}+\\sqrt{3}$。（A）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>計算 $(\\sqrt{7}+\\sqrt{3})(\\sqrt{7}-\\sqrt{3})$。</p><p>A. $4$</p><p>B. $10$</p><p>C. $2\\sqrt{21}$</p><p>D. $10+2\\sqrt{21}$</p>",
+          "answer": "A",
+          "explanation": "<p>用平方差 $(a+b)(a-b)=a^2-b^2=7-3=\\textbf{4}$。（A）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>計算 $(2+\\sqrt{3})^2$。</p><p>A. $7$</p><p>B. $7+4\\sqrt{3}$</p><p>C. $7+2\\sqrt{3}$</p><p>D. $4+\\sqrt{3}$</p>",
+          "answer": "B",
+          "explanation": "<p>$(a+b)^2=a^2+2ab+b^2 = 4 + 2\\cdot 2\\cdot\\sqrt{3} + 3 = 7+4\\sqrt{3}$。（B）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>比較 $\\sqrt{11}+\\sqrt{9}$ 與 $\\sqrt{12}+\\sqrt{8}$ 的大小。</p><p>A. $\\sqrt{11}+\\sqrt{9} > \\sqrt{12}+\\sqrt{8}$</p><p>B. $\\sqrt{11}+\\sqrt{9} < \\sqrt{12}+\\sqrt{8}$</p><p>C. $\\sqrt{11}+\\sqrt{9} = \\sqrt{12}+\\sqrt{8}$</p><p>D. 無法比較</p>",
+          "answer": "A",
+          "explanation": "<p>兩邊和都 = 20，用平方比。平方後格式 $a+b+2\\sqrt{ab}$，$a+b$ 同，只比 $\\sqrt{ab}$：$\\sqrt{99}$ vs $\\sqrt{96}$，$99>96$。故左 > 右。（A）</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>設 $2\\sqrt{3}$ 的整數部分為 $a$，小數部分為 $b$，求 $a+b$。</p><p>A. $3$</p><p>B. $2\\sqrt{3}$</p><p>C. $2\\sqrt{3}-3$</p><p>D. $6$</p>",
+          "answer": "B",
+          "explanation": "<p>$2\\sqrt{3}\\approx 3.46$，$a=3$，$b=2\\sqrt{3}-3$。所以 $a+b = 3 + (2\\sqrt{3}-3) = 2\\sqrt{3}$。（B）</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch2_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列何者為最簡根式？（多選）</p><p>A. $\\sqrt{15}$</p><p>B. $\\sqrt{18}$</p><p>C. $2\\sqrt{7}$</p><p>D. $\\dfrac{1}{\\sqrt{2}}$</p><p>E. $\\sqrt{\\dfrac{3}{5}}$</p>",
+          "answer": "AC",
+          "explanation": "<p><strong>A ○</strong>：$15=3\\times 5$ 無平方因子。</p><p><strong>B ╳</strong>：$\\sqrt{18}=3\\sqrt{2}$ 還能提。</p><p><strong>C ○</strong>：7 是質數，已最簡。</p><p><strong>D ╳</strong>：分母有根號，不算最簡（應化為 $\\dfrac{\\sqrt{2}}{2}$）。</p><p><strong>E ╳</strong>：根號內為分數也不算最簡。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列等式何者正確？（多選，$a,b\\ge 0$）</p><p>A. $\\sqrt{a}\\cdot\\sqrt{b}=\\sqrt{ab}$</p><p>B. $\\sqrt{a}+\\sqrt{b}=\\sqrt{a+b}$</p><p>C. $(\\sqrt{a})^2=a$</p><p>D. $\\sqrt{a^2}=a$</p><p>E. $\\dfrac{\\sqrt{a}}{\\sqrt{b}}=\\sqrt{\\dfrac{a}{b}}$（$b\\ne 0$）</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：變形金剛乘法。</p><p><strong>B ╳</strong>：例 $\\sqrt{9}+\\sqrt{16}=7\\ne\\sqrt{25}=5$。</p><p><strong>C ○</strong>：平方與根號互消。</p><p><strong>D ○</strong>：因 $a\\ge 0$，故 $\\sqrt{a^2}=a$。</p><p><strong>E ○</strong>：變形金剛除法。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列分母有理化的做法何者正確？（多選）</p><p>A. $\\dfrac{1}{\\sqrt{5}}$ 上下同乘 $\\sqrt{5}$</p><p>B. $\\dfrac{1}{\\sqrt{7}+\\sqrt{3}}$ 上下同乘 $\\sqrt{7}+\\sqrt{3}$</p><p>C. $\\dfrac{1}{\\sqrt{7}+\\sqrt{3}}$ 上下同乘 $\\sqrt{7}-\\sqrt{3}$</p><p>D. $\\dfrac{2}{3-\\sqrt{2}}$ 上下同乘 $3+\\sqrt{2}$</p><p>E. $\\dfrac{1}{\\sqrt{6}}$ 上下同乘 $6$</p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：單根式同乘自己。</p><p><strong>B ╳</strong>：同乘原式得 $(\\sqrt{7}+\\sqrt{3})^2=10+2\\sqrt{21}$，根號還在，沒用。</p><p><strong>C ○</strong>：同乘共軛，分母 = $7-3=4$。</p><p><strong>D ○</strong>：同乘 $3+\\sqrt{2}$，分母 = $9-2=7$。</p><p><strong>E ╳</strong>：同乘 6 分母變 $6\\sqrt{6}$，根號還在。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>已知 $x=\\sqrt{5}+\\sqrt{2}$、$y=\\sqrt{5}-\\sqrt{2}$，下列何者正確？（多選）</p><p>A. $x+y=2\\sqrt{5}$</p><p>B. $x-y=2\\sqrt{2}$</p><p>C. $xy=3$</p><p>D. $x^2+y^2=14$</p><p>E. $\\dfrac{1}{x}+\\dfrac{1}{y}=\\dfrac{2\\sqrt{5}}{3}$</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>：$\\sqrt{2}$ 互消。</p><p><strong>B ○</strong>：$\\sqrt{5}$ 互消，剩 $2\\sqrt{2}$。</p><p><strong>C ○</strong>：$xy=(\\sqrt{5})^2-(\\sqrt{2})^2=5-2=3$。</p><p><strong>D ○</strong>：$x^2+y^2=(x+y)^2-2xy=(2\\sqrt{5})^2-2\\cdot 3=20-6=14$。</p><p><strong>E ○</strong>：$\\dfrac{1}{x}+\\dfrac{1}{y}=\\dfrac{x+y}{xy}=\\dfrac{2\\sqrt{5}}{3}$。</p>"
+        },
+        {
+          "id": "g2a_ch2_2_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>關於根式運算的觀念，下列何者正確？（多選）</p><p>A. $\\sqrt{12}$ 與 $\\sqrt{27}$ 為同類方根</p><p>B. $\\sqrt{8}+\\sqrt{18}=5\\sqrt{2}$</p><p>C. 比大小「差相同」型，取倒數後比，倒回去不等號方向要反轉</p><p>D. $(1+\\sqrt{3}-\\sqrt{5})(1-\\sqrt{3}+\\sqrt{5})$ 可改寫成 $[1+(\\sqrt{3}-\\sqrt{5})][1-(\\sqrt{3}-\\sqrt{5})]$ 再用平方差</p><p>E. $\\sqrt{\\dfrac{3}{4}}=\\dfrac{3}{2}$</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：$\\sqrt{12}=2\\sqrt{3}$、$\\sqrt{27}=3\\sqrt{3}$ 都是 $\\sqrt{3}$ 系。</p><p><strong>B ○</strong>：$2\\sqrt{2}+3\\sqrt{2}=5\\sqrt{2}$。</p><p><strong>C ○</strong>：例 $\\tfrac{1}{2}>\\tfrac{1}{3}$，倒回 $2<3$，方向反轉。</p><p><strong>D ○</strong>：「同號一國、異號一國」改寫成平方差。</p><p><strong>E ╳</strong>：$\\sqrt{\\dfrac{3}{4}}=\\dfrac{\\sqrt{3}}{2}$，不是 $\\dfrac{3}{2}$。</p>"
+        }
+      ]
+    }
+  ]
+}

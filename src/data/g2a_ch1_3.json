@@ -1,0 +1,176 @@
+{
+  "title": "國二上 1-3 多項式的乘除",
+  "summary": "<ul><li><strong>乘除口訣</strong>：乘法「數字乘數字、次方加次方」；除法「數字除數字、次方減次方」。次數關係：A×B 為 m+n 次；A÷B 商為 m−n 次，餘式比除式低一次以下。</li><li><strong>直式三步驟</strong>：降冪排列 → 缺項補零 → 對齊長數項。被除式與除式都要補零。</li><li><strong>乘法公式</strong>：$(a \\pm b)^2 = a^2 \\pm 2ab + b^2$、$(a+b)(a-b) = a^2 - b^2$；展開時用括號避免漏平方。</li><li><strong>除法原理</strong>：被除式 = 除式 × 商式 + 餘式，即 $f(x) = (x-a) \\cdot Q(x) + R$。</li><li><strong>餘式定理</strong>：$f(x)$ 除以 $(x-a)$ 的餘式 = $f(a)$；整除 ⇔ $f(a) = 0$。</li><li><strong>代值技巧</strong>：求各項係數和 → 代 $x = 1$；給條件式 = 0 可直接視為「除式 = 0」化簡。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch1_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>兩個多項式相乘，結果的次數等於兩個多項式次數的<strong>和</strong>。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。乘法口訣「次方加次方」，m 次 × n 次 = (m+n) 次。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>多項式 $f(x)$ 除以 $(x-a)$ 的餘式必為 $f(a)$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這就是<strong>餘式定理</strong>。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$(3x+2)^2 = 9x^2 + 6x + 4$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$(3x+2)^2 = (3x)^2 + 2(3x)(2) + 2^2 = 9x^2 + 12x + 4$，中間項是 $12x$ 不是 $6x$。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>多項式直式除法時，被除式與除式都要先降冪排列並且<strong>缺項補零</strong>。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。缺項不補零會導致對齊錯位，是直式運算的關鍵步驟。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>三次多項式除以一次多項式，商式必為二次，餘式為常數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。商的次數 = 3 − 1 = 2；餘式比除式（1 次）低，故為常數（0 次）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch1_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>展開 $(2x+3)(x-5)$ 後，$x$ 的係數為何？</p><p>A. $-7$</p><p>B. $-10$</p><p>C. $-13$</p><p>D. $-15$</p>",
+          "answer": "A",
+          "explanation": "<p>微笑法交叉項：$2x \\times (-5) + 3 \\times x = -10x + 3x = -7x$，係數為 <strong>−7</strong>（A）。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>求 $(x-4)(x+4)$ 的展開式。</p><p>A. $x^2 + 16$</p><p>B. $x^2 - 16$</p><p>C. $x^2 - 8x + 16$</p><p>D. $x^2 + 8x - 16$</p>",
+          "answer": "B",
+          "explanation": "<p>平方差公式 $(a-b)(a+b) = a^2 - b^2 = x^2 - 16$（B）。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>$(x+2)^2 - (x-2)^2 = $ ?</p><p>A. $8x$</p><p>B. $4x$</p><p>C. $8$</p><p>D. $0$</p>",
+          "answer": "A",
+          "explanation": "<p>用平方差：$[(x+2)+(x-2)][(x+2)-(x-2)] = (2x)(4) = \\mathbf{8x}$（A）。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$f(x) = x^3 - 2x^2 + 5x - 3$，求 $f(x)$ 除以 $(x-1)$ 的餘式。</p><p>A. $0$</p><p>B. $1$</p><p>C. $-1$</p><p>D. $3$</p>",
+          "answer": "B",
+          "explanation": "<p>餘式定理：餘式 = $f(1) = 1 - 2 + 5 - 3 = \\mathbf{1}$（B）。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>$x^3 + ax + 6$ 能被 $(x-2)$ 整除，求 $a$。</p><p>A. $-7$</p><p>B. $-5$</p><p>C. $5$</p><p>D. $7$</p>",
+          "answer": "A",
+          "explanation": "<p>整除 ⇔ $f(2) = 0$。$8 + 2a + 6 = 0 \\Rightarrow 2a = -14 \\Rightarrow a = \\mathbf{-7}$（A）。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>$(2x^3 - 3x^2 + x - 5) \\div (x - 2)$ 的商式為何？</p><p>A. $2x^2 + x + 3$</p><p>B. $2x^2 - x + 3$</p><p>C. $2x^2 + x - 3$</p><p>D. $2x^2 - 7x + 15$</p>",
+          "answer": "A",
+          "explanation": "<p>直式除法：頭項 $2x^3 \\div x = 2x^2$；扣完依序得 $x$、$3$。商 = $\\mathbf{2x^2 + x + 3}$（A），餘式為 1。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>多項式 $f(x) = 3x^4 - 2x^3 + x - 7$ 的<strong>各項係數總和</strong>為何？</p><p>A. $-7$</p><p>B. $-5$</p><p>C. $-3$</p><p>D. $0$</p>",
+          "answer": "B",
+          "explanation": "<p>代值法：係數和 = $f(1) = 3 - 2 + 0 + 1 - 7 = \\mathbf{-5}$（B）。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>已知 $x^2 + 3x - 1 = 0$，求 $x^3 + 3x^2 - x + 7$ 的值。</p><p>A. $5$</p><p>B. $6$</p><p>C. $7$</p><p>D. $8$</p>",
+          "answer": "C",
+          "explanation": "<p>觀察：$x^3 + 3x^2 - x = x(x^2 + 3x - 1) = x \\cdot 0 = 0$。</p><p>故原式 = $0 + 7 = \\mathbf{7}$（C）。<strong>技巧</strong>：把要求的式子拆出「條件式 × 某項」，整段為 0，剩下即答案。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>多項式 $A$ 為 5 次、$B$ 為 2 次，則 $A \\div B$ 的<strong>餘式</strong>最高可能為幾次？</p><p>A. 0 次</p><p>B. 1 次</p><p>C. 2 次</p><p>D. 3 次</p>",
+          "answer": "B",
+          "explanation": "<p>餘式次數必<strong>小於</strong>除式次數，除式為 2 次，故餘式最多為 <strong>1 次</strong>（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch1_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列敘述何者正確？（多選）</p><p>A. $(a+b)^2 = a^2 + b^2$</p><p>B. $(a-b)^2 = a^2 - 2ab + b^2$</p><p>C. $(a+b)(a-b) = a^2 - b^2$</p><p>D. $(a-b)^2 (a+b)^2 = (a^2 - b^2)^2$</p><p>E. $(a+b)^3 = a^3 + b^3$</p>",
+          "answer": "BCD",
+          "explanation": "<p><strong>A ╳</strong>：漏了中間項 $2ab$。</p><p><strong>B ○</strong>：標準和差平方公式。</p><p><strong>C ○</strong>：平方差公式。</p><p><strong>D ○</strong>：$(a-b)^2(a+b)^2 = [(a-b)(a+b)]^2 = (a^2-b^2)^2$。</p><p><strong>E ╳</strong>：少了 $3a^2 b + 3ab^2$。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於多項式除法，下列何者正確？（多選）</p><p>A. 被除式 = 除式 × 商式 + 餘式</p><p>B. 餘式的次數必小於除式的次數</p><p>C. 被除式放大 3 倍，餘式也放大 3 倍，商不變</p><p>D. 除式放大 2 倍，商會放大 2 倍</p><p>E. 整除時餘式為 0</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：除法原理。</p><p><strong>B ○</strong>：餘式比除式低次。</p><p><strong>C ○</strong>：被除式 ×k → 餘式 ×k、商不變。</p><p><strong>D ╳</strong>：除式 ×k → 商縮為 $\\frac{1}{k}$ 倍，餘式不變。</p><p><strong>E ○</strong>：整除即餘為 0。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>多項式 $f(x) = x^3 - 3x^2 + 4$，下列何者正確？（多選）</p><p>A. $f(1) = 2$</p><p>B. $f(-1) = 0$</p><p>C. $f(x)$ 能被 $(x+1)$ 整除</p><p>D. $f(x)$ 除以 $(x-2)$ 的餘式為 0</p><p>E. $f(x)$ 的各項係數和為 2</p>",
+          "answer": "ABCDE",
+          "explanation": "<p>$f(1) = 1 - 3 + 0 + 4 = 2$ ⇒ <strong>A ○</strong>，且係數和 = $f(1) = 2$ ⇒ <strong>E ○</strong>。</p><p>$f(-1) = -1 - 3 + 0 + 4 = 0$ ⇒ <strong>B ○</strong>，由餘式定理 ⇒ 整除 $(x+1)$ ⇒ <strong>C ○</strong>。</p><p>$f(2) = 8 - 12 + 0 + 4 = 0$ ⇒ <strong>D ○</strong>。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>下列關於多項式次數的敘述，何者正確？（多選）</p><p>A. 兩個 3 次多項式相加，結果可能是 3 次</p><p>B. 兩個 3 次多項式相加，結果可能是 0 次（常數）</p><p>C. 一個 4 次多項式乘以一個 2 次多項式，結果為 6 次</p><p>D. 一個 5 次多項式除以一個 2 次多項式，商為 3 次</p><p>E. 兩個非零多項式相乘，結果可能為 0</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：最高次未消，仍 3 次。</p><p><strong>B ○</strong>：若各項一一相消，可降至常數（0 次）。</p><p><strong>C ○</strong>：4 + 2 = 6 次。</p><p><strong>D ○</strong>：5 − 2 = 3 次。</p><p><strong>E ╳</strong>：非零多項式相乘不可能為 0。</p>"
+        },
+        {
+          "id": "g2a_ch1_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>多項式 $f(x) = x^2 + ax + b$ 能被 $(x-1)$ 與 $(x+2)$ 同時整除，下列何者正確？（多選）</p><p>A. $f(1) = 0$</p><p>B. $f(-2) = 0$</p><p>C. $a = 1$</p><p>D. $b = -2$</p><p>E. $f(x) = (x-1)(x+2)$</p>",
+          "answer": "ABCDE",
+          "explanation": "<p>整除條件 ⇒ <strong>A ○</strong>、<strong>B ○</strong>。</p><p>$f(1) = 1 + a + b = 0$；$f(-2) = 4 - 2a + b = 0$。</p><p>兩式相減：$-3 + 3a = 0 \\Rightarrow a = 1$ ⇒ <strong>C ○</strong>；代回得 $b = -2$ ⇒ <strong>D ○</strong>。</p><p>所以 $f(x) = x^2 + x - 2 = (x-1)(x+2)$ ⇒ <strong>E ○</strong>。</p>"
+        }
+      ]
+    }
+  ]
+}

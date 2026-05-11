@@ -1,0 +1,176 @@
+{
+  "title": "國二上 2-3 畢氏定理",
+  "summary": "<ul><li><strong>畢氏定理</strong>：直角三角形兩股平方和 = 斜邊平方，$a^2 + b^2 = c^2$；斜邊是最長邊，對著直角。</li><li><strong>逆定理</strong>：若三邊滿足 $a^2 + b^2 = c^2$，則此三角形為直角三角形（c 為斜邊）。</li><li><strong>常用畢氏數</strong>：3-4-5、5-12-13、7-24-25、8-15-17、9-40-41；倍數也成立（如 6-8-10）。</li><li><strong>特殊角直角三角形</strong>：30°-60°-90° 邊長比 $1 : \\sqrt{3} : 2$；45°-45°-90° 邊長比 $1 : 1 : \\sqrt{2}$。</li><li><strong>斜邊上的高</strong>：$h = \\frac{ab}{c}$（兩股相乘除以斜邊）。</li><li><strong>兩點距離公式</strong>：$\\overline{AB} = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$，由畢氏定理推得。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch2_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>直角三角形中，斜邊是三邊中最長的一邊。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。斜邊對著最大角（直角 90°），依大角對大邊，斜邊為最長邊。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>若三角形三邊長為 6、8、10，則此三角形為直角三角形。</p>",
+          "answer": "○",
+          "explanation": "<p>$6^2 + 8^2 = 36 + 64 = 100 = 10^2$，符合畢氏定理逆定理，為直角三角形（也是 3-4-5 的 2 倍）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>45°-45°-90° 直角三角形的三邊長比為 $1 : 1 : 2$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。45°-45°-90° 的邊長比應為 $1 : 1 : \\sqrt{2}$（兩股相等，斜邊為股的 $\\sqrt{2}$ 倍）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>已知直角三角形兩股長為 5 和 12，則斜邊長為 13。</p>",
+          "answer": "○",
+          "explanation": "<p>$5^2 + 12^2 = 25 + 144 = 169 = 13^2$，斜邊為 13（5-12-13 為常用畢氏數）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>平面座標上 $A(1, 2)$、$B(4, 6)$ 兩點的距離為 5。</p>",
+          "answer": "○",
+          "explanation": "<p>$\\overline{AB} = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch2_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>直角三角形兩股長分別為 9 和 12，求斜邊長。</p><p>A. 13</p><p>B. 15</p><p>C. 18</p><p>D. 21</p>",
+          "answer": "B",
+          "explanation": "<p>$9^2 + 12^2 = 81 + 144 = 225 = 15^2$，斜邊 = <strong>15</strong>（B）。也可用 3-4-5 放大 3 倍：9-12-15。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>直角三角形斜邊長 17，一股長 8，求另一股長。</p><p>A. 9</p><p>B. 12</p><p>C. 15</p><p>D. 16</p>",
+          "answer": "C",
+          "explanation": "<p>$17^2 - 8^2 = 289 - 64 = 225 = 15^2$，另一股 = <strong>15</strong>（C）。屬於 8-15-17 常用畢氏數。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>下列哪一組邊長可構成直角三角形？</p><p>A. 4, 5, 6</p><p>B. 5, 7, 9</p><p>C. 7, 24, 25</p><p>D. 6, 8, 11</p>",
+          "answer": "C",
+          "explanation": "<p>逐一驗證 $a^2 + b^2 = c^2$：</p><p>C：$7^2 + 24^2 = 49 + 576 = 625 = 25^2$ ✓（7-24-25 為常用畢氏數）。其他三組皆不符合。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>邊長為 6 的正方形，其對角線長為何？</p><p>A. $6\\sqrt{2}$</p><p>B. $6\\sqrt{3}$</p><p>C. 12</p><p>D. $3\\sqrt{2}$</p>",
+          "answer": "A",
+          "explanation": "<p>正方形對角線 = 邊長 $\\times \\sqrt{2}$（套 $1:1:\\sqrt{2}$），故對角線 = $6\\sqrt{2}$（A）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>30°-60°-90° 直角三角形中，若斜邊長為 10，則 60° 所對的邊長為何？</p><p>A. 5</p><p>B. $5\\sqrt{2}$</p><p>C. $5\\sqrt{3}$</p><p>D. $10\\sqrt{3}$</p>",
+          "answer": "C",
+          "explanation": "<p>邊長比 $1 : \\sqrt{3} : 2$，斜邊（90°對邊）= 10 對應 2，比例 = 5。</p><p>60° 對邊 = $\\sqrt{3} \\times 5 = 5\\sqrt{3}$（C）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>長方形長 12、寬 5，求其對角線長。</p><p>A. 7</p><p>B. 13</p><p>C. 15</p><p>D. 17</p>",
+          "answer": "B",
+          "explanation": "<p>長方形對角線形成直角三角形，$\\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$（B）。屬 5-12-13 畢氏數。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>直角三角形兩股長分別為 6 和 8，求斜邊上的高。</p><p>A. 2.4</p><p>B. 3.6</p><p>C. 4.8</p><p>D. 5.0</p>",
+          "answer": "C",
+          "explanation": "<p>斜邊 = $\\sqrt{6^2 + 8^2} = 10$。</p><p>斜邊上的高 $h = \\frac{ab}{c} = \\frac{6 \\times 8}{10} = <strong>4.8</strong>$（C）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>一架 13 公尺長的梯子靠在牆上，梯腳距牆 5 公尺，梯頂距地多高？</p><p>A. 8 公尺</p><p>B. 10 公尺</p><p>C. 12 公尺</p><p>D. 15 公尺</p>",
+          "answer": "C",
+          "explanation": "<p>梯長為斜邊 13、梯腳距牆為一股 5，高 $= \\sqrt{13^2 - 5^2} = \\sqrt{144} = 12$（C）。屬 5-12-13 畢氏數。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>座標平面上 $A(-2, 3)$、$B(4, -5)$ 兩點的距離為何？</p><p>A. 8</p><p>B. 10</p><p>C. 12</p><p>D. 14</p>",
+          "answer": "B",
+          "explanation": "<p>$\\overline{AB} = \\sqrt{(4-(-2))^2 + (-5-3)^2} = \\sqrt{6^2 + (-8)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$（B）。屬 3-4-5 放大 2 倍。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch2_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪幾組邊長可構成直角三角形？（多選）</p><p>A. 3, 4, 5</p><p>B. 5, 12, 13</p><p>C. 6, 7, 10</p><p>D. 9, 40, 41</p><p>E. 8, 15, 17</p>",
+          "answer": "ABDE",
+          "explanation": "<p>驗證 $a^2 + b^2 = c^2$：</p><p><strong>A ○</strong>：$9 + 16 = 25$。</p><p><strong>B ○</strong>：$25 + 144 = 169$。</p><p><strong>C ╳</strong>：$36 + 49 = 85 \\neq 100$。</p><p><strong>D ○</strong>：$81 + 1600 = 1681 = 41^2$。</p><p><strong>E ○</strong>：$64 + 225 = 289 = 17^2$。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於畢氏定理及直角三角形，下列敘述何者正確？（多選）</p><p>A. 畢氏定理為「兩股平方和 = 斜邊平方」</p><p>B. 任何三角形皆可套用畢氏定理</p><p>C. 若三邊長 a、b、c 滿足 $a^2 + b^2 = c^2$，則為直角三角形</p><p>D. 直角三角形中斜邊一定是最長的邊</p><p>E. 等腰直角三角形兩股相等，斜邊等於股的 2 倍</p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：畢氏定理定義正確。</p><p><strong>B ╳</strong>：僅限直角三角形。</p><p><strong>C ○</strong>：畢氏定理逆定理。</p><p><strong>D ○</strong>：斜邊對直角，為最長邊。</p><p><strong>E ╳</strong>：等腰直角三角形邊比 $1:1:\\sqrt{2}$，斜邊是股的 $\\sqrt{2}$ 倍，不是 2 倍。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列關於 30°-60°-90° 及 45°-45°-90° 特殊直角三角形的敘述，何者正確？（多選）</p><p>A. 30°-60°-90° 三邊比為 $1 : \\sqrt{3} : 2$</p><p>B. 45°-45°-90° 三邊比為 $1 : 1 : \\sqrt{2}$</p><p>C. 正三角形從頂點作中線可切出兩個 30°-60°-90° 三角形</p><p>D. 正方形沿對角線切可得兩個 30°-60°-90° 三角形</p><p>E. 30°-60°-90° 三角形中，30° 角所對的邊最短</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：標準邊比。</p><p><strong>B ○</strong>：標準邊比。</p><p><strong>C ○</strong>：正三角形被中線分為兩塊 30°-60°-90°。</p><p><strong>D ╳</strong>：正方形沿對角線切出的是 45°-45°-90°，不是 30°-60°-90°。</p><p><strong>E ○</strong>：小角對小邊，30° 對邊最短（比例為 1）。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>座標平面上 $A(0, 0)$、$B(3, 4)$、$C(6, 0)$，下列敘述何者正確？（多選）</p><p>A. $\\overline{AB} = 5$</p><p>B. $\\overline{BC} = 5$</p><p>C. $\\overline{AC} = 6$</p><p>D. △ABC 為直角三角形</p><p>E. △ABC 為等腰三角形</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：$\\sqrt{9+16} = 5$。</p><p><strong>B ○</strong>：$\\sqrt{9+16} = 5$。</p><p><strong>C ○</strong>：$\\sqrt{36+0} = 6$。</p><p><strong>D ╳</strong>：$5^2 + 5^2 = 50 \\neq 6^2 = 36$，非直角三角形。</p><p><strong>E ○</strong>：$\\overline{AB} = \\overline{BC} = 5$，為等腰三角形。</p>"
+        },
+        {
+          "id": "g2a_ch2_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>下列哪些數字可作為「格子點兩點距離」的可能值？（提示：距離平方需能拆成兩個完全平方數之和）（多選）</p><p>A. $\\sqrt{5}$</p><p>B. $\\sqrt{7}$</p><p>C. $\\sqrt{10}$</p><p>D. $\\sqrt{13}$</p><p>E. $\\sqrt{11}$</p>",
+          "answer": "ACD",
+          "explanation": "<p>距離平方 $= (\\Delta x)^2 + (\\Delta y)^2$ 可拆成兩個完全平方數之和才合理。</p><p><strong>A ○</strong>：$5 = 1^2 + 2^2$。</p><p><strong>B ╳</strong>：$7$ 無法拆。</p><p><strong>C ○</strong>：$10 = 1^2 + 3^2$。</p><p><strong>D ○</strong>：$13 = 2^2 + 3^2$。</p><p><strong>E ╳</strong>：$11$ 無法拆成兩平方數之和。</p>"
+        }
+      ]
+    }
+  ]
+}

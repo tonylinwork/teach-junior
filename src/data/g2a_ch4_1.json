@@ -1,0 +1,176 @@
+{
+  "title": "國二上 4-1 因式分解解一元二次方程式與根係關係",
+  "summary": "<ul><li><strong>一元二次方程式三條件</strong>：一元（只一種文字）、二次（最高次為 2）、有等號（= 一個定值）；標準式 $ax^2 + bx + c = 0$（$a \\neq 0$）。</li><li><strong>零乘積性質</strong>：若 $A \\cdot B = 0$，則 $A = 0$ 或 $B = 0$。解方程式的關鍵步驟。</li><li><strong>四大解法</strong>：提公因式、分組分解、乘法公式（含平方差／完全平方）、十字交乘。先讓右邊 = 0 再分解。</li><li><strong>減根陷阱</strong>：兩邊不能同除未知數（會少根），整坨移到同邊提公因式才正確。</li><li><strong>根與係數</strong>：$ax^2 + bx + c = 0$ 兩根 $\\alpha, \\beta$ 滿足 $\\alpha + \\beta = -\\dfrac{b}{a}$、$\\alpha\\beta = \\dfrac{c}{a}$；首項為 1 時更簡潔。</li><li><strong>常用恆等式與條件</strong>：$\\alpha^2 + \\beta^2 = (\\alpha+\\beta)^2 - 2\\alpha\\beta$；兩根相反 ⇔ 一次項為 0；兩根互為倒數 ⇔ 二次項與常數項係數相等。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch4_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>方程式 $x^2 + 3x = 5$ 是一個一元二次方程式。</p>",
+          "answer": "○",
+          "explanation": "<p>只有一種文字 $x$、最高次為 2、有等號，三條件皆滿足，是一元二次方程式。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>若 $(x-3)(x+5) = 0$，則 $x = 3$ 或 $x = -5$。</p>",
+          "answer": "○",
+          "explanation": "<p>由零乘積性質，$x - 3 = 0$ 或 $x + 5 = 0$，故 $x = 3$ 或 $x = -5$。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>解方程式 $(6x-5)(x+2) = -17(x+2)$ 時，可以兩邊同除以 $(x+2)$。</p>",
+          "answer": "╳",
+          "explanation": "<p>兩邊同除未知數的式子會「減根」，少了 $x + 2 = 0$（即 $x = -2$）這個解。正確作法是整坨移到同邊後提公因式 $(x+2)$。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>若 $x^2 + bx + c = 0$ 的兩根為 $\\alpha, \\beta$，則 $\\alpha + \\beta = b$。</p>",
+          "answer": "╳",
+          "explanation": "<p>首項係數為 1 時，兩根和 $= -b$（前面要加負號），不是 $b$。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>$(2x-1)^2 = 0$ 的解為 $x = \\dfrac{1}{2}$（重根）。</p>",
+          "answer": "○",
+          "explanation": "<p>完全平方式 $= 0$ 表示 $2x - 1 = 0$，解得 $x = \\dfrac{1}{2}$，為重根。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch4_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列何者為一元二次方程式？</p><p>A. $x^2 + 2y = 5$</p><p>B. $x^3 - x = 0$</p><p>C. $x^2 - 4x + 3 = 0$</p><p>D. $x^2 + 2x - 1$</p>",
+          "answer": "C",
+          "explanation": "<p>A 有兩個文字（非一元）；B 最高次為三次；D 沒有等號。只有 <strong>C</strong> 同時滿足一元、二次、有等號。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>解方程式 $x^2 - 5x = 0$。</p><p>A. $x = 0$ 或 $x = 5$</p><p>B. $x = 0$ 或 $x = -5$</p><p>C. $x = 5$（重根）</p><p>D. $x = -5$（重根）</p>",
+          "answer": "A",
+          "explanation": "<p>提公因式：$x(x - 5) = 0$，由零乘積性質 $x = 0$ 或 $x = 5$。（A）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>解方程式 $x^2 - 7x + 12 = 0$。</p><p>A. $x = 3$ 或 $x = 4$</p><p>B. $x = -3$ 或 $x = -4$</p><p>C. $x = 2$ 或 $x = 6$</p><p>D. $x = -2$ 或 $x = -6$</p>",
+          "answer": "A",
+          "explanation": "<p>十字交乘：$(x - 3)(x - 4) = 0$，故 $x = 3$ 或 $x = 4$。（A）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>解方程式 $x^2 - 9 = 0$。</p><p>A. $x = 3$（重根）</p><p>B. $x = -3$（重根）</p><p>C. $x = 3$ 或 $x = -3$</p><p>D. 無解</p>",
+          "answer": "C",
+          "explanation": "<p>平方差公式：$(x-3)(x+3) = 0$，得 $x = 3$ 或 $x = -3$。（C）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>解方程式 $2x^2 + 5x - 3 = 0$。</p><p>A. $x = \\dfrac{1}{2}$ 或 $x = 3$</p><p>B. $x = \\dfrac{1}{2}$ 或 $x = -3$</p><p>C. $x = -\\dfrac{1}{2}$ 或 $x = 3$</p><p>D. $x = -\\dfrac{1}{2}$ 或 $x = -3$</p>",
+          "answer": "B",
+          "explanation": "<p>十字交乘：$(2x - 1)(x + 3) = 0$，故 $x = \\dfrac{1}{2}$ 或 $x = -3$。（B）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>若 $x^2 - 6x + k = 0$ 的兩根為 $\\alpha, \\beta$，且 $\\alpha + \\beta = 6$、$\\alpha\\beta = 8$，則 $k = ?$</p><p>A. $-8$</p><p>B. $-6$</p><p>C. $6$</p><p>D. $8$</p>",
+          "answer": "D",
+          "explanation": "<p>首項為 1 時，常數項 $= \\alpha\\beta = 8$，故 $k = \\mathbf{8}$。（D）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>若 $\\alpha, \\beta$ 為 $2x^2 - 8x + 6 = 0$ 的兩根，求 $\\alpha + \\beta$ 與 $\\alpha\\beta$。</p><p>A. $\\alpha+\\beta = 4$，$\\alpha\\beta = 3$</p><p>B. $\\alpha+\\beta = -4$，$\\alpha\\beta = 3$</p><p>C. $\\alpha+\\beta = 8$，$\\alpha\\beta = 6$</p><p>D. $\\alpha+\\beta = -8$，$\\alpha\\beta = 6$</p>",
+          "answer": "A",
+          "explanation": "<p>$\\alpha + \\beta = -\\dfrac{-8}{2} = 4$；$\\alpha\\beta = \\dfrac{6}{2} = 3$。（A）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>若 $\\alpha, \\beta$ 為 $x^2 - 5x + 3 = 0$ 的兩根，求 $\\alpha^2 + \\beta^2$。</p><p>A. $13$</p><p>B. $19$</p><p>C. $22$</p><p>D. $25$</p>",
+          "answer": "B",
+          "explanation": "<p>$\\alpha + \\beta = 5$、$\\alpha\\beta = 3$。$\\alpha^2 + \\beta^2 = (\\alpha+\\beta)^2 - 2\\alpha\\beta = 25 - 6 = \\mathbf{19}$。（B）</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>已知 $x = 2$ 是方程式 $x^2 + mx - 6 = 0$ 的一根，求另一根。</p><p>A. $-3$</p><p>B. $3$</p><p>C. $-2$</p><p>D. $-6$</p>",
+          "answer": "A",
+          "explanation": "<p>由兩根積 $= \\dfrac{-6}{1} = -6$，設另一根為 $\\beta$，則 $2\\beta = -6$，故 $\\beta = \\mathbf{-3}$。（A）</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch4_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列何者為一元二次方程式？（多選）</p><p>A. $x^2 + 5 = 0$</p><p>B. $2x + 7 = 0$</p><p>C. $x(x - 1) = 6$</p><p>D. $x^2 + y^2 = 1$</p><p>E. $3x^2 - x = x^2 + 4$</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：一元、二次、有等號。</p><p><strong>B ╳</strong>：最高次只有一次。</p><p><strong>C ○</strong>：展開為 $x^2 - x - 6 = 0$。</p><p><strong>D ╳</strong>：兩個文字，不是一元。</p><p><strong>E ○</strong>：移項得 $2x^2 - x - 4 = 0$，符合條件。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列關於零乘積性質與解方程式，何者正確？（多選）</p><p>A. 若 $AB = 0$，則 $A = 0$ 或 $B = 0$</p><p>B. 解方程式前要先把右邊化為 0</p><p>C. $(x-2)(x+3) = 6$ 可直接得 $x = 2$ 或 $x = -3$</p><p>D. 完全平方式 $(2x-1)^2 = 0$ 的解為重根 $x = \\dfrac{1}{2}$</p><p>E. 兩邊同除以未知式可以保留所有解</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：零乘積性質。</p><p><strong>B ○</strong>：右邊化為 0 才能用零乘積性質。</p><p><strong>C ╳</strong>：右邊不為 0 不能直接套零乘積，需展開重排。</p><p><strong>D ○</strong>：完全平方 = 0 得重根。</p><p><strong>E ╳</strong>：兩邊同除未知式會減根。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>若 $\\alpha, \\beta$ 為 $x^2 + bx + c = 0$ 的兩根，下列何者正確？（多選）</p><p>A. $\\alpha + \\beta = -b$</p><p>B. $\\alpha\\beta = c$</p><p>C. 若兩根互為相反數，則 $b = 0$</p><p>D. 若兩根互為倒數，則 $c = 1$</p><p>E. $\\alpha^2 + \\beta^2 = b^2 - 2c$</p>",
+          "answer": "ABCDE",
+          "explanation": "<p><strong>A ○</strong>、<strong>B ○</strong>：首項為 1 的根係公式。</p><p><strong>C ○</strong>：兩根相反 $\\Rightarrow \\alpha + \\beta = 0 \\Rightarrow b = 0$。</p><p><strong>D ○</strong>：兩根互為倒數 $\\Rightarrow \\alpha\\beta = 1 \\Rightarrow c = 1$（二次項與常數項係數相等）。</p><p><strong>E ○</strong>：$\\alpha^2 + \\beta^2 = (\\alpha+\\beta)^2 - 2\\alpha\\beta = (-b)^2 - 2c = b^2 - 2c$。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>已知一元二次方程式的兩根為 $2$ 與 $-5$，下列何者為符合的方程式？（多選）</p><p>A. $x^2 + 3x - 10 = 0$</p><p>B. $x^2 - 3x - 10 = 0$</p><p>C. $2x^2 + 6x - 20 = 0$</p><p>D. $x^2 - 3x + 10 = 0$</p><p>E. $-x^2 - 3x + 10 = 0$</p>",
+          "answer": "ACE",
+          "explanation": "<p>$\\alpha + \\beta = 2 + (-5) = -3$，$\\alpha\\beta = -10$。回推：$x^2 - (-3)x + (-10) = x^2 + 3x - 10 = 0$。</p><p><strong>A ○</strong>：直接符合。</p><p><strong>B ╳</strong>：一次項符號錯。</p><p><strong>C ○</strong>：A 式兩邊乘 2，解不變。</p><p><strong>D ╳</strong>：一次項與常數項都錯。</p><p><strong>E ○</strong>：A 式兩邊乘 $-1$，解不變。</p>"
+        },
+        {
+          "id": "g2a_ch4_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>解方程式 $(x-1)(x+4) = -4(x+4)$，下列敘述何者正確？（多選）</p><p>A. 不可兩邊同除 $(x+4)$，否則會減根</p><p>B. 正確作法是把全部移到同邊提出公因式 $(x+4)$</p><p>C. 化簡後得 $(x+4)(x+3) = 0$</p><p>D. 解為 $x = -4$ 或 $x = -3$</p><p>E. 兩邊同除 $(x+4)$ 後得到的唯一解 $x = -3$ 已包含所有解</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A ○</strong>：除去含未知數的式子會減根。</p><p><strong>B ○</strong>：移項 $(x-1)(x+4) + 4(x+4) = 0$，提 $(x+4)$。</p><p><strong>C ○</strong>：$(x+4)[(x-1) + 4] = (x+4)(x+3) = 0$。</p><p><strong>D ○</strong>：得 $x = -4$ 或 $x = -3$。</p><p><strong>E ╳</strong>：少了 $x = -4$ 這個解。</p>"
+        }
+      ]
+    }
+  ]
+}

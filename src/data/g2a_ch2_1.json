@@ -1,0 +1,176 @@
+{
+  "title": "國二上 2-1 平方根與近似值",
+  "summary": "<ul><li><strong>平方根定義</strong>：若 $X^2 = Y$，則 $X$ 是 $Y$ 的平方根。正數有兩個平方根（互為相反數）$\\pm\\sqrt{Y}$；零只有一個（即 0）；負數沒有實數平方根。</li><li><strong>根號 $\\sqrt{\\;}$ 符號規約</strong>：$\\sqrt{A}$ 只取「非負平方根」，根號內必須 $\\geq 0$，輸出必為正數或 0；$\\sqrt{A^2} = |A|$（不確定正負時必須加絕對值）。</li><li><strong>「根號」vs「平方根」</strong>：$\\sqrt{81} = 9$（只一個值）；但「81 的平方根」是 $\\pm 9$（兩個值）。陷阱題如「$\\sqrt{81}$ 的平方根」要先化簡 $\\sqrt{81}=9$，再求 9 的平方根 $=\\pm 3$。</li><li><strong>無理數判別</strong>：$\\sqrt{A}$ 若 $A$ 不是完全平方數，則為無限不循環小數（無理數），只能取近似值。</li><li><strong>十分逼近法</strong>：用兩個整數平方夾住目標 → 縮小到小數第一位 → 第二位 → 逐步逼近。比大小可用 $A=\\sqrt{A^2}$ 把整數塞回根號內。</li><li><strong>四捨五入與有效位數</strong>：要算到小數第 $k$ 位，必須查/算到第 $k+1$ 位才能判斷進位。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch2_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>任何正數都有兩個平方根，且這兩個平方根互為相反數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。正數 $A$ 的平方根為 $\\pm\\sqrt{A}$，兩值絕對值相同、正負相反。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>$\\sqrt{49} = \\pm 7$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。根號 $\\sqrt{\\;}$ 符號只取非負平方根，$\\sqrt{49} = 7$。「49 的平方根」才是 $\\pm 7$。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$\\sqrt{(-5)^2} = -5$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$\\sqrt{A^2} = |A|$，故 $\\sqrt{(-5)^2} = |-5| = 5$。根號輸出必非負。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$\\sqrt{10}$ 是無理數，且 $3 < \\sqrt{10} < 4$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。10 不是完全平方數，$\\sqrt{10}$ 為無理數；$3^2=9 < 10 < 16=4^2$，故 $3 < \\sqrt{10} < 4$。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>要把 $\\sqrt{2} \\approx 1.41421$ 四捨五入到小數第二位，結果為 1.42。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。小數第三位為 4（< 5），捨去後為 <strong>1.41</strong>，不是 1.42。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch2_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列何者為 144 的平方根？</p><p>A. 12</p><p>B. $-12$</p><p>C. $\\pm 12$</p><p>D. $\\sqrt{12}$</p>",
+          "answer": "C",
+          "explanation": "<p>「144 的平方根」要取兩個值：$\\pm\\sqrt{144} = \\pm 12$（C）。注意「平方根」與「根號」用語不同。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>$\\sqrt{81}$ 的平方根為何？</p><p>A. $\\pm 9$</p><p>B. 9</p><p>C. $\\pm 3$</p><p>D. 3</p>",
+          "answer": "C",
+          "explanation": "<p>先化簡 $\\sqrt{81} = 9$，再求 9 的平方根 $= \\pm 3$（C）。陷阱：兩層用語不同，先處理根號再處理平方根。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>下列何者沒有平方根（在實數範圍內）？</p><p>A. 0</p><p>B. 0.01</p><p>C. $\\frac{1}{4}$</p><p>D. $-16$</p>",
+          "answer": "D",
+          "explanation": "<p>負數沒有實數平方根；0 有一個（就是 0）；正數有兩個。故選 D。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>$\\sqrt{\\sqrt{625}} = ?$</p><p>A. 25</p><p>B. 5</p><p>C. $\\pm 5$</p><p>D. $\\sqrt{25}$</p>",
+          "answer": "B",
+          "explanation": "<p>從最內層化簡：$\\sqrt{625} = 25$，再 $\\sqrt{25} = 5$（B）。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>下列關於 $\\sqrt{20}$ 的敘述何者正確？</p><p>A. $\\sqrt{20}$ 介於 3 與 4 之間</p><p>B. $\\sqrt{20}$ 介於 4 與 5 之間</p><p>C. $\\sqrt{20}$ 是整數</p><p>D. $\\sqrt{20}$ 介於 5 與 6 之間</p>",
+          "answer": "B",
+          "explanation": "<p>$4^2 = 16 < 20 < 25 = 5^2$，所以 $4 < \\sqrt{20} < 5$（B）。20 非完全平方數，$\\sqrt{20}$ 為無理數。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>下列何者最接近 $\\sqrt{50}$？</p><p>A. 6</p><p>B. 7</p><p>C. 8</p><p>D. 9</p>",
+          "answer": "B",
+          "explanation": "<p>$7^2 = 49$，$8^2 = 64$，$50 - 49 = 1$，$64 - 50 = 14$，差小者較近，故 $\\sqrt{50}$ 最接近 <strong>7</strong>（B）。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>用十分逼近法估算 $\\sqrt{7}$ 至小數第一位（四捨五入），下列何者正確？</p><p>A. 2.5</p><p>B. 2.6</p><p>C. 2.7</p><p>D. 2.8</p>",
+          "answer": "B",
+          "explanation": "<p>$2.6^2 = 6.76$、$2.7^2 = 7.29$，故 $2.6 < \\sqrt{7} < 2.7$；再算 $2.64^2 = 6.9696$、$2.65^2 = 7.0225$，故 $\\sqrt{7} \\approx 2.645\\ldots$，四捨五入到第一位為 <strong>2.6</strong>（B）。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>已知 $\\sqrt{2} \\approx 1.41421$，求 $\\sqrt{2}$ 四捨五入到小數第三位的近似值。</p><p>A. 1.413</p><p>B. 1.414</p><p>C. 1.415</p><p>D. 1.421</p>",
+          "answer": "B",
+          "explanation": "<p>看小數第四位：2（< 5），捨去，故四捨五入到小數第三位為 <strong>1.414</strong>（B）。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>下列三個數 $\\sqrt{15}$、$\\sqrt{17}$、4，由小到大排列正確的是？</p><p>A. $\\sqrt{15} < 4 < \\sqrt{17}$</p><p>B. $4 < \\sqrt{15} < \\sqrt{17}$</p><p>C. $\\sqrt{17} < 4 < \\sqrt{15}$</p><p>D. $\\sqrt{15} < \\sqrt{17} < 4$</p>",
+          "answer": "A",
+          "explanation": "<p>把 4 塞回根號：$4 = \\sqrt{16}$。比較根號內：$15 < 16 < 17$，故 $\\sqrt{15} < 4 < \\sqrt{17}$（A）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch2_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於平方根的敘述，何者正確？（多選）</p><p>A. 0 的平方根只有一個，就是 0</p><p>B. 任意實數都有平方根</p><p>C. 正數的兩個平方根互為相反數</p><p>D. $\\sqrt{A}$ 的值必為非負數</p><p>E. 若 $X$ 是 $Y$ 的平方根，則 $X^2 = Y$</p>",
+          "answer": "ACDE",
+          "explanation": "<p><strong>A ○</strong>：0 只有一個平方根（就是 0）。</p><p><strong>B ╳</strong>：負數在實數範圍內沒有平方根。</p><p><strong>C ○</strong>：$\\pm\\sqrt{A}$ 互為相反數。</p><p><strong>D ○</strong>：根號符號只取非負值。</p><p><strong>E ○</strong>：「$X$ 是 $Y$ 的平方根」的定義即 $X^2 = Y$。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列何者為無理數？（多選）</p><p>A. $\\sqrt{2}$</p><p>B. $\\sqrt{9}$</p><p>C. $\\sqrt{0.04}$</p><p>D. $\\sqrt{12}$</p><p>E. $\\sqrt{50}$</p>",
+          "answer": "ADE",
+          "explanation": "<p>根號內非完全平方數才是無理數。</p><p><strong>A ○</strong>：$\\sqrt{2}$ 無理數。</p><p><strong>B ╳</strong>：$\\sqrt{9}=3$ 有理數。</p><p><strong>C ╳</strong>：$\\sqrt{0.04}=0.2$ 有理數。</p><p><strong>D ○</strong>：12 非完全平方數。</p><p><strong>E ○</strong>：50 非完全平方數。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列等式何者成立？（多選）</p><p>A. $\\sqrt{(-3)^2} = 3$</p><p>B. $\\sqrt{36} = \\pm 6$</p><p>C. $\\sqrt{0} = 0$</p><p>D. $(\\sqrt{7})^2 = 7$</p><p>E. $\\sqrt{25 - 9} = 5 - 3$</p>",
+          "answer": "ACD",
+          "explanation": "<p><strong>A ○</strong>：$\\sqrt{(-3)^2}=|-3|=3$。</p><p><strong>B ╳</strong>：$\\sqrt{36}=6$（只取非負）。</p><p><strong>C ○</strong>：0 的非負平方根為 0。</p><p><strong>D ○</strong>：根號與平方互消。</p><p><strong>E ╳</strong>：$\\sqrt{16}=4$，但 $5-3=2$，平方差 ≠ 差的平方，要先算完再開根號。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>下列哪些數介於 5 與 6 之間？（多選）</p><p>A. $\\sqrt{24}$</p><p>B. $\\sqrt{28}$</p><p>C. $\\sqrt{30}$</p><p>D. $\\sqrt{36}$</p><p>E. $\\sqrt{37}$</p>",
+          "answer": "BC",
+          "explanation": "<p>介於 5 與 6 之間等價於根號內介於 $25$ 與 $36$ 之間（不含端點）。</p><p><strong>A ╳</strong>：$24<25$，故 $\\sqrt{24}<5$。</p><p><strong>B ○</strong>：$25<28<36$。</p><p><strong>C ○</strong>：$25<30<36$。</p><p><strong>D ╳</strong>：$\\sqrt{36}=6$（等於端點，不在開區間內）。</p><p><strong>E ╳</strong>：$37>36$，故 $\\sqrt{37}>6$。</p>"
+        },
+        {
+          "id": "g2a_ch2_1_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>已知 $\\sqrt{3} \\approx 1.732$，下列敘述何者正確？（多選）</p><p>A. $\\sqrt{3}$ 四捨五入到小數第一位為 1.7</p><p>B. $\\sqrt{3}$ 四捨五入到小數第二位為 1.73</p><p>C. $\\sqrt{3}$ 是有理數</p><p>D. $\\sqrt{12} \\approx 3.464$</p><p>E. 要把 $\\sqrt{3}$ 算到小數第二位的近似值，必須先算到小數第三位</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：第二位為 3（< 5），捨去 → 1.7。</p><p><strong>B ○</strong>：第三位為 2（< 5），捨去 → 1.73。</p><p><strong>C ╳</strong>：$\\sqrt{3}$ 為無理數。</p><p><strong>D ○</strong>：$\\sqrt{12}=2\\sqrt{3}\\approx 2\\times 1.732 = 3.464$。</p><p><strong>E ○</strong>：四捨五入到第 $k$ 位需算到第 $k+1$ 位才能判斷進位。</p>"
+        }
+      ]
+    }
+  ]
+}

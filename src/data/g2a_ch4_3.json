@@ -1,0 +1,176 @@
+{
+  "title": "國二上 4-3 一元二次方程式的應用",
+  "summary": "<ul><li><strong>應用題三大假設原則</strong>：假設最小的、出現最多次、或題目所求的為 x；列式後通常有兩解，<strong>務必驗算合理性</strong>（長度、時間、人數、正整數）。</li><li><strong>連續整數對稱設法</strong>：三個連續奇／偶數的平方和，設 x−2、x、x+2 可消掉一次項；連續整數差 1 設 x、x+1。</li><li><strong>複利公式</strong>：本利和 = 本金 ×(1+年利率)<sup>期數</sup>；要記得 1.0609 = 1.03²、1.1025 = 1.05²。</li><li><strong>工程問題</strong>：x 小時做完 → 1 小時做 $\\frac{1}{x}$；兩人合作列 $\\frac{1}{x}+\\frac{1}{x+k}=\\frac{1}{T}$，同乘分母消去。</li><li><strong>幾何必備</strong>：畢氏定理、兩點距離公式 $\\sqrt{(x_1-x_2)^2+(y_1-y_2)^2}$、特殊邊比 1:1:√2 與 1:√3:2、正三角形面積 $\\frac{\\sqrt{3}}{4}a^2$。</li><li><strong>乾坤大挪移</strong>：正方形切角後四塊重組成新形狀，秒殺面積題；參數式假設可把直線上的點寫成 (t, mt+k)。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2a_ch4_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>應用題列出一元二次方程式後，解出兩個答案時可以直接兩個都當作答案，不必驗算。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。一元二次方程式通常有兩解，必須回頭<strong>驗算合理性</strong>：長度、時間、人數、邊長皆須 > 0，正整數題的負解或非整數解一律捨。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>三個連續奇數的平方和為 251，若設這三個奇數為 x−2、x、x+2，可使一次項自動消掉，計算較快。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。對稱設法 (x−2)²+x²+(x+2)² = 3x²+8，<strong>一次項自動消去</strong>，是處理三連續奇／偶數平方和的標準技巧。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>等腰直角三角形的三邊長比為 $1 : \\sqrt{3} : 2$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。等腰直角（45-45-90）邊長比為 <strong>$1 : 1 : \\sqrt{2}$</strong>；$1 : \\sqrt{3} : 2$ 是 30-60-90 三角形的邊長比。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>本金 10000 元，年利率 3%，以複利計算 2 年後本利和為 $10000 \\times 1.0609 = 10609$ 元。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。複利公式 $A = P(1+r)^n = 10000 \\times 1.03^2 = 10000 \\times 1.0609 = 10609$，記住 $103^2 = 10609$ 的數字直覺很重要。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>邊長為 $a$ 的正三角形，其面積為 $\\frac{\\sqrt{3}}{2}a^2$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。正三角形高 = $\\frac{\\sqrt{3}}{2}a$，面積 = $\\frac{1}{2} \\times a \\times \\frac{\\sqrt{3}}{2}a$ = <strong>$\\frac{\\sqrt{3}}{4}a^2$</strong>。$\\frac{\\sqrt{3}}{2}a$ 是「高」不是「面積」。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2a_ch4_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>三個連續正整數的平方和為 110，求最大的那個數。</p><p>A. 5</p><p>B. 6</p><p>C. 7</p><p>D. 8</p>",
+          "answer": "C",
+          "explanation": "<p>設三數為 x−1、x、x+1：(x−1)²+x²+(x+1)² = 3x²+2 = 110 → x² = 36 → x = 6（取正）</p><p>三數為 5、6、7，最大為 <strong>7</strong>（C）。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>某數的平方比這個數的 2 倍多 15，求此數。</p><p>A. 只有 5</p><p>B. 只有 −3</p><p>C. 5 或 −3</p><p>D. 5 或 3</p>",
+          "answer": "C",
+          "explanation": "<p>設此數為 x：$x^2 = 2x + 15$ → $x^2 - 2x - 15 = 0$ → $(x-5)(x+3) = 0$</p><p>題目<strong>沒限定正負</strong>，故 x = 5 或 −3（C）。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>本金 P 元以年利率 5% 複利計算，2 年後本利和為 11025 元，求本金 P。</p><p>A. 9500</p><p>B. 10000</p><p>C. 10500</p><p>D. 10800</p>",
+          "answer": "B",
+          "explanation": "<p>$P(1.05)^2 = 11025$ → $P \\times 1.1025 = 11025$ → P = <strong>10000</strong>（B）。記得 $1.05^2 = 1.1025$。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>甲水龍頭單獨注滿水池需 x 小時，乙水龍頭單獨需 x+3 小時，兩管同時開 2 小時可注滿。求 x。</p><p>A. 2</p><p>B. 3</p><p>C. 4</p><p>D. 6</p>",
+          "answer": "B",
+          "explanation": "<p>列式：$\\frac{1}{x} + \\frac{1}{x+3} = \\frac{1}{2}$</p><p>兩邊同乘 $2x(x+3)$：$2(x+3) + 2x = x(x+3)$ → $4x + 6 = x^2 + 3x$ → $x^2 - x - 6 = 0$ → $(x-3)(x+2) = 0$</p><p>取正：x = <strong>3</strong>（B），即甲需 3 小時、乙需 6 小時。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>直角三角形兩股長分別為 x、x+7，斜邊長 13，求較短的股長 x。</p><p>A. 4</p><p>B. 5</p><p>C. 6</p><p>D. 12</p>",
+          "answer": "B",
+          "explanation": "<p>畢氏定理：$x^2 + (x+7)^2 = 13^2$ → $2x^2 + 14x + 49 = 169$ → $x^2 + 7x - 60 = 0$ → $(x-5)(x+12) = 0$</p><p>長度 > 0，x = <strong>5</strong>（B），即 5-12-13 必氏組合。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>座標平面上 A(1, 2)、B(x, 5)，已知 $\\overline{AB} = 5$，求 x 的所有可能值之和。</p><p>A. 2</p><p>B. 4</p><p>C. 5</p><p>D. 10</p>",
+          "answer": "A",
+          "explanation": "<p>$\\sqrt{(x-1)^2+(5-2)^2} = 5$ → $(x-1)^2 + 9 = 25$ → $(x-1)^2 = 16$ → x = 5 或 −3</p><p>兩解之和 = 5 + (−3) = <strong>2</strong>（A）。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>正方形邊長為 $a$，將四個角各切掉一個全等的等腰直角三角形後形成正八邊形，若等腰直角三角形的腳長為 x，則下列等式何者正確？</p><p>A. $x + \\sqrt{2}x = a$</p><p>B. $3x = a$</p><p>C. $2x + \\sqrt{2}x = a$</p><p>D. $x + 2\\sqrt{2}x = a$</p>",
+          "answer": "C",
+          "explanation": "<p>正八邊形每邊等長：切角後正方形上邊剩下中段 $a - 2x$，須等於切下三角形的斜邊 $\\sqrt{2}x$。</p><p>$a - 2x = \\sqrt{2}x$ → $a = 2x + \\sqrt{2}x$，答案為 <strong>C</strong>。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>邊長為 6 的正三角形面積為何？</p><p>A. $6\\sqrt{3}$</p><p>B. $9\\sqrt{3}$</p><p>C. $12\\sqrt{3}$</p><p>D. $18\\sqrt{3}$</p>",
+          "answer": "B",
+          "explanation": "<p>正三角形面積 = $\\frac{\\sqrt{3}}{4}a^2 = \\frac{\\sqrt{3}}{4} \\times 36 = $ <strong>$9\\sqrt{3}$</strong>（B）。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>池中央長一根蘆葦，露出水面 1 公尺；將蘆葦拉到岸邊，葦尖恰好觸及水面。已知葦尖到原中央點水平距離為 5 公尺，求水深 x。</p><p>A. 10 公尺</p><p>B. 12 公尺</p><p>C. 13 公尺</p><p>D. 24 公尺</p>",
+          "answer": "B",
+          "explanation": "<p>水深 x，蘆葦長 = x + 1（斜邊），水平 5 為一股，水深 x 為另一股。</p><p>畢氏：$x^2 + 5^2 = (x+1)^2$ → $x^2 + 25 = x^2 + 2x + 1$ → 2x = 24 → x = <strong>12</strong>（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2a_ch4_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列關於應用題假設原則的敘述，何者正確？（多選）</p><p>A. 假設最小的量為 x，較容易避免負數</p><p>B. 假設題目所求的量為 x，列式直接，少一步換算</p><p>C. 一元二次方程式只能有一個合理解</p><p>D. 出現次數最多的量設為 x，可減少未知數</p><p>E. 列式後不必驗算，計算正確即可</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：設最小量，其他量加上正數，方便處理。</p><p><strong>B ○</strong>：設所求即可少一步換算。</p><p><strong>C ╳</strong>：某數平方等問題可能兩解皆合理。</p><p><strong>D ○</strong>：是三大假設原則之一。</p><p><strong>E ╳</strong>：必須驗算合理性，捨去不合解。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些是常見的必氏定理整數邊組合？（多選）</p><p>A. 3 : 4 : 5</p><p>B. 5 : 12 : 13</p><p>C. 6 : 8 : 9</p><p>D. 7 : 24 : 25</p><p>E. 8 : 15 : 17</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A、B、D、E</strong> 都是常見必氏組合（3-4-5、5-12-13、7-24-25、8-15-17）。</p><p><strong>C ╳</strong>：$6^2+8^2 = 36+64 = 100 \\neq 9^2 = 81$，不是必氏組合（應為 6-8-10 才對）。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>下列哪些情況可立刻聯想使用畢氏定理？（多選）</p><p>A. 題目出現「直角」</p><p>B. 圖形出現「正方形」或「等腰直角三角形」</p><p>C. 題目給「鉛直、水平」方向</p><p>D. 給定不等邊三角形三邊長且無直角</p><p>E. 題目提到「垂直平分線」</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A、B、C、E ○</strong>：直角、正方形、鉛直水平、垂直平分都隱含直角結構，應立即套用畢氏定理。</p><p><strong>D ╳</strong>：無直角的不等邊三角形不能直接套畢氏，可能需要海龍公式或其他方法。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>下列關於複利計算的敘述，何者正確？（多選）</p><p>A. 本利和 $A = P(1+r)^n$</p><p>B. $1.03^2 = 1.0609$</p><p>C. $1.05^2 = 1.1025$</p><p>D. 複利兩年利息一定等於單利兩年利息</p><p>E. 若兩年後本利和比本金多 6.09%，則年利率為 3%</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A、B、C、E ○</strong>：複利公式、常用平方值、利率反推都正確。</p><p><strong>D ╳</strong>：複利第二年利息多了「利息生利息」的部分，比單利多。</p>"
+        },
+        {
+          "id": "g2a_ch4_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>下列關於特殊三角形邊長與面積的敘述，何者正確？（多選）</p><p>A. 等腰直角三角形邊長比為 $1 : 1 : \\sqrt{2}$</p><p>B. 30-60-90 直角三角形邊長比為 $1 : \\sqrt{3} : 2$</p><p>C. 邊長 $a$ 的正三角形高為 $\\frac{\\sqrt{3}}{2}a$</p><p>D. 邊長 $a$ 的正三角形面積為 $\\frac{\\sqrt{3}}{4}a^2$</p><p>E. 等腰直角三角形的腳長為 1，則斜邊長為 2</p>",
+          "answer": "ABCD",
+          "explanation": "<p><strong>A、B、C、D ○</strong>：是特殊三角形必背公式。</p><p><strong>E ╳</strong>：腳長 1 的等腰直角三角形斜邊為 $\\sqrt{2}$，不是 2。</p>"
+        }
+      ]
+    }
+  ]
+}
