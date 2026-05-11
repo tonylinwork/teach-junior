@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於鉛直線與水平線的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 鉛直線的方程式形式為 $x = k$（$k$ 為常數）</p><p>B. 水平線與 $x$ 軸平行</p><p>C. 鉛直線的斜率為 0</p><p>D. 水平線上任意兩點的 $y$ 座標相同</p><p>E. 「垂直 $x$ 軸」的直線就是鉛直線</p>",
           "answer": "ABDE",
-          "explanation": "<p><strong>A ○</strong>：鉛直線形式為 $x = k$，正確。<br><strong>B ○</strong>：水平線平行於 $x$ 軸，正確。<br><strong>C ✕</strong>：水平線的斜率為 0；鉛直線<strong>無斜率</strong>（斜率不存在），不能說斜率是 0，錯誤。<br><strong>D ○</strong>：水平線上所有點 $y$ 座標相同，正確。<br><strong>E ○</strong>：垂直 $x$ 軸的直線就是鉛直線，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：鉛直線形式為 $x = k$，正確。<br><strong>B ○</strong>：水平線平行於 $x$ 軸，正確。<br><strong>C ╳</strong>：水平線的斜率為 0；鉛直線<strong>無斜率</strong>（斜率不存在），不能說斜率是 0，錯誤。<br><strong>D ○</strong>：水平線上所有點 $y$ 座標相同，正確。<br><strong>E ○</strong>：垂直 $x$ 軸的直線就是鉛直線，正確。</p>"
         },
         {
           "id": "g1b_ch2_2_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>已知兩點 $P(-3,\\ k)$ 與 $Q(5,\\ k)$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 通過 $P$、$Q$ 的直線是水平線</p><p>B. 通過 $P$、$Q$ 的直線方程式為 $y = k$</p><p>C. 通過 $P$、$Q$ 的直線方程式為 $x = k$</p><p>D. 通過 $P$、$Q$ 的直線與 $y$ 軸垂直</p><p>E. 若 $k = -4$，則直線方程式為 $y = -4$</p>",
           "answer": "ABDE",
-          "explanation": "<p>兩點 $P(-3,\\ k)$ 與 $Q(5,\\ k)$ 的 $y$ 座標相同，所以通過這兩點的直線是水平線。<br><strong>A ○</strong>：水平線，正確。<br><strong>B ○</strong>：水平線方程式為 $y = k$，正確。<br><strong>C ✕</strong>：$x = k$ 是鉛直線；兩點的 $x$ 座標不同（$-3$ 和 $5$），不是鉛直線，錯誤。<br><strong>D ○</strong>：水平線與 $y$ 軸垂直，正確。<br><strong>E ○</strong>：$k = -4$ 時方程式為 $y = -4$，正確。</p>"
+          "explanation": "<p>兩點 $P(-3,\\ k)$ 與 $Q(5,\\ k)$ 的 $y$ 座標相同，所以通過這兩點的直線是水平線。<br><strong>A ○</strong>：水平線，正確。<br><strong>B ○</strong>：水平線方程式為 $y = k$，正確。<br><strong>C ╳</strong>：$x = k$ 是鉛直線；兩點的 $x$ 座標不同（$-3$ 和 $5$），不是鉛直線，錯誤。<br><strong>D ○</strong>：水平線與 $y$ 軸垂直，正確。<br><strong>E ○</strong>：$k = -4$ 時方程式為 $y = -4$，正確。</p>"
         },
         {
           "id": "g1b_ch2_2_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>關於下列聯立方程式與圖形關係，哪些配對<strong>正確</strong>？（多選）</p><p>A. $\\begin{cases} x + y = 3 \\\\ 2x + 2y = 6 \\end{cases}$ → 兩直線重合，無限多組解</p><p>B. $\\begin{cases} x + y = 3 \\\\ x + y = 5 \\end{cases}$ → 兩直線平行，無解</p><p>C. $\\begin{cases} x + y = 3 \\\\ x - y = 1 \\end{cases}$ → 兩直線相交，唯一解</p><p>D. $\\begin{cases} 3x - 6y = 9 \\\\ x - 2y = 4 \\end{cases}$ → 兩直線相交，唯一解</p><p>E. $\\begin{cases} 2x - 4y = 6 \\\\ x - 2y = 3 \\end{cases}$ → 兩直線重合，無限多組解</p>",
           "answer": "ABCE",
-          "explanation": "<p><strong>A ○</strong>：第二式為第一式 ×2，完全相同，重合，無限多解，正確。<br><strong>B ○</strong>：$x$、$y$ 係數相同（均為 1），常數項 $3 \\neq 5$，平行，無解，正確。<br><strong>C ○</strong>：$x$ 係數比 $1:1$，$y$ 係數比 $1:-1$，不成比例，有唯一解，正確。<br><strong>D ✕</strong>：$3x-6y=9$ 化簡為 $x-2y=3$，與 $x-2y=4$ 係數相同、常數項不同，是<strong>平行線，無解</strong>，錯誤。<br><strong>E ○</strong>：$x-2y=3$ 是 $2x-4y=6$ 除以 2，完全相同，重合，無限多解，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：第二式為第一式 ×2，完全相同，重合，無限多解，正確。<br><strong>B ○</strong>：$x$、$y$ 係數相同（均為 1），常數項 $3 \\neq 5$，平行，無解，正確。<br><strong>C ○</strong>：$x$ 係數比 $1:1$，$y$ 係數比 $1:-1$，不成比例，有唯一解，正確。<br><strong>D ╳</strong>：$3x-6y=9$ 化簡為 $x-2y=3$，與 $x-2y=4$ 係數相同、常數項不同，是<strong>平行線，無解</strong>，錯誤。<br><strong>E ○</strong>：$x-2y=3$ 是 $2x-4y=6$ 除以 2，完全相同，重合，無限多解，正確。</p>"
         },
         {
           "id": "g1b_ch2_2_q18",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>下列哪些點在直線 $y = -x + 4$ 上？（多選）</p><p>A. $(0,\\ 4)$</p><p>B. $(4,\\ 0)$</p><p>C. $(2,\\ 2)$</p><p>D. $(-1,\\ 6)$</p><p>E. $(3,\\ 2)$</p>",
           "answer": "ABC",
-          "explanation": "<p>將各點代入 $y = -x + 4$ 驗算：<br><strong>A ○</strong>：$-(0)+4 = 4$ ✓（在直線上）<br><strong>B ○</strong>：$-(4)+4 = 0$ ✓（在直線上）<br><strong>C ○</strong>：$-(2)+4 = 2$ ✓（在直線上）<br><strong>D ✕</strong>：$-(-1)+4 = 1+4 = 5 \\neq 6$（不在直線上）<br><strong>E ✕</strong>：$-(3)+4 = 1 \\neq 2$（不在直線上）</p>"
+          "explanation": "<p>將各點代入 $y = -x + 4$ 驗算：<br><strong>A ○</strong>：$-(0)+4 = 4$ ✓（在直線上）<br><strong>B ○</strong>：$-(4)+4 = 0$ ✓（在直線上）<br><strong>C ○</strong>：$-(2)+4 = 2$ ✓（在直線上）<br><strong>D ╳</strong>：$-(-1)+4 = 1+4 = 5 \\neq 6$（不在直線上）<br><strong>E ╳</strong>：$-(3)+4 = 1 \\neq 2$（不在直線上）</p>"
         }
       ]
     }

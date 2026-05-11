@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於直角坐標平面的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. $x$ 軸與 $y$ 軸的交點稱為原點 $O$，座標為 $(0,\\ 0)$</p><p>B. $x$ 軸是水平的數線，$y$ 軸是鉛直的數線</p><p>C. 平面上每個點都恰好屬於四個象限中的一個</p><p>D. 有序對 $(2,\\ 5)$ 與 $(5,\\ 2)$ 代表同一個點</p><p>E. 第三象限的點 $x$ 座標、$y$ 座標皆為負</p>",
           "answer": "ABE",
-          "explanation": "<p><strong>A ○</strong>：原點為兩軸交點 $(0,\\ 0)$。<br><strong>B ○</strong>：$x$ 軸水平、$y$ 軸鉛直。<br><strong>C ✕</strong>：坐標軸上的點（如 $(3,\\ 0)$、$(0,\\ -2)$）<strong>不屬於任何象限</strong>。<br><strong>D ✕</strong>：有序對的 $x$、$y$ 順序不可交換，$(2,\\ 5)$ 與 $(5,\\ 2)$ 是不同的點。<br><strong>E ○</strong>：第三象限「負負」，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：原點為兩軸交點 $(0,\\ 0)$。<br><strong>B ○</strong>：$x$ 軸水平、$y$ 軸鉛直。<br><strong>C ╳</strong>：坐標軸上的點（如 $(3,\\ 0)$、$(0,\\ -2)$）<strong>不屬於任何象限</strong>。<br><strong>D ╳</strong>：有序對的 $x$、$y$ 順序不可交換，$(2,\\ 5)$ 與 $(5,\\ 2)$ 是不同的點。<br><strong>E ○</strong>：第三象限「負負」，正確。</p>"
         },
         {
           "id": "g1b_ch2_1_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>下列哪些點到 $x$ 軸的距離為 5？（多選）</p><p>A. $(3,\\ 5)$</p><p>B. $(-2,\\ -5)$</p><p>C. $(5,\\ 0)$</p><p>D. $(0,\\ 5)$</p><p>E. $(-5,\\ 2)$</p>",
           "answer": "ABD",
-          "explanation": "<p>點到 $x$ 軸的距離 $= |y|$，要等於 5 即 $|y|=5$，所以 $y=5$ 或 $y=-5$。<br><strong>A ○</strong>：$|5|=5$。<br><strong>B ○</strong>：$|-5|=5$。<br><strong>C ✕</strong>：$|0|=0 \\neq 5$。<br><strong>D ○</strong>：$|5|=5$。<br><strong>E ✕</strong>：$|2|=2 \\neq 5$。</p>"
+          "explanation": "<p>點到 $x$ 軸的距離 $= |y|$，要等於 5 即 $|y|=5$，所以 $y=5$ 或 $y=-5$。<br><strong>A ○</strong>：$|5|=5$。<br><strong>B ○</strong>：$|-5|=5$。<br><strong>C ╳</strong>：$|0|=0 \\neq 5$。<br><strong>D ○</strong>：$|5|=5$。<br><strong>E ╳</strong>：$|2|=2 \\neq 5$。</p>"
         },
         {
           "id": "g1b_ch2_1_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>已知 $A(2,\\ -3)$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. $A$ 點在第四象限</p><p>B. $A$ 對 $x$ 軸對稱的點為 $(2,\\ 3)$</p><p>C. $A$ 對 $y$ 軸對稱的點為 $(-2,\\ -3)$</p><p>D. $A$ 對原點對稱的點為 $(-2,\\ 3)$</p><p>E. $A$ 到 $y$ 軸的距離為 3</p>",
           "answer": "ABCD",
-          "explanation": "<p><strong>A ○</strong>：$(2,\\ -3)$ 為「正負」，第四象限。<br><strong>B ○</strong>：對 $x$ 軸對稱 $y$ 變號，$(2,\\ -3)\\to(2,\\ 3)$。<br><strong>C ○</strong>：對 $y$ 軸對稱 $x$ 變號，$(2,\\ -3)\\to(-2,\\ -3)$。<br><strong>D ○</strong>：對原點對稱 $x,y$ 皆變號，$(2,\\ -3)\\to(-2,\\ 3)$。<br><strong>E ✕</strong>：$A$ 到 $y$ 軸距離 $=|x|=|2|=2$，不是 3。</p>"
+          "explanation": "<p><strong>A ○</strong>：$(2,\\ -3)$ 為「正負」，第四象限。<br><strong>B ○</strong>：對 $x$ 軸對稱 $y$ 變號，$(2,\\ -3)\\to(2,\\ 3)$。<br><strong>C ○</strong>：對 $y$ 軸對稱 $x$ 變號，$(2,\\ -3)\\to(-2,\\ -3)$。<br><strong>D ○</strong>：對原點對稱 $x,y$ 皆變號，$(2,\\ -3)\\to(-2,\\ 3)$。<br><strong>E ╳</strong>：$A$ 到 $y$ 軸距離 $=|x|=|2|=2$，不是 3。</p>"
         },
         {
           "id": "g1b_ch2_1_q18",

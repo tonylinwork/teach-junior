@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於倒數的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. $1$ 的倒數是 $1$</p><p>B. $-1$ 的倒數是 $1$</p><p>C. $0$ 沒有倒數</p><p>D. 兩數互為倒數，則它們的乘積為 $1$</p><p>E. $-\\frac{5}{3}$ 的倒數是 $-\\frac{3}{5}$</p>",
           "answer": "ACDE",
-          "explanation": "<p><strong>A ○</strong>：$1 \\times 1 = 1$，$1$ 的倒數是 $1$，正確。<br><strong>B ✕</strong>：$-1$ 的倒數是 $-1$（自己本身），不是 $1$。驗證：$-1 \\times (-1) = 1$ ✓。<br><strong>C ○</strong>：$0$ 沒有倒數，正確。<br><strong>D ○</strong>：這就是倒數的定義，正確。<br><strong>E ○</strong>：分子分母顛倒、正負號不變，$-\\frac{5}{3}$ 的倒數是 $-\\frac{3}{5}$，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：$1 \\times 1 = 1$，$1$ 的倒數是 $1$，正確。<br><strong>B ╳</strong>：$-1$ 的倒數是 $-1$（自己本身），不是 $1$。驗證：$-1 \\times (-1) = 1$ ✓。<br><strong>C ○</strong>：$0$ 沒有倒數，正確。<br><strong>D ○</strong>：這就是倒數的定義，正確。<br><strong>E ○</strong>：分子分母顛倒、正負號不變，$-\\frac{5}{3}$ 的倒數是 $-\\frac{3}{5}$，正確。</p>"
         },
         {
           "id": "g1a_ch2_4_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>下列計算何者<strong>正確</strong>？（多選）</p><p>A. $\\frac{2}{5} \\times \\frac{15}{8} = \\frac{3}{4}$</p><p>B. $\\frac{3}{4} \\div \\frac{9}{16} = \\frac{27}{64}$</p><p>C. $\\left(-\\frac{1}{2}\\right) \\times \\left(-\\frac{4}{3}\\right) = \\frac{2}{3}$</p><p>D. $\\frac{5}{6} \\div \\left(-\\frac{10}{3}\\right) = -\\frac{1}{4}$</p><p>E. $\\left(-\\frac{3}{4}\\right)^2 = -\\frac{9}{16}$</p>",
           "answer": "ACD",
-          "explanation": "<p><strong>A ○</strong>：$\\frac{2}{5} \\times \\frac{15}{8} = \\frac{2 \\times 15}{5 \\times 8} = \\frac{30}{40} = \\frac{3}{4}$，正確。<br><strong>B ✕</strong>：$\\frac{3}{4} \\div \\frac{9}{16} = \\frac{3}{4} \\times \\frac{16}{9} = \\frac{4}{3}$，不是 $\\frac{27}{64}$（這是把分子分母都顛倒的錯誤）。<br><strong>C ○</strong>：負負得正，$\\frac{1}{2} \\times \\frac{4}{3} = \\frac{2}{3}$，正確。<br><strong>D ○</strong>：$\\frac{5}{6} \\times \\left(-\\frac{3}{10}\\right) = -\\frac{1}{4}$，正確。<br><strong>E ✕</strong>：$\\left(-\\frac{3}{4}\\right)^2 = \\left(-\\frac{3}{4}\\right) \\times \\left(-\\frac{3}{4}\\right) = \\frac{9}{16}$（負負得正），不是 $-\\frac{9}{16}$。</p>"
+          "explanation": "<p><strong>A ○</strong>：$\\frac{2}{5} \\times \\frac{15}{8} = \\frac{2 \\times 15}{5 \\times 8} = \\frac{30}{40} = \\frac{3}{4}$，正確。<br><strong>B ╳</strong>：$\\frac{3}{4} \\div \\frac{9}{16} = \\frac{3}{4} \\times \\frac{16}{9} = \\frac{4}{3}$，不是 $\\frac{27}{64}$（這是把分子分母都顛倒的錯誤）。<br><strong>C ○</strong>：負負得正，$\\frac{1}{2} \\times \\frac{4}{3} = \\frac{2}{3}$，正確。<br><strong>D ○</strong>：$\\frac{5}{6} \\times \\left(-\\frac{3}{10}\\right) = -\\frac{1}{4}$，正確。<br><strong>E ╳</strong>：$\\left(-\\frac{3}{4}\\right)^2 = \\left(-\\frac{3}{4}\\right) \\times \\left(-\\frac{3}{4}\\right) = \\frac{9}{16}$（負負得正），不是 $-\\frac{9}{16}$。</p>"
         },
         {
           "id": "g1a_ch2_4_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>關於四則運算的順序，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 先做乘除，再做加減</p><p>B. 有括號時，先算括號內的</p><p>C. 看到次方要優先算</p><p>D. 計算 $2 + 3 \\times 4$ 時要先算 $2 + 3$</p><p>E. 計算 $\\left(\\frac{1}{2}\\right)^2 + \\frac{1}{3}$ 時要先算次方</p>",
           "answer": "ABCE",
-          "explanation": "<p><strong>A ○</strong>：「先乘除後加減」是基本口訣，正確。<br><strong>B ○</strong>：括號優先，正確。<br><strong>C ○</strong>：「次方最優先」，正確。<br><strong>D ✕</strong>：應該先算 $3 \\times 4 = 12$，再算 $2 + 12 = 14$。先乘除後加減。<br><strong>E ○</strong>：次方最優先，先算 $\\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$，再加 $\\frac{1}{3}$，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：「先乘除後加減」是基本口訣，正確。<br><strong>B ○</strong>：括號優先，正確。<br><strong>C ○</strong>：「次方最優先」，正確。<br><strong>D ╳</strong>：應該先算 $3 \\times 4 = 12$，再算 $2 + 12 = 14$。先乘除後加減。<br><strong>E ○</strong>：次方最優先，先算 $\\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$，再加 $\\frac{1}{3}$，正確。</p>"
         },
         {
           "id": "g1a_ch2_4_q18",
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>關於 $\\left(-\\frac{1}{2}\\right) \\times \\left(-\\frac{2}{3}\\right) \\times \\left(-\\frac{3}{4}\\right) \\times \\left(-\\frac{4}{5}\\right)$ 的計算，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 有 $4$ 個負號，所以結果為正</p><p>B. 有 $4$ 個負號，所以結果為負</p><p>C. 約分後可得 $\\frac{1}{5}$</p><p>D. 計算結果為 $\\frac{1}{5}$</p><p>E. 計算結果為 $-\\frac{1}{5}$</p>",
           "answer": "ACD",
-          "explanation": "<p>先看負號：有 $4$ 個負號（偶數），所以結果為<strong>正</strong>。<br><strong>A ○</strong>：偶數個負號為正，正確。<br><strong>B ✕</strong>：應為正不為負。<br>計算：$\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5}$，相鄰約分連消：$2$ 約 $2$、$3$ 約 $3$、$4$ 約 $4$，剩 $\\frac{1}{5}$。<br><strong>C ○</strong>、<strong>D ○</strong>：結果為 $\\frac{1}{5}$，正確。<br><strong>E ✕</strong>：是正的 $\\frac{1}{5}$，不是負的。</p>"
+          "explanation": "<p>先看負號：有 $4$ 個負號（偶數），所以結果為<strong>正</strong>。<br><strong>A ○</strong>：偶數個負號為正，正確。<br><strong>B ╳</strong>：應為正不為負。<br>計算：$\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5}$，相鄰約分連消：$2$ 約 $2$、$3$ 約 $3$、$4$ 約 $4$，剩 $\\frac{1}{5}$。<br><strong>C ○</strong>、<strong>D ○</strong>：結果為 $\\frac{1}{5}$，正確。<br><strong>E ╳</strong>：是正的 $\\frac{1}{5}$，不是負的。</p>"
         },
         {
           "id": "g1a_ch2_4_q19",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>某商店一件衣服標價 $1200$ 元，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 打 $8$ 折後的售價是 $960$ 元</p><p>B. 「$8$ 折」就是售價 $\\times 0.8$</p><p>C. 打 $8$ 折後再加 $10\\%$ 服務費，要付 $1056$ 元</p><p>D. 若打折後售價是 $1080$ 元，則打的是 $9$ 折</p><p>E. 「$15\\%$ off」表示打 $15$ 折</p>",
           "answer": "ABCD",
-          "explanation": "<p><strong>A ○</strong>：$1200 \\times 0.8 = 960$ 元，正確。<br><strong>B ○</strong>：$8$ 折就是 $\\times 0.8$，正確。<br><strong>C ○</strong>：$960 \\times (1 + 10\\%) = 960 \\times 1.1 = 1056$ 元，正確。<br><strong>D ○</strong>：$1080 \\div 1200 = 0.9$，所以是 $9$ 折，正確。<br><strong>E ✕</strong>：「$15\\%$ off」是<strong>少掉 $15\\%$</strong>（剩 $85\\%$，即打 $85$ 折），不是打 $15$ 折。</p>"
+          "explanation": "<p><strong>A ○</strong>：$1200 \\times 0.8 = 960$ 元，正確。<br><strong>B ○</strong>：$8$ 折就是 $\\times 0.8$，正確。<br><strong>C ○</strong>：$960 \\times (1 + 10\\%) = 960 \\times 1.1 = 1056$ 元，正確。<br><strong>D ○</strong>：$1080 \\div 1200 = 0.9$，所以是 $9$ 折，正確。<br><strong>E ╳</strong>：「$15\\%$ off」是<strong>少掉 $15\\%$</strong>（剩 $85\\%$，即打 $85$ 折），不是打 $15$ 折。</p>"
         }
       ]
     }

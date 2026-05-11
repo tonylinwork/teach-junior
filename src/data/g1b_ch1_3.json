@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>關於二元一次應用問題的解題策略，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 兩個未知量必須設兩個未知數，列兩條方程式才能解</p><p>B. 兩條方程式必須是<strong>獨立</strong>的，不可以是同一條方程式的倍數</p><p>C. 利用題目中「單位不同」（人 vs 腳、張 vs 錢）的資訊，可以列出不同的方程式</p><p>D. 解出來如果是負數或分數，但題目要求人數、張數時，要視為不合理</p><p>E. 應用題只能用代入消去法解，不能用加減消去法</p>",
           "answer": "ABCD",
-          "explanation": "<p><strong>A ○</strong>：兩個未知數需要兩條方程式，正確。<br><strong>B ○</strong>：若兩條方程式互為倍數（重合），實際上只是一條方程式，無法解出唯一解，正確。<br><strong>C ○</strong>：人歸人、腳歸腳、錢歸錢就是利用單位不同列式，正確。<br><strong>D ○</strong>：合理性檢查很重要，正確。<br><strong>E ✕</strong>：加減消去法、代入消去法都可以用，沒有限制，錯誤。</p>"
+          "explanation": "<p><strong>A ○</strong>：兩個未知數需要兩條方程式，正確。<br><strong>B ○</strong>：若兩條方程式互為倍數（重合），實際上只是一條方程式，無法解出唯一解，正確。<br><strong>C ○</strong>：人歸人、腳歸腳、錢歸錢就是利用單位不同列式，正確。<br><strong>D ○</strong>：合理性檢查很重要，正確。<br><strong>E ╳</strong>：加減消去法、代入消去法都可以用，沒有限制，錯誤。</p>"
         },
         {
           "id": "g1b_ch1_3_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>農場有雞和兔共 35 隻，腳共 94 隻。設雞 $x$ 隻、兔 $y$ 隻，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 頭數方程式為 $x + y = 35$</p><p>B. 腳數方程式為 $2x + 4y = 94$</p><p>C. 雞有 23 隻</p><p>D. 兔有 13 隻</p><p>E. 兔的腳數比雞的腳數多 2 隻</p>",
           "answer": "ABCE",
-          "explanation": "<p>設雞 $x$、兔 $y$：<br><strong>A ○</strong>：頭數 $x + y = 35$，正確。<br><strong>B ○</strong>：雞 2 腳、兔 4 腳，$2x + 4y = 94$，正確。<br>解聯立：①×2 得 $2x + 2y = 70$，與②相減 $2y = 24$，$y = 12$，$x = 23$。<br><strong>C ○</strong>：雞 23 隻，正確。<br><strong>D ✕</strong>：兔 $12$ 隻不是 13 隻，錯誤。<br><strong>E ○</strong>：雞共 $2 \\times 23 = 46$ 腳，兔共 $4 \\times 12 = 48$ 腳，兔多 2 腳，正確。</p>"
+          "explanation": "<p>設雞 $x$、兔 $y$：<br><strong>A ○</strong>：頭數 $x + y = 35$，正確。<br><strong>B ○</strong>：雞 2 腳、兔 4 腳，$2x + 4y = 94$，正確。<br>解聯立：①×2 得 $2x + 2y = 70$，與②相減 $2y = 24$，$y = 12$，$x = 23$。<br><strong>C ○</strong>：雞 23 隻，正確。<br><strong>D ╳</strong>：兔 $12$ 隻不是 13 隻，錯誤。<br><strong>E ○</strong>：雞共 $2 \\times 23 = 46$ 腳，兔共 $4 \\times 12 = 48$ 腳，兔多 2 腳，正確。</p>"
         },
         {
           "id": "g1b_ch1_3_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>實驗室有兩種酒精，甲酒精濃度 $70\\%$，乙酒精濃度 $90\\%$。要配出濃度 $84\\%$ 的酒精 80 公升，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 設甲取 $x$ 公升、乙取 $y$ 公升，則 $x + y = 80$</p><p>B. 純酒精量列式為 $0.7x + 0.9y = 80 \\times 0.84$</p><p>C. 純酒精量列式為 $70x + 90y = 84$</p><p>D. 甲取 24 公升、乙取 56 公升</p><p>E. 配出來的濃度 $84\\%$ 一定介於 $70\\%$ 與 $90\\%$ 之間</p>",
           "answer": "ABDE",
-          "explanation": "<p><strong>A ○</strong>：總量 80 公升，正確。<br><strong>B ○</strong>：純酒精重量 = 各自含的酒精相加 = 混合後的酒精，$0.7x + 0.9y = 80 \\times 0.84 = 67.2$，正確。<br><strong>C ✕</strong>：忽略了濃度應乘體積，常數項也算錯，錯誤。<br><strong>D ○</strong>：聯立 $\\begin{cases} x + y = 80 \\\\ 7x + 9y = 672 \\end{cases}$，解得 $x = 24$、$y = 56$，正確。<br><strong>E ○</strong>：混合出來的濃度一定介於兩種原濃度之間，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：總量 80 公升，正確。<br><strong>B ○</strong>：純酒精重量 = 各自含的酒精相加 = 混合後的酒精，$0.7x + 0.9y = 80 \\times 0.84 = 67.2$，正確。<br><strong>C ╳</strong>：忽略了濃度應乘體積，常數項也算錯，錯誤。<br><strong>D ○</strong>：聯立 $\\begin{cases} x + y = 80 \\\\ 7x + 9y = 672 \\end{cases}$，解得 $x = 24$、$y = 56$，正確。<br><strong>E ○</strong>：混合出來的濃度一定介於兩種原濃度之間，正確。</p>"
         },
         {
           "id": "g1b_ch1_3_q18",
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>大師父對小徒弟說：「我在你這個年紀的時候，你才 4 歲；等你到我這個年紀的時候，我就 61 歲了。」下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 師徒兩人的年齡差是固定的，不隨時間改變</p><p>B. 若設年齡差為 $x$，則 $4 + 3x = 61$</p><p>C. 兩人年齡差是 19 歲</p><p>D. 師父現在 42 歲、徒弟現在 23 歲</p><p>E. 從「你才 4 歲」到「我 61 歲」之間，相當於經過了 2 倍年齡差的時間</p>",
           "answer": "ABCD",
-          "explanation": "<p><strong>A ○</strong>：年齡差永遠不變，正確。<br><strong>B ○</strong>：4 歲（徒弟過去）→ 徒弟現在 → 師父現在 → 師父未來 61 歲，中間相差 3 個年齡差，正確。<br><strong>C ○</strong>：$3x = 57 \\Rightarrow x = 19$，正確。<br><strong>D ○</strong>：徒弟 $= 4 + 19 = 23$；師父 $= 23 + 19 = 42$，正確。<br><strong>E ✕</strong>：實際上經過了 <strong>3</strong> 倍年齡差（從徒弟的 4 歲到師父的 61 歲共 57 年 = $3 \\times 19$），不是 2 倍，錯誤。</p>"
+          "explanation": "<p><strong>A ○</strong>：年齡差永遠不變，正確。<br><strong>B ○</strong>：4 歲（徒弟過去）→ 徒弟現在 → 師父現在 → 師父未來 61 歲，中間相差 3 個年齡差，正確。<br><strong>C ○</strong>：$3x = 57 \\Rightarrow x = 19$，正確。<br><strong>D ○</strong>：徒弟 $= 4 + 19 = 23$；師父 $= 23 + 19 = 42$，正確。<br><strong>E ╳</strong>：實際上經過了 <strong>3</strong> 倍年齡差（從徒弟的 4 歲到師父的 61 歲共 57 年 = $3 \\times 19$），不是 2 倍，錯誤。</p>"
         },
         {
           "id": "g1b_ch1_3_q19",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>已知兩整數，大數比小數的 3 倍多 1，大數的 3 倍比小數的 5 倍多 5。設大數 $x$、小數 $y$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 第一個式子為 $x = 3y + 1$</p><p>B. 第二個式子為 $3x = 5y + 5$</p><p>C. 解聯立可得 $y = \\frac{1}{2}$、$x = \\frac{5}{2}$</p><p>D. 此題的解 $x$、$y$ 都是整數</p><p>E. 因為題目限制「兩整數」，所以此題<strong>無解</strong></p>",
           "answer": "ABCE",
-          "explanation": "<p><strong>A ○</strong>：「大數比小數的 3 倍多 1」$\\Rightarrow x = 3y + 1$，正確。<br><strong>B ○</strong>：「大數的 3 倍比小數的 5 倍多 5」$\\Rightarrow 3x = 5y + 5$，正確。<br><strong>C ○</strong>：由①$\\Rightarrow x - 3y = 1$，由②$\\Rightarrow 3x - 5y = 5$；①×3：$3x - 9y = 3$，與②相減得 $-4y = -2 \\Rightarrow y = \\frac{1}{2}$；$x = \\frac{5}{2}$，正確。<br><strong>D ✕</strong>：算出來都是分數，不是整數，錯誤。<br><strong>E ○</strong>：題目要求「兩整數」，但解不是整數，故無解，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：「大數比小數的 3 倍多 1」$\\Rightarrow x = 3y + 1$，正確。<br><strong>B ○</strong>：「大數的 3 倍比小數的 5 倍多 5」$\\Rightarrow 3x = 5y + 5$，正確。<br><strong>C ○</strong>：由①$\\Rightarrow x - 3y = 1$，由②$\\Rightarrow 3x - 5y = 5$；①×3：$3x - 9y = 3$，與②相減得 $-4y = -2 \\Rightarrow y = \\frac{1}{2}$；$x = \\frac{5}{2}$，正確。<br><strong>D ╳</strong>：算出來都是分數，不是整數，錯誤。<br><strong>E ○</strong>：題目要求「兩整數」，但解不是整數，故無解，正確。</p>"
         }
       ]
     }

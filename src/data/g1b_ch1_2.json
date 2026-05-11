@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>關於二元一次聯立方程式的解法，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 代入消去法與加減消去法的目的，都是把兩個未知數變成一個未知數</p><p>B. 用代入消去法時，習慣優先找係數為 $1$ 或 $-1$ 的變數來表示，比較好計算</p><p>C. 用加減消去法時，若兩式中某變數的係數同號，則兩式相加可以消掉該變數</p><p>D. 解出一個變數後，可以代回任一原方程式求另一個變數，但建議代回計算較簡單的式子</p><p>E. 解出 $(x,\\ y)$ 後，應代回兩個原方程式檢驗是否同時成立</p>",
           "answer": "ABDE",
-          "explanation": "<p><strong>A ○</strong>：兩種方法的核心觀念都是消去一個未知數。<br><strong>B ○</strong>：係數為 $1$ 或 $-1$ 的變數最好整理成「$x = \\cdots$」或「$y = \\cdots$」。<br><strong>C ✕</strong>：<strong>同號相減</strong>、<strong>異號相加</strong>才能消去。同號相加只會讓係數變更大，無法消去。<br><strong>D ○</strong>：代回任一式都可以，挑簡單的式子比較不易出錯。<br><strong>E ○</strong>：聯立方程式的解必須同時滿足兩式，驗算才能確保正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：兩種方法的核心觀念都是消去一個未知數。<br><strong>B ○</strong>：係數為 $1$ 或 $-1$ 的變數最好整理成「$x = \\cdots$」或「$y = \\cdots$」。<br><strong>C ╳</strong>：<strong>同號相減</strong>、<strong>異號相加</strong>才能消去。同號相加只會讓係數變更大，無法消去。<br><strong>D ○</strong>：代回任一式都可以，挑簡單的式子比較不易出錯。<br><strong>E ○</strong>：聯立方程式的解必須同時滿足兩式，驗算才能確保正確。</p>"
         },
         {
           "id": "g1b_ch1_2_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>解聯立方程式 $\\begin{cases} 2x + y = 7 \\\\ x - 3y = -7 \\end{cases}$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 由第一式可寫成 $y = 7 - 2x$，再代入第二式</p><p>B. 由第二式可寫成 $x = 3y - 7$，再代入第一式</p><p>C. 將第一式乘 $3$ 後與第二式相加，可消去 $y$</p><p>D. 解為 $(x,\\ y) = (2,\\ 3)$</p><p>E. 解為 $(x,\\ y) = (-2,\\ 3)$</p>",
           "answer": "ABCD",
-          "explanation": "<p>解法：第二式得 $x = 3y - 7$，代入第一式：$2(3y-7) + y = 7$，$7y = 21$，$y = 3$；$x = 3(3)-7 = 2$。所以 $(x,\\ y) = (2,\\ 3)$。<br><strong>A ○</strong>：$y = 7 - 2x$ 是第一式的合法整理。<br><strong>B ○</strong>：$x = 3y - 7$ 是第二式的合法整理。<br><strong>C ○</strong>：第一式 $\\times 3$ 得 $6x + 3y = 21$，與 $x - 3y = -7$ <strong>相加</strong>（$y$ 係數異號），可消去 $y$。<br><strong>D ○</strong>：$(2,\\ 3)$ 為正確解。<br><strong>E ✕</strong>：$(-2,\\ 3)$ 代入第一式 $2(-2)+3 = -1 \\neq 7$，錯誤。</p>"
+          "explanation": "<p>解法：第二式得 $x = 3y - 7$，代入第一式：$2(3y-7) + y = 7$，$7y = 21$，$y = 3$；$x = 3(3)-7 = 2$。所以 $(x,\\ y) = (2,\\ 3)$。<br><strong>A ○</strong>：$y = 7 - 2x$ 是第一式的合法整理。<br><strong>B ○</strong>：$x = 3y - 7$ 是第二式的合法整理。<br><strong>C ○</strong>：第一式 $\\times 3$ 得 $6x + 3y = 21$，與 $x - 3y = -7$ <strong>相加</strong>（$y$ 係數異號），可消去 $y$。<br><strong>D ○</strong>：$(2,\\ 3)$ 為正確解。<br><strong>E ╳</strong>：$(-2,\\ 3)$ 代入第一式 $2(-2)+3 = -1 \\neq 7$，錯誤。</p>"
         },
         {
           "id": "g1b_ch1_2_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>下列各組聯立方程式中，哪些<strong>適合直接使用代入消去法</strong>（不必先做倍數調整就有係數為 $1$ 或 $-1$ 的變數）？（多選）</p><p>A. $\\begin{cases} y = 2x + 1 \\\\ 3x + y = 6 \\end{cases}$</p><p>B. $\\begin{cases} x - 2y = 5 \\\\ 3x + 4y = 7 \\end{cases}$</p><p>C. $\\begin{cases} 2x + 3y = 8 \\\\ 5x - 4y = 9 \\end{cases}$</p><p>D. $\\begin{cases} x + 5y = 12 \\\\ 2x - y = 3 \\end{cases}$</p><p>E. $\\begin{cases} 4x + 6y = 7 \\\\ 3x - 9y = 5 \\end{cases}$</p>",
           "answer": "ABD",
-          "explanation": "<p>適合直接用代入消去法的特徵：某個方程式中有變數的係數為 $1$ 或 $-1$。<br><strong>A ○</strong>：$y = 2x+1$ 已是「$y =\\cdots$」格式，最理想。<br><strong>B ○</strong>：第一式 $x - 2y = 5$ 中 $x$ 的係數為 $1$，可整理成 $x = 2y + 5$。<br><strong>C ✕</strong>：所有係數都是 $2,\\ 3,\\ 5,\\ 4$，沒有 $1$ 或 $-1$，較適合加減消去法。<br><strong>D ○</strong>：第一式 $x$ 係數為 $1$，第二式 $y$ 係數為 $-1$，兩個變數都可以方便寫成單獨形式。<br><strong>E ✕</strong>：係數 $4,\\ 6,\\ 3,\\ -9$ 沒有 $1$ 或 $-1$，較適合加減消去法。</p>"
+          "explanation": "<p>適合直接用代入消去法的特徵：某個方程式中有變數的係數為 $1$ 或 $-1$。<br><strong>A ○</strong>：$y = 2x+1$ 已是「$y =\\cdots$」格式，最理想。<br><strong>B ○</strong>：第一式 $x - 2y = 5$ 中 $x$ 的係數為 $1$，可整理成 $x = 2y + 5$。<br><strong>C ╳</strong>：所有係數都是 $2,\\ 3,\\ 5,\\ 4$，沒有 $1$ 或 $-1$，較適合加減消去法。<br><strong>D ○</strong>：第一式 $x$ 係數為 $1$，第二式 $y$ 係數為 $-1$，兩個變數都可以方便寫成單獨形式。<br><strong>E ╳</strong>：係數 $4,\\ 6,\\ 3,\\ -9$ 沒有 $1$ 或 $-1$，較適合加減消去法。</p>"
         },
         {
           "id": "g1b_ch1_2_q18",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>關於聯立方程式 $\\begin{cases} x + 2y = 3 \\\\ 2x + 4y = 7 \\end{cases}$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 第二式可整理為 $x + 2y = \\dfrac{7}{2}$</p><p>B. 兩式中 $x$、$y$ 的係數比例都是 $1 : 2$，常數項卻不同</p><p>C. 此聯立方程式有唯一一組解</p><p>D. 此聯立方程式無解</p><p>E. 此聯立方程式有無限多組解</p>",
           "answer": "ABD",
-          "explanation": "<p><strong>A ○</strong>：第二式兩邊同除以 $2$，得 $x + 2y = \\dfrac{7}{2}$。<br><strong>B ○</strong>：$x$ 係數比 $1:2$、$y$ 係數比 $2:4 = 1:2$，係數比例相同；常數項 $3$ 與 $7$ 比例為 $3:7 \\neq 1:2$。<br><strong>C ✕</strong>：當「變數係數比例相同、常數項比例不同」時無解，不是唯一解。<br><strong>D ○</strong>：左邊 $x + 2y$ 不可能同時等於 $3$ 又等於 $\\dfrac{7}{2}$，<strong>無解</strong>。<br><strong>E ✕</strong>：無限多組解需要兩式完全成比例（包括常數項），此處常數項不成比例，故並非無限多組解。</p>"
+          "explanation": "<p><strong>A ○</strong>：第二式兩邊同除以 $2$，得 $x + 2y = \\dfrac{7}{2}$。<br><strong>B ○</strong>：$x$ 係數比 $1:2$、$y$ 係數比 $2:4 = 1:2$，係數比例相同；常數項 $3$ 與 $7$ 比例為 $3:7 \\neq 1:2$。<br><strong>C ╳</strong>：當「變數係數比例相同、常數項比例不同」時無解，不是唯一解。<br><strong>D ○</strong>：左邊 $x + 2y$ 不可能同時等於 $3$ 又等於 $\\dfrac{7}{2}$，<strong>無解</strong>。<br><strong>E ╳</strong>：無限多組解需要兩式完全成比例（包括常數項），此處常數項不成比例，故並非無限多組解。</p>"
         }
       ]
     }

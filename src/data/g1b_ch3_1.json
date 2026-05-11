@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>關於「比」的性質，下列哪些敘述<strong>正確</strong>？（多選）</p><p>A. 前項可以等於 0，後項不能等於 0</p><p>B. 比 $a:b$ 的比值等於 $\\frac{b}{a}$</p><p>C. 最簡整數比要求前後項都是整數且最大公因數為 1</p><p>D. 拿兩個量來比時，單位必須相同</p>",
           "answer": "ACD",
-          "explanation": "<p><strong>A ○</strong>：前項可為 0，後項不能為 0，正確。<br><strong>B ✕</strong>：比值是 $\\frac{a}{b}$（前項除以後項），不是 $\\frac{b}{a}$，錯誤。<br><strong>C ○</strong>：最簡整數比要求整數且互質，正確。<br><strong>D ○</strong>：比的兩個量單位要相同，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：前項可為 0，後項不能為 0，正確。<br><strong>B ╳</strong>：比值是 $\\frac{a}{b}$（前項除以後項），不是 $\\frac{b}{a}$，錯誤。<br><strong>C ○</strong>：最簡整數比要求整數且互質，正確。<br><strong>D ○</strong>：比的兩個量單位要相同，正確。</p>"
         },
         {
           "id": "g1b_ch3_1_q16",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>解比例式 $(x - y) : (x + y) = 8:3$，下列哪些結論<strong>正確</strong>？（多選）</p><p>A. $x:y = 11 : (-5)$</p><p>B. $x$ 與 $y$ 異號</p><p>C. $x = 11$、$y = -5$</p><p>D. $x$ 比 $y$ 的比值為 $-\\frac{5}{11}$</p>",
           "answer": "AB",
-          "explanation": "<p>利用內內外外：$3(x - y) = 8(x + y)$，$3x - 3y = 8x + 8y$，$-5x = 11y$，$x:y = 11 : (-5)$。<br><strong>A ○</strong>：正確。<br><strong>B ○</strong>：$x$ 與 $y$ 異號正確（一正一負）。<br><strong>C ✕</strong>：$x:y = 11:(-5)$ 不代表 $x = 11$、$y = -5$，只代表倍數關係，錯誤。<br><strong>D ✕</strong>：比值為 $\\frac{x}{y} = \\frac{11}{-5} = -\\frac{11}{5}$，不是 $-\\frac{5}{11}$，錯誤。</p>"
+          "explanation": "<p>利用內內外外：$3(x - y) = 8(x + y)$，$3x - 3y = 8x + 8y$，$-5x = 11y$，$x:y = 11 : (-5)$。<br><strong>A ○</strong>：正確。<br><strong>B ○</strong>：$x$ 與 $y$ 異號正確（一正一負）。<br><strong>C ╳</strong>：$x:y = 11:(-5)$ 不代表 $x = 11$、$y = -5$，只代表倍數關係，錯誤。<br><strong>D ╳</strong>：比值為 $\\frac{x}{y} = \\frac{11}{-5} = -\\frac{11}{5}$，不是 $-\\frac{5}{11}$，錯誤。</p>"
         },
         {
           "id": "g1b_ch3_1_q18",
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>甲、乙兩杯糖水，甲有 400 克、濃度 $20\\%$；乙有 200 克、濃度 $5\\%$。關於以下操作，哪些描述<strong>正確</strong>？（多選）</p><p>A. 甲加水後，含糖量不變</p><p>B. 甲加糖後，分子（含糖量）和分母（總重量）都增加</p><p>C. 甲加水使濃度變 $10\\%$，需加水 400 克</p><p>D. 甲加水後濃度一定高於乙</p>",
           "answer": "ABC",
-          "explanation": "<p><strong>A ○</strong>：加水只增加總重量，含糖量不變，正確。<br><strong>B ○</strong>：加糖則糖量與總重均增，正確。<br><strong>C ○</strong>：甲現有糖 $400 \\times 20\\% = 80$ 克，設加水 $x$ 克後濃度 $10\\%$：$\\frac{80}{400 + x} = \\frac{1}{10}$，$400 + x = 800$，$x = 400$，正確。<br><strong>D ✕</strong>：加水後濃度降低，最終可能低於乙（若加水夠多濃度可低於 $5\\%$），不一定正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：加水只增加總重量，含糖量不變，正確。<br><strong>B ○</strong>：加糖則糖量與總重均增，正確。<br><strong>C ○</strong>：甲現有糖 $400 \\times 20\\% = 80$ 克，設加水 $x$ 克後濃度 $10\\%$：$\\frac{80}{400 + x} = \\frac{1}{10}$，$400 + x = 800$，$x = 400$，正確。<br><strong>D ╳</strong>：加水後濃度降低，最終可能低於乙（若加水夠多濃度可低於 $5\\%$），不一定正確。</p>"
         },
         {
           "id": "g1b_ch3_1_q19",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>關於「比例式假設 $k$ 解 $k$」的方法，下列哪些描述<strong>正確</strong>？（多選）</p><p>A. $x:y = 3:5$，可假設 $x = 3k$、$y = 5k$</p><p>B. $x:y = 3:5$ 代表 $x$ 一定是 3、$y$ 一定是 5</p><p>C. 解出 $k$ 後，需將 $k$ 值代回求得 $x$ 與 $y$ 的實際值</p><p>D. 若有兩組不同的比（如收入比與支出比），需假設兩個不同的倍數字母</p>",
           "answer": "ACD",
-          "explanation": "<p><strong>A ○</strong>：假設 $x = 3k$、$y = 5k$ 是標準做法，正確。<br><strong>B ✕</strong>：$3:5$ 只代表倍數關係，不代表 $x = 3$、$y = 5$，錯誤。<br><strong>C ○</strong>：解出 $k$ 後代回才得到答案，正確。<br><strong>D ○</strong>：兩個獨立的比要用不同的字母（如 $k$、$r$）分開假設，否則會把不相干的量綁在一起，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：假設 $x = 3k$、$y = 5k$ 是標準做法，正確。<br><strong>B ╳</strong>：$3:5$ 只代表倍數關係，不代表 $x = 3$、$y = 5$，錯誤。<br><strong>C ○</strong>：解出 $k$ 後代回才得到答案，正確。<br><strong>D ○</strong>：兩個獨立的比要用不同的字母（如 $k$、$r$）分開假設，否則會把不相干的量綁在一起，正確。</p>"
         }
       ]
     }

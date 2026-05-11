@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於線對稱圖形的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 沿著對稱軸對摺後，左右兩側完全重合</p><p>B. 點與對稱點的連線會被對稱軸垂直平分</p><p>C. 對稱軸兩側的圖形面積相等</p><p>D. 對應邊等長、對應角等大</p><p>E. 任何四邊形都至少有 1 條對稱軸</p>",
           "answer": "ABCD",
-          "explanation": "<p><strong>A ○</strong>：線對稱的定義。<br><strong>B ○</strong>：對稱軸是兩點連線的中垂線。<br><strong>C ○</strong>：兩側全等，面積相等。<br><strong>D ○</strong>：對稱邊等長、對稱角等大。<br><strong>E ✕</strong>：平行四邊形<strong>沒有</strong>對稱軸，所以不是任何四邊形都有對稱軸。</p>"
+          "explanation": "<p><strong>A ○</strong>：線對稱的定義。<br><strong>B ○</strong>：對稱軸是兩點連線的中垂線。<br><strong>C ○</strong>：兩側全等，面積相等。<br><strong>D ○</strong>：對稱邊等長、對稱角等大。<br><strong>E ╳</strong>：平行四邊形<strong>沒有</strong>對稱軸，所以不是任何四邊形都有對稱軸。</p>"
         },
         {
           "id": "g1a_ch4_1_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>下列圖形中，哪些是<strong>線對稱圖形</strong>？（多選）</p><p>A. 正方形</p><p>B. 等腰三角形（非正三角形）</p><p>C. 平行四邊形（非長方形、非菱形）</p><p>D. 圓形</p><p>E. 長方形</p>",
           "answer": "ABDE",
-          "explanation": "<p><strong>A ○</strong>：正方形有 4 條對稱軸。<br><strong>B ○</strong>：等腰三角形有 1 條對稱軸（從頂角往底邊中點畫下來）。<br><strong>C ✕</strong>：平行四邊形不是線對稱圖形。<br><strong>D ○</strong>：圓有無限多條對稱軸。<br><strong>E ○</strong>：長方形有 2 條對稱軸（橫向與縱向各一條）。</p>"
+          "explanation": "<p><strong>A ○</strong>：正方形有 4 條對稱軸。<br><strong>B ○</strong>：等腰三角形有 1 條對稱軸（從頂角往底邊中點畫下來）。<br><strong>C ╳</strong>：平行四邊形不是線對稱圖形。<br><strong>D ○</strong>：圓有無限多條對稱軸。<br><strong>E ○</strong>：長方形有 2 條對稱軸（橫向與縱向各一條）。</p>"
         },
         {
           "id": "g1a_ch4_1_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>下列各圖形與其對稱軸數量的配對，哪些<strong>正確</strong>？（多選）</p><p>A. 正三角形 → 3 條</p><p>B. 正方形 → 4 條</p><p>C. 長方形（非正方形）→ 4 條</p><p>D. 正五邊形 → 5 條</p><p>E. 圓形 → 無限多條</p>",
           "answer": "ABDE",
-          "explanation": "<p><strong>A ○</strong>：正三角形 3 條。<br><strong>B ○</strong>：正方形 4 條。<br><strong>C ✕</strong>：長方形只有 2 條對稱軸（縱、橫各一），不是 4 條。<br><strong>D ○</strong>：正 $n$ 邊形有 $n$ 條，正五邊形 5 條。<br><strong>E ○</strong>：圓有無限多條。</p>"
+          "explanation": "<p><strong>A ○</strong>：正三角形 3 條。<br><strong>B ○</strong>：正方形 4 條。<br><strong>C ╳</strong>：長方形只有 2 條對稱軸（縱、橫各一），不是 4 條。<br><strong>D ○</strong>：正 $n$ 邊形有 $n$ 條，正五邊形 5 條。<br><strong>E ○</strong>：圓有無限多條。</p>"
         },
         {
           "id": "g1a_ch4_1_q18",
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>下列英文大寫字母（正立擺放），哪些是<strong>線對稱圖形</strong>？（多選）</p><p>A. A</p><p>B. F</p><p>C. H</p><p>D. M</p><p>E. N</p>",
           "answer": "ACD",
-          "explanation": "<p><strong>A ○</strong>：A 有一條縱向對稱軸。<br><strong>B ✕</strong>：F 沒有對稱軸。<br><strong>C ○</strong>：H 同時有縱向、橫向兩條對稱軸。<br><strong>D ○</strong>：M 有一條縱向對稱軸。<br><strong>E ✕</strong>：N 旋轉對稱，但不是線對稱。</p>"
+          "explanation": "<p><strong>A ○</strong>：A 有一條縱向對稱軸。<br><strong>B ╳</strong>：F 沒有對稱軸。<br><strong>C ○</strong>：H 同時有縱向、橫向兩條對稱軸。<br><strong>D ○</strong>：M 有一條縱向對稱軸。<br><strong>E ╳</strong>：N 旋轉對稱，但不是線對稱。</p>"
         },
         {
           "id": "g1a_ch4_1_q19",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>有一立體圖形由 5 個相同的小立方體堆疊而成：底層在地面上排成 $1 \\times 3$ 的橫條（共 3 個），第二層在「正中間」那 1 格的上方疊 1 個，第三層再在同一個位置疊 1 個（也就是中間那一直行共 3 個立方體高）。下列關於它的三視圖敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 前視圖呈現「T 字形」（底層橫 3 格，正中間往上 2 格）</p><p>B. 前視圖為 $1 \\times 3$ 的橫條</p><p>C. 上視圖為 $1 \\times 3$ 的橫條（共 3 格）</p><p>D. 右視圖為「縱向 3 格、橫向 1 格」的長條形</p><p>E. 此立體圖形是線對稱（左右對稱）的</p>",
           "answer": "ACDE",
-          "explanation": "<p>底層 1×3 橫條，中間往上多疊 2 個立方體（共 3 層高），整體像 T 字。<br><strong>A ○</strong>：前視圖：底層 3 格 + 中間上方 2 格，正好是 T 字形。<br><strong>B ✕</strong>：前視圖不是單純的橫條，中間還向上凸出 2 格。<br><strong>C ○</strong>：從上方往下看，底層 3 格都看得到，呈 $1 \\times 3$ 橫條。<br><strong>D ○</strong>：從右方往左看，會看到中間那一直行（3 層高、1 格寬）。<br><strong>E ○</strong>：整個圖形左右對稱（中間為對稱軸）。</p>"
+          "explanation": "<p>底層 1×3 橫條，中間往上多疊 2 個立方體（共 3 層高），整體像 T 字。<br><strong>A ○</strong>：前視圖：底層 3 格 + 中間上方 2 格，正好是 T 字形。<br><strong>B ╳</strong>：前視圖不是單純的橫條，中間還向上凸出 2 格。<br><strong>C ○</strong>：從上方往下看，底層 3 格都看得到，呈 $1 \\times 3$ 橫條。<br><strong>D ○</strong>：從右方往左看，會看到中間那一直行（3 層高、1 格寬）。<br><strong>E ○</strong>：整個圖形左右對稱（中間為對稱軸）。</p>"
         }
       ]
     }

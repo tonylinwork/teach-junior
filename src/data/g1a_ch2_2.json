@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於互質的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 兩數互質的定義是兩數的最大公因數等於 $1$</p><p>B. 互質的兩數必定都是質數</p><p>C. $(8,\\ 15) = 1$，所以 $8$ 與 $15$ 互質</p><p>D. 用短除法求 GCD 時，除到下面兩數互質就要停止</p><p>E. 兩個相異質數一定互質</p>",
           "answer": "ACDE",
-          "explanation": "<p><strong>A ○</strong>：互質的定義就是 GCD = 1，正確。<br><strong>B ✕</strong>：互質不代表兩數都是質數，例如 $4$ 與 $9$ 互質但都不是質數。<br><strong>C ○</strong>：$8 = 2^3$，$15 = 3 \\times 5$，沒有共同質因數，$(8,\\ 15) = 1$，互質。<br><strong>D ○</strong>：短除法求 GCD 的停止條件就是下面兩數互質。<br><strong>E ○</strong>：兩個不同質數沒有共同因數，必定互質，例如 $(2,\\ 3) = 1$、$(5,\\ 7) = 1$。</p>"
+          "explanation": "<p><strong>A ○</strong>：互質的定義就是 GCD = 1，正確。<br><strong>B ╳</strong>：互質不代表兩數都是質數，例如 $4$ 與 $9$ 互質但都不是質數。<br><strong>C ○</strong>：$8 = 2^3$，$15 = 3 \\times 5$，沒有共同質因數，$(8,\\ 15) = 1$，互質。<br><strong>D ○</strong>：短除法求 GCD 的停止條件就是下面兩數互質。<br><strong>E ○</strong>：兩個不同質數沒有共同因數，必定互質，例如 $(2,\\ 3) = 1$、$(5,\\ 7) = 1$。</p>"
         },
         {
           "id": "g1a_ch2_2_q16",
@@ -144,7 +144,7 @@
           "type": "multi_choice",
           "content": "<p>已知 $a = 2^4 \\times 3^2 \\times 5$，$b = 2^2 \\times 3^3 \\times 7$，下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. $\\gcd(a,\\ b) = 2^2 \\times 3^2$</p><p>B. $\\text{lcm}(a,\\ b) = 2^4 \\times 3^3 \\times 5 \\times 7$</p><p>C. $\\gcd(a,\\ b) = 36$</p><p>D. $a$ 和 $b$ 互質</p><p>E. $\\gcd(a,\\ b) \\times \\text{lcm}(a,\\ b) = a \\times b$</p>",
           "answer": "ABCE",
-          "explanation": "<p><strong>A ○</strong>：求 GCD「大家都有取最小」，$2$ 取 $2^2$、$3$ 取 $3^2$，$5$、$7$ 只有一個有不取，所以 $\\gcd = 2^2 \\times 3^2$。<br><strong>B ○</strong>：求 LCM「大家都有取最大，只有一個也要取」，$2^4 \\times 3^3 \\times 5 \\times 7$ 正確。<br><strong>C ○</strong>：$2^2 \\times 3^2 = 4 \\times 9 = 36$，正確。<br><strong>D ✕</strong>：$\\gcd(a,\\ b) = 36 \\neq 1$，不互質。<br><strong>E ○</strong>：這是兩數的恆等關係，永遠成立。</p>"
+          "explanation": "<p><strong>A ○</strong>：求 GCD「大家都有取最小」，$2$ 取 $2^2$、$3$ 取 $3^2$，$5$、$7$ 只有一個有不取，所以 $\\gcd = 2^2 \\times 3^2$。<br><strong>B ○</strong>：求 LCM「大家都有取最大，只有一個也要取」，$2^4 \\times 3^3 \\times 5 \\times 7$ 正確。<br><strong>C ○</strong>：$2^2 \\times 3^2 = 4 \\times 9 = 36$，正確。<br><strong>D ╳</strong>：$\\gcd(a,\\ b) = 36 \\neq 1$，不互質。<br><strong>E ○</strong>：這是兩數的恆等關係，永遠成立。</p>"
         },
         {
           "id": "g1a_ch2_2_q17",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>一個正整數除 $206$ 餘 $2$、除 $131$ 不足 $5$，下列哪些<strong>可能</strong>是該正整數？（多選）</p><p>A. $4$</p><p>B. $17$</p><p>C. $34$</p><p>D. $68$</p><p>E. $136$</p>",
           "answer": "BCD",
-          "explanation": "<p>有餘扣掉、不足補上：$206 - 2 = 204$、$131 + 5 = 136$。該正整數同時整除 $204$ 與 $136$，所以是 $(204,\\ 136)$ 的公因數。<br>$\\gcd(204,\\ 136) = 68$，所以該正整數必為 $68$ 的因數：$1,\\ 2,\\ 4,\\ 17,\\ 34,\\ 68$。<br>關鍵限制：<strong>除數必須大於所有餘數</strong>，所以要 $>5$（同時也要 $>2$）。<br><strong>A ✕</strong>：$4$ 不大於 $5$，不行。<br><strong>B ○</strong>：$17 > 5$，且 $17$ 整除 $204$ 和 $136$。<br><strong>C ○</strong>：$34 > 5$，是 $68$ 的因數。<br><strong>D ○</strong>：$68 > 5$，本身就是 GCD。<br><strong>E ✕</strong>：$136$ 不是 $204$ 的因數（$204 \\div 136$ 不整除），錯。</p>"
+          "explanation": "<p>有餘扣掉、不足補上：$206 - 2 = 204$、$131 + 5 = 136$。該正整數同時整除 $204$ 與 $136$，所以是 $(204,\\ 136)$ 的公因數。<br>$\\gcd(204,\\ 136) = 68$，所以該正整數必為 $68$ 的因數：$1,\\ 2,\\ 4,\\ 17,\\ 34,\\ 68$。<br>關鍵限制：<strong>除數必須大於所有餘數</strong>，所以要 $>5$（同時也要 $>2$）。<br><strong>A ╳</strong>：$4$ 不大於 $5$，不行。<br><strong>B ○</strong>：$17 > 5$，且 $17$ 整除 $204$ 和 $136$。<br><strong>C ○</strong>：$34 > 5$，是 $68$ 的因數。<br><strong>D ○</strong>：$68 > 5$，本身就是 GCD。<br><strong>E ╳</strong>：$136$ 不是 $204$ 的因數（$204 \\div 136$ 不整除），錯。</p>"
         },
         {
           "id": "g1a_ch2_2_q18",
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>下列<strong>應用題</strong>中，哪些題目要用「<strong>最大公因數</strong>」來解？（多選）</p><p>A. 把 $36$ 顆糖果與 $48$ 顆巧克力平均分給若干位小朋友，每人分到的糖果一樣多、巧克力也一樣多，最多可分給幾人</p><p>B. 大寶 $8$ 天回家一次、二寶 $12$ 天回家一次，最少幾天後兩人會同一天回家</p><p>C. 將一塊長 $48$ 公分、寬 $36$ 公分的長方形紙板切成大小相同的正方形不剩下，正方形邊長最大為多少</p><p>D. 火柴盒長 $30$、寬 $12$、高 $10$ 公分，至少需要幾個堆成正方體</p><p>E. 兩人分別在原處唱歌，甲每 $4$ 分鐘唱一次，乙每 $6$ 分鐘唱一次，幾分鐘後兩人會再次同時唱歌</p>",
           "answer": "AC",
-          "explanation": "<p>關鍵字判斷：「切、分、割、分配」→ GCD；「堆、組合、相遇、週期」→ LCM。<br><strong>A ○</strong>：平均分配 → GCD。<br><strong>B ✕</strong>：相遇 / 週期 → LCM。<br><strong>C ○</strong>：切成正方形 → GCD。<br><strong>D ✕</strong>：堆成正方體（組合） → LCM。<br><strong>E ✕</strong>：再次同時唱（週期） → LCM。</p>"
+          "explanation": "<p>關鍵字判斷：「切、分、割、分配」→ GCD；「堆、組合、相遇、週期」→ LCM。<br><strong>A ○</strong>：平均分配 → GCD。<br><strong>B ╳</strong>：相遇 / 週期 → LCM。<br><strong>C ○</strong>：切成正方形 → GCD。<br><strong>D ╳</strong>：堆成正方體（組合） → LCM。<br><strong>E ╳</strong>：再次同時唱（週期） → LCM。</p>"
         },
         {
           "id": "g1a_ch2_2_q19",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>已知兩正整數的最大公因數為 $7$，最小公倍數為 $385$，則下列哪些<strong>可能</strong>是這兩數？（多選）</p><p>A. $7$ 和 $385$</p><p>B. $14$ 和 $192$</p><p>C. $35$ 和 $77$</p><p>D. $49$ 和 $55$</p><p>E. $7$ 和 $55$</p>",
           "answer": "AC",
-          "explanation": "<p>設兩數為 $7a$、$7b$（其中 $a$、$b$ 互質），則 LCM $= 7ab = 385$，所以 $ab = 55$。<br>$55 = 1 \\times 55$ 或 $5 \\times 11$（兩組都互質）。<br><strong>情況 1</strong>：$a = 1$、$b = 55$，兩數為 $7$ 與 $385$。<br><strong>情況 2</strong>：$a = 5$、$b = 11$，兩數為 $35$ 與 $77$。<br><strong>A ○</strong>：$\\gcd(7,\\ 385) = 7$、$\\text{lcm} = 385$ ✓<br><strong>B ✕</strong>：$14 \\times 192$ 跟 $7 \\times 385$ 不相等，且 $\\gcd(14,\\ 192) \\neq 7$。<br><strong>C ○</strong>：$\\gcd(35,\\ 77) = 7$、$\\text{lcm} = 385$ ✓<br><strong>D ✕</strong>：$\\gcd(49,\\ 55) = 1 \\neq 7$。<br><strong>E ✕</strong>：$7 \\times 55 = 385 \\neq 7 \\times 385$，且 $\\text{lcm}(7,\\ 55) = 385$ 但 $\\gcd = 1$ 不等於 $7$。</p>"
+          "explanation": "<p>設兩數為 $7a$、$7b$（其中 $a$、$b$ 互質），則 LCM $= 7ab = 385$，所以 $ab = 55$。<br>$55 = 1 \\times 55$ 或 $5 \\times 11$（兩組都互質）。<br><strong>情況 1</strong>：$a = 1$、$b = 55$，兩數為 $7$ 與 $385$。<br><strong>情況 2</strong>：$a = 5$、$b = 11$，兩數為 $35$ 與 $77$。<br><strong>A ○</strong>：$\\gcd(7,\\ 385) = 7$、$\\text{lcm} = 385$ ✓<br><strong>B ╳</strong>：$14 \\times 192$ 跟 $7 \\times 385$ 不相等，且 $\\gcd(14,\\ 192) \\neq 7$。<br><strong>C ○</strong>：$\\gcd(35,\\ 77) = 7$、$\\text{lcm} = 385$ ✓<br><strong>D ╳</strong>：$\\gcd(49,\\ 55) = 1 \\neq 7$。<br><strong>E ╳</strong>：$7 \\times 55 = 385 \\neq 7 \\times 385$，且 $\\text{lcm}(7,\\ 55) = 385$ 但 $\\gcd = 1$ 不等於 $7$。</p>"
         }
       ]
     }

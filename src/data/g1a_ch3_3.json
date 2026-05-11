@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於「設未知數」的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 設最小的量為 $x$，因為加減比乘除好算</p><p>B. 設出現最多次（與其他量都有關係）的量為 $x$，可讓列式較簡潔</p><p>C. 直接設題目所求的量為 $x$，是最直觀的做法</p><p>D. 設未知數時，假設條件可以隨意，列式正確就行</p><p>E. 同一題只能用一種設法，不能用其他方法驗算</p>",
           "answer": "ABC",
-          "explanation": "<p><strong>A ○</strong>：設最小量是常用原則，正確。<br><strong>B ○</strong>：設出現最多次的量可讓其他量都好表示，正確。<br><strong>C ○</strong>：題目問什麼就設什麼，最直接，正確。<br><strong>D ✕</strong>：假設要清楚寫出，例如「設小明 $x$ 歲」；不能隨意，否則別人看不懂你在算什麼，錯誤。<br><strong>E ✕</strong>：同一題可以有多種設法，例如可設大數或小數，殊途同歸，錯誤。</p>"
+          "explanation": "<p><strong>A ○</strong>：設最小量是常用原則，正確。<br><strong>B ○</strong>：設出現最多次的量可讓其他量都好表示，正確。<br><strong>C ○</strong>：題目問什麼就設什麼，最直接，正確。<br><strong>D ╳</strong>：假設要清楚寫出，例如「設小明 $x$ 歲」；不能隨意，否則別人看不懂你在算什麼，錯誤。<br><strong>E ╳</strong>：同一題可以有多種設法，例如可設大數或小數，殊途同歸，錯誤。</p>"
         },
         {
           "id": "g1a_ch3_3_q16",
@@ -152,7 +152,7 @@
           "type": "multi_choice",
           "content": "<p>關於兩位數的表示，下列哪些<strong>正確</strong>？（多選）</p><p>A. 若十位數字為 $a$、個位數字為 $b$，則此兩位數為 $10a+b$</p><p>B. 若十位數字為 $a$、個位數字為 $b$，則此兩位數為 $ab$</p><p>C. 兩位數 $74$ 可寫成 $10\\times 7+4$</p><p>D. 兩位數 $ab$ 互換十位個位後得到的新數為 $10b+a$</p><p>E. 若兩位數的十位個位數字之和為 $14$，則十位數字可能是 $5,\\ 6,\\ 7,\\ 8,\\ 9$</p>",
           "answer": "ACDE",
-          "explanation": "<p><strong>A ○</strong>：兩位數值 $=10\\times\\text{十位}+\\text{個位}$，正確。<br><strong>B ✕</strong>：$ab$ 在數學上代表 $a\\times b$（乘積），不是兩位數的值，錯誤。<br><strong>C ○</strong>：$74=10\\times 7+4$，正確。<br><strong>D ○</strong>：互換後新數為 $10b+a$，正確。<br><strong>E ○</strong>：兩數字和 $14$，十位至少 $5$（因 $4+10$ 中 $10$ 不是個位數）；十位可為 $5(\\to 59),\\ 6(\\to 68),\\ 7(\\to 77),\\ 8(\\to 86),\\ 9(\\to 95)$，正確。</p>"
+          "explanation": "<p><strong>A ○</strong>：兩位數值 $=10\\times\\text{十位}+\\text{個位}$，正確。<br><strong>B ╳</strong>：$ab$ 在數學上代表 $a\\times b$（乘積），不是兩位數的值，錯誤。<br><strong>C ○</strong>：$74=10\\times 7+4$，正確。<br><strong>D ○</strong>：互換後新數為 $10b+a$，正確。<br><strong>E ○</strong>：兩數字和 $14$，十位至少 $5$（因 $4+10$ 中 $10$ 不是個位數）；十位可為 $5(\\to 59),\\ 6(\\to 68),\\ 7(\\to 77),\\ 8(\\to 86),\\ 9(\\to 95)$，正確。</p>"
         },
         {
           "id": "g1a_ch3_3_q18",
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>小明從家爬山到山頂，上山每小時走 $2$ 公里、下山每小時走 $3$ 公里，往返共花 $5$ 小時（上下山是同一條山路）。下列敘述哪些<strong>正確</strong>？（多選）</p><p>A. 設山路長 $x$ 公里，則上山時間為 $\\dfrac{x}{2}$ 小時</p><p>B. 設山路長 $x$ 公里，則下山時間為 $\\dfrac{x}{3}$ 小時</p><p>C. 方程式為 $\\dfrac{x}{2}+\\dfrac{x}{3}=5$</p><p>D. 山路長為 $6$ 公里</p><p>E. 上下山的平均速率為 $2.5$ 公里／小時</p>",
           "answer": "ABCD",
-          "explanation": "<p>由「時間 $=\\dfrac{\\text{距離}}{\\text{速率}}$」：<br><strong>A ○</strong>：上山時間 $\\dfrac{x}{2}$，正確。<br><strong>B ○</strong>：下山時間 $\\dfrac{x}{3}$，正確。<br><strong>C ○</strong>：兩段時間和為 $5$，正確。<br><strong>D ○</strong>：兩邊乘 $6$，$3x+2x=30$，$x=6$，正確。<br><strong>E ✕</strong>：平均速率 $=\\dfrac{\\text{總距離}}{\\text{總時間}}=\\dfrac{12}{5}=2.4$ 公里／小時，不是 $2.5$，錯誤。</p>"
+          "explanation": "<p>由「時間 $=\\dfrac{\\text{距離}}{\\text{速率}}$」：<br><strong>A ○</strong>：上山時間 $\\dfrac{x}{2}$，正確。<br><strong>B ○</strong>：下山時間 $\\dfrac{x}{3}$，正確。<br><strong>C ○</strong>：兩段時間和為 $5$，正確。<br><strong>D ○</strong>：兩邊乘 $6$，$3x+2x=30$，$x=6$，正確。<br><strong>E ╳</strong>：平均速率 $=\\dfrac{\\text{總距離}}{\\text{總時間}}=\\dfrac{12}{5}=2.4$ 公里／小時，不是 $2.5$，錯誤。</p>"
         },
         {
           "id": "g1a_ch3_3_q19",
@@ -168,7 +168,7 @@
           "type": "multi_choice",
           "content": "<p>下列關於濃度問題的敘述，哪些<strong>正確</strong>？（多選）</p><p>A. 重量百分率濃度 $=\\dfrac{\\text{溶質重}}{\\text{溶液總重}}$（溶液總重 $=$ 溶質 $+$ 溶劑）</p><p>B. $200$ 公克的 $5\\%$ 食鹽水含有 $10$ 公克的食鹽</p><p>C. 將 $100$ 公克的 $5\\%$ 食鹽水與 $200$ 公克的 $x\\%$ 食鹽水混合，得到 $7\\%$ 食鹽水，則 $x=8$</p><p>D. 兩瓶不同濃度的食鹽水混合後，新濃度一定介於原兩瓶濃度之間</p><p>E. 將純水加入食鹽水後，食鹽水的濃度會變高</p>",
           "answer": "ABCD",
-          "explanation": "<p><strong>A ○</strong>：濃度定義，正確。<br><strong>B ○</strong>：$200\\times 5\\%=10$ 公克，正確。<br><strong>C ○</strong>：列式 $\\dfrac{100\\times 5\\%+200\\times x\\%}{100+200}=7\\%$，即 $\\dfrac{5+2x}{300}=\\dfrac{7}{100}=\\dfrac{21}{300}$，$2x+5=21$，$x=8$，正確。<br><strong>D ○</strong>：混合後濃度必介於兩者之間（不可能比兩者都高或都低），正確。<br><strong>E ✕</strong>：加純水會稀釋食鹽水，濃度會<strong>變低</strong>不是變高，錯誤。</p>"
+          "explanation": "<p><strong>A ○</strong>：濃度定義，正確。<br><strong>B ○</strong>：$200\\times 5\\%=10$ 公克，正確。<br><strong>C ○</strong>：列式 $\\dfrac{100\\times 5\\%+200\\times x\\%}{100+200}=7\\%$，即 $\\dfrac{5+2x}{300}=\\dfrac{7}{100}=\\dfrac{21}{300}$，$2x+5=21$，$x=8$，正確。<br><strong>D ○</strong>：混合後濃度必介於兩者之間（不可能比兩者都高或都低），正確。<br><strong>E ╳</strong>：加純水會稀釋食鹽水，濃度會<strong>變低</strong>不是變高，錯誤。</p>"
         }
       ]
     }

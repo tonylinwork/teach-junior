@@ -33,9 +33,9 @@ export const MathRenderer: React.FC<MathRendererProps> = ({ content, className }
                     const parts = [];
                     let lastIndex = 0;
 
-                    // Regex for $$...$$ (block) and $...$ (inline)
+                    // Regex for $$...$$ / \[...\] (block) and $...$ / \(...\) (inline)
                     // We use [\s\S] to match all characters including newlines
-                    const mathRegex = /\$\$([\s\S]*?)\$\$|\$([\s\S]*?)\$/g;
+                    const mathRegex = /\$\$([\s\S]*?)\$\$|\\\[([\s\S]*?)\\\]|\$([\s\S]*?)\$|\\\(([\s\S]*?)\\\)/g;
                     let match;
 
                     while ((match = mathRegex.exec(text)) !== null) {
@@ -44,8 +44,8 @@ export const MathRenderer: React.FC<MathRendererProps> = ({ content, className }
                             parts.push(document.createTextNode(text.substring(lastIndex, match.index)));
                         }
 
-                        const blockMath = match[1];
-                        const inlineMath = match[2];
+                        const blockMath = match[1] ?? match[2];
+                        const inlineMath = match[3] ?? match[4];
                         let math = (blockMath || inlineMath || '').trim();
                         const isBlock = blockMath !== undefined;
 
