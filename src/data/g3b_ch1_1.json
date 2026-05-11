@@ -1,0 +1,98 @@
+{
+  "title": "國三下 1-1 二次函數",
+  "summary": "<h4><strong>知識點1：二次函數的定義與基本圖形</strong></h4><p><strong>核心定理／公式</strong></p><ul><li>二次函數的一般式：<strong>y = ax² + bx + c</strong>，其中 <strong>a ≠ 0</strong></li><li>b、c 可以等於 0；但 a 不能等於 0，否則最高次會變成一次或常數</li><li>二次函數的圖形是<strong>拋物線</strong>，屬於<strong>線對稱圖形</strong></li><li>拋物線一定有<strong>對稱軸</strong>與<strong>頂點</strong></li><li>y = ax² 的對稱軸是 <strong>x = 0</strong>，頂點是 <strong>(0, 0)</strong></li><li>y = ax² + c 的對稱軸仍是 <strong>x = 0</strong>，頂點是 <strong>(0, c)</strong></li></ul><p><strong>圖形判讀重點</strong></p><ul><li>a &gt; 0：開口向上，有最低點</li><li>a &lt; 0：開口向下，有最高點</li><li>|a| 越大，拋物線越窄、上升或下降越快</li><li>|a| 越小，拋物線越寬、變化越慢</li><li>c 會讓 y = ax² 的圖形上下平移；c &gt; 0 往上，c &lt; 0 往下</li></ul><p><strong>常見考法／注意事項</strong></p><ul><li>判斷是否為二次函數時，只看整理後 x 的最高次是否為 2，且二次項係數不為 0</li><li>y = 0 是常數函數，不是二次函數</li><li>y = ax²、y = ax² + c 類型可直接用頂點與開口方向畫草圖</li><li>拋物線是線對稱圖形，左右同距離的點高度相同</li><li>畫圖至少抓頂點，再抓左右對稱點，圖形才不容易歪</li></ul><h4><strong>常見題型</strong></h4><ol><li><strong>判斷二次函數</strong>：看 x 的最高次是否為 2，並確認二次項係數不為 0。</li><li><strong>判斷開口方向與寬窄</strong>：由 a 的正負判斷開口方向，由 |a| 判斷寬窄。</li><li><strong>畫 y = ax² 或 y = ax² + c 的圖形</strong>：先標頂點，再用 x = 0 當對稱軸取左右對稱點。</li><li><strong>由圖形反推式子特徵</strong>：開口向上代表 a &gt; 0，開口向下代表 a &lt; 0；頂點在 y 軸上時通常可先想 y = ax² + c。</li></ol>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3b_ch1_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>二次函數 y = ax² + bx + c 中，a 不可以等於 0。</p>",
+          "answer": "○",
+          "explanation": "<p>a=0 時最高次不再是二次。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>二次函數的圖形是拋物線。</p>",
+          "answer": "○",
+          "explanation": "<p>二次函數圖形為拋物線。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>y = ax² 的頂點是 (0, 0)。</p>",
+          "answer": "○",
+          "explanation": "<p>沒有平移時頂點在原點。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>a > 0 時，拋物線開口向下。</p>",
+          "answer": "╳",
+          "explanation": "<p>a>0 開口向上；a<0 開口向下。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>|a| 越大，拋物線通常越窄。</p>",
+          "answer": "○",
+          "explanation": "<p>|a| 越大，上升或下降越快，圖形越窄。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3b_ch1_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列何者是二次函數？</p><p>A. y=3x²+2x+1</p><p>B. y=4x+1</p><p>C. y=7</p><p>D. y=1/x</p>",
+          "answer": "A",
+          "explanation": "<p>最高次為 2 且二次項係數不為 0。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>y=-2x² 的開口方向為？</p><p>A. 向下</p><p>B. 向上</p><p>C. 向右</p><p>D. 向左</p>",
+          "answer": "A",
+          "explanation": "<p>a=-2<0，所以開口向下。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>y=3x²+5 的頂點為？</p><p>A. (0,5)</p><p>B. (5,0)</p><p>C. (0,0)</p><p>D. (3,5)</p>",
+          "answer": "A",
+          "explanation": "<p>y=ax²+c 的頂點是 (0,c)。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>二次函數圖形的對稱性屬於？</p><p>A. 線對稱</p><p>B. 點對稱</p><p>C. 無對稱</p><p>D. 旋轉三次對稱</p>",
+          "answer": "A",
+          "explanation": "<p>拋物線是線對稱圖形。</p>"
+        },
+        {
+          "id": "g3b_ch1_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>哪個係數決定 y=ax² 的開口方向？</p><p>A. a</p><p>B. b</p><p>C. c</p><p>D. x</p>",
+          "answer": "A",
+          "explanation": "<p>a 的正負決定開口向上或向下。</p>"
+        }
+      ]
+    }
+  ]
+}

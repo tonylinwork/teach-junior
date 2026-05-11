@@ -1,0 +1,98 @@
+{
+  "title": "國三下 1-2 二次函數的極值與圖形",
+  "summary": "<h4><strong>知識點1：頂點、極值與頂點式</strong></h4><p><strong>核心定理／公式</strong></p><ul><li>二次函數的頂點就是極值發生的位置</li><li>開口向上：頂點為<strong>最低點</strong>，有<strong>最小值</strong></li><li>開口向下：頂點為<strong>最高點</strong>，有<strong>最大值</strong></li><li>頂點式：<strong>y = a(x − h)² + k</strong></li><li>頂點式的頂點：<strong>(h, k)</strong></li><li>對稱軸：<strong>x = h</strong></li><li>極值：當 x = h 時，y = k</li></ul><p><strong>從一般式轉頂點式</strong></p><ul><li>一般式 y = ax² + bx + c 可用配方法整理成 y = a(x − h)² + k</li><li>若只要求頂點，可用 <strong>h = −b / 2a</strong>，再把 x = h 代回原式求 k</li><li>配方法口訣：先提出二次項係數，再補成完全平方，最後平衡常數</li><li>頂點式展開後會回到一般式，所以兩種寫法表示同一條拋物線</li></ul><p><strong>常見考法／注意事項</strong></p><ul><li>題目問「最大值／最小值」時，不是問 x，而是問極值 y = k</li><li>題目問「何時有最大／最小」時，才是問 x = h</li><li>頂點式中 x − h 代表頂點 x 座標為 h；例如 x − 3 對應 h = 3，x + 3 對應 h = −3</li><li>a 的正負決定最大或最小，k 只是極值大小</li><li>頂點、對稱軸、開口方向是畫二次函數圖形的三個核心資訊</li></ul><h4><strong>知識點2：二次函數圖形的平移與對稱</strong></h4><p><strong>核心定理／公式</strong></p><ul><li>y = a(x − h)² + k 可視為 y = ax² 的圖形平移</li><li>h 控制左右平移：x − h 表示向右 h；x + h 表示向左 h</li><li>k 控制上下平移：+ k 向上；− k 向下</li><li>平移不改變開口方向與寬窄，只改變頂點位置</li><li>以 y 軸對稱時，x 會變成 −x；以水平線 y = k 對稱時，與該線的上下距離相等</li></ul><p><strong>圖形判讀重點</strong></p><ul><li>看到頂點式，先圈出 a、h、k</li><li>a 決定開口方向與寬窄；(h, k) 決定頂點；x = h 決定對稱軸</li><li>兩條拋物線若 a 相同，只差 h、k，代表形狀相同、只是平移</li><li>兩條拋物線若 |a| 相同但正負相反，寬窄相同、開口方向相反</li></ul><p><strong>常見考法／注意事項</strong></p><ul><li>圖形平移題要看頂點怎麼移，不要只看式子表面加減</li><li>題目給頂點與開口方向時，優先設 y = a(x − h)² + k</li><li>題目給圖上一點時，把點代入頂點式可求 a</li><li>對稱點題型：兩點若相對於對稱軸對稱，x 座標到對稱軸距離相等，y 座標相同</li><li>水平線對稱題型：到水平線的上下距離相等，可用距離補回新頂點或新點</li></ul><h4><strong>常見題型</strong></h4><ol><li><strong>由頂點式讀圖形</strong>：直接讀出頂點、對稱軸、開口方向、最大值或最小值。</li><li><strong>一般式求頂點</strong>：用 h = −b / 2a 求 x 座標，再代回求 y 座標；或完整配方法。</li><li><strong>由頂點與一點求函數</strong>：設 y = a(x − h)² + k，把已知點代入求 a。</li><li><strong>圖形平移</strong>：把頂點按題意平移，再保持 a 不變寫出新式。</li><li><strong>比較開口大小</strong>：只比較 |a|，|a| 越大開口越小；|a| 越小開口越大。</li></ol>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3b_ch1_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>頂點式 y=a(x-h)²+k 的頂點是 (h,k)。</p>",
+          "answer": "○",
+          "explanation": "<p>頂點式可直接讀頂點。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>開口向上時，頂點是最低點。</p>",
+          "answer": "○",
+          "explanation": "<p>a>0 時有最小值。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>開口向下時，頂點是最小值。</p>",
+          "answer": "╳",
+          "explanation": "<p>開口向下時頂點是最高點，有最大值。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>y=a(x-h)²+k 的對稱軸是 x=h。</p>",
+          "answer": "○",
+          "explanation": "<p>對稱軸通過頂點。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>平移會改變 a 的絕對值。</p>",
+          "answer": "╳",
+          "explanation": "<p>平移只改變位置，不改變開口寬窄。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3b_ch1_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>y=2(x-3)²+5 的頂點為？</p><p>A. (3,5)</p><p>B. (-3,5)</p><p>C. (5,3)</p><p>D. (2,5)</p>",
+          "answer": "A",
+          "explanation": "<p>頂點式頂點為 (h,k)。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>y=-(x+4)²+1 的對稱軸是？</p><p>A. x=-4</p><p>B. x=4</p><p>C. y=1</p><p>D. x=1</p>",
+          "answer": "A",
+          "explanation": "<p>x+4=x-(-4)，所以 h=-4。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>開口向上時，函數有？</p><p>A. 最小值</p><p>B. 最大值</p><p>C. 沒有極值</p><p>D. 兩個最大值</p>",
+          "answer": "A",
+          "explanation": "<p>開口向上時頂點是最低點。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>一般式求頂點 x 座標可用？</p><p>A. -b/2a</p><p>B. b/2a</p><p>C. a/b</p><p>D. c/a</p>",
+          "answer": "A",
+          "explanation": "<p>h=-b/(2a)。</p>"
+        },
+        {
+          "id": "g3b_ch1_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>圖形向上平移 7，頂點的哪個座標改變？</p><p>A. y 座標</p><p>B. x 座標</p><p>C. 兩者都不變</p><p>D. a 值</p>",
+          "answer": "A",
+          "explanation": "<p>上下平移改變 k，也就是頂點 y 座標。</p>"
+        }
+      ]
+    }
+  ]
+}

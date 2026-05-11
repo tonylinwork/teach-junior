@@ -1,0 +1,98 @@
+{
+  "title": "國三上 1-2 比例線段",
+  "summary": "<ul><li><strong>平行線截比例線段</strong>：在 △ABC 中，若 DE ∥ BC，則 AD : DB = AE : EC，也可寫 AD : AB = AE : AC。</li><li><strong>對應一致</strong>：列比例時要同層對同層、部分對部分或部分對全長一致，不可隨意交叉配。</li><li><strong>解未知數</strong>：先找平行線，再標出被截線段，列比例後用內項乘積等於外項乘積求解。</li><li><strong>角平分線定理</strong>：若 AD 平分 ∠A 且 D 在 BC 上，則 BD : DC = AB : AC。</li><li><strong>延長線題</strong>：若圖形延伸到三角形外，仍先確認對應線段方向，再列比例。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3a_ch1_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>在三角形中，若 DE ∥ BC，常可推出對應線段成比例。</p>",
+          "answer": "○",
+          "explanation": "<p>平行線截比例線段是本章核心。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>角平分線定理可得到 BD:DC = AB:AC。</p>",
+          "answer": "○",
+          "explanation": "<p>AD 平分 ∠A 且 D 在 BC 上時成立。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>列比例時，部分對全長與部分對部分可以任意混用。</p>",
+          "answer": "╳",
+          "explanation": "<p>比例的對應方式必須一致。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>比例線段題通常要先找平行線。</p>",
+          "answer": "○",
+          "explanation": "<p>平行線是建立相似與比例的關鍵條件。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>延長線圖形一定不能使用比例線段。</p>",
+          "answer": "╳",
+          "explanation": "<p>延長線題仍可使用，但要小心對應方向。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3a_ch1_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>若 DE ∥ BC，AD:DB = 2:3，則 AD:AB = ？</p><p>A. 2:5</p><p>B. 2:3</p><p>C. 3:5</p><p>D. 5:2</p>",
+          "answer": "A",
+          "explanation": "<p>AB=AD+DB，所以 AD:AB=2:(2+3)=2:5。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>角平分線定理中，BD:DC 對應哪一組邊？</p><p>A. AB:AC</p><p>B. AD:BC</p><p>C. AB:BD</p><p>D. AC:DC</p>",
+          "answer": "A",
+          "explanation": "<p>角平分線把對邊分成鄰邊的比例。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>比例線段題列式時最重要的是？</p><p>A. 對應一致</p><p>B. 數字最大</p><p>C. 先算面積</p><p>D. 先畫圓</p>",
+          "answer": "A",
+          "explanation": "<p>同層對同層、部分對部分或全長對全長要一致。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>若 AD:AB = 3:8 且 AB=24，則 AD=？</p><p>A. 9</p><p>B. 8</p><p>C. 12</p><p>D. 15</p>",
+          "answer": "A",
+          "explanation": "<p>AD=24×3/8=9。</p>"
+        },
+        {
+          "id": "g3a_ch1_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>看到 DE ∥ BC，最常推出哪兩個三角形相似？</p><p>A. △ADE 與 △ABC</p><p>B. △ADB 與 △AEC</p><p>C. △DBC 與 △ABC</p><p>D. △ADE 與 △DBC</p>",
+          "answer": "A",
+          "explanation": "<p>平行線造成同位角相等，所以 △ADE ∼ △ABC。</p>"
+        }
+      ]
+    }
+  ]
+}

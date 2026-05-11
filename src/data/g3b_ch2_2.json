@@ -1,0 +1,98 @@
+{
+  "title": "國三下 2-2 機率",
+  "summary": "<h4><strong>知識點1：機率的意義與基本計算</strong></h4><p><strong>核心定理／公式</strong></p><ul><li>機率表示某事件發生的可能性</li><li>機率範圍：<strong>0 ≤ P(A) ≤ 1</strong></li><li>不可能事件機率為 0；必然事件機率為 1</li><li>等可能情況下：<strong>P(A) = 有利結果數 / 全部結果數</strong></li><li>對立事件：<strong>P(不是 A) = 1 − P(A)</strong></li><li>所有互斥且完整事件的機率總和為 1</li></ul><p><strong>計數基本觀念</strong></p><ul><li>樣本空間要列完整，不能漏掉可能結果</li><li>「至少一個」常用反面事件：1 − P(一個都沒有)</li><li>「不是」「沒有」「不含」常轉成對立事件處理</li><li>擲骰子、抽球、投硬幣等題型，要先判斷每個結果是否等可能</li></ul><p><strong>常見考法／注意事項</strong></p><ul><li>分母是全部可能結果數，分子是符合條件的結果數</li><li>抽取後是否放回會影響下一次的總數與機率</li><li>題目若有順序，例如先後抽、排列，樣本點要把順序列入</li><li>題目若無順序，例如同時取出，重複排列要避免多算</li><li>機率答案通常要化成最簡分數，也可用小數或百分率表示</li></ul><h4><strong>常見題型</strong></h4><ol><li><strong>單次事件機率</strong>：直接列出全部結果與有利結果，套 P(A) = 有利 / 全部。</li><li><strong>骰子點數題</strong>：兩顆骰子共有 36 種有序結果，常用表格列和、差、積或倍數條件。</li><li><strong>抽球題</strong>：先確認是否放回；不放回時，第二次總數要減少。</li><li><strong>至少題型</strong>：用反面事件較快，例如至少中一次 = 1 − 全部不中。</li><li><strong>複合事件</strong>：連續發生用乘法觀念，分成多種互斥情況時再把機率相加。</li></ol>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3b_ch2_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>機率一定介於 0 與 1 之間。</p>",
+          "answer": "○",
+          "explanation": "<p>任何事件的機率都滿足 0≤P≤1。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>不可能事件的機率為 0。</p>",
+          "answer": "○",
+          "explanation": "<p>不可能發生代表機率 0。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>必然事件的機率為 1。</p>",
+          "answer": "○",
+          "explanation": "<p>一定發生代表機率 1。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>P(不是 A)=P(A)-1。</p>",
+          "answer": "╳",
+          "explanation": "<p>對立事件機率為 1-P(A)。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>等可能情況下，機率=有利結果數/全部結果數。</p>",
+          "answer": "○",
+          "explanation": "<p>這是古典機率公式。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3b_ch2_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>擲一顆公平骰子，出現偶數的機率為？</p><p>A. 1/2</p><p>B. 1/3</p><p>C. 2/3</p><p>D. 1/6</p>",
+          "answer": "A",
+          "explanation": "<p>偶數有 2、4、6 共 3 種，全部 6 種，3/6=1/2。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>若 P(A)=3/5，則 P(不是 A)=？</p><p>A. 2/5</p><p>B. 3/5</p><p>C. 8/5</p><p>D. 1/5</p>",
+          "answer": "A",
+          "explanation": "<p>1-3/5=2/5。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>不可能事件的機率是？</p><p>A. 0</p><p>B. 1</p><p>C. 1/2</p><p>D. 2</p>",
+          "answer": "A",
+          "explanation": "<p>不可能事件機率為 0。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>投一枚公平硬幣，出現正面的機率為？</p><p>A. 1/2</p><p>B. 1</p><p>C. 0</p><p>D. 2</p>",
+          "answer": "A",
+          "explanation": "<p>正反兩面等可能。</p>"
+        },
+        {
+          "id": "g3b_ch2_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>「至少一次成功」常用哪種方法較快？</p><p>A. 反面事件</p><p>B. 直接背答案</p><p>C. 只算最大值</p><p>D. 畫盒狀圖</p>",
+          "answer": "A",
+          "explanation": "<p>至少一次 = 1 - 一次都沒有。</p>"
+        }
+      ]
+    }
+  ]
+}

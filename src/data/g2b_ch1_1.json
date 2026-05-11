@@ -1,0 +1,136 @@
+{
+  "title": "國二下 1-1 數列與等差數列",
+  "summary": "<ul><li><strong>數列</strong>：把數字依照順序排成一列，第 n 項記作 $a_n$。</li><li><strong>等差數列</strong>：相鄰兩項的差固定，公差 $d=$ 後項 − 前項。</li><li><strong>第 n 項公式</strong>：$a_n=a_1+(n-1)d$。</li><li><strong>任兩項關係</strong>：$a_m-a_k=(m-k)d$，也可寫成 $a_n=a_k+(n-k)d$。</li><li><strong>等比數列</strong>：相鄰兩項的比固定，公比 $r=$ 後項 ÷ 前項，第 n 項 $a_n=a_1r^{n-1}$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch1_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>數列就是把數字依照順序排成一列。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。數列重點在「有順序」，每一個位置都有對應的項。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>等差數列的公差一定是正數。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。公差可以是正數、負數、分數、小數，也可以是 0。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>等差數列 $2,5,8,11,\\ldots$ 的公差為 3。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。$5-2=3$、$8-5=3$、$11-8=3$，相鄰差固定為 3。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>等差數列第 n 項公式是 $a_n=a_1+nd$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。從第 1 項到第 n 項中間有 $n-1$ 個間隔，所以公式是 $a_n=a_1+(n-1)d$。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>等比數列是指相鄰兩項的比固定。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。等比看「後項 ÷ 前項」是否固定，固定值稱為公比。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch1_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>數列 $1,3,5,7,9,\\ldots$ 的下一項為何？</p><p>A. 10</p><p>B. 11</p><p>C. 12</p><p>D. 13</p>",
+          "answer": "B",
+          "explanation": "<p>每次增加 2，所以 $9+2=11$。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>等差數列首項 $a_1=7$，公差 $d=4$，求 $a_{10}$。</p><p>A. 36</p><p>B. 40</p><p>C. 43</p><p>D. 47</p>",
+          "answer": "C",
+          "explanation": "<p>$a_{10}=7+(10-1)\\times4=7+36=43$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>某等差數列 $a_4=6$、$a_9=21$，求公差 $d$。</p><p>A. 2</p><p>B. 3</p><p>C. 4</p><p>D. 5</p>",
+          "answer": "B",
+          "explanation": "<p>$a_9-a_4=(9-4)d$，所以 $21-6=5d$，$d=3$。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>等差數列 $5,1,-3,-7,\\ldots$ 的第 8 項為何？</p><p>A. -19</p><p>B. -21</p><p>C. -23</p><p>D. -25</p>",
+          "answer": "C",
+          "explanation": "<p>公差 $d=-4$，$a_8=5+(8-1)(-4)=5-28=-23$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>等比數列 $3,6,12,24,\\ldots$ 的公比為何？</p><p>A. 2</p><p>B. 3</p><p>C. 4</p><p>D. 6</p>",
+          "answer": "A",
+          "explanation": "<p>後項除以前項：$6\\div3=2$、$12\\div6=2$，公比為 2。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>等比數列首項 $2$、公比 $3$，求第 5 項。</p><p>A. 54</p><p>B. 81</p><p>C. 162</p><p>D. 243</p>",
+          "answer": "C",
+          "explanation": "<p>$a_5=2\\times3^{5-1}=2\\times81=162$。答案（C）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch1_1_q12",
+          "number": 12,
+          "type": "multi_choice",
+          "content": "<p>關於等差數列，下列哪些敘述正確？</p><p>A. 公差是後項減前項</p><p>B. 第 n 項公式為 $a_n=a_1+(n-1)d$</p><p>C. 公差不能為 0</p><p>D. $a_m-a_k=(m-k)d$</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 正確。C 錯，公差可以為 0，例如 $5,5,5,5,\\ldots$。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q13",
+          "number": 13,
+          "type": "multi_choice",
+          "content": "<p>下列哪些數列是等差數列？</p><p>A. $2,5,8,11$</p><p>B. $10,7,4,1$</p><p>C. $1,2,4,8$</p><p>D. $3,3,3,3$</p>",
+          "answer": "ABD",
+          "explanation": "<p>A 公差 3，B 公差 -3，D 公差 0，皆為等差。C 是等比，不是等差。</p>"
+        },
+        {
+          "id": "g2b_ch1_1_q14",
+          "number": 14,
+          "type": "multi_choice",
+          "content": "<p>關於等比數列，下列哪些敘述正確？</p><p>A. 公比是後項除以前項</p><p>B. 第 n 項可寫成 $a_n=a_1r^{n-1}$</p><p>C. 公比一定大於 1</p><p>D. 若公比為負數，正負號可能交替</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 正確。C 錯，公比可以小於 1，也可以是負數。</p>"
+        }
+      ]
+    }
+  ]
+}

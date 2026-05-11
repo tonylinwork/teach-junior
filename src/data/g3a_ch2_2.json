@@ -1,0 +1,98 @@
+{
+  "title": "國三上 2-2 圓心角與圓周角",
+  "summary": "<ul><li><strong>圓心角與圓周角</strong>：同弧所對圓心角 = 2 × 圓周角；同弧所對圓周角相等。</li><li><strong>直徑所對圓周角</strong>：直徑所對的圓周角為 90°，看到直徑可優先建立直角三角形。</li><li><strong>弧、弦、角</strong>：同圓或等圓中，等弧對等弦，也對應相等的圓心角與圓周角。</li><li><strong>解角度策略</strong>：先判斷角的頂點在圓心或圓周，再找它所對的弧，最後用 1 : 2 或同弧角相等追角。</li><li><strong>優弧與劣弧</strong>：若圓心角跨到大於 180° 的優弧，另一段弧要用 360° 扣掉；不確定位置時可能有互補答案。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3a_ch2_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>同弧所對圓心角是圓周角的 2 倍。</p>",
+          "answer": "○",
+          "explanation": "<p>圓心角與圓周角的基本關係為 2:1。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>同弧所對的圓周角相等。</p>",
+          "answer": "○",
+          "explanation": "<p>只要對同一段弧，圓周角相等。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>直徑所對的圓周角為 60°。</p>",
+          "answer": "╳",
+          "explanation": "<p>直徑所對圓周角為 90°。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>同圓中等弧對等弦。</p>",
+          "answer": "○",
+          "explanation": "<p>弧、弦、角在同圓或等圓中可互相對應。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>圓周角頂點在圓心。</p>",
+          "answer": "╳",
+          "explanation": "<p>圓周角頂點在圓周上，圓心角頂點才在圓心。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3a_ch2_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>同弧所對圓周角為 35°，圓心角為？</p><p>A. 70°</p><p>B. 35°</p><p>C. 17.5°</p><p>D. 145°</p>",
+          "answer": "A",
+          "explanation": "<p>圓心角是同弧圓周角的 2 倍。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>直徑 AB 所對圓周角 ∠ACB 為？</p><p>A. 90°</p><p>B. 45°</p><p>C. 60°</p><p>D. 180°</p>",
+          "answer": "A",
+          "explanation": "<p>直徑所對圓周角為直角。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>同弧所對的兩個圓周角關係為？</p><p>A. 相等</p><p>B. 互補</p><p>C. 相差 90°</p><p>D. 無關</p>",
+          "answer": "A",
+          "explanation": "<p>同弧圓周角相等。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>圓心角為 120°，同弧圓周角為？</p><p>A. 60°</p><p>B. 120°</p><p>C. 240°</p><p>D. 30°</p>",
+          "answer": "A",
+          "explanation": "<p>圓周角是同弧圓心角的一半。</p>"
+        },
+        {
+          "id": "g3a_ch2_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>解圓角度題時應先找？</p><p>A. 角所對的弧</p><p>B. 最大邊</p><p>C. 最短弦</p><p>D. 半徑長</p>",
+          "answer": "A",
+          "explanation": "<p>圓心角與圓周角都要看所對的弧。</p>"
+        }
+      ]
+    }
+  ]
+}

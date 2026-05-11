@@ -1,0 +1,136 @@
+{
+  "title": "國二下 1-2 等差級數",
+  "summary": "<ul><li><strong>級數</strong>：把數列各項相加；等差級數就是等差數列的總和。</li><li><strong>等差級數總和</strong>：$S_n=\\dfrac{n(a_1+a_n)}{2}$。</li><li><strong>含公差公式</strong>：$S_n=\\dfrac{n[2a_1+(n-1)d]}{2}$。</li><li><strong>連續整數和</strong>：$1+2+\\cdots+n=\\dfrac{n(n+1)}{2}$。</li><li><strong>應用題</strong>：總量、累積量、前幾排共有幾個通常用 $S_n$；單一位置才用 $a_n$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch1_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>級數是把數列的各項相加。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。數列是排列，級數是把各項加總。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>等差級數總和公式可寫成 $S_n=\\dfrac{n(a_1+a_n)}{2}$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這是利用頭尾配對得到的等差級數公式。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>第 3 項加到第 10 項共有 7 項。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。項數是 $10-3+1=8$ 項。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>$1+2+3+\\cdots+100=5050$。</p>",
+          "answer": "○",
+          "explanation": "<p>$\\dfrac{100\\times101}{2}=5050$，正確。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>題目問「前 20 項總和」時，只要求 $a_{20}$ 即可。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。前 20 項總和要算 $S_{20}$，不是只算第 20 項。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch1_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>等差數列 $2,5,8,\\ldots,29$ 的總和為何？</p><p>A. 135</p><p>B. 140</p><p>C. 155</p><p>D. 165</p>",
+          "answer": "C",
+          "explanation": "<p>項數：$29=2+(n-1)3$，得 $n=10$。總和 $S_{10}=\\dfrac{10(2+29)}{2}=155$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>求 $1+2+3+\\cdots+50$。</p><p>A. 1225</p><p>B. 1250</p><p>C. 1275</p><p>D. 1300</p>",
+          "answer": "C",
+          "explanation": "<p>$\\dfrac{50\\times51}{2}=1275$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>等差數列首項 4、公差 3，求前 12 項和。</p><p>A. 234</p><p>B. 246</p><p>C. 252</p><p>D. 270</p>",
+          "answer": "B",
+          "explanation": "<p>$S_{12}=\\dfrac{12[2\\times4+(12-1)3]}{2}=6(8+33)=246$。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>求前 20 個正奇數的總和。</p><p>A. 200</p><p>B. 300</p><p>C. 400</p><p>D. 441</p>",
+          "answer": "C",
+          "explanation": "<p>前 n 個正奇數和為 $n^2$，所以前 20 個和為 $20^2=400$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>等差級數首項 6、末項 30、總和 144，求項數。</p><p>A. 6</p><p>B. 7</p><p>C. 8</p><p>D. 9</p>",
+          "answer": "C",
+          "explanation": "<p>$144=\\dfrac{n(6+30)}{2}=18n$，所以 $n=8$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>某劇場第一排 18 個座位，每往後一排多 2 個，共 15 排，總座位數為何？</p><p>A. 450</p><p>B. 480</p><p>C. 510</p><p>D. 540</p>",
+          "answer": "B",
+          "explanation": "<p>第 15 排 $=18+14\\times2=46$。總和 $S_{15}=\\dfrac{15(18+46)}{2}=480$。答案（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch1_2_q12",
+          "number": 12,
+          "type": "multi_choice",
+          "content": "<p>關於等差級數，下列哪些敘述正確？</p><p>A. $S_n=\\dfrac{n(a_1+a_n)}{2}$</p><p>B. $S_n=\\dfrac{n[2a_1+(n-1)d]}{2}$</p><p>C. 只要知道 $a_n$ 就一定能求 $S_n$</p><p>D. 等差級數可用頭尾配對理解</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 正確。C 錯，只知道末項仍可能缺少首項或項數。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q13",
+          "number": 13,
+          "type": "multi_choice",
+          "content": "<p>下列哪些公式或觀念正確？</p><p>A. $1+2+\\cdots+n=\\dfrac{n(n+1)}{2}$</p><p>B. 前 n 個正奇數和為 $n^2$</p><p>C. 第 m 項加到第 n 項共有 $n-m$ 項</p><p>D. 奇數項等差數列的總和可用「項數 × 中間項」</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 正確。C 錯，項數應為 $n-m+1$。</p>"
+        },
+        {
+          "id": "g2b_ch1_2_q14",
+          "number": 14,
+          "type": "multi_choice",
+          "content": "<p>哪些情境通常需要用等差級數求總量？</p><p>A. 每排座位數固定增加，求全部座位數</p><p>B. 每天存款固定增加，求累積存款</p><p>C. 只問第 10 排有幾個座位</p><p>D. 每層物品數固定增加，求全部物品數</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 都是累積總量，通常用 $S_n$。C 問單一位置，通常用 $a_n$。</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "國三下 3-1 角柱",
+  "summary": "<h4><strong>知識點1：角柱的構成、展開圖與表面積</strong></h4><p><strong>核心定理／公式</strong></p><ul><li>角柱有兩個互相平行且全等的底面，其餘側面都是平行四邊形或長方形</li><li>依底面命名：三角柱、四角柱、五角柱……</li><li>直角柱的側面為長方形，側稜垂直於底面</li><li>n 角柱有 <strong>2n 個頂點、3n 條邊、n + 2 個面</strong></li><li>角柱體積：<strong>底面積 × 高</strong></li><li>直角柱側面積：<strong>底面周長 × 柱高</strong></li><li>表面積：<strong>2 × 底面積 + 側面積</strong></li></ul><p><strong>展開圖重點</strong></p><ul><li>角柱展開圖由兩個全等底面與一排側面組成</li><li>直角柱側面展開後通常是一個長方形，長為底面周長，寬為柱高</li><li>展開圖中相鄰側面的寬度對應底面的各邊長</li><li>判斷展開圖是否正確，要檢查底面是否全等、側面數量是否等於底面邊數</li></ul><p><strong>常見考法／注意事項</strong></p><ul><li>題目問高時，要找兩底面之間的垂直距離，不一定是圖上斜邊</li><li>側面積可逐片加，也可用底面周長 × 高快速求</li><li>表面積不要漏掉上下兩個底面</li><li>若底面是複合圖形，先算底面積與周長，再套角柱公式</li><li>單位要一致，體積單位是立方單位，面積單位是平方單位</li></ul><h4><strong>常見題型</strong></h4><ol><li><strong>數頂點、邊、面</strong>：n 角柱直接套 2n、3n、n + 2。</li><li><strong>求直角柱表面積</strong>：先求底面積與底面周長，再算 2 × 底面積 + 底面周長 × 高。</li><li><strong>求角柱體積</strong>：底面若不是基本圖形，先切割或補形求底面積，再乘柱高。</li><li><strong>展開圖判斷</strong>：確認兩底面全等、側面數量與排列能圍成底面周長。</li></ol>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3b_ch3_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>n 角柱有 2n 個頂點。</p>",
+          "answer": "○",
+          "explanation": "<p>上下兩個底面各 n 個頂點。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>n 角柱有 n+2 個面。</p>",
+          "answer": "○",
+          "explanation": "<p>n 個側面加 2 個底面。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>角柱體積 = 底面積 × 高。</p>",
+          "answer": "○",
+          "explanation": "<p>柱體體積公式。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>直角柱側面積 = 底面積 × 高。</p>",
+          "answer": "╳",
+          "explanation": "<p>直角柱側面積 = 底面周長 × 高。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>角柱有兩個互相平行且全等的底面。</p>",
+          "answer": "○",
+          "explanation": "<p>這是角柱的基本構成。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3b_ch3_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>五角柱有幾個頂點？</p><p>A. 10</p><p>B. 5</p><p>C. 15</p><p>D. 7</p>",
+          "answer": "A",
+          "explanation": "<p>2n=2×5=10。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>四角柱有幾個面？</p><p>A. 6</p><p>B. 4</p><p>C. 8</p><p>D. 12</p>",
+          "answer": "A",
+          "explanation": "<p>n+2=4+2=6。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>直角柱側面積公式為？</p><p>A. 底面周長×高</p><p>B. 底面積×高</p><p>C. 底面積÷3</p><p>D. 周長÷高</p>",
+          "answer": "A",
+          "explanation": "<p>側面展開為長方形，長為底面周長。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>角柱體積公式為？</p><p>A. 底面積×高</p><p>B. 底面積×高÷3</p><p>C. 周長×高</p><p>D. 2×底面積</p>",
+          "answer": "A",
+          "explanation": "<p>柱體體積=底面積×高。</p>"
+        },
+        {
+          "id": "g3b_ch3_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>三角柱有幾條邊？</p><p>A. 9</p><p>B. 6</p><p>C. 5</p><p>D. 12</p>",
+          "answer": "A",
+          "explanation": "<p>3n=3×3=9。</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "國三上 2-1 三角形相似",
+  "summary": "<ul><li><strong>相似三角形</strong>：兩個三角形對應角相等、對應邊成比例，記作 △ABC ∼ △DEF。相似比是對應邊長的比。</li><li><strong>相似比延伸</strong>：若相似比為 a : b，則周長比也是 a : b，面積比是 a² : b²。相似比為 1 : 1 時就是全等。</li><li><strong>三大判別</strong>：AA 相似（兩角相等）、SSS 相似（三組對應邊成比例）、SAS 相似（兩組對應邊成比例且夾角相等）。AA 是最常用的方法。</li><li><strong>找對應技巧</strong>：對頂角、同位角、內錯角、共同角、直角都常用來建立 AA 相似；列相似式時頂點順序必須對應正確。</li><li><strong>平行線與相似</strong>：若 DE ∥ BC，常可推出 △ADE ∼ △ABC，進而列 AD : AB = AE : AC = DE : BC。</li><li><strong>常見陷阱</strong>：不要把相似當全等；邊長比可直接用，相似圖形的面積比要先把邊長比平方。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3a_ch2_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>相似三角形的對應角相等、對應邊成比例。</p>",
+          "answer": "○",
+          "explanation": "<p>這是相似三角形的定義。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>AA 可以判定三角形相似。</p>",
+          "answer": "○",
+          "explanation": "<p>兩角相等即可推出第三角也相等。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>相似比為 2:3 時，面積比也是 2:3。</p>",
+          "answer": "╳",
+          "explanation": "<p>面積比要平方，為 4:9。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>相似比為 1:1 時，兩三角形全等。</p>",
+          "answer": "○",
+          "explanation": "<p>對應邊等長且對應角相等，即全等。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>列相似式時頂點順序不影響比例。</p>",
+          "answer": "╳",
+          "explanation": "<p>頂點順序決定對應邊，寫錯會列錯比例。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3a_ch2_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>兩相似三角形邊長比為 3:5，面積比為？</p><p>A. 9:25</p><p>B. 3:5</p><p>C. 6:10</p><p>D. 25:9</p>",
+          "answer": "A",
+          "explanation": "<p>面積比為相似比平方。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>下列何者可判定三角形相似？</p><p>A. AA</p><p>B. SSA</p><p>C. 只有一邊相等</p><p>D. 周長相等</p>",
+          "answer": "A",
+          "explanation": "<p>AA 是三角形相似判別之一。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>若 △ABC ∼ △DEF，AB 對應 DE，且 AB:DE=2:7，則周長比為？</p><p>A. 2:7</p><p>B. 4:49</p><p>C. 7:2</p><p>D. 1:1</p>",
+          "answer": "A",
+          "explanation": "<p>相似圖形周長比等於邊長比。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>若 DE ∥ BC，常可推出？</p><p>A. △ADE ∼ △ABC</p><p>B. DE=BC</p><p>C. AD=DB</p><p>D. AE=EC</p>",
+          "answer": "A",
+          "explanation": "<p>平行線造成對應角相等，得到 AA 相似。</p>"
+        },
+        {
+          "id": "g3a_ch2_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>相似題最常先找哪種角？</p><p>A. 共同角或平行線造成的角</p><p>B. 任意角</p><p>C. 最大角</p><p>D. 外角</p>",
+          "answer": "A",
+          "explanation": "<p>共同角、同位角、內錯角是建立 AA 的常見來源。</p>"
+        }
+      ]
+    }
+  ]
+}

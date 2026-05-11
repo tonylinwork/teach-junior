@@ -1,0 +1,98 @@
+{
+  "title": "國三上 3-2 三角形的三心",
+  "summary": "<ul><li><strong>外心</strong>：三邊中垂線交點，到三頂點距離相等，是外接圓圓心；直角三角形外心在斜邊中點，外接圓半徑 = 斜邊的一半。</li><li><strong>內心</strong>：三角平分線交點，到三邊垂直距離相等，是內切圓圓心；內心一定在三角形內部。</li><li><strong>重心</strong>：三條中線交點，將中線分成頂點到重心 : 重心到中點 = 2 : 1。</li><li><strong>重心座標</strong>：若三頂點為 $(x_1,y_1),(x_2,y_2),(x_3,y_3)$，重心 $G=((x_1+x_2+x_3)/3,(y_1+y_2+y_3)/3)$。</li><li><strong>判斷口訣</strong>：中垂線、到頂點等距是外心；角平分線、到邊等距是內心；中線、2:1 是重心。</li><li><strong>常見混淆</strong>：外心看頂點距離，內心看邊的垂直距離，不要互換。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3a_ch3_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>外心是三邊中垂線的交點。</p>",
+          "answer": "○",
+          "explanation": "<p>外心到三頂點距離相等。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>內心到三邊的垂直距離相等。</p>",
+          "answer": "○",
+          "explanation": "<p>內心是內切圓圓心。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>重心把中線分成 1:1。</p>",
+          "answer": "╳",
+          "explanation": "<p>重心把中線分成頂點到重心 : 重心到中點 = 2:1。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>直角三角形外心在斜邊中點。</p>",
+          "answer": "○",
+          "explanation": "<p>直角三角形的外接圓圓心位於斜邊中點。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>內心一定在三角形外部。</p>",
+          "answer": "╳",
+          "explanation": "<p>內心一定在三角形內部。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3a_ch3_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>三邊中垂線交點是？</p><p>A. 外心</p><p>B. 內心</p><p>C. 重心</p><p>D. 垂心</p>",
+          "answer": "A",
+          "explanation": "<p>外心由三邊中垂線決定。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>三條角平分線交點是？</p><p>A. 內心</p><p>B. 外心</p><p>C. 重心</p><p>D. 旁心</p>",
+          "answer": "A",
+          "explanation": "<p>內心由三角平分線決定。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>三條中線交點是？</p><p>A. 重心</p><p>B. 內心</p><p>C. 外心</p><p>D. 圓心</p>",
+          "answer": "A",
+          "explanation": "<p>重心是三中線交點。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>重心分中線的比例為？</p><p>A. 2:1</p><p>B. 1:1</p><p>C. 3:1</p><p>D. 1:2</p>",
+          "answer": "A",
+          "explanation": "<p>由頂點到重心比重心到中點為 2:1。</p>"
+        },
+        {
+          "id": "g3a_ch3_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>直角三角形外接圓半徑等於？</p><p>A. 斜邊的一半</p><p>B. 一股的一半</p><p>C. 面積的一半</p><p>D. 周長的一半</p>",
+          "answer": "A",
+          "explanation": "<p>外心在斜邊中點，所以半徑是斜邊的一半。</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "國三上 3-1 幾何證明與推理",
+  "summary": "<ul><li><strong>證明相等</strong>：要證明線段相等或角相等，優先找含目標邊角的兩個三角形，並證明全等。</li><li><strong>全等條件</strong>：SSS、SAS、ASA、AAS、RHS 可判定全等；SSA 與 AAA 不可判定全等。</li><li><strong>證明平行</strong>：可用同位角相等、內錯角相等、同側內角互補；必要時延長線形成外角再轉換。</li><li><strong>輔助線</strong>：條件不足時常連接兩點、延長線段、補出共用邊、共用角或對頂角。</li><li><strong>證明不等式</strong>：想到三角形邊角關係，如兩邊和大於第三邊；若線段不在同一三角形，可先用全等轉換。</li><li><strong>相似與面積</strong>：AA 相似可得對應邊成比例；面積相等可由全等或同底等高推出。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g3a_ch3_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>證明線段相等時，常可先找兩個三角形全等。</p>",
+          "answer": "○",
+          "explanation": "<p>全等後可用對應邊相等。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>AAA 可以判定三角形全等。</p>",
+          "answer": "╳",
+          "explanation": "<p>AAA 只能判定相似，不能判定全等。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>SAS 可以判定三角形全等。</p>",
+          "answer": "○",
+          "explanation": "<p>兩邊及夾角相等可判定全等。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>證明平行可用內錯角相等。</p>",
+          "answer": "○",
+          "explanation": "<p>內錯角相等可推出兩線平行。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>輔助線一定不能加入證明。</p>",
+          "answer": "╳",
+          "explanation": "<p>輔助線常用來創造共用邊、角或三角形。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g3a_ch3_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列何者可判定三角形全等？</p><p>A. SAS</p><p>B. AAA</p><p>C. SSA</p><p>D. 周長相等</p>",
+          "answer": "A",
+          "explanation": "<p>SAS 是合法全等判別。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>要證明兩角相等，常用策略是？</p><p>A. 證明兩三角形全等</p><p>B. 直接猜測</p><p>C. 只看圖形大小</p><p>D. 量角器</p>",
+          "answer": "A",
+          "explanation": "<p>全等後可推出對應角相等。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>證明兩線平行可用？</p><p>A. 同位角相等</p><p>B. 三邊相等</p><p>C. 面積相等</p><p>D. 周長相等</p>",
+          "answer": "A",
+          "explanation": "<p>同位角相等可推出平行。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>SSA 對三角形全等判別而言通常是？</p><p>A. 不充分</p><p>B. 一定成立</p><p>C. 等同 SSS</p><p>D. 等同 RHS</p>",
+          "answer": "A",
+          "explanation": "<p>SSA 可能造成兩種三角形，不是一般全等判別。</p>"
+        },
+        {
+          "id": "g3a_ch3_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>條件不足時最常考慮？</p><p>A. 作輔助線</p><p>B. 刪掉條件</p><p>C. 改答案</p><p>D. 不證明</p>",
+          "answer": "A",
+          "explanation": "<p>輔助線能建立全等、相似或平行關係。</p>"
+        }
+      ]
+    }
+  ]
+}

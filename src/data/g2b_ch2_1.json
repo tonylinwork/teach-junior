@@ -1,0 +1,136 @@
+{
+  "title": "國二下 2-1 函數與線型函數",
+  "summary": "<ul><li><strong>函數</strong>：每一個輸入值 $x$ 只能對應到一個輸出值 $y$。</li><li><strong>判斷重點</strong>：同一個 $x$ 不可對到兩個不同的 $y$；多個 $x$ 對到同一個 $y$ 可以。</li><li><strong>線型函數</strong>：圖形為直線，常見形式 $y=ax+b$。</li><li><strong>參數意義</strong>：$a$ 決定變化率，$b$ 是 $x=0$ 時的 $y$ 值。</li><li><strong>兩點求式</strong>：代入兩組 $(x,y)$ 建立兩個方程式，解出 $a,b$。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch2_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>函數中，每一個輸入值 $x$ 只能對應到一個輸出值 $y$。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這是函數判斷的核心定義。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>兩個不同的 $x$ 不可以對應到同一個 $y$。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。函數只限制「同一個 x 不能對到兩個 y」，不同 x 可以對到同一個 y。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>$y=3x+2$ 是線型函數。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。它符合 $y=ax+b$ 的形式，圖形為直線。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>在線型函數 $y=ax+b$ 中，$b$ 代表 $x=0$ 時的 $y$ 值。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。令 $x=0$，可得 $y=b$。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若 $a<0$，則線型函數 $y=ax+b$ 會隨 $x$ 增加而增加。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。$a<0$ 時，$x$ 越大，$y$ 越小，函數呈遞減。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch2_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪一組對應不是函數？</p><p>A. $(1,2),(2,2),(3,2)$</p><p>B. $(1,2),(1,3),(2,4)$</p><p>C. $(0,5),(1,6),(2,7)$</p><p>D. $(-1,0),(0,0),(1,0)$</p>",
+          "answer": "B",
+          "explanation": "<p>B 中同一個 $x=1$ 同時對到 $y=2$ 與 $y=3$，所以不是函數。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>函數 $f(x)=2x-3$，求 $f(5)$。</p><p>A. 5</p><p>B. 7</p><p>C. 9</p><p>D. 13</p>",
+          "answer": "B",
+          "explanation": "<p>$f(5)=2\\times5-3=7$。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>線型函數 $y=3x+4$ 中，當 $x=2$ 時，$y$ 為何？</p><p>A. 6</p><p>B. 8</p><p>C. 10</p><p>D. 12</p>",
+          "answer": "C",
+          "explanation": "<p>$y=3\\times2+4=10$。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>線型函數通過 $(0,5)$ 與 $(2,11)$，求函數式。</p><p>A. $y=2x+5$</p><p>B. $y=3x+5$</p><p>C. $y=5x+3$</p><p>D. $y=6x-1$</p>",
+          "answer": "B",
+          "explanation": "<p>由 $(0,5)$ 得 $b=5$。代入 $(2,11)$：$11=2a+5$，$a=3$，所以 $y=3x+5$。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>某線型函數 $y=ax+b$，已知 $(4,75)$、$(32,63)$ 在圖形上，求 $a$。</p><p>A. $-\\dfrac{3}{7}$</p><p>B. $-\\dfrac{7}{3}$</p><p>C. $\\dfrac{3}{7}$</p><p>D. $\\dfrac{7}{3}$</p>",
+          "answer": "A",
+          "explanation": "<p>$a=\\dfrac{63-75}{32-4}=\\dfrac{-12}{28}=-\\dfrac{3}{7}$。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>若 $y=-2x+9$，當 $y=1$ 時，$x$ 為何？</p><p>A. 3</p><p>B. 4</p><p>C. 5</p><p>D. 6</p>",
+          "answer": "B",
+          "explanation": "<p>$1=-2x+9$，$-2x=-8$，$x=4$。答案（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch2_1_q12",
+          "number": 12,
+          "type": "multi_choice",
+          "content": "<p>下列哪些敘述符合函數定義？</p><p>A. 每個 $x$ 最多只能對應一個 $y$</p><p>B. 不同的 $x$ 可以對應到同一個 $y$</p><p>C. 同一個 $x$ 可以對應到兩個不同 $y$</p><p>D. 函數可以用表格、式子或圖形表示</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 正確。C 違反函數定義。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q13",
+          "number": 13,
+          "type": "multi_choice",
+          "content": "<p>關於線型函數 $y=ax+b$，下列哪些敘述正確？</p><p>A. 圖形是一條直線</p><p>B. $a$ 決定變化率</p><p>C. $b$ 是 $x=0$ 時的 $y$ 值</p><p>D. $a=0$ 時不是函數</p>",
+          "answer": "ABC",
+          "explanation": "<p>A、B、C 正確。D 錯，$a=0$ 時為 $y=b$，仍是函數。</p>"
+        },
+        {
+          "id": "g2b_ch2_1_q14",
+          "number": 14,
+          "type": "multi_choice",
+          "content": "<p>下列哪些情境常可用線型函數表示？</p><p>A. 固定費 50 元，每單位再加 8 元</p><p>B. 成績依公式加權調整</p><p>C. 每次都乘以 2 的等比成長</p><p>D. 溫度換算關係</p>",
+          "answer": "ABD",
+          "explanation": "<p>A、B、D 常可寫成 $y=ax+b$。C 是等比成長，不一定是線型函數。</p>"
+        }
+      ]
+    }
+  ]
+}
