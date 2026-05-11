@@ -1,5 +1,152 @@
 {
   "title": "國二下 3-1 角度與多邊形內外角",
   "summary": "<ul><li><strong>三角形基礎</strong>：內角和 = 180°；外角和 = 360°；<strong>外角定理</strong>：一個外角 = 兩內對角之和。</li><li><strong>特殊圖形</strong>：啾啾（X形）兩三角形外角相等；迴力標頂點三角之和 = 對面外角；角平分線交點 ∠BOC = 90° + ½∠A。</li><li><strong>N 邊形</strong>：內角和 = (N−2) × 180°；外角和恆 = 360°（凸多邊形，與邊數無關）；對角線總數 = N(N−3)/2。</li><li><strong>正 N 邊形</strong>：一個外角 = 360°/N；一個內角 = 180° − 360°/N。常用：正三角形60°、正四邊形90°、正五邊形108°、正六邊形120°。</li><li><strong>旋轉角題型</strong>：沿折線行走，每次轉彎轉的是外角，總旋轉角 = 各外角累加。</li></ul>",
-  "sections": []
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch3_1_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>任意凸多邊形的外角和恆等於 360°，與邊數無關。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。不論幾邊形，只要是凸多邊形，各頂點外角加起來恆為 360°。</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>三角形的一個外角等於三個內角之和。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。外角定理：一個外角 = <strong>兩個不相鄰</strong>內角之和，不是全部三個。</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>正六邊形的每個內角為 120°。</p>",
+          "answer": "○",
+          "explanation": "<p>正六邊形外角 = 360°/6 = 60°，內角 = 180° − 60° = 120°。正確。</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>一個多邊形的內角和為 900°，則它有 7 條邊。</p>",
+          "answer": "○",
+          "explanation": "<p>(N−2)×180° = 900° → N−2 = 5 → N = 7。正確，為七邊形。</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>△ABC 中，若∠A = 80°、∠B = 60°，則∠C 的外角為 40°。</p>",
+          "answer": "╳",
+          "explanation": "<p>∠C = 180° − 80° − 60° = 40°，∠C 的外角 = 180° − 40° = 140°，不是 40°。錯誤。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_1_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>三角形三個內角分別為 40°、75°，求第三個內角。</p><p>A. 55°</p><p>B. 60°</p><p>C. 65°</p><p>D. 70°</p>",
+          "answer": "C",
+          "explanation": "<p>180° − 40° − 75° = <strong>65°</strong>（C）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>△ABC 中，∠A = 50°，∠B = 70°，求∠BCD（∠ACB 的外角）。</p><p>A. 60°</p><p>B. 110°</p><p>C. 120°</p><p>D. 130°</p>",
+          "answer": "C",
+          "explanation": "<p>外角定理：∠BCD = ∠A + ∠B = 50° + 70° = <strong>120°</strong>（C）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>求八邊形的內角和。</p><p>A. 900°</p><p>B. 1080°</p><p>C. 1260°</p><p>D. 720°</p>",
+          "answer": "B",
+          "explanation": "<p>(8 − 2) × 180° = 6 × 180° = <strong>1080°</strong>（B）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>正十二邊形的一個內角是幾度？</p><p>A. 120°</p><p>B. 144°</p><p>C. 150°</p><p>D. 160°</p>",
+          "answer": "C",
+          "explanation": "<p>外角 = 360°/12 = 30°，內角 = 180° − 30° = <strong>150°</strong>（C）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>△ABC 中，∠B = 2∠A，∠C = 3∠A，求∠A 的度數。</p><p>A. 20°</p><p>B. 25°</p><p>C. 30°</p><p>D. 36°</p>",
+          "answer": "C",
+          "explanation": "<p>∠A + 2∠A + 3∠A = 180° → 6∠A = 180° → ∠A = <strong>30°</strong>（C）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>一個多邊形的內角和為 1620°，求此多邊形有幾條對角線？</p><p>A. 20 條</p><p>B. 27 條</p><p>C. 35 條</p><p>D. 44 條</p>",
+          "answer": "D",
+          "explanation": "<p>(N−2)×180° = 1620° → N = 11（十一邊形）</p><p>對角線 = 11×(11−3)/2 = 11×8/2 = <strong>44 條</strong>（D）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>一個正多邊形的每個外角為 40°，求此多邊形有幾條對角線？</p><p>A. 20 條</p><p>B. 24 條</p><p>C. 27 條</p><p>D. 30 條</p>",
+          "answer": "C",
+          "explanation": "<p>邊數 N = 360°/40° = 9（正九邊形）</p><p>對角線 = 9×(9−3)/2 = 9×6/2 = <strong>27 條</strong>（C）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>△ABC 中，∠A = 70°，∠B 的外角為 130°，則∠C 為何？</p><p>A. 50°</p><p>B. 55°</p><p>C. 60°</p><p>D. 65°</p>",
+          "answer": "C",
+          "explanation": "<p>∠B = 180° − 130° = 50°</p><p>∠C = 180° − 70° − 50° = <strong>60°</strong>（C）</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>一個正多邊形，每個內角為 135°，則此多邊形有幾條對角線？</p><p>A. 14 條</p><p>B. 20 條</p><p>C. 27 條</p><p>D. 35 條</p>",
+          "answer": "B",
+          "explanation": "<p>外角 = 180° − 135° = 45°，N = 360°/45° = 8（正八邊形）</p><p>對角線 = 8×5/2 = <strong>20 條</strong>（B）</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_1_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列敘述何者正確？（多選）</p><p>A. 任意凸多邊形的外角和均為 360°</p><p>B. 正五邊形每個內角為 108°</p><p>C. 五邊形的對角線共有 10 條</p><p>D. 一個外角為 45° 的正多邊形有 8 條邊</p><p>E. 正多邊形邊數越多，每個內角越大</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：任意凸多邊形外角和恆 = 360°。</p><p><strong>B ○</strong>：正五邊形外角 = 72°，內角 = 108°。</p><p><strong>C ╳</strong>：五邊形對角線 = 5×(5−3)/2 = 5 條，不是 10 條。</p><p><strong>D ○</strong>：N = 360°/45° = 8 邊，正確。</p><p><strong>E ○</strong>：N 越大，每個外角越小，故每個內角越大。</p>"
+        },
+        {
+          "id": "g2b_ch3_1_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>關於三角形的外角，下列何者正確？（多選）</p><p>A. 一個外角等於兩不相鄰內角之和</p><p>B. 外角一定大於任一不相鄰的內角</p><p>C. 三角形有三個外角，其和為 360°</p><p>D. 外角一定是鈍角</p><p>E. 若一個內角為 90°，則其外角也是 90°</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：外角定理，正確。</p><p><strong>B ○</strong>：因外角 = 兩不相鄰內角之和，必大於其中任一個。</p><p><strong>C ○</strong>：三個頂點各一個外角，三個外角和 = 360°。</p><p><strong>D ╳</strong>：若兩內角各為 10°，則外角 = 20°，是銳角。</p><p><strong>E ○</strong>：直角三角形的直角外角 = 180° − 90° = 90°，正確。</p>"
+        }
+      ]
+    }
+  ]
 }

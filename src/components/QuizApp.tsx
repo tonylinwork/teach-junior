@@ -9,7 +9,6 @@ import { PlusCircle, Library, Trash2, ChevronDown, ArrowLeft, RotateCcw } from '
 import { QuizData, AnswerState } from '@/types';
 import { QuestionSidebar } from '@/components/quiz/QuestionSidebar';
 import { MathRenderer } from '@/components/quiz/MathRenderer';
-import { BOOKS_CONFIG, DIFFICULTIES } from '@/constants';
 
 interface QuizAppProps {
     onBack?: () => void;
@@ -18,11 +17,6 @@ interface QuizAppProps {
 export function QuizApp({ onBack }: QuizAppProps) {
     const [chapters, setChapters] = useState<{ id: string, title: string }[]>([]);
     const [currentChapterId, setCurrentChapterId] = useState<string>('');
-
-    // Hierarchical Selection State
-    const [selectedBook, setSelectedBook] = useState(BOOKS_CONFIG[0].name);
-    const [selectedChapterNum, setSelectedChapterNum] = useState(1);
-    const [selectedDifficulty, setSelectedDifficulty] = useState('medium');
 
     const [quizData, setQuizData] = useState<QuizData | null>(null);
     const [isLoading, setIsLoading] = useState(true);
@@ -36,12 +30,18 @@ export function QuizApp({ onBack }: QuizAppProps) {
             const data = await res.json();
             const chaptersArray = Array.isArray(data) ? data : [];
             setChapters(chaptersArray);
+            if (chaptersArray.length > 0 && !currentChapterId) {
+                setCurrentChapterId(chaptersArray[0].id);
+            }
         } catch (err) {
             console.log('Falling back to static chapters.json');
             try {
                 const module = await import('../data/chapters.json');
                 const chaptersArray = (module.default || []) as { id: string, title: string }[];
                 setChapters(chaptersArray);
+                if (chaptersArray.length > 0 && !currentChapterId) {
+                    setCurrentChapterId(chaptersArray[0].id);
+                }
             } catch (staticErr) {
                 console.error('Failed to load static chapters:', staticErr);
             }
@@ -68,7 +68,6 @@ export function QuizApp({ onBack }: QuizAppProps) {
             });
 
             if (res.ok) {
-                // Clear saved answers for this chapter
                 localStorage.removeItem(`quiz_answers_${currentChapterId}`);
 
                 const updatedChapters = chapters.filter(ch => ch.id !== currentChapterId);
@@ -89,14 +88,6 @@ export function QuizApp({ onBack }: QuizAppProps) {
     };
 
     useEffect(() => {
-        if (chapters.length === 0) return;
-
-        const bookPrefix = selectedBook.replace('數學', 'math');
-        const id = `${bookPrefix}_ch${selectedChapterNum}_${selectedDifficulty}`;
-        setCurrentChapterId(id);
-    }, [selectedBook, selectedChapterNum, selectedDifficulty, chapters]);
-
-    useEffect(() => {
         fetchChapters();
     }, []);
 
@@ -109,12 +100,10 @@ export function QuizApp({ onBack }: QuizAppProps) {
 
         setIsLoading(true);
 
-        // Load chapter data
         import(`../data/${currentChapterId}.json`)
             .then(module => {
                 setQuizData(module.default);
 
-                // Try to load saved answers from localStorage
                 const savedAnswers = localStorage.getItem(`quiz_answers_${currentChapterId}`);
                 if (savedAnswers) {
                     try {
@@ -153,7 +142,6 @@ export function QuizApp({ onBack }: QuizAppProps) {
                 }
             };
 
-            // Save to localStorage immediately to avoid race conditions
             if (currentChapterId) {
                 localStorage.setItem(`quiz_answers_${currentChapterId}`, JSON.stringify(newAnswers));
             }
@@ -212,58 +200,22 @@ export function QuizApp({ onBack }: QuizAppProps) {
                                 </p>
                             </div>
 
-
                             <div className="flex flex-wrap items-center gap-3">
                                 <FontSizeControl />
 
                                 <div className="flex items-center gap-2">
-                                    {/* Book Selection */}
+                                    {/* Chapter Selection from chapters.json */}
                                     <div className="relative group">
                                         <select
-                                            value={selectedBook}
-                                            onChange={(e) => {
-                                                const book = BOOKS_CONFIG.find(b => b.name === e.target.value);
-                                                setSelectedBook(e.target.value);
-                                                if (book && selectedChapterNum > book.chapters) {
-                                                    setSelectedChapterNum(1);
-                                                }
-                                            }}
-                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm w-[120px]"
+                                            value={currentChapterId}
+                                            onChange={(e) => setCurrentChapterId(e.target.value)}
+                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm max-w-[240px]"
                                         >
-                                            {BOOKS_CONFIG.map(b => (
-                                                <option key={b.name} value={b.name}>{b.name}</option>
-                                            ))}
-                                        </select>
-                                        <div className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-blue-500 transition-colors">
-                                            <ChevronDown className="h-4 w-4" />
-                                        </div>
-                                    </div>
-
-                                    {/* Chapter Selection */}
-                                    <div className="relative group">
-                                        <select
-                                            value={selectedChapterNum}
-                                            onChange={(e) => setSelectedChapterNum(parseInt(e.target.value))}
-                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm w-[110px]"
-                                        >
-                                            {Array.from({ length: BOOKS_CONFIG.find(b => b.name === selectedBook)?.chapters || 12 }, (_, i) => (
-                                                <option key={i + 1} value={i + 1}>第{i + 1}章</option>
-                                            ))}
-                                        </select>
-                                        <div className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-blue-500 transition-colors">
-                                            <ChevronDown className="h-4 w-4" />
-                                        </div>
-                                    </div>
-
-                                    {/* Difficulty Selection */}
-                                    <div className="relative group">
-                                        <select
-                                            value={selectedDifficulty}
-                                            onChange={(e) => setSelectedDifficulty(e.target.value)}
-                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm w-[110px]"
-                                        >
-                                            {DIFFICULTIES.map(d => (
-                                                <option key={d.id} value={d.id}>{d.label}</option>
+                                            {chapters.length === 0 && (
+                                                <option value="">無章節資料</option>
+                                            )}
+                                            {chapters.map(ch => (
+                                                <option key={ch.id} value={ch.id}>{ch.title}</option>
                                             ))}
                                         </select>
                                         <div className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-blue-500 transition-colors">
@@ -401,16 +353,14 @@ export function QuizApp({ onBack }: QuizAppProps) {
                 </div>
             </div>
 
-            {/* Floating Top Button? Maybe in Layout instead */}
-
             <QuizProgress totalQuestions={totalQuestions} answers={answers} />
 
             <ImportDialog
                 isOpen={isImportOpen}
                 onClose={() => setIsImportOpen(false)}
                 onSuccess={(id) => {
-                    fetchChapters(); // Refresh list
-                    setCurrentChapterId(id); // Auto switch
+                    fetchChapters();
+                    setCurrentChapterId(id);
                 }}
             />
 

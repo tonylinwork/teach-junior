@@ -1,0 +1,152 @@
+{
+  "title": "國二下 3-2 尺規作圖",
+  "summary": "<ul><li><strong>尺規作圖工具</strong>：「尺」是無刻度的直尺（只能畫直線，不能量長度）；「規」是圓規（可轉移線段長度）。不可使用量角器或有刻度的尺。</li><li><strong>基本作法</strong>：①等長線段轉移；②作線段的垂直平分線（以兩端點為圓心，半徑 > 一半，兩弧交點連線）；③作角平分線（以頂點為圓心畫弧交兩邊，再以兩交點為圓心等半徑畫弧，交點與頂點連線）；④過一點作垂線；⑤過一點作平行線。</li><li><strong>重要性質</strong>：垂直平分線上的點到線段兩端點等距（PA = PB）；角平分線上的點到角兩邊的距離相等。</li><li><strong>可作角度</strong>：60°（等邊三角形）、90°（垂線）、再不斷平分 → 30°、45°、15°、22.5°……；120° = 60° × 2。</li><li><strong>不可能的作法</strong>：三等分任意角、化圓為方（均已被數學證明無法用尺規完成）。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch3_2_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>尺規作圖中，「尺」是指有刻度的直尺，可用來量測並標記長度。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。尺規作圖中的「尺」是<strong>無刻度</strong>的直尺，只能畫直線，不能量長度或角度。長度的轉移要靠圓規完成。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>作線段 AB 的垂直平分線時，以 A、B 各為圓心，取相同半徑（大於 AB 的一半）畫弧，兩弧的交點連線即為所求。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這是標準的「作垂直平分線」步驟：兩圓弧半徑必須相同且大於 AB/2，才能確保兩弧有交點，交點連線與 AB 垂直且平分 AB。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>角平分線上任意一點到角兩邊的距離相等。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。這是角平分線的基本性質：角平分線上的任一點，到角兩邊的垂直距離相等。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>用尺規可以將任意角三等分。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。「三等分任意角」已被數學證明是<strong>不可能</strong>用尺規完成的作圖問題（古希臘三大幾何難題之一）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>若點 P 在線段 AB 的垂直平分線上，則 PA = PB。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。垂直平分線上的點到線段兩端點等距，這是垂直平分線的定義性質。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_2_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>尺規作圖只允許使用哪兩種工具？</p><p>A. 量角器與有刻度直尺</p><p>B. 圓規與量角器</p><p>C. 圓規與無刻度直尺</p><p>D. 三角板與直尺</p>",
+          "answer": "C",
+          "explanation": "<p>尺規作圖的「尺」= 無刻度直尺（只畫線）；「規」= 圓規（轉移長度、畫弧）。不可使用量角器或三角板。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>作線段 PQ 的垂直平分線時，圓規的半徑應設定為？</p><p>A. 恰好等於 PQ 的長度</p><p>B. 小於 PQ 長度的一半</p><p>C. 大於 PQ 長度的一半</p><p>D. 任意長度皆可</p>",
+          "answer": "C",
+          "explanation": "<p>半徑必須<strong>大於 PQ 的一半</strong>，兩弧才能相交產生交點。若半徑 ≤ PQ/2，兩弧無法交叉，無法作出垂直平分線。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>作∠AOB 的角平分線，下列哪個步驟最正確？</p><p>A. 以 O 為圓心畫弧交 OA、OB 於 C、D，再以 C、D 為圓心取相同半徑畫弧，兩弧交點 E，連 OE</p><p>B. 直接用直尺量出 OA 與 OB 的中點，連線取中點</p><p>C. 以 A 為圓心，AO 為半徑畫弧交 OB</p><p>D. 用量角器量出∠AOB 後，畫出一半角度</p>",
+          "answer": "A",
+          "explanation": "<p>（A）是正確的作角平分線步驟：先在兩邊各取等距點 C、D，再以 C、D 為圓心等半徑畫弧，交點 E 與頂點 O 的連線即角平分線。（B）（C）（D）不符合尺規規則。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>用尺規可以作出 60°，其主要依據為？</p><p>A. 等腰三角形的性質</p><p>B. 等邊三角形每個內角均為 60°</p><p>C. 直角三角形的銳角</p><p>D. 鈍角三角形的特性</p>",
+          "answer": "B",
+          "explanation": "<p>以已知線段為邊作等邊三角形（三邊等長），即可用尺規完成，而等邊三角形每個內角 = 60°。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>下列哪個角度，<strong>無法</strong>單純用圓規和無刻度直尺作出？</p><p>A. 30°</p><p>B. 45°</p><p>C. 40°</p><p>D. 60°</p>",
+          "answer": "C",
+          "explanation": "<p>30° = 平分 60°；45° = 平分 90°；60° = 等邊三角形。<strong>40°</strong> 需三等分 120°，而三等分任意角已被證明無法用尺規完成，所以 40° 不可作出。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>P 是線段 AB 垂直平分線上的一點，已知 AB = 10，PA = 13，則 PB = ？</p><p>A. 10</p><p>B. 12</p><p>C. 13</p><p>D. 15</p>",
+          "answer": "C",
+          "explanation": "<p>垂直平分線上的點到兩端點等距，所以 PB = PA = <strong>13</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>下列哪一項操作在尺規作圖規則下是「允許」的？</p><p>A. 用直尺量出 5 公分並標記端點</p><p>B. 用量角器畫出 40°</p><p>C. 用圓規將已知線段的長度「轉移」到另一位置</p><p>D. 用三角板直接畫出垂線</p>",
+          "answer": "C",
+          "explanation": "<p>圓規可以「記住」一段長度並在其他地方重現（轉移長度），這是尺規作圖中圓規的核心功能。（A）需有刻度；（B）不能用量角器；（D）不能用三角板。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>要用尺規作一個等邊三角形，邊長為已知線段 AB，正確作法為？</p><p>A. 以 A 為圓心、AB 為半徑畫弧；以 B 為圓心、AB 為半徑畫弧，兩弧交點 C，連 AC、BC</p><p>B. 以 A 為圓心、AB/2 為半徑畫弧</p><p>C. 以 AB 中點為圓心、AB 為半徑畫圓</p><p>D. 任意取一點 C，使目測 AC ≈ BC ≈ AB</p>",
+          "answer": "A",
+          "explanation": "<p>以 A、B 各為圓心，均以 AB 長為半徑畫弧，兩弧的交點 C 距 A 和 B 均等於 AB，故 △ABC 三邊等長，為等邊三角形，每角 60°。答案（A）。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>P 是∠AOB 角平分線上一點，P 到 OA 的距離為 4，則 P 到 OB 的距離為？</p><p>A. 2</p><p>B. 4</p><p>C. 8</p><p>D. 無法確定</p>",
+          "answer": "B",
+          "explanation": "<p>角平分線上的點到角兩邊的距離相等，所以 P 到 OB 的距離也是 <strong>4</strong>。答案（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_2_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>關於尺規作圖，下列敘述何者正確？（多選）</p><p>A. 尺規作圖的「尺」不可用來量測長度，只能畫直線</p><p>B. 任意線段都可以用尺規作出它的垂直平分線</p><p>C. 用尺規可以三等分任意角</p><p>D. 若 P 在線段 AB 的垂直平分線上，則 PA = PB</p><p>E. 角平分線上的點到角兩邊的距離相等</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：尺只能畫線，長度轉移靠圓規。</p><p><strong>B ○</strong>：垂直平分線是尺規的基本作法之一，任意線段均可操作。</p><p><strong>C ╳</strong>：三等分任意角已被證明不可能用尺規完成。</p><p><strong>D ○</strong>：垂直平分線的基本性質。</p><p><strong>E ○</strong>：角平分線的基本性質。</p>"
+        },
+        {
+          "id": "g2b_ch3_2_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>下列哪些角度可以用尺規作出？（多選）</p><p>A. 60°</p><p>B. 90°</p><p>C. 30°</p><p>D. 40°</p><p>E. 45°</p>",
+          "answer": "ABCE",
+          "explanation": "<p><strong>A ○</strong>：作等邊三角形即得 60°。</p><p><strong>B ○</strong>：作垂直平分線即得 90°。</p><p><strong>C ○</strong>：將 60° 平分得 30°。</p><p><strong>D ╳</strong>：40° = 120°/3，需三等分 120°，尺規無法完成。</p><p><strong>E ○</strong>：將 90° 平分得 45°。</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "title": "國二下 3-3 三角形全等性質",
+  "summary": "<ul><li><strong>全等定義</strong>：兩個三角形完全重合，記作 △ABC ≅ △DEF（頂點順序代表對應關係）。對應邊相等、對應角相等，共 6 組元素。</li><li><strong>全等判別條件（5 種）</strong>：<br>① <strong>SSS</strong>（邊邊邊）：三組對應邊相等<br>② <strong>SAS</strong>（邊角邊）：兩組對應邊 + 其<strong>夾角</strong>相等<br>③ <strong>ASA</strong>（角邊角）：兩組對應角 + 其<strong>夾邊</strong>相等<br>④ <strong>AAS</strong>（角角邊）：兩組對應角 + 其中一角的<strong>對邊</strong>相等<br>⑤ <strong>RHS</strong>（斜邊直角邊）：直角三角形的斜邊與一股相等</li><li><strong>不能判定全等</strong>：AAA（只能確定相似）；SSA（兩邊一非夾角，可能作出兩種三角形）。</li><li><strong>使用全等</strong>：確認全等後，對應邊、對應角均相等，可直接寫出。</li></ul>",
+  "sections": [
+    {
+      "type": "true_false",
+      "name": "是非題",
+      "questions": [
+        {
+          "id": "g2b_ch3_3_q1",
+          "number": 1,
+          "type": "true_false",
+          "content": "<p>若兩個三角形的三個角對應相等，則這兩個三角形一定全等。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。三角相等（AAA）只能說明兩三角形<strong>相似</strong>，無法確保大小相同，故不一定全等。例：邊長 3-4-5 與 6-8-10 的直角三角形，角度相同但不全等。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q2",
+          "number": 2,
+          "type": "true_false",
+          "content": "<p>△ABC ≅ △DEF，則 AB = DE 且 ∠A = ∠D。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。△ABC ≅ △DEF 表示 A↔D、B↔E、C↔F，故對應邊 AB = DE，對應角 ∠A = ∠D。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q3",
+          "number": 3,
+          "type": "true_false",
+          "content": "<p>SAS 判別條件是指：兩組對應邊相等，以及其中一邊的<strong>對角</strong>相等。</p>",
+          "answer": "╳",
+          "explanation": "<p>錯誤。SAS 要求兩邊及其<strong>夾角</strong>（即兩邊共同頂點的角）相等，不是任意一邊的對角。「兩邊一非夾角」（SSA）無法判定全等。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q4",
+          "number": 4,
+          "type": "true_false",
+          "content": "<p>兩個直角三角形，若斜邊與一股（直角邊）對應相等，則兩三角形全等（RHS）。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。RHS（直角-斜邊-股）是直角三角形專用的全等條件：直角相同、斜邊相等、一股相等，即可確定兩三角形全等。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q5",
+          "number": 5,
+          "type": "true_false",
+          "content": "<p>△ABC ≅ △DEF，則 BC = EF。</p>",
+          "answer": "○",
+          "explanation": "<p>正確。對應關係 A↔D、B↔E、C↔F，故 BC（B 到 C）對應 EF（E 到 F），兩者相等。</p>"
+        }
+      ]
+    },
+    {
+      "type": "single_choice",
+      "name": "單選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_3_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>下列哪個條件<strong>不能</strong>判定兩三角形全等？</p><p>A. 三組邊對應相等（SSS）</p><p>B. 兩邊及夾角對應相等（SAS）</p><p>C. 三組角對應相等（AAA）</p><p>D. 兩角及夾邊對應相等（ASA）</p>",
+          "answer": "C",
+          "explanation": "<p>AAA 只能判定兩三角形<strong>相似</strong>，不能判定全等（大小可能不同）。SSS、SAS、ASA 均為合法的全等條件。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>△ABC 與 △DEF 中，已知 AB = DE、BC = EF、∠B = ∠E，則全等依據為？</p><p>A. SSS</p><p>B. SAS</p><p>C. ASA</p><p>D. AAS</p>",
+          "answer": "B",
+          "explanation": "<p>AB = DE（邊）、∠B = ∠E（夾角，夾在 AB 與 BC 之間）、BC = EF（邊），符合<strong>邊-角-邊（SAS）</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>△ABC 與 △DEF 中，已知 ∠A = ∠D、∠B = ∠E、AB = DE，則全等依據為？</p><p>A. SSS</p><p>B. SAS</p><p>C. ASA</p><p>D. AAS</p>",
+          "answer": "C",
+          "explanation": "<p>∠A = ∠D（角）、AB = DE（AB 是 ∠A 與 ∠B 的夾邊）、∠B = ∠E（角），符合<strong>角-邊-角（ASA）</strong>。答案（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>△ABC 與 △DEF 中，已知 ∠A = ∠D、∠B = ∠E、BC = EF，則全等依據為？</p><p>A. SSS</p><p>B. SAS</p><p>C. ASA</p><p>D. AAS</p>",
+          "answer": "D",
+          "explanation": "<p>∠A = ∠D、∠B = ∠E（兩角），BC = EF（BC 是 ∠A 的對邊，EF 是 ∠D 的對邊，非夾邊），符合<strong>角-角-邊（AAS）</strong>。答案（D）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>△ABC ≅ △PQR，已知 ∠A = 50°、∠Q = 70°，求∠C = ？</p><p>A. 50°</p><p>B. 60°</p><p>C. 70°</p><p>D. 80°</p>",
+          "answer": "B",
+          "explanation": "<p>△ABC ≅ △PQR 表示 A↔P、B↔Q、C↔R，故 ∠B = ∠Q = 70°。<br>∠C = 180° − ∠A − ∠B = 180° − 50° − 70° = <strong>60°</strong>（C）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>△ABC ≅ △DEF，AB = 7、BC = 9、AC = 11，求 EF = ？</p><p>A. 7</p><p>B. 9</p><p>C. 11</p><p>D. 無法確定</p>",
+          "answer": "B",
+          "explanation": "<p>對應關係 B↔E、C↔F，故 EF 對應 BC = <strong>9</strong>。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>兩直角三角形 △ABC（∠C = 90°）與 △DEF（∠F = 90°），已知斜邊 AB = DE、直角邊 BC = EF，判定全等的依據為？</p><p>A. SSS</p><p>B. SAS</p><p>C. AAS</p><p>D. RHS</p>",
+          "answer": "D",
+          "explanation": "<p>兩三角形均為直角三角形（直角相等），斜邊 AB = DE，一股 BC = EF，符合<strong>直角-斜邊-股（RHS）</strong>。答案（D）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>「兩邊及非夾角」（SSA）為什麼不能判定兩三角形全等？</p><p>A. 因為這樣的三角形不存在</p><p>B. 因為滿足 SSA 的三角形可能有兩種不同的形狀</p><p>C. 因為缺少一組邊的資料</p><p>D. 其實 SSA 可以判定全等，與 SAS 相同</p>",
+          "answer": "B",
+          "explanation": "<p>給定兩邊和非夾角時，有時可以畫出兩個不同的三角形（「二解」情況），無法唯一確定三角形的形狀，故 SSA 不能作為全等判別條件。答案（B）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>△ABC ≅ △DEF，若 ∠A = 40°、∠F = 80°，求 ∠B = ？</p><p>A. 40°</p><p>B. 60°</p><p>C. 80°</p><p>D. 100°</p>",
+          "answer": "B",
+          "explanation": "<p>對應關係 A↔D、B↔E、C↔F，故 ∠C = ∠F = 80°。<br>∠B = 180° − ∠A − ∠C = 180° − 40° − 80° = <strong>60°</strong>（B）。</p>"
+        }
+      ]
+    },
+    {
+      "type": "multi_choice",
+      "name": "多選題",
+      "questions": [
+        {
+          "id": "g2b_ch3_3_q15",
+          "number": 15,
+          "type": "multi_choice",
+          "content": "<p>下列哪些條件可以判定兩個三角形全等？（多選）</p><p>A. 三組邊對應相等（SSS）</p><p>B. 三組角對應相等（AAA）</p><p>C. 兩邊及夾角對應相等（SAS）</p><p>D. 兩邊及非夾角對應相等（SSA）</p><p>E. 兩角及夾邊對應相等（ASA）</p>",
+          "answer": "ACE",
+          "explanation": "<p><strong>A ○</strong>：SSS 合法。</p><p><strong>B ╳</strong>：AAA 只能判相似，不能判全等。</p><p><strong>C ○</strong>：SAS 合法。</p><p><strong>D ╳</strong>：SSA 可能對應兩種不同三角形，不能判全等。</p><p><strong>E ○</strong>：ASA 合法。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q16",
+          "number": 16,
+          "type": "multi_choice",
+          "content": "<p>△ABC ≅ △DEF，下列敘述何者正確？（多選）</p><p>A. AB = DE</p><p>B. ∠A = ∠D</p><p>C. BC = DF</p><p>D. AC = DF</p><p>E. ∠B = ∠E</p>",
+          "answer": "ABDE",
+          "explanation": "<p>對應關係：A↔D、B↔E、C↔F。</p><p><strong>A ○</strong>：AB = DE（A↔D，B↔E）。</p><p><strong>B ○</strong>：∠A = ∠D。</p><p><strong>C ╳</strong>：BC 對應 EF（不是 DF），BC = EF 才對。</p><p><strong>D ○</strong>：AC = DF（A↔D，C↔F）。</p><p><strong>E ○</strong>：∠B = ∠E。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q17",
+          "number": 17,
+          "type": "multi_choice",
+          "content": "<p>在 △ABC 與 △DEF 中，下列哪些條件組合可以判定兩三角形全等？（多選）</p><p>A. AB = DE、BC = EF、∠B = ∠E</p><p>B. ∠A = ∠D、∠B = ∠E、BC = EF</p><p>C. AB = DE、∠A = ∠D、BC = EF</p><p>D. ∠A = ∠D、AB = DE、∠B = ∠E</p><p>E. AB = DE、BC = EF、∠A = ∠D</p>",
+          "answer": "ABD",
+          "explanation": "<p><strong>A ○</strong>：AB = DE（邊）、∠B = ∠E（夾角）、BC = EF（邊），符合 <strong>SAS</strong>。</p><p><strong>B ○</strong>：∠A = ∠D、∠B = ∠E（兩角），BC = EF（BC 是 ∠A 的對邊），符合 <strong>AAS</strong>。</p><p><strong>C ╳</strong>：AB = DE、BC = EF（兩邊），∠A = ∠D（非夾角，夾角應是 ∠B），屬於 SSA，<strong>無法判全等</strong>。</p><p><strong>D ○</strong>：∠A = ∠D（角）、AB = DE（夾邊）、∠B = ∠E（角），符合 <strong>ASA</strong>。</p><p><strong>E ╳</strong>：AB = DE、BC = EF（兩邊），∠A = ∠D（∠A 不是 AB 與 BC 的夾角，夾角是 ∠B），屬於 SSA，<strong>無法判全等</strong>。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q18",
+          "number": 18,
+          "type": "multi_choice",
+          "content": "<p>△ABC ≅ △PQR，已知 AB = 6、BC = 8、∠B = 90°、∠A = 37°，下列敘述何者正確？（多選）</p><p>A. PQ = 6</p><p>B. QR = 8</p><p>C. PR = 10</p><p>D. ∠Q = 90°</p><p>E. ∠P = 53°</p>",
+          "answer": "ABCD",
+          "explanation": "<p>對應關係 A↔P、B↔Q、C↔R。∠C = 180° − 90° − 37° = 53°。</p><p><strong>A ○</strong>：PQ = AB = 6。</p><p><strong>B ○</strong>：QR = BC = 8。</p><p><strong>C ○</strong>：PR = AC = √(6² + 8²) = √100 = <strong>10</strong>（畢氏定理）。</p><p><strong>D ○</strong>：∠Q = ∠B = 90°。</p><p><strong>E ╳</strong>：∠P = ∠A = 37°（不是 53°，53° 是 ∠C = ∠R）。</p>"
+        },
+        {
+          "id": "g2b_ch3_3_q19",
+          "number": 19,
+          "type": "multi_choice",
+          "content": "<p>關於全等三角形，以下何者正確？（多選）</p><p>A. 全等三角形的周長相等</p><p>B. 全等三角形的面積相等</p><p>C. 兩個三角形面積相等，則一定全等</p><p>D. 兩個直角三角形若斜邊相等且一股相等，則一定全等（RHS）</p><p>E. 全等的兩三角形一定相似</p>",
+          "answer": "ABDE",
+          "explanation": "<p><strong>A ○</strong>：全等 → 六組對應邊角均相等 → 周長（三邊之和）相等。</p><p><strong>B ○</strong>：全等 → 底與高均相等 → 面積相等。</p><p><strong>C ╳</strong>：面積相等不代表形狀相同。例：底 2 高 6 的三角形與底 3 高 4 的三角形面積同為 6，但不全等。</p><p><strong>D ○</strong>：RHS 是直角三角形的合法全等條件：直角相等、斜邊相等、一股相等 → 全等。</p><p><strong>E ○</strong>：全等是相似的特例（比例為 1:1），故全等三角形一定相似。</p>"
+        }
+      ]
+    }
+  ]
+}
