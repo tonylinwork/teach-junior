@@ -1,0 +1,522 @@
+{
+  "image_0f32cb1c679f8f.png": {
+    "classification": "formula",
+    "latex": "H(0,2,6)",
+    "note": "點 H 的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"H(0,2,6)\",\"note\":\"點 H 的座標\"}\n",
+    "ts": "2026-05-05T11:14:34.076878+00:00",
+    "engine": "codex"
+  },
+  "image_0598c63c3246fe.png": {
+    "classification": "formula",
+    "latex": "\\overline{NP}=\\sqrt{0+2^2+(-1)^2}=\\sqrt{5}",
+    "note": "線段NP長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{NP}=\\\\sqrt{0+2^2+(-1)^2}=\\\\sqrt{5}\",\"note\":\"線段NP長度公式\"}\n",
+    "ts": "2026-05-05T11:14:34.503152+00:00",
+    "engine": "codex"
+  },
+  "image_103c8769a5a4d2.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle MNP=\\frac{1}{4}",
+    "note": "餘弦角度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\angle MNP=\\\\frac{1}{4}\",\"note\":\"餘弦角度等式\"}\n",
+    "ts": "2026-05-05T11:14:35.692929+00:00",
+    "engine": "codex"
+  },
+  "image_148435c40ac051.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}",
+    "note": "根號三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\",\"note\":\"根號三\"}\n",
+    "ts": "2026-05-05T11:14:38.114849+00:00",
+    "engine": "codex"
+  },
+  "image_122476db2c0ab5.png": {
+    "classification": "formula",
+    "latex": "\\overline{HQ}:\\overline{QD}=2:1",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{HQ}:\\\\overline{QD}=2:1\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-05-05T11:14:38.810368+00:00",
+    "engine": "codex"
+  },
+  "image_1573e9d874258e.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{185}",
+    "note": "平方根185",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{185}\",\"note\":\"平方根185\"}\n",
+    "ts": "2026-05-05T11:14:40.400052+00:00",
+    "engine": "codex"
+  },
+  "image_1511fde1e46b5d.png": {
+    "classification": "formula",
+    "latex": "G(2,2,6)",
+    "note": "點G的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"G(2,2,6)\",\"note\":\"點G的座標\"}\n",
+    "ts": "2026-05-05T11:14:40.948625+00:00",
+    "engine": "codex"
+  },
+  "image_1a527e3d394032.png": {
+    "classification": "formula",
+    "latex": "\\overline{CG}",
+    "note": "線段CG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CG}\",\"note\":\"線段CG\"}\n",
+    "ts": "2026-05-05T11:14:43.554697+00:00",
+    "engine": "codex"
+  },
+  "image_17aa36b68bb40f.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=\\sqrt{4^2+(8-5)^2}=5",
+    "note": "線段AB長度計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=\\\\sqrt{4^2+(8-5)^2}=5\",\"note\":\"線段AB長度計算式\"}\n",
+    "ts": "2026-05-05T11:14:44.549595+00:00",
+    "engine": "codex"
+  },
+  "image_1b277f2b1925b4.png": {
+    "classification": "formula",
+    "latex": "\\overline{PA}+\\overline{PB}",
+    "note": "線段長度和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PA}+\\\\overline{PB}\",\"note\":\"線段長度和\"}\n",
+    "ts": "2026-05-05T11:14:45.212156+00:00",
+    "engine": "codex"
+  },
+  "image_1b703ff0a1c14c.png": {
+    "classification": "formula",
+    "latex": "\\overline{FN}:\\overline{NB}=1:2",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{FN}:\\\\overline{NB}=1:2\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-05-05T11:14:46.150403+00:00",
+    "engine": "codex"
+  },
+  "image_1f2c2fb2073d67.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}",
+    "note": "向量AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\",\"note\":\"向量AB\"}\n",
+    "ts": "2026-05-05T11:14:48.915832+00:00",
+    "engine": "codex"
+  },
+  "image_238f558fdc9039.png": {
+    "classification": "formula",
+    "latex": "P(x,y,0)",
+    "note": "點P的三維座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(x,y,0)\",\"note\":\"點P的三維座標表示\"}\n",
+    "ts": "2026-05-05T11:14:50.111023+00:00",
+    "engine": "codex"
+  },
+  "image_261147da8542c8.png": {
+    "classification": "formula",
+    "latex": "\\overline{OP}^{2}",
+    "note": "線段OP長度的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OP}^{2}\",\"note\":\"線段OP長度的平方\"}\n",
+    "ts": "2026-05-05T11:14:50.789463+00:00",
+    "engine": "codex"
+  },
+  "image_2d8e238812434a.png": {
+    "classification": "formula",
+    "latex": "N(2,0,4)",
+    "note": "點N的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N(2,0,4)\",\"note\":\"點N的三維座標\"}\n",
+    "ts": "2026-05-05T11:14:53.965286+00:00",
+    "engine": "codex"
+  },
+  "image_2ca71e0cc7323c.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{AB}\\right|",
+    "note": "線段AB的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{AB}\\\\right|\",\"note\":\"線段AB的長度\"}\n",
+    "ts": "2026-05-05T11:14:54.705864+00:00",
+    "engine": "codex"
+  },
+  "image_3390df319bb8e1.png": {
+    "classification": "formula",
+    "latex": "\\overline{PM}=\\sqrt{(-2)^2+(-2)^2+0}=2\\sqrt{2}",
+    "note": "線段 PM 長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PM}=\\\\sqrt{(-2)^2+(-2)^2+0}=2\\\\sqrt{2}\",\"note\":\"線段 PM 長度計算\"}\n",
+    "ts": "2026-05-05T11:14:58.648406+00:00",
+    "engine": "codex"
+  },
+  "image_318e84d9288e03.png": {
+    "classification": "formula",
+    "latex": "MNPQ",
+    "note": "四個點的標記",
+    "raw": "{\"class\":\"formula\",\"latex\":\"MNPQ\",\"note\":\"四個點的標記\"}\n",
+    "ts": "2026-05-05T11:14:58.797948+00:00",
+    "engine": "codex"
+  },
+  "image_3e52055e08b208.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-05-05T11:14:59.456839+00:00",
+    "engine": "codex"
+  },
+  "image_3c136dbda82e40.png": {
+    "classification": "formula",
+    "latex": "F(2,0,6)",
+    "note": "點F的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"F(2,0,6)\",\"note\":\"點F的座標\"}\n",
+    "ts": "2026-05-05T11:15:00.203154+00:00",
+    "engine": "codex"
+  },
+  "image_40786f04a85f0f.png": {
+    "classification": "formula",
+    "latex": "M(0,0,3)",
+    "note": "點M的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M(0,0,3)\",\"note\":\"點M的三維座標\"}\n",
+    "ts": "2026-05-05T11:15:03.520416+00:00",
+    "engine": "codex"
+  },
+  "image_421b5b1a27e49c.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{AP}-\\overline{BP}\\right|",
+    "note": "線段長差的絕對值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{AP}-\\\\overline{BP}\\\\right|\",\"note\":\"線段長差的絕對值\"}\n",
+    "ts": "2026-05-05T11:15:05.514209+00:00",
+    "engine": "codex"
+  },
+  "image_4f94205d21df7c.png": {
+    "classification": "formula",
+    "latex": "\\overline{PA}+\\overline{PB}\\ge \\overline{AB}=\\sqrt{9^2+8^2+12^2}=\\sqrt{289}=17",
+    "note": "線段長度不等式與距離計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PA}+\\\\overline{PB}\\\\ge \\\\overline{AB}=\\\\sqrt{9^2+8^2+12^2}=\\\\sqrt{289}=17\",\"note\":\"線段長度不等式與距離計算\"}\n",
+    "ts": "2026-05-05T11:15:06.343815+00:00",
+    "engine": "codex"
+  },
+  "image_5022e8710a8c5e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE}=6",
+    "note": "線段AE長度等於6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AE}=6\",\"note\":\"線段AE長度等於6\"}\n",
+    "ts": "2026-05-05T11:15:09.410399+00:00",
+    "engine": "codex"
+  },
+  "image_506a7eddecfe5a.png": {
+    "classification": "formula",
+    "latex": "\\overline{yz}",
+    "note": "線段 yz",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{yz}\",\"note\":\"線段 yz\"}\n",
+    "ts": "2026-05-05T11:15:11.287785+00:00",
+    "engine": "codex"
+  },
+  "image_55f29c4c5383b9.png": {
+    "classification": "formula",
+    "latex": "\\overline{FN}:\\overline{NB}=1:2",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{FN}:\\\\overline{NB}=1:2\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-05-05T11:15:11.450997+00:00",
+    "engine": "codex"
+  },
+  "image_5c3a5a72bb08ac.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數 A\"}\n",
+    "ts": "2026-05-05T11:15:14.596724+00:00",
+    "engine": "codex"
+  },
+  "image_5a59d80b91b705.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{(x-4)^2+(y-5)^2+25}+\\sqrt{(x+5)^2+(y+3)^2+49}",
+    "note": "兩個根號相加的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{(x-4)^2+(y-5)^2+25}+\\\\sqrt{(x+5)^2+(y+3)^2+49}\",\"note\":\"兩個根號相加的代數式\"}\n",
+    "ts": "2026-05-05T11:15:15.756670+00:00",
+    "engine": "codex"
+  },
+  "image_70227247c9b5e4.png": {
+    "classification": "formula",
+    "latex": "xy",
+    "note": "兩個變數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"xy\",\"note\":\"兩個變數相乘\"}\n",
+    "ts": "2026-05-05T11:15:16.364951+00:00",
+    "engine": "codex"
+  },
+  "image_60690c593046d5.png": {
+    "classification": "formula",
+    "latex": "=\\overline{A''B}=\\sqrt{13^2+4^2}=\\sqrt{185}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\overline{A''B}=\\\\sqrt{13^2+4^2}=\\\\sqrt{185}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T11:15:20.441841+00:00",
+    "engine": "codex"
+  },
+  "image_71a995ae4bece6.png": {
+    "classification": "formula",
+    "latex": "ABCD-EFGH",
+    "note": "字母代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABCD-EFGH\",\"note\":\"字母代數式\"}\n",
+    "ts": "2026-05-05T11:15:20.802323+00:00",
+    "engine": "codex"
+  },
+  "image_727bec00b5c018.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何長方體示意圖，含點線與標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何長方體示意圖，含點線與標記\"}\n",
+    "ts": "2026-05-05T11:15:21.057757+00:00",
+    "engine": "codex"
+  },
+  "image_753f590d7d1f07.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 5 \\le \\left|\\overrightarrow{AB}\\right| \\le 13",
+    "note": "向量AB長度範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 5 \\\\le \\\\left|\\\\overrightarrow{AB}\\\\right| \\\\le 13\",\"note\":\"向量AB長度範圍\"}\n",
+    "ts": "2026-05-05T11:15:24.455900+00:00",
+    "engine": "codex"
+  },
+  "image_7dd8c740efb795.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{5}",
+    "note": "平方根五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{5}\",\"note\":\"平方根五\"}\n",
+    "ts": "2026-05-05T11:15:25.451442+00:00",
+    "engine": "codex"
+  },
+  "image_7e009efe4e7de6.png": {
+    "classification": "formula",
+    "latex": "C(2,2,0)",
+    "note": "點座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C(2,2,0)\",\"note\":\"點座標表示\"}\n",
+    "ts": "2026-05-05T11:15:26.577859+00:00",
+    "engine": "codex"
+  },
+  "image_7e5fa6098f8312.png": {
+    "classification": "formula",
+    "latex": "D(0,2,0)",
+    "note": "點D的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D(0,2,0)\",\"note\":\"點D的三維座標\"}\n",
+    "ts": "2026-05-05T11:15:26.940749+00:00",
+    "engine": "codex"
+  },
+  "image_8074e4ff59d2f7.png": {
+    "classification": "formula",
+    "latex": "M",
+    "note": "單一變數 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\",\"note\":\"單一變數 M\"}\n",
+    "ts": "2026-05-05T11:15:29.755642+00:00",
+    "engine": "codex"
+  },
+  "image_82782f42a6867b.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}",
+    "note": "平方根2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\",\"note\":\"平方根2\"}\n",
+    "ts": "2026-05-05T11:15:31.200651+00:00",
+    "engine": "codex"
+  },
+  "image_803b0b17526039.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle MNP = \\frac{(\\sqrt{5})^2+(\\sqrt{5})^2-(2\\sqrt{2})^2}{2\\times\\sqrt{5}\\times\\sqrt{5}}=\\frac{2}{10}=\\frac{1}{5}",
+    "note": "餘弦定理計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\angle MNP = \\\\frac{(\\\\sqrt{5})^2+(\\\\sqrt{5})^2-(2\\\\sqrt{2})^2}{2\\\\times\\\\sqrt{5}\\\\times\\\\sqrt{5}}=\\\\frac{2}{10}=\\\\frac{1}{5}\",\"note\":\"餘弦定理計算式\"}\n",
+    "ts": "2026-05-05T11:15:34.245000+00:00",
+    "engine": "codex"
+  },
+  "image_97985e6f1c05d9.png": {
+    "classification": "formula",
+    "latex": "\\overline{PM}=2\\sqrt{2}",
+    "note": "線段PM長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PM}=2\\\\sqrt{2}\",\"note\":\"線段PM長度公式\"}\n",
+    "ts": "2026-05-05T11:15:38.455174+00:00",
+    "engine": "codex"
+  },
+  "image_8df03d8fb856b7.png": {
+    "classification": "formula",
+    "latex": "MNPQ",
+    "note": "點名標記",
+    "raw": "{\"class\":\"formula\",\"latex\":\"MNPQ\",\"note\":\"點名標記\"}\n",
+    "ts": "2026-05-05T11:15:39.982868+00:00",
+    "engine": "codex"
+  },
+  "image_94b3dd5f83efb5.png": {
+    "classification": "formula",
+    "latex": "\\overline{HQ}:\\overline{QD}=2:1",
+    "note": "線段長度比",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{HQ}:\\\\overline{QD}=2:1\",\"note\":\"線段長度比\"}\n",
+    "ts": "2026-05-05T11:15:40.896150+00:00",
+    "engine": "codex"
+  },
+  "image_9ab01de6c6c062.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow x^2+y^2=25",
+    "note": "代數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow x^2+y^2=25\",\"note\":\"代數方程式\"}\n",
+    "ts": "2026-05-05T11:15:43.111662+00:00",
+    "engine": "codex"
+  },
+  "image_9b35e6a47d9728.png": {
+    "classification": "formula",
+    "latex": "\\overline{OP}",
+    "note": "線段OP",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OP}\",\"note\":\"線段OP\"}\n",
+    "ts": "2026-05-05T11:15:43.492346+00:00",
+    "engine": "codex"
+  },
+  "image_a5e2ea6dcf57c7.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=2",
+    "note": "線段AB長度等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=2\",\"note\":\"線段AB長度等於2\"}\n",
+    "ts": "2026-05-05T11:15:45.782067+00:00",
+    "engine": "codex"
+  },
+  "image_b6399e1881f42e.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-05-05T11:15:48.111553+00:00",
+    "engine": "codex"
+  },
+  "image_b6eb276d1afc1f.png": {
+    "classification": "formula",
+    "latex": "B(-5,-3,-7)",
+    "note": "三維座標點B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(-5,-3,-7)\",\"note\":\"三維座標點B\"}\n",
+    "ts": "2026-05-05T11:15:48.535497+00:00",
+    "engine": "codex"
+  },
+  "image_ad1bc79141283c.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 25 \\le \\left|\\overrightarrow{AB}\\right|^2 \\le 169",
+    "note": "向量AB長度平方的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 25 \\\\le \\\\left|\\\\overrightarrow{AB}\\\\right|^2 \\\\le 169\",\"note\":\"向量AB長度平方的不等式\"}\n",
+    "ts": "2026-05-05T11:15:49.363292+00:00",
+    "engine": "codex"
+  },
+  "image_c0bb76f48e5fa4.png": {
+    "classification": "formula",
+    "latex": "\\overline{MN}=\\sqrt{6}",
+    "note": "線段MN長為根號6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{MN}=\\\\sqrt{6}\",\"note\":\"線段MN長為根號6\"}\n",
+    "ts": "2026-05-05T11:15:50.458840+00:00",
+    "engine": "codex"
+  },
+  "image_c867ed19229a05.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=2",
+    "note": "線段AD長度為2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=2\",\"note\":\"線段AD長度為2\"}\n",
+    "ts": "2026-05-05T11:15:54.425893+00:00",
+    "engine": "codex"
+  },
+  "image_c198abc7352fc6.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何長方體示意圖，含座標軸與點標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何長方體示意圖，含座標軸與點標記\"}\n",
+    "ts": "2026-05-05T11:15:54.986025+00:00",
+    "engine": "codex"
+  },
+  "image_cd65a0a7a69763.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}+\\overline{BP}",
+    "note": "線段長度和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}+\\\\overline{BP}\",\"note\":\"線段長度和\"}\n",
+    "ts": "2026-05-05T11:15:55.772025+00:00",
+    "engine": "codex"
+  },
+  "image_c4db292290042f.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE}",
+    "note": "線段 AE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AE}\",\"note\":\"線段 AE\"}\n",
+    "ts": "2026-05-05T11:15:55.823364+00:00",
+    "engine": "codex"
+  },
+  "image_d8102180ee7b99.png": {
+    "classification": "formula",
+    "latex": "A(0,0,0)",
+    "note": "點 A 的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(0,0,0)\",\"note\":\"點 A 的三維座標\"}\n",
+    "ts": "2026-05-05T11:15:59.116879+00:00",
+    "engine": "codex"
+  },
+  "image_dd9c53758b73a7.png": {
+    "classification": "formula",
+    "latex": "\\overline{MN}=\\sqrt{2^2+0+1^2}=\\sqrt{5}",
+    "note": "線段MN長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{MN}=\\\\sqrt{2^2+0+1^2}=\\\\sqrt{5}\",\"note\":\"線段MN長度公式\"}\n",
+    "ts": "2026-05-05T11:16:00.386016+00:00",
+    "engine": "codex"
+  },
+  "image_e4eff38632fefb.png": {
+    "classification": "formula",
+    "latex": "P(2,2,3)",
+    "note": "排列符號或函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(2,2,3)\",\"note\":\"排列符號或函數記號\"}\n",
+    "ts": "2026-05-05T11:16:01.449382+00:00",
+    "engine": "codex"
+  },
+  "image_dded848ec6732d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}=\\overline{BP}",
+    "note": "線段AP等於線段BP",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}=\\\\overline{BP}\",\"note\":\"線段AP等於線段BP\"}\n",
+    "ts": "2026-05-05T11:16:01.973157+00:00",
+    "engine": "codex"
+  },
+  "image_e72876ca3178b3.png": {
+    "classification": "formula",
+    "latex": "A(4,5,5)",
+    "note": "點A座標或三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(4,5,5)\",\"note\":\"點A座標或三元組\"}\n",
+    "ts": "2026-05-05T11:16:04.061580+00:00",
+    "engine": "codex"
+  },
+  "image_e72f27b445a537.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-05-05T11:16:04.342992+00:00",
+    "engine": "codex"
+  },
+  "image_ec544fdd040054.png": {
+    "classification": "formula",
+    "latex": "E(0,0,6)",
+    "note": "點E的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E(0,0,6)\",\"note\":\"點E的三維座標\"}\n",
+    "ts": "2026-05-05T11:16:07.133798+00:00",
+    "engine": "codex"
+  },
+  "image_e874e4054e2c9a.png": {
+    "classification": "formula",
+    "latex": "x^2+y^2\\le x^2+y^2+z^2\\le x^2+2y^2+z^2",
+    "note": "連續不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2+y^2\\\\le x^2+y^2+z^2\\\\le x^2+2y^2+z^2\",\"note\":\"連續不等式\"}\n",
+    "ts": "2026-05-05T11:16:07.330925+00:00",
+    "engine": "codex"
+  },
+  "image_ef4abe26f3175a.png": {
+    "classification": "formula",
+    "latex": "B(2,0,0)",
+    "note": "點B的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(2,0,0)\",\"note\":\"點B的三維座標\"}\n",
+    "ts": "2026-05-05T11:16:09.356064+00:00",
+    "engine": "codex"
+  },
+  "image_ed38a91d0495c6.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow y^2+z^2=144",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow y^2+z^2=144\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T11:16:10.609263+00:00",
+    "engine": "codex"
+  },
+  "image_f07ea0014008e7.png": {
+    "classification": "formula",
+    "latex": "\\overline{A'B'}=4",
+    "note": "線段A'B'長度為4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{A'B'}=4\",\"note\":\"線段A'B'長度為4\"}\n",
+    "ts": "2026-05-05T11:16:12.523658+00:00",
+    "engine": "codex"
+  },
+  "image_fb764c5d5296f5.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=(x,y,z)",
+    "note": "向量AB的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=(x,y,z)\",\"note\":\"向量AB的座標表示\"}\n",
+    "ts": "2026-05-05T11:16:13.122591+00:00",
+    "engine": "codex"
+  }
+}

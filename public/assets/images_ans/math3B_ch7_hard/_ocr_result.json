@@ -1,0 +1,658 @@
+{
+  "image_004f8dfa815374.png": {
+    "classification": "formula",
+    "latex": "y=\\frac{1}{3}",
+    "note": "一次函數常數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\frac{1}{3}\",\"note\":\"一次函數常數式\"}\n",
+    "ts": "2026-05-05T11:08:33.509876+00:00",
+    "engine": "codex"
+  },
+  "image_03fe959b73b02a.png": {
+    "classification": "formula",
+    "latex": "4\\overrightarrow{a}\\cdot\\overrightarrow{b}=0",
+    "note": "向量內積等於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b}=0\",\"note\":\"向量內積等於零\"}\n",
+    "ts": "2026-05-05T11:08:34.558012+00:00",
+    "engine": "codex"
+  },
+  "image_01021edf788602.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}\\perp\\vec{b}",
+    "note": "向量a垂直向量b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\\\\perp\\\\vec{b}\",\"note\":\"向量a垂直向量b\"}\n",
+    "ts": "2026-05-05T11:08:35.000678+00:00",
+    "engine": "codex"
+  },
+  "image_02bd5bf53e5c61.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{a}\\perp\\overrightarrow{c}",
+    "note": "向量a垂直向量c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{a}\\\\perp\\\\overrightarrow{c}\",\"note\":\"向量a垂直向量c\"}\n",
+    "ts": "2026-05-05T11:08:35.974550+00:00",
+    "engine": "codex"
+  },
+  "image_0e008a888898b6.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{u}\\right|=\\frac{1}{2}\\left|\\overrightarrow{v}\\right|",
+    "note": "向量長度關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{u}\\\\right|=\\\\frac{1}{2}\\\\left|\\\\overrightarrow{v}\\\\right|\",\"note\":\"向量長度關係\"}\n",
+    "ts": "2026-05-05T11:08:47.808140+00:00",
+    "engine": "codex"
+  },
+  "image_06bcb50b56b337.png": {
+    "classification": "formula",
+    "latex": "|\\overrightarrow{a}|^2+|\\overrightarrow{b}|^2+2\\overrightarrow{a}\\cdot\\overrightarrow{b}=|\\overrightarrow{a}|^2+|\\overrightarrow{b}|^2-2\\overrightarrow{a}\\cdot\\overrightarrow{b}",
+    "note": "向量內積等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\overrightarrow{a}|^2+|\\\\overrightarrow{b}|^2+2\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b}=|\\\\overrightarrow{a}|^2+|\\\\overrightarrow{b}|^2-2\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b}\",\"note\":\"向量內積等式\"}\n",
+    "ts": "2026-05-05T11:08:48.688806+00:00",
+    "engine": "codex"
+  },
+  "image_04a427f11a3700.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\cdot\\overrightarrow{AP}=\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=3",
+    "note": "向量內積等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AP}=\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AC}=3\",\"note\":\"向量內積等式\"}\n",
+    "ts": "2026-05-05T11:08:50.287338+00:00",
+    "engine": "codex"
+  },
+  "image_062dfcaab1b8c8.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{a}\\right|=\\sqrt{17}",
+    "note": "含絕對值與根號的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{a}\\\\right|=\\\\sqrt{17}\",\"note\":\"含絕對值與根號的公式\"}\n",
+    "ts": "2026-05-05T11:08:54.030358+00:00",
+    "engine": "codex"
+  },
+  "image_0e7a0519e2c6d8.png": {
+    "classification": "formula",
+    "latex": "=\\frac{2^2+3^2-(\\sqrt{7})^2}{2}=3",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{2^2+3^2-(\\\\sqrt{7})^2}{2}=3\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-05T11:08:55.240256+00:00",
+    "engine": "codex"
+  },
+  "image_13efb15a07be41.png": {
+    "classification": "formula",
+    "latex": "\\vec{u}-\\vec{v}",
+    "note": "向量相減",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{u}-\\\\vec{v}\",\"note\":\"向量相減\"}\n",
+    "ts": "2026-05-05T11:08:56.416912+00:00",
+    "engine": "codex"
+  },
+  "image_14011c11615e44.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}\\cdot\\vec{b}=(2\\vec{u}+\\vec{v})(\\vec{u}+\\vec{v})=2\\lvert\\vec{u}\\rvert^2+3\\vec{u}\\cdot\\vec{v}+\\lvert\\vec{v}\\rvert^2=2\\times2^2+3\\times0+1^2=9",
+    "note": "向量內積展開計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\\\\cdot\\\\vec{b}=(2\\\\vec{u}+\\\\vec{v})(\\\\vec{u}+\\\\vec{v})=2\\\\lvert\\\\vec{u}\\\\rvert^2+3\\\\vec{u}\\\\cdot\\\\vec{v}+\\\\lvert\\\\vec{v}\\\\rvert^2=2\\\\times2^2+3\\\\times0+1^2=9\",\"note\":\"向量內積展開計算\"}\n",
+    "ts": "2026-05-05T11:08:58.597841+00:00",
+    "engine": "codex"
+  },
+  "image_3056586e8bfb63.png": {
+    "classification": "formula",
+    "latex": "30^\\circ",
+    "note": "角度30度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30^\\\\circ\",\"note\":\"角度30度\"}\n",
+    "ts": "2026-05-05T11:09:02.099767+00:00",
+    "engine": "codex"
+  },
+  "image_2ca48adecea4ba.png": {
+    "classification": "formula",
+    "latex": "\\vec{v}",
+    "note": "向量 v",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{v}\",\"note\":\"向量 v\"}\n",
+    "ts": "2026-05-05T11:09:02.797461+00:00",
+    "engine": "codex"
+  },
+  "image_3137cc05cb6ad3.png": {
+    "classification": "formula",
+    "latex": "\\overline{CA}=3",
+    "note": "線段CA長度為3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CA}=3\",\"note\":\"線段CA長度為3\"}\n",
+    "ts": "2026-05-05T11:09:04.191258+00:00",
+    "engine": "codex"
+  },
+  "image_193ed2aefa8284.png": {
+    "classification": "formula",
+    "latex": "(\\overrightarrow{a}\\cdot\\overrightarrow{b})^2=|\\overrightarrow{a}|^2|\\overrightarrow{b}|^2\\times\\cos^2\\theta\\leq|\\overrightarrow{a}||\\overrightarrow{b}|",
+    "note": "向量內積與夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b})^2=|\\\\overrightarrow{a}|^2|\\\\overrightarrow{b}|^2\\\\times\\\\cos^2\\\\theta\\\\leq|\\\\overrightarrow{a}||\\\\overrightarrow{b}|\",\"note\":\"向量內積與夾角餘弦公式\"}\n",
+    "ts": "2026-05-05T11:09:04.637407+00:00",
+    "engine": "codex"
+  },
+  "image_357b6455d0173f.png": {
+    "classification": "formula",
+    "latex": "|\\overrightarrow{a}+\\overrightarrow{b}|\\leq|\\overrightarrow{a}|+|\\overrightarrow{b}|",
+    "note": "向量三角不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\overrightarrow{a}+\\\\overrightarrow{b}|\\\\leq|\\\\overrightarrow{a}|+|\\\\overrightarrow{b}|\",\"note\":\"向量三角不等式\"}\n",
+    "ts": "2026-05-05T11:09:08.037160+00:00",
+    "engine": "codex"
+  },
+  "image_3d53f51b271b83.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=|\\overrightarrow{AB}||\\overrightarrow{AC}|\\cos\\angle BAC",
+    "note": "向量內積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AC}=|\\\\overrightarrow{AB}||\\\\overrightarrow{AC}|\\\\cos\\\\angle BAC\",\"note\":\"向量內積公式\"}\n",
+    "ts": "2026-05-05T11:09:09.482430+00:00",
+    "engine": "codex"
+  },
+  "image_46ace786a73038.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "向量加減與角度關係的幾何示意圖",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"向量加減與角度關係的幾何示意圖\"}\n",
+    "ts": "2026-05-05T11:09:10.121769+00:00",
+    "engine": "codex"
+  },
+  "image_4198e1486a4c12.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{b}\\parallel\\overrightarrow{c}",
+    "note": "向量b平行向量c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{b}\\\\parallel\\\\overrightarrow{c}\",\"note\":\"向量b平行向量c\"}\n",
+    "ts": "2026-05-05T11:09:12.279969+00:00",
+    "engine": "codex"
+  },
+  "image_48d821bcbf8b5f.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}\\cdot\\vec{b}=9",
+    "note": "向量內積等於9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\\\\cdot\\\\vec{b}=9\",\"note\":\"向量內積等於9\"}\n",
+    "ts": "2026-05-05T11:09:16.894662+00:00",
+    "engine": "codex"
+  },
+  "image_4ec4c8b76d26b1.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=\\left|\\overrightarrow{AB}\\right|\\left|\\overrightarrow{AC}\\right|\\cos\\angle BAC=\\overline{AB}\\cdot\\overline{AD}",
+    "note": "向量內積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AC}=\\\\left|\\\\overrightarrow{AB}\\\\right|\\\\left|\\\\overrightarrow{AC}\\\\right|\\\\cos\\\\angle BAC=\\\\overline{AB}\\\\cdot\\\\overline{AD}\",\"note\":\"向量內積公式\"}\n",
+    "ts": "2026-05-05T11:09:17.209912+00:00",
+    "engine": "codex"
+  },
+  "image_48027b5017d21e.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{v}\\right|=1",
+    "note": "向量長度等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{v}\\\\right|=1\",\"note\":\"向量長度等於1\"}\n",
+    "ts": "2026-05-05T11:09:19.014585+00:00",
+    "engine": "codex"
+  },
+  "image_55211212884a42.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{a}\\right|^{2}\\left|\\overrightarrow{b}\\right|^{2}",
+    "note": "向量長度平方的乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{a}\\\\right|^{2}\\\\left|\\\\overrightarrow{b}\\\\right|^{2}\",\"note\":\"向量長度平方的乘積\"}\n",
+    "ts": "2026-05-05T11:09:19.379549+00:00",
+    "engine": "codex"
+  },
+  "image_5988784df5f611.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=2",
+    "note": "線段AB長度等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=2\",\"note\":\"線段AB長度等於2\"}\n",
+    "ts": "2026-05-05T11:09:22.804553+00:00",
+    "engine": "codex"
+  },
+  "image_56ec07dda4cf9c.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a}\\cdot\\vec{b})\\vec{c}=t\\vec{c}",
+    "note": "向量內積與純量倍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a}\\\\cdot\\\\vec{b})\\\\vec{c}=t\\\\vec{c}\",\"note\":\"向量內積與純量倍\"}\n",
+    "ts": "2026-05-05T11:09:23.206700+00:00",
+    "engine": "codex"
+  },
+  "image_5e50b6b2c86b92.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}\\cdot\\overline{AP}=3",
+    "note": "線段長度乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\\\\cdot\\\\overline{AP}=3\",\"note\":\"線段長度乘積公式\"}\n",
+    "ts": "2026-05-05T11:09:24.842606+00:00",
+    "engine": "codex"
+  },
+  "image_5c312d63674c25.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{b}\\right|=\\sqrt{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{b}\\\\right|=\\\\sqrt{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T11:09:25.349865+00:00",
+    "engine": "codex"
+  },
+  "image_61e9f378c549ab.png": {
+    "classification": "formula",
+    "latex": "120^\\circ+a",
+    "note": "角度與變數相加的式子",
+    "raw": "{\"class\":\"formula\",\"latex\":\"120^\\\\circ+a\",\"note\":\"角度與變數相加的式子\"}\n",
+    "ts": "2026-05-05T11:09:28.312470+00:00",
+    "engine": "codex"
+  },
+  "image_5f67599d8c9118.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a}\\cdot\\vec{b})\\vec{c}=\\vec{a}(\\vec{b}\\cdot\\vec{c})",
+    "note": "向量內積與純量乘法式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a}\\\\cdot\\\\vec{b})\\\\vec{c}=\\\\vec{a}(\\\\vec{b}\\\\cdot\\\\vec{c})\",\"note\":\"向量內積與純量乘法式\"}\n",
+    "ts": "2026-05-05T11:09:30.625288+00:00",
+    "engine": "codex"
+  },
+  "image_6de2541dfcae17.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b}\",\"note\":\"向量b\"}\n",
+    "ts": "2026-05-05T11:09:33.725628+00:00",
+    "engine": "codex"
+  },
+  "image_6adde70e33d5c3.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\overrightarrow{AB}\\right|\\left|\\overrightarrow{AC}\\right|\\frac{\\left|\\overrightarrow{AB}\\right|^2+\\left|\\overrightarrow{AC}\\right|^2-\\left|\\overrightarrow{BC}\\right|^2}{2\\left|\\overrightarrow{AB}\\right|\\left|\\overrightarrow{AC}\\right|}",
+    "note": "向量長度與餘弦定理代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\overrightarrow{AB}\\\\right|\\\\left|\\\\overrightarrow{AC}\\\\right|\\\\frac{\\\\left|\\\\overrightarrow{AB}\\\\right|^2+\\\\left|\\\\overrightarrow{AC}\\\\right|^2-\\\\left|\\\\overrightarrow{BC}\\\\right|^2}{2\\\\left|\\\\overrightarrow{AB}\\\\right|\\\\left|\\\\overrightarrow{AC}\\\\right|}\",\"note\":\"向量長度與餘弦定理代數式\"}\n",
+    "ts": "2026-05-05T11:09:35.153497+00:00",
+    "engine": "codex"
+  },
+  "image_729f6b1b019cac.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{u}-\\overrightarrow{v}\\right|",
+    "note": "向量差的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{u}-\\\\overrightarrow{v}\\\\right|\",\"note\":\"向量差的長度\"}\n",
+    "ts": "2026-05-05T11:09:38.476419+00:00",
+    "engine": "codex"
+  },
+  "image_6f82930004bfc8.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow\\begin{cases}\\overrightarrow{AP}\\cdot\\overrightarrow{AB}=x|\\overrightarrow{AB}|^2+y\\overrightarrow{AB}\\cdot\\overrightarrow{AC}\\\\\\overrightarrow{AP}\\cdot\\overrightarrow{AC}=x\\overrightarrow{AB}\\cdot\\overrightarrow{AC}+y|\\overrightarrow{AC}|^2\\end{cases}\\Rightarrow\\begin{cases}3=4x+3y\\\\\\frac{9}{2}=3x+9y\\end{cases}",
+    "note": "向量內積方程組化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow\\\\begin{cases}\\\\overrightarrow{AP}\\\\cdot\\\\overrightarrow{AB}=x|\\\\overrightarrow{AB}|^2+y\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AC}\\\\\\\\\\\\overrightarrow{AP}\\\\cdot\\\\overrightarrow{AC}=x\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AC}+y|\\\\overrightarrow{AC}|^2\\\\end{cases}\\\\Rightarrow\\\\begin{cases}3=4x+3y\\\\\\\\\\\\frac{9}{2}=3x+9y\\\\end{cases}\",\"note\":\"向量內積方程組化簡\"}\n",
+    "ts": "2026-05-05T11:09:39.510001+00:00",
+    "engine": "codex"
+  },
+  "image_73f6ba861f952f.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{u}=\\overrightarrow{a}-\\overrightarrow{b}",
+    "note": "向量減法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{u}=\\\\overrightarrow{a}-\\\\overrightarrow{b}\",\"note\":\"向量減法公式\"}\n",
+    "ts": "2026-05-05T11:09:39.879312+00:00",
+    "engine": "codex"
+  },
+  "image_7587f1aa1ff0d2.png": {
+    "classification": "formula",
+    "latex": "\\alpha",
+    "note": "希臘字母 alpha",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\alpha\",\"note\":\"希臘字母 alpha\"}\n",
+    "ts": "2026-05-05T11:09:44.833945+00:00",
+    "engine": "codex"
+  },
+  "image_7a9a565b57fe67.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{u}\\perp\\overrightarrow{v}",
+    "note": "向量u垂直向量v",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{u}\\\\perp\\\\overrightarrow{v}\",\"note\":\"向量u垂直向量v\"}\n",
+    "ts": "2026-05-05T11:09:46.018020+00:00",
+    "engine": "codex"
+  },
+  "image_7be5d3b5e0f762.png": {
+    "classification": "formula",
+    "latex": "\\vec{v}=-\\vec{a}+2\\vec{b}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{v}=-\\\\vec{a}+2\\\\vec{b}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T11:09:47.014974+00:00",
+    "engine": "codex"
+  },
+  "image_7a0dc6436ed61b.png": {
+    "classification": "formula",
+    "latex": "(\\overrightarrow{a}\\cdot\\overrightarrow{b})^2=|\\overrightarrow{a}|^2|\\overrightarrow{b}|^2\\cdot\\cos^2\\theta\\leq",
+    "note": "向量內積與夾角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b})^2=|\\\\overrightarrow{a}|^2|\\\\overrightarrow{b}|^2\\\\cdot\\\\cos^2\\\\theta\\\\leq\",\"note\":\"向量內積與夾角公式\"}\n",
+    "ts": "2026-05-05T11:09:47.676546+00:00",
+    "engine": "codex"
+  },
+  "image_811ce288d7f4fd.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "向量示意圖，標有\\vec a、\\vec b、\\vec c",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"向量示意圖，標有\\\\vec a、\\\\vec b、\\\\vec c\"}\n",
+    "ts": "2026-05-05T11:09:51.370649+00:00",
+    "engine": "codex"
+  },
+  "image_82cb4597d8d599.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}",
+    "note": "線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\",\"note\":\"線段CD\"}\n",
+    "ts": "2026-05-05T11:09:51.570738+00:00",
+    "engine": "codex"
+  },
+  "image_850ca47c7d18f2.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\cdot\\overrightarrow{AP}=\\left|\\overrightarrow{AB}\\right|\\left|\\overrightarrow{AP}\\right|\\cos\\angle DAP=\\overline{AB}\\cdot\\overline{AD}",
+    "note": "向量內積與投影長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\cdot\\\\overrightarrow{AP}=\\\\left|\\\\overrightarrow{AB}\\\\right|\\\\left|\\\\overrightarrow{AP}\\\\right|\\\\cos\\\\angle DAP=\\\\overline{AB}\\\\cdot\\\\overline{AD}\",\"note\":\"向量內積與投影長度公式\"}\n",
+    "ts": "2026-05-05T11:09:54.473570+00:00",
+    "engine": "codex"
+  },
+  "image_7f0d5e17631290.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{a}\\right|\\left|\\overrightarrow{b}\\right|\\leq\\left(\\overrightarrow{a}\\cdot\\overrightarrow{b}\\right)^2",
+    "note": "向量不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{a}\\\\right|\\\\left|\\\\overrightarrow{b}\\\\right|\\\\leq\\\\left(\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b}\\\\right)^2\",\"note\":\"向量不等式\"}\n",
+    "ts": "2026-05-05T11:09:55.322566+00:00",
+    "engine": "codex"
+  },
+  "image_888c9c38b39f14.png": {
+    "classification": "formula",
+    "latex": "\\overleftrightarrow{PE}",
+    "note": "直線PE的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overleftrightarrow{PE}\",\"note\":\"直線PE的記號\"}\n",
+    "ts": "2026-05-05T11:09:57.384530+00:00",
+    "engine": "codex"
+  },
+  "image_87c10a13cae3a0.png": {
+    "classification": "formula",
+    "latex": "\\left|\\vec{a}\\right|^2=\\left|2\\vec{u}+\\vec{v}\\right|^2=4\\left|\\vec{u}\\right|^2+4\\vec{u}\\cdot\\vec{v}+\\left|\\vec{v}\\right|^2=4\\times2^2+4\\times0+1^2=17",
+    "note": "向量長度平方計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\vec{a}\\\\right|^2=\\\\left|2\\\\vec{u}+\\\\vec{v}\\\\right|^2=4\\\\left|\\\\vec{u}\\\\right|^2+4\\\\vec{u}\\\\cdot\\\\vec{v}+\\\\left|\\\\vec{v}\\\\right|^2=4\\\\times2^2+4\\\\times0+1^2=17\",\"note\":\"向量長度平方計算\"}\n",
+    "ts": "2026-05-05T11:10:01.950429+00:00",
+    "engine": "codex"
+  },
+  "image_8af08d24067e9d.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{tc}=\\overrightarrow{t'a}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{tc}=\\\\overrightarrow{t'a}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T11:10:02.937362+00:00",
+    "engine": "codex"
+  },
+  "image_8b972d8a163b7d.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{u}+\\overrightarrow{v}\\right|",
+    "note": "向量和的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{u}+\\\\overrightarrow{v}\\\\right|\",\"note\":\"向量和的長度\"}\n",
+    "ts": "2026-05-05T11:10:04.550099+00:00",
+    "engine": "codex"
+  },
+  "image_8c0bccb9e8a12b.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}=\\vec{u}+\\vec{v}",
+    "note": "向量加法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b}=\\\\vec{u}+\\\\vec{v}\",\"note\":\"向量加法公式\"}\n",
+    "ts": "2026-05-05T11:10:05.103685+00:00",
+    "engine": "codex"
+  },
+  "image_905351d90c0459.png": {
+    "classification": "formula",
+    "latex": "\\vec{u}",
+    "note": "向量 u",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{u}\",\"note\":\"向量 u\"}\n",
+    "ts": "2026-05-05T11:10:07.401543+00:00",
+    "engine": "codex"
+  },
+  "image_8f464127c3651b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}",
+    "note": "線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}\",\"note\":\"線段AC\"}\n",
+    "ts": "2026-05-05T11:10:07.798000+00:00",
+    "engine": "codex"
+  },
+  "image_a3ae543faa3f44.png": {
+    "classification": "formula",
+    "latex": "60^\\circ",
+    "note": "角度標示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60^\\\\circ\",\"note\":\"角度標示\"}\n",
+    "ts": "2026-05-05T11:10:09.416654+00:00",
+    "engine": "codex"
+  },
+  "image_a249c37429ec99.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "黑色空白圖像",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"黑色空白圖像\"}\n",
+    "ts": "2026-05-05T11:10:10.045777+00:00",
+    "engine": "codex"
+  },
+  "image_a639136b160e16.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=\\sqrt{7}",
+    "note": "線段BC長度等於根號7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=\\\\sqrt{7}\",\"note\":\"線段BC長度等於根號7\"}\n",
+    "ts": "2026-05-05T11:10:12.264131+00:00",
+    "engine": "codex"
+  },
+  "image_b16e6e395c915f.png": {
+    "classification": "formula",
+    "latex": "\\vec{c}",
+    "note": "向量c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{c}\",\"note\":\"向量c\"}\n",
+    "ts": "2026-05-05T11:10:14.030419+00:00",
+    "engine": "codex"
+  },
+  "image_b3cff4a3f5695a.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{u}+\\overrightarrow{v}",
+    "note": "向量加法表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{u}+\\\\overrightarrow{v}\",\"note\":\"向量加法表示式\"}\n",
+    "ts": "2026-05-05T11:10:14.266363+00:00",
+    "engine": "codex"
+  },
+  "image_b6834322b9b046.png": {
+    "classification": "formula",
+    "latex": "4\\vec{a}\\cdot\\vec{b}=0",
+    "note": "向量內積等於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\\\\vec{a}\\\\cdot\\\\vec{b}=0\",\"note\":\"向量內積等於零\"}\n",
+    "ts": "2026-05-05T11:10:14.560006+00:00",
+    "engine": "codex"
+  },
+  "image_b7a8545cd64945.png": {
+    "classification": "formula",
+    "latex": "a \\parallel c",
+    "note": "平行關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\parallel c\",\"note\":\"平行關係式\"}\n",
+    "ts": "2026-05-05T11:10:19.078751+00:00",
+    "engine": "codex"
+  },
+  "image_be78630378e48f.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{1}{2}",
+    "note": "一元一次方程的解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{1}{2}\",\"note\":\"一元一次方程的解\"}\n",
+    "ts": "2026-05-05T11:10:19.207789+00:00",
+    "engine": "codex"
+  },
+  "image_c006231c537648.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{u}\\right|=2",
+    "note": "絕對值等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{u}\\\\right|=2\",\"note\":\"絕對值等於2\"}\n",
+    "ts": "2026-05-05T11:10:21.304237+00:00",
+    "engine": "codex"
+  },
+  "image_bbfb6698364844.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}\\vec{u}=\\vec{a}-\\vec{b}\\cdots\\text{(i)}\\\\\\vec{v}=-\\vec{a}+2\\vec{b}\\cdots\\text{(ii)}\\end{cases}",
+    "note": "向量聯立式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}\\\\vec{u}=\\\\vec{a}-\\\\vec{b}\\\\cdots\\\\text{(i)}\\\\\\\\\\\\vec{v}=-\\\\vec{a}+2\\\\vec{b}\\\\cdots\\\\text{(ii)}\\\\end{cases}\",\"note\":\"向量聯立式\"}\n",
+    "ts": "2026-05-05T11:10:22.156012+00:00",
+    "engine": "codex"
+  },
+  "image_c28aa67794f140.png": {
+    "classification": "formula",
+    "latex": "90^\\circ",
+    "note": "角度90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"90^\\\\circ\",\"note\":\"角度90度\"}\n",
+    "ts": "2026-05-05T11:10:24.010127+00:00",
+    "engine": "codex"
+  },
+  "image_c6e9a6363660fd.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}\\cdot\\overrightarrow{AC}=\\frac{1}{2}|\\overrightarrow{AC}|^2=\\frac{1}{2}\\times3^2=\\frac{9}{2}",
+    "note": "向量內積計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}\\\\cdot\\\\overrightarrow{AC}=\\\\frac{1}{2}|\\\\overrightarrow{AC}|^2=\\\\frac{1}{2}\\\\times3^2=\\\\frac{9}{2}\",\"note\":\"向量內積計算式\"}\n",
+    "ts": "2026-05-05T11:10:28.395741+00:00",
+    "engine": "codex"
+  },
+  "image_c07258098c2dab.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{a}+\\overrightarrow{b}\\right|=\\left|\\overrightarrow{a}-\\overrightarrow{b}\\right|",
+    "note": "向量絕對值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{a}+\\\\overrightarrow{b}\\\\right|=\\\\left|\\\\overrightarrow{a}-\\\\overrightarrow{b}\\\\right|\",\"note\":\"向量絕對值等式\"}\n",
+    "ts": "2026-05-05T11:10:29.243269+00:00",
+    "engine": "codex"
+  },
+  "image_c897389bbb6252.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "向量平行四邊形法，標示 a、b、a+b",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"向量平行四邊形法，標示 a、b、a+b\"}\n",
+    "ts": "2026-05-05T11:10:30.246326+00:00",
+    "engine": "codex"
+  },
+  "image_c708a05e16f3c5.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\begin{cases}x=\\frac{1}{2}\\\\y=\\frac{1}{3}\\end{cases}",
+    "note": "聯立結果：x與y的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\begin{cases}x=\\\\frac{1}{2}\\\\\\\\y=\\\\frac{1}{3}\\\\end{cases}\",\"note\":\"聯立結果：x與y的值\"}\n",
+    "ts": "2026-05-05T11:10:31.474105+00:00",
+    "engine": "codex"
+  },
+  "image_cf1b4ffadf6c40.png": {
+    "classification": "formula",
+    "latex": "+",
+    "note": "加號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\",\"note\":\"加號\"}\n",
+    "ts": "2026-05-05T11:10:33.797707+00:00",
+    "engine": "codex"
+  },
+  "image_d11283932cddda.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}=x\\overrightarrow{AB}+y\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}=x\\\\overrightarrow{AB}+y\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T11:10:35.766810+00:00",
+    "engine": "codex"
+  },
+  "image_cf5d44ac3f2671.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}(\\vec{b}\\cdot\\vec{c})=t'\\vec{a}",
+    "note": "向量與內積的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}(\\\\vec{b}\\\\cdot\\\\vec{c})=t'\\\\vec{a}\",\"note\":\"向量與內積的代數式\"}\n",
+    "ts": "2026-05-05T11:10:35.977787+00:00",
+    "engine": "codex"
+  },
+  "image_d3ca8dd7e30f70.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}\\cdot\\overline{AC}=3",
+    "note": "線段長乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\\\\cdot\\\\overline{AC}=3\",\"note\":\"線段長乘積公式\"}\n",
+    "ts": "2026-05-05T11:10:38.715294+00:00",
+    "engine": "codex"
+  },
+  "image_d7b9b8cae57b9c.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{a}=2\\overrightarrow{u}-\\overrightarrow{v}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{a}=2\\\\overrightarrow{u}-\\\\overrightarrow{v}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T11:10:41.350205+00:00",
+    "engine": "codex"
+  },
+  "image_d59be1816a0e67.png": {
+    "classification": "formula",
+    "latex": "(\\vec{b}\\cdot\\vec{c})\\vec{a}=t'\\vec{a}",
+    "note": "向量內積乘向量的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{b}\\\\cdot\\\\vec{c})\\\\vec{a}=t'\\\\vec{a}\",\"note\":\"向量內積乘向量的等式\"}\n",
+    "ts": "2026-05-05T11:10:42.707388+00:00",
+    "engine": "codex"
+  },
+  "image_dd20211687489e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-05-05T11:10:42.877690+00:00",
+    "engine": "codex"
+  },
+  "image_d16d078253e061.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{a}\\right|^2+\\left|\\overrightarrow{b}\\right|^2+2\\overrightarrow{a}\\cdot\\overrightarrow{b}=\\left|\\overrightarrow{a}\\right|^2+\\left|\\overrightarrow{b}\\right|^2-2\\overrightarrow{a}\\cdot\\overrightarrow{b}",
+    "note": "向量長度平方與內積等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{a}\\\\right|^2+\\\\left|\\\\overrightarrow{b}\\\\right|^2+2\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b}=\\\\left|\\\\overrightarrow{a}\\\\right|^2+\\\\left|\\\\overrightarrow{b}\\\\right|^2-2\\\\overrightarrow{a}\\\\cdot\\\\overrightarrow{b}\",\"note\":\"向量長度平方與內積等式\"}\n",
+    "ts": "2026-05-05T11:10:45.180940+00:00",
+    "engine": "codex"
+  },
+  "image_de77e293d6d910.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{a}\\right|\\left|\\overrightarrow{b}\\right|",
+    "note": "向量a與向量b長度的乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{a}\\\\right|\\\\left|\\\\overrightarrow{b}\\\\right|\",\"note\":\"向量a與向量b長度的乘積\"}\n",
+    "ts": "2026-05-05T11:10:48.610010+00:00",
+    "engine": "codex"
+  },
+  "image_e20a0d3635b210.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T11:10:49.826188+00:00",
+    "engine": "codex"
+  },
+  "image_e0ff05510f9f6b.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}=2\\vec{u}+\\vec{v}",
+    "note": "向量線性組合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}=2\\\\vec{u}+\\\\vec{v}\",\"note\":\"向量線性組合\"}\n",
+    "ts": "2026-05-05T11:10:51.175778+00:00",
+    "engine": "codex"
+  },
+  "image_e2072077d32918.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a}\\cdot\\vec{b})\\vec{c}=t\\vec{c}",
+    "note": "向量內積與純量倍向量公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a}\\\\cdot\\\\vec{b})\\\\vec{c}=t\\\\vec{c}\",\"note\":\"向量內積與純量倍向量公式\"}\n",
+    "ts": "2026-05-05T11:10:51.236340+00:00",
+    "engine": "codex"
+  },
+  "image_ef631978e8fe6c.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，三角形內含點與線段標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，三角形內含點與線段標記\"}\n",
+    "ts": "2026-05-05T11:10:54.135675+00:00",
+    "engine": "codex"
+  },
+  "image_f026c551d7036e.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\",\"note\":\"向量a\"}\n",
+    "ts": "2026-05-05T11:10:55.998076+00:00",
+    "engine": "codex"
+  },
+  "image_f652f40e500494.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{b}\\right|=5",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{b}\\\\right|=5\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-05T11:10:58.242078+00:00",
+    "engine": "codex"
+  },
+  "image_e8f39b9b426b39.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{b}\\right|^2=\\left|\\overrightarrow{u}+\\overrightarrow{v}\\right|^2=\\left|\\overrightarrow{u}\\right|^2+2\\overrightarrow{u}\\cdot\\overrightarrow{v}+\\left|\\overrightarrow{v}\\right|^2=2^2+2\\times0+1^2=5",
+    "note": "向量長度平方公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{b}\\\\right|^2=\\\\left|\\\\overrightarrow{u}+\\\\overrightarrow{v}\\\\right|^2=\\\\left|\\\\overrightarrow{u}\\\\right|^2+2\\\\overrightarrow{u}\\\\cdot\\\\overrightarrow{v}+\\\\left|\\\\overrightarrow{v}\\\\right|^2=2^2+2\\\\times0+1^2=5\",\"note\":\"向量長度平方公式\"}\n",
+    "ts": "2026-05-05T11:10:58.687891+00:00",
+    "engine": "codex"
+  },
+  "image_f6604192943473.png": {
+    "classification": "formula",
+    "latex": "120^\\circ",
+    "note": "角度數值 120 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"120^\\\\circ\",\"note\":\"角度數值 120 度\"}\n",
+    "ts": "2026-05-05T11:10:59.365500+00:00",
+    "engine": "codex"
+  },
+  "image_fef12aafbcd4fe.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}\\cdot\\overrightarrow{AC}=2",
+    "note": "向量內積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}\\\\cdot\\\\overrightarrow{AC}=2\",\"note\":\"向量內積公式\"}\n",
+    "ts": "2026-05-05T11:11:04.679362+00:00",
+    "engine": "codex"
+  }
+}

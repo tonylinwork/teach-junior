@@ -1,0 +1,146 @@
+{
+  "image_12fb73205c29fc.png": {
+    "classification": "formula",
+    "latex": "3^{\\log_5 7}=7^{\\log_5 3}",
+    "note": "指數與對數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{\\\\log_5 7}=7^{\\\\log_5 3}\",\"note\":\"指數與對數恆等式\"}\n",
+    "ts": "2026-05-05T11:01:35.608576+00:00",
+    "engine": "codex"
+  },
+  "image_1dcb2897826196.png": {
+    "classification": "formula",
+    "latex": "(\\log_{7}13)^5=\\log_{7}13^5",
+    "note": "對數冪次公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\log_{7}13)^5=\\\\log_{7}13^5\",\"note\":\"對數冪次公式\"}\n",
+    "ts": "2026-05-05T11:01:35.687338+00:00",
+    "engine": "codex"
+  },
+  "image_189847e0f2ced2.png": {
+    "classification": "formula",
+    "latex": "\\log_5((-3))",
+    "note": "對數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_5((-3))\",\"note\":\"對數式\"}\n",
+    "ts": "2026-05-05T11:01:37.203708+00:00",
+    "engine": "codex"
+  },
+  "image_0769909f0333f7.png": {
+    "classification": "formula",
+    "latex": "3^{\\log_5 7}=(10^{\\log 3})^{\\log_5 7}=(10^{\\log 3})^{\\frac{\\log 7}{\\log 5}}=10^{\\frac{(\\log 3)(\\log 7)}{\\log 5}}",
+    "note": "對數指數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{\\\\log_5 7}=(10^{\\\\log 3})^{\\\\log_5 7}=(10^{\\\\log 3})^{\\\\frac{\\\\log 7}{\\\\log 5}}=10^{\\\\frac{(\\\\log 3)(\\\\log 7)}{\\\\log 5}}\",\"note\":\"對數指數運算式\"}\n",
+    "ts": "2026-05-05T11:01:39.543509+00:00",
+    "engine": "codex"
+  },
+  "image_3861464bd2d577.png": {
+    "classification": "formula",
+    "latex": "2^{\\log_2 5}=5",
+    "note": "指數與對數互逆公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\log_2 5}=5\",\"note\":\"指數與對數互逆公式\"}\n",
+    "ts": "2026-05-05T11:01:40.105927+00:00",
+    "engine": "codex"
+  },
+  "image_48b51bc4ab6b22.png": {
+    "classification": "formula",
+    "latex": "\\log 2+\\log 3=\\log(2\\times 3)=\\log 6",
+    "note": "對數乘法性質",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2+\\\\log 3=\\\\log(2\\\\times 3)=\\\\log 6\",\"note\":\"對數乘法性質\"}\n",
+    "ts": "2026-05-05T11:01:45.058850+00:00",
+    "engine": "codex"
+  },
+  "image_36bc9707a9c21c.png": {
+    "classification": "formula",
+    "latex": "7^{\\log_5 3}=(10^{\\log 7})^{\\log_5 3}=(10^{\\log 7})^{\\frac{\\log 3}{\\log 5}}=10^{\\frac{(\\log 7)(\\log 3)}{\\log 5}}",
+    "note": "對數換底公式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7^{\\\\log_5 3}=(10^{\\\\log 7})^{\\\\log_5 3}=(10^{\\\\log 7})^{\\\\frac{\\\\log 3}{\\\\log 5}}=10^{\\\\frac{(\\\\log 7)(\\\\log 3)}{\\\\log 5}}\",\"note\":\"對數換底公式推導\"}\n",
+    "ts": "2026-05-05T11:01:46.058387+00:00",
+    "engine": "codex"
+  },
+  "image_4d46d42ac1a29c.png": {
+    "classification": "formula",
+    "latex": "\\log_5(-3)^2=2\\log_5(-3)",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_5(-3)^2=2\\\\log_5(-3)\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-05-05T11:01:46.899357+00:00",
+    "engine": "codex"
+  },
+  "image_84d51742f9ca9d.png": {
+    "classification": "formula",
+    "latex": "b=10^{13}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=10^{13}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-05T11:01:50.651010+00:00",
+    "engine": "codex"
+  },
+  "image_40326368641543.png": {
+    "classification": "formula",
+    "latex": "\\log(a+b)=\\log(10^{11}+10^{13})=\\log(10^{11}(1+10^2))",
+    "note": "對數式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log(a+b)=\\\\log(10^{11}+10^{13})=\\\\log(10^{11}(1+10^2))\",\"note\":\"對數式化簡\"}\n",
+    "ts": "2026-05-05T11:01:51.843296+00:00",
+    "engine": "codex"
+  },
+  "image_9318a598857d22.png": {
+    "classification": "formula",
+    "latex": "\\log(a+b)",
+    "note": "對數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log(a+b)\",\"note\":\"對數公式\"}\n",
+    "ts": "2026-05-05T11:01:53.173418+00:00",
+    "engine": "codex"
+  },
+  "image_8ac1a51aeaac74.png": {
+    "classification": "formula",
+    "latex": "\\log_{7}13^{5}=\\frac{\\log 13^{5}}{\\log 7}=\\frac{5\\times\\log 13}{\\log 7}=5\\left(\\frac{\\log 13}{\\log 7}\\right)=5\\times\\log_{7}13\\ne(\\log_{7}13)^{5}",
+    "note": "對數換底與指數性質公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{7}13^{5}=\\\\frac{\\\\log 13^{5}}{\\\\log 7}=\\\\frac{5\\\\times\\\\log 13}{\\\\log 7}=5\\\\left(\\\\frac{\\\\log 13}{\\\\log 7}\\\\right)=5\\\\times\\\\log_{7}13\\\\ne(\\\\log_{7}13)^{5}\",\"note\":\"對數換底與指數性質公式\"}\n",
+    "ts": "2026-05-05T11:01:55.081375+00:00",
+    "engine": "codex"
+  },
+  "image_a0a3efdacc0509.png": {
+    "classification": "formula",
+    "latex": "\\log a=11",
+    "note": "對數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\log a=11\",\"note\":\"對數方程式\"}\n",
+    "ts": "2026-05-05T11:01:56.319011+00:00",
+    "engine": "codex"
+  },
+  "image_b0e00b326a2fa4.png": {
+    "classification": "formula",
+    "latex": "=\\log 10^{11}+\\log 101\\approx 11+2=13",
+    "note": "對數近似計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log 10^{11}+\\\\log 101\\\\approx 11+2=13\",\"note\":\"對數近似計算式\"}\n",
+    "ts": "2026-05-05T11:01:59.101261+00:00",
+    "engine": "codex"
+  },
+  "image_c23b7b2124ae5e.png": {
+    "classification": "formula",
+    "latex": "\\log 2 \\times \\log 3 = \\log 6",
+    "note": "對數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2 \\\\times \\\\log 3 = \\\\log 6\",\"note\":\"對數乘法等式\"}\n",
+    "ts": "2026-05-05T11:02:01.903826+00:00",
+    "engine": "codex"
+  },
+  "image_cfffacabe8676d.png": {
+    "classification": "formula",
+    "latex": "2^{\\log_2 5}=\\log 5",
+    "note": "指數與對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\log_2 5}=\\\\log 5\",\"note\":\"指數與對數等式\"}\n",
+    "ts": "2026-05-05T11:02:02.646972+00:00",
+    "engine": "codex"
+  },
+  "image_f6912a1a57185b.png": {
+    "classification": "formula",
+    "latex": "\\log b=13",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log b=13\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T11:02:04.121658+00:00",
+    "engine": "codex"
+  },
+  "image_99d092a164bb42.png": {
+    "classification": "formula",
+    "latex": "a=10^{11}",
+    "note": "純數學式：a等於10的11次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=10^{11}\",\"note\":\"純數學式：a等於10的11次方\"}\n",
+    "ts": "2026-05-05T11:02:07.285438+00:00",
+    "engine": "codex"
+  }
+}

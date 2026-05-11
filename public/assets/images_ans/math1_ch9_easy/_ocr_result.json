@@ -1,0 +1,1178 @@
+{
+  "image_0364216a3785bf.png": {
+    "classification": "formula",
+    "latex": "-1",
+    "note": "純數學表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1\",\"note\":\"純數學表達式\"}\n",
+    "ts": "2026-04-29T03:45:30.228282+00:00",
+    "engine": "codex"
+  },
+  "image_0430c93cec6bad.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-29T03:45:31.166901+00:00",
+    "engine": "codex"
+  },
+  "image_01c217ec6f69a1.png": {
+    "classification": "formula",
+    "latex": "f(-1)=4\\times 2+0+(-8)=0",
+    "note": "函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=4\\\\times 2+0+(-8)=0\",\"note\":\"函數值計算式\"}\n",
+    "ts": "2026-04-29T03:45:31.711906+00:00",
+    "engine": "codex"
+  },
+  "image_02f5470426e708.png": {
+    "classification": "formula",
+    "latex": "b=\\pm1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\pm1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:45:32.330151+00:00",
+    "engine": "codex"
+  },
+  "image_052bca35257891.png": {
+    "classification": "formula",
+    "latex": "f(x)=ax^3+bx^2+(c+1)x+2",
+    "note": "多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=ax^3+bx^2+(c+1)x+2\",\"note\":\"多項式函數\"}\n",
+    "ts": "2026-04-29T03:45:34.309058+00:00",
+    "engine": "codex"
+  },
+  "image_0733edcab1e3bc.png": {
+    "classification": "formula",
+    "latex": "x(x-1)(x+1)",
+    "note": "多項式乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x(x-1)(x+1)\",\"note\":\"多項式乘積\"}\n",
+    "ts": "2026-04-29T03:45:36.695998+00:00",
+    "engine": "codex"
+  },
+  "image_087db641d193c4.png": {
+    "classification": "formula",
+    "latex": "2x-1",
+    "note": "線性代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-1\",\"note\":\"線性代數式\"}\n",
+    "ts": "2026-04-29T03:45:37.944959+00:00",
+    "engine": "codex"
+  },
+  "image_086d587e4f19a7.png": {
+    "classification": "formula",
+    "latex": "-\\frac{3}{2}",
+    "note": "負二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\frac{3}{2}\",\"note\":\"負二分之三\"}\n",
+    "ts": "2026-04-29T03:45:38.946692+00:00",
+    "engine": "codex"
+  },
+  "image_099665486fb73a.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{3}",
+    "note": "分數四分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{3}\",\"note\":\"分數四分之三\"}\n",
+    "ts": "2026-04-29T03:45:39.184373+00:00",
+    "engine": "codex"
+  },
+  "image_0a101f63d9c2a2.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x^2-14x+13)q(x)+(ax+b)",
+    "note": "多項式除法表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x^2-14x+13)q(x)+(ax+b)\",\"note\":\"多項式除法表示式\"}\n",
+    "ts": "2026-04-29T03:45:41.157881+00:00",
+    "engine": "codex"
+  },
+  "image_0b9a755925c968.png": {
+    "classification": "formula",
+    "latex": "f(0)=4\\times1+1\\times(-3)+(-1)=0",
+    "note": "函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(0)=4\\\\times1+1\\\\times(-3)+(-1)=0\",\"note\":\"函數值計算式\"}\n",
+    "ts": "2026-04-29T03:45:44.059666+00:00",
+    "engine": "codex"
+  },
+  "image_0cebaba723405d.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x-\\frac{2}{3})Q(x)+r=(3x-2)\\times\\frac{1}{3}Q(x)+r",
+    "note": "多項式除法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x-\\\\frac{2}{3})Q(x)+r=(3x-2)\\\\times\\\\frac{1}{3}Q(x)+r\",\"note\":\"多項式除法等式\"}\n",
+    "ts": "2026-04-29T03:45:44.166037+00:00",
+    "engine": "codex"
+  },
+  "image_0fbd1ad448da96.png": {
+    "classification": "formula",
+    "latex": "\\left(x-\\frac{1}{2}\\right)",
+    "note": "括號內的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(x-\\\\frac{1}{2}\\\\right)\",\"note\":\"括號內的代數式\"}\n",
+    "ts": "2026-04-29T03:45:44.879442+00:00",
+    "engine": "codex"
+  },
+  "image_1034929a329f5c.png": {
+    "classification": "formula",
+    "latex": "x+\\frac{1}{x}",
+    "note": "純數學式：x加一除以x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+\\\\frac{1}{x}\",\"note\":\"純數學式：x加一除以x\"}\n",
+    "ts": "2026-04-29T03:45:46.721166+00:00",
+    "engine": "codex"
+  },
+  "image_11fdbd32f023ba.png": {
+    "classification": "formula",
+    "latex": "f(x)=2x(x-1)(x+1)",
+    "note": "函數多項式因式分解式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2x(x-1)(x+1)\",\"note\":\"函數多項式因式分解式\"}\n",
+    "ts": "2026-04-29T03:45:49.142889+00:00",
+    "engine": "codex"
+  },
+  "image_105071c9d9f107.png": {
+    "classification": "formula",
+    "latex": "c=2",
+    "note": "變數 c 等於 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=2\",\"note\":\"變數 c 等於 2\"}\n",
+    "ts": "2026-04-29T03:45:49.799739+00:00",
+    "engine": "codex"
+  },
+  "image_153ed2b9ce15cf.png": {
+    "classification": "formula",
+    "latex": "a+b=4",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b=4\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:45:50.924527+00:00",
+    "engine": "codex"
+  },
+  "image_1f32a21013a80b.png": {
+    "classification": "formula",
+    "latex": "f(x)=4(x^2+1)+(x+1)^2(x-3)",
+    "note": "多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=4(x^2+1)+(x+1)^2(x-3)\",\"note\":\"多項式函數\"}\n",
+    "ts": "2026-04-29T03:45:54.696840+00:00",
+    "engine": "codex"
+  },
+  "image_1f80f07e7f75f0.png": {
+    "classification": "formula",
+    "latex": "2x(x-1)(x+1)",
+    "note": "多項式乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x(x-1)(x+1)\",\"note\":\"多項式乘積\"}\n",
+    "ts": "2026-04-29T03:45:55.154765+00:00",
+    "engine": "codex"
+  },
+  "image_1e88cbeeccd58d.png": {
+    "classification": "formula",
+    "latex": "f(-\\frac{2}{3})=3",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-\\\\frac{2}{3})=3\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:45:56.693486+00:00",
+    "engine": "codex"
+  },
+  "image_203f783d491f90.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x-2)(x^5+2x-1)+(x+1)",
+    "note": "多項式函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x-2)(x^5+2x-1)+(x+1)\",\"note\":\"多項式函數式\"}\n",
+    "ts": "2026-04-29T03:45:59.118553+00:00",
+    "engine": "codex"
+  },
+  "image_22363c63749752.png": {
+    "classification": "formula",
+    "latex": "3x^2+2x-\\frac{5}{2}",
+    "note": "二次多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3x^2+2x-\\\\frac{5}{2}\",\"note\":\"二次多項式\"}\n",
+    "ts": "2026-04-29T03:45:59.223145+00:00",
+    "engine": "codex"
+  },
+  "image_12e37cae89b828.png": {
+    "classification": "formula",
+    "latex": "x^2+\\frac{1}{3}x-\\sqrt{3}",
+    "note": "二次多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2+\\\\frac{1}{3}x-\\\\sqrt{3}\",\"note\":\"二次多項式\"}\n",
+    "ts": "2026-04-29T03:45:59.607215+00:00",
+    "engine": "codex"
+  },
+  "image_2d4c65a120168e.png": {
+    "classification": "formula",
+    "latex": "+(x-1)^3",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+(x-1)^3\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:46:03.543232+00:00",
+    "engine": "codex"
+  },
+  "image_2d421e7ae66626.png": {
+    "classification": "formula",
+    "latex": "+4\\left(-\\frac{1}{2}\\right)+1=0",
+    "note": "代數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+4\\\\left(-\\\\frac{1}{2}\\\\right)+1=0\",\"note\":\"代數等式\"}\n",
+    "ts": "2026-04-29T03:46:03.963891+00:00",
+    "engine": "codex"
+  },
+  "image_23676b4abc5bb3.png": {
+    "classification": "formula",
+    "latex": "+4(-1)+1=0",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+4(-1)+1=0\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:46:05.314140+00:00",
+    "engine": "codex"
+  },
+  "image_2e9d83a4e02cc1.png": {
+    "classification": "formula",
+    "latex": "x+1",
+    "note": "simple algebraic expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+1\",\"note\":\"simple algebraic expression\"}\n",
+    "ts": "2026-04-29T03:46:07.678456+00:00",
+    "engine": "codex"
+  },
+  "image_314f486365b141.png": {
+    "classification": "formula",
+    "latex": "x-1",
+    "note": "代數式 x 減 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-1\",\"note\":\"代數式 x 減 1\"}\n",
+    "ts": "2026-04-29T03:46:09.013315+00:00",
+    "engine": "codex"
+  },
+  "image_2922da91d904b4.png": {
+    "classification": "formula",
+    "latex": "f\\left(-\\frac{2}{3}\\right)g\\left(-\\frac{2}{3}\\right)=3\\times8=24",
+    "note": "函數值相乘的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\\\\left(-\\\\frac{2}{3}\\\\right)g\\\\left(-\\\\frac{2}{3}\\\\right)=3\\\\times8=24\",\"note\":\"函數值相乘的等式\"}\n",
+    "ts": "2026-04-29T03:46:09.810714+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-29T03:46:11.821821+00:00",
+    "engine": "codex"
+  },
+  "image_2e7274a4d67fd6.png": {
+    "classification": "formula",
+    "latex": "a+b+c=-\\frac{1}{3}-1+2=\\frac{2}{3}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b+c=-\\\\frac{1}{3}-1+2=\\\\frac{2}{3}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:46:13.657052+00:00",
+    "engine": "codex"
+  },
+  "image_38c02ae53a994c.png": {
+    "classification": "formula",
+    "latex": "f(7)=2\\times7^4+3\\times7^2+5\\times7-\\sqrt{7}",
+    "note": "代入7的多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(7)=2\\\\times7^4+3\\\\times7^2+5\\\\times7-\\\\sqrt{7}\",\"note\":\"代入7的多項式表達式\"}\n",
+    "ts": "2026-04-29T03:46:13.984017+00:00",
+    "engine": "codex"
+  },
+  "image_3b78e99d4279a3.png": {
+    "classification": "formula",
+    "latex": "b=0",
+    "note": "變數 b 等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=0\",\"note\":\"變數 b 等於 0\"}\n",
+    "ts": "2026-04-29T03:46:15.617446+00:00",
+    "engine": "codex"
+  },
+  "image_3931920788cb0e.png": {
+    "classification": "formula",
+    "latex": "g(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-29T03:46:18.793424+00:00",
+    "engine": "codex"
+  },
+  "image_3b8ba32575865b.png": {
+    "classification": "formula",
+    "latex": "a+b",
+    "note": "純數學式：a+b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b\",\"note\":\"純數學式：a+b\"}\n",
+    "ts": "2026-04-29T03:46:19.564572+00:00",
+    "engine": "codex"
+  },
+  "image_3ba5dddddadd6e.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow f(1)=2=3b\\Rightarrow b=\\frac{2}{3}",
+    "note": "代數推導式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow f(1)=2=3b\\\\Rightarrow b=\\\\frac{2}{3}\",\"note\":\"代數推導式\"}\n",
+    "ts": "2026-04-29T03:46:21.344754+00:00",
+    "engine": "codex"
+  },
+  "image_406d01467a6654.png": {
+    "classification": "formula",
+    "latex": "f(-7)=2\\times(-7)^4+3\\times(-7)^2+5\\times(-7)-\\sqrt{7}",
+    "note": "多項式函數代入計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-7)=2\\\\times(-7)^4+3\\\\times(-7)^2+5\\\\times(-7)-\\\\sqrt{7}\",\"note\":\"多項式函數代入計算式\"}\n",
+    "ts": "2026-04-29T03:46:21.424810+00:00",
+    "engine": "codex"
+  },
+  "image_45226d83bb409f.png": {
+    "classification": "formula",
+    "latex": "f\\left(-\\frac{1}{2}\\right)=8",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\\\\left(-\\\\frac{1}{2}\\\\right)=8\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:46:23.322905+00:00",
+    "engine": "codex"
+  },
+  "image_46efc14f2eaec7.png": {
+    "classification": "formula",
+    "latex": "x^2-14x+13",
+    "note": "二次多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-14x+13\",\"note\":\"二次多項式\"}\n",
+    "ts": "2026-04-29T03:46:25.291741+00:00",
+    "engine": "codex"
+  },
+  "image_491a773af7a530.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}r(x)",
+    "note": "純數學式：二分之一乘以 r(x)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}r(x)\",\"note\":\"純數學式：二分之一乘以 r(x)\"}\n",
+    "ts": "2026-04-29T03:46:25.576979+00:00",
+    "engine": "codex"
+  },
+  "image_4996f75bf63ddd.png": {
+    "classification": "formula",
+    "latex": "x^{2}-|x|+2",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{2}-|x|+2\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:46:27.905440+00:00",
+    "engine": "codex"
+  },
+  "image_4be2741ce2f88d.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}q(x)",
+    "note": "二分之一乘以 q(x)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}q(x)\",\"note\":\"二分之一乘以 q(x)\"}\n",
+    "ts": "2026-04-29T03:46:29.253384+00:00",
+    "engine": "codex"
+  },
+  "image_4182b1349e0817.png": {
+    "classification": "formula",
+    "latex": "x+\\frac{1}{2}",
+    "note": "純數學式：x 加二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+\\\\frac{1}{2}\",\"note\":\"純數學式：x 加二分之一\"}\n",
+    "ts": "2026-04-29T03:46:29.361367+00:00",
+    "engine": "codex"
+  },
+  "image_4c9a3ec71e1224.png": {
+    "classification": "formula",
+    "latex": "b=0\\Rightarrow f'(x)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=0\\\\Rightarrow f'(x)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:46:29.687803+00:00",
+    "engine": "codex"
+  },
+  "image_52adf1d9599905.png": {
+    "classification": "formula",
+    "latex": "f(3)=-2=6a",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=-2=6a\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:46:33.042406+00:00",
+    "engine": "codex"
+  },
+  "image_4d100fc6869b23.png": {
+    "classification": "formula",
+    "latex": "f(2)=3",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(2)=3\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:46:34.172422+00:00",
+    "engine": "codex"
+  },
+  "image_551a7911241306.png": {
+    "classification": "formula",
+    "latex": "\\left(x-\\frac{2}{3}\\right)",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(x-\\\\frac{2}{3}\\\\right)\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:46:36.388519+00:00",
+    "engine": "codex"
+  },
+  "image_5934d899062df5.png": {
+    "classification": "formula",
+    "latex": "x-1",
+    "note": "代數式 x 減 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-1\",\"note\":\"代數式 x 減 1\"}\n",
+    "ts": "2026-04-29T03:46:36.424782+00:00",
+    "engine": "codex"
+  },
+  "image_5a97978f5a7cda.png": {
+    "classification": "formula",
+    "latex": "f(1)=4",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=4\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:46:36.727962+00:00",
+    "engine": "codex"
+  },
+  "image_6744da32ad52c1.png": {
+    "classification": "formula",
+    "latex": "b+c=\\frac{2}{3}+\\frac{13}{3}=5<6",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b+c=\\\\frac{2}{3}+\\\\frac{13}{3}=5<6\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:46:41.087993+00:00",
+    "engine": "codex"
+  },
+  "image_674ca5e6bc93cf.png": {
+    "classification": "formula",
+    "latex": "f(0)=6=3c",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(0)=6=3c\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:46:41.413884+00:00",
+    "engine": "codex"
+  },
+  "image_63f4894de3fdd7.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x+1)q(x)+r=(3x+3)\\left(\\frac{1}{3}q(x)\\right)+r",
+    "note": "多項式等式變形",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x+1)q(x)+r=(3x+3)\\\\left(\\\\frac{1}{3}q(x)\\\\right)+r\",\"note\":\"多項式等式變形\"}\n",
+    "ts": "2026-04-29T03:46:41.756525+00:00",
+    "engine": "codex"
+  },
+  "image_68cebe472f8025.png": {
+    "classification": "formula",
+    "latex": "2x(x-1)^2",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x(x-1)^2\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:46:44.696030+00:00",
+    "engine": "codex"
+  },
+  "image_68388fe28a8713.png": {
+    "classification": "formula",
+    "latex": "-x^{3}-x+5",
+    "note": "多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-x^{3}-x+5\",\"note\":\"多項式\"}\n",
+    "ts": "2026-04-29T03:46:45.683610+00:00",
+    "engine": "codex"
+  },
+  "image_5f9b0a7a4125a4.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow f(x)=(2x-1)\\times\\left(\\frac{\\overline{Q(x)}}{2}\\right)+r",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow f(x)=(2x-1)\\\\times\\\\left(\\\\frac{\\\\overline{Q(x)}}{2}\\\\right)+r\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:46:47.850776+00:00",
+    "engine": "codex"
+  },
+  "image_6a21b4f67c455a.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "單一數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"單一數字0\"}\n",
+    "ts": "2026-04-29T03:46:49.572443+00:00",
+    "engine": "codex"
+  },
+  "image_69c21633319b0d.png": {
+    "classification": "formula",
+    "latex": "f\\left(-\\frac{1}{2}\\right)=2\\left(-\\frac{1}{2}\\right)^4+5\\left(-\\frac{1}{2}\\right)^3+6\\left(-\\frac{1}{2}\\right)^2",
+    "note": "多項式函數代入值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\\\\left(-\\\\frac{1}{2}\\\\right)=2\\\\left(-\\\\frac{1}{2}\\\\right)^4+5\\\\left(-\\\\frac{1}{2}\\\\right)^3+6\\\\left(-\\\\frac{1}{2}\\\\right)^2\",\"note\":\"多項式函數代入值計算\"}\n",
+    "ts": "2026-04-29T03:46:52.243260+00:00",
+    "engine": "codex"
+  },
+  "image_6b08cebe704d20.png": {
+    "classification": "formula",
+    "latex": "6x-3",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6x-3\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:46:52.977955+00:00",
+    "engine": "codex"
+  },
+  "image_6afb1a2b7a98bc.png": {
+    "classification": "formula",
+    "latex": "f(-\\frac{7}{2})",
+    "note": "函數值表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-\\\\frac{7}{2})\",\"note\":\"函數值表達式\"}\n",
+    "ts": "2026-04-29T03:46:54.700381+00:00",
+    "engine": "codex"
+  },
+  "image_6bffa3bebef398.png": {
+    "classification": "formula",
+    "latex": "f(x)-g(x)",
+    "note": "函數差的表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)-g(x)\",\"note\":\"函數差的表達式\"}\n",
+    "ts": "2026-04-29T03:46:56.450390+00:00",
+    "engine": "codex"
+  },
+  "image_6c6023fec77c01.png": {
+    "classification": "formula",
+    "latex": "a=0",
+    "note": "等式 a 等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=0\",\"note\":\"等式 a 等於 0\"}\n",
+    "ts": "2026-04-29T03:46:56.651430+00:00",
+    "engine": "codex"
+  },
+  "image_696c0726df7fc5.png": {
+    "classification": "formula",
+    "latex": "f(1)=4\\times2+4\\times(-2)+0=0",
+    "note": "函數值代入計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=4\\\\times2+4\\\\times(-2)+0=0\",\"note\":\"函數值代入計算式\"}\n",
+    "ts": "2026-04-29T03:46:56.848710+00:00",
+    "engine": "codex"
+  },
+  "image_6d2e8d4544a114.png": {
+    "classification": "formula",
+    "latex": "f(-1)=3",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=3\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:47:00.725194+00:00",
+    "engine": "codex"
+  },
+  "image_7168d1a4c3561f.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{2}",
+    "note": "分式 a over 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{2}\",\"note\":\"分式 a over 2\"}\n",
+    "ts": "2026-04-29T03:47:00.975983+00:00",
+    "engine": "codex"
+  },
+  "image_71041d42e6f972.png": {
+    "classification": "formula",
+    "latex": "f(x)=2x^4-x^3-2x+1",
+    "note": "多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2x^4-x^3-2x+1\",\"note\":\"多項式函數\"}\n",
+    "ts": "2026-04-29T03:47:02.897676+00:00",
+    "engine": "codex"
+  },
+  "image_6dec7dda8f008c.png": {
+    "classification": "formula",
+    "latex": "f\\left(\\dfrac{3}{6}\\right)=f\\left(\\dfrac{1}{2}\\right)=0",
+    "note": "函數值相等且為0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\\\\left(\\\\dfrac{3}{6}\\\\right)=f\\\\left(\\\\dfrac{1}{2}\\\\right)=0\",\"note\":\"函數值相等且為0\"}\n",
+    "ts": "2026-04-29T03:47:03.060325+00:00",
+    "engine": "codex"
+  },
+  "image_71edfdc1ad9115.png": {
+    "classification": "formula",
+    "latex": "q(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"q(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-29T03:47:04.909062+00:00",
+    "engine": "codex"
+  },
+  "image_738494277e3ac0.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-29T03:47:06.779515+00:00",
+    "engine": "codex"
+  },
+  "image_748a893d78c4a4.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{x}+3x-5",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{x}+3x-5\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:47:07.499459+00:00",
+    "engine": "codex"
+  },
+  "image_71a1b82b8dd439.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x-\\frac{1}{2})\\times Q(x)+r",
+    "note": "多項式除法形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x-\\\\frac{1}{2})\\\\times Q(x)+r\",\"note\":\"多項式除法形式\"}\n",
+    "ts": "2026-04-29T03:47:10.435123+00:00",
+    "engine": "codex"
+  },
+  "image_764ae3823812fe.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}r",
+    "note": "分數係數乘以 r",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}r\",\"note\":\"分數係數乘以 r\"}\n",
+    "ts": "2026-04-29T03:47:10.672800+00:00",
+    "engine": "codex"
+  },
+  "image_78123655156f0e.png": {
+    "classification": "formula",
+    "latex": "f(x)-g(x)",
+    "note": "函數差的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)-g(x)\",\"note\":\"函數差的代數式\"}\n",
+    "ts": "2026-04-29T03:47:11.221119+00:00",
+    "engine": "codex"
+  },
+  "image_77be7eeabd3a6b.png": {
+    "classification": "formula",
+    "latex": "a+b+c",
+    "note": "三個變數相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b+c\",\"note\":\"三個變數相加\"}\n",
+    "ts": "2026-04-29T03:47:11.264830+00:00",
+    "engine": "codex"
+  },
+  "image_78f73fc9087b99.png": {
+    "classification": "formula",
+    "latex": "f(-3)=a(-3)^{10}-b(-3)^6+7\\times(-3)-\\sqrt{7}",
+    "note": "函數代入值的多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-3)=a(-3)^{10}-b(-3)^6+7\\\\times(-3)-\\\\sqrt{7}\",\"note\":\"函數代入值的多項式表達式\"}\n",
+    "ts": "2026-04-29T03:47:15.579471+00:00",
+    "engine": "codex"
+  },
+  "image_790b529a3d0457.png": {
+    "classification": "formula",
+    "latex": "f(x)=[2(ax+b)]\\times\\left[\\frac{q(x)}{2}\\right]+r(x)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=[2(ax+b)]\\\\times\\\\left[\\\\frac{q(x)}{2}\\\\right]+r(x)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:47:16.525034+00:00",
+    "engine": "codex"
+  },
+  "image_7a3f925c17cac4.png": {
+    "classification": "formula",
+    "latex": "4(x^2+1)+(x+1)^2(x-3)+(x-1)^3",
+    "note": "多項式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4(x^2+1)+(x+1)^2(x-3)+(x-1)^3\",\"note\":\"多項式代數式\"}\n",
+    "ts": "2026-04-29T03:47:17.848298+00:00",
+    "engine": "codex"
+  },
+  "image_784a21c15150a7.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{x^2+x+1}",
+    "note": "平方根式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{x^2+x+1}\",\"note\":\"平方根式\"}\n",
+    "ts": "2026-04-29T03:47:18.992654+00:00",
+    "engine": "codex"
+  },
+  "image_7d224510f60b46.png": {
+    "classification": "formula",
+    "latex": "6x+3",
+    "note": "linear expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6x+3\",\"note\":\"linear expression\"}\n",
+    "ts": "2026-04-29T03:47:19.394573+00:00",
+    "engine": "codex"
+  },
+  "image_7fbafab7dca87c.png": {
+    "classification": "formula",
+    "latex": "f(x)=3x^5-2x^4+x^2+5",
+    "note": "polynomial function",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=3x^5-2x^4+x^2+5\",\"note\":\"polynomial function\"}\n",
+    "ts": "2026-04-29T03:47:20.721760+00:00",
+    "engine": "codex"
+  },
+  "image_808b249b50f391.png": {
+    "classification": "formula",
+    "latex": "f(-1)=3(-1)^5-2(-1)^4+(-1)^2+5=1",
+    "note": "函數值代入計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=3(-1)^5-2(-1)^4+(-1)^2+5=1\",\"note\":\"函數值代入計算\"}\n",
+    "ts": "2026-04-29T03:47:23.297966+00:00",
+    "engine": "codex"
+  },
+  "image_87c879be9600e3.png": {
+    "classification": "formula",
+    "latex": "f(-1)-f\\left(\\frac{1}{2}\\right)=0",
+    "note": "函數值相等的方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)-f\\\\left(\\\\frac{1}{2}\\\\right)=0\",\"note\":\"函數值相等的方程式\"}\n",
+    "ts": "2026-04-29T03:47:24.359072+00:00",
+    "engine": "codex"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T03:47:25.660788+00:00",
+    "engine": "codex"
+  },
+  "image_8f2dd795e967a3.png": {
+    "classification": "formula",
+    "latex": "f(x)=ax^{10}-bx^6+7x-\\sqrt{7}",
+    "note": "多項式函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=ax^{10}-bx^6+7x-\\\\sqrt{7}\",\"note\":\"多項式函數式\"}\n",
+    "ts": "2026-04-29T03:47:26.887643+00:00",
+    "engine": "codex"
+  },
+  "image_9a1f608ec02311.png": {
+    "classification": "formula",
+    "latex": "(x+1)(2x-1)",
+    "note": "多項式乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+1)(2x-1)\",\"note\":\"多項式乘積\"}\n",
+    "ts": "2026-04-29T03:47:29.802779+00:00",
+    "engine": "codex"
+  },
+  "image_904552f0ccf5ce.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{x+1}+3",
+    "note": "根號x加1後再加3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{x+1}+3\",\"note\":\"根號x加1後再加3\"}\n",
+    "ts": "2026-04-29T03:47:30.832801+00:00",
+    "engine": "codex"
+  },
+  "image_94289f51d69f98.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x+1)\\left(x-\\frac{1}{2}\\right)q(x)=(x+1)(2x-1)\\left(\\frac{1}{2}q(x)\\right)",
+    "note": "多項式因式分解等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x+1)\\\\left(x-\\\\frac{1}{2}\\\\right)q(x)=(x+1)(2x-1)\\\\left(\\\\frac{1}{2}q(x)\\\\right)\",\"note\":\"多項式因式分解等式\"}\n",
+    "ts": "2026-04-29T03:47:32.196268+00:00",
+    "engine": "codex"
+  },
+  "image_9bf93161a91767.png": {
+    "classification": "formula",
+    "latex": "2(x-1)^2(x+1)",
+    "note": "多項式因式分解形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2(x-1)^2(x+1)\",\"note\":\"多項式因式分解形式\"}\n",
+    "ts": "2026-04-29T03:47:34.240809+00:00",
+    "engine": "codex"
+  },
+  "image_9b30f43977ee4c.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{2}",
+    "note": "分式：a除以2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{2}\",\"note\":\"分式：a除以2\"}\n",
+    "ts": "2026-04-29T03:47:34.381281+00:00",
+    "engine": "codex"
+  },
+  "image_9ee6e0daf76419.png": {
+    "classification": "formula",
+    "latex": "x-2",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-2\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:47:35.912715+00:00",
+    "engine": "codex"
+  },
+  "image_a0b0263670ffe3.png": {
+    "classification": "formula",
+    "latex": "f(-1)=2(-1)^4+5(-1)^3+6(-1)^2",
+    "note": "代入 -1 的函數值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=2(-1)^4+5(-1)^3+6(-1)^2\",\"note\":\"代入 -1 的函數值計算\"}\n",
+    "ts": "2026-04-29T03:47:39.613713+00:00",
+    "engine": "codex"
+  },
+  "image_a16f8c27291c2d.png": {
+    "classification": "formula",
+    "latex": "2x^3-\\sqrt{3}x+1",
+    "note": "純代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x^3-\\\\sqrt{3}x+1\",\"note\":\"純代數式\"}\n",
+    "ts": "2026-04-29T03:47:39.817171+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-29T03:47:42.226468+00:00",
+    "engine": "codex"
+  },
+  "image_a5e30579676ffa.png": {
+    "classification": "formula",
+    "latex": "ax+b",
+    "note": "線性代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ax+b\",\"note\":\"線性代數式\"}\n",
+    "ts": "2026-04-29T03:47:43.136739+00:00",
+    "engine": "codex"
+  },
+  "image_9c85644643ffff.png": {
+    "classification": "formula",
+    "latex": "f(-1)",
+    "note": "函數值表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)\",\"note\":\"函數值表示式\"}\n",
+    "ts": "2026-04-29T03:47:44.255682+00:00",
+    "engine": "codex"
+  },
+  "image_a6c50ce9b8bb2b.png": {
+    "classification": "formula",
+    "latex": "x(x+1)^2",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x(x+1)^2\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:47:45.918990+00:00",
+    "engine": "codex"
+  },
+  "image_a7a470c4713b75.png": {
+    "classification": "formula",
+    "latex": "x+1",
+    "note": "代數式 x 加 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+1\",\"note\":\"代數式 x 加 1\"}\n",
+    "ts": "2026-04-29T03:47:46.813670+00:00",
+    "engine": "codex"
+  },
+  "image_a2965aa4f5090c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}Q(x)",
+    "note": "一個多項式函數的二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}Q(x)\",\"note\":\"一個多項式函數的二分之一\"}\n",
+    "ts": "2026-04-29T03:47:48.103223+00:00",
+    "engine": "codex"
+  },
+  "image_a8394c8ebb39f1.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{2}",
+    "note": "分數七分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7}{2}\",\"note\":\"分數七分之二\"}\n",
+    "ts": "2026-04-29T03:47:48.484414+00:00",
+    "engine": "codex"
+  },
+  "image_a93b6edf27a036.png": {
+    "classification": "formula",
+    "latex": "f(0)=6",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(0)=6\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:47:50.981560+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-29T03:47:52.178294+00:00",
+    "engine": "codex"
+  },
+  "image_a997c6ea615430.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}Q(x)",
+    "note": "一個代數式：三分之一乘以Q(x)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}Q(x)\",\"note\":\"一個代數式：三分之一乘以Q(x)\"}\n",
+    "ts": "2026-04-29T03:47:52.706160+00:00",
+    "engine": "codex"
+  },
+  "image_a90184057fc7f5.png": {
+    "classification": "formula",
+    "latex": "f(x)=x^5+1",
+    "note": "函數多項式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=x^5+1\",\"note\":\"函數多項式公式\"}\n",
+    "ts": "2026-04-29T03:47:53.982411+00:00",
+    "engine": "codex"
+  },
+  "image_ad31336bba8133.png": {
+    "classification": "formula",
+    "latex": "f\\left(-\\frac{3}{6}\\right)=f\\left(-\\frac{1}{2}\\right)=0",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\\\\left(-\\\\frac{3}{6}\\\\right)=f\\\\left(-\\\\frac{1}{2}\\\\right)=0\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:47:56.181669+00:00",
+    "engine": "codex"
+  },
+  "image_ad57ae8a3a3b3c.png": {
+    "classification": "formula",
+    "latex": "x^{\\frac{a}{2}}",
+    "note": "x raised to a over 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{\\\\frac{a}{2}}\",\"note\":\"x raised to a over 2\"}\n",
+    "ts": "2026-04-29T03:47:57.251603+00:00",
+    "engine": "codex"
+  },
+  "image_b1b714c420badd.png": {
+    "classification": "formula",
+    "latex": "b=-1",
+    "note": "變數b等於負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=-1\",\"note\":\"變數b等於負一\"}\n",
+    "ts": "2026-04-29T03:47:57.811080+00:00",
+    "engine": "codex"
+  },
+  "image_afcd577c34264a.png": {
+    "classification": "formula",
+    "latex": "2x+1",
+    "note": "一次式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+1\",\"note\":\"一次式\"}\n",
+    "ts": "2026-04-29T03:48:00.436379+00:00",
+    "engine": "codex"
+  },
+  "image_b74d56bbdcaf86.png": {
+    "classification": "formula",
+    "latex": "f(1)=0\\times g(1)+(a+b)=4",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=0\\\\times g(1)+(a+b)=4\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:48:04.560541+00:00",
+    "engine": "codex"
+  },
+  "image_b79eebfd7df701.png": {
+    "classification": "formula",
+    "latex": "f(1)=2=-2b",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=2=-2b\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:48:05.100302+00:00",
+    "engine": "codex"
+  },
+  "image_b5b8649c5c0913.png": {
+    "classification": "formula",
+    "latex": "(x+1)\\left(x-\\frac{1}{2}\\right)",
+    "note": "代數乘法式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+1)\\\\left(x-\\\\frac{1}{2}\\\\right)\",\"note\":\"代數乘法式\"}\n",
+    "ts": "2026-04-29T03:48:05.652901+00:00",
+    "engine": "codex"
+  },
+  "image_b2f8ca575ab7fe.png": {
+    "classification": "formula",
+    "latex": "g\\left(-\\frac{2}{3}\\right)=8",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g\\\\left(-\\\\frac{2}{3}\\\\right)=8\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:48:07.775364+00:00",
+    "engine": "codex"
+  },
+  "image_b8cd9610757bfd.png": {
+    "classification": "formula",
+    "latex": "f\\left(\\frac{1}{2}\\right)=2\\left(\\frac{1}{2}\\right)^4-\\left(\\frac{1}{2}\\right)^3-2\\left(\\frac{1}{2}\\right)+1=0",
+    "note": "代入二分之一的函數值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\\\\left(\\\\frac{1}{2}\\\\right)=2\\\\left(\\\\frac{1}{2}\\\\right)^4-\\\\left(\\\\frac{1}{2}\\\\right)^3-2\\\\left(\\\\frac{1}{2}\\\\right)+1=0\",\"note\":\"代入二分之一的函數值計算\"}\n",
+    "ts": "2026-04-29T03:48:11.564453+00:00",
+    "engine": "codex"
+  },
+  "image_b91fa09ff67172.png": {
+    "classification": "formula",
+    "latex": "f(-1)=2(-1)^4-(-1)^3-2(-1)+1=6\\ne0",
+    "note": "多項式代入 x=-1 的計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=2(-1)^4-(-1)^3-2(-1)+1=6\\\\ne0\",\"note\":\"多項式代入 x=-1 的計算\"}\n",
+    "ts": "2026-04-29T03:48:12.491897+00:00",
+    "engine": "codex"
+  },
+  "image_bec33d0dec0ff8.png": {
+    "classification": "formula",
+    "latex": "f(-\\frac{2}{3})+g(-\\frac{2}{3})=3+8=11",
+    "note": "函數值相加的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-\\\\frac{2}{3})+g(-\\\\frac{2}{3})=3+8=11\",\"note\":\"函數值相加的等式\"}\n",
+    "ts": "2026-04-29T03:48:14.523874+00:00",
+    "engine": "codex"
+  },
+  "image_c1195662690caf.png": {
+    "classification": "formula",
+    "latex": "f(x)+g(x)",
+    "note": "函數和的表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)+g(x)\",\"note\":\"函數和的表示式\"}\n",
+    "ts": "2026-04-29T03:48:15.651693+00:00",
+    "engine": "codex"
+  },
+  "image_c238094d1392f6.png": {
+    "classification": "formula",
+    "latex": "f(1)=2-1-2+1=0",
+    "note": "函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=2-1-2+1=0\",\"note\":\"函數值計算式\"}\n",
+    "ts": "2026-04-29T03:48:17.588140+00:00",
+    "engine": "codex"
+  },
+  "image_c2fb664481b618.png": {
+    "classification": "formula",
+    "latex": "x^3",
+    "note": "單項式 x 的三次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^3\",\"note\":\"單項式 x 的三次方\"}\n",
+    "ts": "2026-04-29T03:48:17.961878+00:00",
+    "engine": "codex"
+  },
+  "image_ce8297da569d76.png": {
+    "classification": "formula",
+    "latex": "f(x)+g(x)",
+    "note": "函數和的表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)+g(x)\",\"note\":\"函數和的表達式\"}\n",
+    "ts": "2026-04-29T03:48:21.808969+00:00",
+    "engine": "codex"
+  },
+  "image_c8a1490da8405b.png": {
+    "classification": "formula",
+    "latex": "f(-2)=26=6c\\Rightarrow c=\\frac{13}{3}",
+    "note": "代入求得 c 的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-2)=26=6c\\\\Rightarrow c=\\\\frac{13}{3}\",\"note\":\"代入求得 c 的值\"}\n",
+    "ts": "2026-04-29T03:48:22.461781+00:00",
+    "engine": "codex"
+  },
+  "image_cb84c431560dab.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T03:48:24.401465+00:00",
+    "engine": "codex"
+  },
+  "image_ccdea623b2fa86.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數符號\"}\n",
+    "ts": "2026-04-29T03:48:24.710282+00:00",
+    "engine": "codex"
+  },
+  "image_cfb615c24f4c9f.png": {
+    "classification": "formula",
+    "latex": "a=-\\frac{1}{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-\\\\frac{1}{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:48:26.334820+00:00",
+    "engine": "codex"
+  },
+  "image_cebc41651bac27.png": {
+    "classification": "formula",
+    "latex": "x+\\frac{7}{2}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+\\\\frac{7}{2}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:48:27.095957+00:00",
+    "engine": "codex"
+  },
+  "image_d211d0f3c6d7b0.png": {
+    "classification": "formula",
+    "latex": "f(x)=ax(x-1)+bx(x-3)+c(x-1)(x-3)",
+    "note": "多項式函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=ax(x-1)+bx(x-3)+c(x-1)(x-3)\",\"note\":\"多項式函數表達式\"}\n",
+    "ts": "2026-04-29T03:48:28.731914+00:00",
+    "engine": "codex"
+  },
+  "image_d5a38718c18d10.png": {
+    "classification": "formula",
+    "latex": "|a|+|b|+|c|=1",
+    "note": "絕對值方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|a|+|b|+|c|=1\",\"note\":\"絕對值方程式\"}\n",
+    "ts": "2026-04-29T03:48:30.339796+00:00",
+    "engine": "codex"
+  },
+  "image_d91e249279dd65.png": {
+    "classification": "formula",
+    "latex": "c=0\\Rightarrow f^{\\prime}(x)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=0\\\\Rightarrow f^{\\\\prime}(x)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:48:32.567619+00:00",
+    "engine": "codex"
+  },
+  "image_db5c3616fe7375.png": {
+    "classification": "formula",
+    "latex": "|x-4|+2x-1",
+    "note": "絕對值與一次式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|x-4|+2x-1\",\"note\":\"絕對值與一次式\"}\n",
+    "ts": "2026-04-29T03:48:33.241007+00:00",
+    "engine": "codex"
+  },
+  "image_db9ce1214503f1.png": {
+    "classification": "formula",
+    "latex": "c=\\pm 1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\pm 1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:48:33.388492+00:00",
+    "engine": "codex"
+  },
+  "image_dfab664594f24e.png": {
+    "classification": "formula",
+    "latex": "f(-1)=(-1)^5+1=0",
+    "note": "純文字數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=(-1)^5+1=0\",\"note\":\"純文字數學公式\"}\n",
+    "ts": "2026-04-29T03:48:36.858954+00:00",
+    "engine": "codex"
+  },
+  "image_e19c550d887d60.png": {
+    "classification": "formula",
+    "latex": "\\deg f(x)=5",
+    "note": "函數多項式次數為5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\deg f(x)=5\",\"note\":\"函數多項式次數為5\"}\n",
+    "ts": "2026-04-29T03:48:37.751631+00:00",
+    "engine": "codex"
+  },
+  "image_e736bbe9fe9850.png": {
+    "classification": "formula",
+    "latex": "3x+3",
+    "note": "linear expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3x+3\",\"note\":\"linear expression\"}\n",
+    "ts": "2026-04-29T03:48:37.813235+00:00",
+    "engine": "codex"
+  },
+  "image_e96081a6ddca69.png": {
+    "classification": "formula",
+    "latex": "f(x)=2x^4+3x^2+5x-\\sqrt{7}",
+    "note": "多項式函數含根號常數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2x^4+3x^2+5x-\\\\sqrt{7}\",\"note\":\"多項式函數含根號常數\"}\n",
+    "ts": "2026-04-29T03:48:42.760326+00:00",
+    "engine": "codex"
+  },
+  "image_df7607b2245b4f.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-29T03:48:44.201457+00:00",
+    "engine": "codex"
+  },
+  "image_e8b88e7fa29ce5.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}c-b=1\\\\-5-bc=-11\\\\2b-3c=a\\end{cases}\\overset{b>0}{\\Longrightarrow}\\begin{cases}b=2\\\\c=3\\\\a=-5\\end{cases}",
+    "note": "聯立方程組推得 b,c,a 的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}c-b=1\\\\\\\\-5-bc=-11\\\\\\\\2b-3c=a\\\\end{cases}\\\\overset{b>0}{\\\\Longrightarrow}\\\\begin{cases}b=2\\\\\\\\c=3\\\\\\\\a=-5\\\\end{cases}\",\"note\":\"聯立方程組推得 b,c,a 的值\"}\n",
+    "ts": "2026-04-29T03:48:45.337844+00:00",
+    "engine": "codex"
+  },
+  "image_ed741c1ced8c71.png": {
+    "classification": "formula",
+    "latex": "f(1)=2",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=2\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:48:47.731948+00:00",
+    "engine": "codex"
+  },
+  "image_ee2dfa314e0402.png": {
+    "classification": "formula",
+    "latex": "3x^2-x+\\sqrt{5}",
+    "note": "二次多項式加根號常數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3x^2-x+\\\\sqrt{5}\",\"note\":\"二次多項式加根號常數\"}\n",
+    "ts": "2026-04-29T03:48:49.430593+00:00",
+    "engine": "codex"
+  },
+  "image_ea8c84f0fb2838.png": {
+    "classification": "formula",
+    "latex": "f(1)=2+5+6+4+1=18\\neq 0",
+    "note": "函數值計算不為零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=2+5+6+4+1=18\\\\neq 0\",\"note\":\"函數值計算不為零\"}\n",
+    "ts": "2026-04-29T03:48:49.569061+00:00",
+    "engine": "codex"
+  },
+  "image_ee01c79d7eb1f5.png": {
+    "classification": "formula",
+    "latex": "F(-\\frac{1}{2})=2(-\\frac{1}{2})+f(-\\frac{1}{2})=-1+8=7",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"F(-\\\\frac{1}{2})=2(-\\\\frac{1}{2})+f(-\\\\frac{1}{2})=-1+8=7\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:48:53.387871+00:00",
+    "engine": "codex"
+  },
+  "image_ef8940915124ca.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一字母C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一字母C\"}\n",
+    "ts": "2026-04-29T03:48:53.922638+00:00",
+    "engine": "codex"
+  },
+  "image_f4abbd5e63edda.png": {
+    "classification": "formula",
+    "latex": "a=\\pm 1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\pm 1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:48:54.310614+00:00",
+    "engine": "codex"
+  },
+  "image_f5c8d1413170c8.png": {
+    "classification": "formula",
+    "latex": "f(3)=-2",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=-2\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T03:48:57.350096+00:00",
+    "engine": "codex"
+  },
+  "image_f2dfab0fc7d3bc.png": {
+    "classification": "formula",
+    "latex": "\\frac{x}{3}",
+    "note": "分式 x over 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x}{3}\",\"note\":\"分式 x over 3\"}\n",
+    "ts": "2026-04-29T03:48:57.614128+00:00",
+    "engine": "codex"
+  },
+  "image_fb82fdebb5baa1.png": {
+    "classification": "formula",
+    "latex": "f(3)=a(3)^{10}-b(3)^6+7\\times3-\\sqrt{7}",
+    "note": "函數代入值的多項式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=a(3)^{10}-b(3)^6+7\\\\times3-\\\\sqrt{7}\",\"note\":\"函數代入值的多項式運算\"}\n",
+    "ts": "2026-04-29T03:49:00.351783+00:00",
+    "engine": "codex"
+  },
+  "image_f645961b91611a.png": {
+    "classification": "formula",
+    "latex": "f(x)=2x^4+5x^3+6x^2+4x-1",
+    "note": "多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2x^4+5x^3+6x^2+4x-1\",\"note\":\"多項式函數\"}\n",
+    "ts": "2026-04-29T03:49:01.792314+00:00",
+    "engine": "codex"
+  },
+  "image_fd8ae478fb6a4d.png": {
+    "classification": "formula",
+    "latex": "2x+3",
+    "note": "linear expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+3\",\"note\":\"linear expression\"}\n",
+    "ts": "2026-04-29T03:49:03.449859+00:00",
+    "engine": "codex"
+  },
+  "image_fd9af5a3b68b42.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-29T03:49:03.933414+00:00",
+    "engine": "codex"
+  },
+  "image_fd6dc7a3ab44dc.png": {
+    "classification": "formula",
+    "latex": "|x+5|+2",
+    "note": "絕對值代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|x+5|+2\",\"note\":\"絕對值代數式\"}\n",
+    "ts": "2026-04-29T03:49:04.448717+00:00",
+    "engine": "codex"
+  },
+  "image_fe17b0083d9363.png": {
+    "classification": "formula",
+    "latex": "x^2",
+    "note": "單項式 x 平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2\",\"note\":\"單項式 x 平方\"}\n",
+    "ts": "2026-04-29T03:49:12.401950+00:00",
+    "engine": "codex"
+  }
+}

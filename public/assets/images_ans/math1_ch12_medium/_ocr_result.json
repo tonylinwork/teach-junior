@@ -1,0 +1,51 @@
+{
+  "image_1770377016370.png": {
+    "classification": "formula",
+    "latex": "2(x+\\frac{3}{2})(x-2)[x-(1+\\sqrt{3})][x-(1-\\sqrt{3})]\\le 0",
+    "note": "一元四次多項式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2(x+\\\\frac{3}{2})(x-2)[x-(1+\\\\sqrt{3})][x-(1-\\\\sqrt{3})]\\\\le 0\",\"note\":\"一元四次多項式不等式\"}\n",
+    "ts": "2026-04-26T11:52:54.580506+00:00"
+  },
+  "image_1770377017918.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線上的正負號區間與數值標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線上的正負號區間與數值標記\"}\n",
+    "ts": "2026-04-26T11:53:16.793249+00:00"
+  },
+  "image_1770377022588.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角坐標系中的拋物線與直線 y=-4",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角坐標系中的拋物線與直線 y=-4\"}\n",
+    "ts": "2026-04-26T11:53:30.218272+00:00"
+  },
+  "image_1770377025673.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "多項式函數圖形，標註點 (-3,0) 與 (2,0)",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"多項式函數圖形，標註點 (-3,0) 與 (2,0)\"}\n",
+    "ts": "2026-04-26T11:53:42.389375+00:00"
+  },
+  "image_1770377027969.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標平面上的線性規劃可行解區域與多條直線方程式標註",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標平面上的線性規劃可行解區域與多條直線方程式標註\"}\n",
+    "ts": "2026-04-26T11:53:55.949973+00:00"
+  },
+  "image_1770377044859.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數 y=f(x) 的圖形，標註與 x 軸的交點 (-4,0)、(-2,0) 與 (3,0)",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數 y=f(x) 的圖形，標註與 x 軸的交點 (-4,0)、(-2,0) 與 (3,0)\"}\n",
+    "ts": "2026-04-26T11:54:11.272265+00:00"
+  },
+  "image_1770377061714.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，與 x 軸交於原點、1 及 2",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，與 x 軸交於原點、1 及 2\"}\n",
+    "ts": "2026-04-26T11:54:25.070157+00:00"
+  }
+}

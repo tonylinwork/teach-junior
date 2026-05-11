@@ -1,0 +1,2686 @@
+{
+  "image_0117a2d8d5c21b.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{8}",
+    "note": "分數：pi over 8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{8}\",\"note\":\"分數：pi over 8\"}\n",
+    "ts": "2026-04-27T12:03:56.356438+00:00",
+    "engine": "codex"
+  },
+  "image_00198a2902b2f2.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{3}\\sin\\frac{\\pi}{3}=\\sqrt{3}\\times\\frac{\\sqrt{3}}{2}=\\frac{3}{2}",
+    "note": "三角函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{3}\\\\sin\\\\frac{\\\\pi}{3}=\\\\sqrt{3}\\\\times\\\\frac{\\\\sqrt{3}}{2}=\\\\frac{3}{2}\",\"note\":\"三角函數值計算式\"}\n",
+    "ts": "2026-04-27T12:03:57.038566+00:00",
+    "engine": "codex"
+  },
+  "image_005f3ac5cc2ec5.png": {
+    "classification": "formula",
+    "latex": "y=2\\cos(\\frac{\\pi}{3}-x)-2\\cos x+1=2(\\cos\\frac{\\pi}{3}\\cos x+\\sin\\frac{\\pi}{3}\\sin x)-2\\cos x+1",
+    "note": "三角函數展開公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2\\\\cos(\\\\frac{\\\\pi}{3}-x)-2\\\\cos x+1=2(\\\\cos\\\\frac{\\\\pi}{3}\\\\cos x+\\\\sin\\\\frac{\\\\pi}{3}\\\\sin x)-2\\\\cos x+1\",\"note\":\"三角函數展開公式\"}\n",
+    "ts": "2026-04-27T12:03:57.410969+00:00",
+    "engine": "codex"
+  },
+  "image_006d439a59aeeb.png": {
+    "classification": "formula",
+    "latex": "\\sin 2x=2",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin 2x=2\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-27T12:04:02.437947+00:00",
+    "engine": "codex"
+  },
+  "image_011c1cac1bce6b.png": {
+    "classification": "formula",
+    "latex": "a<\\frac{a^2+b^2}{2}<b",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a<\\\\frac{a^2+b^2}{2}<b\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T12:04:02.702572+00:00",
+    "engine": "codex"
+  },
+  "image_01fac670ed059c.png": {
+    "classification": "formula",
+    "latex": "\\angle CEF=\\theta",
+    "note": "角CEF等於theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle CEF=\\\\theta\",\"note\":\"角CEF等於theta\"}\n",
+    "ts": "2026-04-27T12:04:03.824981+00:00",
+    "engine": "codex"
+  },
+  "image_037d8b21b86ddb.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數符號\"}\n",
+    "ts": "2026-04-27T12:04:06.647457+00:00",
+    "engine": "codex"
+  },
+  "image_01ff68fc075bc2.png": {
+    "classification": "formula",
+    "latex": "y=g(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=g(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-27T12:04:07.111945+00:00",
+    "engine": "codex"
+  },
+  "image_012c662538908c.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x=\\sqrt{2}\\sin(x+\\frac{\\pi}{4})",
+    "note": "三角函數和角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\cos x=\\\\sqrt{2}\\\\sin(x+\\\\frac{\\\\pi}{4})\",\"note\":\"三角函數和角公式\"}\n",
+    "ts": "2026-04-27T12:04:12.316824+00:00",
+    "engine": "codex"
+  },
+  "image_03b6684f7ca09a.png": {
+    "classification": "formula",
+    "latex": "\\tan x+\\frac{1}{\\tan x}=\\frac{\\sin x}{\\cos x}+\\frac{\\cos x}{\\sin x}=\\frac{1}{\\sin x\\cos x}=\\frac{2}{\\sin 2x}=1",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan x+\\\\frac{1}{\\\\tan x}=\\\\frac{\\\\sin x}{\\\\cos x}+\\\\frac{\\\\cos x}{\\\\sin x}=\\\\frac{1}{\\\\sin x\\\\cos x}=\\\\frac{2}{\\\\sin 2x}=1\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:04:12.942522+00:00",
+    "engine": "codex"
+  },
+  "image_0509111301f133.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角函數曲線圖，含x軸刻度與y軸標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角函數曲線圖，含x軸刻度與y軸標示\"}\n",
+    "ts": "2026-04-27T12:04:13.394405+00:00",
+    "engine": "codex"
+  },
+  "image_05179aae39447b.png": {
+    "classification": "formula",
+    "latex": "\\frac{5\\pi}{6}",
+    "note": "純數學分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5\\\\pi}{6}\",\"note\":\"純數學分式\"}\n",
+    "ts": "2026-04-27T12:04:14.514064+00:00",
+    "engine": "codex"
+  },
+  "image_05296f44f49eda.png": {
+    "classification": "formula",
+    "latex": "\\frac{11\\pi}{6}",
+    "note": "純數學分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{11\\\\pi}{6}\",\"note\":\"純數學分式\"}\n",
+    "ts": "2026-04-27T12:04:17.519705+00:00",
+    "engine": "codex"
+  },
+  "image_05193f479e36d5.png": {
+    "classification": "formula",
+    "latex": "2\\sqrt{3}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\sqrt{3}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:04:17.827162+00:00",
+    "engine": "codex"
+  },
+  "image_05e3edcfe328af.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos54^\\circ+\\sin54^\\circ",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos54^\\\\circ+\\\\sin54^\\\\circ\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:04:18.309309+00:00",
+    "engine": "codex"
+  },
+  "image_0650de636d64c6.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "曲線圖，標示 x=\\frac{3\\pi}{4}",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"曲線圖，標示 x=\\\\frac{3\\\\pi}{4}\"}\n",
+    "ts": "2026-04-27T12:04:19.800376+00:00",
+    "engine": "codex"
+  },
+  "image_065c3b429c5e66.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{5}",
+    "note": "分數四分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{5}\",\"note\":\"分數四分之五\"}\n",
+    "ts": "2026-04-27T12:04:22.527475+00:00",
+    "engine": "codex"
+  },
+  "image_065fa072422bbd.png": {
+    "classification": "formula",
+    "latex": "\\left|\\sin x+\\cos x\\right|=\\left|\\sqrt{2}\\sin\\left(x+\\frac{\\pi}{4}\\right)\\right|",
+    "note": "三角恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\sin x+\\\\cos x\\\\right|=\\\\left|\\\\sqrt{2}\\\\sin\\\\left(x+\\\\frac{\\\\pi}{4}\\\\right)\\\\right|\",\"note\":\"三角恆等式\"}\n",
+    "ts": "2026-04-27T12:04:23.806061+00:00",
+    "engine": "codex"
+  },
+  "image_073fa1bbc357fb.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}\\sin\\left(x-\\frac{\\pi}{4}\\right)",
+    "note": "純三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\\\\sin\\\\left(x-\\\\frac{\\\\pi}{4}\\\\right)\",\"note\":\"純三角函數公式\"}\n",
+    "ts": "2026-04-27T12:04:25.495530+00:00",
+    "engine": "codex"
+  },
+  "image_0658a3d457fc35.png": {
+    "classification": "formula",
+    "latex": "x \\in \\mathbb{R}",
+    "note": "實數範圍條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\in \\\\mathbb{R}\",\"note\":\"實數範圍條件\"}\n",
+    "ts": "2026-04-27T12:04:25.886272+00:00",
+    "engine": "codex"
+  },
+  "image_07a14574a2e577.png": {
+    "classification": "formula",
+    "latex": "\\pi",
+    "note": "圓周率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\pi\",\"note\":\"圓周率符號\"}\n",
+    "ts": "2026-04-27T12:04:27.222164+00:00",
+    "engine": "codex"
+  },
+  "image_07db09ddf6b674.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，含 y=f(x)、y=g(x)、y=h(x) 與 x 軸標示",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，含 y=f(x)、y=g(x)、y=h(x) 與 x 軸標示\"}\n",
+    "ts": "2026-04-27T12:04:29.587005+00:00",
+    "engine": "codex"
+  },
+  "image_08f0188e6a3656.png": {
+    "classification": "formula",
+    "latex": "y=\\frac{1}{2}(\\sqrt{3}\\sin x+3\\cos x)",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\frac{1}{2}(\\\\sqrt{3}\\\\sin x+3\\\\cos x)\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:04:33.735996+00:00",
+    "engine": "codex"
+  },
+  "image_0846c967ef872f.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{10} \\le g(x) \\le \\sqrt{10}",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{10} \\\\le g(x) \\\\le \\\\sqrt{10}\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-27T12:04:35.235922+00:00",
+    "engine": "codex"
+  },
+  "image_09ea86ca746329.png": {
+    "classification": "formula",
+    "latex": "=5\\sin\\left(x+\\alpha\\right)",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=5\\\\sin\\\\left(x+\\\\alpha\\\\right)\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:04:35.242408+00:00",
+    "engine": "codex"
+  },
+  "image_0995749be3b512.png": {
+    "classification": "formula",
+    "latex": "=-(\\sin x\\cos\\frac{\\pi}{3}-\\cos x\\sin\\frac{\\pi}{3})",
+    "note": "三角函數差角公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=-(\\\\sin x\\\\cos\\\\frac{\\\\pi}{3}-\\\\cos x\\\\sin\\\\frac{\\\\pi}{3})\",\"note\":\"三角函數差角公式的一部分\"}\n",
+    "ts": "2026-04-27T12:04:35.460728+00:00",
+    "engine": "codex"
+  },
+  "image_0b4af296ca13ec.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}",
+    "note": "根號二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\",\"note\":\"根號二\"}\n",
+    "ts": "2026-04-27T12:04:40.035392+00:00",
+    "engine": "codex"
+  },
+  "image_0b63b22c8944b0.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}",
+    "note": "負根號二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\",\"note\":\"負根號二\"}\n",
+    "ts": "2026-04-27T12:04:40.073919+00:00",
+    "engine": "codex"
+  },
+  "image_0c2b7aa9c9fced.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-27T12:04:40.131101+00:00",
+    "engine": "codex"
+  },
+  "image_0b49302bc6b7f7.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{a^2+b^2}+1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{a^2+b^2}+1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:04:41.282512+00:00",
+    "engine": "codex"
+  },
+  "image_0e85b2ae58d5c9.png": {
+    "classification": "formula",
+    "latex": "\\pi",
+    "note": "圓周率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\pi\",\"note\":\"圓周率符號\"}\n",
+    "ts": "2026-04-27T12:04:45.784193+00:00",
+    "engine": "codex"
+  },
+  "image_0ccdea58e8f93c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\cos 80^\\circ}-\\frac{\\sqrt{3}}{\\sin 80^\\circ}",
+    "note": "三角函數分式相減",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\cos 80^\\\\circ}-\\\\frac{\\\\sqrt{3}}{\\\\sin 80^\\\\circ}\",\"note\":\"三角函數分式相減\"}\n",
+    "ts": "2026-04-27T12:04:47.635792+00:00",
+    "engine": "codex"
+  },
+  "image_0f1addb6bcf861.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x=-\\frac{1}{100}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\cos x=-\\\\frac{1}{100}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:04:48.012170+00:00",
+    "engine": "codex"
+  },
+  "image_0e39f882742ad7.png": {
+    "classification": "formula",
+    "latex": "f(x)=2\\sin x+2\\cos x",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2\\\\sin x+2\\\\cos x\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:04:50.533617+00:00",
+    "engine": "codex"
+  },
+  "image_108de9b8968c17.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{7\\pi}{4}+2k\\pi",
+    "note": "三角方程通解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{7\\\\pi}{4}+2k\\\\pi\",\"note\":\"三角方程通解\"}\n",
+    "ts": "2026-04-27T12:04:53.411924+00:00",
+    "engine": "codex"
+  },
+  "image_0f4c66ded47241.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\sqrt{2}\\sin\\left(\\frac{x}{2}-\\frac{\\pi}{4}\\right)\\right|",
+    "note": "三角函數絕對值式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\sqrt{2}\\\\sin\\\\left(\\\\frac{x}{2}-\\\\frac{\\\\pi}{4}\\\\right)\\\\right|\",\"note\":\"三角函數絕對值式\"}\n",
+    "ts": "2026-04-27T12:04:53.972893+00:00",
+    "engine": "codex"
+  },
+  "image_1243212bf085a7.png": {
+    "classification": "formula",
+    "latex": "2 > 2\\sin 104^\\circ > 2\\sin 114^\\circ",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2 > 2\\\\sin 104^\\\\circ > 2\\\\sin 114^\\\\circ\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-04-27T12:04:54.133476+00:00",
+    "engine": "codex"
+  },
+  "image_12487598cbc0f7.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角函數曲線與座標軸，標示a與2π+a",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角函數曲線與座標軸，標示a與2π+a\"}\n",
+    "ts": "2026-04-27T12:04:56.900014+00:00",
+    "engine": "codex"
+  },
+  "image_131f3c6112844b.png": {
+    "classification": "formula",
+    "latex": "\\alpha",
+    "note": "希臘字母 alpha",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\alpha\",\"note\":\"希臘字母 alpha\"}\n",
+    "ts": "2026-04-27T12:04:57.575930+00:00",
+    "engine": "codex"
+  },
+  "image_13f89c3266e99d.png": {
+    "classification": "formula",
+    "latex": "y=\\sin x+\\cos x=\\sqrt{2}\\sin\\left(x+\\frac{\\pi}{4}\\right)\\Rightarrow",
+    "note": "三角函數和化為單一正弦式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sin x+\\\\cos x=\\\\sqrt{2}\\\\sin\\\\left(x+\\\\frac{\\\\pi}{4}\\\\right)\\\\Rightarrow\",\"note\":\"三角函數和化為單一正弦式\"}\n",
+    "ts": "2026-04-27T12:05:00.452453+00:00",
+    "engine": "codex"
+  },
+  "image_14f0b33634094d.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\sin x+\\frac{1}{\\sqrt{2}}\\cos x\\right)",
+    "note": "三角函數和式變形",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\cos x=\\\\sqrt{2}\\\\left(\\\\frac{1}{\\\\sqrt{2}}\\\\sin x+\\\\frac{1}{\\\\sqrt{2}}\\\\cos x\\\\right)\",\"note\":\"三角函數和式變形\"}\n",
+    "ts": "2026-04-27T12:05:00.815911+00:00",
+    "engine": "codex"
+  },
+  "image_15b18079f31b02.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{2}",
+    "note": "pi over 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{2}\",\"note\":\"pi over 2\"}\n",
+    "ts": "2026-04-27T12:05:02.190695+00:00",
+    "engine": "codex"
+  },
+  "image_159160f6293f35.png": {
+    "classification": "formula",
+    "latex": "f(0)=4\\sin 0-3\\cos 0=-3",
+    "note": "函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(0)=4\\\\sin 0-3\\\\cos 0=-3\",\"note\":\"函數值計算式\"}\n",
+    "ts": "2026-04-27T12:05:03.752895+00:00",
+    "engine": "codex"
+  },
+  "image_15d0475323a4c0.png": {
+    "classification": "formula",
+    "latex": "\\frac{3\\pi}{2}",
+    "note": "分數形式的角度值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3\\\\pi}{2}\",\"note\":\"分數形式的角度值\"}\n",
+    "ts": "2026-04-27T12:05:04.966953+00:00",
+    "engine": "codex"
+  },
+  "image_17994f937e359e.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角函數圖形，含x軸標記與極值標籤",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角函數圖形，含x軸標記與極值標籤\"}\n",
+    "ts": "2026-04-27T12:05:07.327249+00:00",
+    "engine": "codex"
+  },
+  "image_17243a5869e938.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{2}\\sin(2x-\\frac{\\pi}{4})",
+    "note": "三角函數化簡結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{2}\\\\sin(2x-\\\\frac{\\\\pi}{4})\",\"note\":\"三角函數化簡結果\"}\n",
+    "ts": "2026-04-27T12:05:07.749442+00:00",
+    "engine": "codex"
+  },
+  "image_1bcbf4272cd512.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "Graph of y=|sin x| with axes and period marks",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"Graph of y=|sin x| with axes and period marks\"}\n",
+    "ts": "2026-04-27T12:05:09.471659+00:00",
+    "engine": "codex"
+  },
+  "image_1b8b29050bfbaa.png": {
+    "classification": "formula",
+    "latex": "\\tan A=\\tan(\\phi+\\frac{\\pi}{2}+2k\\pi)=-\\frac{1}{\\tan\\phi}=-\\frac{\\cos\\phi}{\\sin\\phi}=-\\frac{\\frac{2}{\\sqrt{5}}}{\\frac{1}{\\sqrt{5}}}=-2",
+    "note": "正切角度轉換與化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan A=\\\\tan(\\\\phi+\\\\frac{\\\\pi}{2}+2k\\\\pi)=-\\\\frac{1}{\\\\tan\\\\phi}=-\\\\frac{\\\\cos\\\\phi}{\\\\sin\\\\phi}=-\\\\frac{\\\\frac{2}{\\\\sqrt{5}}}{\\\\frac{1}{\\\\sqrt{5}}}=-2\",\"note\":\"正切角度轉換與化簡\"}\n",
+    "ts": "2026-04-27T12:05:12.099551+00:00",
+    "engine": "codex"
+  },
+  "image_1d8eb5e2446633.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{3}",
+    "note": "純數學分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{3}\",\"note\":\"純數學分式\"}\n",
+    "ts": "2026-04-27T12:05:13.103692+00:00",
+    "engine": "codex"
+  },
+  "image_1f663a3c34d973.png": {
+    "classification": "formula",
+    "latex": "k \\in \\mathbb{Z}",
+    "note": "整數條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k \\\\in \\\\mathbb{Z}\",\"note\":\"整數條件\"}\n",
+    "ts": "2026-04-27T12:05:13.851037+00:00",
+    "engine": "codex"
+  },
+  "image_1f78c966679272.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2} \\le \\sin x + \\cos x \\le \\sqrt{2}",
+    "note": "三角不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2} \\\\le \\\\sin x + \\\\cos x \\\\le \\\\sqrt{2}\",\"note\":\"三角不等式\"}\n",
+    "ts": "2026-04-27T12:05:15.959229+00:00",
+    "engine": "codex"
+  },
+  "image_2131fe7554354b.png": {
+    "classification": "formula",
+    "latex": "y=\\left|\\sin x\\right|",
+    "note": "絕對值正弦函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\left|\\\\sin x\\\\right|\",\"note\":\"絕對值正弦函數\"}\n",
+    "ts": "2026-04-27T12:05:18.375287+00:00",
+    "engine": "codex"
+  },
+  "image_2313cf70a18ad4.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-27T12:05:18.529852+00:00",
+    "engine": "codex"
+  },
+  "image_1fbd7845335b4a.png": {
+    "classification": "formula",
+    "latex": "(0,-1)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,-1)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:05:19.330861+00:00",
+    "engine": "codex"
+  },
+  "image_232c1ab18df38d.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{10}\\le f(x)\\le \\sqrt{10}",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{10}\\\\le f(x)\\\\le \\\\sqrt{10}\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-27T12:05:21.245282+00:00",
+    "engine": "codex"
+  },
+  "image_26ecf72083923a.png": {
+    "classification": "formula",
+    "latex": "\\sin x=\\tan x=\\frac{\\sin x}{\\cos x}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x=\\\\tan x=\\\\frac{\\\\sin x}{\\\\cos x}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:05:24.781741+00:00",
+    "engine": "codex"
+  },
+  "image_2771280fb955c2.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{\\sqrt{5}}=\\cos\\phi",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{\\\\sqrt{5}}=\\\\cos\\\\phi\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:05:26.873323+00:00",
+    "engine": "codex"
+  },
+  "image_23c32a6cc11a1f.png": {
+    "classification": "formula",
+    "latex": "=2\\sin(74^\\circ+60^\\circ)=2\\sin134^\\circ",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin(74^\\\\circ+60^\\\\circ)=2\\\\sin134^\\\\circ\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:05:27.087613+00:00",
+    "engine": "codex"
+  },
+  "image_2634945c0ae711.png": {
+    "classification": "formula",
+    "latex": "a=\\sin15^\\circ+\\cos15^\\circ=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\sin15^\\circ+\\frac{1}{\\sqrt{2}}\\cos15^\\circ\\right)=\\sqrt{2}\\sin60^\\circ",
+    "note": "三角函數和角公式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sin15^\\\\circ+\\\\cos15^\\\\circ=\\\\sqrt{2}\\\\left(\\\\frac{1}{\\\\sqrt{2}}\\\\sin15^\\\\circ+\\\\frac{1}{\\\\sqrt{2}}\\\\cos15^\\\\circ\\\\right)=\\\\sqrt{2}\\\\sin60^\\\\circ\",\"note\":\"三角函數和角公式推導\"}\n",
+    "ts": "2026-04-27T12:05:27.527087+00:00",
+    "engine": "codex"
+  },
+  "image_27e03ec1e1ddc7.png": {
+    "classification": "formula",
+    "latex": "\\overline{SR}=-2\\overline{ST}=2\\sin\\theta",
+    "note": "線段關係與三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{SR}=-2\\\\overline{ST}=2\\\\sin\\\\theta\",\"note\":\"線段關係與三角函數公式\"}\n",
+    "ts": "2026-04-27T12:05:30.811487+00:00",
+    "engine": "codex"
+  },
+  "image_2841f2892be396.png": {
+    "classification": "formula",
+    "latex": "x+\\alpha=\\frac{\\pi}{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+\\\\alpha=\\\\frac{\\\\pi}{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:05:31.621817+00:00",
+    "engine": "codex"
+  },
+  "image_291bb9b1d5734f.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{2}",
+    "note": "pi over 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{2}\",\"note\":\"pi over 2\"}\n",
+    "ts": "2026-04-27T12:05:31.910392+00:00",
+    "engine": "codex"
+  },
+  "image_28e3ccc11f88d0.png": {
+    "classification": "formula",
+    "latex": "f(x)=3\\sin x+4\\cos x",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=3\\\\sin x+4\\\\cos x\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:05:31.963460+00:00",
+    "engine": "codex"
+  },
+  "image_2d512b1ee50c4c.png": {
+    "classification": "formula",
+    "latex": "0 \\le f(x) \\le 10",
+    "note": "函數值範圍不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0 \\\\le f(x) \\\\le 10\",\"note\":\"函數值範圍不等式\"}\n",
+    "ts": "2026-04-27T12:05:36.972391+00:00",
+    "engine": "codex"
+  },
+  "image_2992104be7266b.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{3\\pi}{4}+k\\pi",
+    "note": "三角方程解的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{3\\\\pi}{4}+k\\\\pi\",\"note\":\"三角方程解的公式\"}\n",
+    "ts": "2026-04-27T12:05:37.304081+00:00",
+    "engine": "codex"
+  },
+  "image_2c1a403ffe1ced.png": {
+    "classification": "formula",
+    "latex": "-2\\sqrt{3}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\\\\sqrt{3}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:05:38.397463+00:00",
+    "engine": "codex"
+  },
+  "image_2b86cedafb0229.png": {
+    "classification": "formula",
+    "latex": "\\frac{a^2+b^2}{2}<b<a",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a^2+b^2}{2}<b<a\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T12:05:39.510161+00:00",
+    "engine": "codex"
+  },
+  "image_2ef3dcc601e504.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE}=a",
+    "note": "線段AE長度為a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AE}=a\",\"note\":\"線段AE長度為a\"}\n",
+    "ts": "2026-04-27T12:05:43.106911+00:00",
+    "engine": "codex"
+  },
+  "image_2f0dc51955b186.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=\\sqrt{a^2+b^2}\\sin(x+\\theta)",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=\\\\sqrt{a^2+b^2}\\\\sin(x+\\\\theta)\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:05:43.298672+00:00",
+    "engine": "codex"
+  },
+  "image_30f466ca967eff.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x",
+    "note": "三角函數差式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x\",\"note\":\"三角函數差式\"}\n",
+    "ts": "2026-04-27T12:05:43.968721+00:00",
+    "engine": "codex"
+  },
+  "image_31a92ba7bfdf8b.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=5\\left(\\frac{4}{5}\\sin 2x-\\frac{3}{5}\\cos 2x\\right)+5",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=5\\\\left(\\\\frac{4}{5}\\\\sin 2x-\\\\frac{3}{5}\\\\cos 2x\\\\right)+5\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:05:44.892607+00:00",
+    "engine": "codex"
+  },
+  "image_31f75648f827b9.png": {
+    "classification": "formula",
+    "latex": "\\overline{OR}",
+    "note": "線段 OR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OR}\",\"note\":\"線段 OR\"}\n",
+    "ts": "2026-04-27T12:05:48.196540+00:00",
+    "engine": "codex"
+  },
+  "image_3381d6bb2e6ea2.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}\\le \\sin x-\\cos x\\le \\sqrt{2}",
+    "note": "三角不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\\\\le \\\\sin x-\\\\cos x\\\\le \\\\sqrt{2}\",\"note\":\"三角不等式\"}\n",
+    "ts": "2026-04-27T12:05:48.330176+00:00",
+    "engine": "codex"
+  },
+  "image_339677ad689232.png": {
+    "classification": "formula",
+    "latex": "=2\\left(\\frac{\\sqrt{3}}{2}\\cos 74^\\circ+\\frac{1}{2}\\sin 74^\\circ\\right)",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\cos 74^\\\\circ+\\\\frac{1}{2}\\\\sin 74^\\\\circ\\\\right)\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:05:51.205999+00:00",
+    "engine": "codex"
+  },
+  "image_362186d014f029.png": {
+    "classification": "formula",
+    "latex": "(\\cos\\theta-\\sqrt{3}\\sin\\theta)\\times 2\\sin\\theta",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\cos\\\\theta-\\\\sqrt{3}\\\\sin\\\\theta)\\\\times 2\\\\sin\\\\theta\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:05:53.308029+00:00",
+    "engine": "codex"
+  },
+  "image_36352add9322e7.png": {
+    "classification": "formula",
+    "latex": "y=2\\sin x+2\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2\\\\sin x+2\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:05:53.597109+00:00",
+    "engine": "codex"
+  },
+  "image_363d59f2edc628.png": {
+    "classification": "formula",
+    "latex": "\\sin(2x-\\theta)=1",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(2x-\\\\theta)=1\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-27T12:05:57.592362+00:00",
+    "engine": "codex"
+  },
+  "image_38d5038aed2a0e.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，含三角形與角度標示θ",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，含三角形與角度標示θ\"}\n",
+    "ts": "2026-04-27T12:05:57.768773+00:00",
+    "engine": "codex"
+  },
+  "image_3758c9aa185292.png": {
+    "classification": "formula",
+    "latex": "\\left(0,\\frac{\\sqrt{3}}{2}\\right)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(0,\\\\frac{\\\\sqrt{3}}{2}\\\\right)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:05:58.238992+00:00",
+    "engine": "codex"
+  },
+  "image_38ec87ddf3dcb4.png": {
+    "classification": "formula",
+    "latex": "=2\\sin(64^\\circ+60^\\circ)=2\\sin124^\\circ",
+    "note": "三角函數角度相加化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin(64^\\\\circ+60^\\\\circ)=2\\\\sin124^\\\\circ\",\"note\":\"三角函數角度相加化簡\"}\n",
+    "ts": "2026-04-27T12:06:01.276937+00:00",
+    "engine": "codex"
+  },
+  "image_393c06bf41021b.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\tan x+\\cot x}{2}\\ge\\sqrt{\\tan x\\cot x}",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\tan x+\\\\cot x}{2}\\\\ge\\\\sqrt{\\\\tan x\\\\cot x}\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-04-27T12:06:03.121898+00:00",
+    "engine": "codex"
+  },
+  "image_39d7795ab43de3.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta=\\frac{4}{5}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos\\theta=\\frac{4}{5}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:06:04.583880+00:00",
+    "engine": "codex"
+  },
+  "image_3a6d1030ebf096.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x=\\sqrt{3}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\cos x=\\\\sqrt{3}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:06:05.979314+00:00",
+    "engine": "codex"
+  },
+  "image_3c61ca64915e95.png": {
+    "classification": "formula",
+    "latex": "-2\\sqrt{2}\\le h(x)\\le 2\\sqrt{2}",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\\\\sqrt{2}\\\\le h(x)\\\\le 2\\\\sqrt{2}\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-27T12:06:08.772263+00:00",
+    "engine": "codex"
+  },
+  "image_3e021bd54b7987.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{3}\\sin x-\\cos x+1=2(\\sin x\\cos\\frac{\\pi}{6}-\\cos x\\sin\\frac{\\pi}{6})+1=2\\sin(x-\\frac{\\pi}{6})+1",
+    "note": "三角函數化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{3}\\\\sin x-\\\\cos x+1=2(\\\\sin x\\\\cos\\\\frac{\\\\pi}{6}-\\\\cos x\\\\sin\\\\frac{\\\\pi}{6})+1=2\\\\sin(x-\\\\frac{\\\\pi}{6})+1\",\"note\":\"三角函數化簡公式\"}\n",
+    "ts": "2026-04-27T12:06:10.182813+00:00",
+    "engine": "codex"
+  },
+  "image_3eae1062498643.png": {
+    "classification": "formula",
+    "latex": "k",
+    "note": "單一變數 k",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k\",\"note\":\"單一變數 k\"}\n",
+    "ts": "2026-04-27T12:06:11.977589+00:00",
+    "engine": "codex"
+  },
+  "image_3e9e66859c6351.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}\\sin\\left(x-\\frac{\\pi}{4}\\right)",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\\\\sin\\\\left(x-\\\\frac{\\\\pi}{4}\\\\right)\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:06:12.276842+00:00",
+    "engine": "codex"
+  },
+  "image_3ef722eb4b2190.png": {
+    "classification": "formula",
+    "latex": "\\overline{SR}=-2\\sin\\theta",
+    "note": "線段SR的有向長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{SR}=-2\\\\sin\\\\theta\",\"note\":\"線段SR的有向長度公式\"}\n",
+    "ts": "2026-04-27T12:06:16.809306+00:00",
+    "engine": "codex"
+  },
+  "image_3eaff8116f4687.png": {
+    "classification": "formula",
+    "latex": "A=\\phi+\\frac{\\pi}{2}+2k\\pi",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\phi+\\\\frac{\\\\pi}{2}+2k\\\\pi\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:17.053972+00:00",
+    "engine": "codex"
+  },
+  "image_3fb4d307b8ba06.png": {
+    "classification": "formula",
+    "latex": "\\overline{SR}",
+    "note": "線段 SR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{SR}\",\"note\":\"線段 SR\"}\n",
+    "ts": "2026-04-27T12:06:17.932961+00:00",
+    "engine": "codex"
+  },
+  "image_3f084628bb9cb4.png": {
+    "classification": "formula",
+    "latex": "\\tan x+\\frac{1}{\\tan x}=1",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan x+\\\\frac{1}{\\\\tan x}=1\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:06:20.577017+00:00",
+    "engine": "codex"
+  },
+  "image_41aa99b56337b0.png": {
+    "classification": "formula",
+    "latex": "2\\pi",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\pi\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:22.114206+00:00",
+    "engine": "codex"
+  },
+  "image_4046f35cb263f5.png": {
+    "classification": "formula",
+    "latex": "\\theta = x = \\frac{\\pi}{2} - \\alpha",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta = x = \\\\frac{\\\\pi}{2} - \\\\alpha\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:23.668182+00:00",
+    "engine": "codex"
+  },
+  "image_422f35f280afb7.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{4\\pi}{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{4\\\\pi}{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:27.715296+00:00",
+    "engine": "codex"
+  },
+  "image_401a093f8a4130.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}",
+    "note": "根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\",\"note\":\"根號3\"}\n",
+    "ts": "2026-04-27T12:06:27.855294+00:00",
+    "engine": "codex"
+  },
+  "image_426028f559409f.png": {
+    "classification": "formula",
+    "latex": "=2\\left(\\frac{\\sqrt{3}}{2}\\cos54^\\circ+\\frac{1}{2}\\sin54^\\circ\\right)",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\cos54^\\\\circ+\\\\frac{1}{2}\\\\sin54^\\\\circ\\\\right)\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:06:31.504234+00:00",
+    "engine": "codex"
+  },
+  "image_4242b219dcb794.png": {
+    "classification": "formula",
+    "latex": "=2\\sin(54^\\circ+60^\\circ)=2\\sin114^\\circ",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin(54^\\\\circ+60^\\\\circ)=2\\\\sin114^\\\\circ\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:06:32.468481+00:00",
+    "engine": "codex"
+  },
+  "image_45b4088242f020.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\sin x-\\frac{1}{\\sqrt{2}}\\cos x\\right)",
+    "note": "三角函數式變形",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x=\\\\sqrt{2}\\\\left(\\\\frac{1}{\\\\sqrt{2}}\\\\sin x-\\\\frac{1}{\\\\sqrt{2}}\\\\cos x\\\\right)\",\"note\":\"三角函數式變形\"}\n",
+    "ts": "2026-04-27T12:06:33.198345+00:00",
+    "engine": "codex"
+  },
+  "image_43996a1f219fe2.png": {
+    "classification": "formula",
+    "latex": "=2\\left(\\frac{\\sqrt{3}}{2}\\cos84^\\circ+\\frac{1}{2}\\sin84^\\circ\\right)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\cos84^\\\\circ+\\\\frac{1}{2}\\\\sin84^\\\\circ\\\\right)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:36.427341+00:00",
+    "engine": "codex"
+  },
+  "image_4846c18772c69f.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{5}}=\\sin \\phi",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{5}}=\\\\sin \\\\phi\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:39.993952+00:00",
+    "engine": "codex"
+  },
+  "image_46c3fc894119f0.png": {
+    "classification": "formula",
+    "latex": "=2\\sqrt{3}(\\cos\\frac{\\pi}{6}\\sin x+\\sin\\frac{\\pi}{6}\\cos x)",
+    "note": "三角函數和角公式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sqrt{3}(\\\\cos\\\\frac{\\\\pi}{6}\\\\sin x+\\\\sin\\\\frac{\\\\pi}{6}\\\\cos x)\",\"note\":\"三角函數和角公式表達式\"}\n",
+    "ts": "2026-04-27T12:06:40.467053+00:00",
+    "engine": "codex"
+  },
+  "image_4867e5b0ce36ed.png": {
+    "classification": "formula",
+    "latex": "e=-\\sin70^\\circ+\\cos70^\\circ",
+    "note": "三角函數代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e=-\\\\sin70^\\\\circ+\\\\cos70^\\\\circ\",\"note\":\"三角函數代數式\"}\n",
+    "ts": "2026-04-27T12:06:42.840883+00:00",
+    "engine": "codex"
+  },
+  "image_492b57f3c2e5e6.png": {
+    "classification": "formula",
+    "latex": "x\\in\\mathbb{R}",
+    "note": "實數範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\\\\in\\\\mathbb{R}\",\"note\":\"實數範圍\"}\n",
+    "ts": "2026-04-27T12:06:44.927564+00:00",
+    "engine": "codex"
+  },
+  "image_4bb88bcf4b58f1.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-27T12:06:45.183277+00:00",
+    "engine": "codex"
+  },
+  "image_4bb7de8ac30a84.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin x+\\cos x\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:06:45.186833+00:00",
+    "engine": "codex"
+  },
+  "image_4bc8e377aa9e32.png": {
+    "classification": "formula",
+    "latex": "b < \\frac{a^2 + b^2}{2} < a",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b < \\\\frac{a^2 + b^2}{2} < a\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T12:06:49.454736+00:00",
+    "engine": "codex"
+  },
+  "image_4c065c79a3e94d.png": {
+    "classification": "formula",
+    "latex": "\\frac{2\\pi}{2}=\\pi",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2\\\\pi}{2}=\\\\pi\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-27T12:06:49.589928+00:00",
+    "engine": "codex"
+  },
+  "image_4d51c58a5c84d1.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{\\pi}{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{\\\\pi}{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:06:49.676612+00:00",
+    "engine": "codex"
+  },
+  "image_4c0fed8aec5015.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x=\\frac{1}{100}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\cos x=\\\\frac{1}{100}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:06:52.383364+00:00",
+    "engine": "codex"
+  },
+  "image_4f64af8715826e.png": {
+    "classification": "formula",
+    "latex": "\\left|\\sin\\frac{x}{2}-\\cos\\frac{x}{2}\\right|",
+    "note": "絕對值三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\sin\\\\frac{x}{2}-\\\\cos\\\\frac{x}{2}\\\\right|\",\"note\":\"絕對值三角函數式\"}\n",
+    "ts": "2026-04-27T12:06:54.609210+00:00",
+    "engine": "codex"
+  },
+  "image_50873ed8383420.png": {
+    "classification": "formula",
+    "latex": "e=-\\sqrt{2}\\sin115^\\circ=-\\sqrt{2}\\sin65^\\circ",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e=-\\\\sqrt{2}\\\\sin115^\\\\circ=-\\\\sqrt{2}\\\\sin65^\\\\circ\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:06:55.740460+00:00",
+    "engine": "codex"
+  },
+  "image_5136340e88a315.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta=\\frac{3}{\\sqrt{13}}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta=\\\\frac{3}{\\\\sqrt{13}}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:06:55.853927+00:00",
+    "engine": "codex"
+  },
+  "image_52da470a98f6bf.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x=\\sqrt{2}\\sin\\left(x-\\frac{\\pi}{4}\\right)",
+    "note": "三角函數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x=\\\\sqrt{2}\\\\sin\\\\left(x-\\\\frac{\\\\pi}{4}\\\\right)\",\"note\":\"三角函數恆等式\"}\n",
+    "ts": "2026-04-27T12:06:58.532046+00:00",
+    "engine": "codex"
+  },
+  "image_5360616f8b254c.png": {
+    "classification": "formula",
+    "latex": "x - \\frac{\\pi}{6} = \\frac{\\pi}{2} \\Rightarrow x = \\frac{2\\pi}{3}",
+    "note": "解一元三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x - \\\\frac{\\\\pi}{6} = \\\\frac{\\\\pi}{2} \\\\Rightarrow x = \\\\frac{2\\\\pi}{3}\",\"note\":\"解一元三角方程式\"}\n",
+    "ts": "2026-04-27T12:07:01.524664+00:00",
+    "engine": "codex"
+  },
+  "image_53620a95d3363c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 79^\\circ+\\sin 79^\\circ",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 79^\\\\circ+\\\\sin 79^\\\\circ\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:07:01.828053+00:00",
+    "engine": "codex"
+  },
+  "image_5750a305fb2ed7.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\sqrt{3}\\cos x=k",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\sqrt{3}\\\\cos x=k\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:07:02.200623+00:00",
+    "engine": "codex"
+  },
+  "image_57be13c73f95da.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-27T12:07:03.840691+00:00",
+    "engine": "codex"
+  },
+  "image_5883c5f4531c50.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 74^\\circ+\\sin 74^\\circ",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 74^\\\\circ+\\\\sin 74^\\\\circ\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:07:07.466153+00:00",
+    "engine": "codex"
+  },
+  "image_5876819f74f7f7.png": {
+    "classification": "formula",
+    "latex": "\\sin x\\cos x=\\frac{1}{2}\\sin 2x",
+    "note": "三角函數倍角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x\\\\cos x=\\\\frac{1}{2}\\\\sin 2x\",\"note\":\"三角函數倍角公式\"}\n",
+    "ts": "2026-04-27T12:07:08.966830+00:00",
+    "engine": "codex"
+  },
+  "image_58dbdb1ed6f20e.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos39^\\circ+\\sin39^\\circ=2(\\frac{\\sqrt{3}}{2}\\cos39^\\circ+\\frac{1}{2}\\sin39^\\circ)=2\\sin(39^\\circ+60^\\circ)=2\\sin99^\\circ",
+    "note": "三角函數和角公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos39^\\\\circ+\\\\sin39^\\\\circ=2(\\\\frac{\\\\sqrt{3}}{2}\\\\cos39^\\\\circ+\\\\frac{1}{2}\\\\sin39^\\\\circ)=2\\\\sin(39^\\\\circ+60^\\\\circ)=2\\\\sin99^\\\\circ\",\"note\":\"三角函數和角公式化簡\"}\n",
+    "ts": "2026-04-27T12:07:10.612602+00:00",
+    "engine": "codex"
+  },
+  "image_5b15f388e169ec.png": {
+    "classification": "formula",
+    "latex": "\\frac{a+b}{2}\\ge \\sqrt{ab}",
+    "note": "算術平均大於等於幾何平均",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a+b}{2}\\\\ge \\\\sqrt{ab}\",\"note\":\"算術平均大於等於幾何平均\"}\n",
+    "ts": "2026-04-27T12:07:14.237322+00:00",
+    "engine": "codex"
+  },
+  "image_595a9bb302cb9d.png": {
+    "classification": "formula",
+    "latex": "c=\\sin 50^{\\circ}+\\cos 50^{\\circ}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\sin 50^{\\\\circ}+\\\\cos 50^{\\\\circ}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:07:15.534855+00:00",
+    "engine": "codex"
+  },
+  "image_5d2f4363a55d3b.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{a^2+b^2}+1",
+    "note": "平方根公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{a^2+b^2}+1\",\"note\":\"平方根公式\"}\n",
+    "ts": "2026-04-27T12:07:16.116883+00:00",
+    "engine": "codex"
+  },
+  "image_5caadf403d6053.png": {
+    "classification": "formula",
+    "latex": "y=2\\sin 2x-3\\cos 2x+5=\\sqrt{13}\\left(\\frac{2}{\\sqrt{13}}\\sin 2x-\\frac{3}{\\sqrt{13}}\\cos 2x\\right)+5",
+    "note": "三角函數化成振幅形式的中間步驟",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2\\\\sin 2x-3\\\\cos 2x+5=\\\\sqrt{13}\\\\left(\\\\frac{2}{\\\\sqrt{13}}\\\\sin 2x-\\\\frac{3}{\\\\sqrt{13}}\\\\cos 2x\\\\right)+5\",\"note\":\"三角函數化成振幅形式的中間步驟\"}\n",
+    "ts": "2026-04-27T12:07:16.986144+00:00",
+    "engine": "codex"
+  },
+  "image_60dad4b507a795.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x=-\\sqrt{3}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x=-\\\\sqrt{3}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:07:21.277004+00:00",
+    "engine": "codex"
+  },
+  "image_6050e2fa5630ee.png": {
+    "classification": "formula",
+    "latex": "\\tan\\theta=\\tan\\left(\\frac{\\pi}{2}-\\alpha\\right)=\\frac{1}{\\tan\\alpha}=\\frac{\\cos\\alpha}{\\sin\\alpha}=\\frac{3}{4}",
+    "note": "三角函數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan\\\\theta=\\\\tan\\\\left(\\\\frac{\\\\pi}{2}-\\\\alpha\\\\right)=\\\\frac{1}{\\\\tan\\\\alpha}=\\\\frac{\\\\cos\\\\alpha}{\\\\sin\\\\alpha}=\\\\frac{3}{4}\",\"note\":\"三角函數恆等式\"}\n",
+    "ts": "2026-04-27T12:07:21.602839+00:00",
+    "engine": "codex"
+  },
+  "image_629907d401a7ad.png": {
+    "classification": "formula",
+    "latex": "2\\pi",
+    "note": "純數學公式：2π",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\pi\",\"note\":\"純數學公式：2π\"}\n",
+    "ts": "2026-04-27T12:07:22.076607+00:00",
+    "engine": "codex"
+  },
+  "image_62a97a3bf419f0.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x=-\\frac{1}{100}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x=-\\\\frac{1}{100}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:07:23.024847+00:00",
+    "engine": "codex"
+  },
+  "image_63cbc5ef67b3ff.png": {
+    "classification": "formula",
+    "latex": "\\tan x + \\frac{1}{\\tan x} = 1",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan x + \\\\frac{1}{\\\\tan x} = 1\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:07:28.126632+00:00",
+    "engine": "codex"
+  },
+  "image_62d2b1a8dafdfa.png": {
+    "classification": "formula",
+    "latex": "a=\\sin 15^\\circ+\\cos 15^\\circ",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sin 15^\\\\circ+\\\\cos 15^\\\\circ\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:07:30.639219+00:00",
+    "engine": "codex"
+  },
+  "image_648d7b2b26b952.png": {
+    "classification": "formula",
+    "latex": "h(x)=3\\sin x-\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h(x)=3\\\\sin x-\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:07:31.003935+00:00",
+    "engine": "codex"
+  },
+  "image_632b23907eaf5b.png": {
+    "classification": "formula",
+    "latex": "\\frac{a^2+b^2}{2}>b>a",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a^2+b^2}{2}>b>a\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T12:07:33.383055+00:00",
+    "engine": "codex"
+  },
+  "image_6808d98bdc9711.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\sqrt{3}\\cos x=-3",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\sqrt{3}\\\\cos x=-3\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-27T12:07:35.831500+00:00",
+    "engine": "codex"
+  },
+  "image_65d64a07b19f7b.png": {
+    "classification": "formula",
+    "latex": "=2\\sin\\theta\\cos\\theta-2\\sqrt{3}\\sin^2\\theta=\\sin2\\theta-2\\sqrt{3}\\times\\frac{1-\\cos2\\theta}{2}=\\sin2\\theta+\\sqrt{3}\\cos2\\theta-\\sqrt{3}",
+    "note": "三角恆等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin\\\\theta\\\\cos\\\\theta-2\\\\sqrt{3}\\\\sin^2\\\\theta=\\\\sin2\\\\theta-2\\\\sqrt{3}\\\\times\\\\frac{1-\\\\cos2\\\\theta}{2}=\\\\sin2\\\\theta+\\\\sqrt{3}\\\\cos2\\\\theta-\\\\sqrt{3}\",\"note\":\"三角恆等式化簡\"}\n",
+    "ts": "2026-04-27T12:07:36.027574+00:00",
+    "engine": "codex"
+  },
+  "image_69bad72f98ff1b.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{\\pi}{3}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{\\\\pi}{3}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:07:40.089805+00:00",
+    "engine": "codex"
+  },
+  "image_68d7a75dbf7a24.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{3\\pi}{4},2\\sqrt{2}\\right)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{3\\\\pi}{4},2\\\\sqrt{2}\\\\right)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:07:40.581999+00:00",
+    "engine": "codex"
+  },
+  "image_695e76e0c05a19.png": {
+    "classification": "formula",
+    "latex": "b=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\sin17^\\circ+\\frac{1}{\\sqrt{2}}\\cos17^\\circ\\right)=\\sqrt{2}\\sin(17^\\circ+45^\\circ)=\\sqrt{2}\\sin62^\\circ",
+    "note": "三角函數和角公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\sqrt{2}\\\\left(\\\\frac{1}{\\\\sqrt{2}}\\\\sin17^\\\\circ+\\\\frac{1}{\\\\sqrt{2}}\\\\cos17^\\\\circ\\\\right)=\\\\sqrt{2}\\\\sin(17^\\\\circ+45^\\\\circ)=\\\\sqrt{2}\\\\sin62^\\\\circ\",\"note\":\"三角函數和角公式化簡\"}\n",
+    "ts": "2026-04-27T12:07:41.266119+00:00",
+    "engine": "codex"
+  },
+  "image_6a0f319b3c0112.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2} \\le \\sin x - \\cos x \\le \\sqrt{2}",
+    "note": "三角不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2} \\\\le \\\\sin x - \\\\cos x \\\\le \\\\sqrt{2}\",\"note\":\"三角不等式\"}\n",
+    "ts": "2026-04-27T12:07:42.483990+00:00",
+    "engine": "codex"
+  },
+  "image_6d21c0d9edd3c7.png": {
+    "classification": "formula",
+    "latex": "g(x)=2\\sin x+2\\cos x",
+    "note": "函數三角式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(x)=2\\\\sin x+2\\\\cos x\",\"note\":\"函數三角式\"}\n",
+    "ts": "2026-04-27T12:07:45.106424+00:00",
+    "engine": "codex"
+  },
+  "image_6cb85674bcde95.png": {
+    "classification": "formula",
+    "latex": "(0,-3)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,-3)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:07:45.502296+00:00",
+    "engine": "codex"
+  },
+  "image_6de82d6607b79e.png": {
+    "classification": "formula",
+    "latex": "=-\\sin(x-\\frac{\\pi}{3})",
+    "note": "三角函數等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=-\\\\sin(x-\\\\frac{\\\\pi}{3})\",\"note\":\"三角函數等式片段\"}\n",
+    "ts": "2026-04-27T12:07:48.079234+00:00",
+    "engine": "codex"
+  },
+  "image_6ff4179bf7d4e4.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta",
+    "note": "正切函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan \\\\theta\",\"note\":\"正切函數表達式\"}\n",
+    "ts": "2026-04-27T12:07:49.946125+00:00",
+    "engine": "codex"
+  },
+  "image_6eb6768027714a.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}\\sin\\alpha=\\dfrac{b}{\\sqrt{a^2+b^2}}\\\\\\cos\\alpha=\\dfrac{a}{\\sqrt{a^2+b^2}}\\end{cases}",
+    "note": "三角函數比值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}\\\\sin\\\\alpha=\\\\dfrac{b}{\\\\sqrt{a^2+b^2}}\\\\\\\\\\\\cos\\\\alpha=\\\\dfrac{a}{\\\\sqrt{a^2+b^2}}\\\\end{cases}\",\"note\":\"三角函數比值公式\"}\n",
+    "ts": "2026-04-27T12:07:55.725086+00:00",
+    "engine": "codex"
+  },
+  "image_6fda9e599aca39.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}",
+    "note": "平方根二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\",\"note\":\"平方根二\"}\n",
+    "ts": "2026-04-27T12:07:55.753406+00:00",
+    "engine": "codex"
+  },
+  "image_71be2589b23d08.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{3}",
+    "note": "分數四分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{3}\",\"note\":\"分數四分之三\"}\n",
+    "ts": "2026-04-27T12:07:56.365143+00:00",
+    "engine": "codex"
+  },
+  "image_71ba15a1f2ac53.png": {
+    "classification": "formula",
+    "latex": "\\sin 2\\theta+\\sqrt{3}\\cos 2\\theta-\\sqrt{3}=2\\sin(2\\theta+60^\\circ)-\\sqrt{3}",
+    "note": "三角恆等式轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin 2\\\\theta+\\\\sqrt{3}\\\\cos 2\\\\theta-\\\\sqrt{3}=2\\\\sin(2\\\\theta+60^\\\\circ)-\\\\sqrt{3}\",\"note\":\"三角恆等式轉換\"}\n",
+    "ts": "2026-04-27T12:08:00.294748+00:00",
+    "engine": "codex"
+  },
+  "image_71fa4f5110f53e.png": {
+    "classification": "formula",
+    "latex": "y=\\sin x",
+    "note": "正弦函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sin x\",\"note\":\"正弦函數公式\"}\n",
+    "ts": "2026-04-27T12:08:01.714148+00:00",
+    "engine": "codex"
+  },
+  "image_722dd84817863e.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{4}",
+    "note": "分數五分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{4}\",\"note\":\"分數五分之四\"}\n",
+    "ts": "2026-04-27T12:08:02.477232+00:00",
+    "engine": "codex"
+  },
+  "image_725a2176045daa.png": {
+    "classification": "formula",
+    "latex": "0 < \\phi < \\frac{\\pi}{2}",
+    "note": "角度范围不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0 < \\\\phi < \\\\frac{\\\\pi}{2}\",\"note\":\"角度范围不等式\"}\n",
+    "ts": "2026-04-27T12:08:03.602018+00:00",
+    "engine": "codex"
+  },
+  "image_7353943a1c9014.png": {
+    "classification": "formula",
+    "latex": "\\overline{AF}=\\sqrt{a^2+b^2}",
+    "note": "線段AF長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AF}=\\\\sqrt{a^2+b^2}\",\"note\":\"線段AF長度公式\"}\n",
+    "ts": "2026-04-27T12:08:06.871619+00:00",
+    "engine": "codex"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-27T12:08:07.434668+00:00",
+    "engine": "codex"
+  },
+  "image_7316639b014cb5.png": {
+    "classification": "formula",
+    "latex": "e",
+    "note": "斜體小寫字母 e",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e\",\"note\":\"斜體小寫字母 e\"}\n",
+    "ts": "2026-04-27T12:08:07.924142+00:00",
+    "engine": "codex"
+  },
+  "image_738494277e3ac0.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-27T12:08:08.080952+00:00",
+    "engine": "codex"
+  },
+  "image_73dafe58dcff37.png": {
+    "classification": "formula",
+    "latex": "a<b<\\frac{a^2+b^2}{2}",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a<b<\\\\frac{a^2+b^2}{2}\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T12:08:12.383169+00:00",
+    "engine": "codex"
+  },
+  "image_73b7671117e899.png": {
+    "classification": "formula",
+    "latex": "y=3\\sin x-\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=3\\\\sin x-\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:08:12.880958+00:00",
+    "engine": "codex"
+  },
+  "image_7507d50fbc1940.png": {
+    "classification": "formula",
+    "latex": "\\frac{a^2+b^2}{2}=\\sin^2 60^\\circ+\\sin^2 62^\\circ>2\\sin 60^\\circ\\sin 62^\\circ=\\sqrt{3}\\sin 62^\\circ",
+    "note": "三角不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a^2+b^2}{2}=\\\\sin^2 60^\\\\circ+\\\\sin^2 62^\\\\circ>2\\\\sin 60^\\\\circ\\\\sin 62^\\\\circ=\\\\sqrt{3}\\\\sin 62^\\\\circ\",\"note\":\"三角不等式推導\"}\n",
+    "ts": "2026-04-27T12:08:15.705968+00:00",
+    "engine": "codex"
+  },
+  "image_74dfbecc8b5ec2.png": {
+    "classification": "formula",
+    "latex": "y=|\\tan x+\\frac{1}{2}|",
+    "note": "絕對值三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=|\\\\tan x+\\\\frac{1}{2}|\",\"note\":\"絕對值三角函數公式\"}\n",
+    "ts": "2026-04-27T12:08:15.948432+00:00",
+    "engine": "codex"
+  },
+  "image_75af27ab7a9ee8.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}\\times 1+\\sqrt{2}=2\\sqrt{2}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\\\\times 1+\\\\sqrt{2}=2\\\\sqrt{2}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:08:17.606707+00:00",
+    "engine": "codex"
+  },
+  "image_760457facb8850.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}y=\\sin x+\\sqrt{3}\\cos x\\\\y=k\\end{cases}",
+    "note": "聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}y=\\\\sin x+\\\\sqrt{3}\\\\cos x\\\\\\\\y=k\\\\end{cases}\",\"note\":\"聯立方程式\"}\n",
+    "ts": "2026-04-27T12:08:20.100854+00:00",
+    "engine": "codex"
+  },
+  "image_7720efde4d6121.png": {
+    "classification": "formula",
+    "latex": "y=f(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-27T12:08:20.712497+00:00",
+    "engine": "codex"
+  },
+  "image_776d60c5dfba4e.png": {
+    "classification": "formula",
+    "latex": "-2 \\le \\sin x + \\sqrt{3}\\cos x \\le 2",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2 \\\\le \\\\sin x + \\\\sqrt{3}\\\\cos x \\\\le 2\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-04-27T12:08:21.979022+00:00",
+    "engine": "codex"
+  },
+  "image_788d1b7337683a.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}",
+    "note": "根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\",\"note\":\"根號3\"}\n",
+    "ts": "2026-04-27T12:08:24.326319+00:00",
+    "engine": "codex"
+  },
+  "image_77d25e864b9ca5.png": {
+    "classification": "formula",
+    "latex": "x=\\phi+\\frac{\\pi}{2}+2k\\pi",
+    "note": "三角方程通解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\phi+\\\\frac{\\\\pi}{2}+2k\\\\pi\",\"note\":\"三角方程通解\"}\n",
+    "ts": "2026-04-27T12:08:24.787769+00:00",
+    "engine": "codex"
+  },
+  "image_7971674d962de2.png": {
+    "classification": "formula",
+    "latex": "\\frac{4\\pi}{3}",
+    "note": "分數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4\\\\pi}{3}\",\"note\":\"分數表達式\"}\n",
+    "ts": "2026-04-27T12:08:26.235606+00:00",
+    "engine": "codex"
+  },
+  "image_79aa752b44b212.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{4}",
+    "note": "分數形式的角度表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{4}\",\"note\":\"分數形式的角度表示\"}\n",
+    "ts": "2026-04-27T12:08:26.373496+00:00",
+    "engine": "codex"
+  },
+  "image_7b139ced139b3c.png": {
+    "classification": "formula",
+    "latex": "\\cos \\alpha = \\frac{4}{5}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\alpha = \\\\frac{4}{5}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:08:32.345535+00:00",
+    "engine": "codex"
+  },
+  "image_7cfe419e4b7db7.png": {
+    "classification": "formula",
+    "latex": "h(x)=\\sin(2x)+3\\cos(2x)",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h(x)=\\\\sin(2x)+3\\\\cos(2x)\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:08:32.706540+00:00",
+    "engine": "codex"
+  },
+  "image_7d6d064cdc8385.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}\\sin\\left(2x-\\frac{\\pi}{4}\\right)",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\\\\sin\\\\left(2x-\\\\frac{\\\\pi}{4}\\\\right)\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:08:32.987347+00:00",
+    "engine": "codex"
+  },
+  "image_7a029cf46e40be.png": {
+    "classification": "formula",
+    "latex": "=2\\left(\\frac{\\sqrt{3}}{2}\\cos64^\\circ+\\frac{1}{2}\\sin64^\\circ\\right)",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\cos64^\\\\circ+\\\\frac{1}{2}\\\\sin64^\\\\circ\\\\right)\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:08:34.997346+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字2\"}\n",
+    "ts": "2026-04-27T12:08:38.354505+00:00",
+    "engine": "codex"
+  },
+  "image_806d3e0971b923.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{a^2+b^2}+1=-1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{a^2+b^2}+1=-1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:08:40.261478+00:00",
+    "engine": "codex"
+  },
+  "image_7f3a28c4bc7606.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{13}(\\sin 2x\\cos\\theta-\\cos 2x\\sin\\theta)+5=\\sqrt{13}\\sin(2x-\\theta)+5>0",
+    "note": "三角恆等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{13}(\\\\sin 2x\\\\cos\\\\theta-\\\\cos 2x\\\\sin\\\\theta)+5=\\\\sqrt{13}\\\\sin(2x-\\\\theta)+5>0\",\"note\":\"三角恆等式化簡\"}\n",
+    "ts": "2026-04-27T12:08:40.959045+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-27T12:08:43.515353+00:00",
+    "engine": "codex"
+  },
+  "image_80e0da490313e6.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\sqrt{2}\\sin\\left(x-\\frac{\\pi}{4}\\right)\\right|",
+    "note": "絕對值三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\sqrt{2}\\\\sin\\\\left(x-\\\\frac{\\\\pi}{4}\\\\right)\\\\right|\",\"note\":\"絕對值三角函數式\"}\n",
+    "ts": "2026-04-27T12:08:46.071774+00:00",
+    "engine": "codex"
+  },
+  "image_80aed0a5a2b8ff.png": {
+    "classification": "formula",
+    "latex": "> 2\\sin 124^\\circ > 2\\sin 134^\\circ > 2\\sin 144^\\circ",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"> 2\\\\sin 124^\\\\circ > 2\\\\sin 134^\\\\circ > 2\\\\sin 144^\\\\circ\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-27T12:08:47.133344+00:00",
+    "engine": "codex"
+  },
+  "image_8105332985bc05.png": {
+    "classification": "formula",
+    "latex": "\\overline{OT}=\\cos\\theta",
+    "note": "線段OT等於cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OT}=\\\\cos\\\\theta\",\"note\":\"線段OT等於cos theta\"}\n",
+    "ts": "2026-04-27T12:08:49.080848+00:00",
+    "engine": "codex"
+  },
+  "image_81897f9c0e223c.png": {
+    "classification": "formula",
+    "latex": "=2\\sin(84^\\circ+60^\\circ)=2\\sin144^\\circ",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin(84^\\\\circ+60^\\\\circ)=2\\\\sin144^\\\\circ\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:08:51.200672+00:00",
+    "engine": "codex"
+  },
+  "image_829c9ec829d91d.png": {
+    "classification": "formula",
+    "latex": "=2\\sqrt{3}\\sin\\left(x+\\frac{\\pi}{6}\\right)",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sqrt{3}\\\\sin\\\\left(x+\\\\frac{\\\\pi}{6}\\\\right)\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:08:52.569143+00:00",
+    "engine": "codex"
+  },
+  "image_82e47366e7c390.png": {
+    "classification": "formula",
+    "latex": "2-\\sqrt{3}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2-\\\\sqrt{3}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-27T12:08:54.305936+00:00",
+    "engine": "codex"
+  },
+  "image_83441b0918f84f.png": {
+    "classification": "formula",
+    "latex": "f(x)=3\\sin x+4\\cos x=5\\left(\\frac{3}{5}\\sin x+\\frac{4}{5}\\cos x\\right)",
+    "note": "三角函數線性組合化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=3\\\\sin x+4\\\\cos x=5\\\\left(\\\\frac{3}{5}\\\\sin x+\\\\frac{4}{5}\\\\cos x\\\\right)\",\"note\":\"三角函數線性組合化簡\"}\n",
+    "ts": "2026-04-27T12:08:55.737749+00:00",
+    "engine": "codex"
+  },
+  "image_843860128d74ce.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=\\overline{BE}+\\overline{CE}=a\\sin x+b\\cos x=\\sqrt{a^2+b^2}\\sin(x+\\theta)",
+    "note": "三角函數和差化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=\\\\overline{BE}+\\\\overline{CE}=a\\\\sin x+b\\\\cos x=\\\\sqrt{a^2+b^2}\\\\sin(x+\\\\theta)\",\"note\":\"三角函數和差化簡公式\"}\n",
+    "ts": "2026-04-27T12:08:59.654756+00:00",
+    "engine": "codex"
+  },
+  "image_83d29c2df8fcd0.png": {
+    "classification": "formula",
+    "latex": "x=\\theta",
+    "note": "單純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\theta\",\"note\":\"單純數學等式\"}\n",
+    "ts": "2026-04-27T12:09:02.286393+00:00",
+    "engine": "codex"
+  },
+  "image_84b9fc0de5cd23.png": {
+    "classification": "formula",
+    "latex": "f(x)=\\sqrt{a^2+b^2}\\sin\\left[(x+30^\\circ)+\\alpha\\right]+1",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=\\\\sqrt{a^2+b^2}\\\\sin\\\\left[(x+30^\\\\circ)+\\\\alpha\\\\right]+1\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:09:02.498132+00:00",
+    "engine": "codex"
+  },
+  "image_874b6f9274b6f1.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{\\overline{ST}}{\\overline{SO}} = \\frac{\\overline{ST}}{1}",
+    "note": "正弦比公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{\\\\overline{ST}}{\\\\overline{SO}} = \\\\frac{\\\\overline{ST}}{1}\",\"note\":\"正弦比公式\"}\n",
+    "ts": "2026-04-27T12:09:02.699537+00:00",
+    "engine": "codex"
+  },
+  "image_87521b5a09307b.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}\\le y\\le \\sqrt{2}",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\\\\le y\\\\le \\\\sqrt{2}\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-27T12:09:05.990070+00:00",
+    "engine": "codex"
+  },
+  "image_8c855a094e6ec7.png": {
+    "classification": "formula",
+    "latex": "=5\\sin(2x-\\theta)+5",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=5\\\\sin(2x-\\\\theta)+5\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:09:09.020269+00:00",
+    "engine": "codex"
+  },
+  "image_8bdb31cd6cea88.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{5}(\\cos\\phi\\sin x-\\sin\\phi\\cos x)=\\sqrt{5}\\sin(x-\\phi)",
+    "note": "三角恆等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{5}(\\\\cos\\\\phi\\\\sin x-\\\\sin\\\\phi\\\\cos x)=\\\\sqrt{5}\\\\sin(x-\\\\phi)\",\"note\":\"三角恆等式化簡\"}\n",
+    "ts": "2026-04-27T12:09:09.225560+00:00",
+    "engine": "codex"
+  },
+  "image_8786392430c689.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x=-\\sqrt{3}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x=-\\\\sqrt{3}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:09:09.252829+00:00",
+    "engine": "codex"
+  },
+  "image_8d8cfb83544399.png": {
+    "classification": "formula",
+    "latex": "2\\pi",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\pi\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:09:11.504068+00:00",
+    "engine": "codex"
+  },
+  "image_8fd0a0c84e27c5.png": {
+    "classification": "formula",
+    "latex": "\\overline{PS}=\\overline{OT}-\\overline{OK}",
+    "note": "線段長度關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PS}=\\\\overline{OT}-\\\\overline{OK}\",\"note\":\"線段長度關係式\"}\n",
+    "ts": "2026-04-27T12:09:14.773328+00:00",
+    "engine": "codex"
+  },
+  "image_901eb58388580e.png": {
+    "classification": "formula",
+    "latex": "2\\sqrt{5}",
+    "note": "根式：二倍根號五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\sqrt{5}\",\"note\":\"根式：二倍根號五\"}\n",
+    "ts": "2026-04-27T12:09:15.233414+00:00",
+    "engine": "codex"
+  },
+  "image_8eee252ae37281.png": {
+    "classification": "formula",
+    "latex": "\\sin \\alpha = \\frac{4}{5}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\alpha = \\frac{4}{5}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:09:17.160869+00:00",
+    "engine": "codex"
+  },
+  "image_915a206996e412.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=\\sin 2x-\\cos 2x=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\sin 2x-\\frac{1}{\\sqrt{2}}\\cos 2x\\right)",
+    "note": "三角函數式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=\\\\sin 2x-\\\\cos 2x=\\\\sqrt{2}\\\\left(\\\\frac{1}{\\\\sqrt{2}}\\\\sin 2x-\\\\frac{1}{\\\\sqrt{2}}\\\\cos 2x\\\\right)\",\"note\":\"三角函數式化簡\"}\n",
+    "ts": "2026-04-27T12:09:18.299225+00:00",
+    "engine": "codex"
+  },
+  "image_94cccb2c3935af.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\sqrt{3}}{2}",
+    "note": "根號3除以2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\sqrt{3}}{2}\",\"note\":\"根號3除以2\"}\n",
+    "ts": "2026-04-27T12:09:20.350429+00:00",
+    "engine": "codex"
+  },
+  "image_9517b373152cdd.png": {
+    "classification": "formula",
+    "latex": "x-\\frac{\\pi}{4}=\\frac{3\\pi}{2}+2k\\pi",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-\\\\frac{\\\\pi}{4}=\\\\frac{3\\\\pi}{2}+2k\\\\pi\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-27T12:09:22.316793+00:00",
+    "engine": "codex"
+  },
+  "image_979f932053056e.png": {
+    "classification": "formula",
+    "latex": "=2\\sin\\left(x+\\frac{\\pi}{3}\\right)",
+    "note": "三角函數公式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin\\\\left(x+\\\\frac{\\\\pi}{3}\\\\right)\",\"note\":\"三角函數公式片段\"}\n",
+    "ts": "2026-04-27T12:09:22.881269+00:00",
+    "engine": "codex"
+  },
+  "image_984b24375f5fe0.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{4}",
+    "note": "分數三分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{4}\",\"note\":\"分數三分之四\"}\n",
+    "ts": "2026-04-27T12:09:25.244450+00:00",
+    "engine": "codex"
+  },
+  "image_97d64f7f7c0308.png": {
+    "classification": "formula",
+    "latex": "\\cos\\alpha=\\frac{3}{5}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\alpha=\\\\frac{3}{5}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:09:26.875109+00:00",
+    "engine": "codex"
+  },
+  "image_98693c24d66765.png": {
+    "classification": "formula",
+    "latex": "\\sin x-\\cos x=-\\frac{1}{100}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x-\\\\cos x=-\\\\frac{1}{100}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:09:28.653973+00:00",
+    "engine": "codex"
+  },
+  "image_9a4a6458cd3c97.png": {
+    "classification": "formula",
+    "latex": "f(x)=3\\sin x-3\\sqrt{3}\\cos x=6\\sin\\left(x-\\frac{\\pi}{3}\\right)",
+    "note": "三角函數化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=3\\\\sin x-3\\\\sqrt{3}\\\\cos x=6\\\\sin\\\\left(x-\\\\frac{\\\\pi}{3}\\\\right)\",\"note\":\"三角函數化簡公式\"}\n",
+    "ts": "2026-04-27T12:09:30.084010+00:00",
+    "engine": "codex"
+  },
+  "image_9aadae7ba9d367.png": {
+    "classification": "formula",
+    "latex": "y=|f(x)|=2\\sqrt{3}\\left|\\sin\\left(x+\\frac{\\pi}{6}\\right)\\right|",
+    "note": "絕對值三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=|f(x)|=2\\\\sqrt{3}\\\\left|\\\\sin\\\\left(x+\\\\frac{\\\\pi}{6}\\\\right)\\\\right|\",\"note\":\"絕對值三角函數式\"}\n",
+    "ts": "2026-04-27T12:09:31.193132+00:00",
+    "engine": "codex"
+  },
+  "image_9c7400a08ef7ed.png": {
+    "classification": "formula",
+    "latex": "f(x)=3\\sin x-\\cos x",
+    "note": "函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=3\\\\sin x-\\\\cos x\",\"note\":\"函數公式\"}\n",
+    "ts": "2026-04-27T12:09:34.933908+00:00",
+    "engine": "codex"
+  },
+  "image_9d22cf0219525d.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{6}",
+    "note": "分數形式的角度表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{6}\",\"note\":\"分數形式的角度表示\"}\n",
+    "ts": "2026-04-27T12:09:35.417702+00:00",
+    "engine": "codex"
+  },
+  "image_a064f6d8e8a970.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{3\\pi}{4}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{3\\\\pi}{4}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:09:35.700204+00:00",
+    "engine": "codex"
+  },
+  "image_a068d16aa56b46.png": {
+    "classification": "formula",
+    "latex": "k=2\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k=2\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:09:38.170011+00:00",
+    "engine": "codex"
+  },
+  "image_a1381d4b59b9d4.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 44^\\circ+\\sin 44^\\circ",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 44^\\\\circ+\\\\sin 44^\\\\circ\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:09:42.688715+00:00",
+    "engine": "codex"
+  },
+  "image_a071ca49dd70d3.png": {
+    "classification": "formula",
+    "latex": "b<a<\\frac{a^2+b^2}{2}",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b<a<\\\\frac{a^2+b^2}{2}\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T12:09:44.300253+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字 1\"}\n",
+    "ts": "2026-04-27T12:09:44.437859+00:00",
+    "engine": "codex"
+  },
+  "image_a1d30bf671de22.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{3\\pi}{4}+2k\\pi",
+    "note": "三角方程通解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{3\\\\pi}{4}+2k\\\\pi\",\"note\":\"三角方程通解\"}\n",
+    "ts": "2026-04-27T12:09:45.314797+00:00",
+    "engine": "codex"
+  },
+  "image_a2ff6b293298f5.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{3}\\sin\\left(x+\\frac{\\pi}{6}\\right)-2\\sin x",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{3}\\\\sin\\\\left(x+\\\\frac{\\\\pi}{6}\\\\right)-2\\\\sin x\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:09:48.066964+00:00",
+    "engine": "codex"
+  },
+  "image_a4640ed38e9067.png": {
+    "classification": "formula",
+    "latex": "c=\\sqrt{2}\\sin 95^\\circ=\\sqrt{2}\\sin 85^\\circ",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\sqrt{2}\\\\sin 95^\\\\circ=\\\\sqrt{2}\\\\sin 85^\\\\circ\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:09:51.656655+00:00",
+    "engine": "codex"
+  },
+  "image_a3df34ba74a477.png": {
+    "classification": "formula",
+    "latex": "x-\\frac{\\pi}{4}=\\frac{\\pi}{2}+2k\\pi",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-\\\\frac{\\\\pi}{4}=\\\\frac{\\\\pi}{2}+2k\\\\pi\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-27T12:09:51.951868+00:00",
+    "engine": "codex"
+  },
+  "image_a57ce8cd8a45bb.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數字母\"}\n",
+    "ts": "2026-04-27T12:09:56.186839+00:00",
+    "engine": "codex"
+  },
+  "image_a3d6f15c692630.png": {
+    "classification": "formula",
+    "latex": "g(x)=3\\sin x-\\cos x",
+    "note": "函數三角式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(x)=3\\\\sin x-\\\\cos x\",\"note\":\"函數三角式\"}\n",
+    "ts": "2026-04-27T12:09:56.683104+00:00",
+    "engine": "codex"
+  },
+  "image_a5a13e0bd4f3ea.png": {
+    "classification": "formula",
+    "latex": "\\frac{2\\pi}{3}",
+    "note": "分數形式的角度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2\\\\pi}{3}\",\"note\":\"分數形式的角度\"}\n",
+    "ts": "2026-04-27T12:09:57.833000+00:00",
+    "engine": "codex"
+  },
+  "image_a64aaaef4b961a.png": {
+    "classification": "formula",
+    "latex": "\\frac{a^2+b^2}{2}\\ge ab",
+    "note": "代數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a^2+b^2}{2}\\\\ge ab\",\"note\":\"代數不等式\"}\n",
+    "ts": "2026-04-27T12:10:00.387579+00:00",
+    "engine": "codex"
+  },
+  "image_a6ffa487f2ab1a.png": {
+    "classification": "formula",
+    "latex": "b=\\sqrt{2}\\sin 80^\\circ",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\sqrt{2}\\\\sin 80^\\\\circ\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:10:01.394008+00:00",
+    "engine": "codex"
+  },
+  "image_a724ed87b9cc6f.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2} \\leq \\sin x + \\cos x \\leq \\sqrt{2}",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2} \\\\leq \\\\sin x + \\\\cos x \\\\leq \\\\sqrt{2}\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-04-27T12:10:04.217814+00:00",
+    "engine": "codex"
+  },
+  "image_a6a7f4ce18f4c8.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=4\\sin x+2\\sin\\left(\\frac{\\pi}{3}-x\\right)",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=4\\\\sin x+2\\\\sin\\\\left(\\\\frac{\\\\pi}{3}-x\\\\right)\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:10:04.943263+00:00",
+    "engine": "codex"
+  },
+  "image_a91a5fb48ea0f1.png": {
+    "classification": "formula",
+    "latex": "x=0",
+    "note": "方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=0\",\"note\":\"方程式\"}\n",
+    "ts": "2026-04-27T12:10:07.060427+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-27T12:10:09.399229+00:00",
+    "engine": "codex"
+  },
+  "image_aa74474e98ff40.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{3}\\sin(x+\\frac{\\pi}{6})-2\\sin x=\\sqrt{3}(\\sin x\\cos\\frac{\\pi}{6}+\\cos x\\sin\\frac{\\pi}{6})-2\\sin x",
+    "note": "三角函數和角公式展開",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{3}\\\\sin(x+\\\\frac{\\\\pi}{6})-2\\\\sin x=\\\\sqrt{3}(\\\\sin x\\\\cos\\\\frac{\\\\pi}{6}+\\\\cos x\\\\sin\\\\frac{\\\\pi}{6})-2\\\\sin x\",\"note\":\"三角函數和角公式展開\"}\n",
+    "ts": "2026-04-27T12:10:13.939110+00:00",
+    "engine": "codex"
+  },
+  "image_ab7ac5e3b44639.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-27T12:10:14.509965+00:00",
+    "engine": "codex"
+  },
+  "image_aa8167a3fdc18b.png": {
+    "classification": "formula",
+    "latex": "(\\frac{\\pi}{4},1)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\frac{\\\\pi}{4},1)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:10:15.788141+00:00",
+    "engine": "codex"
+  },
+  "image_a8f9a1938d49b3.png": {
+    "classification": "formula",
+    "latex": "\\overline{OK}=\\sqrt{3}\\overline{PK}=\\sqrt{3}\\sin\\theta",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OK}=\\\\sqrt{3}\\\\overline{PK}=\\\\sqrt{3}\\\\sin\\\\theta\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:10:16.778331+00:00",
+    "engine": "codex"
+  },
+  "image_ae4c6d9e73d52d.png": {
+    "classification": "formula",
+    "latex": "f(x)=\\sin(2x)+3\\cos(2x)",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=\\\\sin(2x)+3\\\\cos(2x)\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:10:23.726616+00:00",
+    "engine": "codex"
+  },
+  "image_ad7e033897ae27.png": {
+    "classification": "formula",
+    "latex": "y=\\sin x+\\sqrt{3}\\cos x=2\\sin\\left(x+\\frac{\\pi}{3}\\right)\\Rightarrow -2\\le y\\le 2",
+    "note": "三角函數合成與值域",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sin x+\\\\sqrt{3}\\\\cos x=2\\\\sin\\\\left(x+\\\\frac{\\\\pi}{3}\\\\right)\\\\Rightarrow -2\\\\le y\\\\le 2\",\"note\":\"三角函數合成與值域\"}\n",
+    "ts": "2026-04-27T12:10:24.211489+00:00",
+    "engine": "codex"
+  },
+  "image_ad62b8a85cf254.png": {
+    "classification": "formula",
+    "latex": "=2\\sin(44^\\circ+60^\\circ)=2\\sin104^\\circ",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\sin(44^\\\\circ+60^\\\\circ)=2\\\\sin104^\\\\circ\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:10:26.327149+00:00",
+    "engine": "codex"
+  },
+  "image_abb7c600c23d21.png": {
+    "classification": "formula",
+    "latex": "\\overline{OS}=1",
+    "note": "線段OS長度為1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OS}=1\",\"note\":\"線段OS長度為1\"}\n",
+    "ts": "2026-04-27T12:10:26.595212+00:00",
+    "engine": "codex"
+  },
+  "image_af467b50d0c0fa.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 84^\\circ+\\sin 84^\\circ",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 84^\\\\circ+\\\\sin 84^\\\\circ\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:10:30.358950+00:00",
+    "engine": "codex"
+  },
+  "image_b1ac9c9ce5595b.png": {
+    "classification": "formula",
+    "latex": "0\\le y=2\\sin\\left(x-\\frac{\\pi}{6}\\right)+1\\le3",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\\\\le y=2\\\\sin\\\\left(x-\\\\frac{\\\\pi}{6}\\\\right)+1\\\\le3\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-04-27T12:10:32.489479+00:00",
+    "engine": "codex"
+  },
+  "image_afbd2753763cea.png": {
+    "classification": "formula",
+    "latex": "y=\\sin x+\\sqrt{3}\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sin x+\\\\sqrt{3}\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:10:34.344861+00:00",
+    "engine": "codex"
+  },
+  "image_b0112dbfc236c1.png": {
+    "classification": "formula",
+    "latex": "\\sin x+\\cos x=\\sqrt{3}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x+\\\\cos x=\\\\sqrt{3}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:10:39.572182+00:00",
+    "engine": "codex"
+  },
+  "image_b2a935d7e53af2.png": {
+    "classification": "formula",
+    "latex": "\\left(0,\\frac{3}{2}\\right)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(0,\\\\frac{3}{2}\\\\right)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:10:41.438726+00:00",
+    "engine": "codex"
+  },
+  "image_b2a74271cc45ea.png": {
+    "classification": "formula",
+    "latex": "y=3\\cos^2 x+2\\sin x\\cos x+\\sin^2 x=3\\times\\frac{1+\\cos 2x}{2}+\\sin 2x+\\frac{1-\\cos 2x}{2}",
+    "note": "三角函數化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=3\\\\cos^2 x+2\\\\sin x\\\\cos x+\\\\sin^2 x=3\\\\times\\\\frac{1+\\\\cos 2x}{2}+\\\\sin 2x+\\\\frac{1-\\\\cos 2x}{2}\",\"note\":\"三角函數化簡公式\"}\n",
+    "ts": "2026-04-27T12:10:42.283087+00:00",
+    "engine": "codex"
+  },
+  "image_b1d18025dd65b7.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{4}",
+    "note": "分數形式的角度值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{4}\",\"note\":\"分數形式的角度值\"}\n",
+    "ts": "2026-04-27T12:10:45.013305+00:00",
+    "engine": "codex"
+  },
+  "image_b3f639d4573437.png": {
+    "classification": "formula",
+    "latex": "=2+\\cos 2x+\\sin 2x=2+\\sqrt{2}\\sin\\left(2x+\\frac{\\pi}{4}\\right)\\ge 2-\\sqrt{2}>0",
+    "note": "三角式恆等變形與下界",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2+\\\\cos 2x+\\\\sin 2x=2+\\\\sqrt{2}\\\\sin\\\\left(2x+\\\\frac{\\\\pi}{4}\\\\right)\\\\ge 2-\\\\sqrt{2}>0\",\"note\":\"三角式恆等變形與下界\"}\n",
+    "ts": "2026-04-27T12:10:46.167828+00:00",
+    "engine": "codex"
+  },
+  "image_b4b2ff5808eddc.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-27T12:10:47.099455+00:00",
+    "engine": "codex"
+  },
+  "image_b48868f2a31092.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 39^{\\circ}+\\sin 39^{\\circ}",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 39^{\\\\circ}+\\\\sin 39^{\\\\circ}\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:10:47.263119+00:00",
+    "engine": "codex"
+  },
+  "image_b4b7aafe425a61.png": {
+    "classification": "formula",
+    "latex": "=4\\sin x+\\sqrt{3}\\cos x-\\sin x=3\\sin x+\\sqrt{3}\\cos x",
+    "note": "三角函數式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=4\\\\sin x+\\\\sqrt{3}\\\\cos x-\\\\sin x=3\\\\sin x+\\\\sqrt{3}\\\\cos x\",\"note\":\"三角函數式化簡\"}\n",
+    "ts": "2026-04-27T12:10:50.699694+00:00",
+    "engine": "codex"
+  },
+  "image_b62f8fb29a3395.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{2}\\sin(2x-\\frac{\\pi}{4})=\\sqrt{2}\\sin[2(x-\\frac{\\pi}{8})]",
+    "note": "三角函數相位平移公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{2}\\\\sin(2x-\\\\frac{\\\\pi}{4})=\\\\sqrt{2}\\\\sin[2(x-\\\\frac{\\\\pi}{8})]\",\"note\":\"三角函數相位平移公式\"}\n",
+    "ts": "2026-04-27T12:10:55.704519+00:00",
+    "engine": "codex"
+  },
+  "image_b54137a0ba6978.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}\\times(-1)+\\sqrt{2}=0",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\\\\times(-1)+\\\\sqrt{2}=0\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-27T12:10:55.743241+00:00",
+    "engine": "codex"
+  },
+  "image_b5ec977ceccee7.png": {
+    "classification": "formula",
+    "latex": "y=h(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=h(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-27T12:10:55.873810+00:00",
+    "engine": "codex"
+  },
+  "image_b64da2a8010bba.png": {
+    "classification": "formula",
+    "latex": "\\overline{ST}=\\sin\\theta=\\overline{PK}",
+    "note": "線段等於正弦值的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{ST}=\\\\sin\\\\theta=\\\\overline{PK}\",\"note\":\"線段等於正弦值的公式\"}\n",
+    "ts": "2026-04-27T12:11:01.781241+00:00",
+    "engine": "codex"
+  },
+  "image_b7ec6a8d80e736.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標圖，含標籤 y=sin x 與 y=x/3",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標圖，含標籤 y=sin x 與 y=x/3\"}\n",
+    "ts": "2026-04-27T12:11:02.017436+00:00",
+    "engine": "codex"
+  },
+  "image_b7caf58a336244.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\sin79^\\circ+\\cos79^\\circ=2\\left(\\frac{\\sqrt{3}}{2}\\sin79^\\circ+\\frac{1}{2}\\cos79^\\circ\\right)=2\\sin(79^\\circ+30^\\circ)=2\\sin109^\\circ",
+    "note": "三角函數和角公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\sin79^\\\\circ+\\\\cos79^\\\\circ=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\sin79^\\\\circ+\\\\frac{1}{2}\\\\cos79^\\\\circ\\\\right)=2\\\\sin(79^\\\\circ+30^\\\\circ)=2\\\\sin109^\\\\circ\",\"note\":\"三角函數和角公式化簡\"}\n",
+    "ts": "2026-04-27T12:11:04.518570+00:00",
+    "engine": "codex"
+  },
+  "image_b7f1c328f015c6.png": {
+    "classification": "formula",
+    "latex": "d=\\sqrt{2}\\sin 105^\\circ=\\sqrt{2}\\sin 75^\\circ",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=\\\\sqrt{2}\\\\sin 105^\\\\circ=\\\\sqrt{2}\\\\sin 75^\\\\circ\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:11:05.181091+00:00",
+    "engine": "codex"
+  },
+  "image_b91c2b985c0ff3.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{\\pi}{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{\\\\pi}{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:11:06.834832+00:00",
+    "engine": "codex"
+  },
+  "image_ba80d1348d582f.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-27T12:11:10.928623+00:00",
+    "engine": "codex"
+  },
+  "image_b824dcec281aff.png": {
+    "classification": "formula",
+    "latex": "\\frac{(-\\tan x)+(-\\cot x)}{2}\\ge \\sqrt{(-\\tan x)(-\\cot x)}",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{(-\\\\tan x)+(-\\\\cot x)}{2}\\\\ge \\\\sqrt{(-\\\\tan x)(-\\\\cot x)}\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-04-27T12:11:12.108132+00:00",
+    "engine": "codex"
+  },
+  "image_bc23336940e01a.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{2}\\sin 2x",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{2}\\\\sin 2x\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:11:13.011297+00:00",
+    "engine": "codex"
+  },
+  "image_b9bb011c6cb845.png": {
+    "classification": "formula",
+    "latex": "-2\\sin\\left(x+\\frac{\\pi}{6}\\right)",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\\\\sin\\\\left(x+\\\\frac{\\\\pi}{6}\\\\right)\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:11:13.967453+00:00",
+    "engine": "codex"
+  },
+  "image_c05d9d23d9dd25.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{3}{5}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta = \\frac{3}{5}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:11:17.781921+00:00",
+    "engine": "codex"
+  },
+  "image_bc66115aa8317d.png": {
+    "classification": "formula",
+    "latex": "a=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\sin 15^\\circ+\\frac{1}{\\sqrt{2}}\\cos 15^\\circ\\right)=\\sqrt{2}\\sin(15^\\circ+45^\\circ)=\\sqrt{2}\\sin 60^\\circ",
+    "note": "三角函數和角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sqrt{2}\\\\left(\\\\frac{1}{\\\\sqrt{2}}\\\\sin 15^\\\\circ+\\\\frac{1}{\\\\sqrt{2}}\\\\cos 15^\\\\circ\\\\right)=\\\\sqrt{2}\\\\sin(15^\\\\circ+45^\\\\circ)=\\\\sqrt{2}\\\\sin 60^\\\\circ\",\"note\":\"三角函數和角公式\"}\n",
+    "ts": "2026-04-27T12:11:18.162789+00:00",
+    "engine": "codex"
+  },
+  "image_c081d8ecc7948b.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角三角形，邊長2、3、√13，角θ",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角三角形，邊長2、3、√13，角θ\"}\n",
+    "ts": "2026-04-27T12:11:19.720509+00:00",
+    "engine": "codex"
+  },
+  "image_be8379476387c5.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{3}\\left(\\frac{1}{2}\\sin x+\\frac{\\sqrt{3}}{2}\\cos x\\right)=\\sqrt{3}\\sin\\left(x+\\frac{\\pi}{3}\\right)",
+    "note": "三角函數化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{3}\\\\left(\\\\frac{1}{2}\\\\sin x+\\\\frac{\\\\sqrt{3}}{2}\\\\cos x\\\\right)=\\\\sqrt{3}\\\\sin\\\\left(x+\\\\frac{\\\\pi}{3}\\\\right)\",\"note\":\"三角函數化簡公式\"}\n",
+    "ts": "2026-04-27T12:11:22.238348+00:00",
+    "engine": "codex"
+  },
+  "image_c1e79c51716e7e.png": {
+    "classification": "formula",
+    "latex": "y=\\sin(2x)+3\\cos(2x)",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sin(2x)+3\\\\cos(2x)\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:11:22.837876+00:00",
+    "engine": "codex"
+  },
+  "image_c446b75c5dd9ae.png": {
+    "classification": "formula",
+    "latex": "b=\\sin 35^\\circ+\\cos 35^\\circ",
+    "note": "純三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\sin 35^\\\\circ+\\\\cos 35^\\\\circ\",\"note\":\"純三角函數公式\"}\n",
+    "ts": "2026-04-27T12:11:25.208387+00:00",
+    "engine": "codex"
+  },
+  "image_c3d53010bee5ed.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{a^2+b^2}=2\\Rightarrow f(x)=2\\sin(x+30^\\circ+\\alpha)+1",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{a^2+b^2}=2\\\\Rightarrow f(x)=2\\\\sin(x+30^\\\\circ+\\\\alpha)+1\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:11:25.424911+00:00",
+    "engine": "codex"
+  },
+  "image_c6c6532e86d3db.png": {
+    "classification": "formula",
+    "latex": "r=\\sqrt{\\left(\\frac{\\sqrt{3}}{2}\\right)^2+\\left(\\frac{3}{2}\\right)^2}=\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r=\\\\sqrt{\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\right)^2+\\\\left(\\\\frac{3}{2}\\\\right)^2}=\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:11:29.838201+00:00",
+    "engine": "codex"
+  },
+  "image_c5a27b7c0c78dc.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=4\\sin 2x-3\\cos 2x+5",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=4\\\\sin 2x-3\\\\cos 2x+5\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:11:30.026368+00:00",
+    "engine": "codex"
+  },
+  "image_c6ee75e9b1e778.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos79^\\circ+\\sin79^\\circ=2(\\frac{\\sqrt{3}}{2}\\cos79^\\circ+\\frac{1}{2}\\sin79^\\circ)=2\\sin(79^\\circ+60^\\circ)=2\\sin139^\\circ",
+    "note": "三角函數和角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos79^\\\\circ+\\\\sin79^\\\\circ=2(\\\\frac{\\\\sqrt{3}}{2}\\\\cos79^\\\\circ+\\\\frac{1}{2}\\\\sin79^\\\\circ)=2\\\\sin(79^\\\\circ+60^\\\\circ)=2\\\\sin139^\\\\circ\",\"note\":\"三角函數和角公式\"}\n",
+    "ts": "2026-04-27T12:11:33.244762+00:00",
+    "engine": "codex"
+  },
+  "image_c8dc05afbd6e5f.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}=2\\overline{PK}=2\\sin\\theta",
+    "note": "線段長度與三角函數關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}=2\\\\overline{PK}=2\\\\sin\\\\theta\",\"note\":\"線段長度與三角函數關係式\"}\n",
+    "ts": "2026-04-27T12:11:35.518077+00:00",
+    "engine": "codex"
+  },
+  "image_c9cee80249d61b.png": {
+    "classification": "formula",
+    "latex": "\\left|\\sin x+\\cos x\\right|",
+    "note": "絕對值三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\sin x+\\\\cos x\\\\right|\",\"note\":\"絕對值三角函數式\"}\n",
+    "ts": "2026-04-27T12:11:36.818508+00:00",
+    "engine": "codex"
+  },
+  "image_cadac2e74abb98.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{2}",
+    "note": "圓周率除以2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{2}\",\"note\":\"圓周率除以2\"}\n",
+    "ts": "2026-04-27T12:11:40.379061+00:00",
+    "engine": "codex"
+  },
+  "image_c9a1c83f33366d.png": {
+    "classification": "formula",
+    "latex": "6\\Rightarrow x=\\frac{3\\pi}{2}+\\frac{\\pi}{3}=\\frac{11\\pi}{6}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\\\\Rightarrow x=\\\\frac{3\\\\pi}{2}+\\\\frac{\\\\pi}{3}=\\\\frac{11\\\\pi}{6}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-27T12:11:41.389190+00:00",
+    "engine": "codex"
+  },
+  "image_cb1a65380c2975.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "人物照片插圖，非數學公式",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"人物照片插圖，非數學公式\"}\n",
+    "ts": "2026-04-27T12:11:41.978881+00:00",
+    "engine": "codex"
+  },
+  "image_cb9431e7bc3735.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{3}(\\frac{\\sqrt{3}}{2}\\sin x+\\frac{1}{2}\\cos x)-2\\sin x=-\\frac{1}{2}\\sin x+\\frac{\\sqrt{3}}{2}\\cos x",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{3}(\\\\frac{\\\\sqrt{3}}{2}\\\\sin x+\\\\frac{1}{2}\\\\cos x)-2\\\\sin x=-\\\\frac{1}{2}\\\\sin x+\\\\frac{\\\\sqrt{3}}{2}\\\\cos x\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:11:43.706097+00:00",
+    "engine": "codex"
+  },
+  "image_cc3dfe1295f301.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\sin x+\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\sin x+\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:11:46.783009+00:00",
+    "engine": "codex"
+  },
+  "image_ccdea623b2fa86.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-27T12:11:47.789271+00:00",
+    "engine": "codex"
+  },
+  "image_cc223c7af83349.png": {
+    "classification": "formula",
+    "latex": "\\overline{CE}=b\\cos x",
+    "note": "線段CE等於b乘以cos x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CE}=b\\\\cos x\",\"note\":\"線段CE等於b乘以cos x\"}\n",
+    "ts": "2026-04-27T12:11:47.989050+00:00",
+    "engine": "codex"
+  },
+  "image_cd62ad764c225d.png": {
+    "classification": "formula",
+    "latex": "g(x)=\\sin(2x)+3\\cos(2x)",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(x)=\\\\sin(2x)+3\\\\cos(2x)\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-27T12:11:49.723458+00:00",
+    "engine": "codex"
+  },
+  "image_cf0586ea127cc9.png": {
+    "classification": "formula",
+    "latex": "\\overline{CE}=b\\sin\\theta",
+    "note": "線段CE長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CE}=b\\\\sin\\\\theta\",\"note\":\"線段CE長度公式\"}\n",
+    "ts": "2026-04-27T12:11:52.913439+00:00",
+    "engine": "codex"
+  },
+  "image_d075da47fcc28b.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\sin 79^\\circ+\\cos 79^\\circ",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\sin 79^\\\\circ+\\\\cos 79^\\\\circ\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:11:53.540133+00:00",
+    "engine": "codex"
+  },
+  "image_cf7be50ee32d5f.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，含正方形、線段與角度標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，含正方形、線段與角度標記\"}\n",
+    "ts": "2026-04-27T12:11:54.442879+00:00",
+    "engine": "codex"
+  },
+  "image_d0c1f4163aa1ff.png": {
+    "classification": "formula",
+    "latex": "y=4\\sin 0-3\\cos 0+5=-3+5=2",
+    "note": "三角函數代入計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=4\\\\sin 0-3\\\\cos 0+5=-3+5=2\",\"note\":\"三角函數代入計算式\"}\n",
+    "ts": "2026-04-27T12:11:57.246512+00:00",
+    "engine": "codex"
+  },
+  "image_d15b95f3f41dd8.png": {
+    "classification": "formula",
+    "latex": "\\sin x=\\frac{x}{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x=\\\\frac{x}{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:11:58.009629+00:00",
+    "engine": "codex"
+  },
+  "image_d162ad99d33bcc.png": {
+    "classification": "formula",
+    "latex": "\\overline{OC}",
+    "note": "線段OC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OC}\",\"note\":\"線段OC\"}\n",
+    "ts": "2026-04-27T12:11:59.995198+00:00",
+    "engine": "codex"
+  },
+  "image_d228dbaae38993.png": {
+    "classification": "formula",
+    "latex": "y=2\\cos\\left(\\frac{\\pi}{3}-x\\right)-2\\cos x+1",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2\\\\cos\\\\left(\\\\frac{\\\\pi}{3}-x\\\\right)-2\\\\cos x+1\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:12:02.355402+00:00",
+    "engine": "codex"
+  },
+  "image_d23dc2f974d49a.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{2}\\sin\\left(x+\\frac{\\pi}{4}\\right)",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{2}\\\\sin\\\\left(x+\\\\frac{\\\\pi}{4}\\\\right)\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:12:03.188108+00:00",
+    "engine": "codex"
+  },
+  "image_d30efb557e0bd9.png": {
+    "classification": "formula",
+    "latex": "f(\\frac{\\pi}{4})=\\sqrt{2}\\sin(2\\times\\frac{\\pi}{4}-\\frac{\\pi}{4})=\\sqrt{2}\\sin\\frac{\\pi}{4}=1",
+    "note": "三角函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(\\\\frac{\\\\pi}{4})=\\\\sqrt{2}\\\\sin(2\\\\times\\\\frac{\\\\pi}{4}-\\\\frac{\\\\pi}{4})=\\\\sqrt{2}\\\\sin\\\\frac{\\\\pi}{4}=1\",\"note\":\"三角函數值計算式\"}\n",
+    "ts": "2026-04-27T12:12:04.509417+00:00",
+    "engine": "codex"
+  },
+  "image_d343304ed1566c.png": {
+    "classification": "formula",
+    "latex": "\\frac{5\\pi}{3}",
+    "note": "分數形式的角度表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5\\\\pi}{3}\",\"note\":\"分數形式的角度表達式\"}\n",
+    "ts": "2026-04-27T12:12:05.271339+00:00",
+    "engine": "codex"
+  },
+  "image_d45121452a98bf.png": {
+    "classification": "formula",
+    "latex": "\\frac{2\\pi}{3}<x<\\frac{7\\pi}{6}",
+    "note": "三角不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2\\\\pi}{3}<x<\\\\frac{7\\\\pi}{6}\",\"note\":\"三角不等式\"}\n",
+    "ts": "2026-04-27T12:12:10.448036+00:00",
+    "engine": "codex"
+  },
+  "image_d47277494e380c.png": {
+    "classification": "formula",
+    "latex": "=2\\left(\\frac{\\sqrt{3}}{2}\\cos44^\\circ+\\frac{1}{2}\\sin44^\\circ\\right)",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\cos44^\\\\circ+\\\\frac{1}{2}\\\\sin44^\\\\circ\\\\right)\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:12:12.679458+00:00",
+    "engine": "codex"
+  },
+  "image_d619af373387a5.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 64^\\circ+\\sin 64^\\circ",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 64^\\\\circ+\\\\sin 64^\\\\circ\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:12:15.602993+00:00",
+    "engine": "codex"
+  },
+  "image_d7b51ac144ec06.png": {
+    "classification": "formula",
+    "latex": "\\sin(2x-\\theta)=-1",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(2x-\\\\theta)=-1\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:12:17.837750+00:00",
+    "engine": "codex"
+  },
+  "image_d785adb82d865f.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=4\\sin x-3\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=4\\\\sin x-3\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:12:19.168986+00:00",
+    "engine": "codex"
+  },
+  "image_d83d83140e6677.png": {
+    "classification": "formula",
+    "latex": "y=4\\sin x+2(\\sin\\frac{\\pi}{3}\\cos x-\\cos\\frac{\\pi}{3}\\sin x)=4\\sin x+2(\\frac{\\sqrt{3}}{2}\\cos x-\\frac{1}{2}\\sin x)",
+    "note": "三角函數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=4\\\\sin x+2(\\\\sin\\\\frac{\\\\pi}{3}\\\\cos x-\\\\cos\\\\frac{\\\\pi}{3}\\\\sin x)=4\\\\sin x+2(\\\\frac{\\\\sqrt{3}}{2}\\\\cos x-\\\\frac{1}{2}\\\\sin x)\",\"note\":\"三角函數化簡式\"}\n",
+    "ts": "2026-04-27T12:12:22.314352+00:00",
+    "engine": "codex"
+  },
+  "image_d901608ec35e30.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}",
+    "note": "線段PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}\",\"note\":\"線段PQ\"}\n",
+    "ts": "2026-04-27T12:12:24.214250+00:00",
+    "engine": "codex"
+  },
+  "image_d353f8af7e8711.png": {
+    "classification": "formula",
+    "latex": "\\sin \\alpha=\\frac{3}{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\alpha=\\\\frac{3}{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:12:24.901950+00:00",
+    "engine": "codex"
+  },
+  "image_d8fb470267935d.png": {
+    "classification": "formula",
+    "latex": "k \\in \\mathbb{Z}",
+    "note": "整數條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k \\\\in \\\\mathbb{Z}\",\"note\":\"整數條件\"}\n",
+    "ts": "2026-04-27T12:12:26.291821+00:00",
+    "engine": "codex"
+  },
+  "image_d90b6c42e7e774.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，含點 O、P、K、S、T 與角 θ",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，含點 O、P、K、S、T 與角 θ\"}\n",
+    "ts": "2026-04-27T12:12:28.004616+00:00",
+    "engine": "codex"
+  },
+  "image_d9616945c7a18b.png": {
+    "classification": "formula",
+    "latex": "2\\sqrt{3}",
+    "note": "純數學式：2乘以根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\sqrt{3}\",\"note\":\"純數學式：2乘以根號3\"}\n",
+    "ts": "2026-04-27T12:12:30.006473+00:00",
+    "engine": "codex"
+  },
+  "image_da289032621a3b.png": {
+    "classification": "formula",
+    "latex": "\\sin 2x-\\cos 2x",
+    "note": "三角函數差式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin 2x-\\cos 2x\",\"note\":\"三角函數差式\"}\n",
+    "ts": "2026-04-27T12:12:31.782029+00:00",
+    "engine": "codex"
+  },
+  "image_db8e262a50603a.png": {
+    "classification": "formula",
+    "latex": "y=\\sqrt{5}\\left(\\frac{2}{\\sqrt{5}}\\sin x-\\frac{1}{\\sqrt{5}}\\cos x\\right)",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\sqrt{5}\\\\left(\\\\frac{2}{\\\\sqrt{5}}\\\\sin x-\\\\frac{1}{\\\\sqrt{5}}\\\\cos x\\\\right)\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:12:32.736177+00:00",
+    "engine": "codex"
+  },
+  "image_dbce0651114838.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{3}",
+    "note": "分數五分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{3}\",\"note\":\"分數五分之三\"}\n",
+    "ts": "2026-04-27T12:12:33.870229+00:00",
+    "engine": "codex"
+  },
+  "image_ddbf26627c833a.png": {
+    "classification": "formula",
+    "latex": "\\left|\\sin x-\\cos x\\right|",
+    "note": "絕對值三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\sin x-\\\\cos x\\\\right|\",\"note\":\"絕對值三角函數式\"}\n",
+    "ts": "2026-04-27T12:12:35.588575+00:00",
+    "engine": "codex"
+  },
+  "image_e02625d25802be.png": {
+    "classification": "formula",
+    "latex": "\\overline{BE}=a\\sin x",
+    "note": "線段BE等於a乘以sin x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BE}=a\\\\sin x\",\"note\":\"線段BE等於a乘以sin x\"}\n",
+    "ts": "2026-04-27T12:12:37.217399+00:00",
+    "engine": "codex"
+  },
+  "image_e0df788dde5675.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-04-27T12:12:38.717699+00:00",
+    "engine": "codex"
+  },
+  "image_e0ae2972cbb07e.png": {
+    "classification": "formula",
+    "latex": "d=\\sin60^\\circ+\\cos60^\\circ",
+    "note": "三角函數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=\\\\sin60^\\\\circ+\\\\cos60^\\\\circ\",\"note\":\"三角函數算式\"}\n",
+    "ts": "2026-04-27T12:12:40.239559+00:00",
+    "engine": "codex"
+  },
+  "image_e1125fc6f85c91.png": {
+    "classification": "formula",
+    "latex": "d",
+    "note": "單一變數 d",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d\",\"note\":\"單一變數 d\"}\n",
+    "ts": "2026-04-27T12:12:42.500112+00:00",
+    "engine": "codex"
+  },
+  "image_e1009ef98bed9c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\sin 39^\\circ+\\cos 39^\\circ=2\\left(\\frac{\\sqrt{3}}{2}\\sin 39^\\circ+\\frac{1}{2}\\cos 39^\\circ\\right)=2\\sin(39^\\circ+30^\\circ)=2\\sin 69^\\circ",
+    "note": "三角函數合角公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\sin 39^\\\\circ+\\\\cos 39^\\\\circ=2\\\\left(\\\\frac{\\\\sqrt{3}}{2}\\\\sin 39^\\\\circ+\\\\frac{1}{2}\\\\cos 39^\\\\circ\\\\right)=2\\\\sin(39^\\\\circ+30^\\\\circ)=2\\\\sin 69^\\\\circ\",\"note\":\"三角函數合角公式化簡\"}\n",
+    "ts": "2026-04-27T12:12:42.691525+00:00",
+    "engine": "codex"
+  },
+  "image_e145f5cc150b33.png": {
+    "classification": "formula",
+    "latex": "2\\sin 90^\\circ-\\sqrt{3}=2-\\sqrt{3}",
+    "note": "三角函數值代入化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\sin 90^\\\\circ-\\\\sqrt{3}=2-\\\\sqrt{3}\",\"note\":\"三角函數值代入化簡\"}\n",
+    "ts": "2026-04-27T12:12:46.317431+00:00",
+    "engine": "codex"
+  },
+  "image_e26333fce2f499.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta = \\frac{2}{\\sqrt{13}}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta = \\\\frac{2}{\\\\sqrt{13}}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-27T12:12:46.748586+00:00",
+    "engine": "codex"
+  },
+  "image_e37d463bbfa7f4.png": {
+    "classification": "formula",
+    "latex": "\\angle CEF = \\angle BAE = x",
+    "note": "角度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle CEF = \\\\angle BAE = x\",\"note\":\"角度等式\"}\n",
+    "ts": "2026-04-27T12:12:48.461358+00:00",
+    "engine": "codex"
+  },
+  "image_e4dad49d976104.png": {
+    "classification": "formula",
+    "latex": "-\\sqrt{3}",
+    "note": "負根號三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\sqrt{3}\",\"note\":\"負根號三\"}\n",
+    "ts": "2026-04-27T12:12:49.979549+00:00",
+    "engine": "codex"
+  },
+  "image_e5f67b16a94eea.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\sin 39^\\circ+\\cos 39^\\circ",
+    "note": "三角函數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\sin 39^\\\\circ+\\\\cos 39^\\\\circ\",\"note\":\"三角函數運算式\"}\n",
+    "ts": "2026-04-27T12:12:51.966409+00:00",
+    "engine": "codex"
+  },
+  "image_e6397f26decc64.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-27T12:12:54.088467+00:00",
+    "engine": "codex"
+  },
+  "image_e571322c71af9f.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\pi}{6}\\le x-\\frac{\\pi}{6}\\le \\frac{5\\pi}{6}\\Rightarrow -\\frac{1}{2}\\le \\sin(x-\\frac{\\pi}{6})\\le 1",
+    "note": "三角不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\pi}{6}\\\\le x-\\\\frac{\\\\pi}{6}\\\\le \\\\frac{5\\\\pi}{6}\\\\Rightarrow -\\\\frac{1}{2}\\\\le \\\\sin(x-\\\\frac{\\\\pi}{6})\\\\le 1\",\"note\":\"三角不等式推導\"}\n",
+    "ts": "2026-04-27T12:12:54.918525+00:00",
+    "engine": "codex"
+  },
+  "image_e7bb4dbf66874f.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{\\pi}{6}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{\\\\pi}{6}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:12:57.409212+00:00",
+    "engine": "codex"
+  },
+  "image_ec6c08624a6273.png": {
+    "classification": "formula",
+    "latex": "\\overline{EF}=b",
+    "note": "線段EF長度等於b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{EF}=b\",\"note\":\"線段EF長度等於b\"}\n",
+    "ts": "2026-04-27T12:12:59.825190+00:00",
+    "engine": "codex"
+  },
+  "image_ea5ae09f56e57f.png": {
+    "classification": "formula",
+    "latex": "\\overline{PS}=\\cos\\theta-\\sqrt{3}\\sin\\theta",
+    "note": "線段PS的三角函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PS}=\\\\cos\\\\theta-\\\\sqrt{3}\\\\sin\\\\theta\",\"note\":\"線段PS的三角函數表示式\"}\n",
+    "ts": "2026-04-27T12:13:02.024455+00:00",
+    "engine": "codex"
+  },
+  "image_edc8d52a330dee.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{\\pi}{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{\\\\pi}{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T12:13:04.008798+00:00",
+    "engine": "codex"
+  },
+  "image_ee71e5980bc29e.png": {
+    "classification": "formula",
+    "latex": "2\\sqrt{2}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\sqrt{2}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:13:06.752667+00:00",
+    "engine": "codex"
+  },
+  "image_e74656cde087a2.png": {
+    "classification": "formula",
+    "latex": "\\overline{PS}=\\overline{OI}-\\overline{OK}=\\cos\\theta-\\sqrt{3}\\sin\\theta",
+    "note": "線段關係化為三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PS}=\\\\overline{OI}-\\\\overline{OK}=\\\\cos\\\\theta-\\\\sqrt{3}\\\\sin\\\\theta\",\"note\":\"線段關係化為三角函數式\"}\n",
+    "ts": "2026-04-27T12:13:06.908012+00:00",
+    "engine": "codex"
+  },
+  "image_ee771eaba2c452.png": {
+    "classification": "formula",
+    "latex": "2\\pi",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\pi\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T12:13:09.502084+00:00",
+    "engine": "codex"
+  },
+  "image_eea8089a324143.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos59^\\circ+\\sin59^\\circ=2(\\frac{\\sqrt{3}}{2}\\cos59^\\circ+\\frac{1}{2}\\sin59^\\circ)=2\\sin(59^\\circ+60^\\circ)=2\\sin119^\\circ",
+    "note": "三角函數和角公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos59^\\\\circ+\\\\sin59^\\\\circ=2(\\\\frac{\\\\sqrt{3}}{2}\\\\cos59^\\\\circ+\\\\frac{1}{2}\\\\sin59^\\\\circ)=2\\\\sin(59^\\\\circ+60^\\\\circ)=2\\\\sin119^\\\\circ\",\"note\":\"三角函數和角公式化簡\"}\n",
+    "ts": "2026-04-27T12:13:12.689491+00:00",
+    "engine": "codex"
+  },
+  "image_ef7265cbffef8e.png": {
+    "classification": "formula",
+    "latex": "f(x)=3\\sin x-3\\sqrt{3}\\cos x",
+    "note": "三角函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=3\\\\sin x-3\\\\sqrt{3}\\\\cos x\",\"note\":\"三角函數式\"}\n",
+    "ts": "2026-04-27T12:13:13.369139+00:00",
+    "engine": "codex"
+  },
+  "image_f181c75c4196a0.png": {
+    "classification": "formula",
+    "latex": "y=-\\sin(-\\frac{\\pi}{3})=-(-\\frac{\\sqrt{3}}{2})=\\frac{\\sqrt{3}}{2}",
+    "note": "三角函數值化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-\\\\sin(-\\\\frac{\\\\pi}{3})=-(-\\\\frac{\\\\sqrt{3}}{2})=\\\\frac{\\\\sqrt{3}}{2}\",\"note\":\"三角函數值化簡\"}\n",
+    "ts": "2026-04-27T12:13:14.625005+00:00",
+    "engine": "codex"
+  },
+  "image_f1eb845a4ad55e.png": {
+    "classification": "formula",
+    "latex": "(0,2)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,2)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-27T12:13:17.069966+00:00",
+    "engine": "codex"
+  },
+  "image_f2c892316c9d3c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{13}",
+    "note": "根號13",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{13}\",\"note\":\"根號13\"}\n",
+    "ts": "2026-04-27T12:13:18.558488+00:00",
+    "engine": "codex"
+  },
+  "image_f2bce9c753617b.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\cos 59^\\circ+\\sin 59^\\circ",
+    "note": "三角函數代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\cos 59^\\\\circ+\\\\sin 59^\\\\circ\",\"note\":\"三角函數代數式\"}\n",
+    "ts": "2026-04-27T12:13:21.966381+00:00",
+    "engine": "codex"
+  },
+  "image_f3edef6490effd.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，含角度標記 θ",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，含角度標記 θ\"}\n",
+    "ts": "2026-04-27T12:13:22.632478+00:00",
+    "engine": "codex"
+  },
+  "image_f40a737c3a5776.png": {
+    "classification": "formula",
+    "latex": "x-\\frac{\\pi}{3}=\\frac{3\\pi}{2}",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-\\\\frac{\\\\pi}{3}=\\\\frac{3\\\\pi}{2}\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-27T12:13:23.252203+00:00",
+    "engine": "codex"
+  },
+  "image_f9fc0f8278f1eb.png": {
+    "classification": "formula",
+    "latex": "|\\sin x|",
+    "note": "正弦函數的絕對值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\sin x|\",\"note\":\"正弦函數的絕對值\"}\n",
+    "ts": "2026-04-27T12:15:17.949951+00:00"
+  },
+  "image_f6119a72d8122a.png": {
+    "classification": "formula",
+    "latex": "f(x)=\\sin x-\\cos x+\\sqrt{2}",
+    "note": "函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=\\\\sin x-\\\\cos x+\\\\sqrt{2}\",\"note\":\"函數式\"}\n",
+    "ts": "2026-04-27T12:13:25.504197+00:00",
+    "engine": "codex"
+  },
+  "image_fb866f35733421.png": {
+    "classification": "formula",
+    "latex": "\\sin x \\cos x",
+    "note": "sin x cos x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin x \\cos x\",\"note\":\"sin x cos x\"}\n",
+    "ts": "2026-04-27T12:15:29.103409+00:00"
+  },
+  "image_fbb6927b01565c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{5}",
+    "note": "根號 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{5}\",\"note\":\"根號 5\"}\n",
+    "ts": "2026-04-27T12:15:35.092488+00:00"
+  },
+  "image_fce83b23923cbc.png": {
+    "classification": "formula",
+    "latex": "-1 \\le \\sin 2x \\le 1",
+    "note": "正弦函數的值域不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1 \\\\le \\\\sin 2x \\\\le 1\",\"note\":\"正弦函數的值域不等式\"}\n",
+    "ts": "2026-04-27T12:15:22.536576+00:00"
+  },
+  "image_fcf3ada9633494.png": {
+    "classification": "formula",
+    "latex": "\\sin x + \\sqrt{3} \\cos x = 2 \\left( \\frac{1}{2} \\sin x + \\frac{\\sqrt{3}}{2} \\cos x \\right)",
+    "note": "三角函數疊合公式的提取過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin x + \\\\sqrt{3} \\\\cos x = 2 \\\\left( \\\\frac{1}{2} \\\\sin x + \\\\frac{\\\\sqrt{3}}{2} \\\\cos x \\\\right)\",\"note\":\"三角函數疊合公式的提取過程\"}\n",
+    "ts": "2026-04-27T12:15:39.781302+00:00"
+  },
+  "image_fd017e352269dd.png": {
+    "classification": "formula",
+    "latex": "y = 5 \\left( \\frac{4}{5} \\sin x - \\frac{3}{5} \\cos x \\right) = 5 \\sin (x - \\alpha)",
+    "note": "正弦函數的合成公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y = 5 \\left( \\frac{4}{5} \\sin x - \\frac{3}{5} \\cos x \\right) = 5 \\sin (x - \\alpha)\",\"note\":\"正弦函數的合成公式\"}\n",
+    "ts": "2026-04-27T12:15:35.992347+00:00"
+  },
+  "image_fd1bd4324a6910.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\sin x}{\\cos x}=100",
+    "note": "三角函數比值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{\\sin x}{\\cos x}=100\",\"note\":\"三角函數比值\"}\n",
+    "ts": "2026-04-27T12:15:40.660656+00:00"
+  },
+  "image_fd866f576ad500.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{2\\pi}{3}",
+    "note": "x等於三分之二pi",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{2\\\\pi}{3}\",\"note\":\"x等於三分之二pi\"}\n",
+    "ts": "2026-04-27T12:15:48.665862+00:00"
+  },
+  "image_fdf87d2ebc9c0b.png": {
+    "classification": "formula",
+    "latex": "h(x) = 2 \\sin x + 2 \\cos x",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h(x) = 2 \\sin x + 2 \\cos x\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-04-27T12:15:45.773007+00:00"
+  },
+  "image_fe364fa27dd208.png": {
+    "classification": "formula",
+    "latex": "\\frac{2\\pi}{2} = \\pi",
+    "note": "2π除以2等於π",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{2\\pi}{2} = \\pi\",\"note\":\"2π除以2等於π\"}\n",
+    "ts": "2026-04-27T12:15:51.947690+00:00"
+  },
+  "image_ff7cdbcf38bc73.png": {
+    "classification": "formula",
+    "latex": "x - \\phi = \\frac{\\pi}{2} + 2k\\pi",
+    "note": "三角方程式的通解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x - \\\\phi = \\\\frac{\\\\pi}{2} + 2k\\\\pi\",\"note\":\"三角方程式的通解\"}\n",
+    "ts": "2026-04-27T12:15:58.650365+00:00"
+  },
+  "image_ff7feafcfd6406.png": {
+    "classification": "formula",
+    "latex": "\\sin x + \\cos x = \\frac{1}{100}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin x + \\cos x = \\frac{1}{100}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-27T12:16:01.333634+00:00"
+  }
+}

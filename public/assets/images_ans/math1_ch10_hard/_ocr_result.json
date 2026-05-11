@@ -1,0 +1,298 @@
+{
+  "image_0c2aede734b8ba.png": {
+    "classification": "formula",
+    "latex": "b>0\\Rightarrow -\\frac{b}{2a}>0",
+    "note": "不等式推論",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b>0\\\\Rightarrow -\\\\frac{b}{2a}>0\",\"note\":\"不等式推論\"}\n",
+    "ts": "2026-04-30T06:42:06.629731+00:00",
+    "engine": "codex"
+  },
+  "image_18e43f807cd9e7.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形與座標標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形與座標標示\"}\n",
+    "ts": "2026-04-30T06:42:07.302983+00:00",
+    "engine": "codex"
+  },
+  "image_185f341148735d.png": {
+    "classification": "formula",
+    "latex": "\\frac{b}{2a}",
+    "note": "分式 b over 2a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b}{2a}\",\"note\":\"分式 b over 2a\"}\n",
+    "ts": "2026-04-30T06:42:07.645823+00:00",
+    "engine": "codex"
+  },
+  "image_20a77c737dd4fd.png": {
+    "classification": "formula",
+    "latex": "\\frac{1-m}{2m}<0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1-m}{2m}<0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-30T06:44:20.494449+00:00",
+    "engine": "codex"
+  },
+  "image_155bfdf644b9d5.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2=\\frac{16}{9}a+k\\\\1=\\frac{1}{9}a+k\\end{cases}",
+    "note": "二元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2=\\\\frac{16}{9}a+k\\\\\\\\1=\\\\frac{1}{9}a+k\\\\end{cases}\",\"note\":\"二元一次方程組\"}\n",
+    "ts": "2026-04-30T06:42:10.569750+00:00",
+    "engine": "codex"
+  },
+  "image_23e20dac606248.png": {
+    "classification": "formula",
+    "latex": "y=ax^2+bx+c=a(x+\\frac{b}{2a})^2+\\frac{4ac-b^2}{4a}\\Rightarrow",
+    "note": "二次函數配方法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=ax^2+bx+c=a(x+\\\\frac{b}{2a})^2+\\\\frac{4ac-b^2}{4a}\\\\Rightarrow\",\"note\":\"二次函數配方法公式\"}\n",
+    "ts": "2026-04-30T06:44:22.116949+00:00",
+    "engine": "codex"
+  },
+  "image_1deb51d75a15f7.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-30T06:44:21.024689+00:00",
+    "engine": "codex"
+  },
+  "image_2e8d600eb079b3.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的拋物線與直線交會圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的拋物線與直線交會圖\"}\n",
+    "ts": "2026-04-30T06:44:21.198427+00:00",
+    "engine": "codex"
+  },
+  "image_345a5409d8caca.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的向下開口拋物線圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的向下開口拋物線圖\"}\n",
+    "ts": "2026-04-30T06:44:25.731185+00:00",
+    "engine": "codex"
+  },
+  "image_390829498e31e2.png": {
+    "classification": "formula",
+    "latex": "b>0\\Rightarrow -\\frac{b}{2a}<0",
+    "note": "不等式推論",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b>0\\\\Rightarrow -\\\\frac{b}{2a}<0\",\"note\":\"不等式推論\"}\n",
+    "ts": "2026-04-30T06:44:28.219001+00:00",
+    "engine": "codex"
+  },
+  "image_35c84afdff8b6a.png": {
+    "classification": "formula",
+    "latex": "b<0\\Rightarrow -\\frac{b}{2a}<0",
+    "note": "不等式推論",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b<0\\\\Rightarrow -\\\\frac{b}{2a}<0\",\"note\":\"不等式推論\"}\n",
+    "ts": "2026-04-30T06:44:25.995579+00:00",
+    "engine": "codex"
+  },
+  "image_3cd54310d91ada.png": {
+    "classification": "formula",
+    "latex": "\\frac{14}{15}",
+    "note": "分數十四分之十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{14}{15}\",\"note\":\"分數十四分之十五\"}\n",
+    "ts": "2026-04-30T06:44:29.232492+00:00",
+    "engine": "codex"
+  },
+  "image_5a054ae2ba0edf.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標軸與開口向下拋物線，標有x,y,O",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標軸與開口向下拋物線，標有x,y,O\"}\n",
+    "ts": "2026-04-30T06:44:30.732835+00:00",
+    "engine": "codex"
+  },
+  "image_49b085e7356475.png": {
+    "classification": "formula",
+    "latex": "y=ax+b",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=ax+b\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-04-30T06:44:30.540220+00:00",
+    "engine": "codex"
+  },
+  "image_63cde687327eda.png": {
+    "classification": "formula",
+    "latex": "(0,b)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,b)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:44:33.557408+00:00",
+    "engine": "codex"
+  },
+  "image_6bb81bd448bbc6.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上一條直線與拋物線相交",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上一條直線與拋物線相交\"}\n",
+    "ts": "2026-04-30T06:44:40.309498+00:00",
+    "engine": "codex"
+  },
+  "image_72fe392192506b.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-30T06:44:34.653951+00:00",
+    "engine": "codex"
+  },
+  "image_6ea141fd6ce999.png": {
+    "classification": "formula",
+    "latex": "\\Gamma_2",
+    "note": "希臘字母Gamma下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma_2\",\"note\":\"希臘字母Gamma下標2\"}\n",
+    "ts": "2026-04-30T06:44:36.096954+00:00",
+    "engine": "codex"
+  },
+  "image_73d470eba38ddb.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "拋物線圖，標示頂點軸x=(1-m)/(2m)與點(0,m+1)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"拋物線圖，標示頂點軸x=(1-m)/(2m)與點(0,m+1)\"}\n",
+    "ts": "2026-04-30T06:44:39.324014+00:00",
+    "engine": "codex"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-30T06:44:37.610980+00:00",
+    "engine": "codex"
+  },
+  "image_764000de64b8ef.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的直線與拋物線交會圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的直線與拋物線交會圖\"}\n",
+    "ts": "2026-04-30T06:44:40.150412+00:00",
+    "engine": "codex"
+  },
+  "image_9aaddd22a8b5df.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的拋物線圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的拋物線圖\"}\n",
+    "ts": "2026-04-30T06:44:43.079667+00:00",
+    "engine": "codex"
+  },
+  "image_7a72c2d543765a.png": {
+    "classification": "formula",
+    "latex": "b>0\\Rightarrow \\frac{-b}{2a}>0",
+    "note": "不等式推論",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b>0\\\\Rightarrow \\\\frac{-b}{2a}>0\",\"note\":\"不等式推論\"}\n",
+    "ts": "2026-04-30T06:44:44.778959+00:00",
+    "engine": "codex"
+  },
+  "image_a498460dd4be6f.png": {
+    "classification": "formula",
+    "latex": "y=ax^2+b",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=ax^2+b\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-04-30T06:44:43.507984+00:00",
+    "engine": "codex"
+  },
+  "image_ab00a2816a22a3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-30T06:44:45.451973+00:00",
+    "engine": "codex"
+  },
+  "image_b8fdf93341e56b.png": {
+    "classification": "formula",
+    "latex": "b<0\\Rightarrow\\frac{-b}{2a}>0",
+    "note": "不等式推論",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b<0\\\\Rightarrow\\\\frac{-b}{2a}>0\",\"note\":\"不等式推論\"}\n",
+    "ts": "2026-04-30T06:44:47.917069+00:00",
+    "engine": "codex"
+  },
+  "image_b61e2f1e60842b.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的拋物線與直線圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的拋物線與直線圖\"}\n",
+    "ts": "2026-04-30T06:44:59.880983+00:00",
+    "engine": "codex"
+  },
+  "image_bcb32049f8de0f.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "拋物線圖，標示 Γ1、Γ2、點(1,3)與(1/3,2/3)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"拋物線圖，標示 Γ1、Γ2、點(1,3)與(1/3,2/3)\"}\n",
+    "ts": "2026-04-30T06:44:51.388698+00:00",
+    "engine": "codex"
+  },
+  "image_c206162e24ed4e.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "拋物線圖，標示點(0,c)及坐標軸",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"拋物線圖，標示點(0,c)及坐標軸\"}\n",
+    "ts": "2026-04-30T06:44:50.609800+00:00",
+    "engine": "codex"
+  },
+  "image_db2548a434dd74.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-30T06:44:54.157234+00:00",
+    "engine": "codex"
+  },
+  "image_d093f8df6de0a6.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的拋物線與斜直線交會圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的拋物線與斜直線交會圖\"}\n",
+    "ts": "2026-04-30T06:44:52.531459+00:00",
+    "engine": "codex"
+  },
+  "image_e48d6f4afe5432.png": {
+    "classification": "formula",
+    "latex": "a>0",
+    "note": "不等式：a大於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a>0\",\"note\":\"不等式：a大於0\"}\n",
+    "ts": "2026-04-30T06:44:55.301437+00:00",
+    "engine": "codex"
+  },
+  "image_e683282a9aceef.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "拋物線圖，標示原點O與點(0,c)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"拋物線圖，標示原點O與點(0,c)\"}\n",
+    "ts": "2026-04-30T06:44:58.256811+00:00",
+    "engine": "codex"
+  },
+  "image_f4b10244bfd037.png": {
+    "classification": "formula",
+    "latex": "k=\\frac{14}{15}",
+    "note": "純數學式：k 等於十四分之十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k=\\\\frac{14}{15}\",\"note\":\"純數學式：k 等於十四分之十五\"}\n",
+    "ts": "2026-04-30T06:44:59.477372+00:00",
+    "engine": "codex"
+  },
+  "image_f660e0644208aa.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "parabola graph with axes and label (0,c)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"parabola graph with axes and label (0,c)\"}\n",
+    "ts": "2026-04-30T06:45:03.417095+00:00",
+    "engine": "codex"
+  },
+  "image_f022f5cef438e0.png": {
+    "classification": "formula",
+    "latex": "\\frac{b}{2a}",
+    "note": "分式：b 除以 2a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b}{2a}\",\"note\":\"分式：b 除以 2a\"}\n",
+    "ts": "2026-04-30T06:44:57.992895+00:00",
+    "engine": "codex"
+  },
+  "image_f6c83a88d426f1.png": {
+    "classification": "formula",
+    "latex": "\\frac{b^2}{4a}",
+    "note": "分式：b平方除以4a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b^2}{4a}\",\"note\":\"分式：b平方除以4a\"}\n",
+    "ts": "2026-04-30T06:45:02.997012+00:00",
+    "engine": "codex"
+  }
+}

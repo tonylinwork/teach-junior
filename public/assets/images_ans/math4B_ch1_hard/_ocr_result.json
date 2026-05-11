@@ -1,0 +1,114 @@
+{
+  "image_0346f93b1ece09.png": {
+    "classification": "formula",
+    "latex": "\\overline{OB}",
+    "note": "線段OB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OB}\",\"note\":\"線段OB\"}\n",
+    "ts": "2026-05-06T00:46:07.746025+00:00",
+    "engine": "codex"
+  },
+  "image_30ea2277168ae4.png": {
+    "classification": "formula",
+    "latex": "\\overline{ON}=\\overline{BN}",
+    "note": "線段ON等於線段BN",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{ON}=\\\\overline{BN}\",\"note\":\"線段ON等於線段BN\"}\n",
+    "ts": "2026-05-06T00:46:08.368757+00:00",
+    "engine": "codex"
+  },
+  "image_29ec92577316e2.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{OB}}{\\overline{MN}}=\\frac{a}{\\frac{1}{\\sqrt{2}}a}=\\sqrt{2}",
+    "note": "線段比值化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{OB}}{\\\\overline{MN}}=\\\\frac{a}{\\\\frac{1}{\\\\sqrt{2}}a}=\\\\sqrt{2}\",\"note\":\"線段比值化簡公式\"}\n",
+    "ts": "2026-05-06T00:46:09.009525+00:00",
+    "engine": "codex"
+  },
+  "image_217d7e1bb4506a.png": {
+    "classification": "formula",
+    "latex": "\\overline{ON}=\\frac{\\sqrt{3}}{2}a",
+    "note": "線段ON長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{ON}=\\frac{\\sqrt{3}}{2}a\",\"note\":\"線段ON長度公式\"}\n",
+    "ts": "2026-05-06T00:46:09.808282+00:00",
+    "engine": "codex"
+  },
+  "image_5d874ee3cd1a82.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-05-06T00:46:11.642939+00:00",
+    "engine": "codex"
+  },
+  "image_615bb615048cf6.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何立體圖，含點O、B、C、D、M、N標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何立體圖，含點O、B、C、D、M、N標記\"}\n",
+    "ts": "2026-05-06T00:46:12.434692+00:00",
+    "engine": "codex"
+  },
+  "image_6304e8a09eaf71.png": {
+    "classification": "formula",
+    "latex": "\\overline{NM}\\perp\\overline{OB}",
+    "note": "線段NM垂直線段OB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{NM}\\\\perp\\\\overline{OB}\",\"note\":\"線段NM垂直線段OB\"}\n",
+    "ts": "2026-05-06T00:46:13.128282+00:00",
+    "engine": "codex"
+  },
+  "image_af9a0933adfc0b.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}",
+    "note": "平方根3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\",\"note\":\"平方根3\"}\n",
+    "ts": "2026-05-06T00:46:15.880656+00:00",
+    "engine": "codex"
+  },
+  "image_b1200f2b400a12.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{OB}}{\\overline{MN}} =",
+    "note": "線段比值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{OB}}{\\\\overline{MN}} =\",\"note\":\"線段比值公式\"}\n",
+    "ts": "2026-05-06T00:46:18.527294+00:00",
+    "engine": "codex"
+  },
+  "image_86104aa55eef65.png": {
+    "classification": "formula",
+    "latex": "\\overline{OM}=\\frac{a}{2}",
+    "note": "線段OM等於a的一半",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OM}=\\\\frac{a}{2}\",\"note\":\"線段OM等於a的一半\"}\n",
+    "ts": "2026-05-06T00:46:18.813292+00:00",
+    "engine": "codex"
+  },
+  "image_b3c19a258eadc3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-05-06T00:46:21.292321+00:00",
+    "engine": "codex"
+  },
+  "image_73d8c046a900a3.png": {
+    "classification": "formula",
+    "latex": "\\overline{MN}=\\sqrt{\\left(\\frac{\\sqrt{3}}{2}a\\right)^2-\\left(\\frac{a}{2}\\right)^2}=\\sqrt{\\frac{1}{2}a^2}",
+    "note": "線段長度的根式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{MN}=\\\\sqrt{\\\\left(\\\\frac{\\\\sqrt{3}}{2}a\\\\right)^2-\\\\left(\\\\frac{a}{2}\\\\right)^2}=\\\\sqrt{\\\\frac{1}{2}a^2}\",\"note\":\"線段長度的根式計算\"}\n",
+    "ts": "2026-05-06T00:46:21.523430+00:00",
+    "engine": "codex"
+  },
+  "image_f966e190b9e2a4.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}",
+    "note": "根號二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\",\"note\":\"根號二\"}\n",
+    "ts": "2026-05-06T00:46:22.376179+00:00",
+    "engine": "codex"
+  },
+  "image_c7e3b67d57a506.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}",
+    "note": "線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\",\"note\":\"線段CD\"}\n",
+    "ts": "2026-05-06T00:46:23.632145+00:00",
+    "engine": "codex"
+  }
+}

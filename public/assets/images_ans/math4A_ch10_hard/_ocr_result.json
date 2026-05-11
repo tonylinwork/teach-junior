@@ -1,0 +1,154 @@
+{
+  "image_15a83dde30152c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-05-06T00:41:17.652927+00:00",
+    "engine": "codex"
+  },
+  "image_08eee215f06bf4.png": {
+    "classification": "formula",
+    "latex": "M_4=\\begin{bmatrix}1&3\\\\0&1\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_4=\\\\begin{bmatrix}1&3\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-05-06T00:41:18.934363+00:00",
+    "engine": "codex"
+  },
+  "image_0232d1f5c8a723.png": {
+    "classification": "formula",
+    "latex": "M_2=\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}=\\begin{bmatrix}\\cos\\frac{\\pi}{2}&-\\sin\\frac{\\pi}{2}\\\\\\sin\\frac{\\pi}{2}&\\cos\\frac{\\pi}{2}\\end{bmatrix}",
+    "note": "旋轉矩陣公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_2=\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos\\\\frac{\\\\pi}{2}&-\\\\sin\\\\frac{\\\\pi}{2}\\\\\\\\\\\\sin\\\\frac{\\\\pi}{2}&\\\\cos\\\\frac{\\\\pi}{2}\\\\end{bmatrix}\",\"note\":\"旋轉矩陣公式\"}\n",
+    "ts": "2026-05-06T00:41:20.009629+00:00",
+    "engine": "codex"
+  },
+  "image_1d316e8da49a58.png": {
+    "classification": "formula",
+    "latex": "M_2=\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}",
+    "note": "2x2 matrix definition",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_2=\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix definition\"}\n",
+    "ts": "2026-05-06T00:41:22.810767+00:00",
+    "engine": "codex"
+  },
+  "image_1881da0003a0e7.png": {
+    "classification": "formula",
+    "latex": "X_4=AX_3=\\begin{bmatrix}0&\\frac{1}{2}\\\\1&\\frac{1}{2}\\end{bmatrix}\\begin{bmatrix}\\frac{3}{8}\\\\\\frac{5}{8}\\end{bmatrix}=\\begin{bmatrix}\\frac{5}{16}\\\\\\frac{11}{16}\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"X_4=AX_3=\\\\begin{bmatrix}0&\\\\frac{1}{2}\\\\\\\\1&\\\\frac{1}{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{3}{8}\\\\\\\\\\\\frac{5}{8}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\frac{5}{16}\\\\\\\\\\\\frac{11}{16}\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-05-06T00:41:22.930185+00:00",
+    "engine": "codex"
+  },
+  "image_4b84de37bf1af6.png": {
+    "classification": "formula",
+    "latex": "M_3=\\begin{bmatrix}2&0\\\\0&1\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_3=\\\\begin{bmatrix}2&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-05-06T00:41:24.659225+00:00",
+    "engine": "codex"
+  },
+  "image_4edbf8c248df87.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\begin{matrix}2&0\\\\0&1\\end{matrix}\\right|\\times \\triangle ABC=2\\times10=20",
+    "note": "行列式乘三角形ABC面積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\begin{matrix}2&0\\\\\\\\0&1\\\\end{matrix}\\\\right|\\\\times \\\\triangle ABC=2\\\\times10=20\",\"note\":\"行列式乘三角形ABC面積\"}\n",
+    "ts": "2026-05-06T00:41:26.851477+00:00",
+    "engine": "codex"
+  },
+  "image_8cdb37d13a7a07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-05-06T00:41:27.843465+00:00",
+    "engine": "codex"
+  },
+  "image_71765529870937.png": {
+    "classification": "formula",
+    "latex": "\\cong",
+    "note": "全等符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cong\",\"note\":\"全等符號\"}\n",
+    "ts": "2026-05-06T00:41:29.837558+00:00",
+    "engine": "codex"
+  },
+  "image_94da0871348319.png": {
+    "classification": "formula",
+    "latex": "\\frac{11}{32}",
+    "note": "分數十一分之三十二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{11}{32}\",\"note\":\"分數十一分之三十二\"}\n",
+    "ts": "2026-05-06T00:41:30.310366+00:00",
+    "engine": "codex"
+  },
+  "image_b6f5c128b6e2cd.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}0&\\frac{1}{2}\\\\1&\\frac{1}{2}\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}0&\\\\frac{1}{2}\\\\\\\\1&\\\\frac{1}{2}\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-05-06T00:41:35.679458+00:00",
+    "engine": "codex"
+  },
+  "image_cd2f7f062bc3f2.png": {
+    "classification": "formula",
+    "latex": "M_1=\\begin{bmatrix}-1&0\\\\0&1\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_1=\\\\begin{bmatrix}-1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-05-06T00:41:36.167087+00:00",
+    "engine": "codex"
+  },
+  "image_a290bb9c1324e7.png": {
+    "classification": "formula",
+    "latex": "X_1=\\begin{bmatrix}\\dfrac{1}{2}\\\\\\dfrac{1}{2}\\end{bmatrix}",
+    "note": "列向量公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"X_1=\\\\begin{bmatrix}\\\\dfrac{1}{2}\\\\\\\\\\\\dfrac{1}{2}\\\\end{bmatrix}\",\"note\":\"列向量公式\"}\n",
+    "ts": "2026-05-06T00:41:36.507865+00:00",
+    "engine": "codex"
+  },
+  "image_ec8dcbe3258a04.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{16}",
+    "note": "分數五分之十六",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{16}\",\"note\":\"分數五分之十六\"}\n",
+    "ts": "2026-05-06T00:41:40.511684+00:00",
+    "engine": "codex"
+  },
+  "image_e888c1aa75769e.png": {
+    "classification": "formula",
+    "latex": "X_2=AX_1=\\begin{bmatrix}0&\\frac{1}{2}\\\\1&\\frac{1}{2}\\end{bmatrix}\\begin{bmatrix}\\frac{1}{2}\\\\\\frac{1}{2}\\end{bmatrix}=\\begin{bmatrix}\\frac{1}{4}\\\\\\frac{3}{4}\\end{bmatrix}",
+    "note": "矩陣乘法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"X_2=AX_1=\\\\begin{bmatrix}0&\\\\frac{1}{2}\\\\\\\\1&\\\\frac{1}{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{1}{2}\\\\\\\\\\\\frac{1}{2}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\frac{1}{4}\\\\\\\\\\\\frac{3}{4}\\\\end{bmatrix}\",\"note\":\"矩陣乘法計算\"}\n",
+    "ts": "2026-05-06T00:41:44.010660+00:00",
+    "engine": "codex"
+  },
+  "image_e9c2cde3681ad4.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\begin{vmatrix}1&3\\\\0&1\\end{vmatrix}\\right|\\times \\triangle ABC=1\\times10=10",
+    "note": "行列式乘三角形面積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\begin{vmatrix}1&3\\\\\\\\0&1\\\\end{vmatrix}\\\\right|\\\\times \\\\triangle ABC=1\\\\times10=10\",\"note\":\"行列式乘三角形面積\"}\n",
+    "ts": "2026-05-06T00:41:45.442669+00:00",
+    "engine": "codex"
+  },
+  "image_c5c1383814c786.png": {
+    "classification": "formula",
+    "latex": "X_3-AX_2=\\begin{bmatrix}0&\\frac{1}{2}\\\\1&\\frac{1}{2}\\end{bmatrix}\\begin{bmatrix}\\frac{1}{4}\\\\\\frac{3}{4}\\end{bmatrix}=\\begin{bmatrix}\\frac{3}{8}\\\\\\frac{5}{8}\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"X_3-AX_2=\\\\begin{bmatrix}0&\\\\frac{1}{2}\\\\\\\\1&\\\\frac{1}{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{1}{4}\\\\\\\\\\\\frac{3}{4}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\frac{3}{8}\\\\\\\\\\\\frac{5}{8}\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-05-06T00:41:45.958741+00:00",
+    "engine": "codex"
+  },
+  "image_ee548efc854343.png": {
+    "classification": "formula",
+    "latex": "X_5-4X_4=\\begin{bmatrix}0&\\frac{1}{2}\\\\1&\\frac{1}{2}\\end{bmatrix}\\begin{bmatrix}\\frac{5}{16}\\\\\\frac{11}{16}\\end{bmatrix}=\\begin{bmatrix}\\frac{11}{32}\\\\\\frac{21}{32}\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"X_5-4X_4=\\\\begin{bmatrix}0&\\\\frac{1}{2}\\\\\\\\1&\\\\frac{1}{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{5}{16}\\\\\\\\\\\\frac{11}{16}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\frac{11}{32}\\\\\\\\\\\\frac{21}{32}\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-05-06T00:41:48.612859+00:00",
+    "engine": "codex"
+  },
+  "image_ff7155207af4f4.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{8}",
+    "note": "分數三分之八",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{8}\",\"note\":\"分數三分之八\"}\n",
+    "ts": "2026-05-06T00:41:50.606091+00:00",
+    "engine": "codex"
+  }
+}

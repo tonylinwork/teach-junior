@@ -1,0 +1,1506 @@
+{
+  "image_05908a2b21bbcd.png": {
+    "classification": "formula",
+    "latex": "(2,1)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,1)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T01:18:06.870188+00:00",
+    "engine": "codex"
+  },
+  "image_05240455f008e5.png": {
+    "classification": "formula",
+    "latex": "B=C",
+    "note": "等式 B=C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=C\",\"note\":\"等式 B=C\"}\n",
+    "ts": "2026-04-30T01:18:07.686191+00:00",
+    "engine": "codex"
+  },
+  "image_0477c1d15f385b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}5&6\\\\9&8\\end{bmatrix}=\\begin{bmatrix}a+b&c\\\\-b+c&a\\end{bmatrix}",
+    "note": "矩陣相等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}5&6\\\\\\\\9&8\\\\end{bmatrix}=\\\\begin{bmatrix}a+b&c\\\\\\\\-b+c&a\\\\end{bmatrix}\",\"note\":\"矩陣相等式\"}\n",
+    "ts": "2026-04-30T01:18:08.257008+00:00",
+    "engine": "codex"
+  },
+  "image_010259b2951b9f.png": {
+    "classification": "formula",
+    "latex": "\\vec{A}=(a_1,a_2)",
+    "note": "向量A的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{A}=(a_1,a_2)\",\"note\":\"向量A的座標表示\"}\n",
+    "ts": "2026-04-30T01:18:10.268345+00:00",
+    "engine": "codex"
+  },
+  "image_091a00451d427b.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1\\\\3\\end{bmatrix}=\\begin{bmatrix}3&2\\\\0&2\\end{bmatrix}\\begin{bmatrix}1\\\\3\\end{bmatrix}=\\begin{bmatrix}9\\\\6\\end{bmatrix}",
+    "note": "矩陣乘以向量的計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1\\\\\\\\3\\\\end{bmatrix}=\\\\begin{bmatrix}3&2\\\\\\\\0&2\\\\end{bmatrix}\\\\begin{bmatrix}1\\\\\\\\3\\\\end{bmatrix}=\\\\begin{bmatrix}9\\\\\\\\6\\\\end{bmatrix}\",\"note\":\"矩陣乘以向量的計算式\"}\n",
+    "ts": "2026-04-30T01:18:14.455430+00:00",
+    "engine": "codex"
+  },
+  "image_0705e38658515d.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}a_{11}&a_{12}&a_{13}&a_{14}\\\\a_{21}&a_{22}&a_{23}&a_{24}\\\\a_{31}&a_{32}&a_{33}&a_{34}\\\\a_{41}&a_{42}&a_{43}&a_{44}\\end{bmatrix}=\\begin{bmatrix}1&2&3&4\\\\2&2&3&4\\\\3&3&3&4\\\\4&4&4&4\\end{bmatrix}",
+    "note": "4階方陣的元素與數值表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}a_{11}&a_{12}&a_{13}&a_{14}\\\\\\\\a_{21}&a_{22}&a_{23}&a_{24}\\\\\\\\a_{31}&a_{32}&a_{33}&a_{34}\\\\\\\\a_{41}&a_{42}&a_{43}&a_{44}\\\\end{bmatrix}=\\\\begin{bmatrix}1&2&3&4\\\\\\\\2&2&3&4\\\\\\\\3&3&3&4\\\\\\\\4&4&4&4\\\\end{bmatrix}\",\"note\":\"4階方陣的元素與數值表示\"}\n",
+    "ts": "2026-04-30T01:18:16.703570+00:00",
+    "engine": "codex"
+  },
+  "image_094bf78492996e.png": {
+    "classification": "formula",
+    "latex": "2\\begin{bmatrix}1&1\\\\3&4\\end{bmatrix}=\\begin{bmatrix}2&2\\\\3&4\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\begin{bmatrix}1&1\\\\\\\\3&4\\\\end{bmatrix}=\\\\begin{bmatrix}2&2\\\\\\\\3&4\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:18:17.315267+00:00",
+    "engine": "codex"
+  },
+  "image_0a7564680bbbc1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}\\begin{bmatrix}2&0\\\\0&3\\end{bmatrix}",
+    "note": "矩陣相乘式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\\\\begin{bmatrix}2&0\\\\\\\\0&3\\\\end{bmatrix}\",\"note\":\"矩陣相乘式\"}\n",
+    "ts": "2026-04-30T01:18:20.863087+00:00",
+    "engine": "codex"
+  },
+  "image_0be04f566ba907.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{1}\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}=\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}",
+    "note": "矩陣純量乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{1}\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}=\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"矩陣純量乘法等式\"}\n",
+    "ts": "2026-04-30T01:18:24.483586+00:00",
+    "engine": "codex"
+  },
+  "image_0a88a92b10d695.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&0\\\\0&3\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}",
+    "note": "兩個二階矩陣相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&0\\\\\\\\0&3\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\",\"note\":\"兩個二階矩陣相乘\"}\n",
+    "ts": "2026-04-30T01:18:26.424121+00:00",
+    "engine": "codex"
+  },
+  "image_0d4c0d8ab2df25.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&2\\\\u&v\\end{bmatrix}",
+    "note": "2x2 matrix expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&2\\\\\\\\u&v\\\\end{bmatrix}\",\"note\":\"2x2 matrix expression\"}\n",
+    "ts": "2026-04-30T01:18:26.581391+00:00",
+    "engine": "codex"
+  },
+  "image_13d02d0e8b3d53.png": {
+    "classification": "formula",
+    "latex": "A^{-1}",
+    "note": "矩陣A的反矩陣記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1}\",\"note\":\"矩陣A的反矩陣記號\"}\n",
+    "ts": "2026-04-30T01:18:31.067594+00:00",
+    "engine": "codex"
+  },
+  "image_11ce32918b8ef9.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}^5=\\begin{bmatrix}1&0\\\\-2&1\\end{bmatrix}\\begin{bmatrix}-1&0\\\\3&-1\\end{bmatrix}=\\begin{bmatrix}-1&0\\\\5&-1\\end{bmatrix}",
+    "note": "矩陣乘法與冪次運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}^5=\\\\begin{bmatrix}1&0\\\\\\\\-2&1\\\\end{bmatrix}\\\\begin{bmatrix}-1&0\\\\\\\\3&-1\\\\end{bmatrix}=\\\\begin{bmatrix}-1&0\\\\\\\\5&-1\\\\end{bmatrix}\",\"note\":\"矩陣乘法與冪次運算\"}\n",
+    "ts": "2026-04-30T01:18:32.552347+00:00",
+    "engine": "codex"
+  },
+  "image_150acb07d75ee3.png": {
+    "classification": "formula",
+    "latex": "[a_{ij}]_{4\\times4}",
+    "note": "4乘4矩陣的一般元素表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"[a_{ij}]_{4\\\\times4}\",\"note\":\"4乘4矩陣的一般元素表示\"}\n",
+    "ts": "2026-04-30T01:18:33.600253+00:00",
+    "engine": "codex"
+  },
+  "image_1634d152ffa6dc.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{7}",
+    "note": "分數一七分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{7}\",\"note\":\"分數一七分之一\"}\n",
+    "ts": "2026-04-30T01:18:35.407610+00:00",
+    "engine": "codex"
+  },
+  "image_1c04fd3d147d03.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2\\\\2\\end{bmatrix}",
+    "note": "二維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"二維列向量\"}\n",
+    "ts": "2026-04-30T01:18:38.129243+00:00",
+    "engine": "codex"
+  },
+  "image_1e96c7eb10154b.png": {
+    "classification": "formula",
+    "latex": "(A+B)(A-B)",
+    "note": "代數乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(A+B)(A-B)\",\"note\":\"代數乘法公式\"}\n",
+    "ts": "2026-04-30T01:18:41.153266+00:00",
+    "engine": "codex"
+  },
+  "image_2078e5a67d10e2.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\begin{matrix}\\frac{a}{a^2-b^2}&\\frac{-b}{a^2-b^2}\\\\\\frac{-b}{a^2-b^2}&\\frac{a}{a^2-b^2}\\end{matrix}\\right|=\\frac{a^2-b^2}{(a^2-b^2)^2}=\\frac{1}{a^2-b^2}",
+    "note": "2x2 determinant simplification",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\begin{matrix}\\\\frac{a}{a^2-b^2}&\\\\frac{-b}{a^2-b^2}\\\\\\\\\\\\frac{-b}{a^2-b^2}&\\\\frac{a}{a^2-b^2}\\\\end{matrix}\\\\right|=\\\\frac{a^2-b^2}{(a^2-b^2)^2}=\\\\frac{1}{a^2-b^2}\",\"note\":\"2x2 determinant simplification\"}\n",
+    "ts": "2026-04-30T01:18:43.414922+00:00",
+    "engine": "codex"
+  },
+  "image_22cc1c8aeb1b77.png": {
+    "classification": "formula",
+    "latex": "B=\\begin{bmatrix}2&4\\\\1&2\\end{bmatrix}",
+    "note": "矩陣 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=\\\\begin{bmatrix}2&4\\\\\\\\1&2\\\\end{bmatrix}\",\"note\":\"矩陣 B\"}\n",
+    "ts": "2026-04-30T01:18:46.016886+00:00",
+    "engine": "codex"
+  },
+  "image_23e79bae57786e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}^{5}",
+    "note": "2x2矩陣的五次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}^{5}\",\"note\":\"2x2矩陣的五次方\"}\n",
+    "ts": "2026-04-30T01:18:48.824303+00:00",
+    "engine": "codex"
+  },
+  "image_232020ce0c15b1.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}3b+d=-6\\\\5b+2d=1\\end{cases}",
+    "note": "二元一次聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}3b+d=-6\\\\\\\\5b+2d=1\\\\end{cases}\",\"note\":\"二元一次聯立方程式\"}\n",
+    "ts": "2026-04-30T01:18:49.559246+00:00",
+    "engine": "codex"
+  },
+  "image_0994d3f3aa42e0.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}X+2Y=\\begin{bmatrix}1&2\\\\3&-1\\end{bmatrix}\\cdots\\text{(i)}\\\\Y-3X=\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}\\cdots\\text{(ii)}\\end{cases}",
+    "note": "矩陣方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}X+2Y=\\\\begin{bmatrix}1&2\\\\\\\\3&-1\\\\end{bmatrix}\\\\cdots\\\\text{(i)}\\\\\\\\Y-3X=\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}\\\\cdots\\\\text{(ii)}\\\\end{cases}\",\"note\":\"矩陣方程組\"}\n",
+    "ts": "2026-04-30T01:18:50.355823+00:00",
+    "engine": "codex"
+  },
+  "image_23fe14e5741d4c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&2&2&2\\\\1&0&2&2\\\\1&1&0&2\\\\1&1&1&0\\end{bmatrix}",
+    "note": "4階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&2&2&2\\\\\\\\1&0&2&2\\\\\\\\1&1&0&2\\\\\\\\1&1&1&0\\\\end{bmatrix}\",\"note\":\"4階方陣\"}\n",
+    "ts": "2026-04-30T01:18:53.372957+00:00",
+    "engine": "codex"
+  },
+  "image_27411b26f473d3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{7}+\\frac{10}{7}=\\frac{11}{7}",
+    "note": "分數加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{7}+\\\\frac{10}{7}=\\\\frac{11}{7}\",\"note\":\"分數加法算式\"}\n",
+    "ts": "2026-04-30T01:18:54.287226+00:00",
+    "engine": "codex"
+  },
+  "image_2889e568315b14.png": {
+    "classification": "formula",
+    "latex": "2^{6}=64",
+    "note": "指數式等於64",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{6}=64\",\"note\":\"指數式等於64\"}\n",
+    "ts": "2026-04-30T01:18:55.061659+00:00",
+    "engine": "codex"
+  },
+  "image_26dfabf3bd0d9b.png": {
+    "classification": "formula",
+    "latex": "a_{ij}=\\begin{cases}0, & \\text{當 } i<j\\\\1, & \\text{當 } i\\ge j\\end{cases}",
+    "note": "分段定義矩陣元素",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{ij}=\\\\begin{cases}0, & \\\\text{當 } i<j\\\\\\\\1, & \\\\text{當 } i\\\\ge j\\\\end{cases}\",\"note\":\"分段定義矩陣元素\"}\n",
+    "ts": "2026-04-30T01:18:56.955789+00:00",
+    "engine": "codex"
+  },
+  "image_291d4a2f06d6d7.png": {
+    "classification": "formula",
+    "latex": "A^{-1}=\\begin{bmatrix}2&-2\\\\0&3\\end{bmatrix}",
+    "note": "矩陣 A 的反矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1}=\\\\begin{bmatrix}2&-2\\\\\\\\0&3\\\\end{bmatrix}\",\"note\":\"矩陣 A 的反矩陣\"}\n",
+    "ts": "2026-04-30T01:18:59.430833+00:00",
+    "engine": "codex"
+  },
+  "image_29d7327f30ff6d.png": {
+    "classification": "formula",
+    "latex": "(A+B)+C=A+(B+C)",
+    "note": "加法結合律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(A+B)+C=A+(B+C)\",\"note\":\"加法結合律\"}\n",
+    "ts": "2026-04-30T01:19:01.013658+00:00",
+    "engine": "codex"
+  },
+  "image_2e3a4f75cd74d5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1\\\\0\\\\1\\end{bmatrix}",
+    "note": "三維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1\\\\\\\\0\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"三維列向量\"}\n",
+    "ts": "2026-04-30T01:19:02.419346+00:00",
+    "engine": "codex"
+  },
+  "image_2f4eb9eee253b3.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&2\\\\3&4\\\\5&6\\end{bmatrix}",
+    "note": "矩陣 A 的表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&2\\\\\\\\3&4\\\\\\\\5&6\\\\end{bmatrix}\",\"note\":\"矩陣 A 的表示式\"}\n",
+    "ts": "2026-04-30T01:19:03.482712+00:00",
+    "engine": "codex"
+  },
+  "image_2acb82c814c6ea.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&3\\\\2&3\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}=\\begin{bmatrix}2a+3c&2b+3d\\\\2a+3c&2b+3d\\end{bmatrix}",
+    "note": "矩陣乘法展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&3\\\\\\\\2&3\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}=\\\\begin{bmatrix}2a+3c&2b+3d\\\\\\\\2a+3c&2b+3d\\\\end{bmatrix}\",\"note\":\"矩陣乘法展開式\"}\n",
+    "ts": "2026-04-30T01:19:05.141091+00:00",
+    "engine": "codex"
+  },
+  "image_2fc3236f4402af.png": {
+    "classification": "formula",
+    "latex": "= A^2 - AB + BA - B^2",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= A^2 - AB + BA - B^2\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-30T01:19:06.274070+00:00",
+    "engine": "codex"
+  },
+  "image_347c5b0e902a73.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1 & 1\\end{bmatrix}",
+    "note": "1x2 row matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1 & 1\\\\end{bmatrix}\",\"note\":\"1x2 row matrix\"}\n",
+    "ts": "2026-04-30T01:19:08.986765+00:00",
+    "engine": "codex"
+  },
+  "image_34fedb7d1a693d.png": {
+    "classification": "formula",
+    "latex": "BA=\\begin{bmatrix}0&0\\\\1&0\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA=\\\\begin{bmatrix}0&0\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:19:10.103419+00:00",
+    "engine": "codex"
+  },
+  "image_30a659b015f06e.png": {
+    "classification": "formula",
+    "latex": "A^{-1}=\\frac{1}{6}\\begin{bmatrix}2&-2\\\\0&3\\end{bmatrix}=\\begin{bmatrix}\\frac{1}{3}&-\\frac{1}{3}\\\\0&\\frac{1}{2}\\end{bmatrix}",
+    "note": "矩陣反矩陣計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1}=\\\\frac{1}{6}\\\\begin{bmatrix}2&-2\\\\\\\\0&3\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\frac{1}{3}&-\\\\frac{1}{3}\\\\\\\\0&\\\\frac{1}{2}\\\\end{bmatrix}\",\"note\":\"矩陣反矩陣計算式\"}\n",
+    "ts": "2026-04-30T01:19:10.587634+00:00",
+    "engine": "codex"
+  },
+  "image_3688527e892d4a.png": {
+    "classification": "formula",
+    "latex": "(rA)B=B(rA)",
+    "note": "矩陣純量乘法結合性",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(rA)B=B(rA)\",\"note\":\"矩陣純量乘法結合性\"}\n",
+    "ts": "2026-04-30T01:19:12.320601+00:00",
+    "engine": "codex"
+  },
+  "image_39b60917249b8b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&1\\\\1&1\\end{bmatrix}",
+    "note": "2×2全1矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&1\\\\\\\\1&1\\\\end{bmatrix}\",\"note\":\"2×2全1矩陣\"}\n",
+    "ts": "2026-04-30T01:19:15.827529+00:00",
+    "engine": "codex"
+  },
+  "image_3b6d065b47c59d.png": {
+    "classification": "formula",
+    "latex": "a_{ij}",
+    "note": "單一變數含下標 ij",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{ij}\",\"note\":\"單一變數含下標 ij\"}\n",
+    "ts": "2026-04-30T01:19:15.968015+00:00",
+    "engine": "codex"
+  },
+  "image_3ab5773116ea2b.png": {
+    "classification": "formula",
+    "latex": "3\\times 3",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\times 3\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:19:16.400150+00:00",
+    "engine": "codex"
+  },
+  "image_3befec401445da.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow B=C",
+    "note": "蘊含式：B等於C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow B=C\",\"note\":\"蘊含式：B等於C\"}\n",
+    "ts": "2026-04-30T01:19:19.267403+00:00",
+    "engine": "codex"
+  },
+  "image_3e33473d3da403.png": {
+    "classification": "formula",
+    "latex": "a_{ij}=\\begin{cases}i,& i>j\\\\j,& i\\le j\\end{cases}",
+    "note": "分段定義矩陣元素a_ij",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{ij}=\\\\begin{cases}i,& i>j\\\\\\\\j,& i\\\\le j\\\\end{cases}\",\"note\":\"分段定義矩陣元素a_ij\"}\n",
+    "ts": "2026-04-30T01:19:20.910741+00:00",
+    "engine": "codex"
+  },
+  "image_3f45821f8a9862.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0\\\\1\\\\-1\\end{bmatrix}",
+    "note": "三維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0\\\\\\\\1\\\\\\\\-1\\\\end{bmatrix}\",\"note\":\"三維列向量\"}\n",
+    "ts": "2026-04-30T01:19:22.382259+00:00",
+    "engine": "codex"
+  },
+  "image_3d835964183943.png": {
+    "classification": "formula",
+    "latex": "AB=\\begin{bmatrix}0&0\\\\0&0\\end{bmatrix}",
+    "note": "矩陣乘積為零矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB=\\\\begin{bmatrix}0&0\\\\\\\\0&0\\\\end{bmatrix}\",\"note\":\"矩陣乘積為零矩陣\"}\n",
+    "ts": "2026-04-30T01:19:25.326137+00:00",
+    "engine": "codex"
+  },
+  "image_4015f79526d6f4.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&0\\\\0&3\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}=\\begin{bmatrix}2a&2b\\\\3c&3d\\end{bmatrix}",
+    "note": "矩陣乘法示例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&0\\\\\\\\0&3\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}=\\\\begin{bmatrix}2a&2b\\\\\\\\3c&3d\\\\end{bmatrix}\",\"note\":\"矩陣乘法示例\"}\n",
+    "ts": "2026-04-30T01:19:25.368842+00:00",
+    "engine": "codex"
+  },
+  "image_47a638788f9a03.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{7}",
+    "note": "分數七分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{7}\",\"note\":\"分數七分之一\"}\n",
+    "ts": "2026-04-30T01:19:26.643813+00:00",
+    "engine": "codex"
+  },
+  "image_40bc8a121400f6.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=\\overline{AC}",
+    "note": "線段AB等於線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=\\\\overline{AC}\",\"note\":\"線段AB等於線段AC\"}\n",
+    "ts": "2026-04-30T01:19:29.391792+00:00",
+    "engine": "codex"
+  },
+  "image_47d608122fbd04.png": {
+    "classification": "formula",
+    "latex": "(aA)(B+C)=A(a(B+C))",
+    "note": "結合律與純量乘法的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(aA)(B+C)=A(a(B+C))\",\"note\":\"結合律與純量乘法的等式\"}\n",
+    "ts": "2026-04-30T01:19:30.289567+00:00",
+    "engine": "codex"
+  },
+  "image_48d25fb53256de.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&1\\\\-1&0\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&1\\\\\\\\-1&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:19:31.107450+00:00",
+    "engine": "codex"
+  },
+  "image_4895bc687fe94d.png": {
+    "classification": "formula",
+    "latex": "2\\times 3",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times 3\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:19:31.192830+00:00",
+    "engine": "codex"
+  },
+  "image_494a4bc8a2639b.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^2+b^2}",
+    "note": "分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^2+b^2}\",\"note\":\"分式\"}\n",
+    "ts": "2026-04-30T01:19:34.419320+00:00",
+    "engine": "codex"
+  },
+  "image_4b2cc31452d09c.png": {
+    "classification": "formula",
+    "latex": "2\\begin{bmatrix}1&1\\\\3&4\\end{bmatrix}=\\begin{bmatrix}2&2\\\\6&8\\end{bmatrix}",
+    "note": "矩陣純量乘法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\begin{bmatrix}1&1\\\\\\\\3&4\\\\end{bmatrix}=\\\\begin{bmatrix}2&2\\\\\\\\6&8\\\\end{bmatrix}\",\"note\":\"矩陣純量乘法\"}\n",
+    "ts": "2026-04-30T01:19:36.935643+00:00",
+    "engine": "codex"
+  },
+  "image_4f1d98017728e2.png": {
+    "classification": "formula",
+    "latex": "A^2\\begin{bmatrix}1\\\\0\\\\-1\\end{bmatrix}=A\\left(A\\begin{bmatrix}1\\\\0\\\\-1\\end{bmatrix}\\right)=A\\begin{bmatrix}0\\\\-1\\\\1\\end{bmatrix}=\\begin{bmatrix}-1\\\\1\\\\0\\end{bmatrix}",
+    "note": "矩陣乘法運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\\\\begin{bmatrix}1\\\\\\\\0\\\\\\\\-1\\\\end{bmatrix}=A\\\\left(A\\\\begin{bmatrix}1\\\\\\\\0\\\\\\\\-1\\\\end{bmatrix}\\\\right)=A\\\\begin{bmatrix}0\\\\\\\\-1\\\\\\\\1\\\\end{bmatrix}=\\\\begin{bmatrix}-1\\\\\\\\1\\\\\\\\0\\\\end{bmatrix}\",\"note\":\"矩陣乘法運算式\"}\n",
+    "ts": "2026-04-30T01:19:38.306340+00:00",
+    "engine": "codex"
+  },
+  "image_4ee4193315cc33.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{5}",
+    "note": "分數二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{5}\",\"note\":\"分數二分之五\"}\n",
+    "ts": "2026-04-30T01:19:38.337018+00:00",
+    "engine": "codex"
+  },
+  "image_4f2052587d4575.png": {
+    "classification": "formula",
+    "latex": "3^4=81",
+    "note": "指數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^4=81\",\"note\":\"指數等式\"}\n",
+    "ts": "2026-04-30T01:19:38.463000+00:00",
+    "engine": "codex"
+  },
+  "image_5167ef00cbee0d.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{7}",
+    "note": "分數三分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{7}\",\"note\":\"分數三分之七\"}\n",
+    "ts": "2026-04-30T01:19:43.168546+00:00",
+    "engine": "codex"
+  },
+  "image_52ed38101d6cb6.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{7}",
+    "note": "分數三分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{7}\",\"note\":\"分數三分之七\"}\n",
+    "ts": "2026-04-30T01:19:43.476932+00:00",
+    "engine": "codex"
+  },
+  "image_51e3455698b895.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\5&-1\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\5&-1\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T01:19:43.616212+00:00",
+    "engine": "codex"
+  },
+  "image_52b2201fdbc4b4.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}x+1&x+y\\\\y^2&2\\end{bmatrix}=\\begin{bmatrix}2y&-4\\\\1&2\\end{bmatrix}",
+    "note": "矩陣相等的方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}x+1&x+y\\\\\\\\y^2&2\\\\end{bmatrix}=\\\\begin{bmatrix}2y&-4\\\\\\\\1&2\\\\end{bmatrix}\",\"note\":\"矩陣相等的方程式\"}\n",
+    "ts": "2026-04-30T01:19:44.447882+00:00",
+    "engine": "codex"
+  },
+  "image_57596300c7429f.png": {
+    "classification": "formula",
+    "latex": "\\Delta=0",
+    "note": "判別式等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Delta=0\",\"note\":\"判別式等於0\"}\n",
+    "ts": "2026-04-30T01:19:47.657611+00:00",
+    "engine": "codex"
+  },
+  "image_5a72f6f920cd70.png": {
+    "classification": "formula",
+    "latex": "B=[b_{ij}]_{2\\times3}",
+    "note": "矩陣元素表示法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=[b_{ij}]_{2\\\\times3}\",\"note\":\"矩陣元素表示法\"}\n",
+    "ts": "2026-04-30T01:19:49.344629+00:00",
+    "engine": "codex"
+  },
+  "image_57259e21760e1c.png": {
+    "classification": "formula",
+    "latex": "B=\\begin{bmatrix}0&0\\\\1&1\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=\\\\begin{bmatrix}0&0\\\\\\\\1&1\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:19:49.692031+00:00",
+    "engine": "codex"
+  },
+  "image_5d0ef50cd9141e.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^2b^2}",
+    "note": "分式：1除以a平方b平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^2b^2}\",\"note\":\"分式：1除以a平方b平方\"}\n",
+    "ts": "2026-04-30T01:19:53.877364+00:00",
+    "engine": "codex"
+  },
+  "image_5b777176dfdd41.png": {
+    "classification": "formula",
+    "latex": "A=\\left[a_{ij}\\right]_{3\\times 2}",
+    "note": "矩陣表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\left[a_{ij}\\\\right]_{3\\\\times 2}\",\"note\":\"矩陣表示式\"}\n",
+    "ts": "2026-04-30T01:19:53.980477+00:00",
+    "engine": "codex"
+  },
+  "image_56bd39eca132a5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}3&1\\\\5&2\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}+\\begin{bmatrix}3&0\\\\-9&6\\end{bmatrix}=\\begin{bmatrix}8&-6\\\\-10&7\\end{bmatrix}\\Rightarrow\\begin{bmatrix}3a+c&3b+d\\\\5a+2c&5b+2d\\end{bmatrix}=\\begin{bmatrix}8&-6\\\\-10&7\\end{bmatrix}-\\begin{bmatrix}3&0\\\\-9&6\\end{bmatrix}",
+    "note": "矩陣方程式展開",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}3&1\\\\\\\\5&2\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}+\\\\begin{bmatrix}3&0\\\\\\\\-9&6\\\\end{bmatrix}=\\\\begin{bmatrix}8&-6\\\\\\\\-10&7\\\\end{bmatrix}\\\\Rightarrow\\\\begin{bmatrix}3a+c&3b+d\\\\\\\\5a+2c&5b+2d\\\\end{bmatrix}=\\\\begin{bmatrix}8&-6\\\\\\\\-10&7\\\\end{bmatrix}-\\\\begin{bmatrix}3&0\\\\\\\\-9&6\\\\end{bmatrix}\",\"note\":\"矩陣方程式展開\"}\n",
+    "ts": "2026-04-30T01:19:54.386906+00:00",
+    "engine": "codex"
+  },
+  "image_5c68a9a72c2908.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\-5&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\-5&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:19:57.189128+00:00",
+    "engine": "codex"
+  },
+  "image_5e29673bc245e6.png": {
+    "classification": "formula",
+    "latex": "A\\ne -I",
+    "note": "矩陣不等於負單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\ne -I\",\"note\":\"矩陣不等於負單位矩陣\"}\n",
+    "ts": "2026-04-30T01:19:59.003201+00:00",
+    "engine": "codex"
+  },
+  "image_5dbcb6926ef29b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}",
+    "note": "2×2 identity matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2×2 identity matrix\"}\n",
+    "ts": "2026-04-30T01:19:59.016469+00:00",
+    "engine": "codex"
+  },
+  "image_6112ebbefad8e2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0\\\\1\\\\1\\end{bmatrix}",
+    "note": "三維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0\\\\\\\\1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"三維列向量\"}\n",
+    "ts": "2026-04-30T01:20:03.190299+00:00",
+    "engine": "codex"
+  },
+  "image_653647db3dd917.png": {
+    "classification": "formula",
+    "latex": "aA+bB",
+    "note": "線性組合表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"aA+bB\",\"note\":\"線性組合表達式\"}\n",
+    "ts": "2026-04-30T01:20:03.293033+00:00",
+    "engine": "codex"
+  },
+  "image_5e35e75a805bbb.png": {
+    "classification": "formula",
+    "latex": "(A+B)(A-B)=A^{2}-B^{2}",
+    "note": "平方差公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(A+B)(A-B)=A^{2}-B^{2}\",\"note\":\"平方差公式\"}\n",
+    "ts": "2026-04-30T01:20:03.337501+00:00",
+    "engine": "codex"
+  },
+  "image_61b49d51abd9f3.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}3a+c=5\\\\5a+2c=-1\\end{cases}",
+    "note": "二元一次聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}3a+c=5\\\\\\\\5a+2c=-1\\\\end{cases}\",\"note\":\"二元一次聯立方程式\"}\n",
+    "ts": "2026-04-30T01:20:07.741270+00:00",
+    "engine": "codex"
+  },
+  "image_66a61d707d3c8a.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^2-b^2}",
+    "note": "分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^2-b^2}\",\"note\":\"分式代數式\"}\n",
+    "ts": "2026-04-30T01:20:08.183647+00:00",
+    "engine": "codex"
+  },
+  "image_65aae8906998ce.png": {
+    "classification": "formula",
+    "latex": "a_{ij}\\in\\{1,2,3\\}",
+    "note": "集合取值條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{ij}\\\\in\\\\{1,2,3\\\\}\",\"note\":\"集合取值條件\"}\n",
+    "ts": "2026-04-30T01:20:09.875688+00:00",
+    "engine": "codex"
+  },
+  "image_683b8d400bdb12.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2^x+1&x+2y+3z\\\\3x+y+z&2\\end{bmatrix}=\\begin{bmatrix}2&2z-1\\\\z-1&y+3\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2^x+1&x+2y+3z\\\\\\\\3x+y+z&2\\\\end{bmatrix}=\\\\begin{bmatrix}2&2z-1\\\\\\\\z-1&y+3\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:20:11.880096+00:00",
+    "engine": "codex"
+  },
+  "image_6d680e6621092f.png": {
+    "classification": "formula",
+    "latex": "B=O",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=O\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T01:20:12.433497+00:00",
+    "engine": "codex"
+  },
+  "image_6af338cb0fc3bf.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&-2\\\\2x&2y\\end{bmatrix}+\\begin{bmatrix}x&z\\\\3y&1\\end{bmatrix}=\\begin{bmatrix}y&x\\\\z&3\\end{bmatrix}",
+    "note": "矩陣加法方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&-2\\\\\\\\2x&2y\\\\end{bmatrix}+\\\\begin{bmatrix}x&z\\\\\\\\3y&1\\\\end{bmatrix}=\\\\begin{bmatrix}y&x\\\\\\\\z&3\\\\end{bmatrix}\",\"note\":\"矩陣加法方程式\"}\n",
+    "ts": "2026-04-30T01:20:14.623594+00:00",
+    "engine": "codex"
+  },
+  "image_6fdc639369bef9.png": {
+    "classification": "formula",
+    "latex": "(a+b)(A+B)=(a+b)A+(a+b)B",
+    "note": "分配律公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)(A+B)=(a+b)A+(a+b)B\",\"note\":\"分配律公式\"}\n",
+    "ts": "2026-04-30T01:20:14.713422+00:00",
+    "engine": "codex"
+  },
+  "image_738494277e3ac0.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-30T01:20:17.823408+00:00",
+    "engine": "codex"
+  },
+  "image_7457b6411dea73.png": {
+    "classification": "formula",
+    "latex": "2\\times 3",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times 3\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:20:20.651692+00:00",
+    "engine": "codex"
+  },
+  "image_71e8969602a073.png": {
+    "classification": "formula",
+    "latex": "AB=AC\\Rightarrow A^{-1}(AB)=A^{-1}(AC)",
+    "note": "矩陣等式左乘反矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB=AC\\\\Rightarrow A^{-1}(AB)=A^{-1}(AC)\",\"note\":\"矩陣等式左乘反矩陣\"}\n",
+    "ts": "2026-04-30T01:20:22.404985+00:00",
+    "engine": "codex"
+  },
+  "image_79e63b9347b21c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1\\\\0\\\\1\\end{bmatrix}",
+    "note": "三維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1\\\\\\\\0\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"三維列向量\"}\n",
+    "ts": "2026-04-30T01:20:23.079824+00:00",
+    "engine": "codex"
+  },
+  "image_75210b652f6053.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&5\\\\0&-1\\end{bmatrix}",
+    "note": "2×2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&5\\\\\\\\0&-1\\\\end{bmatrix}\",\"note\":\"2×2 matrix\"}\n",
+    "ts": "2026-04-30T01:20:25.815196+00:00",
+    "engine": "codex"
+  },
+  "image_7bb9a0c1963f69.png": {
+    "classification": "formula",
+    "latex": "C=\\begin{bmatrix}1&0\\\\0&0\\end{bmatrix}",
+    "note": "2x2 matrix expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C=\\\\begin{bmatrix}1&0\\\\\\\\0&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix expression\"}\n",
+    "ts": "2026-04-30T01:20:26.048637+00:00",
+    "engine": "codex"
+  },
+  "image_7f03e95b813d7c.png": {
+    "classification": "formula",
+    "latex": "A \\ne I",
+    "note": "矩陣A不等於單位矩陣I",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A \\\\ne I\",\"note\":\"矩陣A不等於單位矩陣I\"}\n",
+    "ts": "2026-04-30T01:20:28.678904+00:00",
+    "engine": "codex"
+  },
+  "image_8139d61decfdc2.png": {
+    "classification": "formula",
+    "latex": "f",
+    "note": "單一字母變數 f",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f\",\"note\":\"單一字母變數 f\"}\n",
+    "ts": "2026-04-30T01:20:33.058676+00:00",
+    "engine": "codex"
+  },
+  "image_7d176d2042b0d5.png": {
+    "classification": "formula",
+    "latex": "[2\\quad 3]\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}=[2a+3c\\quad 2b+3d]",
+    "note": "行矩陣與二階矩陣相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"[2\\\\quad 3]\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}=[2a+3c\\\\quad 2b+3d]\",\"note\":\"行矩陣與二階矩陣相乘\"}\n",
+    "ts": "2026-04-30T01:20:33.585896+00:00",
+    "engine": "codex"
+  },
+  "image_80190efc9cdb84.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=-1\\\\y=1\\\\z=1\\end{cases}",
+    "note": "三元一次方程組的解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=-1\\\\\\\\y=1\\\\\\\\z=1\\\\end{cases}\",\"note\":\"三元一次方程組的解\"}\n",
+    "ts": "2026-04-30T01:20:33.663640+00:00",
+    "engine": "codex"
+  },
+  "image_8147f86fd42f53.png": {
+    "classification": "formula",
+    "latex": "A、B、C",
+    "note": "三個字母以頓號分隔",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A、B、C\",\"note\":\"三個字母以頓號分隔\"}\n",
+    "ts": "2026-04-30T01:20:38.333102+00:00",
+    "engine": "codex"
+  },
+  "image_8427dd934318d0.png": {
+    "classification": "formula",
+    "latex": "A^{-1}=\\frac{1}{a^2-b^2}\\begin{bmatrix}a&-b\\\\-b&a\\end{bmatrix}",
+    "note": "2x2矩陣反矩陣公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1}=\\\\frac{1}{a^2-b^2}\\\\begin{bmatrix}a&-b\\\\\\\\-b&a\\\\end{bmatrix}\",\"note\":\"2x2矩陣反矩陣公式\"}\n",
+    "ts": "2026-04-30T01:20:39.678915+00:00",
+    "engine": "codex"
+  },
+  "image_82f84105c802ee.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}\\begin{bmatrix}2\\\\3\\end{bmatrix}",
+    "note": "矩陣與向量相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\\\\begin{bmatrix}2\\\\\\\\3\\\\end{bmatrix}\",\"note\":\"矩陣與向量相乘\"}\n",
+    "ts": "2026-04-30T01:20:41.135882+00:00",
+    "engine": "codex"
+  },
+  "image_83ac75b5651d9b.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}\\begin{bmatrix}2&-1\\\\1&2\\end{bmatrix}=\\frac{1}{5}\\begin{bmatrix}2&0\\\\0&2\\end{bmatrix}+\\frac{1}{5}\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}=\\frac{2}{5}\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}-\\frac{1}{5}\\begin{bmatrix}0&1\\\\-1&0\\end{bmatrix}=\\frac{2}{5}I-\\frac{1}{5}J",
+    "note": "矩陣分解公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\\\\begin{bmatrix}2&-1\\\\\\\\1&2\\\\end{bmatrix}=\\\\frac{1}{5}\\\\begin{bmatrix}2&0\\\\\\\\0&2\\\\end{bmatrix}+\\\\frac{1}{5}\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}=\\\\frac{2}{5}\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}-\\\\frac{1}{5}\\\\begin{bmatrix}0&1\\\\\\\\-1&0\\\\end{bmatrix}=\\\\frac{2}{5}I-\\\\frac{1}{5}J\",\"note\":\"矩陣分解公式\"}\n",
+    "ts": "2026-04-30T01:20:41.743775+00:00",
+    "engine": "codex"
+  },
+  "image_8581e95d1d35e0.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a+b=5\\\\c=6\\\\-b+c=9\\\\a=8\\end{cases}",
+    "note": "聯立方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a+b=5\\\\\\\\c=6\\\\\\\\-b+c=9\\\\\\\\a=8\\\\end{cases}\",\"note\":\"聯立方程組\"}\n",
+    "ts": "2026-04-30T01:20:44.952319+00:00",
+    "engine": "codex"
+  },
+  "image_8a7c9bf1cc43af.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&0\\\\0&0\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&0\\\\\\\\0&0\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:20:46.170530+00:00",
+    "engine": "codex"
+  },
+  "image_897567d8ba7c42.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}3&5\\\\10&-3\\end{bmatrix}\\Rightarrow Y=\\begin{bmatrix}\\frac{3}{7}&\\frac{5}{7}\\\\\\frac{10}{7}&-\\frac{3}{7}\\end{bmatrix}",
+    "note": "矩陣各元素除以7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}3&5\\\\\\\\10&-3\\\\end{bmatrix}\\\\Rightarrow Y=\\\\begin{bmatrix}\\\\frac{3}{7}&\\\\frac{5}{7}\\\\\\\\\\\\frac{10}{7}&-\\\\frac{3}{7}\\\\end{bmatrix}\",\"note\":\"矩陣各元素除以7\"}\n",
+    "ts": "2026-04-30T01:20:47.340360+00:00",
+    "engine": "codex"
+  },
+  "image_8c30e34d950aa6.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2 & 2\\end{bmatrix}",
+    "note": "1x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2 & 2\\\\end{bmatrix}\",\"note\":\"1x2 matrix\"}\n",
+    "ts": "2026-04-30T01:20:50.467606+00:00",
+    "engine": "codex"
+  },
+  "image_8a21e8710c0638.png": {
+    "classification": "formula",
+    "latex": "A=\\left[a_{ij}\\right]_{2\\times2}",
+    "note": "矩陣記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\left[a_{ij}\\\\right]_{2\\\\times2}\",\"note\":\"矩陣記號\"}\n",
+    "ts": "2026-04-30T01:20:50.627229+00:00",
+    "engine": "codex"
+  },
+  "image_8d3d33b562ba8f.png": {
+    "classification": "formula",
+    "latex": "3\\times 3",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\times 3\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:20:51.785613+00:00",
+    "engine": "codex"
+  },
+  "image_8d965c91592609.png": {
+    "classification": "formula",
+    "latex": "A^2=\\begin{bmatrix}1&1\\\\0&-1\\end{bmatrix}\\begin{bmatrix}1&1\\\\0&-1\\end{bmatrix}=\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}=I",
+    "note": "矩陣平方等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=\\\\begin{bmatrix}1&1\\\\\\\\0&-1\\\\end{bmatrix}\\\\begin{bmatrix}1&1\\\\\\\\0&-1\\\\end{bmatrix}=\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}=I\",\"note\":\"矩陣平方等於單位矩陣\"}\n",
+    "ts": "2026-04-30T01:20:53.593723+00:00",
+    "engine": "codex"
+  },
+  "image_8e98c43eccd34f.png": {
+    "classification": "formula",
+    "latex": "(aA)(B+C)=A(aB+aC)",
+    "note": "代數式展開與因式分配",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(aA)(B+C)=A(aB+aC)\",\"note\":\"代數式展開與因式分配\"}\n",
+    "ts": "2026-04-30T01:20:56.220952+00:00",
+    "engine": "codex"
+  },
+  "image_8dbbf794ba0dbb.png": {
+    "classification": "formula",
+    "latex": "B \\neq O",
+    "note": "不等式：B不等於O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B \\\\neq O\",\"note\":\"不等式：B不等於O\"}\n",
+    "ts": "2026-04-30T01:20:58.182775+00:00",
+    "engine": "codex"
+  },
+  "image_8fde18617183c8.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&1\\\\4&-1\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&1\\\\\\\\4&-1\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T01:20:58.552198+00:00",
+    "engine": "codex"
+  },
+  "image_938d140ea6f029.png": {
+    "classification": "formula",
+    "latex": "\\frac{11}{7}",
+    "note": "分數十一分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{11}{7}\",\"note\":\"分數十一分之七\"}\n",
+    "ts": "2026-04-30T01:21:00.382641+00:00",
+    "engine": "codex"
+  },
+  "image_9064bfd6e35efb.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x-y=-2\\\\x-z=-2\\\\2x+3y=z\\\\y=1\\end{cases}",
+    "note": "四元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x-y=-2\\\\\\\\x-z=-2\\\\\\\\2x+3y=z\\\\\\\\y=1\\\\end{cases}\",\"note\":\"四元一次方程組\"}\n",
+    "ts": "2026-04-30T01:21:00.461137+00:00",
+    "engine": "codex"
+  },
+  "image_99ee810014f2b1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a_1&a_2\\\\a_1&a_2\\end{bmatrix}\\begin{bmatrix}b_1\\\\b_2\\end{bmatrix}=\\begin{bmatrix}a_1b_1+a_2b_2\\\\a_1b_1+a_2b_2\\end{bmatrix}=\\begin{bmatrix}1\\\\1\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a_1&a_2\\\\\\\\a_1&a_2\\\\end{bmatrix}\\\\begin{bmatrix}b_1\\\\\\\\b_2\\\\end{bmatrix}=\\\\begin{bmatrix}a_1b_1+a_2b_2\\\\\\\\a_1b_1+a_2b_2\\\\end{bmatrix}=\\\\begin{bmatrix}1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-30T01:21:08.075662+00:00",
+    "engine": "codex"
+  },
+  "image_94bfb3e8781eaa.png": {
+    "classification": "formula",
+    "latex": "A+(B+C)=(A+B)+C",
+    "note": "加法結合律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A+(B+C)=(A+B)+C\",\"note\":\"加法結合律\"}\n",
+    "ts": "2026-04-30T01:21:08.790546+00:00",
+    "engine": "codex"
+  },
+  "image_960094acfa1d51.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2a&3b\\\\2c&3d\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2a&3b\\\\\\\\2c&3d\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:21:12.171217+00:00",
+    "engine": "codex"
+  },
+  "image_96c532b6eb7fba.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&3\\\\2&3\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}",
+    "note": "兩個二階矩陣相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&3\\\\\\\\2&3\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\",\"note\":\"兩個二階矩陣相乘\"}\n",
+    "ts": "2026-04-30T01:21:12.828398+00:00",
+    "engine": "codex"
+  },
+  "image_9c438995eede9a.png": {
+    "classification": "formula",
+    "latex": "A^2=\\begin{bmatrix}3&2\\\\0&2\\end{bmatrix}\\begin{bmatrix}3&2\\\\0&2\\end{bmatrix}=\\begin{bmatrix}9&10\\\\0&4\\end{bmatrix}",
+    "note": "矩陣平方計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=\\\\begin{bmatrix}3&2\\\\\\\\0&2\\\\end{bmatrix}\\\\begin{bmatrix}3&2\\\\\\\\0&2\\\\end{bmatrix}=\\\\begin{bmatrix}9&10\\\\\\\\0&4\\\\end{bmatrix}\",\"note\":\"矩陣平方計算\"}\n",
+    "ts": "2026-04-30T01:21:15.598709+00:00",
+    "engine": "codex"
+  },
+  "image_9a7f12e87e97d3.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&4\\\\1&-1\\end{bmatrix}\\Rightarrow X=\\begin{bmatrix}\\frac{1}{7}&\\frac{4}{7}\\\\\\frac{1}{7}&-\\frac{1}{7}\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&4\\\\\\\\1&-1\\\\end{bmatrix}\\\\Rightarrow X=\\\\begin{bmatrix}\\\\frac{1}{7}&\\\\frac{4}{7}\\\\\\\\\\\\frac{1}{7}&-\\\\frac{1}{7}\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:21:16.583455+00:00",
+    "engine": "codex"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-30T01:21:18.363487+00:00",
+    "engine": "codex"
+  },
+  "image_9f474d1463ae46.png": {
+    "classification": "formula",
+    "latex": "A^2-B^2",
+    "note": "平方差公式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2-B^2\",\"note\":\"平方差公式表達式\"}\n",
+    "ts": "2026-04-30T01:21:19.549556+00:00",
+    "engine": "codex"
+  },
+  "image_a0239dea2ad786.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a_1&a_2\\\\a_1&a_2\\end{bmatrix}\\begin{bmatrix}b_1\\\\b_2\\end{bmatrix}",
+    "note": "矩陣與向量相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a_1&a_2\\\\\\\\a_1&a_2\\\\end{bmatrix}\\\\begin{bmatrix}b_1\\\\\\\\b_2\\\\end{bmatrix}\",\"note\":\"矩陣與向量相乘\"}\n",
+    "ts": "2026-04-30T01:21:23.504383+00:00",
+    "engine": "codex"
+  },
+  "image_a2489d150e25ad.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1\\\\2\\end{bmatrix}=\\begin{bmatrix}7\\\\4\\end{bmatrix}",
+    "note": "矩陣乘向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1\\\\\\\\2\\\\end{bmatrix}=\\\\begin{bmatrix}7\\\\\\\\4\\\\end{bmatrix}\",\"note\":\"矩陣乘向量等式\"}\n",
+    "ts": "2026-04-30T01:21:24.163457+00:00",
+    "engine": "codex"
+  },
+  "image_a33b7c52645bef.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}3&2\\\\0&2\\end{matrix}\\right|=6",
+    "note": "二階行列式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}3&2\\\\\\\\0&2\\\\end{matrix}\\\\right|=6\",\"note\":\"二階行列式計算\"}\n",
+    "ts": "2026-04-30T01:21:26.483389+00:00",
+    "engine": "codex"
+  },
+  "image_a24f9355867e09.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2+x=y\\\\-2+z=x\\\\2x+3y=z\\\\2y+1=3\\end{cases}",
+    "note": "四元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2+x=y\\\\\\\\-2+z=x\\\\\\\\2x+3y=z\\\\\\\\2y+1=3\\\\end{cases}\",\"note\":\"四元一次方程組\"}\n",
+    "ts": "2026-04-30T01:21:28.834551+00:00",
+    "engine": "codex"
+  },
+  "image_a7dfbe80af5f59.png": {
+    "classification": "formula",
+    "latex": "\\Delta = v - 2u = 0",
+    "note": "判別式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Delta = v - 2u = 0\",\"note\":\"判別式等式\"}\n",
+    "ts": "2026-04-30T01:21:29.890343+00:00",
+    "engine": "codex"
+  },
+  "image_a55394d3e3899f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}3&1\\\\5&2\\end{bmatrix}X+3\\begin{bmatrix}1&0\\\\-3&2\\end{bmatrix}=\\begin{bmatrix}-1&-4\\\\1&5\\end{bmatrix}\\begin{bmatrix}0&2\\\\-2&1\\end{bmatrix}",
+    "note": "矩陣方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}3&1\\\\\\\\5&2\\\\end{bmatrix}X+3\\\\begin{bmatrix}1&0\\\\\\\\-3&2\\\\end{bmatrix}=\\\\begin{bmatrix}-1&-4\\\\\\\\1&5\\\\end{bmatrix}\\\\begin{bmatrix}0&2\\\\\\\\-2&1\\\\end{bmatrix}\",\"note\":\"矩陣方程式\"}\n",
+    "ts": "2026-04-30T01:21:32.101231+00:00",
+    "engine": "codex"
+  },
+  "image_a8ad433e39bc0b.png": {
+    "classification": "formula",
+    "latex": "A^2\\begin{bmatrix}1\\\\0\\\\-1\\end{bmatrix}",
+    "note": "矩陣乘向量表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\\\\begin{bmatrix}1\\\\\\\\0\\\\\\\\-1\\\\end{bmatrix}\",\"note\":\"矩陣乘向量表達式\"}\n",
+    "ts": "2026-04-30T01:21:33.085757+00:00",
+    "engine": "codex"
+  },
+  "image_a932bb06a1ae98.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}a&b\\\\c&d\\\\e&f\\end{bmatrix}",
+    "note": "矩陣表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\\\\\e&f\\\\end{bmatrix}\",\"note\":\"矩陣表示式\"}\n",
+    "ts": "2026-04-30T01:21:36.138999+00:00",
+    "engine": "codex"
+  },
+  "image_a94d12cc210550.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&0\\\\1&1\\\\1&1\\end{bmatrix}",
+    "note": "矩陣A的表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&0\\\\\\\\1&1\\\\\\\\1&1\\\\end{bmatrix}\",\"note\":\"矩陣A的表示式\"}\n",
+    "ts": "2026-04-30T01:21:36.420352+00:00",
+    "engine": "codex"
+  },
+  "image_ae1c9cd7b4ad3e.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&1\\\\0&-1\\end{bmatrix}",
+    "note": "2x2矩陣表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&1\\\\\\\\0&-1\\\\end{bmatrix}\",\"note\":\"2x2矩陣表示式\"}\n",
+    "ts": "2026-04-30T01:21:37.890626+00:00",
+    "engine": "codex"
+  },
+  "image_ab698153ddf902.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}",
+    "note": "2x2 matrix definition",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\",\"note\":\"2x2 matrix definition\"}\n",
+    "ts": "2026-04-30T01:21:39.154096+00:00",
+    "engine": "codex"
+  },
+  "image_b2060bff14667b.png": {
+    "classification": "formula",
+    "latex": "5A-6\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}=\\begin{bmatrix}15&10\\\\0&10\\end{bmatrix}-\\begin{bmatrix}6&0\\\\0&6\\end{bmatrix}=\\begin{bmatrix}9&10\\\\0&4\\end{bmatrix}",
+    "note": "矩陣運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5A-6\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}=\\\\begin{bmatrix}15&10\\\\\\\\0&10\\\\end{bmatrix}-\\\\begin{bmatrix}6&0\\\\\\\\0&6\\\\end{bmatrix}=\\\\begin{bmatrix}9&10\\\\\\\\0&4\\\\end{bmatrix}\",\"note\":\"矩陣運算式\"}\n",
+    "ts": "2026-04-30T01:21:42.837293+00:00",
+    "engine": "codex"
+  },
+  "image_b0f560110b61a6.png": {
+    "classification": "formula",
+    "latex": "=A(aB+aC)",
+    "note": "代數式因式分解結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=A(aB+aC)\",\"note\":\"代數式因式分解結果\"}\n",
+    "ts": "2026-04-30T01:21:44.205575+00:00",
+    "engine": "codex"
+  },
+  "image_b263eebd021727.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}\\begin{bmatrix}2\\\\3\\end{bmatrix}=\\begin{bmatrix}2a+3b\\\\2c+3d\\end{bmatrix}",
+    "note": "矩陣乘以向量的運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\\\\begin{bmatrix}2\\\\\\\\3\\\\end{bmatrix}=\\\\begin{bmatrix}2a+3b\\\\\\\\2c+3d\\\\end{bmatrix}\",\"note\":\"矩陣乘以向量的運算\"}\n",
+    "ts": "2026-04-30T01:21:44.462484+00:00",
+    "engine": "codex"
+  },
+  "image_b2ebeb810a827a.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1&1\\\\1&2\\end{bmatrix}=\\begin{bmatrix}5&7\\\\2&4\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1&1\\\\\\\\1&2\\\\end{bmatrix}=\\\\begin{bmatrix}5&7\\\\\\\\2&4\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-30T01:21:44.867010+00:00",
+    "engine": "codex"
+  },
+  "image_b86a9d64742fbf.png": {
+    "classification": "formula",
+    "latex": "A=O",
+    "note": "字母等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=O\",\"note\":\"字母等式\"}\n",
+    "ts": "2026-04-30T01:21:49.087673+00:00",
+    "engine": "codex"
+  },
+  "image_b61f160409242b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\frac{3}{7}&\\frac{5}{7}\\\\\\frac{10}{7}&-\\frac{3}{7}\\end{bmatrix}-2\\begin{bmatrix}\\frac{1}{7}&\\frac{4}{7}\\\\\\frac{1}{7}&-\\frac{1}{7}\\end{bmatrix}=\\begin{bmatrix}1&1\\\\4&-1\\end{bmatrix}",
+    "note": "矩陣運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\frac{3}{7}&\\\\frac{5}{7}\\\\\\\\\\\\frac{10}{7}&-\\\\frac{3}{7}\\\\end{bmatrix}-2\\\\begin{bmatrix}\\\\frac{1}{7}&\\\\frac{4}{7}\\\\\\\\\\\\frac{1}{7}&-\\\\frac{1}{7}\\\\end{bmatrix}=\\\\begin{bmatrix}1&1\\\\\\\\4&-1\\\\end{bmatrix}\",\"note\":\"矩陣運算式\"}\n",
+    "ts": "2026-04-30T01:21:52.825585+00:00",
+    "engine": "codex"
+  },
+  "image_b950786d07345b.png": {
+    "classification": "formula",
+    "latex": "3\\times 2",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\times 2\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:21:52.997126+00:00",
+    "engine": "codex"
+  },
+  "image_b71abf420b6c18.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1\\\\1\\end{bmatrix}",
+    "note": "二維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"二維列向量\"}\n",
+    "ts": "2026-04-30T01:21:53.193747+00:00",
+    "engine": "codex"
+  },
+  "image_b77dea14d2cd30.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}a\\\\b\\\\c\\end{bmatrix}=\\begin{bmatrix}b\\\\c\\\\a\\end{bmatrix}",
+    "note": "矩陣乘向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}a\\\\\\\\b\\\\\\\\c\\\\end{bmatrix}=\\\\begin{bmatrix}b\\\\\\\\c\\\\\\\\a\\\\end{bmatrix}\",\"note\":\"矩陣乘向量等式\"}\n",
+    "ts": "2026-04-30T01:21:54.132761+00:00",
+    "engine": "codex"
+  },
+  "image_b96ef7783a5588.png": {
+    "classification": "formula",
+    "latex": "\\dfrac{2}{5}",
+    "note": "分数二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\dfrac{2}{5}\",\"note\":\"分数二分之五\"}\n",
+    "ts": "2026-04-30T01:21:56.439754+00:00",
+    "engine": "codex"
+  },
+  "image_bad1b67c5978a6.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-30T01:21:57.518542+00:00",
+    "engine": "codex"
+  },
+  "image_b9b5ccd94ae03b.png": {
+    "classification": "formula",
+    "latex": "a_{ij} \\in \\{0,1\\}",
+    "note": "二元變數取值集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{ij} \\\\in \\\\{0,1\\\\}\",\"note\":\"二元變數取值集合\"}\n",
+    "ts": "2026-04-30T01:21:58.743680+00:00",
+    "engine": "codex"
+  },
+  "image_bbe0c1784cb705.png": {
+    "classification": "formula",
+    "latex": "(3,2)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,2)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T01:22:01.224115+00:00",
+    "engine": "codex"
+  },
+  "image_bdef507fe3e093.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2^x+1=2\\\\x+2y+3z=2z-1\\\\3x+y+z=z-1\\\\y+3=2\\end{cases}\\Rightarrow\\begin{cases}x=0\\\\y=-1\\\\z=1\\end{cases}",
+    "note": "聯立方程組求解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2^x+1=2\\\\\\\\x+2y+3z=2z-1\\\\\\\\3x+y+z=z-1\\\\\\\\y+3=2\\\\end{cases}\\\\Rightarrow\\\\begin{cases}x=0\\\\\\\\y=-1\\\\\\\\z=1\\\\end{cases}\",\"note\":\"聯立方程組求解\"}\n",
+    "ts": "2026-04-30T01:22:02.673788+00:00",
+    "engine": "codex"
+  },
+  "image_c0c7e1f760e399.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}^3=\\begin{bmatrix}1&0\\\\-2&1\\end{bmatrix}\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}=\\begin{bmatrix}-1&0\\\\3&-1\\end{bmatrix}",
+    "note": "矩陣三次方計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}^3=\\\\begin{bmatrix}1&0\\\\\\\\-2&1\\\\end{bmatrix}\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}=\\\\begin{bmatrix}-1&0\\\\\\\\3&-1\\\\end{bmatrix}\",\"note\":\"矩陣三次方計算\"}\n",
+    "ts": "2026-04-30T01:22:04.009583+00:00",
+    "engine": "codex"
+  },
+  "image_c27b077c0c9f52.png": {
+    "classification": "formula",
+    "latex": "\\vec{A}\\cdot\\vec{B}=a_1b_1+a_2b_2=1",
+    "note": "向量內積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{A}\\\\cdot\\\\vec{B}=a_1b_1+a_2b_2=1\",\"note\":\"向量內積公式\"}\n",
+    "ts": "2026-04-30T01:22:05.192300+00:00",
+    "engine": "codex"
+  },
+  "image_c7d564032397a5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1 & 2 \\\\ 3 & -1\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1 & 2 \\\\\\\\ 3 & -1\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T01:22:08.892506+00:00",
+    "engine": "codex"
+  },
+  "image_c510051be6a065.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1\\\\1\\end{bmatrix}=\\begin{bmatrix}5\\\\2\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1\\\\\\\\1\\\\end{bmatrix}=\\\\begin{bmatrix}5\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-30T01:22:09.069942+00:00",
+    "engine": "codex"
+  },
+  "image_c62e21d389b189.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:22:10.291110+00:00",
+    "engine": "codex"
+  },
+  "image_caaba199c21259.png": {
+    "classification": "formula",
+    "latex": "A=I",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=I\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:22:13.520242+00:00",
+    "engine": "codex"
+  },
+  "image_c8fdd93bd49e85.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&3\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}",
+    "note": "矩陣乘法表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&3\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\",\"note\":\"矩陣乘法表示式\"}\n",
+    "ts": "2026-04-30T01:22:14.479010+00:00",
+    "engine": "codex"
+  },
+  "image_c501672da160c3.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+1=2y\\\\x+y=-4\\\\y^2=1\\end{cases}",
+    "note": "聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+1=2y\\\\\\\\x+y=-4\\\\\\\\y^2=1\\\\end{cases}\",\"note\":\"聯立方程式\"}\n",
+    "ts": "2026-04-30T01:22:14.602348+00:00",
+    "engine": "codex"
+  },
+  "image_cafb8316f86252.png": {
+    "classification": "formula",
+    "latex": "BA=O",
+    "note": "純文字數學式：BA等於O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA=O\",\"note\":\"純文字數學式：BA等於O\"}\n",
+    "ts": "2026-04-30T01:22:15.122086+00:00",
+    "engine": "codex"
+  },
+  "image_cbcc2fc8cd1cd9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數五分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數五分之一\"}\n",
+    "ts": "2026-04-30T01:22:19.846531+00:00",
+    "engine": "codex"
+  },
+  "image_cd1bc8b0fe4516.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1\\\\3\\end{bmatrix}=\\begin{bmatrix}9\\\\6\\end{bmatrix}",
+    "note": "矩陣乘向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1\\\\\\\\3\\\\end{bmatrix}=\\\\begin{bmatrix}9\\\\\\\\6\\\\end{bmatrix}\",\"note\":\"矩陣乘向量等式\"}\n",
+    "ts": "2026-04-30T01:22:23.492030+00:00",
+    "engine": "codex"
+  },
+  "image_d092717657c155.png": {
+    "classification": "formula",
+    "latex": "r",
+    "note": "單一變數 r",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r\",\"note\":\"單一變數 r\"}\n",
+    "ts": "2026-04-30T01:22:23.830517+00:00",
+    "engine": "codex"
+  },
+  "image_cff644fd3f14d3.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&-2\\\\2&-4\\end{bmatrix}",
+    "note": "矩陣 A 的表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&-2\\\\\\\\2&-4\\\\end{bmatrix}\",\"note\":\"矩陣 A 的表示式\"}\n",
+    "ts": "2026-04-30T01:22:25.308121+00:00",
+    "engine": "codex"
+  },
+  "image_d0fbd59aa89ad7.png": {
+    "classification": "formula",
+    "latex": "a_{ij}=\\begin{cases}0, i=j\\\\1, i>j\\\\2, i<j\\end{cases}",
+    "note": "分段定義矩陣元素",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{ij}=\\\\begin{cases}0, i=j\\\\\\\\1, i>j\\\\\\\\2, i<j\\\\end{cases}\",\"note\":\"分段定義矩陣元素\"}\n",
+    "ts": "2026-04-30T01:22:29.112846+00:00",
+    "engine": "codex"
+  },
+  "image_d1e9f24d0549dd.png": {
+    "classification": "formula",
+    "latex": "AB=\\begin{bmatrix}1&0\\\\0&0\\end{bmatrix}=AC",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB=\\\\begin{bmatrix}1&0\\\\\\\\0&0\\\\end{bmatrix}=AC\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:22:29.167317+00:00",
+    "engine": "codex"
+  },
+  "image_d29f9347d3c685.png": {
+    "classification": "formula",
+    "latex": "(u,v)",
+    "note": "有序對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(u,v)\",\"note\":\"有序對座標\"}\n",
+    "ts": "2026-04-30T01:22:31.830325+00:00",
+    "engine": "codex"
+  },
+  "image_d51894774d0ed7.png": {
+    "classification": "formula",
+    "latex": "(a+b)(A+B)=aA+bB",
+    "note": "代數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)(A+B)=aA+bB\",\"note\":\"代數等式\"}\n",
+    "ts": "2026-04-30T01:22:34.005892+00:00",
+    "engine": "codex"
+  },
+  "image_cf90c173d64af2.png": {
+    "classification": "formula",
+    "latex": "\\widehat{AB}",
+    "note": "弧AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\widehat{AB}\",\"note\":\"弧AB\"}\n",
+    "ts": "2026-04-30T01:22:35.324573+00:00",
+    "engine": "codex"
+  },
+  "image_d49a0f5da2d4e2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:22:36.134697+00:00",
+    "engine": "codex"
+  },
+  "image_d76a29a23fa47f.png": {
+    "classification": "formula",
+    "latex": "4A=A+A+A+A",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4A=A+A+A+A\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T01:22:37.941661+00:00",
+    "engine": "codex"
+  },
+  "image_d80fb4cc0d253b.png": {
+    "classification": "formula",
+    "latex": "(A+B)(A-B)=A(A-B)+B(A-B)",
+    "note": "代數恆等式展開",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(A+B)(A-B)=A(A-B)+B(A-B)\",\"note\":\"代數恆等式展開\"}\n",
+    "ts": "2026-04-30T01:22:41.409943+00:00",
+    "engine": "codex"
+  },
+  "image_d56e9c40f2456e.png": {
+    "classification": "formula",
+    "latex": "AB=O",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB=O\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T01:22:41.779213+00:00",
+    "engine": "codex"
+  },
+  "image_d78a20013e3f1c.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow A=\\begin{bmatrix}5&7\\\\2&4\\end{bmatrix}\\begin{bmatrix}1&1\\\\1&2\\end{bmatrix}^{-1}=\\begin{bmatrix}5&7\\\\2&4\\end{bmatrix}\\begin{bmatrix}2&-1\\\\-1&1\\end{bmatrix}=\\begin{bmatrix}3&2\\\\0&2\\end{bmatrix}",
+    "note": "矩陣乘法與反矩陣運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow A=\\\\begin{bmatrix}5&7\\\\\\\\2&4\\\\end{bmatrix}\\\\begin{bmatrix}1&1\\\\\\\\1&2\\\\end{bmatrix}^{-1}=\\\\begin{bmatrix}5&7\\\\\\\\2&4\\\\end{bmatrix}\\\\begin{bmatrix}2&-1\\\\\\\\-1&1\\\\end{bmatrix}=\\\\begin{bmatrix}3&2\\\\\\\\0&2\\\\end{bmatrix}\",\"note\":\"矩陣乘法與反矩陣運算\"}\n",
+    "ts": "2026-04-30T01:22:42.097859+00:00",
+    "engine": "codex"
+  },
+  "image_d887b137c58d7f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&1\\end{bmatrix}A=\\begin{bmatrix}5&7\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&1\\\\end{bmatrix}A=\\\\begin{bmatrix}5&7\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:22:43.875348+00:00",
+    "engine": "codex"
+  },
+  "image_dbf318520dd46b.png": {
+    "classification": "formula",
+    "latex": "3\\times 2",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\times 2\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:22:46.736988+00:00",
+    "engine": "codex"
+  },
+  "image_df208b0c316a5d.png": {
+    "classification": "formula",
+    "latex": "O_{2\\times3}=O_{3\\times2}",
+    "note": "零矩陣尺寸等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O_{2\\\\times3}=O_{3\\\\times2}\",\"note\":\"零矩陣尺寸等式\"}\n",
+    "ts": "2026-04-30T01:22:47.253920+00:00",
+    "engine": "codex"
+  },
+  "image_dabfdedba14946.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1\\\\1\\\\0\\end{bmatrix}",
+    "note": "三維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1\\\\\\\\1\\\\\\\\0\\\\end{bmatrix}\",\"note\":\"三維列向量\"}\n",
+    "ts": "2026-04-30T01:22:47.694889+00:00",
+    "engine": "codex"
+  },
+  "image_e348c3c4aa16b6.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}a&b\\\\b&a\\end{bmatrix}",
+    "note": "2x2 matrix expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}a&b\\\\\\\\b&a\\\\end{bmatrix}\",\"note\":\"2x2 matrix expression\"}\n",
+    "ts": "2026-04-30T01:22:50.199242+00:00",
+    "engine": "codex"
+  },
+  "image_e3c509acdf01b0.png": {
+    "classification": "formula",
+    "latex": "A\\ne O",
+    "note": "純數學式：A不等於O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\ne O\",\"note\":\"純數學式：A不等於O\"}\n",
+    "ts": "2026-04-30T01:22:50.517997+00:00",
+    "engine": "codex"
+  },
+  "image_e4957c0006a315.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1 & 0 \\\\ 5 & 1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1 & 0 \\\\\\\\ 5 & 1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:22:54.580418+00:00",
+    "engine": "codex"
+  },
+  "image_e5451f0c764699.png": {
+    "classification": "formula",
+    "latex": "\\det(A)\\ne 0",
+    "note": "行列式不為零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\det(A)\\\\ne 0\",\"note\":\"行列式不為零\"}\n",
+    "ts": "2026-04-30T01:22:55.090759+00:00",
+    "engine": "codex"
+  },
+  "image_e3f84bc448f6ce.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}^2=\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}\\begin{bmatrix}-1&0\\\\1&-1\\end{bmatrix}=\\begin{bmatrix}1&0\\\\-2&1\\end{bmatrix}",
+    "note": "矩陣平方運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}^2=\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}\\\\begin{bmatrix}-1&0\\\\\\\\1&-1\\\\end{bmatrix}=\\\\begin{bmatrix}1&0\\\\\\\\-2&1\\\\end{bmatrix}\",\"note\":\"矩陣平方運算\"}\n",
+    "ts": "2026-04-30T01:22:55.423426+00:00",
+    "engine": "codex"
+  },
+  "image_e711986448d2b5.png": {
+    "classification": "formula",
+    "latex": "3A\\cdot 2B",
+    "note": "代數乘法式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3A\\\\cdot 2B\",\"note\":\"代數乘法式\"}\n",
+    "ts": "2026-04-30T01:22:58.703218+00:00",
+    "engine": "codex"
+  },
+  "image_e774d61c2bb459.png": {
+    "classification": "formula",
+    "latex": "a\\ne b",
+    "note": "不等式：a不等於b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\\\\ne b\",\"note\":\"不等式：a不等於b\"}\n",
+    "ts": "2026-04-30T01:22:59.723888+00:00",
+    "engine": "codex"
+  },
+  "image_e561bff76846e8.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}\\begin{bmatrix} 2 & 0 \\\\ 0 & 3 \\end{bmatrix}=\\begin{bmatrix} 2a & 3b \\\\ 2c & 3d \\end{bmatrix}",
+    "note": "矩陣乘法範例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} a & b \\\\\\\\ c & d \\\\end{bmatrix}\\\\begin{bmatrix} 2 & 0 \\\\\\\\ 0 & 3 \\\\end{bmatrix}=\\\\begin{bmatrix} 2a & 3b \\\\\\\\ 2c & 3d \\\\end{bmatrix}\",\"note\":\"矩陣乘法範例\"}\n",
+    "ts": "2026-04-30T01:23:00.462653+00:00",
+    "engine": "codex"
+  },
+  "image_e7cdb4d2c97e07.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}3&6\\\\2&4\\end{bmatrix}",
+    "note": "2×2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}3&6\\\\\\\\2&4\\\\end{bmatrix}\",\"note\":\"2×2 matrix\"}\n",
+    "ts": "2026-04-30T01:23:03.093094+00:00",
+    "engine": "codex"
+  },
+  "image_e8a6f34288d0b5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\-5&-1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\-5&-1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T01:23:04.705763+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數字母 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數字母 A\"}\n",
+    "ts": "2026-04-30T01:23:07.166606+00:00",
+    "engine": "codex"
+  },
+  "image_e927060079c436.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}5&6\\\\9&8\\end{bmatrix}=a\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}+b\\begin{bmatrix}1&0\\\\-1&0\\end{bmatrix}+c\\begin{bmatrix}0&1\\\\1&0\\end{bmatrix}",
+    "note": "矩陣線性組合等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}5&6\\\\\\\\9&8\\\\end{bmatrix}=a\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}+b\\\\begin{bmatrix}1&0\\\\\\\\-1&0\\\\end{bmatrix}+c\\\\begin{bmatrix}0&1\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"矩陣線性組合等式\"}\n",
+    "ts": "2026-04-30T01:23:07.501434+00:00",
+    "engine": "codex"
+  },
+  "image_e81d46ec5b4c26.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&0\\\\0&3\\end{bmatrix}\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}=\\begin{bmatrix}2a&2b\\\\3c&3d\\end{bmatrix}",
+    "note": "矩陣乘法示例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&0\\\\\\\\0&3\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\c&d\\\\end{bmatrix}=\\\\begin{bmatrix}2a&2b\\\\\\\\3c&3d\\\\end{bmatrix}\",\"note\":\"矩陣乘法示例\"}\n",
+    "ts": "2026-04-30T01:23:08.083048+00:00",
+    "engine": "codex"
+  },
+  "image_ef8940915124ca.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一字母 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一字母 C\"}\n",
+    "ts": "2026-04-30T01:23:09.880405+00:00",
+    "engine": "codex"
+  },
+  "image_f1a18667ce89bd.png": {
+    "classification": "formula",
+    "latex": "A=-I",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=-I\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:23:11.622408+00:00",
+    "engine": "codex"
+  },
+  "image_f502d7de9c620e.png": {
+    "classification": "formula",
+    "latex": "\\Delta = 1 \\ne 0",
+    "note": "判別式不為零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Delta = 1 \\\\ne 0\",\"note\":\"判別式不為零\"}\n",
+    "ts": "2026-04-30T01:23:15.072993+00:00",
+    "engine": "codex"
+  },
+  "image_f36329fef882d3.png": {
+    "classification": "formula",
+    "latex": "m\\times n",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m\\\\times n\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T01:23:15.469458+00:00",
+    "engine": "codex"
+  },
+  "image_f418991031f5d4.png": {
+    "classification": "formula",
+    "latex": "\\vec{B}= (b_1,b_2)",
+    "note": "向量B的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{B}= (b_1,b_2)\",\"note\":\"向量B的坐標表示\"}\n",
+    "ts": "2026-04-30T01:23:15.556056+00:00",
+    "engine": "codex"
+  },
+  "image_f559ce55dc5624.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{A}\\cdot\\overrightarrow{B}=1",
+    "note": "向量內積等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{A}\\\\cdot\\\\overrightarrow{B}=1\",\"note\":\"向量內積等於1\"}\n",
+    "ts": "2026-04-30T01:23:17.321653+00:00",
+    "engine": "codex"
+  },
+  "image_faa1e73cac654c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}",
+    "note": "2x2單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2x2單位矩陣\"}\n",
+    "ts": "2026-04-30T01:23:22.543608+00:00",
+    "engine": "codex"
+  },
+  "image_f78d7b2a68e108.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2 & 1 \\\\ -1 & 2\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2 & 1 \\\\\\\\ -1 & 2\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T01:23:23.345314+00:00",
+    "engine": "codex"
+  },
+  "image_fd334d5d8d1d3f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&1\\end{bmatrix}A=\\begin{bmatrix}1&1\\end{bmatrix}\\begin{bmatrix}3&2\\\\0&2\\end{bmatrix}=\\begin{bmatrix}3&4\\end{bmatrix}",
+    "note": "矩陣列向量乘法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&1\\\\end{bmatrix}A=\\\\begin{bmatrix}1&1\\\\end{bmatrix}\\\\begin{bmatrix}3&2\\\\\\\\0&2\\\\end{bmatrix}=\\\\begin{bmatrix}3&4\\\\end{bmatrix}\",\"note\":\"矩陣列向量乘法\"}\n",
+    "ts": "2026-04-30T01:23:23.566962+00:00",
+    "engine": "codex"
+  },
+  "image_ff2cbd089dce7a.png": {
+    "classification": "formula",
+    "latex": "A^2=I",
+    "note": "矩陣平方等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=I\",\"note\":\"矩陣平方等於單位矩陣\"}\n",
+    "ts": "2026-04-30T06:03:22.601698+00:00",
+    "engine": "codex"
+  },
+  "image_ffab9ad7ffc612.png": {
+    "classification": "formula",
+    "latex": "A^2=5A-6\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}",
+    "note": "矩陣方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=5A-6\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"矩陣方程式\"}\n",
+    "ts": "2026-04-30T06:03:26.455666+00:00",
+    "engine": "codex"
+  },
+  "image_f6944e65e9131f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2+x&-2+z\\\\2x+3y&2y+1\\end{bmatrix}=\\begin{bmatrix}y&x\\\\z&3\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2+x&-2+z\\\\\\\\2x+3y&2y+1\\\\end{bmatrix}=\\\\begin{bmatrix}y&x\\\\\\\\z&3\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T01:23:25.826709+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "image_01fcf9fcd7093f.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何示意圖，含點與座標軸標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何示意圖，含點與座標軸標記\"}\n",
+    "ts": "2026-04-28T01:37:56.927097+00:00",
+    "engine": "codex"
+  },
+  "image_0165d021bad6a1.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}",
+    "note": "線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\",\"note\":\"線段CD\"}\n",
+    "ts": "2026-04-28T01:37:57.087214+00:00",
+    "engine": "codex"
+  },
+  "image_0b6348c6036bcd.png": {
+    "classification": "formula",
+    "latex": "\\overline{HF}",
+    "note": "線段HF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{HF}\",\"note\":\"線段HF\"}\n",
+    "ts": "2026-04-28T01:37:58.249001+00:00",
+    "engine": "codex"
+  },
+  "image_074b25939abc30.png": {
+    "classification": "formula",
+    "latex": "\\overline{DH}",
+    "note": "線段DH",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{DH}\",\"note\":\"線段DH\"}\n",
+    "ts": "2026-04-28T01:37:58.743013+00:00",
+    "engine": "codex"
+  },
+  "image_12cd90dad4e359.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立方體幾何圖，含頂點與線段標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立方體幾何圖，含頂點與線段標示\"}\n",
+    "ts": "2026-04-28T01:38:01.650919+00:00",
+    "engine": "codex"
+  },
+  "image_14aef933cdd575.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}",
+    "note": "線段PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}\",\"note\":\"線段PQ\"}\n",
+    "ts": "2026-04-28T01:38:01.958913+00:00",
+    "engine": "codex"
+  },
+  "image_1912a0ae4b11d8.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立方體幾何圖，標示A、B、C、D、E",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立方體幾何圖，標示A、B、C、D、E\"}\n",
+    "ts": "2026-04-28T01:38:02.257577+00:00",
+    "engine": "codex"
+  },
+  "image_1642f93b19fad6.png": {
+    "classification": "formula",
+    "latex": "\\overline{AH}\\perp",
+    "note": "線段AH垂直符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AH}\\\\perp\",\"note\":\"線段AH垂直符號\"}\n",
+    "ts": "2026-04-28T01:38:02.714379+00:00",
+    "engine": "codex"
+  },
+  "image_19e259f7ca2983.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T01:38:05.376851+00:00",
+    "engine": "codex"
+  },
+  "image_1b1520016f10d5.png": {
+    "classification": "formula",
+    "latex": "\\overline{CG}",
+    "note": "線段CG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CG}\",\"note\":\"線段CG\"}\n",
+    "ts": "2026-04-28T01:38:06.096227+00:00",
+    "engine": "codex"
+  },
+  "image_1cbcaadf917423.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OX}",
+    "note": "向量OX",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OX}\",\"note\":\"向量OX\"}\n",
+    "ts": "2026-04-28T01:38:08.386963+00:00",
+    "engine": "codex"
+  },
+  "image_1c90a9ae1cb200.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "長方體幾何圖形，標有A至H頂點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"長方體幾何圖形，標有A至H頂點\"}\n",
+    "ts": "2026-04-28T01:38:08.490597+00:00",
+    "engine": "codex"
+  },
+  "image_1cde5bbebf3cf4.png": {
+    "classification": "formula",
+    "latex": "\\overline{RS}=\\sqrt{3a}",
+    "note": "線段RS長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{RS}=\\\\sqrt{3a}\",\"note\":\"線段RS長度公式\"}\n",
+    "ts": "2026-04-28T01:38:10.924476+00:00",
+    "engine": "codex"
+  },
+  "image_1f53acaf9cc442.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-28T01:38:11.418671+00:00",
+    "engine": "codex"
+  },
+  "image_24ce7eb31b0a1b.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}\",\"note\":\"線段BC\"}\n",
+    "ts": "2026-04-28T01:38:11.579632+00:00",
+    "engine": "codex"
+  },
+  "image_2454fd5967d62f.png": {
+    "classification": "formula",
+    "latex": "\\overline{BF}\\perp",
+    "note": "線段BF垂直符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BF}\\\\perp\",\"note\":\"線段BF垂直符號\"}\n",
+    "ts": "2026-04-28T01:38:14.968648+00:00",
+    "engine": "codex"
+  },
+  "image_2974f29edafb54.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何斜平行四邊形示意圖，含點A,B,C,D,E,F,H",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何斜平行四邊形示意圖，含點A,B,C,D,E,F,H\"}\n",
+    "ts": "2026-04-28T01:38:15.632978+00:00",
+    "engine": "codex"
+  },
+  "image_2c3d8230921ab2.png": {
+    "classification": "formula",
+    "latex": "\\overline{OS}=\\sqrt{3a}",
+    "note": "線段OS長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OS}=\\\\sqrt{3a}\",\"note\":\"線段OS長度公式\"}\n",
+    "ts": "2026-04-28T01:38:17.198584+00:00",
+    "engine": "codex"
+  },
+  "image_24ea5db4a7f719.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}\\perp\\overline{BC}",
+    "note": "線段AB垂直線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\\\\perp\\\\overline{BC}\",\"note\":\"線段AB垂直線段BC\"}\n",
+    "ts": "2026-04-28T01:38:17.334787+00:00",
+    "engine": "codex"
+  },
+  "image_3496aa38208a65.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線上標示四個點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線上標示四個點\"}\n",
+    "ts": "2026-04-28T01:38:18.839165+00:00",
+    "engine": "codex"
+  },
+  "image_32eb35a2359c15.png": {
+    "classification": "formula",
+    "latex": "\\overline{AH}=\\overline{AB}\\sin 60^\\circ \\sin 45^\\circ=3\\sqrt{6}",
+    "note": "線段長度的三角函數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AH}=\\\\overline{AB}\\\\sin 60^\\\\circ \\\\sin 45^\\\\circ=3\\\\sqrt{6}\",\"note\":\"線段長度的三角函數計算式\"}\n",
+    "ts": "2026-04-28T01:38:19.723152+00:00",
+    "engine": "codex"
+  },
+  "image_39966e5538530a.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何示意圖，標有E1,E2,E3,L1,L2",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何示意圖，標有E1,E2,E3,L1,L2\"}\n",
+    "ts": "2026-04-28T01:38:22.235250+00:00",
+    "engine": "codex"
+  },
+  "image_3931dc595a214c.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{oz}",
+    "note": "向量oz",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{oz}\",\"note\":\"向量oz\"}\n",
+    "ts": "2026-04-28T01:38:22.417438+00:00",
+    "engine": "codex"
+  },
+  "image_3e52055e08b208.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-04-28T01:38:23.600864+00:00",
+    "engine": "codex"
+  },
+  "image_3f5d3e34aefffa.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE}\\parallel\\overline{BD}",
+    "note": "線段AE平行線段BD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AE}\\\\parallel\\\\overline{BD}\",\"note\":\"線段AE平行線段BD\"}\n",
+    "ts": "2026-04-28T01:38:26.123503+00:00",
+    "engine": "codex"
+  },
+  "image_44495720e534b9.png": {
+    "classification": "formula",
+    "latex": "\\angle PRO=90^\\circ",
+    "note": "角PRO等於90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle PRO=90^\\\\circ\",\"note\":\"角PRO等於90度\"}\n",
+    "ts": "2026-04-28T01:38:26.707370+00:00",
+    "engine": "codex"
+  },
+  "image_45194810b65a23.png": {
+    "classification": "formula",
+    "latex": "\\overline{BK}\\perp\\overline{EG}",
+    "note": "線段BK垂直線段EG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BK}\\\\perp\\\\overline{EG}\",\"note\":\"線段BK垂直線段EG\"}\n",
+    "ts": "2026-04-28T01:38:28.781077+00:00",
+    "engine": "codex"
+  },
+  "image_4c4a813005a66d.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "純數字表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"純數字表達式\"}\n",
+    "ts": "2026-04-28T01:38:30.347144+00:00",
+    "engine": "codex"
+  },
+  "image_5712993587b5be.png": {
+    "classification": "formula",
+    "latex": "\\overline{CE}",
+    "note": "線段CE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CE}\",\"note\":\"線段CE\"}\n",
+    "ts": "2026-04-28T01:38:31.880791+00:00",
+    "engine": "codex"
+  },
+  "image_4f8a66d47c6723.png": {
+    "classification": "formula",
+    "latex": "\\overline{GC}\\perp",
+    "note": "線段GC垂直符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{GC}\\\\perp\",\"note\":\"線段GC垂直符號\"}\n",
+    "ts": "2026-04-28T01:38:33.204592+00:00",
+    "engine": "codex"
+  },
+  "image_598891d7e11032.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=6\\sqrt{3}",
+    "note": "線段AD長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=6\\\\sqrt{3}\",\"note\":\"線段AD長度公式\"}\n",
+    "ts": "2026-04-28T01:38:34.624545+00:00",
+    "engine": "codex"
+  },
+  "image_5b0b743de2ca47.png": {
+    "classification": "formula",
+    "latex": "\\overline{HF}\\perp\\overline{EG}",
+    "note": "線段HF垂直線段EG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{HF}\\\\perp\\\\overline{EG}\",\"note\":\"線段HF垂直線段EG\"}\n",
+    "ts": "2026-04-28T01:38:34.822435+00:00",
+    "engine": "codex"
+  },
+  "image_5c575ade73313c.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE}",
+    "note": "線段 AE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AE}\",\"note\":\"線段 AE\"}\n",
+    "ts": "2026-04-28T01:38:38.260474+00:00",
+    "engine": "codex"
+  },
+  "image_6231ab0fcfe01a.png": {
+    "classification": "formula",
+    "latex": "\\overline{OP}=a",
+    "note": "線段OP的長度等於a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OP}=a\",\"note\":\"線段OP的長度等於a\"}\n",
+    "ts": "2026-04-28T01:38:38.829268+00:00",
+    "engine": "codex"
+  },
+  "image_5e6a8b11f02b63.png": {
+    "classification": "formula",
+    "latex": "\\overline{BF}\\perp\\overline{HF}",
+    "note": "線段BF垂直線段HF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BF}\\\\perp\\\\overline{HF}\",\"note\":\"線段BF垂直線段HF\"}\n",
+    "ts": "2026-04-28T01:38:39.052126+00:00",
+    "engine": "codex"
+  },
+  "image_64545ea24c6bad.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "由等正方形組成的幾何圖形，標有A-E點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"由等正方形組成的幾何圖形，標有A-E點\"}\n",
+    "ts": "2026-04-28T01:38:41.110609+00:00",
+    "engine": "codex"
+  },
+  "image_6a3c56f566d066.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=12",
+    "note": "線段AB長度為12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=12\",\"note\":\"線段AB長度為12\"}\n",
+    "ts": "2026-04-28T01:38:44.513119+00:00",
+    "engine": "codex"
+  },
+  "image_6c1469b08cf4c9.png": {
+    "classification": "formula",
+    "latex": "\\overline{HD}\\perp\\overline{BC}",
+    "note": "線段HD垂直線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{HD}\\\\perp\\\\overline{BC}\",\"note\":\"線段HD垂直線段BC\"}\n",
+    "ts": "2026-04-28T01:38:44.567670+00:00",
+    "engine": "codex"
+  },
+  "image_67c9a3ddf0c7b0.png": {
+    "classification": "formula",
+    "latex": "L_1 \\parallel L_2",
+    "note": "兩直線平行的表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1 \\\\parallel L_2\",\"note\":\"兩直線平行的表示式\"}\n",
+    "ts": "2026-04-28T01:38:45.053510+00:00",
+    "engine": "codex"
+  },
+  "image_6ced392657f533.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OY}",
+    "note": "向量OY",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OY}\",\"note\":\"向量OY\"}\n",
+    "ts": "2026-04-28T01:38:47.344555+00:00",
+    "engine": "codex"
+  },
+  "image_79eb0c548b0d34.png": {
+    "classification": "formula",
+    "latex": "\\overline{OR}=\\frac{1}{2}a",
+    "note": "線段OR等於a的一半",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OR}=\\\\frac{1}{2}a\",\"note\":\"線段OR等於a的一半\"}\n",
+    "ts": "2026-04-28T01:38:49.493440+00:00",
+    "engine": "codex"
+  },
+  "image_709824ad3e0628.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "長方體幾何圖，標示頂點A到H",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"長方體幾何圖，標示頂點A到H\"}\n",
+    "ts": "2026-04-28T01:38:50.943547+00:00",
+    "engine": "codex"
+  },
+  "image_76413dd5451098.png": {
+    "classification": "formula",
+    "latex": "ABD",
+    "note": "三個斜體英文字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABD\",\"note\":\"三個斜體英文字母\"}\n",
+    "ts": "2026-04-28T01:38:50.968065+00:00",
+    "engine": "codex"
+  },
+  "image_7c4e90bb4d3828.png": {
+    "classification": "formula",
+    "latex": "CFG",
+    "note": "三個斜體字母 CFG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"CFG\",\"note\":\"三個斜體字母 CFG\"}\n",
+    "ts": "2026-04-28T01:38:52.682101+00:00",
+    "engine": "codex"
+  },
+  "image_86301d6624b477.png": {
+    "classification": "formula",
+    "latex": "\\overline{EB}\\perp\\overline{BG}",
+    "note": "線段EB垂直線段BG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{EB}\\\\perp\\\\overline{BG}\",\"note\":\"線段EB垂直線段BG\"}\n",
+    "ts": "2026-04-28T01:38:55.590742+00:00",
+    "engine": "codex"
+  },
+  "image_8591babc20cb42.png": {
+    "classification": "formula",
+    "latex": "\\overline{FG}",
+    "note": "線段FG的表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{FG}\",\"note\":\"線段FG的表示\"}\n",
+    "ts": "2026-04-28T01:38:56.207972+00:00",
+    "engine": "codex"
+  },
+  "image_86e6519e17e3cc.png": {
+    "classification": "formula",
+    "latex": "GH",
+    "note": "兩個斜體字母變數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"GH\",\"note\":\"兩個斜體字母變數\"}\n",
+    "ts": "2026-04-28T01:38:57.268237+00:00",
+    "engine": "codex"
+  },
+  "image_7c68b07458bf95.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}",
+    "note": "線段AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}\",\"note\":\"線段AD\"}\n",
+    "ts": "2026-04-28T01:38:58.302670+00:00",
+    "engine": "codex"
+  },
+  "image_8f47133e1fd06d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}\\perp\\overline{CD}",
+    "note": "線段AB垂直線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\\\\perp\\\\overline{CD}\",\"note\":\"線段AB垂直線段CD\"}\n",
+    "ts": "2026-04-28T01:39:01.248878+00:00",
+    "engine": "codex"
+  },
+  "image_976b2beae5fab3.png": {
+    "classification": "formula",
+    "latex": "AF",
+    "note": "兩個字母變數 AF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AF\",\"note\":\"兩個字母變數 AF\"}\n",
+    "ts": "2026-04-28T01:39:01.422888+00:00",
+    "engine": "codex"
+  },
+  "image_8845f8422bb275.png": {
+    "classification": "formula",
+    "latex": "\\overline{EB}",
+    "note": "線段 EB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{EB}\",\"note\":\"線段 EB\"}\n",
+    "ts": "2026-04-28T01:39:02.068874+00:00",
+    "engine": "codex"
+  },
+  "image_9185f54bf35408.png": {
+    "classification": "formula",
+    "latex": "\\overline{BG}\\perp\\overline{AB}",
+    "note": "線段BG垂直線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BG}\\\\perp\\\\overline{AB}\",\"note\":\"線段BG垂直線段AB\"}\n",
+    "ts": "2026-04-28T01:39:03.469439+00:00",
+    "engine": "codex"
+  },
+  "image_97e1f234f47529.png": {
+    "classification": "formula",
+    "latex": "10\\sqrt{6}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\\\\sqrt{6}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-28T01:39:06.711639+00:00",
+    "engine": "codex"
+  },
+  "image_994a8bbb4b4623.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "長方體幾何圖，頂點標示A至H",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"長方體幾何圖，頂點標示A至H\"}\n",
+    "ts": "2026-04-28T01:39:06.736941+00:00",
+    "engine": "codex"
+  },
+  "image_981681d13edad8.png": {
+    "classification": "formula",
+    "latex": "\\angle POR=30^{\\circ}",
+    "note": "角POR等於30度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle POR=30^{\\\\circ}\",\"note\":\"角POR等於30度\"}\n",
+    "ts": "2026-04-28T01:39:07.164028+00:00",
+    "engine": "codex"
+  },
+  "image_982b79a6d9e69c.png": {
+    "classification": "formula",
+    "latex": "\\overline{KB}\\perp\\overline{HF}",
+    "note": "線段KB垂直線段HF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{KB}\\\\perp\\\\overline{HF}\",\"note\":\"線段KB垂直線段HF\"}\n",
+    "ts": "2026-04-28T01:39:08.106462+00:00",
+    "engine": "codex"
+  },
+  "image_a33aa37766f656.png": {
+    "classification": "formula",
+    "latex": "\\overline{OR}=\\frac{\\sqrt{3}}{2}a",
+    "note": "線段OR長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OR}=\\\\frac{\\\\sqrt{3}}{2}a\",\"note\":\"線段OR長度公式\"}\n",
+    "ts": "2026-04-28T01:39:11.289806+00:00",
+    "engine": "codex"
+  },
+  "image_a63b5988a12eec.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}\\perp\\overline{BC}",
+    "note": "線段AD垂直線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}\\\\perp\\\\overline{BC}\",\"note\":\"線段AD垂直線段BC\"}\n",
+    "ts": "2026-04-28T01:39:13.463220+00:00",
+    "engine": "codex"
+  },
+  "image_a503b6e6a9eb4d.png": {
+    "classification": "formula",
+    "latex": "\\overline{KB}\\perp\\overline{BC}",
+    "note": "線段KB垂直線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{KB}\\\\perp\\\\overline{BC}\",\"note\":\"線段KB垂直線段BC\"}\n",
+    "ts": "2026-04-28T01:39:14.088432+00:00",
+    "engine": "codex"
+  },
+  "image_adb745783dc70b.png": {
+    "classification": "formula",
+    "latex": "\\overline{OS}=a",
+    "note": "線段OS的長度等於a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OS}=a\",\"note\":\"線段OS的長度等於a\"}\n",
+    "ts": "2026-04-28T01:39:15.508911+00:00",
+    "engine": "codex"
+  },
+  "image_9a564720c0930d.png": {
+    "classification": "formula",
+    "latex": "\\angle ADH",
+    "note": "角ADH",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle ADH\",\"note\":\"角ADH\"}\n",
+    "ts": "2026-04-28T01:39:19.234500+00:00",
+    "engine": "codex"
+  },
+  "image_b3ae212cf0a780.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=\\overline{AB}\\sin 60^\\circ=6\\sqrt{3}",
+    "note": "線段長度與三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=\\\\overline{AB}\\\\sin 60^\\\\circ=6\\\\sqrt{3}\",\"note\":\"線段長度與三角函數公式\"}\n",
+    "ts": "2026-04-28T01:39:19.443364+00:00",
+    "engine": "codex"
+  },
+  "image_b656fb4ab66074.png": {
+    "classification": "formula",
+    "latex": "\\overleftrightarrow{QR}",
+    "note": "直線QR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overleftrightarrow{QR}\",\"note\":\"直線QR\"}\n",
+    "ts": "2026-04-28T01:39:21.316424+00:00",
+    "engine": "codex"
+  },
+  "image_b3bdc76eccf461.png": {
+    "classification": "formula",
+    "latex": "=(\\frac{1}{2}\\times10\\times6\\sqrt{3})\\times\\cos45^\\circ=15\\sqrt{6}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(\\\\frac{1}{2}\\\\times10\\\\times6\\\\sqrt{3})\\\\times\\\\cos45^\\\\circ=15\\\\sqrt{6}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-28T01:39:21.640129+00:00",
+    "engine": "codex"
+  },
+  "image_c4c735be45a525.png": {
+    "classification": "formula",
+    "latex": "\\angle SRO=90^{\\circ}",
+    "note": "角SRO為90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle SRO=90^{\\\\circ}\",\"note\":\"角SRO為90度\"}\n",
+    "ts": "2026-04-28T01:39:23.451295+00:00",
+    "engine": "codex"
+  },
+  "image_c5989bcd8086e2.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-28T01:39:24.807919+00:00",
+    "engine": "codex"
+  },
+  "image_cb263eebfced42.png": {
+    "classification": "formula",
+    "latex": "\\overline{AH}=2\\sqrt{6}",
+    "note": "線段 AH 長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AH}=2\\\\sqrt{6}\",\"note\":\"線段 AH 長度公式\"}\n",
+    "ts": "2026-04-28T01:39:27.797139+00:00",
+    "engine": "codex"
+  },
+  "image_cef03eeb05211e.png": {
+    "classification": "formula",
+    "latex": "BCF",
+    "note": "三個斜體字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BCF\",\"note\":\"三個斜體字母\"}\n",
+    "ts": "2026-04-28T01:39:28.771355+00:00",
+    "engine": "codex"
+  },
+  "image_c4ab82be70541c.png": {
+    "classification": "formula",
+    "latex": "\\overline{EH}",
+    "note": "線段 EH",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{EH}\",\"note\":\"線段 EH\"}\n",
+    "ts": "2026-04-28T01:39:29.414106+00:00",
+    "engine": "codex"
+  },
+  "image_d86b2c4ebbb1b5.png": {
+    "classification": "formula",
+    "latex": "\\overline{BE}",
+    "note": "線段BE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BE}\",\"note\":\"線段BE\"}\n",
+    "ts": "2026-04-28T01:39:29.822232+00:00",
+    "engine": "codex"
+  },
+  "image_d8720b7c6501b2.png": {
+    "classification": "formula",
+    "latex": "\\overline{FK}\\perp\\overline{EG}",
+    "note": "線段FK垂直於線段EG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{FK}\\\\perp\\\\overline{EG}\",\"note\":\"線段FK垂直於線段EG\"}\n",
+    "ts": "2026-04-28T01:39:33.934125+00:00",
+    "engine": "codex"
+  },
+  "image_da76dbcc4650c2.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}",
+    "note": "線段BD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}\",\"note\":\"線段BD\"}\n",
+    "ts": "2026-04-28T01:39:34.101079+00:00",
+    "engine": "codex"
+  },
+  "image_d8c95965f42ec8.png": {
+    "classification": "formula",
+    "latex": "\\overline{QR}",
+    "note": "線段QR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{QR}\",\"note\":\"線段QR\"}\n",
+    "ts": "2026-04-28T01:39:34.245104+00:00",
+    "engine": "codex"
+  },
+  "image_dd20211687489e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-28T01:39:37.457958+00:00",
+    "engine": "codex"
+  },
+  "image_dff6579d6bac6e.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=10",
+    "note": "線段BC長度為10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=10\",\"note\":\"線段BC長度為10\"}\n",
+    "ts": "2026-04-28T01:39:40.780643+00:00",
+    "engine": "codex"
+  },
+  "image_dc9e23216ca350.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-28T01:39:41.221490+00:00",
+    "engine": "codex"
+  },
+  "image_e109ba141b0ca4.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}\\perp\\overline{BF}",
+    "note": "線段AB垂直線段BF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\\\\perp\\\\overline{BF}\",\"note\":\"線段AB垂直線段BF\"}\n",
+    "ts": "2026-04-28T01:39:43.264886+00:00",
+    "engine": "codex"
+  },
+  "image_e2263dbb7c972c.png": {
+    "classification": "formula",
+    "latex": "\\overline{DH}\\perp\\overline{BC}",
+    "note": "線段DH垂直線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{DH}\\\\perp\\\\overline{BC}\",\"note\":\"線段DH垂直線段BC\"}\n",
+    "ts": "2026-04-28T01:39:46.431739+00:00",
+    "engine": "codex"
+  },
+  "image_e39aaec2187f51.png": {
+    "classification": "formula",
+    "latex": "\\angle SOR=30^\\circ",
+    "note": "角SOR等於30度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle SOR=30^\\\\circ\",\"note\":\"角SOR等於30度\"}\n",
+    "ts": "2026-04-28T01:39:47.137768+00:00",
+    "engine": "codex"
+  },
+  "image_e12478ee67c91c.png": {
+    "classification": "formula",
+    "latex": "\\angle ADH=45^\\circ",
+    "note": "角ADH等於45度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle ADH=45^\\\\circ\",\"note\":\"角ADH等於45度\"}\n",
+    "ts": "2026-04-28T01:39:47.816420+00:00",
+    "engine": "codex"
+  },
+  "image_edc991192b1821.png": {
+    "classification": "formula",
+    "latex": "\\frac{4\\times 12}{2}=24",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4\\\\times 12}{2}=24\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-28T01:39:51.581848+00:00",
+    "engine": "codex"
+  },
+  "image_f0312c5b519165.png": {
+    "classification": "formula",
+    "latex": "CG",
+    "note": "兩個斜體變數字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"CG\",\"note\":\"兩個斜體變數字母\"}\n",
+    "ts": "2026-04-28T01:39:51.868854+00:00",
+    "engine": "codex"
+  },
+  "image_d9eb8d919964f2.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE}\\parallel\\overline{CD}",
+    "note": "線段AE平行線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AE}\\\\parallel\\\\overline{CD}\",\"note\":\"線段AE平行線段CD\"}\n",
+    "ts": "2026-04-28T01:39:53.160889+00:00",
+    "engine": "codex"
+  },
+  "image_e53cf3a6f9136f.png": {
+    "classification": "formula",
+    "latex": "\\overline{PR}",
+    "note": "線段PR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PR}\",\"note\":\"線段PR\"}\n",
+    "ts": "2026-04-28T01:39:54.438989+00:00",
+    "engine": "codex"
+  },
+  "image_f3d12d9dafbb83.png": {
+    "classification": "formula",
+    "latex": "\\overline{BG}",
+    "note": "線段BG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BG}\",\"note\":\"線段BG\"}\n",
+    "ts": "2026-04-28T01:39:56.979565+00:00",
+    "engine": "codex"
+  },
+  "image_f4aeaed176e775.png": {
+    "classification": "formula",
+    "latex": "\\overline{RS}=\\frac{a}{2}",
+    "note": "線段RS長度等於a的一半",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{RS}=\\\\frac{a}{2}\",\"note\":\"線段RS長度等於a的一半\"}\n",
+    "ts": "2026-04-28T01:39:58.862124+00:00",
+    "engine": "codex"
+  },
+  "image_f2fba688d14190.png": {
+    "classification": "formula",
+    "latex": "\\overline{CB}\\perp\\overline{BA}",
+    "note": "線段CB垂直線段BA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CB}\\\\perp\\\\overline{BA}\",\"note\":\"線段CB垂直線段BA\"}\n",
+    "ts": "2026-04-28T01:40:00.158551+00:00",
+    "engine": "codex"
+  },
+  "image_f9d0c9b203d659.png": {
+    "classification": "formula",
+    "latex": "\\overline{EG}",
+    "note": "線段EG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{EG}\",\"note\":\"線段EG\"}\n",
+    "ts": "2026-04-28T01:40:02.076173+00:00",
+    "engine": "codex"
+  }
+}

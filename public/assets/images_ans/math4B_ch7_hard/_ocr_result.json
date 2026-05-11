@@ -1,0 +1,186 @@
+{
+  "image_33321db0412486.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-05-06T00:47:13.844948+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-05-06T00:47:13.958955+00:00",
+    "engine": "codex"
+  },
+  "image_1814d4347cbc1d.png": {
+    "classification": "formula",
+    "latex": "a=3",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=3\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-06T00:47:14.391420+00:00",
+    "engine": "codex"
+  },
+  "image_3676b3ba5ed1b0.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}\\begin{bmatrix}\\frac{1}{2}&-\\frac{1}{2}\\\\\\frac{1}{2}&\\frac{1}{2}\\end{bmatrix}=\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{1}{2}&-\\\\frac{1}{2}\\\\\\\\\\\\frac{1}{2}&\\\\frac{1}{2}\\\\end{bmatrix}=\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-05-06T00:47:18.710558+00:00",
+    "engine": "codex"
+  },
+  "image_605ef3c6431777.png": {
+    "classification": "formula",
+    "latex": "2\\times 2",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times 2\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-05-06T00:47:19.884359+00:00",
+    "engine": "codex"
+  },
+  "image_5b8535e3a78fc5.png": {
+    "classification": "formula",
+    "latex": "A^4=(A^2)^2=\\begin{bmatrix}-1&0\\\\0&-1\\end{bmatrix}\\begin{bmatrix}-1&0\\\\0&-1\\end{bmatrix}=\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}",
+    "note": "矩陣冪次計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^4=(A^2)^2=\\\\begin{bmatrix}-1&0\\\\\\\\0&-1\\\\end{bmatrix}\\\\begin{bmatrix}-1&0\\\\\\\\0&-1\\\\end{bmatrix}=\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"矩陣冪次計算\"}\n",
+    "ts": "2026-05-06T00:47:20.153779+00:00",
+    "engine": "codex"
+  },
+  "image_684e3191f846b3.png": {
+    "classification": "formula",
+    "latex": "b=2",
+    "note": "變數 b 等於 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=2\",\"note\":\"變數 b 等於 2\"}\n",
+    "ts": "2026-05-06T00:47:22.914378+00:00",
+    "engine": "codex"
+  },
+  "image_3b1c91650e5956.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}\\begin{bmatrix}1&1\\\\-1&1\\end{bmatrix}^{-1}=\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}\\times\\frac{1}{2}\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}",
+    "note": "矩陣乘反矩陣化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}\\\\begin{bmatrix}1&1\\\\\\\\-1&1\\\\end{bmatrix}^{-1}=\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}\\\\times\\\\frac{1}{2}\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}\",\"note\":\"矩陣乘反矩陣化簡\"}\n",
+    "ts": "2026-05-06T00:47:24.756234+00:00",
+    "engine": "codex"
+  },
+  "image_6ba607e46d7e68.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1\\\\1\\end{bmatrix}=\\begin{bmatrix}-1\\\\1\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1\\\\\\\\1\\\\end{bmatrix}=\\\\begin{bmatrix}-1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-05-06T00:47:24.858569+00:00",
+    "engine": "codex"
+  },
+  "image_8747f31ad75b4f.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}\\cos 90^\\circ&-\\sin 90^\\circ\\\\\\sin 90^\\circ&\\cos 90^\\circ\\end{bmatrix}",
+    "note": "旋轉矩陣的數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}\\\\cos 90^\\\\circ&-\\\\sin 90^\\\\circ\\\\\\\\\\\\sin 90^\\\\circ&\\\\cos 90^\\\\circ\\\\end{bmatrix}\",\"note\":\"旋轉矩陣的數學式\"}\n",
+    "ts": "2026-05-06T00:47:25.940748+00:00",
+    "engine": "codex"
+  },
+  "image_90d456fab9d141.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一英文字母變數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一英文字母變數\"}\n",
+    "ts": "2026-05-06T00:47:26.893861+00:00",
+    "engine": "codex"
+  },
+  "image_bc51ab4ee37bef.png": {
+    "classification": "formula",
+    "latex": "A^2\\begin{bmatrix}1\\\\-1\\end{bmatrix}=\\begin{bmatrix}-1&0\\\\0&-1\\end{bmatrix}\\begin{bmatrix}1\\\\-1\\end{bmatrix}=\\begin{bmatrix}-1\\\\1\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\\\\begin{bmatrix}1\\\\\\\\-1\\\\end{bmatrix}=\\\\begin{bmatrix}-1&0\\\\\\\\0&-1\\\\end{bmatrix}\\\\begin{bmatrix}1\\\\\\\\-1\\\\end{bmatrix}=\\\\begin{bmatrix}-1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-05-06T00:47:32.408306+00:00",
+    "engine": "codex"
+  },
+  "image_be408b086b54e8.png": {
+    "classification": "formula",
+    "latex": "A^2\\begin{bmatrix}1\\\\-1\\end{bmatrix}=\\begin{bmatrix}-1\\\\1\\end{bmatrix}",
+    "note": "矩陣向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\\\\begin{bmatrix}1\\\\\\\\-1\\\\end{bmatrix}=\\\\begin{bmatrix}-1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"矩陣向量等式\"}\n",
+    "ts": "2026-05-06T00:47:32.658676+00:00",
+    "engine": "codex"
+  },
+  "image_dd31b6e793bac7.png": {
+    "classification": "formula",
+    "latex": "A^4\\begin{bmatrix}a\\\\b\\end{bmatrix}=\\begin{bmatrix}3\\\\2\\end{bmatrix}",
+    "note": "矩陣方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^4\\\\begin{bmatrix}a\\\\\\\\b\\\\end{bmatrix}=\\\\begin{bmatrix}3\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣方程式\"}\n",
+    "ts": "2026-05-06T00:47:32.852649+00:00",
+    "engine": "codex"
+  },
+  "image_9c8a4896022050.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1\\\\-1\\end{bmatrix}=\\begin{bmatrix}1\\\\1\\end{bmatrix}",
+    "note": "矩陣乘以列向量的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1\\\\\\\\-1\\\\end{bmatrix}=\\\\begin{bmatrix}1\\\\\\\\1\\\\end{bmatrix}\",\"note\":\"矩陣乘以列向量的等式\"}\n",
+    "ts": "2026-05-06T00:47:33.244578+00:00",
+    "engine": "codex"
+  },
+  "image_eef8bd7450618d.png": {
+    "classification": "formula",
+    "latex": "A^2=AA",
+    "note": "矩陣平方定義式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=AA\",\"note\":\"矩陣平方定義式\"}\n",
+    "ts": "2026-05-06T00:47:37.687721+00:00",
+    "engine": "codex"
+  },
+  "image_f2a67c46fd4ec3.png": {
+    "classification": "formula",
+    "latex": "a=-3",
+    "note": "變數a等於負3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-3\",\"note\":\"變數a等於負3\"}\n",
+    "ts": "2026-05-06T00:47:38.204095+00:00",
+    "engine": "codex"
+  },
+  "image_f359ca338e7ef3.png": {
+    "classification": "formula",
+    "latex": "A^2=\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}=\\begin{bmatrix}-1&0\\\\0&-1\\end{bmatrix}",
+    "note": "矩陣平方計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}=\\\\begin{bmatrix}-1&0\\\\\\\\0&-1\\\\end{bmatrix}\",\"note\":\"矩陣平方計算\"}\n",
+    "ts": "2026-05-06T00:47:38.952123+00:00",
+    "engine": "codex"
+  },
+  "image_e82221b1ae53b6.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}\\begin{bmatrix}a\\\\b\\end{bmatrix}=\\begin{bmatrix}3\\\\2\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}\\\\begin{bmatrix}a\\\\\\\\b\\\\end{bmatrix}=\\\\begin{bmatrix}3\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-05-06T00:47:39.439359+00:00",
+    "engine": "codex"
+  },
+  "image_f9f5d163629f08.png": {
+    "classification": "formula",
+    "latex": "A^3=AAA",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^3=AAA\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-06T00:47:44.329508+00:00",
+    "engine": "codex"
+  },
+  "image_f5bd691aeb28aa.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a\\\\b\\end{bmatrix}=\\begin{bmatrix}3\\\\2\\end{bmatrix}",
+    "note": "column vector equality",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a\\\\\\\\b\\\\end{bmatrix}=\\\\begin{bmatrix}3\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"column vector equality\"}\n",
+    "ts": "2026-05-06T00:47:44.361084+00:00",
+    "engine": "codex"
+  },
+  "image_f877e9a43d86d6.png": {
+    "classification": "formula",
+    "latex": "A\\begin{bmatrix}1&1\\\\-1&1\\end{bmatrix}=\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\begin{bmatrix}1&1\\\\\\\\-1&1\\\\end{bmatrix}=\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-05-06T00:47:45.195083+00:00",
+    "engine": "codex"
+  },
+  "image_ff6de7c7c80015.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}=\\begin{bmatrix}\\cos 90^\\circ&-\\sin 90^\\circ\\\\\\sin 90^\\circ&\\cos 90^\\circ\\end{bmatrix}",
+    "note": "旋轉矩陣表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos 90^\\\\circ&-\\\\sin 90^\\\\circ\\\\\\\\\\\\sin 90^\\\\circ&\\\\cos 90^\\\\circ\\\\end{bmatrix}\",\"note\":\"旋轉矩陣表示\"}\n",
+    "ts": "2026-05-06T00:47:46.504928+00:00",
+    "engine": "codex"
+  }
+}

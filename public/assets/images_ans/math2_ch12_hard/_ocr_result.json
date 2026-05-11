@@ -1,0 +1,1406 @@
+{
+  "image_00fd759318b7ca.png": {
+    "classification": "formula",
+    "latex": "+",
+    "note": "加號運算符",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\",\"note\":\"加號運算符\"}\n",
+    "ts": "2026-05-01T09:14:59.571200+00:00",
+    "engine": "codex"
+  },
+  "image_02025d197df673.png": {
+    "classification": "formula",
+    "latex": "\\sin^{2} C > \\sin^{2} A + \\sin^{2} B",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin^{2} C > \\\\sin^{2} A + \\\\sin^{2} B\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-05-01T09:15:01.863372+00:00",
+    "engine": "codex"
+  },
+  "image_046bda01900322.png": {
+    "classification": "formula",
+    "latex": "a:b:c=\\frac{1}{9}:\\frac{1}{12}:\\frac{1}{15}=20:15:12",
+    "note": "比例式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a:b:c=\\\\frac{1}{9}:\\\\frac{1}{12}:\\\\frac{1}{15}=20:15:12\",\"note\":\"比例式化簡\"}\n",
+    "ts": "2026-05-01T09:15:01.904224+00:00",
+    "engine": "codex"
+  },
+  "image_02b8b68cd5aeeb.png": {
+    "classification": "formula",
+    "latex": "\\sin \\angle ABD=\\frac{2\\sqrt{2}}{2\\sqrt{3}}\\times \\sin 60^\\circ=\\frac{2\\sqrt{2}}{2\\sqrt{3}}\\times \\frac{\\sqrt{3}}{2}=\\frac{\\sqrt{2}}{2}",
+    "note": "正弦值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\angle ABD=\\\\frac{2\\\\sqrt{2}}{2\\\\sqrt{3}}\\\\times \\\\sin 60^\\\\circ=\\\\frac{2\\\\sqrt{2}}{2\\\\sqrt{3}}\\\\times \\\\frac{\\\\sqrt{3}}{2}=\\\\frac{\\\\sqrt{2}}{2}\",\"note\":\"正弦值計算式\"}\n",
+    "ts": "2026-05-01T09:15:02.246602+00:00",
+    "engine": "codex"
+  },
+  "image_05d73ad551c9a8.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}=\\sqrt{65}",
+    "note": "線段BD長度等於根號65",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}=\\\\sqrt{65}\",\"note\":\"線段BD長度等於根號65\"}\n",
+    "ts": "2026-05-01T09:15:05.701308+00:00",
+    "engine": "codex"
+  },
+  "image_0a495e822ebd98.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=4",
+    "note": "線段BC長度為4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=4\",\"note\":\"線段BC長度為4\"}\n",
+    "ts": "2026-05-01T09:15:06.929783+00:00",
+    "engine": "codex"
+  },
+  "image_082d5b69f2ab40.png": {
+    "classification": "formula",
+    "latex": "\\sin A=\\sin B=\\frac{1}{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A=\\\\sin B=\\\\frac{1}{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-01T09:15:07.426777+00:00",
+    "engine": "codex"
+  },
+  "image_0a6860cac39d0c.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC的記號\"}\n",
+    "ts": "2026-05-01T09:15:10.028586+00:00",
+    "engine": "codex"
+  },
+  "image_0b5c8685eabf18.png": {
+    "classification": "formula",
+    "latex": "180^\\circ > \\angle BAD > \\angle ABC > 0^\\circ",
+    "note": "角度不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"180^\\\\circ > \\\\angle BAD > \\\\angle ABC > 0^\\\\circ\",\"note\":\"角度不等式\"}\n",
+    "ts": "2026-05-01T09:15:12.441857+00:00",
+    "engine": "codex"
+  },
+  "image_0c287cb10c9912.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC\\text{面積}=\\sqrt{12\\times5\\times4\\times3}=12\\sqrt{5}",
+    "note": "三角形ABC面積的根式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\\\\text{面積}=\\\\sqrt{12\\\\times5\\\\times4\\\\times3}=12\\\\sqrt{5}\",\"note\":\"三角形ABC面積的根式計算\"}\n",
+    "ts": "2026-05-01T09:15:13.245438+00:00",
+    "engine": "codex"
+  },
+  "image_0ca142409830c8.png": {
+    "classification": "formula",
+    "latex": "R=\\frac{21\\sqrt{5}}{10}",
+    "note": "半徑R的數值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"R=\\\\frac{21\\\\sqrt{5}}{10}\",\"note\":\"半徑R的數值公式\"}\n",
+    "ts": "2026-05-01T09:15:15.232730+00:00",
+    "engine": "codex"
+  },
+  "image_0d4997b7fe8973.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}=9",
+    "note": "線段CD長度等於9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}=9\",\"note\":\"線段CD長度等於9\"}\n",
+    "ts": "2026-05-01T09:15:17.380464+00:00",
+    "engine": "codex"
+  },
+  "image_0dc4c67ec376e2.png": {
+    "classification": "formula",
+    "latex": "<90^\\circ",
+    "note": "小於90度的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"<90^\\\\circ\",\"note\":\"小於90度的不等式\"}\n",
+    "ts": "2026-05-01T09:15:17.643739+00:00",
+    "engine": "codex"
+  },
+  "image_101c910b2a5ec3.png": {
+    "classification": "formula",
+    "latex": "\\cos A=-\\frac{1}{3}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos A=-\\\\frac{1}{3}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-05-01T09:15:19.078789+00:00",
+    "engine": "codex"
+  },
+  "image_128baee0882529.png": {
+    "classification": "formula",
+    "latex": "15\\sqrt{3}",
+    "note": "根式數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"15\\\\sqrt{3}\",\"note\":\"根式數值\"}\n",
+    "ts": "2026-05-01T09:15:22.227497+00:00",
+    "engine": "codex"
+  },
+  "image_13d9a7e87f576d.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 7\\overline{BD}^{2}=415\\Rightarrow \\overline{BD}=\\sqrt{\\frac{415}{7}}",
+    "note": "線段BD長度的代數推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 7\\\\overline{BD}^{2}=415\\\\Rightarrow \\\\overline{BD}=\\\\sqrt{\\\\frac{415}{7}}\",\"note\":\"線段BD長度的代數推導\"}\n",
+    "ts": "2026-05-01T09:15:22.689290+00:00",
+    "engine": "codex"
+  },
+  "image_05859f26117c6b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=\\sqrt{2^2+2^2}=2\\sqrt{2}",
+    "note": "線段AD長度計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=\\\\sqrt{2^2+2^2}=2\\\\sqrt{2}\",\"note\":\"線段AD長度計算式\"}\n",
+    "ts": "2026-05-01T09:15:25.108960+00:00",
+    "engine": "codex"
+  },
+  "image_15cbde2aad0106.png": {
+    "classification": "formula",
+    "latex": "x=6-x\\Rightarrow x=3",
+    "note": "一元一次方程式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=6-x\\\\Rightarrow x=3\",\"note\":\"一元一次方程式推導\"}\n",
+    "ts": "2026-05-01T09:15:25.591438+00:00",
+    "engine": "codex"
+  },
+  "image_16de9d1a97f90d.png": {
+    "classification": "formula",
+    "latex": "\\cos C=\\frac{6^2+8^2-4^2}{2\\times 6\\times 8}=\\frac{7}{8}",
+    "note": "餘弦定理計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos C=\\\\frac{6^2+8^2-4^2}{2\\\\times 6\\\\times 8}=\\\\frac{7}{8}\",\"note\":\"餘弦定理計算式\"}\n",
+    "ts": "2026-05-01T09:15:27.058953+00:00",
+    "engine": "codex"
+  },
+  "image_18fe370ff0596d.png": {
+    "classification": "formula",
+    "latex": "h_a=9",
+    "note": "高度符號等於9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h_a=9\",\"note\":\"高度符號等於9\"}\n",
+    "ts": "2026-05-01T09:15:28.491789+00:00",
+    "engine": "codex"
+  },
+  "image_174e87f2cd4bb8.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{7}{4}",
+    "note": "等式，x等於七分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{7}{4}\",\"note\":\"等式，x等於七分之四\"}\n",
+    "ts": "2026-05-01T09:15:28.539066+00:00",
+    "engine": "codex"
+  },
+  "image_1a83953bd95146.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC\\text{面積}=r\\times s",
+    "note": "三角形ABC面積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\\\\text{面積}=r\\\\times s\",\"note\":\"三角形ABC面積公式\"}\n",
+    "ts": "2026-05-01T09:15:30.277137+00:00",
+    "engine": "codex"
+  },
+  "image_1c76cde9b976ad.png": {
+    "classification": "formula",
+    "latex": "-4",
+    "note": "負整數 -4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-4\",\"note\":\"負整數 -4\"}\n",
+    "ts": "2026-05-01T09:15:30.580764+00:00",
+    "engine": "codex"
+  },
+  "image_1c99262432b09b.png": {
+    "classification": "formula",
+    "latex": "\\sin A=\\frac{\\sqrt{15}}{4}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A=\\\\frac{\\\\sqrt{15}}{4}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-05-01T09:15:32.946263+00:00",
+    "engine": "codex"
+  },
+  "image_1d2927451f82f9.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 12\\sqrt{5}=r\\times 12\\Rightarrow r=\\sqrt{5}",
+    "note": "等式推導求出 r",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 12\\\\sqrt{5}=r\\\\times 12\\\\Rightarrow r=\\\\sqrt{5}\",\"note\":\"等式推導求出 r\"}\n",
+    "ts": "2026-05-01T09:15:33.470653+00:00",
+    "engine": "codex"
+  },
+  "image_2073432a7fbb26.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形內切圓與邊長代數標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形內切圓與邊長代數標示\"}\n",
+    "ts": "2026-05-01T09:15:34.822494+00:00",
+    "engine": "codex"
+  },
+  "image_1fb51668f03474.png": {
+    "classification": "formula",
+    "latex": "\\angle B",
+    "note": "angle B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle B\",\"note\":\"angle B\"}\n",
+    "ts": "2026-05-01T09:15:35.123232+00:00",
+    "engine": "codex"
+  },
+  "image_213150275c7697.png": {
+    "classification": "formula",
+    "latex": "\\frac{39}{2}",
+    "note": "分數39除以2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{39}{2}\",\"note\":\"分數39除以2\"}\n",
+    "ts": "2026-05-01T09:15:38.244203+00:00",
+    "engine": "codex"
+  },
+  "image_20998044f0a2c8.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\times 4\\times 6\\times \\frac{\\sqrt{15}}{4}=3\\sqrt{15}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\times 4\\\\times 6\\\\times \\\\frac{\\\\sqrt{15}}{4}=3\\\\sqrt{15}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-01T09:15:38.803790+00:00",
+    "engine": "codex"
+  },
+  "image_23e97084f4461b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=8",
+    "note": "線段AB長度為8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=8\",\"note\":\"線段AB長度為8\"}\n",
+    "ts": "2026-05-01T09:15:38.913920+00:00",
+    "engine": "codex"
+  },
+  "image_2556ea531ef28c.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "梯形幾何圖，含邊長與角度標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"梯形幾何圖，含邊長與角度標示\"}\n",
+    "ts": "2026-05-01T09:15:40.535905+00:00",
+    "engine": "codex"
+  },
+  "image_276b7cd095c70a.png": {
+    "classification": "formula",
+    "latex": "5+3\\sqrt{3}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5+3\\\\sqrt{3}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-01T09:15:43.318512+00:00",
+    "engine": "codex"
+  },
+  "image_26770361dbdbda.png": {
+    "classification": "formula",
+    "latex": "\\frac{b}{\\sin B}=\\frac{c}{\\sin C}",
+    "note": "正弦定理比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b}{\\\\sin B}=\\\\frac{c}{\\\\sin C}\",\"note\":\"正弦定理比例式\"}\n",
+    "ts": "2026-05-01T09:15:44.176765+00:00",
+    "engine": "codex"
+  },
+  "image_266281760f8473.png": {
+    "classification": "formula",
+    "latex": "\\angle A > 90^\\circ",
+    "note": "角A大於90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle A > 90^\\\\circ\",\"note\":\"角A大於90度\"}\n",
+    "ts": "2026-05-01T09:15:46.111780+00:00",
+    "engine": "codex"
+  },
+  "image_2778c47c3d01c7.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\sqrt{10}}{\\sin \\angle ACD}=\\frac{\\sqrt{73}}{\\sin \\angle ADC}",
+    "note": "正弦定理比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\sqrt{10}}{\\\\sin \\\\angle ACD}=\\\\frac{\\\\sqrt{73}}{\\\\sin \\\\angle ADC}\",\"note\":\"正弦定理比例式\"}\n",
+    "ts": "2026-05-01T09:15:46.329615+00:00",
+    "engine": "codex"
+  },
+  "image_2ca8ee13b2eca7.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，含長度標示3、4、\\sqrt{5}",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，含長度標示3、4、\\\\sqrt{5}\"}\n",
+    "ts": "2026-05-01T09:15:50.453230+00:00",
+    "engine": "codex"
+  },
+  "image_2c1f49fd75b049.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 30^\\circ < \\angle B + \\angle C < 90^\\circ",
+    "note": "角度不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 30^\\\\circ < \\\\angle B + \\\\angle C < 90^\\\\circ\",\"note\":\"角度不等式\"}\n",
+    "ts": "2026-05-01T09:15:51.635292+00:00",
+    "engine": "codex"
+  },
+  "image_2ab3b120089f3a.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}^{2}=4^{2}+2^{2}-2\\times4\\times2\\times\\cos60^{\\circ}",
+    "note": "餘弦定理計算BD平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}^{2}=4^{2}+2^{2}-2\\\\times4\\\\times2\\\\times\\\\cos60^{\\\\circ}\",\"note\":\"餘弦定理計算BD平方\"}\n",
+    "ts": "2026-05-01T09:15:53.451520+00:00",
+    "engine": "codex"
+  },
+  "image_2e5e5cce306b5d.png": {
+    "classification": "formula",
+    "latex": "\\frac{b}{\\sin B}=\\frac{c}{\\sin C}",
+    "note": "正弦定理比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b}{\\\\sin B}=\\\\frac{c}{\\\\sin C}\",\"note\":\"正弦定理比例式\"}\n",
+    "ts": "2026-05-01T09:15:53.462957+00:00",
+    "engine": "codex"
+  },
+  "image_322f615ba9843f.png": {
+    "classification": "formula",
+    "latex": "\\sin C=\\frac{3}{4}<\\frac{\\sqrt{3}}{2}<\\sin 60^\\circ",
+    "note": "正弦不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin C=\\frac{3}{4}<\\frac{\\sqrt{3}}{2}<\\sin 60^\\circ\",\"note\":\"正弦不等式\"}\n",
+    "ts": "2026-05-01T09:15:54.976039+00:00",
+    "engine": "codex"
+  },
+  "image_30f9b0ffca1984.png": {
+    "classification": "formula",
+    "latex": "a^2 < b^2 + c^2",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2 < b^2 + c^2\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-05-01T09:15:57.718900+00:00",
+    "engine": "codex"
+  },
+  "image_325db7c08d6057.png": {
+    "classification": "formula",
+    "latex": "\\sin(\\angle ADC)=\\frac{3}{\\sqrt{73}}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(\\\\angle ADC)=\\\\frac{3}{\\\\sqrt{73}}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-05-01T09:15:57.918104+00:00",
+    "engine": "codex"
+  },
+  "image_339b7fe8c9ced5.png": {
+    "classification": "formula",
+    "latex": "a:b:c=5:6:7",
+    "note": "比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a:b:c=5:6:7\",\"note\":\"比例式\"}\n",
+    "ts": "2026-05-01T09:15:58.736846+00:00",
+    "engine": "codex"
+  },
+  "image_33184867e8b38b.png": {
+    "classification": "formula",
+    "latex": "=15^2+\\left(15\\sqrt{2}\\right)^2-2\\times15^2=\\left(15\\sqrt{2}\\right)^2-15^2=15^2",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=15^2+\\\\left(15\\\\sqrt{2}\\\\right)^2-2\\\\times15^2=\\\\left(15\\\\sqrt{2}\\\\right)^2-15^2=15^2\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-01T09:16:00.593412+00:00",
+    "engine": "codex"
+  },
+  "image_377fa137f562b7.png": {
+    "classification": "formula",
+    "latex": "\\angle A",
+    "note": "角A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle A\",\"note\":\"角A\"}\n",
+    "ts": "2026-05-01T09:16:02.388613+00:00",
+    "engine": "codex"
+  },
+  "image_3475c0eb0ff5ac.png": {
+    "classification": "formula",
+    "latex": "0^\\circ < \\angle C < 60^\\circ",
+    "note": "角C介於0度與60度之間",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0^\\\\circ < \\\\angle C < 60^\\\\circ\",\"note\":\"角C介於0度與60度之間\"}\n",
+    "ts": "2026-05-01T09:16:02.667528+00:00",
+    "engine": "codex"
+  },
+  "image_3bef295cfebf9a.png": {
+    "classification": "formula",
+    "latex": "\\overline{OA}:\\overline{OC}=\\sqrt{2}:\\sqrt{3}",
+    "note": "線段長度比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OA}:\\\\overline{OC}=\\\\sqrt{2}:\\\\sqrt{3}\",\"note\":\"線段長度比例公式\"}\n",
+    "ts": "2026-05-01T09:16:04.591577+00:00",
+    "engine": "codex"
+  },
+  "image_3a78a343959ad0.png": {
+    "classification": "formula",
+    "latex": "\\overline{OA}=\\sqrt{9+5}=\\sqrt{14}",
+    "note": "線段OA長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OA}=\\\\sqrt{9+5}=\\\\sqrt{14}\",\"note\":\"線段OA長度計算\"}\n",
+    "ts": "2026-05-01T09:16:06.311458+00:00",
+    "engine": "codex"
+  },
+  "image_3d2959c371f004.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何三角形圖，含邊長與60°角標示",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何三角形圖，含邊長與60°角標示\"}\n",
+    "ts": "2026-05-01T09:16:06.908642+00:00",
+    "engine": "codex"
+  },
+  "image_3cefd8e202ae53.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=x",
+    "note": "線段AD長度為x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=x\",\"note\":\"線段AD長度為x\"}\n",
+    "ts": "2026-05-01T09:16:07.725077+00:00",
+    "engine": "codex"
+  },
+  "image_3e1864b62c4fae.png": {
+    "classification": "formula",
+    "latex": "R",
+    "note": "單一變數 R",
+    "raw": "{\"class\":\"formula\",\"latex\":\"R\",\"note\":\"單一變數 R\"}\n",
+    "ts": "2026-05-01T09:16:07.917075+00:00",
+    "engine": "codex"
+  },
+  "image_434197ac72a5c5.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=x",
+    "note": "線段AC長度為x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}=x\",\"note\":\"線段AC長度為x\"}\n",
+    "ts": "2026-05-01T09:16:11.581991+00:00",
+    "engine": "codex"
+  },
+  "image_429bcf4ae34d71.png": {
+    "classification": "formula",
+    "latex": "a^2 < b^2 + c^2",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2 < b^2 + c^2\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-05-01T09:16:12.035854+00:00",
+    "engine": "codex"
+  },
+  "image_4522901425e82c.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=4",
+    "note": "線段AB長度等於4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=4\",\"note\":\"線段AB長度等於4\"}\n",
+    "ts": "2026-05-01T09:16:12.120690+00:00",
+    "engine": "codex"
+  },
+  "image_3fdc2b725f29e7.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=9",
+    "note": "線段BC長度為9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=9\",\"note\":\"線段BC長度為9\"}\n",
+    "ts": "2026-05-01T09:16:12.169740+00:00",
+    "engine": "codex"
+  },
+  "image_46cc13b8288d7d.png": {
+    "classification": "formula",
+    "latex": "r=-\\sqrt{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r=-\\\\sqrt{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-01T09:16:16.479207+00:00",
+    "engine": "codex"
+  },
+  "image_47b4cdabb7807c.png": {
+    "classification": "formula",
+    "latex": "=15^2+(15\\sqrt{2})^2-2\\times15\\times15\\sqrt{2}\\times\\frac{1}{\\sqrt{2}}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=15^2+(15\\\\sqrt{2})^2-2\\\\times15\\\\times15\\\\sqrt{2}\\\\times\\\\frac{1}{\\\\sqrt{2}}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-01T09:16:17.960595+00:00",
+    "engine": "codex"
+  },
+  "image_47fc8f6bfa768a.png": {
+    "classification": "formula",
+    "latex": "12\\sqrt{5}",
+    "note": "純數學根式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\\\\sqrt{5}\",\"note\":\"純數學根式表達式\"}\n",
+    "ts": "2026-05-01T09:16:17.993159+00:00",
+    "engine": "codex"
+  },
+  "image_4704bda94de869.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle ABD=\\cos \\angle ABC\\Rightarrow \\frac{3^2+7^2-x^2}{2\\times3\\times7}=\\frac{3}{8}\\Rightarrow 4x^2=169",
+    "note": "三角形餘弦定理推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\angle ABD=\\\\cos \\\\angle ABC\\\\Rightarrow \\\\frac{3^2+7^2-x^2}{2\\\\times3\\\\times7}=\\\\frac{3}{8}\\\\Rightarrow 4x^2=169\",\"note\":\"三角形餘弦定理推導\"}\n",
+    "ts": "2026-05-01T09:16:18.925257+00:00",
+    "engine": "codex"
+  },
+  "image_4a595efdb301f8.png": {
+    "classification": "formula",
+    "latex": "\\angle ADC=180^\\circ-\\angle ABC",
+    "note": "角度關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle ADC=180^\\\\circ-\\\\angle ABC\",\"note\":\"角度關係式\"}\n",
+    "ts": "2026-05-01T09:16:20.345641+00:00",
+    "engine": "codex"
+  },
+  "image_4b7d5a64f46c43.png": {
+    "classification": "formula",
+    "latex": "20^2>15^2+12^2",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"20^2>15^2+12^2\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-05-01T09:16:21.270274+00:00",
+    "engine": "codex"
+  },
+  "image_4b6d47aad832f4.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=\\sqrt{73}",
+    "note": "線段AC長為根號73",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}=\\\\sqrt{73}\",\"note\":\"線段AC長為根號73\"}\n",
+    "ts": "2026-05-01T09:16:22.553329+00:00",
+    "engine": "codex"
+  },
+  "image_522c0fd47f5e5c.png": {
+    "classification": "formula",
+    "latex": "\\overline{OA}:\\overline{OC}=2:3",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OA}:\\\\overline{OC}=2:3\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-05-01T09:16:22.989588+00:00",
+    "engine": "codex"
+  },
+  "image_53a3c8dfc42abd.png": {
+    "classification": "formula",
+    "latex": "h_b=12",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h_b=12\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-01T09:16:24.086128+00:00",
+    "engine": "codex"
+  },
+  "image_54a6ee6dc329ce.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}=15",
+    "note": "線段PQ長度等於15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}=15\",\"note\":\"線段PQ長度等於15\"}\n",
+    "ts": "2026-05-01T09:16:25.366801+00:00",
+    "engine": "codex"
+  },
+  "image_5775f66a59688e.png": {
+    "classification": "formula",
+    "latex": "\\angle A=60^\\circ",
+    "note": "角A等於60度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle A=60^\\\\circ\",\"note\":\"角A等於60度\"}\n",
+    "ts": "2026-05-01T09:16:26.805561+00:00",
+    "engine": "codex"
+  },
+  "image_5551823ab66e11.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=4",
+    "note": "線段AC長度為4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}=4\",\"note\":\"線段AC長度為4\"}\n",
+    "ts": "2026-05-01T09:16:27.036988+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數 B\"}\n",
+    "ts": "2026-05-01T09:16:27.446728+00:00",
+    "engine": "codex"
+  },
+  "image_5babc57e310826.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}",
+    "note": "線段BD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}\",\"note\":\"線段BD\"}\n",
+    "ts": "2026-05-01T09:16:30.463652+00:00",
+    "engine": "codex"
+  },
+  "image_5c2c523a01ea63.png": {
+    "classification": "formula",
+    "latex": "2015",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2015\",\"note\":\"純數字\"}\n",
+    "ts": "2026-05-01T09:16:31.072824+00:00",
+    "engine": "codex"
+  },
+  "image_5bb62adbfb81cf.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一變數 E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一變數 E\"}\n",
+    "ts": "2026-05-01T09:16:32.112038+00:00",
+    "engine": "codex"
+  },
+  "image_5bd910d911756a.png": {
+    "classification": "formula",
+    "latex": "\\angle A",
+    "note": "角A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle A\",\"note\":\"角A\"}\n",
+    "ts": "2026-05-01T09:16:33.159744+00:00",
+    "engine": "codex"
+  },
+  "image_5e7d13b4f051a6.png": {
+    "classification": "formula",
+    "latex": "\\angle BAD=60^\\circ",
+    "note": "角BAD等於60度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle BAD=60^\\\\circ\",\"note\":\"角BAD等於60度\"}\n",
+    "ts": "2026-05-01T09:16:36.856640+00:00",
+    "engine": "codex"
+  },
+  "image_5e6489538bbf03.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=3",
+    "note": "線段AB長度為3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=3\",\"note\":\"線段AB長度為3\"}\n",
+    "ts": "2026-05-01T09:16:37.953381+00:00",
+    "engine": "codex"
+  },
+  "image_5f331561120907.png": {
+    "classification": "formula",
+    "latex": "\\cos(\\angle BAC)=\\frac{8}{\\sqrt{73}}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos(\\\\angle BAC)=\\\\frac{8}{\\\\sqrt{73}}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-05-01T09:16:38.675010+00:00",
+    "engine": "codex"
+  },
+  "image_5d0bc72524d1b5.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta=\\frac{4^2+x^2-5^2}{2\\times4\\times x}=\\frac{9^2+x^2-\\sqrt{10}^{2}}{2\\times9\\times x}",
+    "note": "餘弦定理公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta=\\\\frac{4^2+x^2-5^2}{2\\\\times4\\\\times x}=\\\\frac{9^2+x^2-\\\\sqrt{10}^{2}}{2\\\\times9\\\\times x}\",\"note\":\"餘弦定理公式\"}\n",
+    "ts": "2026-05-01T09:16:41.288622+00:00",
+    "engine": "codex"
+  },
+  "image_63b1de49969548.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle ABC \\ge \\frac{3}{7}",
+    "note": "三角函數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\angle ABC \\\\ge \\\\frac{3}{7}\",\"note\":\"三角函數不等式\"}\n",
+    "ts": "2026-05-01T09:16:41.785289+00:00",
+    "engine": "codex"
+  },
+  "image_5f659297edbd4e.png": {
+    "classification": "formula",
+    "latex": "=\\overline{AD}\\times \\sin \\angle ADC=\\sqrt{10}\\times \\frac{3}{\\sqrt{10}}=3",
+    "note": "線段AD乘以角ADC正弦的計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\overline{AD}\\\\times \\\\sin \\\\angle ADC=\\\\sqrt{10}\\\\times \\\\frac{3}{\\\\sqrt{10}}=3\",\"note\":\"線段AD乘以角ADC正弦的計算式\"}\n",
+    "ts": "2026-05-01T09:16:42.334621+00:00",
+    "engine": "codex"
+  },
+  "image_6704e87c4ba2af.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{13}{2}",
+    "note": "方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{13}{2}\",\"note\":\"方程式\"}\n",
+    "ts": "2026-05-01T09:16:43.604119+00:00",
+    "engine": "codex"
+  },
+  "image_68823e8c737bf6.png": {
+    "classification": "formula",
+    "latex": "3\\sqrt{15}",
+    "note": "純數學式：3乘以根號15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\sqrt{15}\",\"note\":\"純數學式：3乘以根號15\"}\n",
+    "ts": "2026-05-01T09:16:45.775398+00:00",
+    "engine": "codex"
+  },
+  "image_690c1b84beadc0.png": {
+    "classification": "formula",
+    "latex": "\\cos C=\\frac{7}{8}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos C=\\\\frac{7}{8}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-01T09:16:46.493902+00:00",
+    "engine": "codex"
+  },
+  "image_675f942f59173a.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=2\\sqrt{2}",
+    "note": "線段AD長度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=2\\\\sqrt{2}\",\"note\":\"線段AD長度等式\"}\n",
+    "ts": "2026-05-01T09:16:46.808395+00:00",
+    "engine": "codex"
+  },
+  "image_6ae66e9993875c.png": {
+    "classification": "formula",
+    "latex": "\\angle A+\\angle B+\\angle C=180^\\circ",
+    "note": "三角形內角和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle A+\\\\angle B+\\\\angle C=180^\\\\circ\",\"note\":\"三角形內角和公式\"}\n",
+    "ts": "2026-05-01T09:16:47.673623+00:00",
+    "engine": "codex"
+  },
+  "image_6caf0e6918ef52.png": {
+    "classification": "formula",
+    "latex": "\\angle A=\\angle B<30^\\circ",
+    "note": "角A等於角B且小於30度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle A=\\\\angle B<30^\\\\circ\",\"note\":\"角A等於角B且小於30度\"}\n",
+    "ts": "2026-05-01T09:16:51.085881+00:00",
+    "engine": "codex"
+  },
+  "image_71cf745282c6c5.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}=3",
+    "note": "線段CD長度等於3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}=3\",\"note\":\"線段CD長度等於3\"}\n",
+    "ts": "2026-05-01T09:16:51.351808+00:00",
+    "engine": "codex"
+  },
+  "image_6b7f81014f1d05.png": {
+    "classification": "formula",
+    "latex": "\\cos C=\\frac{a^2+b^2-c^2}{2ab}=\\frac{5^2+6^2-7^2}{2\\times5\\times6}>0",
+    "note": "餘弦定理計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos C=\\\\frac{a^2+b^2-c^2}{2ab}=\\\\frac{5^2+6^2-7^2}{2\\\\times5\\\\times6}>0\",\"note\":\"餘弦定理計算式\"}\n",
+    "ts": "2026-05-01T09:16:52.808162+00:00",
+    "engine": "codex"
+  },
+  "image_6d8c635c79182c.png": {
+    "classification": "formula",
+    "latex": "=\\frac{2\\times2}{2}+\\frac{1}{2}\\times2\\sqrt{2}\\times(\\sqrt{6}+\\sqrt{2})\\times\\sin60^\\circ+\\frac{1}{2}\\times4\\times2\\times\\sin60^\\circ",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{2\\\\times2}{2}+\\\\frac{1}{2}\\\\times2\\\\sqrt{2}\\\\times(\\\\sqrt{6}+\\\\sqrt{2})\\\\times\\\\sin60^\\\\circ+\\\\frac{1}{2}\\\\times4\\\\times2\\\\times\\\\sin60^\\\\circ\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-01T09:16:54.831157+00:00",
+    "engine": "codex"
+  },
+  "image_73c8e2bede965e.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何角度與方位示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何角度與方位示意圖\"}\n",
+    "ts": "2026-05-01T09:16:54.986482+00:00",
+    "engine": "codex"
+  },
+  "image_73fd1b2e4b09fa.png": {
+    "classification": "formula",
+    "latex": "\\angle B=30^{\\circ}",
+    "note": "角B等於30度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle B=30^{\\\\circ}\",\"note\":\"角B等於30度\"}\n",
+    "ts": "2026-05-01T09:16:56.440238+00:00",
+    "engine": "codex"
+  },
+  "image_73fa26520b2799.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}^{2}=\\overline{AP}^{2}+\\overline{AQ}^{2}-2\\times\\overline{AP}\\times\\overline{AQ}\\times\\cos45^{\\circ}",
+    "note": "餘弦定理公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}^{2}=\\\\overline{AP}^{2}+\\\\overline{AQ}^{2}-2\\\\times\\\\overline{AP}\\\\times\\\\overline{AQ}\\\\times\\\\cos45^{\\\\circ}\",\"note\":\"餘弦定理公式\"}\n",
+    "ts": "2026-05-01T09:16:57.532220+00:00",
+    "engine": "codex"
+  },
+  "image_764eae842e39bb.png": {
+    "classification": "formula",
+    "latex": "\\frac{27}{2}",
+    "note": "分數 27/2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{27}{2}\",\"note\":\"分數 27/2\"}\n",
+    "ts": "2026-05-01T09:16:58.445611+00:00",
+    "engine": "codex"
+  },
+  "image_7a259a99e239c1.png": {
+    "classification": "formula",
+    "latex": "\\angle EAD=45^\\circ",
+    "note": "角EAD等於45度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle EAD=45^\\\\circ\",\"note\":\"角EAD等於45度\"}\n",
+    "ts": "2026-05-01T09:17:00.132333+00:00",
+    "engine": "codex"
+  },
+  "image_7b2df5f6481b7a.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}=\\overline{AB}=15",
+    "note": "線段 AP 與 AB 長度皆為 15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}=\\\\overline{AB}=15\",\"note\":\"線段 AP 與 AB 長度皆為 15\"}\n",
+    "ts": "2026-05-01T09:17:02.831357+00:00",
+    "engine": "codex"
+  },
+  "image_7a3db6851b5000.png": {
+    "classification": "formula",
+    "latex": "\\overline{AQ}=\\frac{15}{\\frac{1}{2}}\\times\\frac{\\sqrt{2}}{2}=15\\sqrt{2}",
+    "note": "線段AQ長度計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AQ}=\\\\frac{15}{\\\\frac{1}{2}}\\\\times\\\\frac{\\\\sqrt{2}}{2}=15\\\\sqrt{2}\",\"note\":\"線段AQ長度計算式\"}\n",
+    "ts": "2026-05-01T09:17:03.008155+00:00",
+    "engine": "codex"
+  },
+  "image_7ab4d7885cd880.png": {
+    "classification": "formula",
+    "latex": "\\overline{OC}=\\sqrt{16+5}=\\sqrt{21}",
+    "note": "線段OC長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OC}=\\\\sqrt{16+5}=\\\\sqrt{21}\",\"note\":\"線段OC長度計算\"}\n",
+    "ts": "2026-05-01T09:17:03.182635+00:00",
+    "engine": "codex"
+  },
+  "image_7b4092299cc264.png": {
+    "classification": "formula",
+    "latex": "\\angle BAC=\\angle ABC",
+    "note": "角度相等的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle BAC=\\\\angle ABC\",\"note\":\"角度相等的公式\"}\n",
+    "ts": "2026-05-01T09:17:04.510272+00:00",
+    "engine": "codex"
+  },
+  "image_7bc866ed387be1.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形內切圓示意圖，含A、B、C、D、O與r標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形內切圓示意圖，含A、B、C、D、O與r標記\"}\n",
+    "ts": "2026-05-01T09:17:06.880021+00:00",
+    "engine": "codex"
+  },
+  "image_7fb46a2e52a60d.png": {
+    "classification": "formula",
+    "latex": "ABCD",
+    "note": "四個斜體字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABCD\",\"note\":\"四個斜體字母\"}\n",
+    "ts": "2026-05-01T09:17:07.222836+00:00",
+    "engine": "codex"
+  },
+  "image_80f170428fb44e.png": {
+    "classification": "formula",
+    "latex": "\\sin A:\\sin B:\\sin C=a:b:c=2:3:4",
+    "note": "正弦比與邊長比公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A:\\\\sin B:\\\\sin C=a:b:c=2:3:4\",\"note\":\"正弦比與邊長比公式\"}\n",
+    "ts": "2026-05-01T09:17:09.980690+00:00",
+    "engine": "codex"
+  },
+  "image_8110c60e4c4804.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle ADC=-\\cos \\angle ABC\\Rightarrow \\frac{3^2+x^2-4^2}{2\\times3\\times x}=-\\frac{3}{8}\\Rightarrow 4x^2+9x-28=0",
+    "note": "餘弦關係推導二次方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\angle ADC=-\\\\cos \\\\angle ABC\\\\Rightarrow \\\\frac{3^2+x^2-4^2}{2\\\\times3\\\\times x}=-\\\\frac{3}{8}\\\\Rightarrow 4x^2+9x-28=0\",\"note\":\"餘弦關係推導二次方程\"}\n",
+    "ts": "2026-05-01T09:17:10.497464+00:00",
+    "engine": "codex"
+  },
+  "image_82bf3581e41c5e.png": {
+    "classification": "formula",
+    "latex": "\\angle C > 90^\\circ",
+    "note": "角C大於90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle C > 90^\\\\circ\",\"note\":\"角C大於90度\"}\n",
+    "ts": "2026-05-01T09:17:11.341634+00:00",
+    "engine": "codex"
+  },
+  "image_8cf5a288db6065.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\left(\\frac{c}{2R}\\right)^2>\\left(\\frac{a}{2R}\\right)^2+\\left(\\frac{b}{2R}\\right)^2",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\left(\\\\frac{c}{2R}\\\\right)^2>\\\\left(\\\\frac{a}{2R}\\\\right)^2+\\\\left(\\\\frac{b}{2R}\\\\right)^2\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-05-01T09:17:13.084314+00:00",
+    "engine": "codex"
+  },
+  "image_8f464127c3651b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}",
+    "note": "線段 AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}\",\"note\":\"線段 AC\"}\n",
+    "ts": "2026-05-01T09:17:15.111583+00:00",
+    "engine": "codex"
+  },
+  "image_91d9b8271e0314.png": {
+    "classification": "formula",
+    "latex": "7^2<5^2+6^2",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7^2<5^2+6^2\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-05-01T09:17:15.226031+00:00",
+    "engine": "codex"
+  },
+  "image_8eccb5d10b21a3.png": {
+    "classification": "formula",
+    "latex": "=",
+    "note": "等號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\",\"note\":\"等號\"}\n",
+    "ts": "2026-05-01T09:17:15.421728+00:00",
+    "engine": "codex"
+  },
+  "image_924c7260367a39.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{9}:\\frac{1}{12}:\\frac{1}{15}=20:15:12",
+    "note": "比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{9}:\\\\frac{1}{12}:\\\\frac{1}{15}=20:15:12\",\"note\":\"比例式\"}\n",
+    "ts": "2026-05-01T09:17:18.917924+00:00",
+    "engine": "codex"
+  },
+  "image_982f60c0bdc64f.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}",
+    "note": "線段AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}\",\"note\":\"線段AD\"}\n",
+    "ts": "2026-05-01T09:17:19.888945+00:00",
+    "engine": "codex"
+  },
+  "image_9ac5e0be60b8dd.png": {
+    "classification": "formula",
+    "latex": "\\cos A=-\\frac{1}{3}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos A=-\\frac{1}{3}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-05-01T09:17:20.816262+00:00",
+    "engine": "codex"
+  },
+  "image_9ae9ec7b48ecb1.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\times\\sqrt{73}\\times9\\times\\frac{3}{\\sqrt{73}}=\\frac{27}{2}",
+    "note": "等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\times\\\\sqrt{73}\\\\times9\\\\times\\\\frac{3}{\\\\sqrt{73}}=\\\\frac{27}{2}\",\"note\":\"等式化簡\"}\n",
+    "ts": "2026-05-01T09:17:21.075851+00:00",
+    "engine": "codex"
+  },
+  "image_9f725d6750cfa8.png": {
+    "classification": "formula",
+    "latex": "15\\sqrt{2}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"15\\\\sqrt{2}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-01T09:17:24.558640+00:00",
+    "engine": "codex"
+  },
+  "image_9eff2b64ed498e.png": {
+    "classification": "formula",
+    "latex": "\\cos A=\\frac{4^2+6^2-8^2}{2\\times4\\times6}=-\\frac{1}{4}",
+    "note": "餘弦定理計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos A=\\\\frac{4^2+6^2-8^2}{2\\\\times4\\\\times6}=-\\\\frac{1}{4}\",\"note\":\"餘弦定理計算式\"}\n",
+    "ts": "2026-05-01T09:17:24.563238+00:00",
+    "engine": "codex"
+  },
+  "image_a0d4c29e22653b.png": {
+    "classification": "formula",
+    "latex": "\\angle BAD > \\angle BAC",
+    "note": "角度不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle BAD > \\\\angle BAC\",\"note\":\"角度不等式\"}\n",
+    "ts": "2026-05-01T09:17:27.210862+00:00",
+    "engine": "codex"
+  },
+  "image_9f08401548c6dc.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2k+(2k+2)>2k+4\\cdots\\text{(i)}\\\\(2k)^2+(2k+2)^2<(2k+4)^2\\cdots\\text{(ii)}\\\\k\\in\\mathbb{N}\\cdots\\text{(iii)}\\end{cases}",
+    "note": "不等式條件組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2k+(2k+2)>2k+4\\\\cdots\\\\text{(i)}\\\\\\\\(2k)^2+(2k+2)^2<(2k+4)^2\\\\cdots\\\\text{(ii)}\\\\\\\\k\\\\in\\\\mathbb{N}\\\\cdots\\\\text{(iii)}\\\\end{cases}\",\"note\":\"不等式條件組\"}\n",
+    "ts": "2026-05-01T09:17:27.366293+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-01T09:17:28.116436+00:00",
+    "engine": "codex"
+  },
+  "image_a57ce8cd8a45bb.png": {
+    "classification": "formula",
+    "latex": "c",
+    "note": "單一變數 c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c\",\"note\":\"單一變數 c\"}\n",
+    "ts": "2026-05-01T09:17:31.049259+00:00",
+    "engine": "codex"
+  },
+  "image_a1b499af80b3c1.png": {
+    "classification": "formula",
+    "latex": "\\overline{BF}=\\overline{BE}=9-(7-x)=2+x",
+    "note": "線段長度等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BF}=\\\\overline{BE}=9-(7-x)=2+x\",\"note\":\"線段長度等式化簡\"}\n",
+    "ts": "2026-05-01T09:17:31.478830+00:00",
+    "engine": "codex"
+  },
+  "image_a4bbb9df21e719.png": {
+    "classification": "formula",
+    "latex": "\\sin C = \\frac{3}{4} < \\frac{\\sqrt{3}}{2}",
+    "note": "正弦函數值的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin C = \\frac{3}{4} < \\frac{\\sqrt{3}}{2}\",\"note\":\"正弦函數值的不等式\"}\n",
+    "ts": "2026-05-01T09:20:11.357620+00:00"
+  },
+  "image_a5f3dda0a23b7c.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = \\overline{AF} = 8 - (2 + x) = 6 - x",
+    "note": "線段長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AD} = \\overline{AF} = 8 - (2 + x) = 6 - x\",\"note\":\"線段長度計算\"}\n",
+    "ts": "2026-05-01T09:20:15.082522+00:00"
+  },
+  "image_a61fe111eddf9a.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} \\parallel \\overline{CD}",
+    "note": "AB平行CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB} \\parallel \\overline{CD}\",\"note\":\"AB平行CD\"}\n",
+    "ts": "2026-05-01T09:20:17.955517+00:00"
+  },
+  "image_a5b2cb42b73dee.png": {
+    "classification": "formula",
+    "latex": "\\implies 679-7\\overline{BD}^2=264",
+    "note": "線段BD的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\implies 679-7\\overline{BD}^2=264\",\"note\":\"線段BD的等式\"}\n",
+    "ts": "2026-05-01T09:20:19.367252+00:00"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"變數 x\"}\n",
+    "ts": "2026-05-01T09:20:25.670093+00:00"
+  },
+  "image_ab7ac5e3b44639.png": {
+    "classification": "formula",
+    "latex": "\\alpha",
+    "note": "希臘字母 alpha",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\alpha\",\"note\":\"希臘字母 alpha\"}\n",
+    "ts": "2026-05-01T09:20:30.360385+00:00"
+  },
+  "image_a747ab4f7fc754.png": {
+    "classification": "formula",
+    "latex": "\\cos C = \\frac{4^2 + 9^2 - \\overline{BD}^2}{2 \\times 4 \\times 9} = \\frac{7^2 + 9^2 - 8^2}{2 \\times 7 \\times 9}",
+    "note": "餘弦定理公式計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos C = \\\\frac{4^2 + 9^2 - \\\\overline{BD}^2}{2 \\\\times 4 \\\\times 9} = \\\\frac{7^2 + 9^2 - 8^2}{2 \\\\times 7 \\\\times 9}\",\"note\":\"餘弦定理公式計算過程\"}\n",
+    "ts": "2026-05-01T09:20:30.568870+00:00"
+  },
+  "image_aaeb5e2fdae090.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{AQ}}{\\sin 135^\\circ} = \\frac{15}{\\sin 30^\\circ}",
+    "note": "正弦定理比例式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{AQ}}{\\\\sin 135^\\\\circ} = \\\\frac{15}{\\\\sin 30^\\\\circ}\",\"note\":\"正弦定理比例式計算\"}\n",
+    "ts": "2026-05-01T09:20:33.778756+00:00"
+  },
+  "image_ad79dfa7cd0e71.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "標有邊長與角度的五邊形ABCDE",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"標有邊長與角度的五邊形ABCDE\"}\n",
+    "ts": "2026-05-01T09:20:37.457795+00:00"
+  },
+  "image_aeabdeeb4e1dae.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{\\sin 30^{\\circ}} = \\frac{6}{\\sin C}",
+    "note": "正弦定理比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{4}{\\sin 30^{\\circ}} = \\frac{6}{\\sin C}\",\"note\":\"正弦定理比例式\"}\n",
+    "ts": "2026-05-01T09:20:45.234075+00:00"
+  },
+  "image_b173adc4451f80.png": {
+    "classification": "formula",
+    "latex": "a^2 + b^2 < c^2",
+    "note": "不等式 a^2 + b^2 < c^2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2 + b^2 < c^2\",\"note\":\"不等式 a^2 + b^2 < c^2\"}\n",
+    "ts": "2026-05-01T09:20:45.429502+00:00"
+  },
+  "image_ade9dcd3c79b81.png": {
+    "classification": "formula",
+    "latex": "\\cos A = -\\frac{1}{4}",
+    "note": "cos A 等於負四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos A = -\\\\frac{1}{4}\",\"note\":\"cos A 等於負四分之一\"}\n",
+    "ts": "2026-05-01T09:20:49.155646+00:00"
+  },
+  "image_b23743bb6e4237.png": {
+    "classification": "formula",
+    "latex": "x = \\sqrt{73}",
+    "note": "x 等於根號 73",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x = \\sqrt{73}\",\"note\":\"x 等於根號 73\"}\n",
+    "ts": "2026-05-01T09:20:55.462329+00:00"
+  },
+  "image_b4113356cecf97.png": {
+    "classification": "formula",
+    "latex": "c^2 > a^2 + b^2",
+    "note": "c^2 > a^2 + b^2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c^2 > a^2 + b^2\",\"note\":\"c^2 > a^2 + b^2\"}\n",
+    "ts": "2026-05-01T09:20:55.736228+00:00"
+  },
+  "image_b34a7d7d79da6f.png": {
+    "classification": "formula",
+    "latex": "\\overline{DA}=x",
+    "note": "線段 DA 等於 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{DA}=x\",\"note\":\"線段 DA 等於 x\"}\n",
+    "ts": "2026-05-01T09:20:59.003078+00:00"
+  },
+  "image_b489289533efe6.png": {
+    "classification": "formula",
+    "latex": "\\sin C = \\frac{3}{4}",
+    "note": "sin C = 3/4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin C = \\frac{3}{4}\",\"note\":\"sin C = 3/4\"}\n",
+    "ts": "2026-05-01T09:21:00.676112+00:00"
+  },
+  "image_b7aa9267b04461.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "五邊形 ABCDE 及其邊長與角度",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"五邊形 ABCDE 及其邊長與角度\"}\n",
+    "ts": "2026-05-01T09:21:11.180007+00:00"
+  },
+  "image_b5b43e0bf5e77a.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC\"}\n",
+    "ts": "2026-05-01T09:21:12.135559+00:00"
+  },
+  "image_b59f4663a7935f.png": {
+    "classification": "formula",
+    "latex": "\\sin A = \\frac{\\sqrt{3}}{2}",
+    "note": "sin A = \\sqrt{3}/2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A = \\\\frac{\\\\sqrt{3}}{2}\",\"note\":\"sin A = \\sqrt{3}/2\"}\n",
+    "ts": "2026-05-01T09:21:12.614732+00:00"
+  },
+  "image_b9d9bacded20c5.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC\\text{面積} = \\frac{abc}{4R} \\Rightarrow 12\\sqrt{5} = \\frac{7 \\times 8 \\times 9}{4R}",
+    "note": "三角形面積公式及數值代入",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\\\\text{面積} = \\\\frac{abc}{4R} \\\\Rightarrow 12\\\\sqrt{5} = \\\\frac{7 \\\\times 8 \\\\times 9}{4R}\",\"note\":\"三角形面積公式及數值代入\"}\n",
+    "ts": "2026-05-01T09:21:18.988032+00:00"
+  },
+  "image_bd2e3293dd3cd3.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle BAC = \\frac{4^2 + \\sqrt{73}^2 - 5^2}{2 \\times 4 \\times \\sqrt{73}} = \\frac{8}{\\sqrt{73}}",
+    "note": "餘弦定理計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\angle BAC = \\frac{4^2 + \\sqrt{73}^2 - 5^2}{2 \\times 4 \\times \\sqrt{73}} = \\frac{8}{\\sqrt{73}}\",\"note\":\"餘弦定理計算\"}\n",
+    "ts": "2026-05-01T09:21:25.028088+00:00"
+  },
+  "image_be6d71183ad16b.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = 7 - x = \\overline{CE}",
+    "note": "CD和CE線段長度等於7-x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{CD} = 7 - x = \\overline{CE}\",\"note\":\"CD和CE線段長度等於7-x\"}\n",
+    "ts": "2026-05-01T09:21:25.923594+00:00"
+  },
+  "image_c18364c24b130b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=\\sqrt{10}",
+    "note": "線段 AD 等於根號 10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AD}=\\sqrt{10}\",\"note\":\"線段 AD 等於根號 10\"}\n",
+    "ts": "2026-05-01T09:21:34.750274+00:00"
+  },
+  "image_c4df5efd4b8f10.png": {
+    "classification": "formula",
+    "latex": "\\angle ABD = 45^\\circ",
+    "note": "角度 ABD 等於 45 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle ABD = 45^\\circ\",\"note\":\"角度 ABD 等於 45 度\"}\n",
+    "ts": "2026-05-01T09:21:35.007505+00:00"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "數學符號 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"數學符號 D\"}\n",
+    "ts": "2026-05-01T09:21:36.361738+00:00"
+  },
+  "image_c64b44e2707065.png": {
+    "classification": "formula",
+    "latex": "\\sin \\angle ADC = \\frac{\\sqrt{73}}{\\sqrt{10}} \\times \\sin \\angle ACD = \\frac{\\sqrt{73}}{\\sqrt{10}} \\times \\frac{3}{\\sqrt{73}} = \\frac{3}{\\sqrt{10}}",
+    "note": "三角函數正弦定理運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\angle ADC = \\frac{\\sqrt{73}}{\\sqrt{10}} \\times \\sin \\angle ACD = \\frac{\\sqrt{73}}{\\sqrt{10}} \\times \\frac{3}{\\sqrt{73}} = \\frac{3}{\\sqrt{10}}\",\"note\":\"三角函數正弦定理運算\"}\n",
+    "ts": "2026-05-01T09:21:41.883129+00:00"
+  },
+  "image_ca4f82149d8a4a.png": {
+    "classification": "formula",
+    "latex": "\\angle C > 90^\\circ",
+    "note": "角 C 大於 90 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle C > 90^\\circ\",\"note\":\"角 C 大於 90 度\"}\n",
+    "ts": "2026-05-01T09:21:48.249124+00:00"
+  },
+  "image_cb1f2eaf4e3a6d.png": {
+    "classification": "formula",
+    "latex": "\\sin A = \\sin B = \\frac{1}{3} < \\frac{1}{2} = \\sin 30^\\circ",
+    "note": "正弦函數與數值比較",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin A = \\sin B = \\frac{1}{3} < \\frac{1}{2} = \\sin 30^\\circ\",\"note\":\"正弦函數與數值比較\"}\n",
+    "ts": "2026-05-01T09:21:48.625948+00:00"
+  },
+  "image_c8f2650230702f.png": {
+    "classification": "formula",
+    "latex": "= 2 + (3 + \\sqrt{3}) + 2\\sqrt{3}",
+    "note": "包含根號的數值加法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 2 + (3 + \\sqrt{3}) + 2\\sqrt{3}\",\"note\":\"包含根號的數值加法運算\"}\n",
+    "ts": "2026-05-01T09:21:49.745452+00:00"
+  },
+  "image_cc2ac2539c6e39.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle BAD < \\cos \\angle ABC",
+    "note": "餘弦值大小關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\angle BAD < \\cos \\angle ABC\",\"note\":\"餘弦值大小關係式\"}\n",
+    "ts": "2026-05-01T09:21:58.190638+00:00"
+  },
+  "image_cfffe352ff3338.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形標示 30 度角及邊長 6, 4, 4",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形標示 30 度角及邊長 6, 4, 4\"}\n",
+    "ts": "2026-05-01T09:22:02.746105+00:00"
+  },
+  "image_cca9193fbf2b66.png": {
+    "classification": "formula",
+    "latex": "\\sin A = \\frac{\\sqrt{3}}{2}",
+    "note": "sin A 等於二分之根號三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A = \\\\frac{\\\\sqrt{3}}{2}\",\"note\":\"sin A 等於二分之根號三\"}\n",
+    "ts": "2026-05-01T09:22:03.093224+00:00"
+  },
+  "image_d092717657c155.png": {
+    "classification": "formula",
+    "latex": "r",
+    "note": "字母 r",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r\",\"note\":\"字母 r\"}\n",
+    "ts": "2026-05-01T09:22:11.936633+00:00"
+  },
+  "image_d3fe77a3c2327b.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=5",
+    "note": "線段 BC 等於 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BC}=5\",\"note\":\"線段 BC 等於 5\"}\n",
+    "ts": "2026-05-01T09:22:13.961631+00:00"
+  },
+  "image_d4723b332dca7c.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "变量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"变量 b\"}\n",
+    "ts": "2026-05-01T09:22:15.004478+00:00"
+  },
+  "image_d5e980704a4fb6.png": {
+    "classification": "formula",
+    "latex": "\\angle C",
+    "note": "角C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle C\",\"note\":\"角C\"}\n",
+    "ts": "2026-05-01T09:22:19.112031+00:00"
+  },
+  "image_d63922f40450f0.png": {
+    "classification": "formula",
+    "latex": "F",
+    "note": "數學符號 F",
+    "raw": "{\"class\":\"formula\",\"latex\":\"F\",\"note\":\"數學符號 F\"}\n",
+    "ts": "2026-05-01T09:22:22.749750+00:00"
+  },
+  "image_d6509413a3e302.png": {
+    "classification": "formula",
+    "latex": "= 12",
+    "note": "等于 12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 12\",\"note\":\"等于 12\"}\n",
+    "ts": "2026-05-01T09:22:26.365622+00:00"
+  },
+  "image_d65071d605d7b0.png": {
+    "classification": "formula",
+    "latex": "4-3 < x < 4+3 \\implies 1 < x < 7",
+    "note": "不等式運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4-3 < x < 4+3 \\implies 1 < x < 7\",\"note\":\"不等式運算過程\"}\n",
+    "ts": "2026-05-01T09:22:29.237151+00:00"
+  },
+  "image_d668d3294500f0.png": {
+    "classification": "formula",
+    "latex": "= 5 + 3\\sqrt{3}",
+    "note": "= 5 + 3\\sqrt{3}",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 5 + 3\\sqrt{3}\",\"note\":\"= 5 + 3\\sqrt{3}\"}\n",
+    "ts": "2026-05-01T09:22:32.971161+00:00"
+  },
+  "image_d6bd1b3eeca4e0.png": {
+    "classification": "formula",
+    "latex": "\\sin A : \\sin B : \\sin C = 2 : 3 : 4",
+    "note": "正弦值連比",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin A : \\sin B : \\sin C = 2 : 3 : 4\",\"note\":\"正弦值連比\"}\n",
+    "ts": "2026-05-01T09:22:36.501502+00:00"
+  },
+  "image_d867fbe33e7805.png": {
+    "classification": "formula",
+    "latex": "\\cos A = \\frac{(15k)^2 + (12k)^2 - (20k)^2}{2 \\times 15k \\times 12k} < 0",
+    "note": "余弦定理計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos A = \\frac{(15k)^2 + (12k)^2 - (20k)^2}{2 \\times 15k \\times 12k} < 0\",\"note\":\"余弦定理計算式\"}\n",
+    "ts": "2026-05-01T09:22:39.692689+00:00"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "數學符號 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"數學符號 C\"}\n",
+    "ts": "2026-05-01T09:22:40.238132+00:00"
+  },
+  "image_de089c7dddf073.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle ABC = \\frac{3^{2}+4^{2}-4^{2}}{2 \\times 3 \\times 4} = \\frac{3}{8} < \\frac{3}{7}",
+    "note": "餘弦定理計算與大小比較",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\angle ABC = \\frac{3^{2}+4^{2}-4^{2}}{2 \\times 3 \\times 4} = \\frac{3}{8} < \\frac{3}{7}\",\"note\":\"餘弦定理計算與大小比較\"}\n",
+    "ts": "2026-05-01T09:22:45.045051+00:00"
+  },
+  "image_de5e70bbb0faeb.png": {
+    "classification": "formula",
+    "latex": "b = 4",
+    "note": "b = 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b = 4\",\"note\":\"b = 4\"}\n",
+    "ts": "2026-05-01T09:22:50.245887+00:00"
+  },
+  "image_e0e8406e63fa6b.png": {
+    "classification": "formula",
+    "latex": "\\overline{CA} = 7",
+    "note": "線段 CA 等於 7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CA} = 7\",\"note\":\"線段 CA 等於 7\"}\n",
+    "ts": "2026-05-01T09:22:51.065231+00:00"
+  },
+  "image_de48e95f8f667a.png": {
+    "classification": "formula",
+    "latex": "R = \\frac{7 \\times 8 \\times 9}{48 \\sqrt{5}} = \\frac{21}{2 \\sqrt{5}} = \\frac{21 \\sqrt{5}}{10}",
+    "note": "外接圓半徑 R 的計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"R = \\frac{7 \\times 8 \\times 9}{48 \\sqrt{5}} = \\frac{21}{2 \\sqrt{5}} = \\frac{21 \\sqrt{5}}{10}\",\"note\":\"外接圓半徑 R 的計算\"}\n",
+    "ts": "2026-05-01T09:22:53.324272+00:00"
+  },
+  "image_e374099517e40a.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形圖形，標註頂點A,B,C,D與邊長3,4,x",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形圖形，標註頂點A,B,C,D與邊長3,4,x\"}\n",
+    "ts": "2026-05-01T09:22:57.561884+00:00"
+  },
+  "image_e3ebf8832df212.png": {
+    "classification": "formula",
+    "latex": "h_c = 15",
+    "note": "h_c = 15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h_c = 15\",\"note\":\"h_c = 15\"}\n",
+    "ts": "2026-05-01T09:23:01.649797+00:00"
+  },
+  "image_e51a506d0ffa32.png": {
+    "classification": "formula",
+    "latex": "O",
+    "note": "数学字母 O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O\",\"note\":\"数学字母 O\"}\n",
+    "ts": "2026-05-01T09:23:02.397338+00:00"
+  },
+  "image_e5fbd47a1626c9.png": {
+    "classification": "formula",
+    "latex": "135^{\\circ} + 60^{\\circ} > 180^{\\circ}",
+    "note": "角度大於180度的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"135^{\\circ} + 60^{\\circ} > 180^{\\circ}\",\"note\":\"角度大於180度的不等式\"}\n",
+    "ts": "2026-05-01T09:23:03.818248+00:00"
+  },
+  "image_e9a8431793d6bf.png": {
+    "classification": "formula",
+    "latex": "\\implies \\frac{4}{\\sin 30^\\circ} = \\frac{6}{\\sin C} \\implies \\sin C = \\frac{3}{4}",
+    "note": "利用正弦定理計算 sin C 的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\implies \\frac{4}{\\sin 30^\\circ} = \\frac{6}{\\sin C} \\implies \\sin C = \\frac{3}{4}\",\"note\":\"利用正弦定理計算 sin C 的值\"}\n",
+    "ts": "2026-05-01T09:23:13.695573+00:00"
+  },
+  "image_eaad1a4a85a5f9.png": {
+    "classification": "formula",
+    "latex": "\\cos C = \\frac{a^2 + b^2 - c^2}{2ab} < 0",
+    "note": "餘弦定理不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos C = \\frac{a^2 + b^2 - c^2}{2ab} < 0\",\"note\":\"餘弦定理不等式\"}\n",
+    "ts": "2026-05-01T09:23:14.226671+00:00"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "數學變數 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"數學變數 A\"}\n",
+    "ts": "2026-05-01T09:23:14.727150+00:00"
+  },
+  "image_e660d29d1e56f1.png": {
+    "classification": "formula",
+    "latex": "\\angle BAD = 105^{\\circ} - 45^{\\circ} = 60^{\\circ}",
+    "note": "計算角BAD的度數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle BAD = 105^{\\circ} - 45^{\\circ} = 60^{\\circ}\",\"note\":\"計算角BAD的度數\"}\n",
+    "ts": "2026-05-01T09:23:15.017444+00:00"
+  },
+  "image_edf921dae8b044.png": {
+    "classification": "formula",
+    "latex": "120^\\circ",
+    "note": "120度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"120^\\circ\",\"note\":\"120度\"}\n",
+    "ts": "2026-05-01T09:23:25.593225+00:00"
+  },
+  "image_ec25643930818a.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2} \\times (4+9) \\times 3 = \\frac{39}{2}",
+    "note": "梯形面積計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2} \\\\times (4+9) \\\\times 3 = \\\\frac{39}{2}\",\"note\":\"梯形面積計算過程\"}\n",
+    "ts": "2026-05-01T09:23:27.647230+00:00"
+  },
+  "image_edfb3e9e2e2295.png": {
+    "classification": "formula",
+    "latex": "= 16 + 4 - 16 \\times \\frac{1}{2}",
+    "note": "算式包含加減乘與分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 16 + 4 - 16 \\times \\frac{1}{2}\",\"note\":\"算式包含加減乘與分數\"}\n",
+    "ts": "2026-05-01T09:23:27.855909+00:00"
+  },
+  "image_ee7e4b812a793c.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD} = 2\\sqrt{3}",
+    "note": "BD線段長度為2根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BD} = 2\\sqrt{3}\",\"note\":\"BD線段長度為2根號3\"}\n",
+    "ts": "2026-05-01T09:23:33.733373+00:00"
+  },
+  "image_f06ed0bf61500c.png": {
+    "classification": "formula",
+    "latex": "c = 6",
+    "note": "c = 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c = 6\",\"note\":\"c = 6\"}\n",
+    "ts": "2026-05-01T09:23:37.709616+00:00"
+  },
+  "image_efdc2a4e200329.png": {
+    "classification": "formula",
+    "latex": "s = \\frac{1}{2}(7 + 8 + 9) = 12",
+    "note": "三角形半周長計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"s = \\\\frac{1}{2}(7 + 8 + 9) = 12\",\"note\":\"三角形半周長計算\"}\n",
+    "ts": "2026-05-01T09:23:38.912090+00:00"
+  },
+  "image_f106e78e40f29c.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "四邊形ABCD圖形，標有邊長與對角線長度",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"四邊形ABCD圖形，標有邊長與對角線長度\"}\n",
+    "ts": "2026-05-01T09:23:41.079632+00:00"
+  },
+  "image_f41cd7d979e2a6.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\sin^{2} C > \\sin^{2} A + \\sin^{2} B",
+    "note": "正弦平方不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\Rightarrow \\sin^{2} C > \\sin^{2} A + \\sin^{2} B\",\"note\":\"正弦平方不等式\"}\n",
+    "ts": "2026-05-01T09:23:44.903410+00:00"
+  },
+  "image_f53a9ce6276288.png": {
+    "classification": "formula",
+    "latex": "x < \\frac{13}{2}",
+    "note": "不等式 x < 13/2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x < \\frac{13}{2}\",\"note\":\"不等式 x < 13/2\"}\n",
+    "ts": "2026-05-01T09:23:49.345846+00:00"
+  },
+  "image_f5d1dc7a49a949.png": {
+    "classification": "formula",
+    "latex": "\\cos \\angle BAD > \\cos \\angle ABC",
+    "note": "餘弦函數角度大小比較式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\angle BAD > \\cos \\angle ABC\",\"note\":\"餘弦函數角度大小比較式\"}\n",
+    "ts": "2026-05-01T09:23:52.172773+00:00"
+  },
+  "image_fb0bdb8340c537.png": {
+    "classification": "formula",
+    "latex": "\\angle ABD = 30^\\circ",
+    "note": "\\angle ABD = 30^\\circ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle ABD = 30^\\circ\",\"note\":\"\\angle ABD = 30^\\circ\"}\n",
+    "ts": "2026-05-01T09:23:54.615642+00:00"
+  },
+  "image_fe9e680ead15c8.png": {
+    "classification": "formula",
+    "latex": "\\sin A = \\sin B = \\frac{1}{3}",
+    "note": "正弦函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A = \\\\sin B = \\\\frac{1}{3}\",\"note\":\"正弦函數等式\"}\n",
+    "ts": "2026-05-01T09:24:01.365409+00:00"
+  },
+  "image_ff9c1de9313845.png": {
+    "classification": "formula",
+    "latex": "\\frac{2\\sqrt{2}}{\\sin \\angle ABD} = \\frac{2\\sqrt{3}}{\\sin 60^\\circ}",
+    "note": "正弦定理等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{2\\sqrt{2}}{\\sin \\angle ABD} = \\frac{2\\sqrt{3}}{\\sin 60^\\circ}\",\"note\":\"正弦定理等式\"}\n",
+    "ts": "2026-05-01T09:24:04.575070+00:00"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "image_29ac898c25de16.png": {
+    "classification": "formula",
+    "latex": "10^x=x",
+    "note": "指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x=x\",\"note\":\"指數方程式\"}\n",
+    "ts": "2026-05-05T11:00:27.346526+00:00",
+    "engine": "codex"
+  },
+  "image_041a8951f182ea.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標圖，含 y=10^x、y=x 與點 (0,1) 標示",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標圖，含 y=10^x、y=x 與點 (0,1) 標示\"}\n",
+    "ts": "2026-05-05T11:00:28.568281+00:00",
+    "engine": "codex"
+  },
+  "image_188fdae4bce7d3.png": {
+    "classification": "formula",
+    "latex": "10^{1-\\frac{\\sqrt{2}}{2}}>10^0",
+    "note": "不等式指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^{1-\\\\frac{\\\\sqrt{2}}{2}}>10^0\",\"note\":\"不等式指數式\"}\n",
+    "ts": "2026-05-05T11:00:29.740560+00:00",
+    "engine": "codex"
+  },
+  "image_2f571318a2d451.png": {
+    "classification": "formula",
+    "latex": "10^x > x",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x > x\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T11:00:31.925722+00:00",
+    "engine": "codex"
+  },
+  "image_31633723969dbf.png": {
+    "classification": "formula",
+    "latex": "y=x^2",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^2\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-05-05T11:00:33.771410+00:00",
+    "engine": "codex"
+  },
+  "image_2b5686d25d01fa.png": {
+    "classification": "formula",
+    "latex": "10^x>x^2",
+    "note": "指數與二次式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x>x^2\",\"note\":\"指數與二次式不等式\"}\n",
+    "ts": "2026-05-05T11:00:34.845227+00:00",
+    "engine": "codex"
+  },
+  "image_1b94f17d1af701.png": {
+    "classification": "formula",
+    "latex": "a>1",
+    "note": "不等式：a大於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a>1\",\"note\":\"不等式：a大於1\"}\n",
+    "ts": "2026-05-05T11:00:36.328252+00:00",
+    "engine": "codex"
+  },
+  "image_32675af3f035e3.png": {
+    "classification": "formula",
+    "latex": "(ab)^{\\sqrt{2}}<10",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(ab)^{\\\\sqrt{2}}<10\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T11:00:38.882396+00:00",
+    "engine": "codex"
+  },
+  "image_51b7e5e7a3634c.png": {
+    "classification": "formula",
+    "latex": "y=x",
+    "note": "線性函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x\",\"note\":\"線性函數公式\"}\n",
+    "ts": "2026-05-05T11:00:40.868976+00:00",
+    "engine": "codex"
+  },
+  "image_42bae342c279ee.png": {
+    "classification": "formula",
+    "latex": "x>0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-05-05T11:00:41.141746+00:00",
+    "engine": "codex"
+  },
+  "image_335e84d617b26c.png": {
+    "classification": "formula",
+    "latex": "b^{\\sqrt{3}}=\\left(a^{\\sqrt{2}}\\right)^{\\sqrt{3}}=a^{\\sqrt{6}}",
+    "note": "指數與根號運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b^{\\\\sqrt{3}}=\\\\left(a^{\\\\sqrt{2}}\\\\right)^{\\\\sqrt{3}}=a^{\\\\sqrt{6}}\",\"note\":\"指數與根號運算等式\"}\n",
+    "ts": "2026-05-05T11:00:43.440106+00:00",
+    "engine": "codex"
+  },
+  "image_5525f1cf1fdc9f.png": {
+    "classification": "formula",
+    "latex": "a^2 < b^{\\sqrt{3}}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2 < b^{\\\\sqrt{3}}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T11:00:44.370749+00:00",
+    "engine": "codex"
+  },
+  "image_6e1c57a3f61ffe.png": {
+    "classification": "formula",
+    "latex": "1<a",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1<a\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T11:00:45.247325+00:00",
+    "engine": "codex"
+  },
+  "image_58dc1a405852c2.png": {
+    "classification": "formula",
+    "latex": "=\\left(10^{-\\frac{\\sqrt{2}}{2}+\\sqrt{2}}\\right)^{\\sqrt{2}}=10",
+    "note": "指數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left(10^{-\\\\frac{\\\\sqrt{2}}{2}+\\\\sqrt{2}}\\\\right)^{\\\\sqrt{2}}=10\",\"note\":\"指數運算等式\"}\n",
+    "ts": "2026-05-05T11:00:47.545117+00:00",
+    "engine": "codex"
+  },
+  "image_71032f5db01e1c.png": {
+    "classification": "formula",
+    "latex": "y=10^x",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=10^x\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T11:00:48.266719+00:00",
+    "engine": "codex"
+  },
+  "image_776d5257ce5adc.png": {
+    "classification": "formula",
+    "latex": "10^x=x^2",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x=x^2\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-05T11:00:49.911712+00:00",
+    "engine": "codex"
+  },
+  "image_781e461a299fdc.png": {
+    "classification": "formula",
+    "latex": "2<\\sqrt{6}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2<\\\\sqrt{6}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T11:00:52.741312+00:00",
+    "engine": "codex"
+  },
+  "image_8d0c6315fd5365.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2} \\approx 1.414",
+    "note": "平方根2的近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2} \\\\approx 1.414\",\"note\":\"平方根2的近似值\"}\n",
+    "ts": "2026-05-05T11:00:53.856999+00:00",
+    "engine": "codex"
+  },
+  "image_7a4feb1da1f661.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標圖，含 y=10^x 與 y=x^2 標籤",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標圖，含 y=10^x 與 y=x^2 標籤\"}\n",
+    "ts": "2026-05-05T11:00:54.314286+00:00",
+    "engine": "codex"
+  },
+  "image_8d46977158e04f.png": {
+    "classification": "formula",
+    "latex": "b=a^{\\sqrt{2}}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=a^{\\\\sqrt{2}}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T11:00:56.953924+00:00",
+    "engine": "codex"
+  },
+  "image_952f2910be76cb.png": {
+    "classification": "formula",
+    "latex": "a^2<a^{\\sqrt{6}}=b^{\\sqrt{3}}",
+    "note": "純數學不等式與等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2<a^{\\\\sqrt{6}}=b^{\\\\sqrt{3}}\",\"note\":\"純數學不等式與等式\"}\n",
+    "ts": "2026-05-05T11:00:57.413654+00:00",
+    "engine": "codex"
+  },
+  "image_c330102dc3f19b.png": {
+    "classification": "formula",
+    "latex": "b=a^{\\sqrt{2}}=10^{\\sqrt{2}-1}\\approx 10^{0.414}",
+    "note": "指數與近似值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=a^{\\\\sqrt{2}}=10^{\\\\sqrt{2}-1}\\\\approx 10^{0.414}\",\"note\":\"指數與近似值公式\"}\n",
+    "ts": "2026-05-05T11:00:59.867939+00:00",
+    "engine": "codex"
+  },
+  "image_a419dbd161a551.png": {
+    "classification": "formula",
+    "latex": "1-\\frac{\\sqrt{2}}{2}>0",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-\\\\frac{\\\\sqrt{2}}{2}>0\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-05-05T11:01:03.744160+00:00",
+    "engine": "codex"
+  },
+  "image_d5b08413ce5fe7.png": {
+    "classification": "formula",
+    "latex": "10^{0.4}<b<10^{0.5}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^{0.4}<b<10^{0.5}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T11:01:04.023859+00:00",
+    "engine": "codex"
+  },
+  "image_daaed9a8025e53.png": {
+    "classification": "formula",
+    "latex": "a=10^{1-\\frac{\\sqrt{2}}{2}}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=10^{1-\\\\frac{\\\\sqrt{2}}{2}}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T11:01:05.326873+00:00",
+    "engine": "codex"
+  },
+  "image_d605c846001b2a.png": {
+    "classification": "formula",
+    "latex": "(ab)^{\\sqrt{2}}=\\left(10^{1-\\frac{\\sqrt{2}}{2}}\\times10^{\\sqrt{2}-1}\\right)^{\\sqrt{2}}",
+    "note": "指數律化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(ab)^{\\\\sqrt{2}}=\\\\left(10^{1-\\\\frac{\\\\sqrt{2}}{2}}\\\\times10^{\\\\sqrt{2}-1}\\\\right)^{\\\\sqrt{2}}\",\"note\":\"指數律化簡式\"}\n",
+    "ts": "2026-05-05T11:01:05.479923+00:00",
+    "engine": "codex"
+  }
+}

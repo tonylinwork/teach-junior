@@ -1,0 +1,1483 @@
+{
+  "image_00250c02df9bdf.png": {
+    "classification": "formula",
+    "latex": "=6.1\\times25.4",
+    "note": "純數值乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=6.1\\\\times25.4\",\"note\":\"純數值乘法算式\"}\n",
+    "ts": "2026-04-29T06:23:40.752644+00:00",
+    "engine": "codex"
+  },
+  "image_00761c51fab02b.png": {
+    "classification": "formula",
+    "latex": "999",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"999\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:23:41.325057+00:00",
+    "engine": "codex"
+  },
+  "image_0105a3d7041ae3.png": {
+    "classification": "formula",
+    "latex": "\\mu=\\frac{4\\times164+3\\times169+2\\times170}{4+3+2}=\\frac{656+507+340}{9}=167",
+    "note": "加權平均數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu=\\\\frac{4\\\\times164+3\\\\times169+2\\\\times170}{4+3+2}=\\\\frac{656+507+340}{9}=167\",\"note\":\"加權平均數計算式\"}\n",
+    "ts": "2026-04-29T06:23:44.262965+00:00",
+    "engine": "codex"
+  },
+  "image_0151c4446474b0.png": {
+    "classification": "formula",
+    "latex": "7",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:23:45.531829+00:00",
+    "engine": "codex"
+  },
+  "image_06525ae8ea29ae.png": {
+    "classification": "formula",
+    "latex": "155",
+    "note": "頁碼或題號數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"155\",\"note\":\"頁碼或題號數字\"}\n",
+    "ts": "2026-04-29T06:23:49.166975+00:00",
+    "engine": "codex"
+  },
+  "image_02800ae80ab491.png": {
+    "classification": "formula",
+    "latex": "\\mu",
+    "note": "Greek letter mu",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu\",\"note\":\"Greek letter mu\"}\n",
+    "ts": "2026-04-29T06:23:49.664935+00:00",
+    "engine": "codex"
+  },
+  "image_029b7dcdbfae1d.png": {
+    "classification": "formula",
+    "latex": "40\\%",
+    "note": "百分比數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"40\\\\%\",\"note\":\"百分比數值\"}\n",
+    "ts": "2026-04-29T06:23:52.046556+00:00",
+    "engine": "codex"
+  },
+  "image_0a7232ce1d2848.png": {
+    "classification": "formula",
+    "latex": "M_{\\text{丙}}=\\frac{\\text{第10次分數}+\\text{第11次分數}}{2}=\\frac{8+9}{2}=8.5",
+    "note": "計算第10與第11次分數的平均",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{\\\\text{丙}}=\\\\frac{\\\\text{第10次分數}+\\\\text{第11次分數}}{2}=\\\\frac{8+9}{2}=8.5\",\"note\":\"計算第10與第11次分數的平均\"}\n",
+    "ts": "2026-04-29T06:23:52.260730+00:00",
+    "engine": "codex"
+  },
+  "image_0b74b7f3cd6f56.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "病例數隨日期變化的長條統計圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"病例數隨日期變化的長條統計圖\"}\n",
+    "ts": "2026-04-29T06:23:54.159384+00:00",
+    "engine": "codex"
+  },
+  "image_0d8f2248cc8d34.png": {
+    "classification": "formula",
+    "latex": "154",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"154\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:23:57.755199+00:00",
+    "engine": "codex"
+  },
+  "image_0edf78bb7363d5.png": {
+    "classification": "formula",
+    "latex": "69.7<72.6<73.2<73.3<74.8<79.4",
+    "note": "小數連續不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"69.7<72.6<73.2<73.3<74.8<79.4\",\"note\":\"小數連續不等式\"}\n",
+    "ts": "2026-04-29T06:23:58.089504+00:00",
+    "engine": "codex"
+  },
+  "image_0f8a47508109ef.png": {
+    "classification": "formula",
+    "latex": "\\sigma_C>\\sigma_A",
+    "note": "Greek sigma comparison with subscripts C and A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_C>\\\\sigma_A\",\"note\":\"Greek sigma comparison with subscripts C and A\"}\n",
+    "ts": "2026-04-29T06:24:00.481425+00:00",
+    "engine": "codex"
+  },
+  "image_0e2bce9b47007f.png": {
+    "classification": "formula",
+    "latex": "\\sigma_{B}",
+    "note": "希臘字母sigma下標B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_{B}\",\"note\":\"希臘字母sigma下標B\"}\n",
+    "ts": "2026-04-29T06:24:00.551633+00:00",
+    "engine": "codex"
+  },
+  "image_12728b4c8f92de.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{7}",
+    "note": "分數四分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{7}\",\"note\":\"分數四分之七\"}\n",
+    "ts": "2026-04-29T06:24:03.824060+00:00",
+    "engine": "codex"
+  },
+  "image_10a04f3bd5fe9e.png": {
+    "classification": "formula",
+    "latex": "\\frac{400}{23}\\approx 17",
+    "note": "分數近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{400}{23}\\\\approx 17\",\"note\":\"分數近似值\"}\n",
+    "ts": "2026-04-29T06:24:04.216534+00:00",
+    "engine": "codex"
+  },
+  "image_13230ec4e95530.png": {
+    "classification": "formula",
+    "latex": "167",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"167\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:24:06.499422+00:00",
+    "engine": "codex"
+  },
+  "image_12b510cec7c232.png": {
+    "classification": "formula",
+    "latex": "\\sigma_B=2\\sigma_A",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_B=2\\\\sigma_A\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:24:09.180972+00:00",
+    "engine": "codex"
+  },
+  "image_1334ce76154a97.png": {
+    "classification": "formula",
+    "latex": "Q_3=165",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Q_3=165\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:24:10.613436+00:00",
+    "engine": "codex"
+  },
+  "image_16f46a21c738c7.png": {
+    "classification": "formula",
+    "latex": "6.1",
+    "note": "數字標號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6.1\",\"note\":\"數字標號\"}\n",
+    "ts": "2026-04-29T06:24:11.333493+00:00",
+    "engine": "codex"
+  },
+  "image_17d2a5e4061214.png": {
+    "classification": "formula",
+    "latex": "=1",
+    "note": "純數學等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1\",\"note\":\"純數學等式片段\"}\n",
+    "ts": "2026-04-29T06:24:12.664782+00:00",
+    "engine": "codex"
+  },
+  "image_18e40d73433048.png": {
+    "classification": "formula",
+    "latex": "C:996",
+    "note": "變數C與數值996的比例式標記",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C:996\",\"note\":\"變數C與數值996的比例式標記\"}\n",
+    "ts": "2026-04-29T06:24:15.782609+00:00",
+    "engine": "codex"
+  },
+  "image_18ac0129d9f098.png": {
+    "classification": "formula",
+    "latex": "153",
+    "note": "純數字頁碼或題號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"153\",\"note\":\"純數字頁碼或題號\"}\n",
+    "ts": "2026-04-29T06:24:17.225941+00:00",
+    "engine": "codex"
+  },
+  "image_1b770472fd77f0.png": {
+    "classification": "formula",
+    "latex": "M_{\\text{乙}} < M_{\\text{丙}}",
+    "note": "比較乙與丙的M值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{\\\\text{乙}} < M_{\\\\text{丙}}\",\"note\":\"比較乙與丙的M值\"}\n",
+    "ts": "2026-04-29T06:24:18.577779+00:00",
+    "engine": "codex"
+  },
+  "image_1c61138d7d7828.png": {
+    "classification": "formula",
+    "latex": "\\mu_{\\text{甲}}=\\frac{1}{20}\\times(5\\times7+5\\times8+5\\times9+5\\times10)=\\frac{34}{4}=\\frac{17}{2}=8.5",
+    "note": "平均數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_{\\\\text{甲}}=\\\\frac{1}{20}\\\\times(5\\\\times7+5\\\\times8+5\\\\times9+5\\\\times10)=\\\\frac{34}{4}=\\\\frac{17}{2}=8.5\",\"note\":\"平均數計算公式\"}\n",
+    "ts": "2026-04-29T06:24:19.081580+00:00",
+    "engine": "codex"
+  },
+  "image_2176e33ca184e3.png": {
+    "classification": "formula",
+    "latex": "n_2",
+    "note": "變數 n 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n_2\",\"note\":\"變數 n 下標 2\"}\n",
+    "ts": "2026-04-29T06:24:23.512880+00:00",
+    "engine": "codex"
+  },
+  "image_2044d256bfae9c.png": {
+    "classification": "formula",
+    "latex": "\\cdots",
+    "note": "水平省略號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cdots\",\"note\":\"水平省略號\"}\n",
+    "ts": "2026-04-29T06:24:24.419243+00:00",
+    "engine": "codex"
+  },
+  "image_24096670f603c5.png": {
+    "classification": "formula",
+    "latex": "11",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"11\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:24:24.986381+00:00",
+    "engine": "codex"
+  },
+  "image_24fd76c9feb6b1.png": {
+    "classification": "formula",
+    "latex": "50\\%",
+    "note": "百分之五十",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50\\\\%\",\"note\":\"百分之五十\"}\n",
+    "ts": "2026-04-29T06:24:25.142644+00:00",
+    "engine": "codex"
+  },
+  "image_256a3d77f10ed1.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-29T06:24:31.123093+00:00",
+    "engine": "codex"
+  },
+  "image_29b9af970699d7.png": {
+    "classification": "formula",
+    "latex": "Q_1=\\frac{153+155}{2}=154",
+    "note": "第一四分位數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Q_1=\\\\frac{153+155}{2}=154\",\"note\":\"第一四分位數計算式\"}\n",
+    "ts": "2026-04-29T06:24:33.619985+00:00",
+    "engine": "codex"
+  },
+  "image_2b490ed27243aa.png": {
+    "classification": "formula",
+    "latex": "-20\\%,20\\%,80\\%",
+    "note": "百分比數列",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-20\\\\%,20\\\\%,80\\\\%\",\"note\":\"百分比數列\"}\n",
+    "ts": "2026-04-29T06:24:35.296627+00:00",
+    "engine": "codex"
+  },
+  "image_2d559e0c38d124.png": {
+    "classification": "formula",
+    "latex": "998",
+    "note": "純數字表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"998\",\"note\":\"純數字表達式\"}\n",
+    "ts": "2026-04-29T06:24:36.871136+00:00",
+    "engine": "codex"
+  },
+  "image_28e441581b29c8.png": {
+    "classification": "formula",
+    "latex": "M_{\\text{甲}}=\\frac{\\text{第10次分數}+\\text{第11次分數}}{2}=\\frac{8+9}{2}=8.5",
+    "note": "中位數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{\\\\text{甲}}=\\\\frac{\\\\text{第10次分數}+\\\\text{第11次分數}}{2}=\\\\frac{8+9}{2}=8.5\",\"note\":\"中位數計算公式\"}\n",
+    "ts": "2026-04-29T06:24:37.507307+00:00",
+    "engine": "codex"
+  },
+  "image_2d7eafe35fcafc.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字3\"}\n",
+    "ts": "2026-04-29T06:24:39.949322+00:00",
+    "engine": "codex"
+  },
+  "image_31967f03e2df1f.png": {
+    "classification": "formula",
+    "latex": "14",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"14\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:24:40.344312+00:00",
+    "engine": "codex"
+  },
+  "image_31e201b377e419.png": {
+    "classification": "formula",
+    "latex": "\\leq 5",
+    "note": "小於或等於5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\leq 5\",\"note\":\"小於或等於5\"}\n",
+    "ts": "2026-04-29T06:24:44.554673+00:00",
+    "engine": "codex"
+  },
+  "image_386cb3361d86b3.png": {
+    "classification": "formula",
+    "latex": "22",
+    "note": "純數字題號或數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"22\",\"note\":\"純數字題號或數字\"}\n",
+    "ts": "2026-04-29T06:24:46.090264+00:00",
+    "engine": "codex"
+  },
+  "image_34f0e6c8a3fce8.png": {
+    "classification": "formula",
+    "latex": "41.0",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"41.0\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T06:24:48.122074+00:00",
+    "engine": "codex"
+  },
+  "image_3abd057882ea4f.png": {
+    "classification": "formula",
+    "latex": "2 \\le 3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2 \\\\le 3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T06:24:51.038512+00:00",
+    "engine": "codex"
+  },
+  "image_32ddc1f6130fb1.png": {
+    "classification": "formula",
+    "latex": "p=\\frac{x_1+x_2+\\cdots+x_n}{n}",
+    "note": "算術平均數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p=\\\\frac{x_1+x_2+\\\\cdots+x_n}{n}\",\"note\":\"算術平均數公式\"}\n",
+    "ts": "2026-04-29T06:24:52.422215+00:00",
+    "engine": "codex"
+  },
+  "image_3d900d85a08332.png": {
+    "classification": "formula",
+    "latex": "y_i",
+    "note": "變數 y 的下標 i",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_i\",\"note\":\"變數 y 的下標 i\"}\n",
+    "ts": "2026-04-29T06:24:52.955532+00:00",
+    "engine": "codex"
+  },
+  "image_3c5dfcd357948d.png": {
+    "classification": "formula",
+    "latex": "40",
+    "note": "數字40",
+    "raw": "{\"class\":\"formula\",\"latex\":\"40\",\"note\":\"數字40\"}\n",
+    "ts": "2026-04-29T06:24:53.703382+00:00",
+    "engine": "codex"
+  },
+  "image_3d9a66dccbe284.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-04-29T06:24:56.994209+00:00",
+    "engine": "codex"
+  },
+  "image_405a5042d6b492.png": {
+    "classification": "formula",
+    "latex": "30\\%",
+    "note": "百分比數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30\\\\%\",\"note\":\"百分比數值\"}\n",
+    "ts": "2026-04-29T06:24:58.994763+00:00",
+    "engine": "codex"
+  },
+  "image_3da9faad07cac8.png": {
+    "classification": "formula",
+    "latex": "Q_1=154",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Q_1=154\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:24:59.885476+00:00",
+    "engine": "codex"
+  },
+  "image_3f11a250756a5e.png": {
+    "classification": "formula",
+    "latex": "\\sigma_D=\\sigma_A^2",
+    "note": "標準差與變異數符號公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_D=\\\\sigma_A^2\",\"note\":\"標準差與變異數符號公式\"}\n",
+    "ts": "2026-04-29T06:25:00.945212+00:00",
+    "engine": "codex"
+  },
+  "image_41bb512ef95320.png": {
+    "classification": "formula",
+    "latex": "23",
+    "note": "純數字題號或數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"23\",\"note\":\"純數字題號或數值\"}\n",
+    "ts": "2026-04-29T06:25:05.137854+00:00",
+    "engine": "codex"
+  },
+  "image_424edd01170e75.png": {
+    "classification": "formula",
+    "latex": "\\frac{n_1}{n_1+n_2}",
+    "note": "分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{n_1}{n_1+n_2}\",\"note\":\"分式\"}\n",
+    "ts": "2026-04-29T06:25:05.644428+00:00",
+    "engine": "codex"
+  },
+  "image_46a66d93f31779.png": {
+    "classification": "formula",
+    "latex": "154\\sim 163",
+    "note": "頁碼範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"154\\\\sim 163\",\"note\":\"頁碼範圍\"}\n",
+    "ts": "2026-04-29T06:25:06.750534+00:00",
+    "engine": "codex"
+  },
+  "image_45f6d4144372a8.png": {
+    "classification": "formula",
+    "latex": "M_z=\\frac{\\text{第10次分數}+\\text{第11次分數}}{2}=\\frac{8+9}{2}=8.5",
+    "note": "中位數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_z=\\\\frac{\\\\text{第10次分數}+\\\\text{第11次分數}}{2}=\\\\frac{8+9}{2}=8.5\",\"note\":\"中位數計算公式\"}\n",
+    "ts": "2026-04-29T06:25:07.294821+00:00",
+    "engine": "codex"
+  },
+  "image_4998d225099779.png": {
+    "classification": "formula",
+    "latex": "6.10",
+    "note": "純數字小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6.10\",\"note\":\"純數字小數\"}\n",
+    "ts": "2026-04-29T06:25:12.878361+00:00",
+    "engine": "codex"
+  },
+  "image_4bf3ae6ea124b8.png": {
+    "classification": "formula",
+    "latex": "\\frac{30\\times54+20\\times a}{30+20}=62",
+    "note": "加權平均方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{30\\\\times54+20\\\\times a}{30+20}=62\",\"note\":\"加權平均方程式\"}\n",
+    "ts": "2026-04-29T06:25:14.446896+00:00",
+    "engine": "codex"
+  },
+  "image_4bb88bcf4b58f1.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "數字5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"數字5\"}\n",
+    "ts": "2026-04-29T06:25:16.650100+00:00",
+    "engine": "codex"
+  },
+  "image_49860fd87de287.png": {
+    "classification": "formula",
+    "latex": "\\sigma_D > \\sigma_A",
+    "note": "不等式：σ_D 大於 σ_A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_D > \\\\sigma_A\",\"note\":\"不等式：σ_D 大於 σ_A\"}\n",
+    "ts": "2026-04-29T06:25:19.027185+00:00",
+    "engine": "codex"
+  },
+  "image_4c4a813005a66d.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:25:21.077709+00:00",
+    "engine": "codex"
+  },
+  "image_4cb4ebb2644c34.png": {
+    "classification": "formula",
+    "latex": "M_{\\text{甲}}",
+    "note": "變數M，中文下標甲",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{\\\\text{甲}}\",\"note\":\"變數M，中文下標甲\"}\n",
+    "ts": "2026-04-29T06:25:22.388073+00:00",
+    "engine": "codex"
+  },
+  "image_4dbbb08ce24c0b.png": {
+    "classification": "formula",
+    "latex": "D:1",
+    "note": "比例式或標籤 D:1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D:1\",\"note\":\"比例式或標籤 D:1\"}\n",
+    "ts": "2026-04-29T06:25:24.778276+00:00",
+    "engine": "codex"
+  },
+  "image_4fb0b17eff999d.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:25:25.886893+00:00",
+    "engine": "codex"
+  },
+  "image_501de403c08124.png": {
+    "classification": "formula",
+    "latex": "x_1",
+    "note": "變數 x 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_1\",\"note\":\"變數 x 下標 1\"}\n",
+    "ts": "2026-04-29T06:25:27.837247+00:00",
+    "engine": "codex"
+  },
+  "image_552ce2154f6c54.png": {
+    "classification": "formula",
+    "latex": "i=1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"i=1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T06:25:31.094425+00:00",
+    "engine": "codex"
+  },
+  "image_4ffb36d03c0718.png": {
+    "classification": "formula",
+    "latex": "20\\%",
+    "note": "百分比數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"20\\\\%\",\"note\":\"百分比數值\"}\n",
+    "ts": "2026-04-29T06:25:33.009385+00:00",
+    "engine": "codex"
+  },
+  "image_582378c9a8566f.png": {
+    "classification": "formula",
+    "latex": "n_2r_2",
+    "note": "兩個帶下標2的變數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n_2r_2\",\"note\":\"兩個帶下標2的變數相乘\"}\n",
+    "ts": "2026-04-29T06:25:33.892958+00:00",
+    "engine": "codex"
+  },
+  "image_5b89d50d8528a2.png": {
+    "classification": "formula",
+    "latex": "\\cdots",
+    "note": "水平三點省略號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cdots\",\"note\":\"水平三點省略號\"}\n",
+    "ts": "2026-04-29T06:25:38.850166+00:00",
+    "engine": "codex"
+  },
+  "image_5aa238f5e3df6f.png": {
+    "classification": "formula",
+    "latex": "\\mu_{\\text{丙}}",
+    "note": "μ with subscript 丙",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_{\\\\text{丙}}\",\"note\":\"μ with subscript 丙\"}\n",
+    "ts": "2026-04-29T06:25:38.890994+00:00",
+    "engine": "codex"
+  },
+  "image_5cc47c21e7bc81.png": {
+    "classification": "formula",
+    "latex": "0.2164",
+    "note": "小數數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.2164\",\"note\":\"小數數值\"}\n",
+    "ts": "2026-04-29T06:25:38.937674+00:00",
+    "engine": "codex"
+  },
+  "image_5b01f98a3b2960.png": {
+    "classification": "formula",
+    "latex": "=154.94",
+    "note": "純數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=154.94\",\"note\":\"純數值等式\"}\n",
+    "ts": "2026-04-29T06:25:39.991949+00:00",
+    "engine": "codex"
+  },
+  "image_5ff6b80db396c7.png": {
+    "classification": "formula",
+    "latex": "150",
+    "note": "數字150",
+    "raw": "{\"class\":\"formula\",\"latex\":\"150\",\"note\":\"數字150\"}\n",
+    "ts": "2026-04-29T06:25:44.922496+00:00",
+    "engine": "codex"
+  },
+  "image_6343862d1f16f1.png": {
+    "classification": "formula",
+    "latex": "200",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"200\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:25:45.035507+00:00",
+    "engine": "codex"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字9\"}\n",
+    "ts": "2026-04-29T06:25:45.073012+00:00",
+    "engine": "codex"
+  },
+  "image_61f53e31b51f96.png": {
+    "classification": "formula",
+    "latex": "\\sigma_C=\\sigma_A",
+    "note": "希臘字母σ的下標等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_C=\\\\sigma_A\",\"note\":\"希臘字母σ的下標等式\"}\n",
+    "ts": "2026-04-29T06:25:52.019502+00:00",
+    "engine": "codex"
+  },
+  "image_642b5ddfb0cce3.png": {
+    "classification": "formula",
+    "latex": "25.4",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"25.4\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T06:25:52.042361+00:00",
+    "engine": "codex"
+  },
+  "image_65476fbb5b7693.png": {
+    "classification": "formula",
+    "latex": "\\mu_{\\text{丙}}=\\frac{1}{20}\\times(4\\times7+6\\times8+6\\times9+4\\times10)=\\frac{170}{20}=\\frac{17}{2}=8.5",
+    "note": "加權平均數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_{\\\\text{丙}}=\\\\frac{1}{20}\\\\times(4\\\\times7+6\\\\times8+6\\\\times9+4\\\\times10)=\\\\frac{170}{20}=\\\\frac{17}{2}=8.5\",\"note\":\"加權平均數計算式\"}\n",
+    "ts": "2026-04-29T06:25:52.574822+00:00",
+    "engine": "codex"
+  },
+  "image_6526e17e4adcec.png": {
+    "classification": "formula",
+    "latex": "\\sigma_D",
+    "note": "希臘字母 sigma 下標 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_D\",\"note\":\"希臘字母 sigma 下標 D\"}\n",
+    "ts": "2026-04-29T06:25:54.648678+00:00",
+    "engine": "codex"
+  },
+  "image_6d0bde30e370e4.png": {
+    "classification": "formula",
+    "latex": "500",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"500\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:25:57.423108+00:00",
+    "engine": "codex"
+  },
+  "image_6fbd79017c19dd.png": {
+    "classification": "formula",
+    "latex": "500",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"500\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:25:57.475539+00:00",
+    "engine": "codex"
+  },
+  "image_6ad2485fff42c2.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{7}",
+    "note": "分數二分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{7}\",\"note\":\"分數二分之七\"}\n",
+    "ts": "2026-04-29T06:25:59.533789+00:00",
+    "engine": "codex"
+  },
+  "image_722f51495a1867.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "單一數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"單一數字9\"}\n",
+    "ts": "2026-04-29T06:26:01.717801+00:00",
+    "engine": "codex"
+  },
+  "image_734a99a577999a.png": {
+    "classification": "formula",
+    "latex": "\\le 3",
+    "note": "小於或等於 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\le 3\",\"note\":\"小於或等於 3\"}\n",
+    "ts": "2026-04-29T06:30:26.972781+00:00"
+  },
+  "image_74cb8eb8730732.png": {
+    "classification": "formula",
+    "latex": "\\sigma_D=\\sqrt{74.8}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_D=\\\\sqrt{74.8}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:35:45.862176+00:00",
+    "engine": "codex"
+  },
+  "image_72f2bcb8297d4a.png": {
+    "classification": "formula",
+    "latex": "r_1 \\ne r_2",
+    "note": "兩個半徑不相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_1 \\\\ne r_2\",\"note\":\"兩個半徑不相等\"}\n",
+    "ts": "2026-04-29T06:26:04.410972+00:00",
+    "engine": "codex"
+  },
+  "image_72a0ce7d3cc647.png": {
+    "classification": "formula",
+    "latex": "7",
+    "note": "數字7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7\",\"note\":\"數字7\"}\n",
+    "ts": "2026-04-29T06:26:04.527420+00:00",
+    "engine": "codex"
+  },
+  "image_751a2bc6ee077c.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt[3]{0.8\\times 1.2\\times 1.8}-1=\\sqrt[3]{1.44\\times 1.2}-1",
+    "note": "立方根計算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt[3]{0.8\\\\times 1.2\\\\times 1.8}-1=\\\\sqrt[3]{1.44\\\\times 1.2}-1\",\"note\":\"立方根計算等式\"}\n",
+    "ts": "2026-04-29T06:30:57.427498+00:00"
+  },
+  "image_75ba94829fe362.png": {
+    "classification": "formula",
+    "latex": "n_1",
+    "note": "變數 n 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n_1\",\"note\":\"變數 n 下標 1\"}\n",
+    "ts": "2026-04-29T06:35:45.372482+00:00",
+    "engine": "codex"
+  },
+  "image_7974f766cbe695.png": {
+    "classification": "formula",
+    "latex": "M_{甲} < M_{乙}",
+    "note": "M_甲 < M_乙",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{甲} < M_{乙}\",\"note\":\"M_甲 < M_乙\"}\n",
+    "ts": "2026-04-29T06:32:11.425699+00:00"
+  },
+  "image_78de1a14a60493.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "數字10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"數字10\"}\n",
+    "ts": "2026-04-29T06:32:11.679332+00:00"
+  },
+  "image_77a2c0383a4238.png": {
+    "classification": "formula",
+    "latex": "0 \\le 1",
+    "note": "0 小於等於 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0 \\le 1\",\"note\":\"0 小於等於 1\"}\n",
+    "ts": "2026-04-29T06:31:51.266262+00:00"
+  },
+  "image_7c4814402e79c7.png": {
+    "classification": "formula",
+    "latex": "\\mu_{甲}",
+    "note": "μ甲",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\mu_{甲}\",\"note\":\"μ甲\"}\n",
+    "ts": "2026-04-29T06:32:52.360689+00:00"
+  },
+  "image_7a5e4cd3dd3e8d.png": {
+    "classification": "formula",
+    "latex": "10\\%",
+    "note": "10%",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\\%\",\"note\":\"10%\"}\n",
+    "ts": "2026-04-29T06:32:29.708134+00:00"
+  },
+  "image_7a5a39d885544c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt[3]{xyz}",
+    "note": "xyz的立方根",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sqrt[3]{xyz}\",\"note\":\"xyz的立方根\"}\n",
+    "ts": "2026-04-29T06:32:30.326671+00:00"
+  },
+  "image_8274d70544141f.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-29T06:33:02.670548+00:00"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "数字4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"数字4\"}\n",
+    "ts": "2026-04-29T06:32:52.348488+00:00"
+  },
+  "image_8594633d70902f.png": {
+    "classification": "formula",
+    "latex": "r_2",
+    "note": "變數 r2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_2\",\"note\":\"變數 r2\"}\n",
+    "ts": "2026-04-29T06:33:02.954741+00:00"
+  },
+  "image_86f1c4e752fd57.png": {
+    "classification": "formula",
+    "latex": "\\sigma_y = |-3|\\sigma_x = 3 \\times 3 = 9",
+    "note": "標準差線性變換計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sigma_y = |-3|\\sigma_x = 3 \\times 3 = 9\",\"note\":\"標準差線性變換計算\"}\n",
+    "ts": "2026-04-29T06:33:24.138372+00:00"
+  },
+  "image_893c31530183ab.png": {
+    "classification": "formula",
+    "latex": "\\mu_y = -3\\mu_x + 4 = (-3) \\times 10 + 4 = -26",
+    "note": "平均数的线性变换计算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\mu_y = -3\\mu_x + 4 = (-3) \\times 10 + 4 = -26\",\"note\":\"平均数的线性变换计算\"}\n",
+    "ts": "2026-04-29T06:33:48.742002+00:00"
+  },
+  "image_8627bd7c301859.png": {
+    "classification": "formula",
+    "latex": "\\sigma",
+    "note": "希臘字母 sigma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma\",\"note\":\"希臘字母 sigma\"}\n",
+    "ts": "2026-04-29T06:33:30.229589+00:00"
+  },
+  "image_8be7a5f1d7cc30.png": {
+    "classification": "formula",
+    "latex": "-32",
+    "note": "負32",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-32\",\"note\":\"負32\"}\n",
+    "ts": "2026-04-29T06:34:09.934973+00:00"
+  },
+  "image_8bca432b4ba078.png": {
+    "classification": "formula",
+    "latex": "r = \\sqrt[3]{(1 - 0.2)(1 + 0.2)(1 + 0.8)} - 1",
+    "note": "成長率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r = \\sqrt[3]{(1 - 0.2)(1 + 0.2)(1 + 0.8)} - 1\",\"note\":\"成長率計算公式\"}\n",
+    "ts": "2026-04-29T06:34:09.044770+00:00"
+  },
+  "image_8cbf50346e27c2.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字 9\"}\n",
+    "ts": "2026-04-29T06:34:28.860379+00:00"
+  },
+  "image_8e1c997e35cddc.png": {
+    "classification": "formula",
+    "latex": "= n(p - \\frac{x_1 + x_2 + \\cdots + x_n}{n})^2 + (x_1^2 + x_2^2 + \\cdots + x_n^2) - \\frac{(x_1 + x_2 + \\cdots + x_n)^2}{n}",
+    "note": "包含 n, p, x_i 的代數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= n(p - \\\\frac{x_1 + x_2 + \\\\cdots + x_n}{n})^2 + (x_1^2 + x_2^2 + \\\\cdots + x_n^2) - \\\\frac{(x_1 + x_2 + \\\\cdots + x_n)^2}{n}\",\"note\":\"包含 n, p, x_i 的代數公式\"}\n",
+    "ts": "2026-04-29T06:34:33.005683+00:00"
+  },
+  "image_8e84da30c70d7d.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{xyz}",
+    "note": "根號 xyz",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sqrt{xyz}\",\"note\":\"根號 xyz\"}\n",
+    "ts": "2026-04-29T06:34:41.126967+00:00"
+  },
+  "image_8fe47cd604d8aa.png": {
+    "classification": "formula",
+    "latex": "67.6+85.4=153",
+    "note": "加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"67.6+85.4=153\",\"note\":\"加法算式\"}\n",
+    "ts": "2026-04-29T06:34:43.262951+00:00"
+  },
+  "image_90c10d5ff74b8a.png": {
+    "classification": "formula",
+    "latex": "y_i = \\frac{x_i - \\mu}{\\sigma}",
+    "note": "數據標準化公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_i = \\frac{x_i - \\mu}{\\sigma}\",\"note\":\"數據標準化公式\"}\n",
+    "ts": "2026-04-29T06:34:58.923489+00:00"
+  },
+  "image_90b6ea640df775.png": {
+    "classification": "formula",
+    "latex": "997",
+    "note": "數字997",
+    "raw": "{\"class\":\"formula\",\"latex\":\"997\",\"note\":\"數字997\"}\n",
+    "ts": "2026-04-29T06:34:50.838389+00:00"
+  },
+  "image_90d5e03ecd5d59.png": {
+    "classification": "formula",
+    "latex": "25",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"25\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:35:45.564622+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字 2\"}\n",
+    "ts": "2026-04-29T06:32:42.354622+00:00"
+  },
+  "image_912e59f3fae7a2.png": {
+    "classification": "formula",
+    "latex": "43",
+    "note": "題號或數字 43",
+    "raw": "{\"class\":\"formula\",\"latex\":\"43\",\"note\":\"題號或數字 43\"}\n",
+    "ts": "2026-04-29T06:35:44.841310+00:00",
+    "engine": "codex"
+  },
+  "image_915fe4d93652d0.png": {
+    "classification": "formula",
+    "latex": "251",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"251\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:35:51.636399+00:00",
+    "engine": "codex"
+  },
+  "image_92eb894eddaacf.png": {
+    "classification": "formula",
+    "latex": "\\sigma_c",
+    "note": "sigma with subscript c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_c\",\"note\":\"sigma with subscript c\"}\n",
+    "ts": "2026-04-29T06:35:51.636315+00:00",
+    "engine": "codex"
+  },
+  "image_9182f8d70d84a5.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{7}",
+    "note": "分數三分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{7}\",\"note\":\"分數三分之七\"}\n",
+    "ts": "2026-04-29T06:35:51.120224+00:00",
+    "engine": "codex"
+  },
+  "image_9172bb6ec73dce.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:35:50.940762+00:00",
+    "engine": "codex"
+  },
+  "image_93f860150bb050.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-29T06:35:56.314559+00:00",
+    "engine": "codex"
+  },
+  "image_94fc4eff00e3aa.png": {
+    "classification": "formula",
+    "latex": "r_1",
+    "note": "變數 r 的下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_1\",\"note\":\"變數 r 的下標 1\"}\n",
+    "ts": "2026-04-29T06:35:56.768887+00:00",
+    "engine": "codex"
+  },
+  "image_94c3bc9bfab7c1.png": {
+    "classification": "formula",
+    "latex": "r^{0}\\%",
+    "note": "變數r的0次方百分號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r^{0}\\\\%\",\"note\":\"變數r的0次方百分號\"}\n",
+    "ts": "2026-04-29T06:35:56.063666+00:00",
+    "engine": "codex"
+  },
+  "image_96b8b8cea5dfa5.png": {
+    "classification": "formula",
+    "latex": "1000",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1000\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:35:58.708001+00:00",
+    "engine": "codex"
+  },
+  "image_98e1ac12809fa0.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:36:02.925327+00:00",
+    "engine": "codex"
+  },
+  "image_99f6bcd5aa7351.png": {
+    "classification": "formula",
+    "latex": "\\frac{5+5}{2}=5",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5+5}{2}=5\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T06:36:01.384984+00:00",
+    "engine": "codex"
+  },
+  "image_9aaedce7c88b7e.png": {
+    "classification": "formula",
+    "latex": "16",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"16\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:36:02.283565+00:00",
+    "engine": "codex"
+  },
+  "image_9d181ad14456c3.png": {
+    "classification": "formula",
+    "latex": "\\sigma^2=\\frac{1}{5}[(x_1-\\mu)^2+(x_2-\\mu)^2+(x_3-\\mu)^2+(x_4-\\mu)^2+(x_5-\\mu)^2]=0",
+    "note": "variance formula equals zero",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma^2=\\\\frac{1}{5}[(x_1-\\\\mu)^2+(x_2-\\\\mu)^2+(x_3-\\\\mu)^2+(x_4-\\\\mu)^2+(x_5-\\\\mu)^2]=0\",\"note\":\"variance formula equals zero\"}\n",
+    "ts": "2026-04-29T06:36:07.461590+00:00",
+    "engine": "codex"
+  },
+  "image_9dfe6ec0d58c6d.png": {
+    "classification": "formula",
+    "latex": "=1.2-1=0.2=20\\%",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1.2-1=0.2=20\\\\%\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T06:36:10.849303+00:00",
+    "engine": "codex"
+  },
+  "image_9eacaf65010588.png": {
+    "classification": "formula",
+    "latex": "\\leq 4",
+    "note": "不等式符號與數字4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\leq 4\",\"note\":\"不等式符號與數字4\"}\n",
+    "ts": "2026-04-29T06:36:10.670601+00:00",
+    "engine": "codex"
+  },
+  "image_9a8b8487169aa0.png": {
+    "classification": "formula",
+    "latex": "\\leq 1",
+    "note": "不等式符號小於等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\leq 1\",\"note\":\"不等式符號小於等於1\"}\n",
+    "ts": "2026-04-29T06:36:03.901769+00:00",
+    "engine": "codex"
+  },
+  "image_9f38d2abebcfc2.png": {
+    "classification": "formula",
+    "latex": "79.4-69.1=10.3",
+    "note": "小數減法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"79.4-69.1=10.3\",\"note\":\"小數減法算式\"}\n",
+    "ts": "2026-04-29T06:36:08.507859+00:00",
+    "engine": "codex"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"數字6\"}\n",
+    "ts": "2026-04-29T06:36:11.603987+00:00",
+    "engine": "codex"
+  },
+  "image_a05529b3a2ea12.png": {
+    "classification": "formula",
+    "latex": "\\sigma_A",
+    "note": "希臘字母 sigma 下標 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_A\",\"note\":\"希臘字母 sigma 下標 A\"}\n",
+    "ts": "2026-04-29T06:36:14.552203+00:00",
+    "engine": "codex"
+  },
+  "image_a0757f25ae3d88.png": {
+    "classification": "formula",
+    "latex": "165",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"165\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:36:16.405271+00:00",
+    "engine": "codex"
+  },
+  "image_a1d288398ac8bd.png": {
+    "classification": "formula",
+    "latex": "y_i=-3x_i+4",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_i=-3x_i+4\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-29T06:36:18.766815+00:00",
+    "engine": "codex"
+  },
+  "image_a1bf20790ca130.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{\\frac{12}{7}}\\le 2",
+    "note": "根號分數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{\\\\frac{12}{7}}\\\\le 2\",\"note\":\"根號分數不等式\"}\n",
+    "ts": "2026-04-29T06:36:17.393159+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字1\"}\n",
+    "ts": "2026-04-29T06:36:23.292037+00:00",
+    "engine": "codex"
+  },
+  "image_a09e7c75620808.png": {
+    "classification": "formula",
+    "latex": "B:2",
+    "note": "比例式 B 比 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B:2\",\"note\":\"比例式 B 比 2\"}\n",
+    "ts": "2026-04-29T06:36:16.934753+00:00",
+    "engine": "codex"
+  },
+  "image_a3c6a46839f32b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字8\"}\n",
+    "ts": "2026-04-29T06:36:21.161690+00:00",
+    "engine": "codex"
+  },
+  "image_a55ee0c243c6fb.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{7}",
+    "note": "分數一分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{7}\",\"note\":\"分數一分之七\"}\n",
+    "ts": "2026-04-29T06:36:22.435778+00:00",
+    "engine": "codex"
+  },
+  "image_a661e4c651757d.png": {
+    "classification": "formula",
+    "latex": "17",
+    "note": "數字17",
+    "raw": "{\"class\":\"formula\",\"latex\":\"17\",\"note\":\"數字17\"}\n",
+    "ts": "2026-04-29T06:36:24.077906+00:00",
+    "engine": "codex"
+  },
+  "image_a8c3cbff502e5e.png": {
+    "classification": "formula",
+    "latex": "163",
+    "note": "頁碼數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"163\",\"note\":\"頁碼數字\"}\n",
+    "ts": "2026-04-29T06:36:28.448042+00:00",
+    "engine": "codex"
+  },
+  "image_a92bca9ed04cf4.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:36:27.981652+00:00",
+    "engine": "codex"
+  },
+  "image_a9e8c9544c632a.png": {
+    "classification": "formula",
+    "latex": "\\sigma_D \\ne \\sigma_A^2",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_D \\\\ne \\\\sigma_A^2\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:36:32.004824+00:00",
+    "engine": "codex"
+  },
+  "image_a8e583154f3140.png": {
+    "classification": "formula",
+    "latex": "D=A^2",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D=A^2\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:36:29.111602+00:00",
+    "engine": "codex"
+  },
+  "image_ada339153768d7.png": {
+    "classification": "formula",
+    "latex": "A:1",
+    "note": "比例式 A 比 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A:1\",\"note\":\"比例式 A 比 1\"}\n",
+    "ts": "2026-04-29T06:36:32.430880+00:00",
+    "engine": "codex"
+  },
+  "image_ade224e4e0ac2f.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{7}",
+    "note": "分數五分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{7}\",\"note\":\"分數五分之七\"}\n",
+    "ts": "2026-04-29T06:36:34.904339+00:00",
+    "engine": "codex"
+  },
+  "image_ae7136b7dd8925.png": {
+    "classification": "formula",
+    "latex": "1000",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1000\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:36:35.157446+00:00",
+    "engine": "codex"
+  },
+  "image_af95e1e2014417.png": {
+    "classification": "formula",
+    "latex": "\\sigma",
+    "note": "希臘字母sigma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sigma\",\"note\":\"希臘字母sigma\"}\n",
+    "ts": "2026-04-29T06:36:37.563391+00:00",
+    "engine": "codex"
+  },
+  "image_aed770fd5e185b.png": {
+    "classification": "formula",
+    "latex": "B=2A",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=2A\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-29T06:36:37.523374+00:00",
+    "engine": "codex"
+  },
+  "image_afa200cbc5f8eb.png": {
+    "classification": "formula",
+    "latex": "x_2",
+    "note": "變數 x 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_2\",\"note\":\"變數 x 下標 2\"}\n",
+    "ts": "2026-04-29T06:36:40.236804+00:00",
+    "engine": "codex"
+  },
+  "image_afe21b262cc93d.png": {
+    "classification": "formula",
+    "latex": "x_n",
+    "note": "變數x的下標n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_n\",\"note\":\"變數x的下標n\"}\n",
+    "ts": "2026-04-29T06:36:41.710719+00:00",
+    "engine": "codex"
+  },
+  "image_b4b2ff5808eddc.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字5\"}\n",
+    "ts": "2026-04-29T06:36:42.179697+00:00",
+    "engine": "codex"
+  },
+  "image_b51c0bbfaf6c9a.png": {
+    "classification": "formula",
+    "latex": "M_{\\text{丙}}",
+    "note": "變數 M 下標丙",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{\\\\text{丙}}\",\"note\":\"變數 M 下標丙\"}\n",
+    "ts": "2026-04-29T06:36:44.553465+00:00",
+    "engine": "codex"
+  },
+  "image_baaae1fbb25167.png": {
+    "classification": "formula",
+    "latex": "=\\frac{90-83}{14}=",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{90-83}{14}=\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T06:36:46.225747+00:00",
+    "engine": "codex"
+  },
+  "image_bb5d4fcbe44cd2.png": {
+    "classification": "formula",
+    "latex": "3\\le 3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\le 3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T06:36:50.093963+00:00",
+    "engine": "codex"
+  },
+  "image_bf024b293a8397.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:36:46.407312+00:00",
+    "engine": "codex"
+  },
+  "image_bf3ee9de97b722.png": {
+    "classification": "formula",
+    "latex": "1041",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1041\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:36:49.426170+00:00",
+    "engine": "codex"
+  },
+  "image_c44e4c26adc144.png": {
+    "classification": "formula",
+    "latex": "M_Z",
+    "note": "下標變數 M_Z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_Z\",\"note\":\"下標變數 M_Z\"}\n",
+    "ts": "2026-04-29T06:36:52.328934+00:00",
+    "engine": "codex"
+  },
+  "image_c9a7918895480f.png": {
+    "classification": "formula",
+    "latex": "n",
+    "note": "單一變數 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n\",\"note\":\"單一變數 n\"}\n",
+    "ts": "2026-04-29T06:36:56.203833+00:00",
+    "engine": "codex"
+  },
+  "image_c4c29b129292bd.png": {
+    "classification": "formula",
+    "latex": "\\sigma_A=\\sqrt{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_A=\\\\sqrt{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:36:55.455491+00:00",
+    "engine": "codex"
+  },
+  "image_c195baffd2460d.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "單一數字 8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"單一數字 8\"}\n",
+    "ts": "2026-04-29T06:36:53.094337+00:00",
+    "engine": "codex"
+  },
+  "image_ca50e98e0f3446.png": {
+    "classification": "formula",
+    "latex": "55",
+    "note": "題號數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"55\",\"note\":\"題號數字\"}\n",
+    "ts": "2026-04-29T06:36:57.017004+00:00",
+    "engine": "codex"
+  },
+  "image_cc8a3afb77948e.png": {
+    "classification": "formula",
+    "latex": "\\sqrt[3]{(1-0.1)\\times(1+0.5)\\times(1+1.5)}=\\sqrt[3]{0.9\\times1.5\\times2.5}=1.5=1+0.5",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt[3]{(1-0.1)\\\\times(1+0.5)\\\\times(1+1.5)}=\\\\sqrt[3]{0.9\\\\times1.5\\\\times2.5}=1.5=1+0.5\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T06:37:00.260342+00:00",
+    "engine": "codex"
+  },
+  "image_cf63a5b8431239.png": {
+    "classification": "formula",
+    "latex": "x_i",
+    "note": "變數 x 的下標 i",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_i\",\"note\":\"變數 x 的下標 i\"}\n",
+    "ts": "2026-04-29T06:36:59.389112+00:00",
+    "engine": "codex"
+  },
+  "image_d010ec108f8625.png": {
+    "classification": "formula",
+    "latex": "38",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"38\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:37:01.748066+00:00",
+    "engine": "codex"
+  },
+  "image_d51e2561a0400d.png": {
+    "classification": "formula",
+    "latex": "\\frac{n_2}{n_1+n_2}",
+    "note": "分式：n2除以n1加n2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{n_2}{n_1+n_2}\",\"note\":\"分式：n2除以n1加n2\"}\n",
+    "ts": "2026-04-29T06:37:04.974118+00:00",
+    "engine": "codex"
+  },
+  "image_d6735aa63b7afa.png": {
+    "classification": "formula",
+    "latex": "x_n",
+    "note": "變數x的下標n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_n\",\"note\":\"變數x的下標n\"}\n",
+    "ts": "2026-04-29T06:37:06.407593+00:00",
+    "engine": "codex"
+  },
+  "image_d33cfe876c6232.png": {
+    "classification": "formula",
+    "latex": "175",
+    "note": "純數字頁碼或題號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"175\",\"note\":\"純數字頁碼或題號\"}\n",
+    "ts": "2026-04-29T06:37:02.059451+00:00",
+    "engine": "codex"
+  },
+  "image_d749f8ae07e650.png": {
+    "classification": "formula",
+    "latex": "\\le 4+",
+    "note": "不等號與數字運算符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\le 4+\",\"note\":\"不等號與數字運算符號\"}\n",
+    "ts": "2026-04-29T06:37:10.618664+00:00",
+    "engine": "codex"
+  },
+  "image_d699e930a5c544.png": {
+    "classification": "formula",
+    "latex": "M_{\\text{甲}}=M_{\\text{丙}}",
+    "note": "等式：M甲等於M丙",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M_{\\\\text{甲}}=M_{\\\\text{丙}}\",\"note\":\"等式：M甲等於M丙\"}\n",
+    "ts": "2026-04-29T06:37:08.198146+00:00",
+    "engine": "codex"
+  },
+  "image_d673ca548bfef2.png": {
+    "classification": "formula",
+    "latex": "34",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"34\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:37:08.219307+00:00",
+    "engine": "codex"
+  },
+  "image_daf7b70ba265e5.png": {
+    "classification": "formula",
+    "latex": "0.240",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.240\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T06:37:12.554812+00:00",
+    "engine": "codex"
+  },
+  "image_dd2dab1fdb7113.png": {
+    "classification": "formula",
+    "latex": "x_2",
+    "note": "變數 x 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_2\",\"note\":\"變數 x 下標 2\"}\n",
+    "ts": "2026-04-29T06:37:12.354418+00:00",
+    "engine": "codex"
+  },
+  "image_dec20a83a79c01.png": {
+    "classification": "formula",
+    "latex": "\\left(-3\\right)\\times 8+4=-20",
+    "note": "整數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-3\\\\right)\\\\times 8+4=-20\",\"note\":\"整數運算等式\"}\n",
+    "ts": "2026-04-29T06:37:18.483471+00:00",
+    "engine": "codex"
+  },
+  "image_dc75c21e7cd0b7.png": {
+    "classification": "formula",
+    "latex": "Q_2=163",
+    "note": "純數學式：Q下標2等於163",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Q_2=163\",\"note\":\"純數學式：Q下標2等於163\"}\n",
+    "ts": "2026-04-29T06:37:13.767663+00:00",
+    "engine": "codex"
+  },
+  "image_dd5237e067e455.png": {
+    "classification": "formula",
+    "latex": "C=A+995",
+    "note": "純文字數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C=A+995\",\"note\":\"純文字數學等式\"}\n",
+    "ts": "2026-04-29T06:37:20.010375+00:00",
+    "engine": "codex"
+  },
+  "image_e0651014a8d372.png": {
+    "classification": "formula",
+    "latex": "\\approx 155",
+    "note": "近似值155",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\approx 155\",\"note\":\"近似值155\"}\n",
+    "ts": "2026-04-29T06:37:24.154438+00:00",
+    "engine": "codex"
+  },
+  "image_e0e6bd02d8018b.png": {
+    "classification": "formula",
+    "latex": "nr_1",
+    "note": "純數學式：n乘r下標1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"nr_1\",\"note\":\"純數學式：n乘r下標1\"}\n",
+    "ts": "2026-04-29T06:37:19.553299+00:00",
+    "engine": "codex"
+  },
+  "image_e1b083673f9e81.png": {
+    "classification": "formula",
+    "latex": "=\\frac{60+62}{2}=61",
+    "note": "算術平均數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{60+62}{2}=61\",\"note\":\"算術平均數公式\"}\n",
+    "ts": "2026-04-29T06:37:27.846144+00:00",
+    "engine": "codex"
+  },
+  "image_e1bceb04312e6b.png": {
+    "classification": "formula",
+    "latex": "(-3)\\times 12+4=-32",
+    "note": "整數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-3)\\\\times 12+4=-32\",\"note\":\"整數運算等式\"}\n",
+    "ts": "2026-04-29T06:37:26.038485+00:00",
+    "engine": "codex"
+  },
+  "image_e257259e5b6089.png": {
+    "classification": "formula",
+    "latex": "\\mu_{\\text{甲}}=\\mu_{\\text{乙}}",
+    "note": "平均數相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_{\\\\text{甲}}=\\\\mu_{\\\\text{乙}}\",\"note\":\"平均數相等\"}\n",
+    "ts": "2026-04-29T06:37:25.346538+00:00",
+    "engine": "codex"
+  },
+  "image_e5ff3d2e321f61.png": {
+    "classification": "formula",
+    "latex": "100",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"100\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:37:27.757825+00:00",
+    "engine": "codex"
+  },
+  "image_ebc3ba400f6f96.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字1\"}\n",
+    "ts": "2026-04-29T06:37:33.136474+00:00",
+    "engine": "codex"
+  },
+  "image_eb36a811a0604f.png": {
+    "classification": "formula",
+    "latex": "\\mu_z",
+    "note": "希臘字母mu下標z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_z\",\"note\":\"希臘字母mu下標z\"}\n",
+    "ts": "2026-04-29T06:37:30.916415+00:00",
+    "engine": "codex"
+  },
+  "image_edce254e6b962b.png": {
+    "classification": "formula",
+    "latex": "67",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"67\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:37:32.418181+00:00",
+    "engine": "codex"
+  },
+  "image_ef709109eb1026.png": {
+    "classification": "formula",
+    "latex": "\\frac{n_1r_1+n_2r_2}{n_1+n_2}=\\frac{n_1}{n_1+n_2}\\times r_1+\\frac{n_2}{n_1+n_2}\\times r_2",
+    "note": "加權平均公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{n_1r_1+n_2r_2}{n_1+n_2}=\\\\frac{n_1}{n_1+n_2}\\\\times r_1+\\\\frac{n_2}{n_1+n_2}\\\\times r_2\",\"note\":\"加權平均公式\"}\n",
+    "ts": "2026-04-29T06:37:33.857894+00:00",
+    "engine": "codex"
+  },
+  "image_f07a1e123b5f8c.png": {
+    "classification": "formula",
+    "latex": "\\sigma^2",
+    "note": "希臘字母sigma的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sigma^2\",\"note\":\"希臘字母sigma的平方\"}\n",
+    "ts": "2026-04-29T06:37:34.621366+00:00",
+    "engine": "codex"
+  },
+  "image_f07d3925580e99.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字3\"}\n",
+    "ts": "2026-04-29T06:37:36.943623+00:00",
+    "engine": "codex"
+  },
+  "image_f4815ddca4a67d.png": {
+    "classification": "formula",
+    "latex": "\\mu_{\\text{丙}}=M_{\\text{丙}}",
+    "note": "純數學公式，含中文下標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_{\\\\text{丙}}=M_{\\\\text{丙}}\",\"note\":\"純數學公式，含中文下標\"}\n",
+    "ts": "2026-04-29T06:37:40.734183+00:00",
+    "engine": "codex"
+  },
+  "image_f9ffa4bb4106d4.png": {
+    "classification": "formula",
+    "latex": "-28",
+    "note": "純數字負數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-28\",\"note\":\"純數字負數\"}\n",
+    "ts": "2026-04-29T06:37:41.109520+00:00",
+    "engine": "codex"
+  },
+  "image_f421ecc17f0be4.png": {
+    "classification": "formula",
+    "latex": "250",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"250\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:37:39.365399+00:00",
+    "engine": "codex"
+  },
+  "image_fa73e035d1c399.png": {
+    "classification": "formula",
+    "latex": "\\leq 2",
+    "note": "小於等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\leq 2\",\"note\":\"小於等於2\"}\n",
+    "ts": "2026-04-29T06:37:41.980127+00:00",
+    "engine": "codex"
+  },
+  "image_f07d728b584a73.png": {
+    "classification": "formula",
+    "latex": "=\\frac{85-77}{10}=",
+    "note": "分數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{85-77}{10}=\",\"note\":\"分數算式\"}\n",
+    "ts": "2026-04-29T06:37:37.017367+00:00",
+    "engine": "codex"
+  },
+  "image_fc170dabde30ef.png": {
+    "classification": "formula",
+    "latex": "\\mu_z=\\frac{1}{20}\\times(6\\times7+4\\times8+4\\times9+6\\times10)=\\frac{170}{20}=\\frac{17}{2}=8.5",
+    "note": "平均數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\mu_z=\\frac{1}{20}\\times(6\\times7+4\\times8+4\\times9+6\\times10)=\\frac{170}{20}=\\frac{17}{2}=8.5\",\"note\":\"平均數計算公式\"}\n",
+    "ts": "2026-04-29T06:37:45.708873+00:00",
+    "engine": "codex"
+  },
+  "image_fb6c73d859d9a0.png": {
+    "classification": "formula",
+    "latex": "1.61",
+    "note": "小數數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1.61\",\"note\":\"小數數值\"}\n",
+    "ts": "2026-04-29T06:37:43.843223+00:00",
+    "engine": "codex"
+  },
+  "image_fde3b87d6b4ad8.png": {
+    "classification": "formula",
+    "latex": "20",
+    "note": "數字20",
+    "raw": "{\"class\":\"formula\",\"latex\":\"20\",\"note\":\"數字20\"}\n",
+    "ts": "2026-04-29T06:37:45.108666+00:00",
+    "engine": "codex"
+  }
+}

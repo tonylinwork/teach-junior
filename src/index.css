@@ -1,0 +1,126 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+@layer base {
+  :root {
+    /* Premium Color Palette (HSL for better harmony) */
+    --brand-primary: 250 84% 63%;   /* Indigo 600 */
+    --brand-secondary: 295 82% 57%; /* Fuchsia 500 */
+    --brand-accent: 190 90% 50%;    /* Cyan 500 */
+    
+    --bg-main: 214 32% 91%;        /* Soft slate bg */
+    --card-bg: 0 0% 100%;
+    
+    /* Advanced Claymorphism Shadows */
+    --clay-shadow-outer: 12px 12px 24px rgba(166, 180, 200, 0.4), 
+                         -12px -12px 24px rgba(255, 255, 255, 1);
+    --clay-shadow-inner: inset 4px 4px 8px rgba(166, 180, 200, 0.2), 
+                         inset -4px -4px 8px rgba(255, 255, 255, 0.8);
+    --clay-shadow-btn: 6px 6px 12px rgba(166, 180, 200, 0.3), 
+                       -6px -6px 12px rgba(255, 255, 255, 0.9);
+    --clay-shadow-btn-pressed: inset 4px 4px 8px rgba(166, 180, 200, 0.3), 
+                               inset -4px -4px 8px rgba(255, 255, 255, 0.8);
+                               
+    /* Glassmorphism Defaults */
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.5);
+    --glass-blur: blur(16px);
+  }
+
+  body {
+    background-color: hsl(var(--bg-main));
+    color: hsl(215, 25%, 27%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Font size controls */
+  :root[data-font-size="normal"] { font-size: 16px; }
+  :root[data-font-size="large"] { font-size: 18px; }
+  :root[data-font-size="extra-large"] { font-size: 20px; }
+
+  /* Premium Design Utilities */
+  .premium-clay-card {
+    background: white;
+    border-radius: 2.5rem;
+    box-shadow: var(--clay-shadow-outer);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .premium-clay-card:hover {
+    transform: translateY(-8px) scale(1.01);
+    box-shadow: 16px 16px 32px rgba(166, 180, 200, 0.5), 
+                -16px -16px 32px rgba(255, 255, 255, 1);
+  }
+
+  .clay-btn-premium {
+    @apply flex items-center justify-center font-bold transition-all active:scale-95;
+    background: white;
+    box-shadow: var(--clay-shadow-btn);
+    border-radius: 1.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+  }
+
+  .clay-btn-premium:active {
+    box-shadow: var(--clay-shadow-btn-pressed);
+  }
+
+  .glass-card {
+    background: var(--glass-bg);
+    backdrop-filter: var(--glass-blur);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 via-purple-600 to-fuchsia-600;
+  }
+
+  .inner-shadow-soft {
+    box-shadow: var(--clay-shadow-inner);
+  }
+
+  /* Custom Animations */
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+
+  .animate-float {
+    animation: float 5s ease-in-out infinite;
+  }
+
+  /* Math Content Polish */
+  .quiz-content img {
+    @apply inline-block align-middle cursor-zoom-in rounded-lg shadow-sm hover:shadow-md transition-shadow;
+    max-height: 5em;
+    margin: 0.2em !important;
+  }
+
+  .quiz-content .katex {
+    font-size: 1.2em !important;
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--bg-main));
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+  border: 3px solid hsl(var(--bg-main));
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

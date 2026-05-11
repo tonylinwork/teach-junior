@@ -1,0 +1,874 @@
+{
+  "image_0c873efb9d4dee.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}:\\overline{CD}=2:3",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}:\\\\overline{CD}=2:3\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-04-29T11:17:16.615034+00:00",
+    "engine": "codex"
+  },
+  "image_0153c2d00f3a94.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{CO}",
+    "note": "向量CO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{CO}\",\"note\":\"向量CO\"}\n",
+    "ts": "2026-04-29T11:17:17.065902+00:00",
+    "engine": "codex"
+  },
+  "image_098ef8fe53a83d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}:\\overline{CD}=1:3",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}:\\\\overline{CD}=1:3\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-04-29T11:17:18.173614+00:00",
+    "engine": "codex"
+  },
+  "image_0a6860cac39d0c.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC的記號\"}\n",
+    "ts": "2026-04-29T11:17:21.280106+00:00",
+    "engine": "codex"
+  },
+  "image_2053503e813f62.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{a}\\right|=5",
+    "note": "絕對值等於5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{a}\\\\right|=5\",\"note\":\"絕對值等於5\"}\n",
+    "ts": "2026-04-29T11:17:24.144432+00:00",
+    "engine": "codex"
+  },
+  "image_119f186d6a2b4a.png": {
+    "classification": "formula",
+    "latex": "n=1",
+    "note": "變數 n 等於 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n=1\",\"note\":\"變數 n 等於 1\"}\n",
+    "ts": "2026-04-29T11:17:26.488485+00:00",
+    "engine": "codex"
+  },
+  "image_135d0f2e096507.png": {
+    "classification": "formula",
+    "latex": "O",
+    "note": "單一數學字母 O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O\",\"note\":\"單一數學字母 O\"}\n",
+    "ts": "2026-04-29T11:17:26.893485+00:00",
+    "engine": "codex"
+  },
+  "image_2117e6176e0a12.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}+\\overline{BC}=\\overline{CD}",
+    "note": "線段長度相加公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}+\\\\overline{BC}=\\\\overline{CD}\",\"note\":\"線段長度相加公式\"}\n",
+    "ts": "2026-04-29T11:17:27.016506+00:00",
+    "engine": "codex"
+  },
+  "image_2313cf70a18ad4.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-29T11:17:30.006622+00:00",
+    "engine": "codex"
+  },
+  "image_24ce7eb31b0a1b.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}\",\"note\":\"線段BC\"}\n",
+    "ts": "2026-04-29T11:17:32.132483+00:00",
+    "engine": "codex"
+  },
+  "image_24190791e9e4a2.png": {
+    "classification": "formula",
+    "latex": "\\overline{PR}",
+    "note": "線段PR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PR}\",\"note\":\"線段PR\"}\n",
+    "ts": "2026-04-29T11:17:32.779322+00:00",
+    "engine": "codex"
+  },
+  "image_2801a7bd2053c6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}(3,4)=\\left(\\frac{3}{5},\\frac{4}{5}\\right)",
+    "note": "向量純量乘法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}(3,4)=\\\\left(\\\\frac{3}{5},\\\\frac{4}{5}\\\\right)\",\"note\":\"向量純量乘法\"}\n",
+    "ts": "2026-04-29T11:17:33.441831+00:00",
+    "engine": "codex"
+  },
+  "image_29dbd82f5e04ce.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面向量圖，標示A(-3,4)與向量a",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面向量圖，標示A(-3,4)與向量a\"}\n",
+    "ts": "2026-04-29T11:17:35.632432+00:00",
+    "engine": "codex"
+  },
+  "image_2e9588d8e1f3d3.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=m\\overrightarrow{a}+n\\overrightarrow{c}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=m\\\\overrightarrow{a}+n\\\\overrightarrow{c}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-04-29T11:17:40.120251+00:00",
+    "engine": "codex"
+  },
+  "image_2bf9dbdc6abbf9.png": {
+    "classification": "formula",
+    "latex": "\\overline{OA}\\parallel\\overline{BC}",
+    "note": "線段OA平行線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OA}\\\\parallel\\\\overline{BC}\",\"note\":\"線段OA平行線段BC\"}\n",
+    "ts": "2026-04-29T11:17:41.114446+00:00",
+    "engine": "codex"
+  },
+  "image_2eb3be65c8e7d0.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}=\\frac{1}{2}\\overrightarrow{AB}+\\frac{1}{2}\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}=\\\\frac{1}{2}\\\\overrightarrow{AB}+\\\\frac{1}{2}\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-04-29T11:17:41.207975+00:00",
+    "engine": "codex"
+  },
+  "image_2c3de2df6c8846.png": {
+    "classification": "formula",
+    "latex": "m=-\\frac{1}{3}",
+    "note": "斜率 m 等於負三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m=-\\\\frac{1}{3}\",\"note\":\"斜率 m 等於負三分之一\"}\n",
+    "ts": "2026-04-29T11:17:41.279965+00:00",
+    "engine": "codex"
+  },
+  "image_3e1864b62c4fae.png": {
+    "classification": "formula",
+    "latex": "R",
+    "note": "單一變數 R",
+    "raw": "{\"class\":\"formula\",\"latex\":\"R\",\"note\":\"單一變數 R\"}\n",
+    "ts": "2026-04-29T11:17:45.873739+00:00",
+    "engine": "codex"
+  },
+  "image_3c164768267679.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}=(3,4)",
+    "note": "向量a的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}=(3,4)\",\"note\":\"向量a的坐標表示\"}\n",
+    "ts": "2026-04-29T11:17:49.378558+00:00",
+    "engine": "codex"
+  },
+  "image_3e52055e08b208.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-04-29T11:17:50.734499+00:00",
+    "engine": "codex"
+  },
+  "image_31e413a81e12c7.png": {
+    "classification": "formula",
+    "latex": "=\\left(\\overline{OC}+\\overline{CB}\\right)-\\overline{OA}",
+    "note": "線段長度的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left(\\\\overline{OC}+\\\\overline{CB}\\\\right)-\\\\overline{OA}\",\"note\":\"線段長度的代數式\"}\n",
+    "ts": "2026-04-29T11:17:50.787024+00:00",
+    "engine": "codex"
+  },
+  "image_3803d370395b2a.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}= (1,-2)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}= (1,-2)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-04-29T11:17:52.049180+00:00",
+    "engine": "codex"
+  },
+  "image_48bfb68a06fa17.png": {
+    "classification": "formula",
+    "latex": "m=\\frac{2}{3}",
+    "note": "斜率 m 等於三分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m=\\\\frac{2}{3}\",\"note\":\"斜率 m 等於三分之二\"}\n",
+    "ts": "2026-04-29T11:17:53.654563+00:00",
+    "engine": "codex"
+  },
+  "image_4b656d9408e151.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}=\\overrightarrow{OA}=(-3,4)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}=\\\\overrightarrow{OA}=(-3,4)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-04-29T11:17:57.712661+00:00",
+    "engine": "codex"
+  },
+  "image_4cb18dc9df8f9e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-29T11:17:58.378386+00:00",
+    "engine": "codex"
+  },
+  "image_494471643a2983.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}:\\overline{BC}:\\overline{CD}",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}:\\\\overline{BC}:\\\\overline{CD}\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-04-29T11:18:00.354145+00:00",
+    "engine": "codex"
+  },
+  "image_4b7d3bc166d806.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\",\"note\":\"向量a\"}\n",
+    "ts": "2026-04-29T11:18:01.299103+00:00",
+    "engine": "codex"
+  },
+  "image_4f4e2ea5d07af5.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BA}=\\frac{1}{3}\\overrightarrow{DC}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BA}=\\\\frac{1}{3}\\\\overrightarrow{DC}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:04.442409+00:00",
+    "engine": "codex"
+  },
+  "image_4f64a6b3476610.png": {
+    "classification": "formula",
+    "latex": "\\overline{BP}:\\overline{CP}=1:2",
+    "note": "線段 BP 與 CP 的比值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BP}:\\\\overline{CP}=1:2\",\"note\":\"線段 BP 與 CP 的比值\"}\n",
+    "ts": "2026-04-29T11:18:04.864513+00:00",
+    "engine": "codex"
+  },
+  "image_4fbd0ae777ffdc.png": {
+    "classification": "formula",
+    "latex": "=1:2:3",
+    "note": "比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1:2:3\",\"note\":\"比例式\"}\n",
+    "ts": "2026-04-29T11:18:06.065730+00:00",
+    "engine": "codex"
+  },
+  "image_53d9b7e1368fc5.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AO}",
+    "note": "向量AO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AO}\",\"note\":\"向量AO\"}\n",
+    "ts": "2026-04-29T11:18:07.963079+00:00",
+    "engine": "codex"
+  },
+  "image_56c9ffe74121b7.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{RA}",
+    "note": "向量RA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{RA}\",\"note\":\"向量RA\"}\n",
+    "ts": "2026-04-29T11:18:11.874331+00:00",
+    "engine": "codex"
+  },
+  "image_554627cbb18478.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}=\\frac{2}{5}\\overrightarrow{AB}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}=\\\\frac{2}{5}\\\\overrightarrow{AB}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:12.064033+00:00",
+    "engine": "codex"
+  },
+  "image_55136684c0d395.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=\\frac{2}{3}\\overline{CD}",
+    "note": "線段長度比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=\\\\frac{2}{3}\\\\overline{CD}\",\"note\":\"線段長度比例公式\"}\n",
+    "ts": "2026-04-29T11:18:13.340701+00:00",
+    "engine": "codex"
+  },
+  "image_58380435cb5b2a.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{RC}",
+    "note": "向量RC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{RC}\",\"note\":\"向量RC\"}\n",
+    "ts": "2026-04-29T11:18:17.188532+00:00",
+    "engine": "codex"
+  },
+  "image_581445c06273a5.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=\\overrightarrow{OB}-\\overrightarrow{OA}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=\\\\overrightarrow{OB}-\\\\overrightarrow{OA}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:17.672288+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數 B\"}\n",
+    "ts": "2026-04-29T11:18:19.182938+00:00",
+    "engine": "codex"
+  },
+  "image_58761108b877b8.png": {
+    "classification": "formula",
+    "latex": "=\\overline{c}+\\frac{1}{3}\\overline{a}-\\overline{a}=-\\frac{2}{3}\\overline{a}+\\overline{c}",
+    "note": "向量代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\overline{c}+\\\\frac{1}{3}\\\\overline{a}-\\\\overline{a}=-\\\\frac{2}{3}\\\\overline{a}+\\\\overline{c}\",\"note\":\"向量代數式\"}\n",
+    "ts": "2026-04-29T11:18:20.907407+00:00",
+    "engine": "codex"
+  },
+  "image_5e7730a520668a.png": {
+    "classification": "formula",
+    "latex": "x=y=0",
+    "note": "等式：x、y皆為0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=y=0\",\"note\":\"等式：x、y皆為0\"}\n",
+    "ts": "2026-04-29T11:18:21.729364+00:00",
+    "engine": "codex"
+  },
+  "image_5f9975756ca272.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{a}=\\overrightarrow{OA}",
+    "note": "向量a等於向量OA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{a}=\\\\overrightarrow{OA}\",\"note\":\"向量a等於向量OA\"}\n",
+    "ts": "2026-04-29T11:18:26.349785+00:00",
+    "engine": "codex"
+  },
+  "image_6a2a428707f1c9.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OA}=3\\overrightarrow{CB}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OA}=3\\\\overrightarrow{CB}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:26.671810+00:00",
+    "engine": "codex"
+  },
+  "image_6782ea8c1527f6.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{CB}=\\frac{1}{3}\\overrightarrow{OA}=\\frac{1}{3}\\overrightarrow{a}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{CB}=\\\\frac{1}{3}\\\\overrightarrow{OA}=\\\\frac{1}{3}\\\\overrightarrow{a}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:26.857455+00:00",
+    "engine": "codex"
+  },
+  "image_5eaa470a424601.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{QR}=\\overrightarrow{QD}",
+    "note": "向量相等公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{QR}=\\\\overrightarrow{QD}\",\"note\":\"向量相等公式\"}\n",
+    "ts": "2026-04-29T11:18:28.070186+00:00",
+    "engine": "codex"
+  },
+  "image_70b67f7ba0677e.png": {
+    "classification": "formula",
+    "latex": "n=1",
+    "note": "變數 n 等於 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n=1\",\"note\":\"變數 n 等於 1\"}\n",
+    "ts": "2026-04-29T11:18:30.864737+00:00",
+    "engine": "codex"
+  },
+  "image_78a0fb9aba1edf.png": {
+    "classification": "formula",
+    "latex": "m<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T11:18:31.256004+00:00",
+    "engine": "codex"
+  },
+  "image_6f69837ab74a98.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{a}\\right|=\\sqrt{3^2+4^2}=5",
+    "note": "向量長度計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{a}\\\\right|=\\\\sqrt{3^2+4^2}=5\",\"note\":\"向量長度計算式\"}\n",
+    "ts": "2026-04-29T11:18:36.168524+00:00",
+    "engine": "codex"
+  },
+  "image_7982a5d175a346.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OB}=\\frac{2}{3}\\overrightarrow{OA}+\\frac{1}{3}\\overrightarrow{OC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OB}=\\\\frac{2}{3}\\\\overrightarrow{OA}+\\\\frac{1}{3}\\\\overrightarrow{OC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-04-29T11:18:36.677593+00:00",
+    "engine": "codex"
+  },
+  "image_84737e5e16bcaf.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{QR}-\\overrightarrow{OD}=\\vec{0}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{QR}-\\\\overrightarrow{OD}=\\\\vec{0}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:40.278105+00:00",
+    "engine": "codex"
+  },
+  "image_81e9ddbbd8deb7.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AD}=\\overrightarrow{AB}+\\overrightarrow{BC}+\\overrightarrow{CD}=(1,2)+(1,1)+(-2,3)=(0,6)",
+    "note": "向量加法計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AD}=\\\\overrightarrow{AB}+\\\\overrightarrow{BC}+\\\\overrightarrow{CD}=(1,2)+(1,1)+(-2,3)=(0,6)\",\"note\":\"向量加法計算式\"}\n",
+    "ts": "2026-04-29T11:18:42.789919+00:00",
+    "engine": "codex"
+  },
+  "image_86e6a363a0d649.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "向量幾何圖，含O,A,B,C與a,c標示",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"向量幾何圖，含O,A,B,C與a,c標示\"}\n",
+    "ts": "2026-04-29T11:18:42.901178+00:00",
+    "engine": "codex"
+  },
+  "image_866677aa1a955a.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{a}\\right|=\\sqrt{1^2+(-2)^2}=\\sqrt{5}",
+    "note": "向量長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{a}\\\\right|=\\\\sqrt{1^2+(-2)^2}=\\\\sqrt{5}\",\"note\":\"向量長度計算\"}\n",
+    "ts": "2026-04-29T11:18:46.120131+00:00",
+    "engine": "codex"
+  },
+  "image_917e2b40b27ee3.png": {
+    "classification": "formula",
+    "latex": "m+n=-\\frac{1}{3}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m+n=-\\\\frac{1}{3}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T11:18:48.805663+00:00",
+    "engine": "codex"
+  },
+  "image_8c1323e044f109.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}+\\overline{BC}=\\overline{AC}=\\overline{CD}",
+    "note": "線段長度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}+\\\\overline{BC}=\\\\overline{AC}=\\\\overline{CD}\",\"note\":\"線段長度等式\"}\n",
+    "ts": "2026-04-29T11:18:48.938410+00:00",
+    "engine": "codex"
+  },
+  "image_909de0ad88fcf9.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}=\\overline{AR}=\\overline{RC}",
+    "note": "線段長度相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}=\\\\overline{AR}=\\\\overline{RC}\",\"note\":\"線段長度相等\"}\n",
+    "ts": "2026-04-29T11:18:52.523476+00:00",
+    "engine": "codex"
+  },
+  "image_9544c0fb5aba29.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BO}",
+    "note": "向量BO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BO}\",\"note\":\"向量BO\"}\n",
+    "ts": "2026-04-29T11:18:53.194071+00:00",
+    "engine": "codex"
+  },
+  "image_9292cac400395d.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BA}=\\frac{1}{3}\\overrightarrow{DC}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BA}=\\\\frac{1}{3}\\\\overrightarrow{DC}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:18:54.471443+00:00",
+    "engine": "codex"
+  },
+  "image_9980452b08feb1.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T11:18:55.708703+00:00",
+    "engine": "codex"
+  },
+  "image_9c6ed8ed9af9ba.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BC}=(1,1)",
+    "note": "向量BC等於座標(1,1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BC}=(1,1)\",\"note\":\"向量BC等於座標(1,1)\"}\n",
+    "ts": "2026-04-29T11:19:00.545574+00:00",
+    "engine": "codex"
+  },
+  "image_a4a5a5e62d4844.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}=\\frac{1}{3}\\overrightarrow{AB}+\\frac{2}{3}\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}=\\\\frac{1}{3}\\\\overrightarrow{AB}+\\\\frac{2}{3}\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-04-29T11:19:00.900865+00:00",
+    "engine": "codex"
+  },
+  "image_9f3e135ed519d7.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}\",\"note\":\"線段BC\"}\n",
+    "ts": "2026-04-29T11:19:00.909523+00:00",
+    "engine": "codex"
+  },
+  "image_a562fd40d2d67c.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{3}{5},\\frac{4}{5}\\right)",
+    "note": "有序數對",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{3}{5},\\\\frac{4}{5}\\\\right)\",\"note\":\"有序數對\"}\n",
+    "ts": "2026-04-29T11:19:06.516889+00:00",
+    "engine": "codex"
+  },
+  "image_a6d44ef358df51.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標方格上的向量與標記點圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標方格上的向量與標記點圖\"}\n",
+    "ts": "2026-04-29T11:19:06.555217+00:00",
+    "engine": "codex"
+  },
+  "image_a749563d7a0aa8.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AR}",
+    "note": "向量 AR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AR}\",\"note\":\"向量 AR\"}\n",
+    "ts": "2026-04-29T11:19:07.434116+00:00",
+    "engine": "codex"
+  },
+  "image_a84cea6a4af416.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}=\\frac{1}{2}\\overline{AC}=\\overline{AR}=\\overline{RC}",
+    "note": "線段長度相等關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}=\\\\frac{1}{2}\\\\overline{AC}=\\\\overline{AR}=\\\\overline{RC}\",\"note\":\"線段長度相等關係式\"}\n",
+    "ts": "2026-04-29T11:19:12.253090+00:00",
+    "engine": "codex"
+  },
+  "image_a7e0a865c3801d.png": {
+    "classification": "formula",
+    "latex": "\\overline{a}=-\\frac{\\overline{y-b}}{x}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{a}=-\\\\frac{\\\\overline{y-b}}{x}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T11:19:13.785117+00:00",
+    "engine": "codex"
+  },
+  "image_a8775989394ff9.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OB}=\\frac{2}{3}\\overrightarrow{OA}+\\frac{1}{3}\\overrightarrow{OC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OB}=\\\\frac{2}{3}\\\\overrightarrow{OA}+\\\\frac{1}{3}\\\\overrightarrow{OC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-04-29T11:19:14.800229+00:00",
+    "engine": "codex"
+  },
+  "image_a9fad35f0a8dbc.png": {
+    "classification": "formula",
+    "latex": "\\left|\\vec{a}\\right|=\\overline{OA}=\\sqrt{(-3)^2+4^2}=5",
+    "note": "向量長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\vec{a}\\\\right|=\\\\overline{OA}=\\\\sqrt{(-3)^2+4^2}=5\",\"note\":\"向量長度公式\"}\n",
+    "ts": "2026-04-29T11:19:15.226390+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"變數 x\"}\n",
+    "ts": "2026-04-29T11:19:18.158152+00:00",
+    "engine": "codex"
+  },
+  "image_b153090c6d6b30.png": {
+    "classification": "formula",
+    "latex": "m+n=\\frac{1}{3}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m+n=\\\\frac{1}{3}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T11:19:20.520114+00:00",
+    "engine": "codex"
+  },
+  "image_b0b80c4cc5648b.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{EO}",
+    "note": "向量EO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{EO}\",\"note\":\"向量EO\"}\n",
+    "ts": "2026-04-29T11:19:22.765637+00:00",
+    "engine": "codex"
+  },
+  "image_b1beea097cf66b.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AM}=\\overrightarrow{BM}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AM}=\\\\overrightarrow{BM}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:19:23.131937+00:00",
+    "engine": "codex"
+  },
+  "image_b3dcca991b0247.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OR}=\\overrightarrow{OQ}+\\overrightarrow{OD}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OR}=\\\\overrightarrow{OQ}+\\\\overrightarrow{OD}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:19:26.017673+00:00",
+    "engine": "codex"
+  },
+  "image_b35c20284d4489.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OA}=\\vec{a}",
+    "note": "向量OA等於向量a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OA}=\\\\vec{a}\",\"note\":\"向量OA等於向量a\"}\n",
+    "ts": "2026-04-29T11:19:29.665505+00:00",
+    "engine": "codex"
+  },
+  "image_bab6ada0ecb77c.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{a}",
+    "note": "向量a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{a}\",\"note\":\"向量a\"}\n",
+    "ts": "2026-04-29T11:19:30.177386+00:00",
+    "engine": "codex"
+  },
+  "image_bb66fb9b8074cd.png": {
+    "classification": "formula",
+    "latex": "n>0",
+    "note": "不等式 n 大於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n>0\",\"note\":\"不等式 n 大於 0\"}\n",
+    "ts": "2026-04-29T11:19:31.396283+00:00",
+    "engine": "codex"
+  },
+  "image_b8522010d32c84.png": {
+    "classification": "formula",
+    "latex": "\\underline{Q}",
+    "note": "帶底線的變數 Q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\underline{Q}\",\"note\":\"帶底線的變數 Q\"}\n",
+    "ts": "2026-04-29T11:19:33.758249+00:00",
+    "engine": "codex"
+  },
+  "image_bc8cff4a85c196.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PO}",
+    "note": "向量PO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PO}\",\"note\":\"向量PO\"}\n",
+    "ts": "2026-04-29T11:19:34.834457+00:00",
+    "engine": "codex"
+  },
+  "image_bb9df17c75f591.png": {
+    "classification": "formula",
+    "latex": "x\\vec{a}+y\\vec{b}=0",
+    "note": "向量線性組合等於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\\\\vec{a}+y\\\\vec{b}=0\",\"note\":\"向量線性組合等於零\"}\n",
+    "ts": "2026-04-29T11:19:37.979732+00:00",
+    "engine": "codex"
+  },
+  "image_bfcdf2b67893a7.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PQ}",
+    "note": "向量PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PQ}\",\"note\":\"向量PQ\"}\n",
+    "ts": "2026-04-29T11:19:40.962025+00:00",
+    "engine": "codex"
+  },
+  "image_bccac66f7f4256.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}=\\frac{2}{3}\\overrightarrow{AB}+\\frac{1}{3}\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}=\\\\frac{2}{3}\\\\overrightarrow{AB}+\\\\frac{1}{3}\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-04-29T11:19:41.107934+00:00",
+    "engine": "codex"
+  },
+  "image_bdd2446f316349.png": {
+    "classification": "formula",
+    "latex": "\\overline{OR}=\\overline{PO}",
+    "note": "線段長度相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OR}=\\\\overline{PO}\",\"note\":\"線段長度相等\"}\n",
+    "ts": "2026-04-29T11:19:42.766933+00:00",
+    "engine": "codex"
+  },
+  "image_c2d1b468f088d8.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{QR}",
+    "note": "射線QR",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{QR}\",\"note\":\"射線QR\"}\n",
+    "ts": "2026-04-29T11:19:45.182938+00:00",
+    "engine": "codex"
+  },
+  "image_c8b34d489597c0.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=(1,2)",
+    "note": "線段AB向量等於座標(1,2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=(1,2)\",\"note\":\"線段AB向量等於座標(1,2)\"}\n",
+    "ts": "2026-04-29T11:19:47.440013+00:00",
+    "engine": "codex"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "單一變數 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"單一變數 D\"}\n",
+    "ts": "2026-04-29T11:19:51.327727+00:00",
+    "engine": "codex"
+  },
+  "image_d68c9920737ed2.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}:\\overline{BP}=2:3",
+    "note": "線段長度比",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}:\\\\overline{BP}=2:3\",\"note\":\"線段長度比\"}\n",
+    "ts": "2026-04-29T11:19:52.561805+00:00",
+    "engine": "codex"
+  },
+  "image_c8983eff4e4a93.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PO}+\\overrightarrow{QO}=\\overrightarrow{OR}+\\overrightarrow{QO}=\\overrightarrow{QO}+\\overrightarrow{OR}=\\overrightarrow{QR}",
+    "note": "向量加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PO}+\\\\overrightarrow{QO}=\\\\overrightarrow{OR}+\\\\overrightarrow{QO}=\\\\overrightarrow{QO}+\\\\overrightarrow{OR}=\\\\overrightarrow{QR}\",\"note\":\"向量加法等式\"}\n",
+    "ts": "2026-04-29T11:19:53.849218+00:00",
+    "engine": "codex"
+  },
+  "image_d7ab89946b2b1a.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{QQ}",
+    "note": "向量QQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{QQ}\",\"note\":\"向量QQ\"}\n",
+    "ts": "2026-04-29T11:19:55.462001+00:00",
+    "engine": "codex"
+  },
+  "image_d87e294babd6c9.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AD}=(0,6)",
+    "note": "向量AD的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AD}=(0,6)\",\"note\":\"向量AD的座標\"}\n",
+    "ts": "2026-04-29T11:19:57.118842+00:00",
+    "engine": "codex"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數 C\"}\n",
+    "ts": "2026-04-29T11:19:58.703649+00:00",
+    "engine": "codex"
+  },
+  "image_dd20211687489e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-29T11:19:59.611081+00:00",
+    "engine": "codex"
+  },
+  "image_de5452947786f6.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{DO}",
+    "note": "向量 DO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{DO}\",\"note\":\"向量 DO\"}\n",
+    "ts": "2026-04-29T11:20:00.473368+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數字母 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數字母 A\"}\n",
+    "ts": "2026-04-29T11:20:03.012309+00:00",
+    "engine": "codex"
+  },
+  "image_e6532533e04fab.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BA}=-\\frac{1}{2}\\overrightarrow{BC}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BA}=-\\\\frac{1}{2}\\\\overrightarrow{BC}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:20:05.319922+00:00",
+    "engine": "codex"
+  },
+  "image_ec31420eb94107.png": {
+    "classification": "formula",
+    "latex": "\\left(-\\frac{1}{5},\\frac{2}{5}\\right)",
+    "note": "有序數對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-\\\\frac{1}{5},\\\\frac{2}{5}\\\\right)\",\"note\":\"有序數對座標\"}\n",
+    "ts": "2026-04-29T11:20:06.483060+00:00",
+    "engine": "codex"
+  },
+  "image_ed3181a478a1a0.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=\\frac{2}{3}\\overline{CD}",
+    "note": "線段長度比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=\\\\frac{2}{3}\\\\overline{CD}\",\"note\":\"線段長度比例式\"}\n",
+    "ts": "2026-04-29T11:20:07.122299+00:00",
+    "engine": "codex"
+  },
+  "image_ed31cf365298e0.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "水平線段上標示 A、B、C、D 四點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"水平線段上標示 A、B、C、D 四點\"}\n",
+    "ts": "2026-04-29T11:20:09.292409+00:00",
+    "engine": "codex"
+  },
+  "image_ed40b6d5fa4da8.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形：梯形，頂點標示 O,A,B,C",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形：梯形，頂點標示 O,A,B,C\"}\n",
+    "ts": "2026-04-29T11:20:11.254286+00:00",
+    "engine": "codex"
+  },
+  "image_ed4ce7005703b0.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PO}+\\overrightarrow{QO}+\\overrightarrow{DO}=\\overrightarrow{QR}+\\overrightarrow{DO}=\\overrightarrow{0}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PO}+\\\\overrightarrow{QO}+\\\\overrightarrow{DO}=\\\\overrightarrow{QR}+\\\\overrightarrow{DO}=\\\\overrightarrow{0}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:20:14.749041+00:00",
+    "engine": "codex"
+  },
+  "image_efac353eb41f26.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OC}=\\overrightarrow{c}",
+    "note": "向量OC等於向量c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OC}=\\\\overrightarrow{c}\",\"note\":\"向量OC等於向量c\"}\n",
+    "ts": "2026-04-29T11:20:15.456662+00:00",
+    "engine": "codex"
+  },
+  "image_f2669e3966a042.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "Triangle ABC with points P,Q,R and interior segments",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"Triangle ABC with points P,Q,R and interior segments\"}\n",
+    "ts": "2026-04-29T11:20:15.675361+00:00",
+    "engine": "codex"
+  },
+  "image_f026c551d7036e.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\",\"note\":\"向量a\"}\n",
+    "ts": "2026-04-29T11:20:15.724442+00:00",
+    "engine": "codex"
+  },
+  "image_f662feb76722b0.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標方格上的點與折線圖形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標方格上的點與折線圖形\"}\n",
+    "ts": "2026-04-29T11:20:19.789818+00:00",
+    "engine": "codex"
+  },
+  "image_f3ea75609f805a.png": {
+    "classification": "formula",
+    "latex": "-\\frac{1}{\\sqrt{5}}(1,-2)=\\left(-\\frac{1}{\\sqrt{5}},\\frac{2}{\\sqrt{5}}\\right)",
+    "note": "向量純量乘法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\frac{1}{\\\\sqrt{5}}(1,-2)=\\\\left(-\\\\frac{1}{\\\\sqrt{5}},\\\\frac{2}{\\\\sqrt{5}}\\\\right)\",\"note\":\"向量純量乘法\"}\n",
+    "ts": "2026-04-29T11:20:22.252064+00:00",
+    "engine": "codex"
+  },
+  "image_f6f5b34a44d40e.png": {
+    "classification": "formula",
+    "latex": "\\overline{OABC}",
+    "note": "線段或多邊形記號 OABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OABC}\",\"note\":\"線段或多邊形記號 OABC\"}\n",
+    "ts": "2026-04-29T11:20:22.491368+00:00",
+    "engine": "codex"
+  },
+  "image_f7bb8a28f5ad71.png": {
+    "classification": "formula",
+    "latex": "(-3,4)",
+    "note": "有序數對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-3,4)\",\"note\":\"有序數對座標\"}\n",
+    "ts": "2026-04-29T11:20:24.760590+00:00",
+    "engine": "codex"
+  },
+  "image_f92c5f7f396227.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}\\parallel\\overline{AC}",
+    "note": "線段PQ平行線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}\\\\parallel\\\\overline{AC}\",\"note\":\"線段PQ平行線段AC\"}\n",
+    "ts": "2026-04-29T11:20:25.597116+00:00",
+    "engine": "codex"
+  },
+  "image_fa238e9771603c.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{CD}=(-2,3)",
+    "note": "向量CD的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{CD}=(-2,3)\",\"note\":\"向量CD的座標表示\"}\n",
+    "ts": "2026-04-29T11:20:29.447291+00:00",
+    "engine": "codex"
+  },
+  "image_fc99a52a5973d2.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BA}=\\frac{1}{2}\\overrightarrow{BC}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BA}=\\\\frac{1}{2}\\\\overrightarrow{BC}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-29T11:20:30.234830+00:00",
+    "engine": "codex"
+  },
+  "image_fd2b8070768b81.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}:\\overline{AB}=2:5",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}:\\\\overline{AB}=2:5\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-04-29T11:20:31.649065+00:00",
+    "engine": "codex"
+  }
+}

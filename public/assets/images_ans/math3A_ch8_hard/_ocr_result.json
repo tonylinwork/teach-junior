@@ -1,0 +1,738 @@
+{
+  "image_0a6860cac39d0c.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC的記號\"}\n",
+    "ts": "2026-05-05T10:36:42.463374+00:00",
+    "engine": "codex"
+  },
+  "image_01bbcff2aa572b.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OA}=\\frac{3}{5}\\overrightarrow{OP}+\\frac{2}{5}\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OA}=\\\\frac{3}{5}\\\\overrightarrow{OP}+\\\\frac{2}{5}\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:36:43.609166+00:00",
+    "engine": "codex"
+  },
+  "image_09320de3233e97.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AG}=t\\overrightarrow{AD}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AG}=t\\\\overrightarrow{AD}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:36:43.783633+00:00",
+    "engine": "codex"
+  },
+  "image_0e2f0e2c1cedcd.png": {
+    "classification": "formula",
+    "latex": "x \\ge 0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\ge 0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T10:36:46.052236+00:00",
+    "engine": "codex"
+  },
+  "image_0011fb95566b20.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OG}-\\overrightarrow{OA}=\\frac{1}{3}(\\overrightarrow{OB}-\\overrightarrow{OA})+\\frac{1}{3}(\\overrightarrow{OC}-\\overrightarrow{OA})",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OG}-\\\\overrightarrow{OA}=\\\\frac{1}{3}(\\\\overrightarrow{OB}-\\\\overrightarrow{OA})+\\\\frac{1}{3}(\\\\overrightarrow{OC}-\\\\overrightarrow{OA})\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:36:48.030679+00:00",
+    "engine": "codex"
+  },
+  "image_10b7d7e95675e5.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}+\\frac{2}{3}=1",
+    "note": "分數加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}+\\\\frac{2}{3}=1\",\"note\":\"分數加法等式\"}\n",
+    "ts": "2026-05-05T10:36:49.299171+00:00",
+    "engine": "codex"
+  },
+  "image_0f038b3e7de131.png": {
+    "classification": "formula",
+    "latex": "\\overline{OP}=\\frac{5}{3}\\overline{OA}-\\frac{2}{3}\\overline{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OP}=\\\\frac{5}{3}\\\\overline{OA}-\\\\frac{2}{3}\\\\overline{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:36:51.373389+00:00",
+    "engine": "codex"
+  },
+  "image_140b0f9afcf6d7.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}\",\"note\":\"線段BC\"}\n",
+    "ts": "2026-05-05T10:36:51.654632+00:00",
+    "engine": "codex"
+  },
+  "image_12c12cf443a199.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AG}=\\frac{1}{3}\\overrightarrow{AB}+\\frac{1}{3}\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AG}=\\\\frac{1}{3}\\\\overrightarrow{AB}+\\\\frac{1}{3}\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:36:51.707868+00:00",
+    "engine": "codex"
+  },
+  "image_151b69e457366b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}:\\overline{BC}:\\overline{CD}=2:3:5",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}:\\\\overline{BC}:\\\\overline{CD}=2:3:5\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-05-05T10:36:53.813477+00:00",
+    "engine": "codex"
+  },
+  "image_19c0fc302adada.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}:\\overline{BP}",
+    "note": "線段AP與線段BP的比",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}:\\\\overline{BP}\",\"note\":\"線段AP與線段BP的比\"}\n",
+    "ts": "2026-05-05T10:36:55.963029+00:00",
+    "engine": "codex"
+  },
+  "image_161415327b5f5d.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=\\frac{3}{10}\\overline{AD}",
+    "note": "線段長度比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=\\\\frac{3}{10}\\\\overline{AD}\",\"note\":\"線段長度比例公式\"}\n",
+    "ts": "2026-05-05T10:36:56.757592+00:00",
+    "engine": "codex"
+  },
+  "image_1ffb1666d53681.png": {
+    "classification": "formula",
+    "latex": "=t\\left(\\overline{AF}+\\frac{1}{2}\\overline{AC}\\right)",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=t\\\\left(\\\\overline{AF}+\\\\frac{1}{2}\\\\overline{AC}\\\\right)\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-05T10:36:59.290123+00:00",
+    "engine": "codex"
+  },
+  "image_1fbca51434a694.png": {
+    "classification": "formula",
+    "latex": "\\overline{AG}:\\overline{GD}=2:1",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AG}:\\\\overline{GD}=2:1\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-05-05T10:37:00.663636+00:00",
+    "engine": "codex"
+  },
+  "image_2577975cd926ac.png": {
+    "classification": "formula",
+    "latex": "y \\ge 0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y \\\\ge 0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T10:37:00.944068+00:00",
+    "engine": "codex"
+  },
+  "image_227aefea628fa8.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{5}\\overline{AN}=\\frac{1}{3}\\left(k\\overline{AP}\\right)+\\frac{1}{3}\\overline{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{5}\\\\overline{AN}=\\\\frac{1}{3}\\\\left(k\\\\overline{AP}\\\\right)+\\\\frac{1}{3}\\\\overline{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:37:03.167012+00:00",
+    "engine": "codex"
+  },
+  "image_30b4c33cf5830d.png": {
+    "classification": "formula",
+    "latex": "t\\in\\mathbb{R}",
+    "note": "實數參數 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\\\\in\\\\mathbb{R}\",\"note\":\"實數參數 t\"}\n",
+    "ts": "2026-05-05T10:37:06.040916+00:00",
+    "engine": "codex"
+  },
+  "image_2ba73c1f7a2f66.png": {
+    "classification": "formula",
+    "latex": "k=\\frac{7}{5}",
+    "note": "比例常數k等於七分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k=\\\\frac{7}{5}\",\"note\":\"比例常數k等於七分之五\"}\n",
+    "ts": "2026-05-05T10:37:06.075617+00:00",
+    "engine": "codex"
+  },
+  "image_302f2c9224ddcc.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{4}",
+    "note": "分數七分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7}{4}\",\"note\":\"分數七分之四\"}\n",
+    "ts": "2026-05-05T10:37:06.344578+00:00",
+    "engine": "codex"
+  },
+  "image_38b73ffd9b24ae.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{2}",
+    "note": "分數五分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{2}\",\"note\":\"分數五分之二\"}\n",
+    "ts": "2026-05-05T10:37:10.436750+00:00",
+    "engine": "codex"
+  },
+  "image_3158bba253dad0.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PC}=\\frac{1}{2}\\overrightarrow{PA}+\\frac{1}{2}\\overrightarrow{PD}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PC}=\\\\frac{1}{2}\\\\overrightarrow{PA}+\\\\frac{1}{2}\\\\overrightarrow{PD}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:37:11.401449+00:00",
+    "engine": "codex"
+  },
+  "image_3e52055e08b208.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-05-05T10:37:12.067103+00:00",
+    "engine": "codex"
+  },
+  "image_328252f5057c84.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OA}=\\dfrac{5}{3}\\overrightarrow{OP}-\\dfrac{2}{3}\\overrightarrow{OB}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OA}=\\\\dfrac{5}{3}\\\\overrightarrow{OP}-\\\\dfrac{2}{3}\\\\overrightarrow{OB}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:37:12.092113+00:00",
+    "engine": "codex"
+  },
+  "image_4f270b5cbe15ad.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數 C\"}\n",
+    "ts": "2026-05-05T10:37:16.048975+00:00",
+    "engine": "codex"
+  },
+  "image_41e3dccd8cf497.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{CD}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}+\\\\overrightarrow{BC}=\\\\overrightarrow{CD}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:37:18.200426+00:00",
+    "engine": "codex"
+  },
+  "image_4c3a369b42ad38.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{7}+\\frac{5}{7}=1",
+    "note": "分數加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{7}+\\\\frac{5}{7}=1\",\"note\":\"分數加法等式\"}\n",
+    "ts": "2026-05-05T10:37:18.916385+00:00",
+    "engine": "codex"
+  },
+  "image_450bd720c489bf.png": {
+    "classification": "formula",
+    "latex": "\\frac{5k}{12}+\\frac{5}{12}=1",
+    "note": "一元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5k}{12}+\\\\frac{5}{12}=1\",\"note\":\"一元一次方程式\"}\n",
+    "ts": "2026-05-05T10:37:19.353325+00:00",
+    "engine": "codex"
+  },
+  "image_54b11b2f965d36.png": {
+    "classification": "formula",
+    "latex": "N",
+    "note": "單一變數N",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N\",\"note\":\"單一變數N\"}\n",
+    "ts": "2026-05-05T10:37:19.894338+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數字母B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數字母B\"}\n",
+    "ts": "2026-05-05T10:37:23.184876+00:00",
+    "engine": "codex"
+  },
+  "image_558ab854f62709.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{AC}=\\overrightarrow{CD}",
+    "note": "向量加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}+\\\\overrightarrow{BC}=\\\\overrightarrow{AC}=\\\\overrightarrow{CD}\",\"note\":\"向量加法等式\"}\n",
+    "ts": "2026-05-05T10:37:23.834949+00:00",
+    "engine": "codex"
+  },
+  "image_59faed7ec6e82f.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{4}+\\frac{1}{4}=1",
+    "note": "分數加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{4}+\\\\frac{1}{4}=1\",\"note\":\"分數加法算式\"}\n",
+    "ts": "2026-05-05T10:37:23.963501+00:00",
+    "engine": "codex"
+  },
+  "image_55c4e6385e80fc.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{CA}=-\\overrightarrow{CD}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{CA}=-\\\\overrightarrow{CD}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:37:24.471177+00:00",
+    "engine": "codex"
+  },
+  "image_68ed8971e8d76b.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}:\\overline{CD}=1:1",
+    "note": "線段比相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}:\\\\overline{CD}=1:1\",\"note\":\"線段比相等\"}\n",
+    "ts": "2026-05-05T10:37:29.542741+00:00",
+    "engine": "codex"
+  },
+  "image_640b293f91aadf.png": {
+    "classification": "formula",
+    "latex": "C\\text{、}N\\text{、}P",
+    "note": "三個字母以頓號分隔",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\\\\text{、}N\\\\text{、}P\",\"note\":\"三個字母以頓號分隔\"}\n",
+    "ts": "2026-05-05T10:37:29.698008+00:00",
+    "engine": "codex"
+  },
+  "image_5b1e2a41ae2178.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PB}=\\frac{3}{5}\\overrightarrow{PA}+\\frac{2}{5}\\overrightarrow{PC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PB}=\\\\frac{3}{5}\\\\overrightarrow{PA}+\\\\frac{2}{5}\\\\overrightarrow{PC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:37:30.177868+00:00",
+    "engine": "codex"
+  },
+  "image_64150b074c6073.png": {
+    "classification": "formula",
+    "latex": "2\\overrightarrow{OA}+5\\overrightarrow{OB}-7\\overrightarrow{OP}=0",
+    "note": "向量線性關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\overrightarrow{OA}+5\\\\overrightarrow{OB}-7\\\\overrightarrow{OP}=0\",\"note\":\"向量線性關係式\"}\n",
+    "ts": "2026-05-05T10:37:30.962501+00:00",
+    "engine": "codex"
+  },
+  "image_6b668c9b673922.png": {
+    "classification": "formula",
+    "latex": "t+\\frac{1}{2}t=1",
+    "note": "一元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t+\\\\frac{1}{2}t=1\",\"note\":\"一元一次方程式\"}\n",
+    "ts": "2026-05-05T10:37:34.747010+00:00",
+    "engine": "codex"
+  },
+  "image_6adcf0cdd087fa.png": {
+    "classification": "formula",
+    "latex": "\\overline{CA}=\\overline{CD}",
+    "note": "線段CA等於線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CA}=\\\\overline{CD}\",\"note\":\"線段CA等於線段CD\"}\n",
+    "ts": "2026-05-05T10:37:35.453874+00:00",
+    "engine": "codex"
+  },
+  "image_6c04bbcc58fa79.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{3}\\overrightarrow{OP}=\\overrightarrow{OA}+\\frac{2}{3}\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{3}\\\\overrightarrow{OP}=\\\\overrightarrow{OA}+\\\\frac{2}{3}\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:37:36.470402+00:00",
+    "engine": "codex"
+  },
+  "image_6c8a83c78f70ba.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OA}=\\frac{5}{3}\\overrightarrow{OP}-\\frac{2}{3}\\overrightarrow{OB}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OA}=\\\\frac{5}{3}\\\\overrightarrow{OP}-\\\\frac{2}{3}\\\\overrightarrow{OB}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:37:36.952252+00:00",
+    "engine": "codex"
+  },
+  "image_7394019b91f29b.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，三角形含點O,B,A,P與邊長3、1",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，三角形含點O,B,A,P與邊長3、1\"}\n",
+    "ts": "2026-05-05T10:37:40.362842+00:00",
+    "engine": "codex"
+  },
+  "image_7cb1f0f601ef77.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何線段圖，含點A,B,C,D,P與長度標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何線段圖，含點A,B,C,D,P與長度標示\"}\n",
+    "ts": "2026-05-05T10:37:41.476406+00:00",
+    "engine": "codex"
+  },
+  "image_6fcbaeade9e915.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{CA}\\right|=\\left|\\overrightarrow{CD}\\right|",
+    "note": "向量CA與CD的長度相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{CA}\\\\right|=\\\\left|\\\\overrightarrow{CD}\\\\right|\",\"note\":\"向量CA與CD的長度相等\"}\n",
+    "ts": "2026-05-05T10:37:42.761141+00:00",
+    "engine": "codex"
+  },
+  "image_7cd1ff5dbcb4e0.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何三角形示意圖，含點B,A,P,O與線段標示3,2",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何三角形示意圖，含點B,A,P,O與線段標示3,2\"}\n",
+    "ts": "2026-05-05T10:37:43.233297+00:00",
+    "engine": "codex"
+  },
+  "image_7e581bf7cdc94c.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=\\frac{7}{5}\\overline{AP}",
+    "note": "線段長度比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=\\\\frac{7}{5}\\\\overline{AP}\",\"note\":\"線段長度比例式\"}\n",
+    "ts": "2026-05-05T10:37:46.632766+00:00",
+    "engine": "codex"
+  },
+  "image_83293e8f5a787e.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overline{BC}\\right|=\\frac{3}{10}\\left|\\overline{AD}\\right|",
+    "note": "線段長度比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overline{BC}\\\\right|=\\\\frac{3}{10}\\\\left|\\\\overline{AD}\\\\right|\",\"note\":\"線段長度比例式\"}\n",
+    "ts": "2026-05-05T10:37:47.084511+00:00",
+    "engine": "codex"
+  },
+  "image_88ae452dc2f346.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何三角形圖，含點O,A,P,B與標示1,2",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何三角形圖，含點O,A,P,B與標示1,2\"}\n",
+    "ts": "2026-05-05T10:37:49.773881+00:00",
+    "engine": "codex"
+  },
+  "image_8a8189a0ae2d8a.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OP}=\\frac{3}{5}\\overrightarrow{OA}+\\frac{2}{5}\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OP}=\\\\frac{3}{5}\\\\overrightarrow{OA}+\\\\frac{2}{5}\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:37:50.041472+00:00",
+    "engine": "codex"
+  },
+  "image_8dbacb5aa401c0.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何線段圖，含點A,B,C,D,E,F,G標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何線段圖，含點A,B,C,D,E,F,G標記\"}\n",
+    "ts": "2026-05-05T10:37:51.043856+00:00",
+    "engine": "codex"
+  },
+  "image_8f6739cc1efa17.png": {
+    "classification": "formula",
+    "latex": "\\overline{AG}=\\frac{2}{3}\\overline{AD}=\\frac{1}{3}\\overline{AB}+\\frac{1}{3}\\overline{AC}",
+    "note": "向量線段比例等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AG}=\\\\frac{2}{3}\\\\overline{AD}=\\\\frac{1}{3}\\\\overline{AB}+\\\\frac{1}{3}\\\\overline{AC}\",\"note\":\"向量線段比例等式\"}\n",
+    "ts": "2026-05-05T10:37:53.788254+00:00",
+    "engine": "codex"
+  },
+  "image_90d9c23482d35e.png": {
+    "classification": "formula",
+    "latex": "t=\\frac{2}{3}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=\\\\frac{2}{3}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-05T10:37:53.984382+00:00",
+    "engine": "codex"
+  },
+  "image_97b26fa7f8e89b.png": {
+    "classification": "formula",
+    "latex": "=t\\overrightarrow{AF}+\\frac{1}{2}t\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=t\\\\overrightarrow{AF}+\\\\frac{1}{2}t\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:37:56.485836+00:00",
+    "engine": "codex"
+  },
+  "image_9ce38e7e9901be.png": {
+    "classification": "formula",
+    "latex": "\\overline{AG}=\\frac{2}{3}\\overline{AD}",
+    "note": "線段長度比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AG}=\\\\frac{2}{3}\\\\overline{AD}\",\"note\":\"線段長度比例公式\"}\n",
+    "ts": "2026-05-05T10:37:57.462493+00:00",
+    "engine": "codex"
+  },
+  "image_9de7af9f1ebfda.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AG}=\\frac{4}{5}\\overrightarrow{AN}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AG}=\\\\frac{4}{5}\\\\overrightarrow{AN}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:37:59.387518+00:00",
+    "engine": "codex"
+  },
+  "image_a2ba27c826d022.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OP}=\\frac{1}{3}\\overrightarrow{OA}+\\frac{2}{3}\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OP}=\\\\frac{1}{3}\\\\overrightarrow{OA}+\\\\frac{2}{3}\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:00.774309+00:00",
+    "engine": "codex"
+  },
+  "image_ac1efb948b41ce.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形：三角形內含線段與標記點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形：三角形內含線段與標記點\"}\n",
+    "ts": "2026-05-05T10:38:03.071097+00:00",
+    "engine": "codex"
+  },
+  "image_ac5f20a6e45c9a.png": {
+    "classification": "formula",
+    "latex": "x+y=1",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+y=1\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-05T10:38:03.605257+00:00",
+    "engine": "codex"
+  },
+  "image_a5efc759acfd06.png": {
+    "classification": "formula",
+    "latex": "2\\overrightarrow{OA}+5\\overrightarrow{OB}-7\\overrightarrow{OP}=\\vec{0}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\overrightarrow{OA}+5\\\\overrightarrow{OB}-7\\\\overrightarrow{OP}=\\\\vec{0}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:38:04.218620+00:00",
+    "engine": "codex"
+  },
+  "image_afc1ea2b78e809.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{2}t=1",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{2}t=1\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-05T10:38:07.214797+00:00",
+    "engine": "codex"
+  },
+  "image_b5b43e0bf5e77a.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "triangle ABC notation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"triangle ABC notation\"}\n",
+    "ts": "2026-05-05T10:38:09.019233+00:00",
+    "engine": "codex"
+  },
+  "image_b4b8bbe91919d6.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OP}=x\\overrightarrow{OA}+y\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OP}=x\\\\overrightarrow{OA}+y\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:10.095057+00:00",
+    "engine": "codex"
+  },
+  "image_b357438cb0f090.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OG}=\\frac{1}{3}\\overrightarrow{OA}+\\frac{1}{3}\\overrightarrow{OB}+\\frac{1}{3}\\overrightarrow{OC}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OG}=\\\\frac{1}{3}\\\\overrightarrow{OA}+\\\\frac{1}{3}\\\\overrightarrow{OB}+\\\\frac{1}{3}\\\\overrightarrow{OC}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:38:10.526456+00:00",
+    "engine": "codex"
+  },
+  "image_bc3db0905139e8.png": {
+    "classification": "formula",
+    "latex": "\\overline{AG}:\\overline{AD}=2:3",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AG}:\\\\overline{AD}=2:3\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-05-05T10:38:12.263290+00:00",
+    "engine": "codex"
+  },
+  "image_c19d2b773dac7e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}",
+    "note": "線段AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}\",\"note\":\"線段AD\"}\n",
+    "ts": "2026-05-05T10:38:14.904201+00:00",
+    "engine": "codex"
+  },
+  "image_bdaba0a699ff2f.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PA}=\\frac{5}{3}\\overrightarrow{PB}-\\frac{2}{3}\\overrightarrow{PC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PA}=\\\\frac{5}{3}\\\\overrightarrow{PB}-\\\\frac{2}{3}\\\\overrightarrow{PC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:15.619177+00:00",
+    "engine": "codex"
+  },
+  "image_c1fbf2eb750ace.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OP}=\\frac{2}{7}\\overrightarrow{OA}+\\frac{5}{7}\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OP}=\\\\frac{2}{7}\\\\overrightarrow{OA}+\\\\frac{5}{7}\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:15.884422+00:00",
+    "engine": "codex"
+  },
+  "image_c773ca1e876eda.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}:\\overline{DC}=1:1",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}:\\\\overline{DC}=1:1\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-05-05T10:38:16.873044+00:00",
+    "engine": "codex"
+  },
+  "image_c9cde970ab0135.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{3}",
+    "note": "分數五分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{3}\",\"note\":\"分數五分之三\"}\n",
+    "ts": "2026-05-05T10:38:20.050621+00:00",
+    "engine": "codex"
+  },
+  "image_cb0bb75fc2058b.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{2}",
+    "note": "分數七分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7}{2}\",\"note\":\"分數七分之二\"}\n",
+    "ts": "2026-05-05T10:38:20.072312+00:00",
+    "engine": "codex"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "單一變數 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"單一變數 D\"}\n",
+    "ts": "2026-05-05T10:38:20.583787+00:00",
+    "engine": "codex"
+  },
+  "image_ccd1fc26258650.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AD}=\\frac{1}{2}\\overrightarrow{AB}+\\frac{1}{2}\\overrightarrow{AC}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AD}=\\\\frac{1}{2}\\\\overrightarrow{AB}+\\\\frac{1}{2}\\\\overrightarrow{AC}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:23.522881+00:00",
+    "engine": "codex"
+  },
+  "image_d63922f40450f0.png": {
+    "classification": "formula",
+    "latex": "F",
+    "note": "單一變數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"F\",\"note\":\"單一變數符號\"}\n",
+    "ts": "2026-05-05T10:38:24.485530+00:00",
+    "engine": "codex"
+  },
+  "image_d57097602633d0.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=k\\overrightarrow{AP}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=k\\\\overrightarrow{AP}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:38:24.873871+00:00",
+    "engine": "codex"
+  },
+  "image_ccdaedaa686d6b.png": {
+    "classification": "formula",
+    "latex": "\\overline{CP}",
+    "note": "線段CP",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CP}\",\"note\":\"線段CP\"}\n",
+    "ts": "2026-05-05T10:38:25.460697+00:00",
+    "engine": "codex"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數字母 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數字母 C\"}\n",
+    "ts": "2026-05-05T10:38:28.900046+00:00",
+    "engine": "codex"
+  },
+  "image_dd20211687489e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-05-05T10:38:28.953677+00:00",
+    "engine": "codex"
+  },
+  "image_e3337adbb12261.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OP}=\\frac{5}{3}\\overrightarrow{OA}-\\frac{2}{3}\\overrightarrow{OB}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OP}=\\\\frac{5}{3}\\\\overrightarrow{OA}-\\\\frac{2}{3}\\\\overrightarrow{OB}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:31.823602+00:00",
+    "engine": "codex"
+  },
+  "image_da7760ee14bcc2.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}+\\frac{2}{5}=1",
+    "note": "分數加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}+\\\\frac{2}{5}=1\",\"note\":\"分數加法算式\"}\n",
+    "ts": "2026-05-05T10:38:33.868160+00:00",
+    "engine": "codex"
+  },
+  "image_e51a506d0ffa32.png": {
+    "classification": "formula",
+    "latex": "O",
+    "note": "單一斜體字母O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O\",\"note\":\"單一斜體字母O\"}\n",
+    "ts": "2026-05-05T10:38:34.007393+00:00",
+    "engine": "codex"
+  },
+  "image_e73e1f5baafc87.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AG}=t\\left(\\frac{1}{2}\\overrightarrow{AB}+\\frac{1}{2}\\overrightarrow{AC}\\right)",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AG}=t\\\\left(\\\\frac{1}{2}\\\\overrightarrow{AB}+\\\\frac{1}{2}\\\\overrightarrow{AC}\\\\right)\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:38.214025+00:00",
+    "engine": "codex"
+  },
+  "image_ea686c935c9530.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{OA}=\\frac{1}{4}\\overrightarrow{OB}+\\frac{3}{4}\\overrightarrow{OP}",
+    "note": "向量線性組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{OA}=\\\\frac{1}{4}\\\\overrightarrow{OB}+\\\\frac{3}{4}\\\\overrightarrow{OP}\",\"note\":\"向量線性組合公式\"}\n",
+    "ts": "2026-05-05T10:38:41.585802+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數 A\"}\n",
+    "ts": "2026-05-05T10:38:43.643134+00:00",
+    "engine": "codex"
+  },
+  "image_e532de3eb67cf3.png": {
+    "classification": "formula",
+    "latex": "\\overline{GM}",
+    "note": "線段GM的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{GM}\",\"note\":\"線段GM的長度\"}\n",
+    "ts": "2026-05-05T10:38:46.157455+00:00",
+    "engine": "codex"
+  },
+  "image_ef5cc731de4ca4.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AG}=\\frac{1}{3}\\overrightarrow{AB}+\\frac{1}{3}\\overrightarrow{AC}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AG}=\\\\frac{1}{3}\\\\overrightarrow{AB}+\\\\frac{1}{3}\\\\overrightarrow{AC}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:38:48.035498+00:00",
+    "engine": "codex"
+  },
+  "image_ef793f4cd03e1d.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{3}\\overrightarrow{OA}=\\overrightarrow{OP}+\\frac{2}{3}\\overrightarrow{OB}",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{3}\\\\overrightarrow{OA}=\\\\overrightarrow{OP}+\\\\frac{2}{3}\\\\overrightarrow{OB}\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-05-05T10:38:50.177028+00:00",
+    "engine": "codex"
+  },
+  "image_ef83b4a2b6deac.png": {
+    "classification": "formula",
+    "latex": "\\overline{PC}=\\frac{4}{9}\\overline{PA}+\\frac{5}{9}\\overline{PD}",
+    "note": "線段向量的加權表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PC}=\\\\frac{4}{9}\\\\overline{PA}+\\\\frac{5}{9}\\\\overline{PD}\",\"note\":\"線段向量的加權表示\"}\n",
+    "ts": "2026-05-05T10:38:53.282488+00:00",
+    "engine": "codex"
+  },
+  "image_f098058ea615cd.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-05-05T10:38:53.496344+00:00",
+    "engine": "codex"
+  },
+  "image_eb3f2e67967d03.png": {
+    "classification": "formula",
+    "latex": "G",
+    "note": "單一變數 G",
+    "raw": "{\"class\":\"formula\",\"latex\":\"G\",\"note\":\"單一變數 G\"}\n",
+    "ts": "2026-05-05T10:38:55.571340+00:00",
+    "engine": "codex"
+  },
+  "image_f4965b6abd2e02.png": {
+    "classification": "formula",
+    "latex": "\\overline{AN}=\\frac{5k}{12}\\overline{AP}+\\frac{5}{12}\\overline{AC}",
+    "note": "線段向量關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AN}=\\\\frac{5k}{12}\\\\overline{AP}+\\\\frac{5}{12}\\\\overline{AC}\",\"note\":\"線段向量關係式\"}\n",
+    "ts": "2026-05-05T10:38:55.853378+00:00",
+    "engine": "codex"
+  },
+  "image_f91f99d6e8cae4.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{5}",
+    "note": "分數七分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7}{5}\",\"note\":\"分數七分之五\"}\n",
+    "ts": "2026-05-05T10:38:57.973929+00:00",
+    "engine": "codex"
+  },
+  "image_fb44a870306fe0.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP}:\\overline{BP}=5:2",
+    "note": "線段長度比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP}:\\\\overline{BP}=5:2\",\"note\":\"線段長度比例\"}\n",
+    "ts": "2026-05-05T10:38:58.918338+00:00",
+    "engine": "codex"
+  },
+  "image_fc3577ccd11652.png": {
+    "classification": "formula",
+    "latex": "G",
+    "note": "單一變數 G",
+    "raw": "{\"class\":\"formula\",\"latex\":\"G\",\"note\":\"單一變數 G\"}\n",
+    "ts": "2026-05-05T10:39:01.151079+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "image_001c0a59334ab9.png": {
+    "classification": "formula",
+    "latex": "y=6",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=6\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-05T10:27:32.350791+00:00",
+    "engine": "codex"
+  },
+  "image_0636e88673b47c.png": {
+    "classification": "formula",
+    "latex": "y=2^{x-1}",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2^{x-1}\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T10:27:32.446425+00:00",
+    "engine": "codex"
+  },
+  "image_1e73c41922b019.png": {
+    "classification": "formula",
+    "latex": "0.5 < \\overline{CD} \\le 0.6",
+    "note": "線段CD長度範圍不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.5 < \\\\overline{CD} \\\\le 0.6\",\"note\":\"線段CD長度範圍不等式\"}\n",
+    "ts": "2026-05-05T10:27:33.144375+00:00",
+    "engine": "codex"
+  },
+  "image_141bdcb9ff4e05.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖像，標示 y=10^x、y=x^2 與點 (0,1)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖像，標示 y=10^x、y=x^2 與點 (0,1)\"}\n",
+    "ts": "2026-05-05T10:27:33.294757+00:00",
+    "engine": "codex"
+  },
+  "image_231e8ba9f1b044.png": {
+    "classification": "formula",
+    "latex": "3x+y=-1",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3x+y=-1\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-05T10:27:36.690618+00:00",
+    "engine": "codex"
+  },
+  "image_2512ad2526bbdb.png": {
+    "classification": "formula",
+    "latex": "6x-y=3",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6x-y=3\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-05T10:27:37.568967+00:00",
+    "engine": "codex"
+  },
+  "image_21d241fecba604.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2} \\approx 1.41",
+    "note": "根號2約等於1.41",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2} \\\\approx 1.41\",\"note\":\"根號2約等於1.41\"}\n",
+    "ts": "2026-05-05T10:27:38.252980+00:00",
+    "engine": "codex"
+  },
+  "image_2b5686d25d01fa.png": {
+    "classification": "formula",
+    "latex": "10^x > x^2",
+    "note": "指數函數與二次式的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x > x^2\",\"note\":\"指數函數與二次式的不等式\"}\n",
+    "ts": "2026-05-05T10:27:41.562362+00:00",
+    "engine": "codex"
+  },
+  "image_2ecca7d1f681b3.png": {
+    "classification": "formula",
+    "latex": "0.6 < \\overline{CD} \\le 0.7",
+    "note": "線段CD長度的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.6 < \\\\overline{CD} \\\\le 0.7\",\"note\":\"線段CD長度的不等式\"}\n",
+    "ts": "2026-05-05T10:27:41.987696+00:00",
+    "engine": "codex"
+  },
+  "image_2eeba3e8e75595.png": {
+    "classification": "formula",
+    "latex": "y=x",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-05T10:27:42.546928+00:00",
+    "engine": "codex"
+  },
+  "image_26d7a94eaab021.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標圖，含標籤 y=2^x 與 y=-2^x",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標圖，含標籤 y=2^x 與 y=-2^x\"}\n",
+    "ts": "2026-05-05T10:27:44.894791+00:00",
+    "engine": "codex"
+  },
+  "image_2f68354a068a2d.png": {
+    "classification": "formula",
+    "latex": "x=-\\frac{5}{2}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=-\\\\frac{5}{2}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-05T10:27:47.016925+00:00",
+    "engine": "codex"
+  },
+  "image_30ee1742f19137.png": {
+    "classification": "formula",
+    "latex": "y=\\left(\\frac{1}{2}\\right)^x",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\left(\\\\frac{1}{2}\\\\right)^x\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T10:27:47.296156+00:00",
+    "engine": "codex"
+  },
+  "image_31633723969dbf.png": {
+    "classification": "formula",
+    "latex": "y=x^2",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^2\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-05-05T10:27:47.646469+00:00",
+    "engine": "codex"
+  },
+  "image_381ff1812c9a18.png": {
+    "classification": "formula",
+    "latex": "y=2^x",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2^x\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T10:27:49.674698+00:00",
+    "engine": "codex"
+  },
+  "image_3fa7c130a54a46.png": {
+    "classification": "formula",
+    "latex": "y=10^x",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=10^x\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T10:27:50.671793+00:00",
+    "engine": "codex"
+  },
+  "image_40f9fdab98e04d.png": {
+    "classification": "formula",
+    "latex": "A(1,3)",
+    "note": "點A的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(1,3)\",\"note\":\"點A的座標\"}\n",
+    "ts": "2026-05-05T10:27:52.689766+00:00",
+    "engine": "codex"
+  },
+  "image_454e362d45e808.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow C\\left(\\frac{3}{2},6\\right)",
+    "note": "座標點C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow C\\\\left(\\\\frac{3}{2},6\\\\right)\",\"note\":\"座標點C\"}\n",
+    "ts": "2026-05-05T10:27:53.395375+00:00",
+    "engine": "codex"
+  },
+  "image_4b5c51047aced1.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=\\left(\\frac{1}{2}\\right)^x",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=\\\\left(\\\\frac{1}{2}\\\\right)^x\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T10:27:53.981306+00:00",
+    "engine": "codex"
+  },
+  "image_4df3d22dde1645.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標圖含曲線 y=10^x、直線 y=x 與點(0,1)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標圖含曲線 y=10^x、直線 y=x 與點(0,1)\"}\n",
+    "ts": "2026-05-05T10:27:55.527310+00:00",
+    "engine": "codex"
+  },
+  "image_4f270b5cbe15ad.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數 C\"}\n",
+    "ts": "2026-05-05T10:27:56.969780+00:00",
+    "engine": "codex"
+  },
+  "image_4f2fec59914e45.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}\\approx 1.73",
+    "note": "平方根近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\\\\approx 1.73\",\"note\":\"平方根近似值\"}\n",
+    "ts": "2026-05-05T10:27:58.237787+00:00",
+    "engine": "codex"
+  },
+  "image_4fb0c54b530792.png": {
+    "classification": "formula",
+    "latex": "{2^{50}+2^{100}\\over 2}>2^{75}",
+    "note": "指數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"{2^{50}+2^{100}\\\\over 2}>2^{75}\",\"note\":\"指數不等式\"}\n",
+    "ts": "2026-05-05T10:28:00.740433+00:00",
+    "engine": "codex"
+  },
+  "image_5ae64f66da307a.png": {
+    "classification": "formula",
+    "latex": "A(-1,2)",
+    "note": "點A的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(-1,2)\",\"note\":\"點A的座標\"}\n",
+    "ts": "2026-05-05T10:28:01.258960+00:00",
+    "engine": "codex"
+  },
+  "image_50c43034125d15.png": {
+    "classification": "formula",
+    "latex": "x>0",
+    "note": "不等式：x大於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>0\",\"note\":\"不等式：x大於0\"}\n",
+    "ts": "2026-05-05T10:28:02.081853+00:00",
+    "engine": "codex"
+  },
+  "image_5ff82f996f199e.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{2}\\right)^{-\\frac{5}{2}}=2^{\\frac{5}{2}}=\\sqrt{2^5}=\\sqrt{32}=4\\sqrt{2}\\approx5.64",
+    "note": "指數與根式等值轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{2}\\\\right)^{-\\\\frac{5}{2}}=2^{\\\\frac{5}{2}}=\\\\sqrt{2^5}=\\\\sqrt{32}=4\\\\sqrt{2}\\\\approx5.64\",\"note\":\"指數與根式等值轉換\"}\n",
+    "ts": "2026-05-05T10:28:05.807836+00:00",
+    "engine": "codex"
+  },
+  "image_624973b08deeef.png": {
+    "classification": "formula",
+    "latex": "1.2 < \\overline{CD} \\le 1.4",
+    "note": "線段CD長度範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1.2 < \\\\overline{CD} \\\\le 1.4\",\"note\":\"線段CD長度範圍\"}\n",
+    "ts": "2026-05-05T10:28:05.878515+00:00",
+    "engine": "codex"
+  },
+  "image_66a4e9d395ea21.png": {
+    "classification": "formula",
+    "latex": "10^x=x",
+    "note": "指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x=x\",\"note\":\"指數方程式\"}\n",
+    "ts": "2026-05-05T10:28:06.290798+00:00",
+    "engine": "codex"
+  },
+  "image_66a9064beaed9b.png": {
+    "classification": "formula",
+    "latex": "0.6 < \\overline{CD} \\le 0.8",
+    "note": "線段CD長度範圍不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.6 < \\\\overline{CD} \\\\le 0.8\",\"note\":\"線段CD長度範圍不等式\"}\n",
+    "ts": "2026-05-05T10:28:07.166388+00:00",
+    "engine": "codex"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-05-05T10:28:10.861924+00:00",
+    "engine": "codex"
+  },
+  "image_72896857bf0fe3.png": {
+    "classification": "formula",
+    "latex": "10^x>x",
+    "note": "指數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x>x\",\"note\":\"指數不等式\"}\n",
+    "ts": "2026-05-05T10:28:11.199990+00:00",
+    "engine": "codex"
+  },
+  "image_6cd544cc3148ff.png": {
+    "classification": "formula",
+    "latex": "C\\left(75,\\frac{2^{50}+2^{100}}{2}\\right)",
+    "note": "組合數形式的數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\\\\left(75,\\\\frac{2^{50}+2^{100}}{2}\\\\right)\",\"note\":\"組合數形式的數學公式\"}\n",
+    "ts": "2026-05-05T10:28:11.548868+00:00",
+    "engine": "codex"
+  },
+  "image_771bdc338b96e2.png": {
+    "classification": "formula",
+    "latex": "3^{\\frac{3}{2}}=\\sqrt{3^3}=3\\sqrt{3}\\approx5.19",
+    "note": "指數與根式換算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{\\\\frac{3}{2}}=\\\\sqrt{3^3}=3\\\\sqrt{3}\\\\approx5.19\",\"note\":\"指數與根式換算\"}\n",
+    "ts": "2026-05-05T10:28:14.251088+00:00",
+    "engine": "codex"
+  },
+  "image_7720efde4d6121.png": {
+    "classification": "formula",
+    "latex": "y=f(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-05-05T10:28:15.154267+00:00",
+    "engine": "codex"
+  },
+  "image_779b78005bb218.png": {
+    "classification": "formula",
+    "latex": "y=x",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-05T10:28:15.680754+00:00",
+    "engine": "codex"
+  },
+  "image_776d5257ce5adc.png": {
+    "classification": "formula",
+    "latex": "10^x=x^2",
+    "note": "指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x=x^2\",\"note\":\"指數方程式\"}\n",
+    "ts": "2026-05-05T10:28:16.473747+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字2\"}\n",
+    "ts": "2026-05-05T10:28:20.682852+00:00",
+    "engine": "codex"
+  },
+  "image_7afe2ca358ca2c.png": {
+    "classification": "formula",
+    "latex": "0.8<\\overline{CD}\\le 0.9",
+    "note": "不等式，含線段CD長度範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.8<\\\\overline{CD}\\\\le 0.9\",\"note\":\"不等式，含線段CD長度範圍\"}\n",
+    "ts": "2026-05-05T10:28:20.982233+00:00",
+    "engine": "codex"
+  },
+  "image_7a35c1105b57ae.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標圖，含 y=x^2 與 y=2^x 曲線標籤",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標圖，含 y=x^2 與 y=2^x 曲線標籤\"}\n",
+    "ts": "2026-05-05T10:28:22.035447+00:00",
+    "engine": "codex"
+  },
+  "image_78d847b0166f87.png": {
+    "classification": "formula",
+    "latex": "\\left(-\\frac{5}{2},\\left(\\frac{1}{2}\\right)^{-\\frac{5}{2}}\\right)",
+    "note": "座標形式的數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-\\\\frac{5}{2},\\\\left(\\\\frac{1}{2}\\\\right)^{-\\\\frac{5}{2}}\\\\right)\",\"note\":\"座標形式的數學式\"}\n",
+    "ts": "2026-05-05T10:28:24.758998+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-05-05T10:28:25.575872+00:00",
+    "engine": "codex"
+  },
+  "image_865c6c7c6bfa0f.png": {
+    "classification": "formula",
+    "latex": "y=-2^x",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-2^x\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-05-05T10:28:26.080316+00:00",
+    "engine": "codex"
+  },
+  "image_89f96f885aaad5.png": {
+    "classification": "formula",
+    "latex": "A\\left(50,2^{50}\\right)",
+    "note": "點A的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\left(50,2^{50}\\\\right)\",\"note\":\"點A的座標表示\"}\n",
+    "ts": "2026-05-05T10:28:28.170703+00:00",
+    "engine": "codex"
+  },
+  "image_8c292a7f23f515.png": {
+    "classification": "formula",
+    "latex": "y=x^2",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^2\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-05-05T10:28:29.982688+00:00",
+    "engine": "codex"
+  },
+  "image_8c51e6068bc0f3.png": {
+    "classification": "formula",
+    "latex": "B(2,9)",
+    "note": "點B座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(2,9)\",\"note\":\"點B座標\"}\n",
+    "ts": "2026-05-05T10:28:31.880889+00:00",
+    "engine": "codex"
+  },
+  "image_960a4fe9a66e00.png": {
+    "classification": "formula",
+    "latex": "D\\left(\\frac{3}{2},3^{\\frac{3}{2}}\\right)",
+    "note": "點D的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\\\\left(\\\\frac{3}{2},3^{\\\\frac{3}{2}}\\\\right)\",\"note\":\"點D的座標\"}\n",
+    "ts": "2026-05-05T10:28:34.194689+00:00",
+    "engine": "codex"
+  },
+  "image_8f6be4afeae3c6.png": {
+    "classification": "formula",
+    "latex": "\\left(-\\frac{5}{2},\\frac{13}{2}\\right)",
+    "note": "有序數對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-\\\\frac{5}{2},\\\\frac{13}{2}\\\\right)\",\"note\":\"有序數對座標\"}\n",
+    "ts": "2026-05-05T10:28:34.202808+00:00",
+    "engine": "codex"
+  },
+  "image_967c5ec8060da1.png": {
+    "classification": "formula",
+    "latex": "2^x=2^{x-1}=\\frac{2^x}{2}",
+    "note": "指數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^x=2^{x-1}=\\\\frac{2^x}{2}\",\"note\":\"指數等式\"}\n",
+    "ts": "2026-05-05T10:28:35.930001+00:00",
+    "engine": "codex"
+  },
+  "image_96cb2354bb6156.png": {
+    "classification": "formula",
+    "latex": "B\\left(100,2^{100}\\right)",
+    "note": "點B座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\\\\left(100,2^{100}\\\\right)\",\"note\":\"點B座標\"}\n",
+    "ts": "2026-05-05T10:28:37.002625+00:00",
+    "engine": "codex"
+  },
+  "image_a63fbc32c62977.png": {
+    "classification": "formula",
+    "latex": "1<\\overline{CD}\\le 1.2",
+    "note": "線段CD長度範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1<\\\\overline{CD}\\\\le 1.2\",\"note\":\"線段CD長度範圍\"}\n",
+    "ts": "2026-05-05T10:28:38.632326+00:00",
+    "engine": "codex"
+  },
+  "image_9dc1c874564441.png": {
+    "classification": "formula",
+    "latex": "D\\left(75,2^{75}\\right)",
+    "note": "點D的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\\\\left(75,2^{75}\\\\right)\",\"note\":\"點D的座標表示\"}\n",
+    "ts": "2026-05-05T10:28:39.588405+00:00",
+    "engine": "codex"
+  },
+  "image_a92bca9ed04cf4.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T10:28:40.123592+00:00",
+    "engine": "codex"
+  },
+  "image_a94160407e0391.png": {
+    "classification": "formula",
+    "latex": "0.4<\\overline{CD}\\le 0.6",
+    "note": "線段CD長度範圍不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.4<\\\\overline{CD}\\\\le 0.6\",\"note\":\"線段CD長度範圍不等式\"}\n",
+    "ts": "2026-05-05T10:28:41.854469+00:00",
+    "engine": "codex"
+  },
+  "image_b2e2513820f956.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{3}{2}",
+    "note": "方程式 x 等於二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{3}{2}\",\"note\":\"方程式 x 等於二分之三\"}\n",
+    "ts": "2026-05-05T10:28:43.814056+00:00",
+    "engine": "codex"
+  },
+  "image_b70f4057babf62.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "指數函數圖形，含標籤 y=2^x",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"指數函數圖形，含標籤 y=2^x\"}\n",
+    "ts": "2026-05-05T10:28:46.024390+00:00",
+    "engine": "codex"
+  },
+  "image_bdf3f0e2c405a7.png": {
+    "classification": "formula",
+    "latex": "0.8<\\overline{CD}\\le 1",
+    "note": "不等式，線段CD長度範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.8<\\\\overline{CD}\\\\le 1\",\"note\":\"不等式，線段CD長度範圍\"}\n",
+    "ts": "2026-05-05T10:28:46.596687+00:00",
+    "engine": "codex"
+  },
+  "image_b9d3f7c3317f72.png": {
+    "classification": "formula",
+    "latex": "0.7 < \\overline{CD} \\le 0.8",
+    "note": "線段CD長度範圍不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.7 < \\\\overline{CD} \\\\le 0.8\",\"note\":\"線段CD長度範圍不等式\"}\n",
+    "ts": "2026-05-05T10:28:46.601289+00:00",
+    "engine": "codex"
+  },
+  "image_c343c778d9886e.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=3^x",
+    "note": "指數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=3^x\",\"note\":\"指數函數公式\"}\n",
+    "ts": "2026-05-05T10:28:49.776641+00:00",
+    "engine": "codex"
+  },
+  "image_c0109187ac2563.png": {
+    "classification": "formula",
+    "latex": "m=\\frac{8-2}{-3+1}=-3",
+    "note": "斜率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m=\\\\frac{8-2}{-3+1}=-3\",\"note\":\"斜率計算公式\"}\n",
+    "ts": "2026-05-05T10:28:50.019329+00:00",
+    "engine": "codex"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "單一變數字母 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"單一變數字母 D\"}\n",
+    "ts": "2026-05-05T10:28:51.996390+00:00",
+    "engine": "codex"
+  },
+  "image_c8f11e34d27737.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}\\approx 6-5.19=0.81",
+    "note": "線段CD長度近似計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\\\\approx 6-5.19=0.81\",\"note\":\"線段CD長度近似計算\"}\n",
+    "ts": "2026-05-05T10:28:52.313074+00:00",
+    "engine": "codex"
+  },
+  "image_d3d14dd38f802c.png": {
+    "classification": "formula",
+    "latex": "m=\\frac{9-3}{2-1}=6",
+    "note": "斜率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"m=\\\\frac{9-3}{2-1}=6\",\"note\":\"斜率計算公式\"}\n",
+    "ts": "2026-05-05T10:28:55.360400+00:00",
+    "engine": "codex"
+  },
+  "image_d5ebf44a90cbdb.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}\\approx\\frac{13}{2}-5.64=0.86",
+    "note": "線段CD長度計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\\\\approx\\\\frac{13}{2}-5.64=0.86\",\"note\":\"線段CD長度計算式\"}\n",
+    "ts": "2026-05-05T10:28:56.671675+00:00",
+    "engine": "codex"
+  },
+  "image_dd20211687489e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-05-05T10:28:56.916459+00:00",
+    "engine": "codex"
+  },
+  "image_dc9e23216ca350.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-05-05T10:28:57.382198+00:00",
+    "engine": "codex"
+  },
+  "image_e10e10bf78ec7a.png": {
+    "classification": "formula",
+    "latex": "y=\\frac{13}{2}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\frac{13}{2}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-05T10:28:59.846415+00:00",
+    "engine": "codex"
+  },
+  "image_f467f571dc4224.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的曲線與點A(1,3)、B(2,9)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的曲線與點A(1,3)、B(2,9)\"}\n",
+    "ts": "2026-05-05T10:29:02.431300+00:00",
+    "engine": "codex"
+  },
+  "image_f3ae564953a8a7.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "指數函數圖形，標示 y=2^x 與 y=(1/2)^x",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"指數函數圖形，標示 y=2^x 與 y=(1/2)^x\"}\n",
+    "ts": "2026-05-05T10:29:02.875206+00:00",
+    "engine": "codex"
+  },
+  "image_e40283ce1479f0.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的曲線圖，標示A(-1,2)、B(-3,8)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的曲線圖，標示A(-1,2)、B(-3,8)\"}\n",
+    "ts": "2026-05-05T10:29:03.088030+00:00",
+    "engine": "codex"
+  },
+  "image_f78a3251f0b842.png": {
+    "classification": "formula",
+    "latex": "0.9<\\overline{CD}\\le 1",
+    "note": "不等式，線段CD長度範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.9<\\\\overline{CD}\\\\le 1\",\"note\":\"不等式，線段CD長度範圍\"}\n",
+    "ts": "2026-05-05T10:29:04.827820+00:00",
+    "engine": "codex"
+  },
+  "image_fc54ff418ea473.png": {
+    "classification": "formula",
+    "latex": "B(-3,8)",
+    "note": "點B的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(-3,8)\",\"note\":\"點B的座標\"}\n",
+    "ts": "2026-05-05T10:29:06.973659+00:00",
+    "engine": "codex"
+  }
+}

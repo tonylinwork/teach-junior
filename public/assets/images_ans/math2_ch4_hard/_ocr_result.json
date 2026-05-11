@@ -1,0 +1,74 @@
+{
+  "image_32b706b9bd159f.png": {
+    "classification": "formula",
+    "latex": "P=\\frac{6!}{3!2!}",
+    "note": "排列組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=\\\\frac{6!}{3!2!}\",\"note\":\"排列組合公式\"}\n",
+    "ts": "2026-04-30T07:07:28.521784+00:00",
+    "engine": "codex"
+  },
+  "image_21105f43d93453.png": {
+    "classification": "formula",
+    "latex": "2\\times\\frac{4!}{3!}=8",
+    "note": "階乘運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times\\\\frac{4!}{3!}=8\",\"note\":\"階乘運算等式\"}\n",
+    "ts": "2026-04-30T07:07:29.801454+00:00",
+    "engine": "codex"
+  },
+  "image_2f827fc07cb28f.png": {
+    "classification": "formula",
+    "latex": "1\\times\\frac{4!}{2!2!}=6",
+    "note": "排列組合計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\\\\times\\\\frac{4!}{2!2!}=6\",\"note\":\"排列組合計算式\"}\n",
+    "ts": "2026-04-30T07:07:30.019108+00:00",
+    "engine": "codex"
+  },
+  "image_03e649197cac1b.png": {
+    "classification": "formula",
+    "latex": "\\frac{P^5_2}{2!}",
+    "note": "排列數除以2階乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P^5_2}{2!}\",\"note\":\"排列數除以2階乘\"}\n",
+    "ts": "2026-04-30T07:07:30.210206+00:00",
+    "engine": "codex"
+  },
+  "image_37682a383cf197.png": {
+    "classification": "formula",
+    "latex": "\\frac{7!}{3!}",
+    "note": "階乘分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7!}{3!}\",\"note\":\"階乘分式\"}\n",
+    "ts": "2026-04-30T07:07:32.357803+00:00",
+    "engine": "codex"
+  },
+  "image_37808da41622c0.png": {
+    "classification": "formula",
+    "latex": "P^{5}_{3}",
+    "note": "排列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^{5}_{3}\",\"note\":\"排列符號\"}\n",
+    "ts": "2026-04-30T07:07:35.955237+00:00",
+    "engine": "codex"
+  },
+  "image_56edb9d099d1f2.png": {
+    "classification": "formula",
+    "latex": "2\\times \\frac{4!}{2!}=24",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times \\\\frac{4!}{2!}=24\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T07:07:36.508147+00:00",
+    "engine": "codex"
+  },
+  "image_db1198e6ab3db0.png": {
+    "classification": "formula",
+    "latex": "P^{5}_{2}",
+    "note": "排列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^{5}_{2}\",\"note\":\"排列符號\"}\n",
+    "ts": "2026-04-30T07:07:37.127853+00:00",
+    "engine": "codex"
+  },
+  "image_51f4a0323bb28e.png": {
+    "classification": "formula",
+    "latex": "P^{5}_{3}",
+    "note": "排列符號，上標5下標3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^{5}_{3}\",\"note\":\"排列符號，上標5下標3\"}\n",
+    "ts": "2026-04-30T07:07:38.509866+00:00",
+    "engine": "codex"
+  }
+}

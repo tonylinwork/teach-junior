@@ -1,0 +1,2872 @@
+{
+  "image_00ed48e979842b.png": {
+    "classification": "formula",
+    "latex": "L : 3x - y = 4",
+    "note": "直線方程式 L: 3x - y = 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L : 3x - y = 4\",\"note\":\"直線方程式 L: 3x - y = 4\"}\n",
+    "ts": "2026-04-28T09:42:19.359955+00:00"
+  },
+  "image_0085be59d25f17.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}A^2",
+    "note": "二分之一 A 的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{2}A^2\",\"note\":\"二分之一 A 的平方\"}\n",
+    "ts": "2026-04-28T09:42:25.592441+00:00"
+  },
+  "image_0080eac71a4b42.png": {
+    "classification": "formula",
+    "latex": "b = 7",
+    "note": "b = 7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b = 7\",\"note\":\"b = 7\"}\n",
+    "ts": "2026-04-28T09:42:26.577235+00:00"
+  },
+  "image_01a187f2f2688a.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "二階矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & 1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"二階矩陣\"}\n",
+    "ts": "2026-04-28T09:42:30.977633+00:00"
+  },
+  "image_0364216a3785bf.png": {
+    "classification": "formula",
+    "latex": "-1",
+    "note": "負 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1\",\"note\":\"負 1\"}\n",
+    "ts": "2026-04-28T09:42:37.272162+00:00"
+  },
+  "image_01671300e8ecbf.png": {
+    "classification": "formula",
+    "latex": "P_2 = \\begin{bmatrix} \\frac{2}{3} & \\frac{1}{2} \\\\ \\frac{1}{3} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} \\frac{2}{3} \\\\ \\frac{1}{3} \\end{bmatrix} = \\begin{bmatrix} \\frac{11}{18} \\\\ \\frac{7}{18} \\end{bmatrix}",
+    "note": "矩陣乘法運算 P2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_2 = \\\\begin{bmatrix} \\\\frac{2}{3} & \\\\frac{1}{2} \\\\\\\\ \\\\frac{1}{3} & \\\\frac{1}{2} \\\\end{bmatrix} \\\\begin{bmatrix} \\\\frac{2}{3} \\\\\\\\ \\\\frac{1}{3} \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{11}{18} \\\\\\\\ \\\\frac{7}{18} \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算 P2\"}\n",
+    "ts": "2026-04-28T09:42:44.423932+00:00"
+  },
+  "image_046af55063fa61.png": {
+    "classification": "formula",
+    "latex": "ad - bc > 0",
+    "note": "數學不等式 ad-bc > 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ad - bc > 0\",\"note\":\"數學不等式 ad-bc > 0\"}\n",
+    "ts": "2026-04-28T09:42:47.724354+00:00"
+  },
+  "image_03a8d2d142c0fa.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{4}{5} & -\\frac{3}{5} \\\\ \\frac{3}{5} & \\frac{4}{5} \\end{bmatrix}",
+    "note": "二階方陣，元素為分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{4}{5} & -\\\\frac{3}{5} \\\\\\\\ \\\\frac{3}{5} & \\\\frac{4}{5} \\\\end{bmatrix}\",\"note\":\"二階方陣，元素為分數\"}\n",
+    "ts": "2026-04-28T09:42:56.236854+00:00"
+  },
+  "image_04ac798110b8b1.png": {
+    "classification": "formula",
+    "latex": "(2\\sqrt{2}, 0)",
+    "note": "坐標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2\\sqrt{2}, 0)\",\"note\":\"坐標點\"}\n",
+    "ts": "2026-04-28T09:43:00.593214+00:00"
+  },
+  "image_0261a15d6e3574.png": {
+    "classification": "formula",
+    "latex": "B^3 = \\begin{bmatrix} -1 & 0 \\cr 0 & -1 \\end{bmatrix}",
+    "note": "矩陣 B 的三次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B^3 = \\\\begin{bmatrix} -1 & 0 \\\\cr 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣 B 的三次方\"}\n",
+    "ts": "2026-04-28T09:43:02.458528+00:00"
+  },
+  "image_04bf8145b990e9.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} a \\\\ b \\end{bmatrix} = \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix} \\begin{bmatrix} 4\\sqrt{3} \\\\ 2 \\end{bmatrix}",
+    "note": "矩陣旋轉變換與向量相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} a \\\\\\\\ b \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix} \\\\begin{bmatrix} 4\\\\sqrt{3} \\\\\\\\ 2 \\\\end{bmatrix}\",\"note\":\"矩陣旋轉變換與向量相乘\"}\n",
+    "ts": "2026-04-28T09:43:06.609664+00:00"
+  },
+  "image_05ea7df4f7996e.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "平面直角座標系中的三角形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"平面直角座標系中的三角形\"}\n",
+    "ts": "2026-04-28T09:43:15.369421+00:00"
+  },
+  "image_054f06d69dc894.png": {
+    "classification": "formula",
+    "latex": "y = \\frac{1}{3}x' - \\frac{1}{3}y'",
+    "note": "線性方程式變數代換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y = \\\\frac{1}{3}x' - \\\\frac{1}{3}y'\",\"note\":\"線性方程式變數代換\"}\n",
+    "ts": "2026-04-28T09:43:21.893183+00:00"
+  },
+  "image_04c97efce02f33.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} a & b \\\\ 1-a & 1-b \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} a & b \\\\\\\\ 1-a & 1-b \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:43:24.154828+00:00"
+  },
+  "image_07172fbbb89201.png": {
+    "classification": "formula",
+    "latex": "A^9 = \\begin{bmatrix} \\cos 540^\\circ & -\\sin 540^\\circ \\\\ \\sin 540^\\circ & \\cos 540^\\circ \\end{bmatrix} = \\begin{bmatrix} \\cos 180^\\circ & -\\sin 180^\\circ \\\\ \\sin 180^\\circ & \\cos 180^\\circ \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣 A 的九次方運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^9 = \\\\begin{bmatrix} \\\\cos 540^\\\\circ & -\\\\sin 540^\\\\circ \\\\\\\\ \\\\sin 540^\\\\circ & \\\\cos 540^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\cos 180^\\\\circ & -\\\\sin 180^\\\\circ \\\\\\\\ \\\\sin 180^\\\\circ & \\\\cos 180^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的九次方運算過程\"}\n",
+    "ts": "2026-04-28T09:43:32.370577+00:00"
+  },
+  "image_096bc31ab8cf2d.png": {
+    "classification": "formula",
+    "latex": "M^3 = -M",
+    "note": "M 的三次方等於負 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M^3 = -M\",\"note\":\"M 的三次方等於負 M\"}\n",
+    "ts": "2026-04-28T09:43:35.401197+00:00"
+  },
+  "image_0a181e4379224e.png": {
+    "classification": "formula",
+    "latex": "y = \\frac{1}{2}t",
+    "note": "數學公式 y=1/2t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y = \\frac{1}{2}t\",\"note\":\"數學公式 y=1/2t\"}\n",
+    "ts": "2026-04-28T09:43:42.103236+00:00"
+  },
+  "image_0a9c797c72e424.png": {
+    "classification": "formula",
+    "latex": "A^2",
+    "note": "A 的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\",\"note\":\"A 的平方\"}\n",
+    "ts": "2026-04-28T09:43:47.605915+00:00"
+  },
+  "image_08126b243ccb34.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:43:48.794198+00:00"
+  },
+  "image_0aac92bb181be3.png": {
+    "classification": "formula",
+    "latex": "= AB^{15}A",
+    "note": "矩陣幂次與乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= AB^{15}A\",\"note\":\"矩陣幂次與乘法算式\"}\n",
+    "ts": "2026-04-28T09:43:53.264667+00:00"
+  },
+  "image_084bf0a07d9020.png": {
+    "classification": "formula",
+    "latex": "\\triangle O'A'B' = \\left| \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix} \\right| \\times \\left| \\begin{bmatrix} \\cos 45^\\circ & -\\sin 45^\\circ \\\\ \\sin 45^\\circ & \\cos 45^\\circ \\end{bmatrix} \\right| \\times \\triangle OAB",
+    "note": "三角形面積的矩陣線性變換公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle O'A'B' = \\\\left| \\\\begin{bmatrix} 1 & 2 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\right| \\\\times \\\\left| \\\\begin{bmatrix} \\\\cos 45^\\\\circ & -\\\\sin 45^\\\\circ \\\\\\\\ \\\\sin 45^\\\\circ & \\\\cos 45^\\\\circ \\\\end{bmatrix} \\\\right| \\\\times \\\\triangle OAB\",\"note\":\"三角形面積的矩陣線性變換公式\"}\n",
+    "ts": "2026-04-28T09:43:56.282186+00:00"
+  },
+  "image_0aec6f46657695.png": {
+    "classification": "formula",
+    "latex": "=\\triangle OAB",
+    "note": "=\\triangle OAB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\triangle OAB\",\"note\":\"=\\triangle OAB\"}\n",
+    "ts": "2026-04-28T09:44:00.343006+00:00"
+  },
+  "image_0b2a2cf395aa1b.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標平面上的三角形，一頂點在原點且一邊在 y 軸上",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標平面上的三角形，一頂點在原點且一邊在 y 軸上\"}\n",
+    "ts": "2026-04-28T09:44:01.459356+00:00"
+  },
+  "image_0cdb1406c8df8a.png": {
+    "classification": "formula",
+    "latex": "D = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "矩陣 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D = \\\\begin{bmatrix} 0 & 1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"矩陣 D\"}\n",
+    "ts": "2026-04-28T09:44:09.324427+00:00"
+  },
+  "image_0dc3c105648b62.png": {
+    "classification": "formula",
+    "latex": "(-\\sqrt{2},\\sqrt{2})",
+    "note": "包含根號的二維坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-\\\\sqrt{2},\\\\sqrt{2})\",\"note\":\"包含根號的二維坐標\"}\n",
+    "ts": "2026-04-28T09:44:13.856044+00:00"
+  },
+  "image_0e8cc7321dbeef.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 0^\\circ & \\sin 90^\\circ \\\\ -\\sin 90^\\circ & \\cos 0^\\circ \\end{bmatrix}",
+    "note": "包含三角函數的 2x2 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 0^\\\\circ & \\\\sin 90^\\\\circ \\\\\\\\ -\\\\sin 90^\\\\circ & \\\\cos 0^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含三角函數的 2x2 矩陣\"}\n",
+    "ts": "2026-04-28T09:44:19.501677+00:00"
+  },
+  "image_0d90e96a22eddd.png": {
+    "classification": "formula",
+    "latex": "A^2 \\begin{bmatrix} 1 \\ -1 \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} 1 \\ -1 \\end{bmatrix} = \\begin{bmatrix} -1 \\ 1 \\end{bmatrix}",
+    "note": "矩阵乘法运算过程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}\",\"note\":\"矩阵乘法运算过程\"}\n",
+    "ts": "2026-04-28T09:44:21.886517+00:00"
+  },
+  "image_0f022ac7403f63.png": {
+    "classification": "formula",
+    "latex": "(y, x)",
+    "note": "座標 (y, x)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(y, x)\",\"note\":\"座標 (y, x)\"}\n",
+    "ts": "2026-04-28T09:44:24.694077+00:00"
+  },
+  "image_0ecfba2c2ee4c4.png": {
+    "classification": "formula",
+    "latex": "A \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}",
+    "note": "矩陣方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A \\\\begin{bmatrix} 1 \\\\\\\\ 1 \\\\end{bmatrix} = \\\\begin{bmatrix} -1 \\\\\\\\ 1 \\\\end{bmatrix}\",\"note\":\"矩陣方程式\"}\n",
+    "ts": "2026-04-28T09:44:27.281207+00:00"
+  },
+  "image_0f3a7413a7ae36.png": {
+    "classification": "formula",
+    "latex": "L : x + y = 5",
+    "note": "直線 L 的方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L : x + y = 5\",\"note\":\"直線 L 的方程式\"}\n",
+    "ts": "2026-04-28T09:44:31.034171+00:00"
+  },
+  "image_0f3f38ae597739.png": {
+    "classification": "formula",
+    "latex": "0 \\le a, b \\le 1",
+    "note": "a, b 的範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0 \\le a, b \\le 1\",\"note\":\"a, b 的範圍\"}\n",
+    "ts": "2026-04-28T09:44:32.855143+00:00"
+  },
+  "image_10427981cef244.png": {
+    "classification": "formula",
+    "latex": "A + B",
+    "note": "A加B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A + B\",\"note\":\"A加B\"}\n",
+    "ts": "2026-04-28T09:44:35.239699+00:00"
+  },
+  "image_10c776a35a3e9b.png": {
+    "classification": "formula",
+    "latex": "q",
+    "note": "單個變數 q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"q\",\"note\":\"單個變數 q\"}\n",
+    "ts": "2026-04-28T09:44:40.145507+00:00"
+  },
+  "image_107ae4228fbc06.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 150^\\circ & \\sin 150^\\circ \\\\ -\\sin 150^\\circ & \\cos 150^\\circ \\end{bmatrix}^6",
+    "note": "包含三角函數的二階矩陣 6 次方運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 150^\\\\circ & \\\\sin 150^\\\\circ \\\\\\\\ -\\\\sin 150^\\\\circ & \\\\cos 150^\\\\circ \\\\end{bmatrix}^6\",\"note\":\"包含三角函數的二階矩陣 6 次方運算\"}\n",
+    "ts": "2026-04-28T09:44:41.554460+00:00"
+  },
+  "image_1195a41a3aa4b3.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} 1 & 0 \\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} \\cos 180^{\\circ} & -\\sin 180^{\\circ} \\ \\sin 180^{\\circ} & \\cos 180^{\\circ} \\end{bmatrix}",
+    "note": "矩陣乘法算式，包含單位矩陣與旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} \\cos 180^{\\circ} & -\\sin 180^{\\circ} \\\\ \\sin 180^{\\circ} & \\cos 180^{\\circ} \\end{bmatrix}\",\"note\":\"矩陣乘法算式，包含單位矩陣與旋轉矩陣\"}\n",
+    "ts": "2026-04-28T09:44:47.471300+00:00"
+  },
+  "image_135d0f2e096507.png": {
+    "classification": "formula",
+    "latex": "O",
+    "note": "italic O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O\",\"note\":\"italic O\"}\n",
+    "ts": "2026-04-28T09:44:50.039213+00:00"
+  },
+  "image_12815f833806e8.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 0.4 & 0.4 \\\\ 0.6 & 0.6 \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 0.4 & 0.4 \\\\\\\\ 0.6 & 0.6 \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:44:52.250357+00:00"
+  },
+  "image_15206254f72124.png": {
+    "classification": "formula",
+    "latex": "(x, -y)",
+    "note": "坐標點 (x, -y)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x, -y)\",\"note\":\"坐標點 (x, -y)\"}\n",
+    "ts": "2026-04-28T09:44:57.625808+00:00"
+  },
+  "image_13da2816390ffa.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x' \\\\ y' \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{2} & 0 \\\\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{2}x \\\\ y \\end{bmatrix}",
+    "note": "矩陣線性變換與乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{1}{2} & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{1}{2}x \\\\\\\\ y \\\\end{bmatrix}\",\"note\":\"矩陣線性變換與乘法等式\"}\n",
+    "ts": "2026-04-28T09:45:00.718763+00:00"
+  },
+  "image_1557574e688eaa.png": {
+    "classification": "formula",
+    "latex": "0.5 \\times 0.4 - 0.5 \\times 0.6 < 0",
+    "note": "數值不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.5 \\times 0.4 - 0.5 \\times 0.6 < 0\",\"note\":\"數值不等式\"}\n",
+    "ts": "2026-04-28T09:45:01.211000+00:00"
+  },
+  "image_15656001918163.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 90^\\circ & \\sin 90^\\circ \\\\ \\sin 90^\\circ & -\\cos 90^\\circ \\end{bmatrix} = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "矩陣等式與三角函數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 90^\\\\circ & \\\\sin 90^\\\\circ \\\\\\\\ \\\\sin 90^\\\\circ & -\\\\cos 90^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} 0 & 1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"矩陣等式與三角函數值\"}\n",
+    "ts": "2026-04-28T09:45:10.165771+00:00"
+  },
+  "image_15bae75ee7bca2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T09:45:16.079476+00:00"
+  },
+  "image_18972eaf7bf143.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 20^\\circ & -\\sin 20^\\circ \\\\ \\sin 20^\\circ & \\cos 20^\\circ \\end{bmatrix}^5",
+    "note": "旋轉矩陣的5次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 20^\\\\circ & -\\\\sin 20^\\\\circ \\\\\\\\ \\\\sin 20^\\\\circ & \\\\cos 20^\\\\circ \\\\end{bmatrix}^5\",\"note\":\"旋轉矩陣的5次方\"}\n",
+    "ts": "2026-04-28T09:45:16.535412+00:00"
+  },
+  "image_15b30dbf5ade22.png": {
+    "classification": "formula",
+    "latex": "A^6 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣 A 的六次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^6 = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的六次方\"}\n",
+    "ts": "2026-04-28T09:45:21.054044+00:00"
+  },
+  "image_19e259f7ca2983.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "數字 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"數字 4\"}\n",
+    "ts": "2026-04-28T09:45:27.176959+00:00"
+  },
+  "image_19525e5bb6750d.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "數學符號 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"數學符號 C\"}\n",
+    "ts": "2026-04-28T09:45:29.284713+00:00"
+  },
+  "image_19ee71a41d7419.png": {
+    "classification": "formula",
+    "latex": "a + b = 1",
+    "note": "數學等式 a + b = 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a + b = 1\",\"note\":\"數學等式 a + b = 1\"}\n",
+    "ts": "2026-04-28T09:45:32.400144+00:00"
+  },
+  "image_18f4b37693c508.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} 0 \\\\ t \\end{bmatrix} = \\begin{bmatrix} -\\frac{\\sqrt{3}}{2}t \\\\ \\frac{1}{2}t \\end{bmatrix}",
+    "note": "矩陣乘法運算，包含分數與根號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix} \\\\begin{bmatrix} 0 \\\\\\\\ t \\\\end{bmatrix} = \\\\begin{bmatrix} -\\\\frac{\\\\sqrt{3}}{2}t \\\\\\\\ \\\\frac{1}{2}t \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算，包含分數與根號\"}\n",
+    "ts": "2026-04-28T09:45:33.429193+00:00"
+  },
+  "image_1a237569944d01.png": {
+    "classification": "formula",
+    "latex": "a = -3",
+    "note": "a = -3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a = -3\",\"note\":\"a = -3\"}\n",
+    "ts": "2026-04-28T09:45:37.650338+00:00"
+  },
+  "image_1aa420d8e37e9c.png": {
+    "classification": "formula",
+    "latex": "900^\\circ",
+    "note": "900度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"900^\\circ\",\"note\":\"900度\"}\n",
+    "ts": "2026-04-28T09:45:45.884392+00:00"
+  },
+  "image_1d3bb689ed3aa8.png": {
+    "classification": "formula",
+    "latex": "A(3,-2)",
+    "note": "點 A 的坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(3,-2)\",\"note\":\"點 A 的坐標\"}\n",
+    "ts": "2026-04-28T09:45:48.458125+00:00"
+  },
+  "image_1b87c66f971a9e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T09:45:50.810322+00:00"
+  },
+  "image_1e47f7a6e87f14.png": {
+    "classification": "formula",
+    "latex": "a = 3",
+    "note": "變數 a 等於 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a = 3\",\"note\":\"變數 a 等於 3\"}\n",
+    "ts": "2026-04-28T09:45:57.916549+00:00"
+  },
+  "image_1d17b080024660.png": {
+    "classification": "formula",
+    "latex": "M \\begin{bmatrix} -3 \\\\ -2 \\end{bmatrix} = \\begin{bmatrix} 3 \\\\ -2 \\end{bmatrix}",
+    "note": "矩陣與向量相乘的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\begin{bmatrix} -3 \\\\\\\\ -2 \\\\end{bmatrix} = \\\\begin{bmatrix} 3 \\\\\\\\ -2 \\\\end{bmatrix}\",\"note\":\"矩陣與向量相乘的等式\"}\n",
+    "ts": "2026-04-28T09:45:59.302992+00:00"
+  },
+  "image_1d9fdba5847080.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ -1 & 0 \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:46:02.362453+00:00"
+  },
+  "image_2068fd3cd54676.png": {
+    "classification": "formula",
+    "latex": "L",
+    "note": "數學符號 L",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L\",\"note\":\"數學符號 L\"}\n",
+    "ts": "2026-04-28T09:46:08.393711+00:00"
+  },
+  "image_1e5a2dfd37aab5.png": {
+    "classification": "formula",
+    "latex": "AB^{12} = A \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix}^{12}",
+    "note": "矩陣次方運算與旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB^{12} = A \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix}^{12}\",\"note\":\"矩陣次方運算與旋轉矩陣\"}\n",
+    "ts": "2026-04-28T09:46:19.938173+00:00"
+  },
+  "image_213dfceb157e20.png": {
+    "classification": "formula",
+    "latex": "A^{4}=\\begin{bmatrix}-1 & 0 \\\\ 0 & -1\\end{bmatrix}\\begin{bmatrix}-1 & 0 \\\\ 0 & -1\\end{bmatrix}=\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}",
+    "note": "矩陣 A 的四次方計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{4}=\\\\begin{bmatrix}-1 & 0 \\\\\\\\ 0 & -1\\\\end{bmatrix}\\\\begin{bmatrix}-1 & 0 \\\\\\\\ 0 & -1\\\\end{bmatrix}=\\\\begin{bmatrix}1 & 0 \\\\\\\\ 0 & 1\\\\end{bmatrix}\",\"note\":\"矩陣 A 的四次方計算過程\"}\n",
+    "ts": "2026-04-28T09:46:22.738020+00:00"
+  },
+  "image_21226be03d1988.png": {
+    "classification": "formula",
+    "latex": "BA = \\begin{bmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{bmatrix} \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix} = \\begin{bmatrix} \\sin \\theta & -\\cos \\theta \\\\ -\\cos \\theta & -\\sin \\theta \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA = \\\\begin{bmatrix} \\\\cos \\\\theta & -\\\\sin \\\\theta \\\\\\\\ \\\\sin \\\\theta & \\\\cos \\\\theta \\\\end{bmatrix} \\\\begin{bmatrix} 0 & -1 \\\\\\\\ -1 & 0 \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\sin \\\\theta & -\\\\cos \\\\theta \\\\\\\\ -\\\\cos \\\\theta & -\\\\sin \\\\theta \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T09:46:29.895042+00:00"
+  },
+  "image_21b1dee0c01199.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\cr -\\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix}",
+    "note": "二階矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\cr -\\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"二階矩陣\"}\n",
+    "ts": "2026-04-28T09:46:37.508619+00:00"
+  },
+  "image_22c32144ecd043.png": {
+    "classification": "formula",
+    "latex": "M \\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix} = \\begin{bmatrix} -3 \\\\ 2 \\end{bmatrix}",
+    "note": "矩陣與向量相乘之等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\begin{bmatrix} 3 \\\\\\\\ 2 \\\\end{bmatrix} = \\\\begin{bmatrix} -3 \\\\\\\\ 2 \\\\end{bmatrix}\",\"note\":\"矩陣與向量相乘之等式\"}\n",
+    "ts": "2026-04-28T09:46:39.745762+00:00"
+  },
+  "image_21db3dbf6aebb7.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:46:42.332398+00:00"
+  },
+  "image_22c50a3be76f30.png": {
+    "classification": "formula",
+    "latex": "D = \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} \\cos \\frac{\\pi}{2} & \\sin \\frac{\\pi}{2} \\ \\sin \\frac{\\pi}{2} & -\\cos \\frac{\\pi}{2} \\end{bmatrix}",
+    "note": "矩陣 D 的定義與三角函數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} \\cos \\frac{\\pi}{2} & \\sin \\frac{\\pi}{2} \\\\ \\sin \\frac{\\pi}{2} & -\\cos \\frac{\\pi}{2} \\end{bmatrix}\",\"note\":\"矩陣 D 的定義與三角函數表示\"}\n",
+    "ts": "2026-04-28T09:46:46.140746+00:00"
+  },
+  "image_24106fcb632871.png": {
+    "classification": "formula",
+    "latex": "(x, y)",
+    "note": "座標 (x, y)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x, y)\",\"note\":\"座標 (x, y)\"}\n",
+    "ts": "2026-04-28T09:46:51.012348+00:00"
+  },
+  "image_2545e8130d4b19.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "小寫字母 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"小寫字母 b\"}\n",
+    "ts": "2026-04-28T09:46:53.548191+00:00"
+  },
+  "image_261822b43f2103.png": {
+    "classification": "formula",
+    "latex": "A^2 + B^2",
+    "note": "數學公式 A^2 + B^2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 + B^2\",\"note\":\"數學公式 A^2 + B^2\"}\n",
+    "ts": "2026-04-28T09:46:56.571467+00:00"
+  },
+  "image_2343e5b82cf621.png": {
+    "classification": "formula",
+    "latex": "A \\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix} = \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}",
+    "note": "矩陣方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A \\\\begin{bmatrix} 1 & 1 \\\\\\\\ -1 & 1 \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & -1 \\\\\\\\ 1 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣方程式\"}\n",
+    "ts": "2026-04-28T09:46:57.600324+00:00"
+  },
+  "image_26e9c574bccc18.png": {
+    "classification": "formula",
+    "latex": "A^9 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣 A 的 9 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^9 = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的 9 次方\"}\n",
+    "ts": "2026-04-28T09:47:03.624820+00:00"
+  },
+  "image_27be2330879878.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 2 & 1 & 1 \\\\ 1 & 2 & -3 \\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 2 & 1 & 1 \\\\\\\\ 1 & 2 & -3 \\\\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T09:47:08.721178+00:00"
+  },
+  "image_29caf433aaba87.png": {
+    "classification": "formula",
+    "latex": "L : y = (\\tan 10^\\circ)x",
+    "note": "直線 L 的方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L : y = (\\\\tan 10^\\\\circ)x\",\"note\":\"直線 L 的方程式\"}\n",
+    "ts": "2026-04-28T09:47:10.371960+00:00"
+  },
+  "image_27c1ba96049ca6.png": {
+    "classification": "formula",
+    "latex": "(A+B)^5 = A^5 + C_1^5 A^4 B + C_2^5 A^3 B^2 + C_3^5 A^2 B^3 + C_4^5 AB^4 + B^5",
+    "note": "二項式定理 (A+B)^5 的展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(A+B)^5 = A^5 + C_1^5 A^4 B + C_2^5 A^3 B^2 + C_3^5 A^2 B^3 + C_4^5 AB^4 + B^5\",\"note\":\"二項式定理 (A+B)^5 的展開式\"}\n",
+    "ts": "2026-04-28T09:47:11.598147+00:00"
+  },
+  "image_2a4a362ff23d00.png": {
+    "classification": "formula",
+    "latex": "2x' + y' = 15",
+    "note": "二元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x' + y' = 15\",\"note\":\"二元一次方程式\"}\n",
+    "ts": "2026-04-28T09:47:15.432259+00:00"
+  },
+  "image_2b103e7741be1c.png": {
+    "classification": "formula",
+    "latex": "b=2",
+    "note": "b = 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=2\",\"note\":\"b = 2\"}\n",
+    "ts": "2026-04-28T09:47:19.556723+00:00"
+  },
+  "image_2d0e35c7a70f57.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 0.5 & 0.6 \\\\ 0.5 & 0.4 \\end{bmatrix}",
+    "note": "二階矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 0.5 & 0.6 \\\\\\\\ 0.5 & 0.4 \\\\end{bmatrix}\",\"note\":\"二階矩陣 A\"}\n",
+    "ts": "2026-04-28T09:47:32.742458+00:00"
+  },
+  "image_2c0b3a2ad5bd3c.png": {
+    "classification": "formula",
+    "latex": "A^2 = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} = I",
+    "note": "矩陣 A 的平方等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = I\",\"note\":\"矩陣 A 的平方等於單位矩陣\"}\n",
+    "ts": "2026-04-28T09:47:34.735670+00:00"
+  },
+  "image_2d38b27dcf82c5.png": {
+    "classification": "formula",
+    "latex": "bx + dy",
+    "note": "數學運算式 bx + dy",
+    "raw": "{\"class\":\"formula\",\"latex\":\"bx + dy\",\"note\":\"數學運算式 bx + dy\"}\n",
+    "ts": "2026-04-28T09:47:43.297403+00:00"
+  },
+  "image_2d4ea3ea4d9e1d.png": {
+    "classification": "formula",
+    "latex": "ABCDEF",
+    "note": "ABCDEF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABCDEF\",\"note\":\"ABCDEF\"}\n",
+    "ts": "2026-04-28T09:47:47.519883+00:00"
+  },
+  "image_2ffdf537040033.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 300^\\circ & -\\sin 300^\\circ \\\\ \\sin 300^\\circ & \\cos 300^\\circ \\end{bmatrix}^6",
+    "note": "旋轉矩陣的六次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 300^\\\\circ & -\\\\sin 300^\\\\circ \\\\\\\\ \\\\sin 300^\\\\circ & \\\\cos 300^\\\\circ \\\\end{bmatrix}^6\",\"note\":\"旋轉矩陣的六次方\"}\n",
+    "ts": "2026-04-28T09:47:58.293788+00:00"
+  },
+  "image_3127fc712e6826.png": {
+    "classification": "formula",
+    "latex": "= ABA^2BA^2 \\cdots A^2BA = ABIBIBI \\cdots IBA",
+    "note": "矩陣乘法推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= ABA^2BA^2 \\\\cdots A^2BA = ABIBIBI \\\\cdots IBA\",\"note\":\"矩陣乘法推導\"}\n",
+    "ts": "2026-04-28T09:48:08.256353+00:00"
+  },
+  "image_31ab89f861983f.png": {
+    "classification": "formula",
+    "latex": "x = \\frac{1}{3}x' + \\frac{2}{3}y'",
+    "note": "x 的座標變換公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x = \\frac{1}{3}x' + \\frac{2}{3}y'\",\"note\":\"x 的座標變換公式\"}\n",
+    "ts": "2026-04-28T09:48:09.795920+00:00"
+  },
+  "image_33321db0412486.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "Mathematical variable b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"Mathematical variable b\"}\n",
+    "ts": "2026-04-28T09:48:20.152501+00:00"
+  },
+  "image_323041f62ec258.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\begin{bmatrix}1 & 0 \\\\ 0 & -1\\end{bmatrix}=\\begin{bmatrix}1 & 0 \\\\ 0 & -1\\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}1 & 0 \\\\\\\\ 0 & 1\\\\end{bmatrix}\\\\begin{bmatrix}1 & 0 \\\\\\\\ 0 & -1\\\\end{bmatrix}=\\\\begin{bmatrix}1 & 0 \\\\\\\\ 0 & -1\\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T09:48:24.715696+00:00"
+  },
+  "image_3335be506f5f2c.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix} \\cos 1800^\\circ & -\\sin 1800^\\circ \\\\ \\sin 1800^\\circ & \\cos 1800^\\circ \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "旋轉矩陣計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix} \\\\cos 1800^\\\\circ & -\\\\sin 1800^\\\\circ \\\\\\\\ \\\\sin 1800^\\\\circ & \\\\cos 1800^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"旋轉矩陣計算過程\"}\n",
+    "ts": "2026-04-28T09:48:39.696276+00:00"
+  },
+  "image_334e6d546a9469.png": {
+    "classification": "formula",
+    "latex": "A^3 = \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix}",
+    "note": "矩陣 A 的三次方等於二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^3 = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ -1 & 0 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的三次方等於二階方陣\"}\n",
+    "ts": "2026-04-28T09:48:41.774484+00:00"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "數學符號 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"數學符號 a\"}\n",
+    "ts": "2026-04-28T09:48:51.362035+00:00"
+  },
+  "image_34e4c16aadf385.png": {
+    "classification": "formula",
+    "latex": "60^\\circ",
+    "note": "60度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60^\\circ\",\"note\":\"60度\"}\n",
+    "ts": "2026-04-28T09:49:01.618082+00:00"
+  },
+  "image_346cd1d9ed09a8.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 1 & 2 \\\\ 1 & -1 \\end{bmatrix}",
+    "note": "2x2 矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 1 & 2 \\\\\\\\ 1 & -1 \\\\end{bmatrix}\",\"note\":\"2x2 矩陣 A\"}\n",
+    "ts": "2026-04-28T09:49:10.685028+00:00"
+  },
+  "image_388c0e85ee634d.png": {
+    "classification": "formula",
+    "latex": "x = x'",
+    "note": "變數等式 x = x'",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x = x'\",\"note\":\"變數等式 x = x'\"}\n",
+    "ts": "2026-04-28T09:49:21.936827+00:00"
+  },
+  "image_36d64f9f57782c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos\\frac{5\\pi}{3} & -\\sin\\frac{5\\pi}{3} \\\\ \\sin\\frac{5\\pi}{3} & \\cos\\frac{5\\pi}{3} \\end{bmatrix}",
+    "note": "2x2 旋轉矩陣，角度為 5π/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos\\\\frac{5\\\\pi}{3} & -\\\\sin\\\\frac{5\\\\pi}{3} \\\\\\\\ \\\\sin\\\\frac{5\\\\pi}{3} & \\\\cos\\\\frac{5\\\\pi}{3} \\\\end{bmatrix}\",\"note\":\"2x2 旋轉矩陣，角度為 5π/3\"}\n",
+    "ts": "2026-04-28T09:49:45.158792+00:00"
+  },
+  "image_39479876e3c0ed.png": {
+    "classification": "formula",
+    "latex": "L'",
+    "note": "數學符號 L'",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L'\",\"note\":\"數學符號 L'\"}\n",
+    "ts": "2026-04-28T09:49:55.205439+00:00"
+  },
+  "image_3920431af17b2e.png": {
+    "classification": "formula",
+    "latex": "A^6 = \\begin{bmatrix} -1 & 0 \\cr 0 & -1 \\end{bmatrix}",
+    "note": "矩陣 A 的六次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^6 = \\\\begin{bmatrix} -1 & 0 \\\\cr 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的六次方\"}\n",
+    "ts": "2026-04-28T09:49:59.578720+00:00"
+  },
+  "image_39ff6bf2113dad.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 3 & 2 & 1 \\ 1 & -1 & 2 \\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\begin{bmatrix} 3 & 2 & 1 \\\\ 1 & -1 & 2 \\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T09:50:10.676801+00:00"
+  },
+  "image_39706265d11bd4.png": {
+    "classification": "formula",
+    "latex": "AB = \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix} \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} = \\begin{bmatrix} -\\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\\\ -\\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\end{bmatrix}",
+    "note": "矩陣相乘運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ -1 & 0 \\\\end{bmatrix} \\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix} = \\\\begin{bmatrix} -\\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\\\\\ -\\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\end{bmatrix}\",\"note\":\"矩陣相乘運算式\"}\n",
+    "ts": "2026-04-28T09:50:16.274578+00:00"
+  },
+  "image_3aab206f26e084.png": {
+    "classification": "formula",
+    "latex": "AB = \\begin{bmatrix} \\frac{1}{2} & -\\sqrt{3} \\\\ \\frac{\\sqrt{3}}{2} & 1 \\end{bmatrix}",
+    "note": "矩陣 AB 的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = \\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\sqrt{3} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & 1 \\\\end{bmatrix}\",\"note\":\"矩陣 AB 的值\"}\n",
+    "ts": "2026-04-28T09:50:31.356336+00:00"
+  },
+  "image_3a40059b06fef0.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x_1 & x_2 & x_3 \\\\ y_1 & y_2 & y_3 \\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x_1 & x_2 & x_3 \\\\\\\\ y_1 & y_2 & y_3 \\\\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T09:50:39.035654+00:00"
+  },
+  "image_3bb6f90fbc6ec8.png": {
+    "classification": "formula",
+    "latex": "A^{11}B^3=B^6A^5",
+    "note": "矩陣冪次等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{11}B^3=B^6A^5\",\"note\":\"矩陣冪次等式\"}\n",
+    "ts": "2026-04-28T09:50:41.663780+00:00"
+  },
+  "image_3c11f9dc7ae590.png": {
+    "classification": "formula",
+    "latex": "n \\times n",
+    "note": "n 乘 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n \\times n\",\"note\":\"n 乘 n\"}\n",
+    "ts": "2026-04-28T09:50:52.110422+00:00"
+  },
+  "image_3c076d429c6141.png": {
+    "classification": "formula",
+    "latex": "2A = \\begin{bmatrix} 2a & 2b \\\\ 2-2a & 2-2b \\end{bmatrix}",
+    "note": "矩陣 2A 的運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2A = \\\\begin{bmatrix} 2a & 2b \\\\\\\\ 2-2a & 2-2b \\\\end{bmatrix}\",\"note\":\"矩陣 2A 的運算\"}\n",
+    "ts": "2026-04-28T09:50:56.807758+00:00"
+  },
+  "image_3c386deefb0cde.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{4}=\\frac{1}{2}",
+    "note": "分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{2}{4}=\\frac{1}{2}\",\"note\":\"分數等式\"}\n",
+    "ts": "2026-04-28T09:51:07.259375+00:00"
+  },
+  "image_3c326e39b9f772.png": {
+    "classification": "formula",
+    "latex": "BA = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix} = \\begin{bmatrix} \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\\\ -\\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA = \\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix} \\\\begin{bmatrix} 0 & -1 \\\\\\\\ -1 & 0 \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\\\\\ -\\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T09:51:10.855159+00:00"
+  },
+  "image_3e1c1a9538e4bc.png": {
+    "classification": "formula",
+    "latex": "= a(a+c)+c(b+d)",
+    "note": "等號開頭的代數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= a(a+c)+c(b+d)\",\"note\":\"等號開頭的代數運算式\"}\n",
+    "ts": "2026-04-28T09:51:22.515211+00:00"
+  },
+  "image_3cee302831cec9.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix} \\cos(20^\\circ \\times 5) & -\\sin(20^\\circ \\times 5) \\\\ \\sin(20^\\circ \\times 5) & \\cos(20^\\circ \\times 5) \\end{bmatrix}",
+    "note": "2x2 旋轉矩陣公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix} \\\\cos(20^\\\\circ \\\\times 5) & -\\\\sin(20^\\\\circ \\\\times 5) \\\\\\\\ \\\\sin(20^\\\\circ \\\\times 5) & \\\\cos(20^\\\\circ \\\\times 5) \\\\end{bmatrix}\",\"note\":\"2x2 旋轉矩陣公式\"}\n",
+    "ts": "2026-04-28T09:51:27.399143+00:00"
+  },
+  "image_2b3350dd1a4a74.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數 1/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{3}\",\"note\":\"分數 1/3\"}\n",
+    "ts": "2026-04-28T10:17:19.875788+00:00"
+  },
+  "image_3e210870ddc6ea.png": {
+    "classification": "formula",
+    "latex": "AB \\neq BA",
+    "note": "矩陣乘法不具交換律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB \\neq BA\",\"note\":\"矩陣乘法不具交換律\"}\n",
+    "ts": "2026-04-28T09:51:42.880054+00:00"
+  },
+  "image_3f905471f22973.png": {
+    "classification": "formula",
+    "latex": "BA = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\ \\sqrt{3} & 1 \\end{bmatrix}",
+    "note": "矩陣 BA 的運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\sqrt{3} & 1 \\end{bmatrix}\",\"note\":\"矩陣 BA 的運算結果\"}\n",
+    "ts": "2026-04-28T09:51:48.946833+00:00"
+  },
+  "image_3f1abe49deff8d.png": {
+    "classification": "formula",
+    "latex": "A+B=\\begin{bmatrix} a+c & b+d \\\\ 2-a-c & 2-b-d \\end{bmatrix}",
+    "note": "矩陣加法運算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A+B=\\\\begin{bmatrix} a+c & b+d \\\\\\\\ 2-a-c & 2-b-d \\\\end{bmatrix}\",\"note\":\"矩陣加法運算公式\"}\n",
+    "ts": "2026-04-28T09:51:58.605234+00:00"
+  },
+  "image_40988ac87c2cbf.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{bmatrix}",
+    "note": "二階旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos \\\\theta & -\\\\sin \\\\theta \\\\\\\\ \\\\sin \\\\theta & \\\\cos \\\\theta \\\\end{bmatrix}\",\"note\":\"二階旋轉矩陣\"}\n",
+    "ts": "2026-04-28T09:52:09.814280+00:00"
+  },
+  "image_40253943df9db5.png": {
+    "classification": "formula",
+    "latex": "A^6 = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣 A 的 6 次方等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^6 = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的 6 次方等於單位矩陣\"}\n",
+    "ts": "2026-04-28T09:52:15.184144+00:00"
+  },
+  "image_43655282981c5d.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix}^6",
+    "note": "矩陣的六次方運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix}^6\",\"note\":\"矩陣的六次方運算\"}\n",
+    "ts": "2026-04-28T09:52:20.462698+00:00"
+  },
+  "image_43d06cd6dc298c.png": {
+    "classification": "formula",
+    "latex": "ap + cq",
+    "note": "數學表達式 ap + cq",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ap + cq\",\"note\":\"數學表達式 ap + cq\"}\n",
+    "ts": "2026-04-28T09:52:25.606897+00:00"
+  },
+  "image_438a736aedd21f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0.6 + 0.1 \\\\ 0.15 + 0.15 \\end{bmatrix} = \\begin{bmatrix} 0.7 \\\\ 0.3 \\end{bmatrix}",
+    "note": "矩陣加法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0.6 + 0.1 \\\\\\\\ 0.15 + 0.15 \\\\end{bmatrix} = \\\\begin{bmatrix} 0.7 \\\\\\\\ 0.3 \\\\end{bmatrix}\",\"note\":\"矩陣加法計算\"}\n",
+    "ts": "2026-04-28T09:52:29.373205+00:00"
+  },
+  "image_440915af78515c.png": {
+    "classification": "formula",
+    "latex": "= b(a + c) + d(b + d)",
+    "note": "代數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= b(a + c) + d(b + d)\",\"note\":\"代數運算式\"}\n",
+    "ts": "2026-04-28T09:52:34.362628+00:00"
+  },
+  "image_44931bedf13b00.png": {
+    "classification": "formula",
+    "latex": "y = x",
+    "note": "方程式 y = x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y = x\",\"note\":\"方程式 y = x\"}\n",
+    "ts": "2026-04-28T09:52:41.463665+00:00"
+  },
+  "image_4422e045b8b131.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}(A^2 + B^2)",
+    "note": "數學公式：1/4(A^2 + B^2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}(A^2 + B^2)\",\"note\":\"數學公式：1/4(A^2 + B^2)\"}\n",
+    "ts": "2026-04-28T09:52:42.693582+00:00"
+  },
+  "image_44da7705a75847.png": {
+    "classification": "formula",
+    "latex": "B^3 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix} = \\begin{bmatrix} \\cos 180^\\circ & -\\sin 180^\\circ \\\\ \\sin 180^\\circ & \\cos 180^\\circ \\end{bmatrix}",
+    "note": "矩陣 B 的三次方等於 180 度旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B^3 = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\cos 180^\\\\circ & -\\\\sin 180^\\\\circ \\\\\\\\ \\\\sin 180^\\\\circ & \\\\cos 180^\\\\circ \\\\end{bmatrix}\",\"note\":\"矩陣 B 的三次方等於 180 度旋轉矩陣\"}\n",
+    "ts": "2026-04-28T09:52:57.692044+00:00"
+  },
+  "image_44f0ca1c944e8a.png": {
+    "classification": "formula",
+    "latex": "E = \\begin{bmatrix} \\cos \\frac{\\pi}{3} & \\sin \\frac{\\pi}{3} \\\\ \\sin \\frac{\\pi}{3} & -\\cos \\frac{\\pi}{3} \\end{bmatrix}",
+    "note": "包含三角函數的二階方陣 E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = \\\\begin{bmatrix} \\\\cos \\\\frac{\\\\pi}{3} & \\\\sin \\\\frac{\\\\pi}{3} \\\\\\\\ \\\\sin \\\\frac{\\\\pi}{3} & -\\\\cos \\\\frac{\\\\pi}{3} \\\\end{bmatrix}\",\"note\":\"包含三角函數的二階方陣 E\"}\n",
+    "ts": "2026-04-28T09:53:00.344107+00:00"
+  },
+  "image_4518de83d48c36.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x' \\\\ y' \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} -x \\\\ -y \\end{bmatrix}",
+    "note": "二維座標變換的矩陣運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} -x \\\\\\\\ -y \\\\end{bmatrix}\",\"note\":\"二維座標變換的矩陣運算\"}\n",
+    "ts": "2026-04-28T09:53:01.977534+00:00"
+  },
+  "image_452ba8fae79c2c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\\\ 0 & 2 \\end{bmatrix} \\begin{bmatrix} \\cos \\theta \\\\ \\sin \\theta \\end{bmatrix} = \\begin{bmatrix} \\cos \\theta \\\\ 2 \\sin \\theta \\end{bmatrix}",
+    "note": "矩陣乘法與三角函數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 2 \\\\end{bmatrix} \\\\begin{bmatrix} \\\\cos \\\\theta \\\\\\\\ \\\\sin \\\\theta \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\cos \\\\theta \\\\\\\\ 2 \\\\sin \\\\theta \\\\end{bmatrix}\",\"note\":\"矩陣乘法與三角函數運算\"}\n",
+    "ts": "2026-04-28T09:53:15.312445+00:00"
+  },
+  "image_452ca9d09dd9b3.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:53:18.251406+00:00"
+  },
+  "image_45bee0212c8b8d.png": {
+    "classification": "formula",
+    "latex": "P_1 = \\begin{bmatrix} \\frac{2}{3} & \\frac{1}{2} \\\\ \\frac{1}{3} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} \\frac{2}{3} \\\\ \\frac{1}{3} \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_1 = \\\\begin{bmatrix} \\\\frac{2}{3} & \\\\frac{1}{2} \\\\\\\\ \\\\frac{1}{3} & \\\\frac{1}{2} \\\\end{bmatrix} \\\\begin{bmatrix} 1 \\\\\\\\ 0 \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{2}{3} \\\\\\\\ \\\\frac{1}{3} \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T09:53:26.739360+00:00"
+  },
+  "image_46055dc0b48a33.png": {
+    "classification": "formula",
+    "latex": "=|1-0| \\times |\\cos^2 45^\\circ + \\sin^2 45^\\circ| \\times \\triangle OAB",
+    "note": "包含絕對值、三角函數與三角形面積符號的數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=|1-0| \\times |\\cos^2 45^\\circ + \\sin^2 45^\\circ| \\times \\triangle OAB\",\"note\":\"包含絕對值、三角函數與三角形面積符號的數學算式\"}\n",
+    "ts": "2026-04-28T09:53:36.312246+00:00"
+  },
+  "image_46a4d608cd7755.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 45^\\circ & \\sin 45^\\circ \\\\ \\sin 45^\\circ & -\\cos 45^\\circ \\end{bmatrix}",
+    "note": "包含三角函數的 2x2 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 45^\\\\circ & \\\\sin 45^\\\\circ \\\\\\\\ \\\\sin 45^\\\\circ & -\\\\cos 45^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含三角函數的 2x2 矩陣\"}\n",
+    "ts": "2026-04-28T09:53:38.416106+00:00"
+  },
+  "image_49d5fad55b02f7.png": {
+    "classification": "formula",
+    "latex": "A^{-1} = A",
+    "note": "矩陣 A 的反矩陣等於 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1} = A\",\"note\":\"矩陣 A 的反矩陣等於 A\"}\n",
+    "ts": "2026-04-28T09:53:48.217882+00:00"
+  },
+  "image_49f33fd405a9bf.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-28T09:53:48.933848+00:00"
+  },
+  "image_49b5dbe90aafca.png": {
+    "classification": "formula",
+    "latex": "AB = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣乘法 AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法 AB\"}\n",
+    "ts": "2026-04-28T09:53:57.994757+00:00"
+  },
+  "image_4b11176b0b7994.png": {
+    "classification": "formula",
+    "latex": "A^2 B = B A^2",
+    "note": "矩陣運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 B = B A^2\",\"note\":\"矩陣運算等式\"}\n",
+    "ts": "2026-04-28T09:53:59.721384+00:00"
+  },
+  "image_4b376090bedfea.png": {
+    "classification": "formula",
+    "latex": "= a + c = 1",
+    "note": "數學等式 a+c=1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= a + c = 1\",\"note\":\"數學等式 a+c=1\"}\n",
+    "ts": "2026-04-28T09:54:08.885409+00:00"
+  },
+  "image_4c2bd0b98c2576.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "點 P(x,y) 與 P'(y,x) 關於直線 x-y=0 對稱的示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"點 P(x,y) 與 P'(y,x) 關於直線 x-y=0 對稱的示意圖\"}\n",
+    "ts": "2026-04-28T09:54:14.306461+00:00"
+  },
+  "image_4aa071f92fea13.png": {
+    "classification": "formula",
+    "latex": "| \\begin{vmatrix} \\frac{1}{2} & 0 \\\\ 0 & 2 \\end{vmatrix} | = |1 - 0| = |1| = 1",
+    "note": "二階行列式的絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"| \\\\begin{vmatrix} \\\\frac{1}{2} & 0 \\\\\\\\ 0 & 2 \\\\end{vmatrix} | = |1 - 0| = |1| = 1\",\"note\":\"二階行列式的絕對值計算\"}\n",
+    "ts": "2026-04-28T09:54:14.879516+00:00"
+  },
+  "image_4c6046f1eb800e.png": {
+    "classification": "formula",
+    "latex": "C(-3,2)",
+    "note": "點 C 的坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C(-3,2)\",\"note\":\"點 C 的坐標\"}\n",
+    "ts": "2026-04-28T09:54:19.374731+00:00"
+  },
+  "image_4cb2ffdce4c3f8.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} 4\\sqrt{3} \\\\ 2 \\end{bmatrix}",
+    "note": "矩陣乘法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix} \\\\begin{bmatrix} 4\\\\sqrt{3} \\\\\\\\ 2 \\\\end{bmatrix}\",\"note\":\"矩陣乘法計算\"}\n",
+    "ts": "2026-04-28T09:54:29.783553+00:00"
+  },
+  "image_4eb77d74cbe5ee.png": {
+    "classification": "formula",
+    "latex": "x = -\\frac{\\sqrt{3}}{2}t",
+    "note": "數學等式 x = -(\\sqrt{3}/2)t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x = -\\frac{\\sqrt{3}}{2}t\",\"note\":\"數學等式 x = -(\\sqrt{3}/2)t\"}\n",
+    "ts": "2026-04-28T09:54:32.435389+00:00"
+  },
+  "image_4d69b853f59c9a.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}^2 = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "單位矩陣的平方等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}^2 = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"單位矩陣的平方等於單位矩陣\"}\n",
+    "ts": "2026-04-28T09:54:33.548665+00:00"
+  },
+  "image_4f270b5cbe15ad.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "數學符號 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"數學符號 C\"}\n",
+    "ts": "2026-04-28T09:54:43.198400+00:00"
+  },
+  "image_4f835c93c2ce86.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "數學變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"數學變數 y\"}\n",
+    "ts": "2026-04-28T09:54:44.757354+00:00"
+  },
+  "image_4f6b8bbd49b1eb.png": {
+    "classification": "formula",
+    "latex": "\\theta = 60^\\circ",
+    "note": "theta 等於 60 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta = 60^\\\\circ\",\"note\":\"theta 等於 60 度\"}\n",
+    "ts": "2026-04-28T09:54:49.924948+00:00"
+  },
+  "image_4ff6897c957780.png": {
+    "classification": "formula",
+    "latex": "AB = A(-A) = (-A)A = BA",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = A(-A) = (-A)A = BA\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T09:54:56.507860+00:00"
+  },
+  "image_51281152f4f437.png": {
+    "classification": "formula",
+    "latex": "(ap + cq) + (bp + dq)",
+    "note": "代數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(ap + cq) + (bp + dq)\",\"note\":\"代數運算式\"}\n",
+    "ts": "2026-04-28T09:55:00.679879+00:00"
+  },
+  "image_4fca4b5fab7642.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos 20^\\circ & \\sin 20^\\circ \\\\ \\sin 20^\\circ & -\\cos 20^\\circ \\end{bmatrix}",
+    "note": "包含三角函數的二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos 20^\\\\circ & \\\\sin 20^\\\\circ \\\\\\\\ \\\\sin 20^\\\\circ & -\\\\cos 20^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含三角函數的二階方陣\"}\n",
+    "ts": "2026-04-28T09:55:02.208808+00:00"
+  },
+  "image_51aa4a9f31c094.png": {
+    "classification": "formula",
+    "latex": "a + b + c + d = 8",
+    "note": "a + b + c + d = 8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a + b + c + d = 8\",\"note\":\"a + b + c + d = 8\"}\n",
+    "ts": "2026-04-28T09:55:12.544921+00:00"
+  },
+  "image_51875fbb1fb042.png": {
+    "classification": "formula",
+    "latex": "a^2 + bc + ac + cd",
+    "note": "代數多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2 + bc + ac + cd\",\"note\":\"代數多項式\"}\n",
+    "ts": "2026-04-28T09:55:17.307877+00:00"
+  },
+  "image_52ab155423ff5c.png": {
+    "classification": "formula",
+    "latex": "-A",
+    "note": "負 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-A\",\"note\":\"負 A\"}\n",
+    "ts": "2026-04-28T09:55:22.544969+00:00"
+  },
+  "image_538f5b4b2108a6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{-1}\\begin{bmatrix}-\\cos \\theta & -\\sin \\theta \\\\ -\\sin \\theta & \\cos \\theta\\end{bmatrix}",
+    "note": "包含三角函數的矩陣算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{-1}\\\\begin{bmatrix}-\\\\cos \\\\theta & -\\\\sin \\\\theta \\\\\\\\ -\\\\sin \\\\theta & \\\\cos \\\\theta\\\\end{bmatrix}\",\"note\":\"包含三角函數的矩陣算式\"}\n",
+    "ts": "2026-04-28T09:55:35.115646+00:00"
+  },
+  "image_5179cd5ddb925d.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix} 0 & -\\frac{3}{2} \\\\ \\frac{2}{3} & 0 \\end{vmatrix}=1",
+    "note": "二階行列式等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix} 0 & -\\\\frac{3}{2} \\\\\\\\ \\\\frac{2}{3} & 0 \\\\end{vmatrix}=1\",\"note\":\"二階行列式等於1\"}\n",
+    "ts": "2026-04-28T09:55:42.444568+00:00"
+  },
+  "image_54e8b10e7bf369.png": {
+    "classification": "formula",
+    "latex": "A^2 \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 \\\\begin{bmatrix} 1 \\\\\\\\ -1 \\\\end{bmatrix} = \\\\begin{bmatrix} -1 \\\\\\\\ 1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-04-28T09:55:42.592316+00:00"
+  },
+  "image_568b9e269ce8ec.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "數學符號 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"數學符號 B\"}\n",
+    "ts": "2026-04-28T09:55:46.631106+00:00"
+  },
+  "image_56f27147f58d6d.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上頂點在原點的倒三角形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上頂點在原點的倒三角形\"}\n",
+    "ts": "2026-04-28T09:55:55.359946+00:00"
+  },
+  "image_579e4b16ebf934.png": {
+    "classification": "formula",
+    "latex": "L' : \\frac{1}{3}x' + \\frac{2}{3}y' + \\frac{1}{3}x' - \\frac{1}{3}y' = 5",
+    "note": "直線 L' 的方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L' : \\frac{1}{3}x' + \\frac{2}{3}y' + \\frac{1}{3}x' - \\frac{1}{3}y' = 5\",\"note\":\"直線 L' 的方程式\"}\n",
+    "ts": "2026-04-28T09:55:56.858891+00:00"
+  },
+  "image_580f524eea2175.png": {
+    "classification": "formula",
+    "latex": "-24",
+    "note": "負24",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-24\",\"note\":\"負24\"}\n",
+    "ts": "2026-04-28T09:55:58.993375+00:00"
+  },
+  "image_58c236d5e3eedf.png": {
+    "classification": "formula",
+    "latex": "L",
+    "note": "字母 L",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L\",\"note\":\"字母 L\"}\n",
+    "ts": "2026-04-28T09:56:06.139887+00:00"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "數學符號 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"數學符號 B\"}\n",
+    "ts": "2026-04-28T09:56:06.691709+00:00"
+  },
+  "image_59fb8bef385aed.png": {
+    "classification": "formula",
+    "latex": "-\\frac{\\sqrt{3}}{3}",
+    "note": "負的三分之根號三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\frac{\\\\sqrt{3}}{3}\",\"note\":\"負的三分之根號三\"}\n",
+    "ts": "2026-04-28T09:56:17.544397+00:00"
+  },
+  "image_5a44096a11716e.png": {
+    "classification": "formula",
+    "latex": "AB \\neq BA",
+    "note": "AB 不等於 BA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB \\neq BA\",\"note\":\"AB 不等於 BA\"}\n",
+    "ts": "2026-04-28T09:56:17.553570+00:00"
+  },
+  "image_5a9d9c390554df.png": {
+    "classification": "formula",
+    "latex": "C:x^2+y^2=1",
+    "note": "圓方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C:x^2+y^2=1\",\"note\":\"圓方程式\"}\n",
+    "ts": "2026-04-28T09:56:28.777014+00:00"
+  },
+  "image_5a6dddb5787b87.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} 1 & 0 \\\\ 0 & 2 \\end{bmatrix}",
+    "note": "矩陣 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 2 \\\\end{bmatrix}\",\"note\":\"矩陣 B\"}\n",
+    "ts": "2026-04-28T09:56:37.592159+00:00"
+  },
+  "image_5b07c7cfe0d1b3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}(A + B)",
+    "note": "1/2(A+B)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{2}(A + B)\",\"note\":\"1/2(A+B)\"}\n",
+    "ts": "2026-04-28T09:56:41.045586+00:00"
+  },
+  "image_59b93d28f58276.png": {
+    "classification": "formula",
+    "latex": "|\\begin{vmatrix} -1 & 0 \\\\ 0 & 1 \\end{vmatrix}| = |-1 - 0| = 1",
+    "note": "二階行列式的絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\begin{vmatrix} -1 & 0 \\\\\\\\ 0 & 1 \\\\end{vmatrix}| = |-1 - 0| = 1\",\"note\":\"二階行列式的絕對值計算\"}\n",
+    "ts": "2026-04-28T09:56:45.333756+00:00"
+  },
+  "image_5b464c2a34aa56.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos \\theta & \\sin \\theta \\\\ \\sin \\theta & -\\cos \\theta \\end{bmatrix}",
+    "note": "二階鏡射矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos \\\\theta & \\\\sin \\\\theta \\\\\\\\ \\\\sin \\\\theta & -\\\\cos \\\\theta \\\\end{bmatrix}\",\"note\":\"二階鏡射矩陣\"}\n",
+    "ts": "2026-04-28T09:56:54.891782+00:00"
+  },
+  "image_5c698bb1a6b998.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0.9 & 0.6 \\\\ 0.1 & 0.4 \\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0.9 & 0.6 \\\\\\\\ 0.1 & 0.4 \\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-28T09:56:56.009245+00:00"
+  },
+  "image_5c58007694dafe.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0.8 & 0.4 \\\\ 0.2 & 0.6 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0.8 & 0.4 \\\\\\\\ 0.2 & 0.6 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T09:56:57.960889+00:00"
+  },
+  "image_5d8e18ee4a3b1e.png": {
+    "classification": "formula",
+    "latex": "AB^{12} = A^7",
+    "note": "矩陣或變數的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB^{12} = A^7\",\"note\":\"矩陣或變數的等式\"}\n",
+    "ts": "2026-04-28T09:57:07.349991+00:00"
+  },
+  "image_5d5e085c7ab789.png": {
+    "classification": "formula",
+    "latex": "(ABA)^{15} = AB^{15}A",
+    "note": "矩陣乘法運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(ABA)^{15} = AB^{15}A\",\"note\":\"矩陣乘法運算式\"}\n",
+    "ts": "2026-04-28T09:57:07.623891+00:00"
+  },
+  "image_5d9fc155cf58aa.png": {
+    "classification": "formula",
+    "latex": "B^{-1} = \\begin{bmatrix} 2 & 0 \\ 0 & 1 \\end{bmatrix}",
+    "note": "反矩陣 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B^{-1} = \\begin{bmatrix} 2 & 0 \\\\ 0 & 1 \\end{bmatrix}\",\"note\":\"反矩陣 B\"}\n",
+    "ts": "2026-04-28T09:57:16.953359+00:00"
+  },
+  "image_5f5302852ccf0f.png": {
+    "classification": "formula",
+    "latex": "2x + y = 15",
+    "note": "二元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x + y = 15\",\"note\":\"二元一次方程式\"}\n",
+    "ts": "2026-04-28T09:57:23.810477+00:00"
+  },
+  "image_5dca0661570978.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 30^\\circ & \\sin 30^\\circ \\\\ \\sin 30^\\circ & -\\cos 30^\\circ \\end{bmatrix}",
+    "note": "包含三角函數的 2x2 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 30^\\\\circ & \\\\sin 30^\\\\circ \\\\\\\\ \\\\sin 30^\\\\circ & -\\\\cos 30^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含三角函數的 2x2 矩陣\"}\n",
+    "ts": "2026-04-28T09:57:29.860688+00:00"
+  },
+  "image_60723ae7379678.png": {
+    "classification": "formula",
+    "latex": "x + \\sqrt{3}y = 0",
+    "note": "二元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x + \\sqrt{3}y = 0\",\"note\":\"二元一次方程式\"}\n",
+    "ts": "2026-04-28T09:57:33.593441+00:00"
+  },
+  "image_605ef3c6431777.png": {
+    "classification": "formula",
+    "latex": "2 \\times 2",
+    "note": "2 乘 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2 \\times 2\",\"note\":\"2 乘 2\"}\n",
+    "ts": "2026-04-28T09:57:35.450000+00:00"
+  },
+  "image_2c00969853962e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 0^\\circ & \\sin 0^\\circ \\\\ \\sin 0^\\circ & -\\cos 0^\\circ \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "包含三角函數與常數的 2x2 矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 0^\\\\circ & \\\\sin 0^\\\\circ \\\\\\\\ \\\\sin 0^\\\\circ & -\\\\cos 0^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"包含三角函數與常數的 2x2 矩陣等式\"}\n",
+    "ts": "2026-04-28T10:17:28.700340+00:00"
+  },
+  "image_65dbf034da0d08.png": {
+    "classification": "formula",
+    "latex": "AB = BA",
+    "note": "AB = BA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = BA\",\"note\":\"AB = BA\"}\n",
+    "ts": "2026-04-28T09:57:46.462228+00:00"
+  },
+  "image_63c7bb2bbb7d02.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 3 & -2 \\\\ -2 & 1 & 3 \\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 3 & -2 \\\\\\\\ -2 & 1 & 3 \\\\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T09:57:53.461768+00:00"
+  },
+  "image_609dea19aa8980.png": {
+    "classification": "formula",
+    "latex": "(A+B)^5 \\neq A^5 + C_1^5 A^4 B + C_2^5 A^3 B^2 + C_3^5 A^2 B^3 + C_4^5 AB^4 + B^5",
+    "note": "矩陣乘法不具交換律時的二項式展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(A+B)^5 \\neq A^5 + C_1^5 A^4 B + C_2^5 A^3 B^2 + C_3^5 A^2 B^3 + C_4^5 AB^4 + B^5\",\"note\":\"矩陣乘法不具交換律時的二項式展開式\"}\n",
+    "ts": "2026-04-28T09:57:54.125679+00:00"
+  },
+  "image_65f108b6acd8f5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 300^\\circ & -\\sin 300^\\circ \\\\ \\sin 300^\\circ & \\cos 300^\\circ \\end{bmatrix}",
+    "note": "300度旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 300^\\\\circ & -\\\\sin 300^\\\\circ \\\\\\\\ \\\\sin 300^\\\\circ & \\\\cos 300^\\\\circ \\\\end{bmatrix}\",\"note\":\"300度旋轉矩陣\"}\n",
+    "ts": "2026-04-28T09:58:01.871010+00:00"
+  },
+  "image_6760a0fedeca22.png": {
+    "classification": "formula",
+    "latex": "= b + d = 1",
+    "note": "数学公式 b + d = 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= b + d = 1\",\"note\":\"数学公式 b + d = 1\"}\n",
+    "ts": "2026-04-28T09:58:04.678148+00:00"
+  },
+  "image_64ec7ebdedff29.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x' \\\\ y' \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} -x \\\\ y \\end{bmatrix}",
+    "note": "矩陣乘法與線性變換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} -x \\\\\\\\ y \\\\end{bmatrix}\",\"note\":\"矩陣乘法與線性變換\"}\n",
+    "ts": "2026-04-28T09:58:09.484601+00:00"
+  },
+  "image_66b25ba9e7e310.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} 2 & 0 \\\\ 0 & 2 \\end{bmatrix}",
+    "note": "矩陣 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} 2 & 0 \\\\\\\\ 0 & 2 \\\\end{bmatrix}\",\"note\":\"矩陣 B\"}\n",
+    "ts": "2026-04-28T09:58:12.405689+00:00"
+  },
+  "image_68842326af23ef.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}x' + \\frac{1}{3}y' = 5",
+    "note": "二元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{2}{3}x' + \\frac{1}{3}y' = 5\",\"note\":\"二元一次方程式\"}\n",
+    "ts": "2026-04-28T09:58:18.860367+00:00"
+  },
+  "image_68d91ff5fec998.png": {
+    "classification": "formula",
+    "latex": "P_3 = \\begin{bmatrix} \\frac{2}{3} & \\frac{1}{2} \\ \\frac{1}{3} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} \\frac{11}{18} \\ \\frac{7}{18} \\end{bmatrix} = \\begin{bmatrix} \\frac{65}{108} \\ \\frac{43}{108} \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_3 = \\begin{bmatrix} \\frac{2}{3} & \\frac{1}{2} \\\\ \\frac{1}{3} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} \\frac{11}{18} \\\\ \\frac{7}{18} \\end{bmatrix} = \\begin{bmatrix} \\frac{65}{108} \\\\ \\frac{43}{108} \\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T09:58:25.350957+00:00"
+  },
+  "image_6b36df9cff3c5c.png": {
+    "classification": "formula",
+    "latex": "\\frac{x^2}{1} + \\frac{y^2}{4} = 1",
+    "note": "橢圓方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{x^2}{1} + \\frac{y^2}{4} = 1\",\"note\":\"橢圓方程式\"}\n",
+    "ts": "2026-04-28T09:58:28.009142+00:00"
+  },
+  "image_68a568705d6447.png": {
+    "classification": "formula",
+    "latex": "M \\begin{bmatrix} -3 \\cr 2 \\end{bmatrix} = \\begin{bmatrix} -3 \\cr -2 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\begin{bmatrix} -3 \\\\cr 2 \\\\end{bmatrix} = \\\\begin{bmatrix} -3 \\\\cr -2 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T09:58:37.128254+00:00"
+  },
+  "image_6b46d48ed4cf2b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0.75 \\\\ 0.25 \\end{bmatrix}",
+    "note": "二列一行的矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0.75 \\\\\\\\ 0.25 \\\\end{bmatrix}\",\"note\":\"二列一行的矩陣\"}\n",
+    "ts": "2026-04-28T09:58:38.726223+00:00"
+  },
+  "image_6bb589d9e67a57.png": {
+    "classification": "formula",
+    "latex": "L' : 3x' - \\left( \\frac{a}{8}x' - \\frac{1}{8}y' \\right) = 4 \\implies \\left( 3 - \\frac{a}{8} \\right)x' + \\frac{1}{8}y' = 4",
+    "note": "直線方程式的代入與化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L' : 3x' - \\\\left( \\\\frac{a}{8}x' - \\\\frac{1}{8}y' \\\\right) = 4 \\\\implies \\\\left( 3 - \\\\frac{a}{8} \\\\right)x' + \\\\frac{1}{8}y' = 4\",\"note\":\"直線方程式的代入與化簡\"}\n",
+    "ts": "2026-04-28T09:58:46.292904+00:00"
+  },
+  "image_6b746fb1493db7.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 75^\\circ & \\sin 75^\\circ \\\\ \\sin 75^\\circ & -\\cos 75^\\circ \\end{bmatrix}",
+    "note": "2x2 矩陣，包含 75 度餘弦與正弦",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 75^\\\\circ & \\\\sin 75^\\\\circ \\\\\\\\ \\\\sin 75^\\\\circ & -\\\\cos 75^\\\\circ \\\\end{bmatrix}\",\"note\":\"2x2 矩陣，包含 75 度餘弦與正弦\"}\n",
+    "ts": "2026-04-28T09:58:49.746841+00:00"
+  },
+  "image_6c653d55d16c03.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} a & c \\\\ b & d \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} a & c \\\\\\\\ b & d \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T09:58:52.143884+00:00"
+  },
+  "image_6be502882feefe.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} x \\\\ -y \\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} x \\\\\\\\ y \\end{bmatrix} = \\begin{bmatrix} x \\\\\\\\ -y \\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-04-28T09:58:56.252084+00:00"
+  },
+  "image_6ce6e9849383ad.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "數學符號 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"數學符號 P\"}\n",
+    "ts": "2026-04-28T09:59:01.443101+00:00"
+  },
+  "image_6d02a7b0f417e8.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos 0^\\circ & \\sin 0^\\circ \\\\ \\sin 0^\\circ & -\\cos 0^\\circ \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "包含三角函數的矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos 0^\\\\circ & \\\\sin 0^\\\\circ \\\\\\\\ \\\\sin 0^\\\\circ & -\\\\cos 0^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"包含三角函數的矩陣等式\"}\n",
+    "ts": "2026-04-28T09:59:11.852813+00:00"
+  },
+  "image_6cc41051b7de68.png": {
+    "classification": "formula",
+    "latex": "E = \\begin{bmatrix} \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣 E 的定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = \\\\begin{bmatrix} \\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"矩陣 E 的定義\"}\n",
+    "ts": "2026-04-28T09:59:18.373069+00:00"
+  },
+  "image_6d2e6e8480649b.png": {
+    "classification": "formula",
+    "latex": "BABA=\\begin{bmatrix} \\sin \\theta & -\\cos \\theta \\\\ -\\cos \\theta & -\\sin \\theta \\end{bmatrix}\\begin{bmatrix} \\sin \\theta & -\\cos \\theta \\\\ -\\cos \\theta & -\\sin \\theta \\end{bmatrix}=\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣乘法運算結果為單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BABA=\\\\begin{bmatrix} \\\\sin \\\\theta & -\\\\cos \\\\theta \\\\\\\\ -\\\\cos \\\\theta & -\\\\sin \\\\theta \\\\end{bmatrix}\\\\begin{bmatrix} \\\\sin \\\\theta & -\\\\cos \\\\theta \\\\\\\\ -\\\\cos \\\\theta & -\\\\sin \\\\theta \\\\end{bmatrix}=\\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算結果為單位矩陣\"}\n",
+    "ts": "2026-04-28T09:59:23.518816+00:00"
+  },
+  "image_6cec63271a5d46.png": {
+    "classification": "formula",
+    "latex": "AB=\\begin{bmatrix} a & b \\\\ 1-a & 1-b \\end{bmatrix}\\begin{bmatrix} c & d \\\\ 1-c & 1-d \\end{bmatrix}=\\begin{bmatrix} ac+b-bc & ad+b-bd \\\\ 1-ac-b+bc & 1-ad-b+bd \\end{bmatrix}",
+    "note": "二階轉移矩陣相乘的過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB=\\\\begin{bmatrix} a & b \\\\\\\\ 1-a & 1-b \\\\end{bmatrix}\\\\begin{bmatrix} c & d \\\\\\\\ 1-c & 1-d \\\\end{bmatrix}=\\\\begin{bmatrix} ac+b-bc & ad+b-bd \\\\\\\\ 1-ac-b+bc & 1-ad-b+bd \\\\end{bmatrix}\",\"note\":\"二階轉移矩陣相乘的過程\"}\n",
+    "ts": "2026-04-28T09:59:26.963439+00:00"
+  },
+  "image_6d393da54c0306.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{bmatrix}",
+    "note": "二階旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos \\\\theta & -\\\\sin \\\\theta \\\\\\\\ \\\\sin \\\\theta & \\\\cos \\\\theta \\\\end{bmatrix}\",\"note\":\"二階旋轉矩陣\"}\n",
+    "ts": "2026-04-28T09:59:27.914062+00:00"
+  },
+  "image_6d6a3141e5da24.png": {
+    "classification": "formula",
+    "latex": "AB",
+    "note": "數學符號 AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB\",\"note\":\"數學符號 AB\"}\n",
+    "ts": "2026-04-28T09:59:29.811433+00:00"
+  },
+  "image_6e76cca7ceacf5.png": {
+    "classification": "formula",
+    "latex": "c + d = 1",
+    "note": "c + d = 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c + d = 1\",\"note\":\"c + d = 1\"}\n",
+    "ts": "2026-04-28T09:59:37.197402+00:00"
+  },
+  "image_6f5d8b9b8b1e8b.png": {
+    "classification": "formula",
+    "latex": "p + q = 1",
+    "note": "p + q = 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p + q = 1\",\"note\":\"p + q = 1\"}\n",
+    "ts": "2026-04-28T09:59:40.644759+00:00"
+  },
+  "image_6dc6b6153faa0c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T09:59:42.016314+00:00"
+  },
+  "image_6e871d98b649f3.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos(30^\\circ - 30^\\circ) & -\\sin(30^\\circ - 30^\\circ) \\\\ \\sin(30^\\circ - 30^\\circ) & \\cos(30^\\circ - 30^\\circ) \\end{bmatrix}",
+    "note": "2x2 旋轉矩陣，包含餘弦與正弦函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos(30^\\\\circ - 30^\\\\circ) & -\\\\sin(30^\\\\circ - 30^\\\\circ) \\\\\\\\ \\\\sin(30^\\\\circ - 30^\\\\circ) & \\\\cos(30^\\\\circ - 30^\\\\circ) \\\\end{bmatrix}\",\"note\":\"2x2 旋轉矩陣，包含餘弦與正弦函數\"}\n",
+    "ts": "2026-04-28T09:59:47.054635+00:00"
+  },
+  "image_6f755f2f145dae.png": {
+    "classification": "formula",
+    "latex": "\\frac{x^2}{4} + \\frac{y^2}{1} = 1",
+    "note": "橢圓標準式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{x^2}{4} + \\frac{y^2}{1} = 1\",\"note\":\"橢圓標準式\"}\n",
+    "ts": "2026-04-28T09:59:56.671947+00:00"
+  },
+  "image_7236b6d2c348c0.png": {
+    "classification": "formula",
+    "latex": "\\frac{-\\left(3-\\frac{a}{8}\\right)}{\\frac{1}{8}}=2 \\Rightarrow -24+a=2 \\Rightarrow a=26",
+    "note": "解一元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-\\\\left(3-\\\\frac{a}{8}\\\\right)}{\\\\frac{1}{8}}=2 \\\\Rightarrow -24+a=2 \\\\Rightarrow a=26\",\"note\":\"解一元一次方程式\"}\n",
+    "ts": "2026-04-28T10:00:00.868390+00:00"
+  },
+  "image_71521d5066ddc1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & 0 \\\\ 0 & 2 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{1}{2} & 0 \\\\\\\\ 0 & 2 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:00:03.193938+00:00"
+  },
+  "image_70df7816051422.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣 B 的 60 度旋轉矩陣定義與數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"矩陣 B 的 60 度旋轉矩陣定義與數值\"}\n",
+    "ts": "2026-04-28T10:00:08.951811+00:00"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"變數 y\"}\n",
+    "ts": "2026-04-28T10:00:10.988863+00:00"
+  },
+  "image_72f19e5bfa78c6.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos180^\\circ & \\sin180^\\circ \\\\ \\sin180^\\circ & -\\cos180^\\circ \\end{bmatrix}",
+    "note": "包含三角函數 cos 與 sin 的二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos180^\\\\circ & \\\\sin180^\\\\circ \\\\\\\\ \\\\sin180^\\\\circ & -\\\\cos180^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含三角函數 cos 與 sin 的二階方陣\"}\n",
+    "ts": "2026-04-28T10:00:17.879595+00:00"
+  },
+  "image_73bd2581864165.png": {
+    "classification": "formula",
+    "latex": "y' = ax - 8y",
+    "note": "y' = ax - 8y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y' = ax - 8y\",\"note\":\"y' = ax - 8y\"}\n",
+    "ts": "2026-04-28T10:00:20.498019+00:00"
+  },
+  "image_73b6fce42450a4.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos \\frac{\\pi}{2} & -\\sin \\frac{\\pi}{2} \\\\ \\sin \\frac{\\pi}{2} & \\cos \\frac{\\pi}{2} \\end{bmatrix}",
+    "note": "包含三角函數分量的二階方陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos \\\\frac{\\\\pi}{2} & -\\\\sin \\\\frac{\\\\pi}{2} \\\\\\\\ \\\\sin \\\\frac{\\\\pi}{2} & \\\\cos \\\\frac{\\\\pi}{2} \\\\end{bmatrix}\",\"note\":\"包含三角函數分量的二階方陣 A\"}\n",
+    "ts": "2026-04-28T10:00:25.338256+00:00"
+  },
+  "image_755448a9538dae.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{\\sqrt{6}-\\sqrt{2}}{4} & \\frac{\\sqrt{6}+\\sqrt{2}}{4} \\ \\frac{\\sqrt{6}+\\sqrt{2}}{4} & \\frac{\\sqrt{2}-\\sqrt{6}}{4} \\end{bmatrix}",
+    "note": "包含根號分式的二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\begin{bmatrix} \\frac{\\sqrt{6}-\\sqrt{2}}{4} & \\frac{\\sqrt{6}+\\sqrt{2}}{4} \\\\ \\frac{\\sqrt{6}+\\sqrt{2}}{4} & \\frac{\\sqrt{2}-\\sqrt{6}}{4} \\end{bmatrix}\",\"note\":\"包含根號分式的二階方陣\"}\n",
+    "ts": "2026-04-28T10:00:28.150906+00:00"
+  },
+  "image_78062045b7be28.png": {
+    "classification": "formula",
+    "latex": "4:1",
+    "note": "比例 4:1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4:1\",\"note\":\"比例 4:1\"}\n",
+    "ts": "2026-04-28T10:00:31.809661+00:00"
+  },
+  "image_79c233a7f8d910.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 1 \\\\ 0 & 0 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 1 \\\\\\\\ 0 & 0 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:00:46.814851+00:00"
+  },
+  "image_7a312a6a766930.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} \\cos 45^\\circ & -\\sin 45^\\circ \\\\ \\sin 45^\\circ & \\cos 45^\\circ \\end{bmatrix} \\begin{bmatrix} 2 \\\\ -4 \\end{bmatrix} = \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} \\frac{\\sqrt{2}}{2} & -\\frac{\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2} \\end{bmatrix} \\begin{bmatrix} 2 \\\\ -4 \\end{bmatrix}",
+    "note": "矩陣線性變換與旋轉變換的乘法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 2 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\begin{bmatrix} \\\\cos 45^\\\\circ & -\\\\sin 45^\\\\circ \\\\\\\\ \\\\sin 45^\\\\circ & \\\\cos 45^\\\\circ \\\\end{bmatrix} \\\\begin{bmatrix} 2 \\\\\\\\ -4 \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 2 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\begin{bmatrix} \\\\frac{\\\\sqrt{2}}{2} & -\\\\frac{\\\\sqrt{2}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{2}}{2} & \\\\frac{\\\\sqrt{2}}{2} \\\\end{bmatrix} \\\\begin{bmatrix} 2 \\\\\\\\ -4 \\\\end{bmatrix}\",\"note\":\"矩陣線性變換與旋轉變換的乘法計算\"}\n",
+    "ts": "2026-04-28T10:00:51.576050+00:00"
+  },
+  "image_79951e62a1285f.png": {
+    "classification": "formula",
+    "latex": "C = \\begin{bmatrix} \\frac{4}{5} & \\frac{3}{5} \\\\ -\\frac{3}{5} & \\frac{4}{5} \\end{bmatrix}",
+    "note": "矩陣 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C = \\\\begin{bmatrix} \\\\frac{4}{5} & \\\\frac{3}{5} \\\\\\\\ -\\\\frac{3}{5} & \\\\frac{4}{5} \\\\end{bmatrix}\",\"note\":\"矩陣 C\"}\n",
+    "ts": "2026-04-28T10:00:51.619291+00:00"
+  },
+  "image_7ab6ccd3d5868d.png": {
+    "classification": "formula",
+    "latex": "7",
+    "note": "數字 7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7\",\"note\":\"數字 7\"}\n",
+    "ts": "2026-04-28T10:00:57.771088+00:00"
+  },
+  "image_7b3d9792f87525.png": {
+    "classification": "formula",
+    "latex": "M \\begin{bmatrix} 3 & 3 \\\\ -2 & 2 \\end{bmatrix} = \\begin{bmatrix} 3 & -3 \\\\ 2 & 2 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\begin{bmatrix} 3 & 3 \\\\\\\\ -2 & 2 \\\\end{bmatrix} = \\\\begin{bmatrix} 3 & -3 \\\\\\\\ 2 & 2 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:01:10.186695+00:00"
+  },
+  "image_762b529819f641.png": {
+    "classification": "formula",
+    "latex": "B = A \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix} = A(-I) = -A",
+    "note": "矩陣與負單位矩陣相乘的運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = A \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = A(-I) = -A\",\"note\":\"矩陣與負單位矩陣相乘的運算過程\"}\n",
+    "ts": "2026-04-28T10:01:16.230227+00:00"
+  },
+  "image_7bf5ceca15a72c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 90^{\\circ} & \\sin 90^{\\circ} \\\\ \\sin 90^{\\circ} & -\\cos 90^{\\circ} \\end{bmatrix}",
+    "note": "包含 cos 90° 與 sin 90° 的二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 90^{\\\\circ} & \\\\sin 90^{\\\\circ} \\\\\\\\ \\\\sin 90^{\\\\circ} & -\\\\cos 90^{\\\\circ} \\\\end{bmatrix}\",\"note\":\"包含 cos 90° 與 sin 90° 的二階方陣\"}\n",
+    "ts": "2026-04-28T10:01:16.276000+00:00"
+  },
+  "image_7c1cfcd26d6612.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字3\"}\n",
+    "ts": "2026-04-28T10:01:20.320660+00:00"
+  },
+  "image_7b4b1c39000325.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & 0 \\\\ 1 & 1 \\end{bmatrix}",
+    "note": "2x2 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & 0 \\\\\\\\ 1 & 1 \\\\end{bmatrix}\",\"note\":\"2x2 矩陣\"}\n",
+    "ts": "2026-04-28T10:01:30.087804+00:00"
+  },
+  "image_7c9bd5b6e91331.png": {
+    "classification": "formula",
+    "latex": "10^\\circ",
+    "note": "10度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^\\\\circ\",\"note\":\"10度\"}\n",
+    "ts": "2026-04-28T10:01:30.315289+00:00"
+  },
+  "image_7c4f57eddc7810.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 45^\\circ & \\sin 45^\\circ \\\\ \\sin 45^\\circ & -\\cos 45^\\circ \\end{bmatrix}^4",
+    "note": "矩陣的 4 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 45^\\\\circ & \\\\sin 45^\\\\circ \\\\\\\\ \\\\sin 45^\\\\circ & -\\\\cos 45^\\\\circ \\\\end{bmatrix}^4\",\"note\":\"矩陣的 4 次方\"}\n",
+    "ts": "2026-04-28T10:01:34.487772+00:00"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字 2\"}\n",
+    "ts": "2026-04-28T10:01:47.105090+00:00"
+  },
+  "image_7d6a4071a0607e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{3} & \\frac{2}{3} \\\\ \\frac{1}{3} & -\\frac{1}{3} \\end{bmatrix} \\begin{bmatrix} x' \\\\ y' \\end{bmatrix}",
+    "note": "矩陣變換等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{1}{3} & \\\\frac{2}{3} \\\\\\\\ \\\\frac{1}{3} & -\\\\frac{1}{3} \\\\end{bmatrix} \\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix}\",\"note\":\"矩陣變換等式\"}\n",
+    "ts": "2026-04-28T10:01:50.855258+00:00"
+  },
+  "image_7d01a4e3cd21d9.png": {
+    "classification": "formula",
+    "latex": "BA = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣乘積的運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA = \\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix} \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"矩陣乘積的運算\"}\n",
+    "ts": "2026-04-28T10:01:54.933281+00:00"
+  },
+  "image_7ec4406bdcdbb4.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}^6 = \\begin{bmatrix} \\cos 90^\\circ & -\\sin 90^\\circ \\\\ \\sin 90^\\circ & \\cos 90^\\circ \\end{bmatrix}^6",
+    "note": "矩陣的 6 次方與旋轉矩陣的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}^6 = \\\\begin{bmatrix} \\\\cos 90^\\\\circ & -\\\\sin 90^\\\\circ \\\\\\\\ \\\\sin 90^\\\\circ & \\\\cos 90^\\\\circ \\\\end{bmatrix}^6\",\"note\":\"矩陣的 6 次方與旋轉矩陣的等式\"}\n",
+    "ts": "2026-04-28T10:01:57.234852+00:00"
+  },
+  "image_80a37100858ffd.png": {
+    "classification": "formula",
+    "latex": "0.7 : 0.3 = 7 : 3",
+    "note": "比例等式 0.7:0.3=7:3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.7 : 0.3 = 7 : 3\",\"note\":\"比例等式 0.7:0.3=7:3\"}\n",
+    "ts": "2026-04-28T10:01:58.312516+00:00"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "數學變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"數學變數 x\"}\n",
+    "ts": "2026-04-28T10:02:02.769883+00:00"
+  },
+  "image_83400c32cf4253.png": {
+    "classification": "formula",
+    "latex": "B^2",
+    "note": "B的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B^2\",\"note\":\"B的平方\"}\n",
+    "ts": "2026-04-28T10:02:09.257002+00:00"
+  },
+  "image_80e0572f172ef3.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos \\frac{5\\pi}{6} & \\sin \\frac{5\\pi}{6} \\\\ -\\sin \\frac{5\\pi}{6} & \\cos \\frac{5\\pi}{6} \\end{bmatrix}",
+    "note": "2x2 三角函數矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos \\\\frac{5\\\\pi}{6} & \\\\sin \\\\frac{5\\\\pi}{6} \\\\\\\\ -\\\\sin \\\\frac{5\\\\pi}{6} & \\\\cos \\\\frac{5\\\\pi}{6} \\\\end{bmatrix}\",\"note\":\"2x2 三角函數矩陣\"}\n",
+    "ts": "2026-04-28T10:02:17.536270+00:00"
+  },
+  "image_80fc7fc4e6a18e.png": {
+    "classification": "formula",
+    "latex": "= A \\begin{bmatrix} \\cos 720^\\circ & -\\sin 720^\\circ \\\\ \\sin 720^\\circ & \\cos 720^\\circ \\end{bmatrix} = A \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix} = A",
+    "note": "矩陣與旋轉矩陣相乘之運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= A \\\\begin{bmatrix} \\\\cos 720^\\\\circ & -\\\\sin 720^\\\\circ \\\\\\\\ \\\\sin 720^\\\\circ & \\\\cos 720^\\\\circ \\\\end{bmatrix} = A \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix} = A\",\"note\":\"矩陣與旋轉矩陣相乘之運算過程\"}\n",
+    "ts": "2026-04-28T10:02:18.181035+00:00"
+  },
+  "image_836de2fba2ce73.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\\\ \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\\\\\ \\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:02:24.891567+00:00"
+  },
+  "image_836f817e20ca4b.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} c & d \\\\ 1-c & 1-d \\end{bmatrix}",
+    "note": "矩陣 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} c & d \\\\\\\\ 1-c & 1-d \\\\end{bmatrix}\",\"note\":\"矩陣 B\"}\n",
+    "ts": "2026-04-28T10:02:25.179492+00:00"
+  },
+  "image_8462cefabc530e.png": {
+    "classification": "formula",
+    "latex": "D(-3, -2)",
+    "note": "點D的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D(-3, -2)\",\"note\":\"點D的座標\"}\n",
+    "ts": "2026-04-28T10:02:28.352353+00:00"
+  },
+  "image_83b51c6286c964.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}=",
+    "note": "二階單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}1&0\\\\\\\\0&1\\\\end{bmatrix}=\",\"note\":\"二階單位矩陣\"}\n",
+    "ts": "2026-04-28T10:02:35.372608+00:00"
+  },
+  "image_84c9e64927787b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字8\"}\n",
+    "ts": "2026-04-28T10:02:36.588205+00:00"
+  },
+  "image_85cbb8c2cf314f.png": {
+    "classification": "formula",
+    "latex": "A^6 = \\begin{bmatrix} \\cos 4\\pi & -\\sin 4\\pi \\ \\sin 4\\pi & \\cos 4\\pi \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣 A 的 6 次方計算結果為單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^6 = \\begin{bmatrix} \\cos 4\\pi & -\\sin 4\\pi \\\\ \\sin 4\\pi & \\cos 4\\pi \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}\",\"note\":\"矩陣 A 的 6 次方計算結果為單位矩陣\"}\n",
+    "ts": "2026-04-28T10:02:44.362125+00:00"
+  },
+  "image_8846dacf45b4c9.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "正六邊形 ABCDEF，中心為 O",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"正六邊形 ABCDEF，中心為 O\"}\n",
+    "ts": "2026-04-28T10:02:47.382492+00:00"
+  },
+  "image_87cb49b3b6db9a.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos \\frac{\\pi}{3} & -\\sin \\frac{\\pi}{3} \\ \\sin \\frac{\\pi}{3} & \\cos \\frac{\\pi}{3} \\end{bmatrix}",
+    "note": "包含三角函數的二階方陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\begin{bmatrix} \\cos \\frac{\\pi}{3} & -\\sin \\frac{\\pi}{3} \\\\ \\sin \\frac{\\pi}{3} & \\cos \\frac{\\pi}{3} \\end{bmatrix}\",\"note\":\"包含三角函數的二階方陣 A\"}\n",
+    "ts": "2026-04-28T10:02:53.019032+00:00"
+  },
+  "image_89139c2b1de6e7.png": {
+    "classification": "formula",
+    "latex": "BA^2 = BI = B",
+    "note": "矩陣運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BA^2 = BI = B\",\"note\":\"矩陣運算式\"}\n",
+    "ts": "2026-04-28T10:02:56.518877+00:00"
+  },
+  "image_8cdb37d13a7a07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數1/2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{2}\",\"note\":\"分數1/2\"}\n",
+    "ts": "2026-04-28T10:03:01.032638+00:00"
+  },
+  "image_84ac3d3dc10564.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 90^\\circ & -\\sin 90^\\circ \\\\ \\sin 90^\\circ & \\cos 90^\\circ \\end{bmatrix} \\begin{bmatrix} 3 & 2 & 1 \\\\ 1 & -1 & 2 \\end{bmatrix} = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix} \\begin{bmatrix} 3 & 2 & 1 \\\\ 1 & -1 & 2 \\end{bmatrix} = \\begin{bmatrix} -1 & 1 & -2 \\\\ 3 & 2 & 1 \\end{bmatrix}",
+    "note": "矩陣乘法運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 90^\\\\circ & -\\\\sin 90^\\\\circ \\\\\\\\ \\\\sin 90^\\\\circ & \\\\cos 90^\\\\circ \\\\end{bmatrix} \\\\begin{bmatrix} 3 & 2 & 1 \\\\\\\\ 1 & -1 & 2 \\\\end{bmatrix} = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix} \\\\begin{bmatrix} 3 & 2 & 1 \\\\\\\\ 1 & -1 & 2 \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 1 & -2 \\\\\\\\ 3 & 2 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算過程\"}\n",
+    "ts": "2026-04-28T10:03:04.709550+00:00"
+  },
+  "image_8d34a4cc7d3f67.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 180^{\\circ} & -\\sin 180^{\\circ} \\\\ \\sin 180^{\\circ} & \\cos 180^{\\circ} \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣與三角函數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 180^{\\\\circ} & -\\\\sin 180^{\\\\circ} \\\\\\\\ \\\\sin 180^{\\\\circ} & \\\\cos 180^{\\\\circ} \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣與三角函數運算等式\"}\n",
+    "ts": "2026-04-28T10:03:13.547581+00:00"
+  },
+  "image_8dcedd3d7f3d1c.png": {
+    "classification": "formula",
+    "latex": "A^4 \\begin{bmatrix} a \\\\ b \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} a \\\\ b \\end{bmatrix} = \\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^4 \\\\begin{bmatrix} a \\\\\\\\ b \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\begin{bmatrix} a \\\\\\\\ b \\\\end{bmatrix} = \\\\begin{bmatrix} 3 \\\\\\\\ 2 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:03:15.569825+00:00"
+  },
+  "image_8eb0e5019e905b.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字2\"}\n",
+    "ts": "2026-04-28T10:03:16.938414+00:00"
+  },
+  "image_905dab74e1f7c2.png": {
+    "classification": "formula",
+    "latex": "A^2",
+    "note": "A的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\",\"note\":\"A的平方\"}\n",
+    "ts": "2026-04-28T10:03:24.537553+00:00"
+  },
+  "image_8dd8f97cb2baba.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x' \\\\ y' \\end{bmatrix} = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} y \\\\ x \\end{bmatrix}",
+    "note": "二階方陣與向量相乘的運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix} = \\\\begin{bmatrix} 0 & 1 \\\\\\\\ 1 & 0 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} y \\\\\\\\ x \\\\end{bmatrix}\",\"note\":\"二階方陣與向量相乘的運算過程\"}\n",
+    "ts": "2026-04-28T10:03:26.658288+00:00"
+  },
+  "image_908dac4b1d430f.png": {
+    "classification": "formula",
+    "latex": "A^2 = I",
+    "note": "矩陣等式 A^2 = I",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = I\",\"note\":\"矩陣等式 A^2 = I\"}\n",
+    "ts": "2026-04-28T10:03:27.950140+00:00"
+  },
+  "image_90d456fab9d141.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "字母 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"字母 A\"}\n",
+    "ts": "2026-04-28T10:03:35.883488+00:00"
+  },
+  "image_90b952f52e5884.png": {
+    "classification": "formula",
+    "latex": "A^{-1} = \\begin{bmatrix} -\\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\\\ -\\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣 A 的反矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1} = \\\\begin{bmatrix} -\\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ -\\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"矩陣 A 的反矩陣\"}\n",
+    "ts": "2026-04-28T10:03:43.015162+00:00"
+  },
+  "image_9081c5980b502f.png": {
+    "classification": "formula",
+    "latex": "A^2 = \\begin{bmatrix} a & b \\\\ 1-a & 1-b \\end{bmatrix} \\begin{bmatrix} a & b \\\\ 1-a & 1-b \\end{bmatrix} = \\begin{bmatrix} a^2+b-ab & ab+b-b^2 \\\\ 1-a^2-b+ab & 1-ab-b+b^2 \\end{bmatrix}",
+    "note": "矩陣 A 的平方運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = \\\\begin{bmatrix} a & b \\\\\\\\ 1-a & 1-b \\\\end{bmatrix} \\\\begin{bmatrix} a & b \\\\\\\\ 1-a & 1-b \\\\end{bmatrix} = \\\\begin{bmatrix} a^2+b-ab & ab+b-b^2 \\\\\\\\ 1-a^2-b+ab & 1-ab-b+b^2 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的平方運算過程\"}\n",
+    "ts": "2026-04-28T10:03:43.249876+00:00"
+  },
+  "image_91158209755607.png": {
+    "classification": "formula",
+    "latex": "=(a+b)p+(c+d)q=1 \\times p+1 \\times q=p+q=1",
+    "note": "代數運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(a+b)p+(c+d)q=1 \\times p+1 \\times q=p+q=1\",\"note\":\"代數運算過程\"}\n",
+    "ts": "2026-04-28T10:03:50.150918+00:00"
+  },
+  "image_923e4d63966b7e.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "數字 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"數字 4\"}\n",
+    "ts": "2026-04-28T10:03:53.523790+00:00"
+  },
+  "image_91bf63ce4dc1b0.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{18}",
+    "note": "分數 7/18",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{7}{18}\",\"note\":\"分數 7/18\"}\n",
+    "ts": "2026-04-28T10:04:02.452892+00:00"
+  },
+  "image_937bbce3d24ff6.png": {
+    "classification": "formula",
+    "latex": "\\frac{65}{108}",
+    "note": "分數 65/108",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{65}{108}\",\"note\":\"分數 65/108\"}\n",
+    "ts": "2026-04-28T10:04:05.472806+00:00"
+  },
+  "image_939ced7428d97d.png": {
+    "classification": "formula",
+    "latex": "B^6 A^5 = B^6 A(A^2)^2",
+    "note": "矩陣或代數指數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B^6 A^5 = B^6 A(A^2)^2\",\"note\":\"矩陣或代數指數運算等式\"}\n",
+    "ts": "2026-04-28T10:04:05.707649+00:00"
+  },
+  "image_9435c2b86acafa.png": {
+    "classification": "formula",
+    "latex": "(ABA)^{15} = (ABA)(ABA) \\cdots (ABA)",
+    "note": "矩陣 ABA 的 15 次方展開",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(ABA)^{15} = (ABA)(ABA) \\cdots (ABA)\",\"note\":\"矩陣 ABA 的 15 次方展開\"}\n",
+    "ts": "2026-04-28T10:04:18.578191+00:00"
+  },
+  "image_943958f9d586cc.png": {
+    "classification": "formula",
+    "latex": "A^6 = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣 A 的 6 次方等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^6 = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的 6 次方等於單位矩陣\"}\n",
+    "ts": "2026-04-28T10:04:23.433189+00:00"
+  },
+  "image_9566fccaa05778.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos\\left(-\\frac{5\\pi}{6}\\right) & -\\sin\\left(-\\frac{5\\pi}{6}\\right) \\\\ \\sin\\left(-\\frac{5\\pi}{6}\\right) & \\cos\\left(-\\frac{5\\pi}{6}\\right) \\end{bmatrix}",
+    "note": "旋轉矩陣 A，角度為 -5π/6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos\\\\left(-\\\\frac{5\\\\pi}{6}\\\\right) & -\\\\sin\\\\left(-\\\\frac{5\\\\pi}{6}\\\\right) \\\\\\\\ \\\\sin\\\\left(-\\\\frac{5\\\\pi}{6}\\\\right) & \\\\cos\\\\left(-\\\\frac{5\\\\pi}{6}\\\\right) \\\\end{bmatrix}\",\"note\":\"旋轉矩陣 A，角度為 -5π/6\"}\n",
+    "ts": "2026-04-28T10:04:35.844850+00:00"
+  },
+  "image_9597bcbae79f49.png": {
+    "classification": "formula",
+    "latex": "|\\begin{vmatrix} 1 & 0 \\\\ 0 & -1 \\end{vmatrix}|=1",
+    "note": "二階行列式的絕對值等於 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\begin{vmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{vmatrix}|=1\",\"note\":\"二階行列式的絕對值等於 1\"}\n",
+    "ts": "2026-04-28T10:04:39.479397+00:00"
+  },
+  "image_96685f5b7e594d.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos\\frac{\\pi}{6} & -\\sin\\frac{\\pi}{6} \\\\ \\sin\\frac{\\pi}{6} & \\cos\\frac{\\pi}{6} \\end{bmatrix}",
+    "note": "二階旋轉矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos\\\\frac{\\\\pi}{6} & -\\\\sin\\\\frac{\\\\pi}{6} \\\\\\\\ \\\\sin\\\\frac{\\\\pi}{6} & \\\\cos\\\\frac{\\\\pi}{6} \\\\end{bmatrix}\",\"note\":\"二階旋轉矩陣 A\"}\n",
+    "ts": "2026-04-28T10:04:39.959977+00:00"
+  },
+  "image_918daaefc6277c.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix} \\cos \\theta & \\sin \\theta \\\\ \\sin \\theta & -\\cos \\theta \\end{vmatrix} = -",
+    "note": "2x2 行列式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix} \\\\cos \\\\theta & \\\\sin \\\\theta \\\\\\\\ \\\\sin \\\\theta & -\\\\cos \\\\theta \\\\end{vmatrix} = -\",\"note\":\"2x2 行列式\"}\n",
+    "ts": "2026-04-28T10:04:51.477588+00:00"
+  },
+  "image_97e985e9b95532.png": {
+    "classification": "formula",
+    "latex": "=(a+b)x+(c+d)y=1\\times x+1\\times y=x+y=1",
+    "note": "數學等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(a+b)x+(c+d)y=1\\times x+1\\times y=x+y=1\",\"note\":\"數學等式推導\"}\n",
+    "ts": "2026-04-28T10:04:52.306697+00:00"
+  },
+  "image_97247d5281a7b9.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} -\\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}",
+    "note": "二階方陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} -\\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"二階方陣 A\"}\n",
+    "ts": "2026-04-28T10:04:52.634997+00:00"
+  },
+  "image_9a86ef74cbb689.png": {
+    "classification": "formula",
+    "latex": "2A+B=\\begin{bmatrix}2a+c & 2b+d \\\\ 3-2a-c & 3-2b-d\\end{bmatrix}",
+    "note": "矩陣加法運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2A+B=\\\\begin{bmatrix}2a+c & 2b+d \\\\\\\\ 3-2a-c & 3-2b-d\\\\end{bmatrix}\",\"note\":\"矩陣加法運算結果\"}\n",
+    "ts": "2026-04-28T10:05:09.064031+00:00"
+  },
+  "image_9aaedce7c88b7e.png": {
+    "classification": "formula",
+    "latex": "16",
+    "note": "數字 16",
+    "raw": "{\"class\":\"formula\",\"latex\":\"16\",\"note\":\"數字 16\"}\n",
+    "ts": "2026-04-28T10:05:19.283817+00:00"
+  },
+  "image_995b6f5ee9fdae.png": {
+    "classification": "formula",
+    "latex": "M = \\begin{bmatrix} 3 & -3 \\\\ 2 & 2 \\end{bmatrix} \\begin{bmatrix} 3 & 3 \\\\ -2 & 2 \\end{bmatrix}^{-1} = \\begin{bmatrix} 3 & -3 \\\\ 2 & 2 \\end{bmatrix} \\times \\frac{1}{12} \\begin{bmatrix} 2 & -3 \\\\ 2 & 3 \\end{bmatrix} = \\begin{bmatrix} 0 & -\\frac{3}{2} \\\\ \\frac{2}{3} & 0 \\end{bmatrix}",
+    "note": "矩陣乘法與反矩陣運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M = \\\\begin{bmatrix} 3 & -3 \\\\\\\\ 2 & 2 \\\\end{bmatrix} \\\\begin{bmatrix} 3 & 3 \\\\\\\\ -2 & 2 \\\\end{bmatrix}^{-1} = \\\\begin{bmatrix} 3 & -3 \\\\\\\\ 2 & 2 \\\\end{bmatrix} \\\\times \\\\frac{1}{12} \\\\begin{bmatrix} 2 & -3 \\\\\\\\ 2 & 3 \\\\end{bmatrix} = \\\\begin{bmatrix} 0 & -\\\\frac{3}{2} \\\\\\\\ \\\\frac{2}{3} & 0 \\\\end{bmatrix}\",\"note\":\"矩陣乘法與反矩陣運算過程\"}\n",
+    "ts": "2026-04-28T10:05:21.968449+00:00"
+  },
+  "image_9974fe448a94f3.png": {
+    "classification": "formula",
+    "latex": "C = \\begin{bmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{bmatrix}",
+    "note": "2x2 旋轉矩陣 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C = \\\\begin{bmatrix} \\\\cos \\\\theta & -\\\\sin \\\\theta \\\\\\\\ \\\\sin \\\\theta & \\\\cos \\\\theta \\\\end{bmatrix}\",\"note\":\"2x2 旋轉矩陣 C\"}\n",
+    "ts": "2026-04-28T10:05:22.687911+00:00"
+  },
+  "image_9ae07d7073aff9.png": {
+    "classification": "formula",
+    "latex": "d",
+    "note": "數學符號 d",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d\",\"note\":\"數學符號 d\"}\n",
+    "ts": "2026-04-28T10:05:29.816201+00:00"
+  },
+  "image_9773e11af7d5ef.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{vmatrix} 5 & 2 \\cr 3 & 4 \\end{vmatrix}\\right| = 14",
+    "note": "二階行列式的絕對值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{vmatrix} 5 & 2 \\\\cr 3 & 4 \\\\end{vmatrix}\\\\right| = 14\",\"note\":\"二階行列式的絕對值\"}\n",
+    "ts": "2026-04-28T10:05:35.258575+00:00"
+  },
+  "image_9b11a479f00baa.png": {
+    "classification": "formula",
+    "latex": "540^\\circ",
+    "note": "540度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"540^\\\\circ\",\"note\":\"540度\"}\n",
+    "ts": "2026-04-28T10:05:40.441652+00:00"
+  },
+  "image_9dc543c0bce03a.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos^2 20^\\circ + \\sin^2 20^\\circ & 0 \\ 0 & \\sin^2 20^\\circ + \\cos^2 20^\\circ \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣與三角恆等式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\begin{bmatrix} \\cos^2 20^\\circ + \\sin^2 20^\\circ & 0 \\\\ 0 & \\sin^2 20^\\circ + \\cos^2 20^\\circ \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}\",\"note\":\"矩陣與三角恆等式運算\"}\n",
+    "ts": "2026-04-28T10:05:51.625723+00:00"
+  },
+  "image_9e120f52da52db.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 0^\\circ & \\sin 0^\\circ \\\\ \\sin 0^\\circ & -\\cos 0^\\circ \\end{bmatrix}",
+    "note": "包含三角函數的 2x2 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 0^\\\\circ & \\\\sin 0^\\\\circ \\\\\\\\ \\\\sin 0^\\\\circ & -\\\\cos 0^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含三角函數的 2x2 矩陣\"}\n",
+    "ts": "2026-04-28T10:06:01.276273+00:00"
+  },
+  "image_9eb6b7247d4e59.png": {
+    "classification": "formula",
+    "latex": "A^{11} B^3 \\neq B^6 A^5",
+    "note": "矩陣運算不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{11} B^3 \\neq B^6 A^5\",\"note\":\"矩陣運算不等式\"}\n",
+    "ts": "2026-04-28T10:06:05.577183+00:00"
+  },
+  "image_9c3ef3056d69ea.png": {
+    "classification": "formula",
+    "latex": "A^3 = \\begin{bmatrix} \\cos 2\\pi & -\\sin 2\\pi \\\\ \\sin 2\\pi & \\cos 2\\pi \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣 A 的三次方運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^3 = \\\\begin{bmatrix} \\\\cos 2\\\\pi & -\\\\sin 2\\\\pi \\\\\\\\ \\\\sin 2\\\\pi & \\\\cos 2\\\\pi \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的三次方運算\"}\n",
+    "ts": "2026-04-28T10:06:08.510093+00:00"
+  },
+  "image_9f72cae3e29a96.png": {
+    "classification": "formula",
+    "latex": "B^{-1} = \\frac{1}{2} \\begin{bmatrix} 2 & 0 \\ 0 & 1 \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\ 0 & \\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣反矩陣計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B^{-1} = \\frac{1}{2} \\begin{bmatrix} 2 & 0 \\\\ 0 & 1 \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & \\frac{1}{2} \\end{bmatrix}\",\"note\":\"矩陣反矩陣計算過程\"}\n",
+    "ts": "2026-04-28T10:06:14.299860+00:00"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "數字 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"數字 6\"}\n",
+    "ts": "2026-04-28T10:06:16.236371+00:00"
+  },
+  "image_9ccb84f90a7023.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix}^6 \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} I^2",
+    "note": "包含旋轉矩陣六次方與鏡射矩陣的矩陣運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix}^6 \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} I^2\",\"note\":\"包含旋轉矩陣六次方與鏡射矩陣的矩陣運算\"}\n",
+    "ts": "2026-04-28T10:06:19.488706+00:00"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-28T10:06:23.709635+00:00"
+  },
+  "image_a0285ff7fd6e39.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos \\frac{5\\pi}{3} & -\\sin \\frac{5\\pi}{3} \\\\ \\sin \\frac{5\\pi}{3} & \\cos \\frac{5\\pi}{3} \\end{bmatrix}",
+    "note": "包含三角函數的二階方陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos \\\\frac{5\\\\pi}{3} & -\\\\sin \\\\frac{5\\\\pi}{3} \\\\\\\\ \\\\sin \\\\frac{5\\\\pi}{3} & \\\\cos \\\\frac{5\\\\pi}{3} \\\\end{bmatrix}\",\"note\":\"包含三角函數的二階方陣 A\"}\n",
+    "ts": "2026-04-28T10:06:24.748090+00:00"
+  },
+  "image_a2724434688260.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-28T10:06:26.584070+00:00"
+  },
+  "image_a33e58c1ac788b.png": {
+    "classification": "formula",
+    "latex": "bp + dq",
+    "note": "數學運算式 bp + dq",
+    "raw": "{\"class\":\"formula\",\"latex\":\"bp + dq\",\"note\":\"數學運算式 bp + dq\"}\n",
+    "ts": "2026-04-28T10:06:30.255796+00:00"
+  },
+  "image_a3c6a46839f32b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字 8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字 8\"}\n",
+    "ts": "2026-04-28T10:06:35.396848+00:00"
+  },
+  "image_a351907eb0864a.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角坐標系中的三角形，一頂點位在原點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角坐標系中的三角形，一頂點位在原點\"}\n",
+    "ts": "2026-04-28T10:06:35.803028+00:00"
+  },
+  "image_a6f51b51babd6b.png": {
+    "classification": "formula",
+    "latex": "(0,2)",
+    "note": "座標(0,2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,2)\",\"note\":\"座標(0,2)\"}\n",
+    "ts": "2026-04-28T10:06:40.937750+00:00"
+  },
+  "image_a4a575de0eff3d.png": {
+    "classification": "formula",
+    "latex": "A \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A \\\\begin{bmatrix} 1 \\\\\\\\ -1 \\\\end{bmatrix} = \\\\begin{bmatrix} 1 \\\\\\\\ 1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:06:45.565965+00:00"
+  },
+  "image_a759bf86c2799b.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos \\theta & \\sin \\theta \\ \\sin \\theta & -\\cos \\theta \\end{bmatrix} =",
+    "note": "包含三角函數的二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\begin{bmatrix} \\cos \\theta & \\sin \\theta \\\\ \\sin \\theta & -\\cos \\theta \\end{bmatrix} =\",\"note\":\"包含三角函數的二階方陣\"}\n",
+    "ts": "2026-04-28T10:06:47.887919+00:00"
+  },
+  "image_a84f432076303c.png": {
+    "classification": "formula",
+    "latex": "B(3,2)",
+    "note": "點 B 的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(3,2)\",\"note\":\"點 B 的座標\"}\n",
+    "ts": "2026-04-28T10:06:53.245202+00:00"
+  },
+  "image_a830ab34cdd391.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 1 & -1 \\ 1 & 1 \\end{bmatrix} \\times \\frac{1}{2} \\times \\begin{bmatrix} 1 & -1 \\ 1 & 1 \\end{bmatrix} = \\frac{1}{2} \\times \\begin{bmatrix} 0 & -2 \\ 2 & 0 \\end{bmatrix} = \\begin{bmatrix} 0 & -1 \\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} \\cos \\frac{\\pi}{2} & -\\sin \\frac{\\pi}{2} \\ \\sin \\frac{\\pi}{2} & \\cos \\frac{\\pi}{2} \\end{bmatrix}",
+    "note": "矩陣乘積運算過程與旋轉矩陣表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix} \\times \\frac{1}{2} \\times \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix} = \\frac{1}{2} \\times \\begin{bmatrix} 0 & -2 \\\\ 2 & 0 \\end{bmatrix} = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} \\cos \\frac{\\pi}{2} & -\\sin \\frac{\\pi}{2} \\\\ \\sin \\frac{\\pi}{2} & \\cos \\frac{\\pi}{2} \\end{bmatrix}\",\"note\":\"矩陣乘積運算過程與旋轉矩陣表示\"}\n",
+    "ts": "2026-04-28T10:07:02.748669+00:00"
+  },
+  "image_a896441effee76.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的三角形，其一邊位於 y 軸且一頂點為原點",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的三角形，其一邊位於 y 軸且一頂點為原點\"}\n",
+    "ts": "2026-04-28T10:07:05.146737+00:00"
+  },
+  "image_a863a8d7a52dce.png": {
+    "classification": "formula",
+    "latex": "A^{-1} = \\frac{1}{-3} \\begin{bmatrix} -1 & -2 \\ -1 & 1 \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{3} & \\frac{2}{3} \\ \\frac{1}{3} & -\\frac{1}{3} \\end{bmatrix}",
+    "note": "矩陣的反矩陣計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1} = \\frac{1}{-3} \\begin{bmatrix} -1 & -2 \\\\ -1 & 1 \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{3} & \\frac{2}{3} \\\\ \\frac{1}{3} & -\\frac{1}{3} \\end{bmatrix}\",\"note\":\"矩陣的反矩陣計算過程\"}\n",
+    "ts": "2026-04-28T10:07:07.749429+00:00"
+  },
+  "image_a9530b7fb58152.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix}",
+    "note": "矩陣 B，2x2 旋轉矩陣，角度為 60 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix}\",\"note\":\"矩陣 B，2x2 旋轉矩陣，角度為 60 度\"}\n",
+    "ts": "2026-04-28T10:07:11.788083+00:00"
+  },
+  "image_a9ea641fdf747d.png": {
+    "classification": "formula",
+    "latex": "A^{7} = A(A^{2})^{3} = AI^{3} = A",
+    "note": "矩陣 A 的次方運算推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{7} = A(A^{2})^{3} = AI^{3} = A\",\"note\":\"矩陣 A 的次方運算推導\"}\n",
+    "ts": "2026-04-28T10:07:14.437624+00:00"
+  },
+  "image_ab31846be62a69.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:07:23.126139+00:00"
+  },
+  "image_ab9ee8591eee58.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix}",
+    "note": "包含 60 度角的旋轉矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含 60 度角的旋轉矩陣 A\"}\n",
+    "ts": "2026-04-28T10:07:32.120999+00:00"
+  },
+  "image_aa14605c26d4fb.png": {
+    "classification": "formula",
+    "latex": "A^{-1} = \\begin{bmatrix} -\\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣 A 的反矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{-1} = \\\\begin{bmatrix} -\\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"矩陣 A 的反矩陣\"}\n",
+    "ts": "2026-04-28T10:07:32.536691+00:00"
+  },
+  "image_ab698153ddf902.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+    "note": "二階矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} a & b \\\\\\\\ c & d \\\\end{bmatrix}\",\"note\":\"二階矩陣 A\"}\n",
+    "ts": "2026-04-28T10:07:34.018366+00:00"
+  },
+  "image_abc5d815a736e3.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 100^\\circ & -\\sin 100^\\circ \\\\ \\sin 100^\\circ & \\cos 100^\\circ \\end{bmatrix}",
+    "note": "2x2 旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 100^\\\\circ & -\\\\sin 100^\\\\circ \\\\\\\\ \\\\sin 100^\\\\circ & \\\\cos 100^\\\\circ \\\\end{bmatrix}\",\"note\":\"2x2 旋轉矩陣\"}\n",
+    "ts": "2026-04-28T10:07:43.261071+00:00"
+  },
+  "image_acca17ac74f923.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 1 & 2 \\\\ -3 & 2 & -1 \\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 1 & 2 \\\\\\\\ -3 & 2 & -1 \\\\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T10:07:48.209916+00:00"
+  },
+  "image_acbe562d8071fb.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos \\frac{\\pi}{2} & -\\sin \\frac{\\pi}{2} \\\\ \\sin \\frac{\\pi}{2} & \\cos \\frac{\\pi}{2} \\end{bmatrix}",
+    "note": "旋轉矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos \\\\frac{\\\\pi}{2} & -\\\\sin \\\\frac{\\\\pi}{2} \\\\\\\\ \\\\sin \\\\frac{\\\\pi}{2} & \\\\cos \\\\frac{\\\\pi}{2} \\\\end{bmatrix}\",\"note\":\"旋轉矩陣 A\"}\n",
+    "ts": "2026-04-28T10:07:51.080367+00:00"
+  },
+  "image_acca7fa352ae95.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta = 1",
+    "note": "正切函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta = 1\",\"note\":\"正切函數等式\"}\n",
+    "ts": "2026-04-28T10:07:54.568235+00:00"
+  },
+  "image_aecabda03bdc99.png": {
+    "classification": "formula",
+    "latex": "(2x, 4y)",
+    "note": "座標 (2x, 4y)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2x, 4y)\",\"note\":\"座標 (2x, 4y)\"}\n",
+    "ts": "2026-04-28T10:07:59.236495+00:00"
+  },
+  "image_ad346912056cda.png": {
+    "classification": "formula",
+    "latex": "60^{\\circ}",
+    "note": "60度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60^{\\\\circ}\",\"note\":\"60度\"}\n",
+    "ts": "2026-04-28T10:08:04.436203+00:00"
+  },
+  "image_b190f249611222.png": {
+    "classification": "formula",
+    "latex": "|\\begin{vmatrix} 0 & 1 \\\\ 1 & 0 \\end{vmatrix}| = |0 - 1| = 1",
+    "note": "行列式的絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\begin{vmatrix} 0 & 1 \\\\\\\\ 1 & 0 \\\\end{vmatrix}| = |0 - 1| = 1\",\"note\":\"行列式的絕對值計算\"}\n",
+    "ts": "2026-04-28T10:08:12.909585+00:00"
+  },
+  "image_b2c19934fea270.png": {
+    "classification": "formula",
+    "latex": "= I \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} \\cos 60^\\circ & -\\sin 60^\\circ \\\\ \\sin 60^\\circ & \\cos 60^\\circ \\end{bmatrix}^3",
+    "note": "包含旋轉矩陣三次方的矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= I \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} \\\\begin{bmatrix} \\\\cos 60^\\\\circ & -\\\\sin 60^\\\\circ \\\\\\\\ \\\\sin 60^\\\\circ & \\\\cos 60^\\\\circ \\\\end{bmatrix}^3\",\"note\":\"包含旋轉矩陣三次方的矩陣乘法算式\"}\n",
+    "ts": "2026-04-28T10:08:19.948966+00:00"
+  },
+  "image_b431f020cfa064.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos(-150^\\circ) & -\\sin(-150^\\circ) \\ \\sin(-150^\\circ) & \\cos(-150^\\circ) \\end{bmatrix}^6",
+    "note": "旋轉矩陣的 6 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\begin{bmatrix} \\cos(-150^\\circ) & -\\sin(-150^\\circ) \\\\ \\sin(-150^\\circ) & \\cos(-150^\\circ) \\end{bmatrix}^6\",\"note\":\"旋轉矩陣的 6 次方\"}\n",
+    "ts": "2026-04-28T10:08:23.611553+00:00"
+  },
+  "image_b4549f76878f39.png": {
+    "classification": "formula",
+    "latex": "1:1",
+    "note": "比例 1:1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1:1\",\"note\":\"比例 1:1\"}\n",
+    "ts": "2026-04-28T10:08:24.720570+00:00"
+  },
+  "image_b496686f3f16c8.png": {
+    "classification": "formula",
+    "latex": "0.5+0.6>1",
+    "note": "不等式 0.5+0.6>1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.5+0.6>1\",\"note\":\"不等式 0.5+0.6>1\"}\n",
+    "ts": "2026-04-28T10:08:29.207123+00:00"
+  },
+  "image_b5f764bd3cb044.png": {
+    "classification": "formula",
+    "latex": "A+B=O",
+    "note": "矩陣 A 與 B 相加等於零矩陣 O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A+B=O\",\"note\":\"矩陣 A 與 B 相加等於零矩陣 O\"}\n",
+    "ts": "2026-04-28T10:08:34.399182+00:00"
+  },
+  "image_b6a1e259e41813.png": {
+    "classification": "formula",
+    "latex": "9:1",
+    "note": "比例 9:1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9:1\",\"note\":\"比例 9:1\"}\n",
+    "ts": "2026-04-28T10:08:35.392854+00:00"
+  },
+  "image_b91087f050cb07.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} \\cos \\frac{2\\pi}{3} & -\\sin \\frac{2\\pi}{3} \\\\ \\sin \\frac{2\\pi}{3} & \\cos \\frac{2\\pi}{3} \\end{bmatrix}",
+    "note": "旋轉矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} \\\\cos \\\\frac{2\\\\pi}{3} & -\\\\sin \\\\frac{2\\\\pi}{3} \\\\\\\\ \\\\sin \\\\frac{2\\\\pi}{3} & \\\\cos \\\\frac{2\\\\pi}{3} \\\\end{bmatrix}\",\"note\":\"旋轉矩陣 A\"}\n",
+    "ts": "2026-04-28T10:08:48.108911+00:00"
+  },
+  "image_b8e00049d7f2d3.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} 3\\sqrt{2} \\\\ -\\sqrt{2} \\end{bmatrix} = \\begin{bmatrix} \\sqrt{2} \\\\ -\\sqrt{2} \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} 1 & 2 \\\\\\\\ 0 & 1 \\\\end{bmatrix} \\\\begin{bmatrix} 3\\\\sqrt{2} \\\\\\\\ -\\\\sqrt{2} \\\\end{bmatrix} = \\\\begin{bmatrix} \\\\sqrt{2} \\\\\\\\ -\\\\sqrt{2} \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T10:08:50.273741+00:00"
+  },
+  "image_b91d72abe2623b.png": {
+    "classification": "formula",
+    "latex": "x' = \\frac{1}{2}x",
+    "note": "數學公式 x' = 1/2 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x' = \\\\frac{1}{2}x\",\"note\":\"數學公式 x' = 1/2 x\"}\n",
+    "ts": "2026-04-28T10:08:51.253765+00:00"
+  },
+  "image_af7beb647ebaee.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & \\sqrt{2} \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "二階矩陣，包含根號 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & \\\\sqrt{2} \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"二階矩陣，包含根號 2\"}\n",
+    "ts": "2026-04-28T10:08:53.279575+00:00"
+  },
+  "image_bd2f2de57bb7e5.png": {
+    "classification": "formula",
+    "latex": "ax + cy",
+    "note": "ax + cy",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ax + cy\",\"note\":\"ax + cy\"}\n",
+    "ts": "2026-04-28T10:09:01.749363+00:00"
+  },
+  "image_bbe9a825202f66.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 180^\\circ & -\\sin 180^\\circ \\\\ \\sin 180^\\circ & \\cos 180^\\circ \\end{bmatrix}",
+    "note": "180度旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 180^\\\\circ & -\\\\sin 180^\\\\circ \\\\\\\\ \\\\sin 180^\\\\circ & \\\\cos 180^\\\\circ \\\\end{bmatrix}\",\"note\":\"180度旋轉矩陣\"}\n",
+    "ts": "2026-04-28T10:09:08.144604+00:00"
+  },
+  "image_bd583cd1eaf800.png": {
+    "classification": "formula",
+    "latex": "\\frac{11}{18}",
+    "note": "分數11/18",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{11}{18}\",\"note\":\"分數11/18\"}\n",
+    "ts": "2026-04-28T10:09:09.407327+00:00"
+  },
+  "image_b9e766c0d54b7b.png": {
+    "classification": "formula",
+    "latex": "M \\begin{bmatrix} 3 \\\\ -2 \\end{bmatrix} = \\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\begin{bmatrix} 3 \\\\\\\\ -2 \\\\end{bmatrix} = \\\\begin{bmatrix} 3 \\\\\\\\ 2 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:09:20.684326+00:00"
+  },
+  "image_bee4817a61f0e8.png": {
+    "classification": "formula",
+    "latex": "A^3 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣 A 的三次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^3 = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的三次方\"}\n",
+    "ts": "2026-04-28T10:09:26.752724+00:00"
+  },
+  "image_bd866a65da3a6a.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\\\ \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\end{bmatrix}^6 = \\begin{bmatrix} \\cos 30^\\circ & -\\sin 30^\\circ \\\\ \\sin 30^\\circ & \\cos 30^\\circ \\end{bmatrix}^6",
+    "note": "矩陣的 6 次方與旋轉矩陣的關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{\\\\sqrt{3}}{2} & -\\\\frac{1}{2} \\\\\\\\ \\\\frac{1}{2} & \\\\frac{\\\\sqrt{3}}{2} \\\\end{bmatrix}^6 = \\\\begin{bmatrix} \\\\cos 30^\\\\circ & -\\\\sin 30^\\\\circ \\\\\\\\ \\\\sin 30^\\\\circ & \\\\cos 30^\\\\circ \\\\end{bmatrix}^6\",\"note\":\"矩陣的 6 次方與旋轉矩陣的關係\"}\n",
+    "ts": "2026-04-28T10:09:26.886269+00:00"
+  },
+  "image_be726d48db0083.png": {
+    "classification": "formula",
+    "latex": "AB = \\begin{bmatrix} a & c \\\\ b & d \\end{bmatrix} \\begin{bmatrix} x & p \\\\ y & q \\end{bmatrix} = \\begin{bmatrix} ax+cy & ap+cq \\\\ bx+dy & bp+dq \\end{bmatrix}",
+    "note": "二階矩陣乘法的定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = \\\\begin{bmatrix} a & c \\\\\\\\ b & d \\\\end{bmatrix} \\\\begin{bmatrix} x & p \\\\\\\\ y & q \\\\end{bmatrix} = \\\\begin{bmatrix} ax+cy & ap+cq \\\\\\\\ bx+dy & bp+dq \\\\end{bmatrix}\",\"note\":\"二階矩陣乘法的定義\"}\n",
+    "ts": "2026-04-28T10:09:31.355891+00:00"
+  },
+  "image_c20ee4b4bbb11f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 150^\\circ & \\sin 150^\\circ \\\\ -\\sin 150^\\circ & \\cos 150^\\circ \\end{bmatrix}",
+    "note": "2x2 旋轉矩陣，包含 cos 150° 與 sin 150°",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 150^\\\\circ & \\\\sin 150^\\\\circ \\\\\\\\ -\\\\sin 150^\\\\circ & \\\\cos 150^\\\\circ \\\\end{bmatrix}\",\"note\":\"2x2 旋轉矩陣，包含 cos 150° 與 sin 150°\"}\n",
+    "ts": "2026-04-28T10:09:40.064110+00:00"
+  },
+  "image_c0958d97151da1.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}",
+    "note": "根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sqrt{3}\",\"note\":\"根號3\"}\n",
+    "ts": "2026-04-28T10:09:42.920890+00:00"
+  },
+  "image_c542279c1365ac.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數 2/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數 2/3\"}\n",
+    "ts": "2026-04-28T10:09:43.794397+00:00"
+  },
+  "image_c62e21d389b189.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:09:53.303713+00:00"
+  },
+  "image_c70b93f145d6e0.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 1 \\\\\\\\ -1 & 1 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:09:54.025597+00:00"
+  },
+  "image_c5cc5c5fd97001.png": {
+    "classification": "formula",
+    "latex": "M^2 = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix} = -I",
+    "note": "矩陣 M^2 等於負單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M^2 = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = -I\",\"note\":\"矩陣 M^2 等於負單位矩陣\"}\n",
+    "ts": "2026-04-28T10:10:11.001571+00:00"
+  },
+  "image_c7529930faf432.png": {
+    "classification": "formula",
+    "latex": "A^2 = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix} \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣平方運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = \\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix} \\\\begin{bmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣平方運算\"}\n",
+    "ts": "2026-04-28T10:10:14.920853+00:00"
+  },
+  "image_c73803e41a2abf.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix} \\cos(-900^{\\circ}) & -\\sin(-900^{\\circ}) \\\\ \\sin(-900^{\\circ}) & \\cos(-900^{\\circ}) \\end{bmatrix}",
+    "note": "三角函數二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix} \\\\cos(-900^{\\\\circ}) & -\\\\sin(-900^{\\\\circ}) \\\\\\\\ \\\\sin(-900^{\\\\circ}) & \\\\cos(-900^{\\\\circ}) \\\\end{bmatrix}\",\"note\":\"三角函數二階方陣\"}\n",
+    "ts": "2026-04-28T10:10:16.870699+00:00"
+  },
+  "image_c589d92a10cc2c.png": {
+    "classification": "formula",
+    "latex": "y = \\frac{a}{8}x - \\frac{1}{8}y' = \\frac{a}{8}x' - \\frac{1}{8}y'",
+    "note": "包含變數 x, x', y, y' 的代數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y = \\\\frac{a}{8}x - \\\\frac{1}{8}y' = \\\\frac{a}{8}x' - \\\\frac{1}{8}y'\",\"note\":\"包含變數 x, x', y, y' 的代數等式\"}\n",
+    "ts": "2026-04-28T10:10:16.895185+00:00"
+  },
+  "image_c794b631919c43.png": {
+    "classification": "formula",
+    "latex": "(a, b)",
+    "note": "數對 (a, b)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a, b)\",\"note\":\"數對 (a, b)\"}\n",
+    "ts": "2026-04-28T10:10:22.723162+00:00"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "數學符號 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"數學符號 D\"}\n",
+    "ts": "2026-04-28T10:10:25.936110+00:00"
+  },
+  "image_c9041e04b9a25b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 20^\\circ & -\\sin 20^\\circ \\\\ \\sin 20^\\circ & \\cos 20^\\circ \\end{bmatrix}^5 = \\begin{bmatrix} \\cos 100^\\circ & -\\sin 100^\\circ \\\\ \\sin 100^\\circ & \\cos 100^\\circ \\end{bmatrix}",
+    "note": "旋轉矩陣的5次方運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 20^\\\\circ & -\\\\sin 20^\\\\circ \\\\\\\\ \\\\sin 20^\\\\circ & \\\\cos 20^\\\\circ \\\\end{bmatrix}^5 = \\\\begin{bmatrix} \\\\cos 100^\\\\circ & -\\\\sin 100^\\\\circ \\\\\\\\ \\\\sin 100^\\\\circ & \\\\cos 100^\\\\circ \\\\end{bmatrix}\",\"note\":\"旋轉矩陣的5次方運算\"}\n",
+    "ts": "2026-04-28T10:10:40.358803+00:00"
+  },
+  "image_c93139decd236d.png": {
+    "classification": "formula",
+    "latex": "(0, 2\\sqrt{2})",
+    "note": "坐標 (0, 2\\sqrt{2})",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0, 2\\sqrt{2})\",\"note\":\"坐標 (0, 2\\sqrt{2})\"}\n",
+    "ts": "2026-04-28T10:10:42.553925+00:00"
+  },
+  "image_c8ee3724637d08.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 45^\\circ & \\sin 45^\\circ \\cr \\sin 45^\\circ & -\\cos 45^\\circ \\end{bmatrix}^4 = \\begin{bmatrix} \\cos 180^\\circ & \\sin 180^\\circ \\cr \\sin 180^\\circ & -\\cos 180^\\circ \\end{bmatrix}",
+    "note": "矩陣的四次方與三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 45^\\\\circ & \\\\sin 45^\\\\circ \\\\cr \\\\sin 45^\\\\circ & -\\\\cos 45^\\\\circ \\\\end{bmatrix}^4 = \\\\begin{bmatrix} \\\\cos 180^\\\\circ & \\\\sin 180^\\\\circ \\\\cr \\\\sin 180^\\\\circ & -\\\\cos 180^\\\\circ \\\\end{bmatrix}\",\"note\":\"矩陣的四次方與三角函數公式\"}\n",
+    "ts": "2026-04-28T10:10:51.762070+00:00"
+  },
+  "image_c9a2215db40c85.png": {
+    "classification": "formula",
+    "latex": "\\frac{43}{108}",
+    "note": "分數 43/108",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{43}{108}\",\"note\":\"分數 43/108\"}\n",
+    "ts": "2026-04-28T10:10:56.543167+00:00"
+  },
+  "image_c915bb66d71dea.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix}^6",
+    "note": "二階矩陣的 6 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix}^6\",\"note\":\"二階矩陣的 6 次方\"}\n",
+    "ts": "2026-04-28T10:10:57.573966+00:00"
+  },
+  "image_ca6ab9ff30293d.png": {
+    "classification": "formula",
+    "latex": "7 : 3",
+    "note": "比例 7:3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7 : 3\",\"note\":\"比例 7:3\"}\n",
+    "ts": "2026-04-28T10:11:02.161878+00:00"
+  },
+  "image_ca5b5fec5bb1f7.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix} \\Rightarrow B^{-1} = \\frac{1}{2} \\times \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}",
+    "note": "矩陣 B 及其反矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} 1 & 1 \\\\\\\\ -1 & 1 \\\\end{bmatrix} \\\\Rightarrow B^{-1} = \\\\frac{1}{2} \\\\times \\\\begin{bmatrix} 1 & -1 \\\\\\\\ 1 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣 B 及其反矩陣\"}\n",
+    "ts": "2026-04-28T10:11:05.949773+00:00"
+  },
+  "image_caecbab77bcda1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&-3&-2\\\\2&-1&-3\\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&-3&-2\\\\\\\\2&-1&-3\\\\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T10:11:06.607156+00:00"
+  },
+  "image_ccb7b33855820c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:11:17.943333+00:00"
+  },
+  "image_cbb88a7abaf3c1.png": {
+    "classification": "formula",
+    "latex": "B = -A = \\begin{bmatrix} -\\cos 20^\\circ & -\\sin 20^\\circ \\\\ -\\sin 20^\\circ & \\cos 20^\\circ \\end{bmatrix}",
+    "note": "包含 20 度三角函數的矩陣關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = -A = \\\\begin{bmatrix} -\\\\cos 20^\\\\circ & -\\\\sin 20^\\\\circ \\\\\\\\ -\\\\sin 20^\\\\circ & \\\\cos 20^\\\\circ \\\\end{bmatrix}\",\"note\":\"包含 20 度三角函數的矩陣關係式\"}\n",
+    "ts": "2026-04-28T10:11:20.829095+00:00"
+  },
+  "image_cd0d2091ec9a17.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 45^\\circ & \\sin 45^\\circ \\\\ \\sin 45^\\circ & -\\cos 45^\\circ \\end{bmatrix}^2 = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣平方與單位矩陣之關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 45^\\\\circ & \\\\sin 45^\\\\circ \\\\\\\\ \\\\sin 45^\\\\circ & -\\\\cos 45^\\\\circ \\\\end{bmatrix}^2 = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣平方與單位矩陣之關係\"}\n",
+    "ts": "2026-04-28T10:11:24.108240+00:00"
+  },
+  "image_cd48cdd59686ed.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos(-60^\\circ) & -\\sin(-60^\\circ) \\\\ \\sin(-60^\\circ) & \\cos(-60^\\circ) \\end{bmatrix}",
+    "note": "包含 -60 度的 2x2 旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos(-60^\\\\circ) & -\\\\sin(-60^\\\\circ) \\\\\\\\ \\\\sin(-60^\\\\circ) & \\\\cos(-60^\\\\circ) \\\\end{bmatrix}\",\"note\":\"包含 -60 度的 2x2 旋轉矩陣\"}\n",
+    "ts": "2026-04-28T10:11:24.405811+00:00"
+  },
+  "image_cd98b5f27ead9e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & 0 \\ 0 & 1 \\end{bmatrix}",
+    "note": "二階矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\begin{bmatrix} \\frac{1}{2} & 0 \\\\ 0 & 1 \\end{bmatrix}\",\"note\":\"二階矩陣\"}\n",
+    "ts": "2026-04-28T10:11:29.909346+00:00"
+  },
+  "image_cf3086cea7151a.png": {
+    "classification": "formula",
+    "latex": "(ax + cy) + (bx + dy)",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(ax + cy) + (bx + dy)\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-28T10:11:33.887395+00:00"
+  },
+  "image_ce73e5ffcbcc01.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} -1 & 1 & -2 \\\\ 3 & 2 & 1 \\end{bmatrix}",
+    "note": "2x3 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} -1 & 1 & -2 \\\\\\\\ 3 & 2 & 1 \\\\end{bmatrix}\",\"note\":\"2x3 矩陣\"}\n",
+    "ts": "2026-04-28T10:11:39.907427+00:00"
+  },
+  "image_cdae3b70e8da0e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & 1 \\cr 1 & 0 \\end{bmatrix}",
+    "note": "2x2 矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & 1 \\\\cr 1 & 0 \\\\end{bmatrix}\",\"note\":\"2x2 矩陣\"}\n",
+    "ts": "2026-04-28T10:11:46.277093+00:00"
+  },
+  "image_d124db5e03a520.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\frac{1}{2} & -\\\\frac{\\\\sqrt{3}}{2} \\\\\\\\ \\\\frac{\\\\sqrt{3}}{2} & \\\\frac{1}{2} \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:11:47.768264+00:00"
+  },
+  "image_d1652f73dfc128.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta = \\frac{4}{5}",
+    "note": "餘弦函數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta = \\\\frac{4}{5}\",\"note\":\"餘弦函數值\"}\n",
+    "ts": "2026-04-28T10:11:53.528973+00:00"
+  },
+  "image_d1c978cc6460ec.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角坐標系中點的對稱關係示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角坐標系中點的對稱關係示意圖\"}\n",
+    "ts": "2026-04-28T10:12:00.061300+00:00"
+  },
+  "image_d1df13b0bb8dbf.png": {
+    "classification": "formula",
+    "latex": "A + B = A + (-A) = O",
+    "note": "矩陣加法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A + B = A + (-A) = O\",\"note\":\"矩陣加法公式\"}\n",
+    "ts": "2026-04-28T10:12:04.237411+00:00"
+  },
+  "image_d1aa5179433cb1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos 180^\\circ & \\sin 180^\\circ \\\\ \\sin 180^\\circ & -\\cos 180^\\circ \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "包含三角函數的矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos 180^\\\\circ & \\\\sin 180^\\\\circ \\\\\\\\ \\\\sin 180^\\\\circ & -\\\\cos 180^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"包含三角函數的矩陣等式\"}\n",
+    "ts": "2026-04-28T10:12:05.628035+00:00"
+  },
+  "image_d2169dd8dc9800.png": {
+    "classification": "formula",
+    "latex": "A + B",
+    "note": "A + B 算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A + B\",\"note\":\"A + B 算式\"}\n",
+    "ts": "2026-04-28T10:12:10.400679+00:00"
+  },
+  "image_d36864b7eec2a6.png": {
+    "classification": "formula",
+    "latex": "26",
+    "note": "數字 26",
+    "raw": "{\"class\":\"formula\",\"latex\":\"26\",\"note\":\"數字 26\"}\n",
+    "ts": "2026-04-28T10:12:14.876458+00:00"
+  },
+  "image_d3c710e653d97b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix} =",
+    "note": "矩陣乘法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix} =\",\"note\":\"矩陣乘法計算\"}\n",
+    "ts": "2026-04-28T10:12:23.070949+00:00"
+  },
+  "image_d461f345a30699.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} 2 & 0 \\\\ 0 & 4 \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} 2 & 0 \\\\\\\\ 0 & 4 \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T10:12:37.053820+00:00"
+  },
+  "image_d18320a23adccb.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} y \\\\ x \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0 & 1 \\\\\\\\ 1 & 0 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} = \\\\begin{bmatrix} y \\\\\\\\ x \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:12:38.537166+00:00"
+  },
+  "image_d7255c7c3844d9.png": {
+    "classification": "formula",
+    "latex": "-32",
+    "note": "負32",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-32\",\"note\":\"負32\"}\n",
+    "ts": "2026-04-28T10:12:49.513621+00:00"
+  },
+  "image_d7145faa18d2e5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\\\ a & -8 \\end{bmatrix}",
+    "note": "二階矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 0 \\\\\\\\ a & -8 \\\\end{bmatrix}\",\"note\":\"二階矩陣\"}\n",
+    "ts": "2026-04-28T10:12:54.002200+00:00"
+  },
+  "image_d975f126a636e0.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix} \\cos \\alpha \\cos \\beta + \\sin \\alpha \\sin \\beta & \\cos \\alpha \\sin \\beta - \\sin \\alpha \\cos \\beta \\\\ \\sin \\alpha \\cos \\beta - \\cos \\alpha \\sin \\beta & \\sin \\alpha \\sin \\beta + \\cos \\alpha \\cos \\beta \\end{bmatrix}",
+    "note": "包含三角函數 \\cos, \\sin 與 \\alpha, \\beta 的二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix} \\\\cos \\\\alpha \\\\cos \\\\beta + \\\\sin \\\\alpha \\\\sin \\\\beta & \\\\cos \\\\alpha \\\\sin \\\\beta - \\\\sin \\\\alpha \\\\cos \\\\beta \\\\\\\\ \\\\sin \\\\alpha \\\\cos \\\\beta - \\\\cos \\\\alpha \\\\sin \\\\beta & \\\\sin \\\\alpha \\\\sin \\\\beta + \\\\cos \\\\alpha \\\\cos \\\\beta \\\\end{bmatrix}\",\"note\":\"包含三角函數 \\cos, \\sin 與 \\alpha, \\beta 的二階方陣\"}\n",
+    "ts": "2026-04-28T10:12:57.305423+00:00"
+  },
+  "image_d986904873be83.png": {
+    "classification": "formula",
+    "latex": "ab + bd + bc + d^2",
+    "note": "多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ab + bd + bc + d^2\",\"note\":\"多項式\"}\n",
+    "ts": "2026-04-28T10:12:58.372325+00:00"
+  },
+  "image_d98c701b7fd24b.png": {
+    "classification": "formula",
+    "latex": "180^\\circ",
+    "note": "180度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"180^\\\\circ\",\"note\":\"180度\"}\n",
+    "ts": "2026-04-28T10:13:04.544131+00:00"
+  },
+  "image_d9c089f904ed7e.png": {
+    "classification": "formula",
+    "latex": "-2",
+    "note": "數字-2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\",\"note\":\"數字-2\"}\n",
+    "ts": "2026-04-28T10:13:07.367833+00:00"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "數學符號C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"數學符號C\"}\n",
+    "ts": "2026-04-28T10:13:11.003321+00:00"
+  },
+  "image_d56f558e882af0.png": {
+    "classification": "formula",
+    "latex": "| \\begin{vmatrix} \\frac{4}{5} & -\\frac{3}{5} \\cr \\frac{3}{5} & \\frac{4}{5} \\end{vmatrix} | = | \\frac{16}{25} + \\frac{9}{25} | = |1| = 1",
+    "note": "行列式的絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"| \\\\begin{vmatrix} \\\\frac{4}{5} & -\\\\frac{3}{5} \\\\cr \\\\frac{3}{5} & \\\\frac{4}{5} \\\\end{vmatrix} | = | \\\\frac{16}{25} + \\\\frac{9}{25} | = |1| = 1\",\"note\":\"行列式的絕對值計算\"}\n",
+    "ts": "2026-04-28T10:13:12.774583+00:00"
+  },
+  "image_dd7e88967c7f02.png": {
+    "classification": "formula",
+    "latex": "3:2",
+    "note": "比例 3:2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3:2\",\"note\":\"比例 3:2\"}\n",
+    "ts": "2026-04-28T10:13:20.848794+00:00"
+  },
+  "image_dba0f6758c7454.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:13:22.034801+00:00"
+  },
+  "image_dc52b6585a796e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0.8 & 0.4 \\\\ 0.2 & 0.6 \\end{bmatrix} \\begin{bmatrix} 0.75 \\\\ 0.25 \\end{bmatrix}",
+    "note": "矩陣乘法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0.8 & 0.4 \\\\\\\\ 0.2 & 0.6 \\\\end{bmatrix} \\\\begin{bmatrix} 0.75 \\\\\\\\ 0.25 \\\\end{bmatrix}\",\"note\":\"矩陣乘法\"}\n",
+    "ts": "2026-04-28T10:13:23.849221+00:00"
+  },
+  "image_dde79508a33841.png": {
+    "classification": "formula",
+    "latex": "P_0 = \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}",
+    "note": "矩陣 P_0 的定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_0 = \\\\begin{bmatrix} 1 \\\\\\\\ 0 \\\\end{bmatrix}\",\"note\":\"矩陣 P_0 的定義\"}\n",
+    "ts": "2026-04-28T10:13:30.454436+00:00"
+  },
+  "image_ddeb5b705979ab.png": {
+    "classification": "formula",
+    "latex": "A^4 \\begin{bmatrix} a \\\\ b \\end{bmatrix} = \\begin{bmatrix} 3 \\\\ 2 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^4 \\\\begin{bmatrix} a \\\\\\\\ b \\\\end{bmatrix} = \\\\begin{bmatrix} 3 \\\\\\\\ 2 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:13:31.716464+00:00"
+  },
+  "image_def7c997286563.png": {
+    "classification": "formula",
+    "latex": "(\\sqrt{2}, -\\sqrt{2})",
+    "note": "坐標 (\\sqrt{2}, -\\sqrt{2})",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\sqrt{2}, -\\sqrt{2})\",\"note\":\"坐標 (\\sqrt{2}, -\\sqrt{2})\"}\n",
+    "ts": "2026-04-28T10:13:37.297067+00:00"
+  },
+  "image_e093253b7c99e2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\ \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\begin{bmatrix} \\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\\\ \\frac{1}{2} & \\frac{\\sqrt{3}}{2} \\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:13:42.009263+00:00"
+  },
+  "image_e0c809eb2190c7.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 0.2 & 0.3 \\\\ 0.8 & 0.7 \\end{bmatrix}",
+    "note": "二階轉移矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 0.2 & 0.3 \\\\\\\\ 0.8 & 0.7 \\\\end{bmatrix}\",\"note\":\"二階轉移矩陣\"}\n",
+    "ts": "2026-04-28T10:13:48.904724+00:00"
+  },
+  "image_dfdceb38a4f0ed.png": {
+    "classification": "formula",
+    "latex": "A^2 = \\begin{bmatrix} \\cos 20^\\circ & \\sin 20^\\circ \\\\ \\sin 20^\\circ & -\\cos 20^\\circ \\end{bmatrix} \\begin{bmatrix} \\cos 20^\\circ & \\sin 20^\\circ \\\\ \\sin 20^\\circ & -\\cos 20^\\circ \\end{bmatrix}",
+    "note": "矩陣 A 的平方運算展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = \\\\begin{bmatrix} \\\\cos 20^\\\\circ & \\\\sin 20^\\\\circ \\\\\\\\ \\\\sin 20^\\\\circ & -\\\\cos 20^\\\\circ \\\\end{bmatrix} \\\\begin{bmatrix} \\\\cos 20^\\\\circ & \\\\sin 20^\\\\circ \\\\\\\\ \\\\sin 20^\\\\circ & -\\\\cos 20^\\\\circ \\\\end{bmatrix}\",\"note\":\"矩陣 A 的平方運算展開式\"}\n",
+    "ts": "2026-04-28T10:13:56.745223+00:00"
+  },
+  "image_e1614ce7f9dfc8.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 5 & 2 \\\\ 3 & 4 \\end{bmatrix}",
+    "note": "二階矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 5 & 2 \\\\\\\\ 3 & 4 \\\\end{bmatrix}\",\"note\":\"二階矩陣\"}\n",
+    "ts": "2026-04-28T10:13:58.173935+00:00"
+  },
+  "image_e20a0d3635b210.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字2\"}\n",
+    "ts": "2026-04-28T10:13:58.659857+00:00"
+  },
+  "image_e31522cc825204.png": {
+    "classification": "formula",
+    "latex": "2\\sqrt{3}",
+    "note": "2倍根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\sqrt{3}\",\"note\":\"2倍根號3\"}\n",
+    "ts": "2026-04-28T10:14:12.037854+00:00"
+  },
+  "image_e5bf4db3e0fe15.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos(\\alpha - \\beta) & -\\sin(\\alpha - \\beta) \\\\ \\sin(\\alpha - \\beta) & \\cos(\\alpha - \\beta) \\end{bmatrix}",
+    "note": "包含 alpha - beta 的旋转矩阵",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos(\\\\alpha - \\\\beta) & -\\\\sin(\\\\alpha - \\\\beta) \\\\\\\\ \\\\sin(\\\\alpha - \\\\beta) & \\\\cos(\\\\alpha - \\\\beta) \\\\end{bmatrix}\",\"note\":\"包含 alpha - beta 的旋转矩阵\"}\n",
+    "ts": "2026-04-28T10:14:13.261247+00:00"
+  },
+  "image_e24dec8649850a.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 540^\\circ & -\\sin 540^\\circ \\\\ \\sin 540^\\circ & \\cos 540^\\circ \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "旋轉矩陣與數值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 540^\\\\circ & -\\\\sin 540^\\\\circ \\\\\\\\ \\\\sin 540^\\\\circ & \\\\cos 540^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"旋轉矩陣與數值計算\"}\n",
+    "ts": "2026-04-28T10:14:18.325659+00:00"
+  },
+  "image_e0ce43e33a4d23.png": {
+    "classification": "formula",
+    "latex": "| \\begin{vmatrix} 1 & \\sqrt{2} \\\\ 0 & 1 \\end{vmatrix} | = |1 - 0| = 1",
+    "note": "二階行列式的絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"| \\\\begin{vmatrix} 1 & \\\\sqrt{2} \\\\\\\\ 0 & 1 \\\\end{vmatrix} | = |1 - 0| = 1\",\"note\":\"二階行列式的絕對值計算\"}\n",
+    "ts": "2026-04-28T10:14:26.175087+00:00"
+  },
+  "image_e789ce6fcf7ac7.png": {
+    "classification": "formula",
+    "latex": "BABA = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"BABA = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-28T10:14:32.864886+00:00"
+  },
+  "image_e7ab4fbcbd32ea.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 360^\\circ & -\\sin 360^\\circ \\\\ \\sin 360^\\circ & \\cos 360^\\circ \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "旋轉360度的旋轉矩陣等於單位矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 360^\\\\circ & -\\\\sin 360^\\\\circ \\\\\\\\ \\\\sin 360^\\\\circ & \\\\cos 360^\\\\circ \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"旋轉360度的旋轉矩陣等於單位矩陣\"}\n",
+    "ts": "2026-04-28T10:14:34.452112+00:00"
+  },
+  "image_e8aeb300dcc5a8.png": {
+    "classification": "formula",
+    "latex": "A^2 = I",
+    "note": "矩陣 A 的平方等於單位矩陣 I",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = I\",\"note\":\"矩陣 A 的平方等於單位矩陣 I\"}\n",
+    "ts": "2026-04-28T10:14:43.507436+00:00"
+  },
+  "image_e7edc12ec62d5a.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\sqrt{3} \\\\ 7 \\end{bmatrix}",
+    "note": "二維列向量，分量為根號 3 與 7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\sqrt{3} \\\\\\\\ 7 \\\\end{bmatrix}\",\"note\":\"二維列向量，分量為根號 3 與 7\"}\n",
+    "ts": "2026-04-28T10:14:44.685161+00:00"
+  },
+  "image_e7ca420d43d7d4.png": {
+    "classification": "formula",
+    "latex": "B = \\begin{bmatrix} x & p \\\\ y & q \\end{bmatrix}",
+    "note": "矩陣 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B = \\\\begin{bmatrix} x & p \\\\\\\\ y & q \\\\end{bmatrix}\",\"note\":\"矩陣 B\"}\n",
+    "ts": "2026-04-28T10:14:44.720995+00:00"
+  },
+  "image_e8cea6df958d93.png": {
+    "classification": "formula",
+    "latex": "A^3 = A^2 A = IA = A",
+    "note": "矩陣乘法運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^3 = A^2 A = IA = A\",\"note\":\"矩陣乘法運算過程\"}\n",
+    "ts": "2026-04-28T10:14:44.989490+00:00"
+  },
+  "image_e92fe46238bca5.png": {
+    "classification": "formula",
+    "latex": "x + y = 1",
+    "note": "二元一次方程式 x + y = 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x + y = 1\",\"note\":\"二元一次方程式 x + y = 1\"}\n",
+    "ts": "2026-04-28T10:14:56.285901+00:00"
+  },
+  "image_ea25b5d4c1b9bc.png": {
+    "classification": "formula",
+    "latex": "a + b = 1",
+    "note": "a + b = 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a + b = 1\",\"note\":\"a + b = 1\"}\n",
+    "ts": "2026-04-28T10:14:56.921081+00:00"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "字母 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"字母 A\"}\n",
+    "ts": "2026-04-28T10:15:00.508184+00:00"
+  },
+  "image_e8fcdcb84c1187.png": {
+    "classification": "formula",
+    "latex": "A^{11} B^3 = (A^2)^5 A B^3",
+    "note": "矩陣冪次與乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^{11} B^3 = (A^2)^5 A B^3\",\"note\":\"矩陣冪次與乘法運算\"}\n",
+    "ts": "2026-04-28T10:15:02.300440+00:00"
+  },
+  "image_eef8bd7450618d.png": {
+    "classification": "formula",
+    "latex": "A^2 = AA",
+    "note": "矩陣 A 的平方定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = AA\",\"note\":\"矩陣 A 的平方定義\"}\n",
+    "ts": "2026-04-28T10:15:07.586821+00:00"
+  },
+  "image_f03302cb0d68b4.png": {
+    "classification": "formula",
+    "latex": "a+b+c+d=2+0+0+4=6",
+    "note": "變數與數值的求和運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b+c+d=2+0+0+4=6\",\"note\":\"變數與數值的求和運算\"}\n",
+    "ts": "2026-04-28T10:15:11.294368+00:00"
+  },
+  "image_f1ca69de79f204.png": {
+    "classification": "formula",
+    "latex": "A^2 B = IB = B",
+    "note": "矩陣運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 B = IB = B\",\"note\":\"矩陣運算式\"}\n",
+    "ts": "2026-04-28T10:15:13.863066+00:00"
+  },
+  "image_f205feaa0bbb58.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角座標系上的三角形OAB",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角座標系上的三角形OAB\"}\n",
+    "ts": "2026-04-28T10:15:21.315588+00:00"
+  },
+  "image_f268f2cfadd106.png": {
+    "classification": "formula",
+    "latex": "(-A)B = (-A)(-A) = A^2 = I",
+    "note": "矩陣運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-A)B = (-A)(-A) = A^2 = I\",\"note\":\"矩陣運算等式\"}\n",
+    "ts": "2026-04-28T10:15:23.083161+00:00"
+  },
+  "image_f3f8d84b60350c.png": {
+    "classification": "formula",
+    "latex": "AB = BA",
+    "note": "AB = BA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = BA\",\"note\":\"AB = BA\"}\n",
+    "ts": "2026-04-28T10:15:32.036584+00:00"
+  },
+  "image_f61490e00851f2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x' \\\\ y' \\end{bmatrix} = \\begin{bmatrix} 1 & 2 \\\\ 1 & -1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix}",
+    "note": "矩陣變換算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 2 \\\\\\\\ 1 & -1 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix}\",\"note\":\"矩陣變換算式\"}\n",
+    "ts": "2026-04-28T10:15:41.296561+00:00"
+  },
+  "image_f75f2120172825.png": {
+    "classification": "formula",
+    "latex": "20",
+    "note": "數字 20",
+    "raw": "{\"class\":\"formula\",\"latex\":\"20\",\"note\":\"數字 20\"}\n",
+    "ts": "2026-04-28T10:15:43.000023+00:00"
+  },
+  "image_f2dce930d00f28.png": {
+    "classification": "formula",
+    "latex": "A^2 = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix} \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix} = \\begin{bmatrix} a^2+bc & ab+bd \\\\ ac+cd & bc+d^2 \\end{bmatrix}",
+    "note": "矩陣 A 的平方運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2 = \\\\begin{bmatrix} a & b \\\\\\\\ c & d \\\\end{bmatrix} \\\\begin{bmatrix} a & b \\\\\\\\ c & d \\\\end{bmatrix} = \\\\begin{bmatrix} a^2+bc & ab+bd \\\\\\\\ ac+cd & bc+d^2 \\\\end{bmatrix}\",\"note\":\"矩陣 A 的平方運算過程\"}\n",
+    "ts": "2026-04-28T10:15:47.487524+00:00"
+  },
+  "image_f7ccb9df964fd2.png": {
+    "classification": "formula",
+    "latex": "M",
+    "note": "數學符號 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\",\"note\":\"數學符號 M\"}\n",
+    "ts": "2026-04-28T10:15:59.017003+00:00"
+  },
+  "image_f7aa5f8fcfeeba.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} \\cos 360^\\circ & -\\sin 360^\\circ \\\\ \\sin 360^\\circ & \\cos 360^\\circ \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} \\\\cos 360^\\\\circ & -\\\\sin 360^\\\\circ \\\\\\\\ \\\\sin 360^\\\\circ & \\\\cos 360^\\\\circ \\\\end{bmatrix} \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T10:16:04.704631+00:00"
+  },
+  "image_edd18b286af4d4.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{matrix} & \\text{晴} \\quad \\text{雨} \\\\ \\begin{bmatrix} \\frac{2}{3} & \\frac{1}{2} \\\\ \\frac{1}{3} & \\frac{1}{2} \\end{bmatrix} & \\begin{matrix} \\text{晴} \\\\ \\text{雨} \\end{matrix} \\end{matrix}",
+    "note": "帶有晴、雨狀態標籤的轉移矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{matrix} & \\\\text{晴} \\\\quad \\\\text{雨} \\\\\\\\ \\\\begin{bmatrix} \\\\frac{2}{3} & \\\\frac{1}{2} \\\\\\\\ \\\\frac{1}{3} & \\\\frac{1}{2} \\\\end{bmatrix} & \\\\begin{matrix} \\\\text{晴} \\\\\\\\ \\\\text{雨} \\\\end{matrix} \\\\end{matrix}\",\"note\":\"帶有晴、雨狀態標籤的轉移矩陣 A\"}\n",
+    "ts": "2026-04-28T10:16:07.939731+00:00"
+  },
+  "image_f813fff2ef9d4d.png": {
+    "classification": "formula",
+    "latex": "b=2",
+    "note": "b=2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=2\",\"note\":\"b=2\"}\n",
+    "ts": "2026-04-28T10:16:08.774317+00:00"
+  },
+  "image_f77e224e0b796f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} \\cos \\alpha & \\sin \\alpha \\\\ \\sin \\alpha & -\\cos \\alpha \\end{bmatrix} \\begin{bmatrix} \\cos \\beta & \\sin \\beta \\\\ \\sin \\beta & -\\cos \\beta \\end{bmatrix}",
+    "note": "兩個包含三角函數的 2x2 矩陣相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} \\\\cos \\\\alpha & \\\\sin \\\\alpha \\\\\\\\ \\\\sin \\\\alpha & -\\\\cos \\\\alpha \\\\end{bmatrix} \\\\begin{bmatrix} \\\\cos \\\\beta & \\\\sin \\\\beta \\\\\\\\ \\\\sin \\\\beta & -\\\\cos \\\\beta \\\\end{bmatrix}\",\"note\":\"兩個包含三角函數的 2x2 矩陣相乘\"}\n",
+    "ts": "2026-04-28T10:16:09.155065+00:00"
+  },
+  "image_f849f24e4a94e8.png": {
+    "classification": "formula",
+    "latex": "M^{3}=M^{2}M=(-I)M=-M",
+    "note": "矩陣乘法運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M^{3}=M^{2}M=(-I)M=-M\",\"note\":\"矩陣乘法運算等式\"}\n",
+    "ts": "2026-04-28T10:16:16.260024+00:00"
+  },
+  "image_f9a6cb8dbc1fdd.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字 0\"}\n",
+    "ts": "2026-04-28T10:16:18.973548+00:00"
+  },
+  "image_f97ecbfc8018f6.png": {
+    "classification": "formula",
+    "latex": "AB = \\begin{bmatrix} 1 & 0 \\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\ -\\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}",
+    "note": "矩陣相乘運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AB = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ \\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\end{bmatrix} = \\begin{bmatrix} \\frac{1}{2} & -\\frac{\\sqrt{3}}{2} \\\\ -\\frac{\\sqrt{3}}{2} & -\\frac{1}{2} \\end{bmatrix}\",\"note\":\"矩陣相乘運算過程\"}\n",
+    "ts": "2026-04-28T10:16:29.470774+00:00"
+  },
+  "image_fa136219c9a5fe.png": {
+    "classification": "formula",
+    "latex": "= \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix} = \\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\end{bmatrix}",
+    "note": "矩陣乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\begin{bmatrix} 1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & -1 \\\\end{bmatrix} = \\\\begin{bmatrix} -1 & 0 \\\\\\\\ 0 & 1 \\\\end{bmatrix}\",\"note\":\"矩陣乘法運算\"}\n",
+    "ts": "2026-04-28T10:16:35.983160+00:00"
+  },
+  "image_fa1a0b4f19bc8d.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} x' \\\\ y' \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ a & -8 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} \\Rightarrow x' = x",
+    "note": "矩陣乘法與線性變換等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} x' \\\\\\\\ y' \\\\end{bmatrix} = \\\\begin{bmatrix} 1 & 0 \\\\\\\\ a & -8 \\\\end{bmatrix} \\\\begin{bmatrix} x \\\\\\\\ y \\\\end{bmatrix} \\\\Rightarrow x' = x\",\"note\":\"矩陣乘法與線性變換等式\"}\n",
+    "ts": "2026-04-28T10:16:37.799082+00:00"
+  },
+  "image_fba6c05c7a7d7b.png": {
+    "classification": "formula",
+    "latex": "b=",
+    "note": "b 等於",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\",\"note\":\"b 等於\"}\n",
+    "ts": "2026-04-28T10:16:41.283429+00:00"
+  },
+  "image_f942807005b021.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix} 1 & 0 \\cr 0 & 0 \\end{bmatrix}",
+    "note": "二階方陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix} 1 & 0 \\\\cr 0 & 0 \\\\end{bmatrix}\",\"note\":\"二階方陣\"}\n",
+    "ts": "2026-04-28T10:16:47.003037+00:00"
+  },
+  "image_fcecfa799e1f50.png": {
+    "classification": "formula",
+    "latex": "sin \\theta = -\\frac{3}{5}",
+    "note": "sin \\theta = -3/5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"sin \\theta = -\\frac{3}{5}\",\"note\":\"sin \\theta = -3/5\"}\n",
+    "ts": "2026-04-28T10:16:49.117370+00:00"
+  },
+  "image_fedf63128ec7ea.png": {
+    "classification": "formula",
+    "latex": "A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+    "note": "矩陣 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A = \\\\begin{bmatrix} a & b \\\\\\\\ c & d \\\\end{bmatrix}\",\"note\":\"矩陣 A\"}\n",
+    "ts": "2026-04-28T10:16:52.290498+00:00"
+  },
+  "image_ff1da067325b33.png": {
+    "classification": "formula",
+    "latex": "A(4\\sqrt{3}, 2)",
+    "note": "點 A 座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(4\\\\sqrt{3}, 2)\",\"note\":\"點 A 座標\"}\n",
+    "ts": "2026-04-28T10:16:55.103477+00:00"
+  },
+  "image_ff22d5087facfc.png": {
+    "classification": "formula",
+    "latex": "100",
+    "note": "數字 100",
+    "raw": "{\"class\":\"formula\",\"latex\":\"100\",\"note\":\"數字 100\"}\n",
+    "ts": "2026-04-28T10:16:58.094103+00:00"
+  }
+}

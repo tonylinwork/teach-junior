@@ -1,0 +1,2394 @@
+{
+  "image_0355f74bce2655.png": {
+    "classification": "formula",
+    "latex": "a_1",
+    "note": "數列項符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1\",\"note\":\"數列項符號\"}\n",
+    "ts": "2026-04-27T10:31:14.033470+00:00",
+    "engine": "codex"
+  },
+  "image_0364216a3785bf.png": {
+    "classification": "formula",
+    "latex": "-1",
+    "note": "負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1\",\"note\":\"負一\"}\n",
+    "ts": "2026-04-27T10:31:14.141102+00:00",
+    "engine": "codex"
+  },
+  "image_026e858ee199f1.png": {
+    "classification": "formula",
+    "latex": "c_1<c_2<c_3<\\cdots",
+    "note": "遞增數列的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c_1<c_2<c_3<\\\\cdots\",\"note\":\"遞增數列的不等式\"}\n",
+    "ts": "2026-04-27T10:31:15.997236+00:00",
+    "engine": "codex"
+  },
+  "image_060a06d35e8dc5.png": {
+    "classification": "formula",
+    "latex": "a_3=-3",
+    "note": "數列項的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=-3\",\"note\":\"數列項的等式\"}\n",
+    "ts": "2026-04-27T10:31:17.831647+00:00",
+    "engine": "codex"
+  },
+  "image_03aadc59152c29.png": {
+    "classification": "formula",
+    "latex": "3^{2n+1}+2^{n+2}",
+    "note": "指數式相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{2n+1}+2^{n+2}\",\"note\":\"指數式相加\"}\n",
+    "ts": "2026-04-27T10:31:19.253312+00:00",
+    "engine": "codex"
+  },
+  "image_01341a028f1076.png": {
+    "classification": "formula",
+    "latex": "a_{n+1}=\\frac{1}{1-a_n}",
+    "note": "遞迴數列公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n+1}=\\\\frac{1}{1-a_n}\",\"note\":\"遞迴數列公式\"}\n",
+    "ts": "2026-04-27T10:31:22.137658+00:00",
+    "engine": "codex"
+  },
+  "image_06704506e200c9.png": {
+    "classification": "formula",
+    "latex": "5\\sqrt{2}",
+    "note": "根式數學表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\\\\sqrt{2}\",\"note\":\"根式數學表達式\"}\n",
+    "ts": "2026-04-27T10:31:22.271275+00:00",
+    "engine": "codex"
+  },
+  "image_0685fa14811bf2.png": {
+    "classification": "formula",
+    "latex": "n=\\frac{15}{d}=15\\times\\frac{2}{3}=10",
+    "note": "代數等式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n=\\\\frac{15}{d}=15\\\\times\\\\frac{2}{3}=10\",\"note\":\"代數等式計算\"}\n",
+    "ts": "2026-04-27T10:31:23.856060+00:00",
+    "engine": "codex"
+  },
+  "image_098a618fd870e7.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-27T10:31:24.071216+00:00",
+    "engine": "codex"
+  },
+  "image_0afaf190d73418.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{x}=\\frac{2}{1+r}",
+    "note": "分式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{x}=\\\\frac{2}{1+r}\",\"note\":\"分式方程\"}\n",
+    "ts": "2026-04-27T10:31:28.627894+00:00",
+    "engine": "codex"
+  },
+  "image_09cfc1f6a2bf1b.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\left(\\frac{1}{b_1}\\right)}{\\left(\\frac{-2}{b_2}\\right)}=\\frac{b_2}{-2b_1}=\\left(-\\frac{1}{2}\\right)\\frac{b_2}{b_1}",
+    "note": "純數學等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\left(\\\\frac{1}{b_1}\\\\right)}{\\\\left(\\\\frac{-2}{b_2}\\\\right)}=\\\\frac{b_2}{-2b_1}=\\\\left(-\\\\frac{1}{2}\\\\right)\\\\frac{b_2}{b_1}\",\"note\":\"純數學等式化簡\"}\n",
+    "ts": "2026-04-27T10:31:29.533660+00:00",
+    "engine": "codex"
+  },
+  "image_0b7a298a627944.png": {
+    "classification": "formula",
+    "latex": "d_1",
+    "note": "變數 d 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_1\",\"note\":\"變數 d 下標 1\"}\n",
+    "ts": "2026-04-27T10:31:30.732013+00:00",
+    "engine": "codex"
+  },
+  "image_0b5c1746350050.png": {
+    "classification": "formula",
+    "latex": "a_{10}=20\\Rightarrow a_1+9d=20\\cdots\\cdots\\text{(i)}",
+    "note": "等差數列第10項條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{10}=20\\\\Rightarrow a_1+9d=20\\\\cdots\\\\cdots\\\\text{(i)}\",\"note\":\"等差數列第10項條件\"}\n",
+    "ts": "2026-04-27T10:31:30.889331+00:00",
+    "engine": "codex"
+  },
+  "image_1019a8c4788baf.png": {
+    "classification": "formula",
+    "latex": "\\langle b_n \\rangle",
+    "note": "序列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle b_n \\\\rangle\",\"note\":\"序列符號\"}\n",
+    "ts": "2026-04-27T10:31:33.716684+00:00",
+    "engine": "codex"
+  },
+  "image_0c2b7aa9c9fced.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-27T10:31:35.181623+00:00",
+    "engine": "codex"
+  },
+  "image_13b046ab4b5400.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "Number line graph with labeled points a_8,b_8,a_9,b_9,a_{10},b_{10}",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"Number line graph with labeled points a_8,b_8,a_9,b_9,a_{10},b_{10}\"}\n",
+    "ts": "2026-04-27T10:31:36.035800+00:00",
+    "engine": "codex"
+  },
+  "image_12571d9d949730.png": {
+    "classification": "formula",
+    "latex": "b_1",
+    "note": "下標變數 b1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_1\",\"note\":\"下標變數 b1\"}\n",
+    "ts": "2026-04-27T10:31:36.545170+00:00",
+    "engine": "codex"
+  },
+  "image_14a49b0fd2d3af.png": {
+    "classification": "formula",
+    "latex": "-3",
+    "note": "負三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3\",\"note\":\"負三\"}\n",
+    "ts": "2026-04-27T10:31:39.144773+00:00",
+    "engine": "codex"
+  },
+  "image_14cda33fd09904.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{8}",
+    "note": "平方根八",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{8}\",\"note\":\"平方根八\"}\n",
+    "ts": "2026-04-27T10:31:40.030575+00:00",
+    "engine": "codex"
+  },
+  "image_13f8abc049aea0.png": {
+    "classification": "formula",
+    "latex": "<\\frac{b_{n+1}}{b_n}>",
+    "note": "不等號夾分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"<\\\\frac{b_{n+1}}{b_n}>\",\"note\":\"不等號夾分式\"}\n",
+    "ts": "2026-04-27T10:31:41.879948+00:00",
+    "engine": "codex"
+  },
+  "image_15cb7174183927.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n \\rangle",
+    "note": "數列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n \\\\rangle\",\"note\":\"數列符號\"}\n",
+    "ts": "2026-04-27T10:31:43.952236+00:00",
+    "engine": "codex"
+  },
+  "image_195af989911ea5.png": {
+    "classification": "formula",
+    "latex": "a_6^2=243\\Rightarrow a_6=9\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_6^2=243\\\\Rightarrow a_6=9\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:31:44.279548+00:00",
+    "engine": "codex"
+  },
+  "image_15378a597607fa.png": {
+    "classification": "formula",
+    "latex": "a+b=2x\\cdots\\text{(ii)}",
+    "note": "等式編號(ii)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b=2x\\\\cdots\\\\text{(ii)}\",\"note\":\"等式編號(ii)\"}\n",
+    "ts": "2026-04-27T10:31:44.421663+00:00",
+    "engine": "codex"
+  },
+  "image_1b28a1ac210ec3.png": {
+    "classification": "formula",
+    "latex": "a_{2018}=-\\frac{1}{3}",
+    "note": "數列項的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2018}=-\\\\frac{1}{3}\",\"note\":\"數列項的值\"}\n",
+    "ts": "2026-04-27T10:31:48.122213+00:00",
+    "engine": "codex"
+  },
+  "image_1c76cde9b976ad.png": {
+    "classification": "formula",
+    "latex": "-4",
+    "note": "負數整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-4\",\"note\":\"負數整數\"}\n",
+    "ts": "2026-04-27T10:31:48.178178+00:00",
+    "engine": "codex"
+  },
+  "image_1c58ba3c3db409.png": {
+    "classification": "formula",
+    "latex": "e_2",
+    "note": "變數 e 的下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e_2\",\"note\":\"變數 e 的下標 2\"}\n",
+    "ts": "2026-04-27T10:31:48.524474+00:00",
+    "engine": "codex"
+  },
+  "image_1d2cbef4d5c7d5.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{4}",
+    "note": "平方根4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{4}\",\"note\":\"平方根4\"}\n",
+    "ts": "2026-04-27T10:31:48.682030+00:00",
+    "engine": "codex"
+  },
+  "image_1dcfe558991262.png": {
+    "classification": "formula",
+    "latex": "b,c",
+    "note": "變數 b 與 c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b,c\",\"note\":\"變數 b 與 c\"}\n",
+    "ts": "2026-04-27T10:31:52.247321+00:00",
+    "engine": "codex"
+  },
+  "image_1eacd7e939865c.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n \\rangle",
+    "note": "數列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n \\\\rangle\",\"note\":\"數列符號\"}\n",
+    "ts": "2026-04-27T10:31:52.996378+00:00",
+    "engine": "codex"
+  },
+  "image_1d9d4248bf13da.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{2x}+\\frac{c}{2y}",
+    "note": "純代數分式相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{2x}+\\\\frac{c}{2y}\",\"note\":\"純代數分式相加\"}\n",
+    "ts": "2026-04-27T10:31:54.892573+00:00",
+    "engine": "codex"
+  },
+  "image_1de5b96ce0591a.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{2x}+\\frac{c}{2y}=\\frac{a}{a+b}+\\frac{c}{b+c}=\\frac{a}{a+ar}+\\frac{ar^2}{ar+ar^2}=\\frac{1+r}{1+r}=1",
+    "note": "等比代換後分式和為1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{2x}+\\\\frac{c}{2y}=\\\\frac{a}{a+b}+\\\\frac{c}{b+c}=\\\\frac{a}{a+ar}+\\\\frac{ar^2}{ar+ar^2}=\\\\frac{1+r}{1+r}=1\",\"note\":\"等比代換後分式和為1\"}\n",
+    "ts": "2026-04-27T10:31:55.026581+00:00",
+    "engine": "codex"
+  },
+  "image_1f166ab0d009a2.png": {
+    "classification": "formula",
+    "latex": "a_9=81",
+    "note": "數列第9項等於81",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9=81\",\"note\":\"數列第9項等於81\"}\n",
+    "ts": "2026-04-27T10:31:56.823523+00:00",
+    "engine": "codex"
+  },
+  "image_1f7307248203ad.png": {
+    "classification": "formula",
+    "latex": "\\langle d_n\\rangle:3,5,7",
+    "note": "數列項記號與數值列表",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle d_n\\\\rangle:3,5,7\",\"note\":\"數列項記號與數值列表\"}\n",
+    "ts": "2026-04-27T10:31:57.903098+00:00",
+    "engine": "codex"
+  },
+  "image_205462a343abc1.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{7}",
+    "note": "分數二分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{7}\",\"note\":\"分數二分之七\"}\n",
+    "ts": "2026-04-27T10:31:58.789706+00:00",
+    "engine": "codex"
+  },
+  "image_22772db608565f.png": {
+    "classification": "formula",
+    "latex": "e_n=a_n+n",
+    "note": "等式：e_n 等於 a_n 加 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e_n=a_n+n\",\"note\":\"等式：e_n 等於 a_n 加 n\"}\n",
+    "ts": "2026-04-27T10:31:59.424244+00:00",
+    "engine": "codex"
+  },
+  "image_230b93cb0e0fb1.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-27T10:32:01.892837+00:00",
+    "engine": "codex"
+  },
+  "image_2313cf70a18ad4.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-27T10:32:01.945089+00:00",
+    "engine": "codex"
+  },
+  "image_23186a7a77318f.png": {
+    "classification": "formula",
+    "latex": "a_3 \\times a_9 = a_6^2",
+    "note": "等比數列項的乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3 \\\\times a_9 = a_6^2\",\"note\":\"等比數列項的乘積公式\"}\n",
+    "ts": "2026-04-27T10:32:04.417032+00:00",
+    "engine": "codex"
+  },
+  "image_270f0b69a4055f.png": {
+    "classification": "formula",
+    "latex": "a_9>a_{10}",
+    "note": "不等式：a_9 大於 a_10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9>a_{10}\",\"note\":\"不等式：a_9 大於 a_10\"}\n",
+    "ts": "2026-04-27T10:32:06.720071+00:00",
+    "engine": "codex"
+  },
+  "image_25a4e2476d089b.png": {
+    "classification": "formula",
+    "latex": "a_3\\times a_4\\times a_5\\times a_6\\times a_7\\times a_8\\times a_9=3^{35}",
+    "note": "等比或數列項乘積等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3\\\\times a_4\\\\times a_5\\\\times a_6\\\\times a_7\\\\times a_8\\\\times a_9=3^{35}\",\"note\":\"等比或數列項乘積等式\"}\n",
+    "ts": "2026-04-27T10:32:07.563934+00:00",
+    "engine": "codex"
+  },
+  "image_2583a93577d5c5.png": {
+    "classification": "formula",
+    "latex": "\\langle 3\\times a_n\\rangle",
+    "note": "角括號內的數列表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle 3\\\\times a_n\\\\rangle\",\"note\":\"角括號內的數列表達式\"}\n",
+    "ts": "2026-04-27T10:32:10.989428+00:00",
+    "engine": "codex"
+  },
+  "image_2869ebf75adf6c.png": {
+    "classification": "formula",
+    "latex": "a_n=a_1+(n-1)\\times d=5+(n-1)\\times(-4)=-4n+9",
+    "note": "等差數列通項公式代入計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n=a_1+(n-1)\\\\times d=5+(n-1)\\\\times(-4)=-4n+9\",\"note\":\"等差數列通項公式代入計算\"}\n",
+    "ts": "2026-04-27T10:32:12.124892+00:00",
+    "engine": "codex"
+  },
+  "image_280217ae222a60.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\left(\\frac{-2}{b_2}\\right)}{\\left(\\frac{4}{b_3}\\right)}=\\frac{b_3}{-2b_2}=\\left(-\\frac{1}{2}\\right)\\frac{b_3}{b_2}=\\left(-\\frac{1}{2}\\right)\\frac{b_2}{b_1}",
+    "note": "分式連等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\left(\\\\frac{-2}{b_2}\\\\right)}{\\\\left(\\\\frac{4}{b_3}\\\\right)}=\\\\frac{b_3}{-2b_2}=\\\\left(-\\\\frac{1}{2}\\\\right)\\\\frac{b_3}{b_2}=\\\\left(-\\\\frac{1}{2}\\\\right)\\\\frac{b_2}{b_1}\",\"note\":\"分式連等式\"}\n",
+    "ts": "2026-04-27T10:32:13.527753+00:00",
+    "engine": "codex"
+  },
+  "image_29c56f1bfd5f19.png": {
+    "classification": "formula",
+    "latex": "\\frac{a+ar}{2}",
+    "note": "分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a+ar}{2}\",\"note\":\"分式代數式\"}\n",
+    "ts": "2026-04-27T10:32:13.758116+00:00",
+    "engine": "codex"
+  },
+  "image_2a8ab3e00b3411.png": {
+    "classification": "formula",
+    "latex": "f_3",
+    "note": "函數符號 f 下標 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f_3\",\"note\":\"函數符號 f 下標 3\"}\n",
+    "ts": "2026-04-27T10:32:14.833482+00:00",
+    "engine": "codex"
+  },
+  "image_2aaaa174537c19.png": {
+    "classification": "formula",
+    "latex": "\\frac{b_{n+1}}{b_n^2}=\\frac{(b_1r^n)^2}{(b_1r^{n-1})^2}=r^2",
+    "note": "等比數列項比化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b_{n+1}}{b_n^2}=\\\\frac{(b_1r^n)^2}{(b_1r^{n-1})^2}=r^2\",\"note\":\"等比數列項比化簡公式\"}\n",
+    "ts": "2026-04-27T10:32:20.067564+00:00",
+    "engine": "codex"
+  },
+  "image_2b0a36956f8f0c.png": {
+    "classification": "formula",
+    "latex": "a_{2020}=a_{\\overline{3k+1}}=-\\frac{6}{7}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2020}=a_{\\\\overline{3k+1}}=-\\\\frac{6}{7}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:32:21.918199+00:00",
+    "engine": "codex"
+  },
+  "image_2a9c16e84a85b5.png": {
+    "classification": "formula",
+    "latex": "\\begin{aligned}a_1&=3\\\\a_2&=a_1+3\\times1\\\\a_3&=a_2+3\\times2\\\\a_4&=a_3+3\\times3\\\\&\\vdots\\\\a_n&=a_{n-1}+3\\times(n-1)\\\\a_n&=3+3\\times[1+2+\\cdots+(n-1)]=3+3\\times\\frac{n(n-1)}{2}=\\frac{3n^2-3n+6}{2}\\end{aligned}",
+    "note": "等差遞迴求一般項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{aligned}a_1&=3\\\\\\\\a_2&=a_1+3\\\\times1\\\\\\\\a_3&=a_2+3\\\\times2\\\\\\\\a_4&=a_3+3\\\\times3\\\\\\\\&\\\\vdots\\\\\\\\a_n&=a_{n-1}+3\\\\times(n-1)\\\\\\\\a_n&=3+3\\\\times[1+2+\\\\cdots+(n-1)]=3+3\\\\times\\\\frac{n(n-1)}{2}=\\\\frac{3n^2-3n+6}{2}\\\\end{aligned}\",\"note\":\"等差遞迴求一般項\"}\n",
+    "ts": "2026-04-27T10:32:22.595343+00:00",
+    "engine": "codex"
+  },
+  "image_2b161d015d85dd.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n \\rangle",
+    "note": "數列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n \\\\rangle\",\"note\":\"數列符號\"}\n",
+    "ts": "2026-04-27T10:32:23.259817+00:00",
+    "engine": "codex"
+  },
+  "image_2b5fba9d81c722.png": {
+    "classification": "formula",
+    "latex": "a_{1000}<0",
+    "note": "數列第1000項小於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}<0\",\"note\":\"數列第1000項小於0\"}\n",
+    "ts": "2026-04-27T10:32:25.609012+00:00",
+    "engine": "codex"
+  },
+  "image_2e6ea4b3e77ff6.png": {
+    "classification": "formula",
+    "latex": "a_{2025}",
+    "note": "變數a的下標2025",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2025}\",\"note\":\"變數a的下標2025\"}\n",
+    "ts": "2026-04-27T10:32:26.828638+00:00",
+    "engine": "codex"
+  },
+  "image_30adae63de9a99.png": {
+    "classification": "formula",
+    "latex": "e_1",
+    "note": "單一變數下標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e_1\",\"note\":\"單一變數下標\"}\n",
+    "ts": "2026-04-27T10:32:27.662783+00:00",
+    "engine": "codex"
+  },
+  "image_2f9b6a3179b64e.png": {
+    "classification": "formula",
+    "latex": "\\frac{(b_{n+1}-b_n)}{(b_n-b_{n-1})}=\\frac{b_1r^n-b_1r^{n-1}}{b_1r^{n-1}-b_1r^{n-2}}=r",
+    "note": "等比數列相鄰差比值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{(b_{n+1}-b_n)}{(b_n-b_{n-1})}=\\\\frac{b_1r^n-b_1r^{n-1}}{b_1r^{n-1}-b_1r^{n-2}}=r\",\"note\":\"等比數列相鄰差比值公式\"}\n",
+    "ts": "2026-04-27T10:32:28.726580+00:00",
+    "engine": "codex"
+  },
+  "image_311b33a327e438.png": {
+    "classification": "formula",
+    "latex": "a_{30}=a_1+29d=0",
+    "note": "等差數列通項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{30}=a_1+29d=0\",\"note\":\"等差數列通項公式\"}\n",
+    "ts": "2026-04-27T10:32:30.429237+00:00",
+    "engine": "codex"
+  },
+  "image_332ae274ca89b5.png": {
+    "classification": "formula",
+    "latex": "\\frac{2+4+8}{3}=\\frac{14}{3}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2+4+8}{3}=\\\\frac{14}{3}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-27T10:32:31.488666+00:00",
+    "engine": "codex"
+  },
+  "image_339c75e0cb4de6.png": {
+    "classification": "formula",
+    "latex": "\\frac{5^2+2}{2\\times 5-1}=\\frac{27}{9}=3",
+    "note": "分數化簡算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5^2+2}{2\\\\times 5-1}=\\\\frac{27}{9}=3\",\"note\":\"分數化簡算式\"}\n",
+    "ts": "2026-04-27T10:32:32.451423+00:00",
+    "engine": "codex"
+  },
+  "image_346255dd1207f4.png": {
+    "classification": "formula",
+    "latex": "b=ar",
+    "note": "純文字數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=ar\",\"note\":\"純文字數學公式\"}\n",
+    "ts": "2026-04-27T10:32:34.314869+00:00",
+    "engine": "codex"
+  },
+  "image_341f95bdfb44c5.png": {
+    "classification": "formula",
+    "latex": "a_1=a_4=a_7=\\cdots=a_{3k+1}=\\frac{6}{7}",
+    "note": "等差索引項皆為6/7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1=a_4=a_7=\\\\cdots=a_{3k+1}=\\\\frac{6}{7}\",\"note\":\"等差索引項皆為6/7\"}\n",
+    "ts": "2026-04-27T10:32:34.340235+00:00",
+    "engine": "codex"
+  },
+  "image_36bebc484012a0.png": {
+    "classification": "formula",
+    "latex": "a_6=\\frac{4}{5}",
+    "note": "數列第6項等於五分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_6=\\\\frac{4}{5}\",\"note\":\"數列第6項等於五分之四\"}\n",
+    "ts": "2026-04-27T10:32:36.890100+00:00",
+    "engine": "codex"
+  },
+  "image_355ce14bb13667.png": {
+    "classification": "formula",
+    "latex": "a_{2016}=-\\frac{3}{4}",
+    "note": "數列項等於負四分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2016}=-\\\\frac{3}{4}\",\"note\":\"數列項等於負四分之三\"}\n",
+    "ts": "2026-04-27T10:32:36.927789+00:00",
+    "engine": "codex"
+  },
+  "image_36faaaf25edb52.png": {
+    "classification": "formula",
+    "latex": "a_{10}=-31",
+    "note": "等差數列項值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{10}=-31\",\"note\":\"等差數列項值\"}\n",
+    "ts": "2026-04-27T10:32:38.889930+00:00",
+    "engine": "codex"
+  },
+  "image_37a343bd7a8026.png": {
+    "classification": "formula",
+    "latex": "a_8 < b_8",
+    "note": "不等式：a₈小於b₈",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_8 < b_8\",\"note\":\"不等式：a₈小於b₈\"}\n",
+    "ts": "2026-04-27T10:32:38.981697+00:00",
+    "engine": "codex"
+  },
+  "image_3891aebc2af560.png": {
+    "classification": "formula",
+    "latex": "a_3=a_1\\times r^2\\Rightarrow 3=a_1\\times 3\\Rightarrow a_1=1",
+    "note": "等比數列代入求首項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=a_1\\\\times r^2\\\\Rightarrow 3=a_1\\\\times 3\\\\Rightarrow a_1=1\",\"note\":\"等比數列代入求首項\"}\n",
+    "ts": "2026-04-27T10:32:42.189925+00:00",
+    "engine": "codex"
+  },
+  "image_3a6d937a6364c9.png": {
+    "classification": "formula",
+    "latex": "3a_1",
+    "note": "單項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3a_1\",\"note\":\"單項式\"}\n",
+    "ts": "2026-04-27T10:32:42.792953+00:00",
+    "engine": "codex"
+  },
+  "image_3871c0a17ab7b4.png": {
+    "classification": "formula",
+    "latex": "\\frac{a_{n+1}^{2}}{a_n^{2}}=\\left(\\frac{a_{n+1}}{a_n}\\right)^2=r_1^2",
+    "note": "等比數列相鄰項比值平方公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a_{n+1}^{2}}{a_n^{2}}=\\\\left(\\\\frac{a_{n+1}}{a_n}\\\\right)^2=r_1^2\",\"note\":\"等比數列相鄰項比值平方公式\"}\n",
+    "ts": "2026-04-27T10:32:43.533046+00:00",
+    "engine": "codex"
+  },
+  "image_3d99a9f7ccb834.png": {
+    "classification": "formula",
+    "latex": "a_4=\\frac{1}{1-a_3}=\\frac{1}{1-\\frac{3}{4}}=4=a_1",
+    "note": "等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4=\\\\frac{1}{1-a_3}=\\\\frac{1}{1-\\\\frac{3}{4}}=4=a_1\",\"note\":\"等式推導\"}\n",
+    "ts": "2026-04-27T10:32:44.576948+00:00",
+    "engine": "codex"
+  },
+  "image_3e52055e08b208.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-04-27T10:32:46.443066+00:00",
+    "engine": "codex"
+  },
+  "image_3fbe38a6204d27.png": {
+    "classification": "formula",
+    "latex": "=3^5+2^4=243+16=259=7\\times37",
+    "note": "連等式與質因數分解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=3^5+2^4=243+16=259=7\\\\times37\",\"note\":\"連等式與質因數分解\"}\n",
+    "ts": "2026-04-27T10:32:49.197687+00:00",
+    "engine": "codex"
+  },
+  "image_40566f4a1db8ef.png": {
+    "classification": "formula",
+    "latex": "y=\\frac{ar+ar^2}{2}=\\frac{ar^2+ar^3}{2r}",
+    "note": "等比數列相關代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\frac{ar+ar^2}{2}=\\\\frac{ar^2+ar^3}{2r}\",\"note\":\"等比數列相關代數式\"}\n",
+    "ts": "2026-04-27T10:32:50.109525+00:00",
+    "engine": "codex"
+  },
+  "image_41d52d83e36a36.png": {
+    "classification": "formula",
+    "latex": "a_{2018}",
+    "note": "變數 a 的下標 2018",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2018}\",\"note\":\"變數 a 的下標 2018\"}\n",
+    "ts": "2026-04-27T10:32:54.305240+00:00",
+    "engine": "codex"
+  },
+  "image_3deb1232135c60.jpeg": {
+    "classification": "formula",
+    "latex": "\\begin{array}{rcl}a_{n+1}-a_n&=&2n\\\\ \\Rightarrow\\quad a_2-a_1&=&2\\times1\\\\ a_3-a_2&=&2\\times2\\\\ \\vdots&\\vdots&\\\\ {}+)\\quad a_n-a_{n-1}&=&2\\times(n-1)\\\\ \\hline a_n-a_1&=&2[1+2+\\cdots+(n-1)]\\end{array}",
+    "note": "等差數列差分加總推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{array}{rcl}a_{n+1}-a_n&=&2n\\\\\\\\ \\\\Rightarrow\\\\quad a_2-a_1&=&2\\\\times1\\\\\\\\ a_3-a_2&=&2\\\\times2\\\\\\\\ \\\\vdots&\\\\vdots&\\\\\\\\ {}+)\\\\quad a_n-a_{n-1}&=&2\\\\times(n-1)\\\\\\\\ \\\\hline a_n-a_1&=&2[1+2+\\\\cdots+(n-1)]\\\\end{array}\",\"note\":\"等差數列差分加總推導\"}\n",
+    "ts": "2026-04-27T10:32:54.634059+00:00",
+    "engine": "codex"
+  },
+  "image_4219af3944e304.png": {
+    "classification": "formula",
+    "latex": "a_2=a_5=a_8=\\cdots=a_{3k+2}=\\cdots=-\\frac{1}{3}",
+    "note": "等差索引數列項皆為-1/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_2=a_5=a_8=\\\\cdots=a_{3k+2}=\\\\cdots=-\\\\frac{1}{3}\",\"note\":\"等差索引數列項皆為-1/3\"}\n",
+    "ts": "2026-04-27T10:32:55.360585+00:00",
+    "engine": "codex"
+  },
+  "image_4286017931b81d.png": {
+    "classification": "formula",
+    "latex": "e_3",
+    "note": "變數 e 的下標 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e_3\",\"note\":\"變數 e 的下標 3\"}\n",
+    "ts": "2026-04-27T10:32:56.090828+00:00",
+    "engine": "codex"
+  },
+  "image_431b92aef8a8a2.png": {
+    "classification": "formula",
+    "latex": "a_{10}=5+9\\times(-4)=-31",
+    "note": "等差數列第10項計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{10}=5+9\\\\times(-4)=-31\",\"note\":\"等差數列第10項計算式\"}\n",
+    "ts": "2026-04-27T10:32:59.337578+00:00",
+    "engine": "codex"
+  },
+  "image_4352d3b591ada6.png": {
+    "classification": "formula",
+    "latex": "d_n=a_n+a_{n+1}",
+    "note": "數列相鄰兩項和的定義式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_n=a_n+a_{n+1}\",\"note\":\"數列相鄰兩項和的定義式\"}\n",
+    "ts": "2026-04-27T10:32:59.660518+00:00",
+    "engine": "codex"
+  },
+  "image_4429a3cad0eba1.png": {
+    "classification": "formula",
+    "latex": "a_1b_1",
+    "note": "下標變數乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1b_1\",\"note\":\"下標變數乘積\"}\n",
+    "ts": "2026-04-27T10:32:59.991399+00:00",
+    "engine": "codex"
+  },
+  "image_43a64cc57608ce.png": {
+    "classification": "formula",
+    "latex": "b_n=\\frac{1}{2}a_n",
+    "note": "等比數列項關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_n=\\\\frac{1}{2}a_n\",\"note\":\"等比數列項關係式\"}\n",
+    "ts": "2026-04-27T10:33:00.711158+00:00",
+    "engine": "codex"
+  },
+  "image_445a56b575c7f6.png": {
+    "classification": "formula",
+    "latex": "\\frac{6}{7}",
+    "note": "分數六分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{6}{7}\",\"note\":\"分數六分之七\"}\n",
+    "ts": "2026-04-27T10:33:03.312337+00:00",
+    "engine": "codex"
+  },
+  "image_47a04dd7fd5193.png": {
+    "classification": "formula",
+    "latex": "b_9",
+    "note": "單一變數含下標9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_9\",\"note\":\"單一變數含下標9\"}\n",
+    "ts": "2026-04-27T10:33:04.141618+00:00",
+    "engine": "codex"
+  },
+  "image_4800b30bf18f25.png": {
+    "classification": "formula",
+    "latex": "\\frac{1\\pm\\sqrt{5}}{2}",
+    "note": "二次方程根式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1\\\\pm\\\\sqrt{5}}{2}\",\"note\":\"二次方程根式\"}\n",
+    "ts": "2026-04-27T10:33:05.562513+00:00",
+    "engine": "codex"
+  },
+  "image_466973708dc426.png": {
+    "classification": "formula",
+    "latex": "\\langle 2a_n \\rangle",
+    "note": "角括號中的數列項表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle 2a_n \\\\rangle\",\"note\":\"角括號中的數列項表達式\"}\n",
+    "ts": "2026-04-27T10:33:06.230829+00:00",
+    "engine": "codex"
+  },
+  "image_48386c437d1a21.png": {
+    "classification": "formula",
+    "latex": "a_{2018}=-\\frac{1}{4}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2018}=-\\\\frac{1}{4}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:33:07.493787+00:00",
+    "engine": "codex"
+  },
+  "image_4c4b5fd669aa20.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-27T10:33:09.951152+00:00",
+    "engine": "codex"
+  },
+  "image_4aed26db23df70.png": {
+    "classification": "formula",
+    "latex": "a_{100}>0",
+    "note": "數列第100項為正",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}>0\",\"note\":\"數列第100項為正\"}\n",
+    "ts": "2026-04-27T10:33:11.645137+00:00",
+    "engine": "codex"
+  },
+  "image_4a432ddc7a0746.png": {
+    "classification": "formula",
+    "latex": "a_4=2a_3=2\\times\\frac{3}{7}=\\frac{6}{7}=a_1",
+    "note": "等比數列項的計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4=2a_3=2\\\\times\\\\frac{3}{7}=\\\\frac{6}{7}=a_1\",\"note\":\"等比數列項的計算式\"}\n",
+    "ts": "2026-04-27T10:33:11.837441+00:00",
+    "engine": "codex"
+  },
+  "image_4cbb21ba80dc79.png": {
+    "classification": "formula",
+    "latex": "a_2=\\frac{1}{1-a_1}=\\frac{1}{1-4}=-\\frac{1}{3}",
+    "note": "遞迴數列代入計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_2=\\\\frac{1}{1-a_1}=\\\\frac{1}{1-4}=-\\\\frac{1}{3}\",\"note\":\"遞迴數列代入計算式\"}\n",
+    "ts": "2026-04-27T10:33:12.762831+00:00",
+    "engine": "codex"
+  },
+  "image_4d6105bad335d7.png": {
+    "classification": "formula",
+    "latex": "10(a_{100}-a_1)=10(1+99d-1)=990d",
+    "note": "等差數列項差運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10(a_{100}-a_1)=10(1+99d-1)=990d\",\"note\":\"等差數列項差運算式\"}\n",
+    "ts": "2026-04-27T10:33:16.494759+00:00",
+    "engine": "codex"
+  },
+  "image_4dac9316d63c06.png": {
+    "classification": "formula",
+    "latex": "a_1<a_2<a_3<\\cdots",
+    "note": "遞增數列的不等式表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1<a_2<a_3<\\\\cdots\",\"note\":\"遞增數列的不等式表示\"}\n",
+    "ts": "2026-04-27T10:33:16.664960+00:00",
+    "engine": "codex"
+  },
+  "image_4e3a79e59fa67e.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1=5,\\\\a_n=a_{n-1}-3\\quad(n\\ge2).\\end{cases}",
+    "note": "等差數列遞迴定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1=5,\\\\\\\\a_n=a_{n-1}-3\\\\quad(n\\\\ge2).\\\\end{cases}\",\"note\":\"等差數列遞迴定義\"}\n",
+    "ts": "2026-04-27T10:33:19.025499+00:00",
+    "engine": "codex"
+  },
+  "image_500ffd29e363f6.png": {
+    "classification": "formula",
+    "latex": "\\langle e_n \\rangle",
+    "note": "內積或生成符號表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle e_n \\\\rangle\",\"note\":\"內積或生成符號表示\"}\n",
+    "ts": "2026-04-27T10:33:21.868755+00:00",
+    "engine": "codex"
+  },
+  "image_501df61c424fa6.png": {
+    "classification": "formula",
+    "latex": "b_n=\\frac{1}{a_n}",
+    "note": "數列倒數關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_n=\\\\frac{1}{a_n}\",\"note\":\"數列倒數關係式\"}\n",
+    "ts": "2026-04-27T10:33:22.058507+00:00",
+    "engine": "codex"
+  },
+  "image_4d29a72e8edf3c.png": {
+    "classification": "formula",
+    "latex": "-a_1 > -a_2 > -a_3 > \\cdots",
+    "note": "不等式數列",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-a_1 > -a_2 > -a_3 > \\\\cdots\",\"note\":\"不等式數列\"}\n",
+    "ts": "2026-04-27T10:33:22.634084+00:00",
+    "engine": "codex"
+  },
+  "image_50f2651b3d8c1b.png": {
+    "classification": "formula",
+    "latex": "a_{2035}",
+    "note": "數列項符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2035}\",\"note\":\"數列項符號\"}\n",
+    "ts": "2026-04-27T10:33:23.844984+00:00",
+    "engine": "codex"
+  },
+  "image_518872a8c1ac78.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-27T10:33:26.960782+00:00",
+    "engine": "codex"
+  },
+  "image_526a23d246f03d.png": {
+    "classification": "formula",
+    "latex": "r^6=27\\Rightarrow r=\\sqrt[6]{27}=\\sqrt{3}",
+    "note": "解 r 的指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r^6=27\\\\Rightarrow r=\\\\sqrt[6]{27}=\\\\sqrt{3}\",\"note\":\"解 r 的指數方程式\"}\n",
+    "ts": "2026-04-27T10:33:27.442221+00:00",
+    "engine": "codex"
+  },
+  "image_51accf86eccefa.png": {
+    "classification": "formula",
+    "latex": "r=-\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r=-\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:33:28.750184+00:00",
+    "engine": "codex"
+  },
+  "image_54c2f06b9db6bd.png": {
+    "classification": "formula",
+    "latex": "b_{n+1}-b_n=a_{n+1}+2(n+1)+1-(a_n+2n+1)=(a_{n+1}-a_n)+2=d+2",
+    "note": "數列差的代數化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{n+1}-b_n=a_{n+1}+2(n+1)+1-(a_n+2n+1)=(a_{n+1}-a_n)+2=d+2\",\"note\":\"數列差的代數化簡\"}\n",
+    "ts": "2026-04-27T10:33:31.440962+00:00",
+    "engine": "codex"
+  },
+  "image_55ba479dea272e.png": {
+    "classification": "formula",
+    "latex": "a_3",
+    "note": "變數a的下標3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3\",\"note\":\"變數a的下標3\"}\n",
+    "ts": "2026-04-27T10:33:33.373318+00:00",
+    "engine": "codex"
+  },
+  "image_56488d21e35a14.png": {
+    "classification": "formula",
+    "latex": "a_3=\\frac{1}{1-\\left(-\\frac{1}{4}\\right)}=\\frac{4}{5}",
+    "note": "數列項的分式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=\\\\frac{1}{1-\\\\left(-\\\\frac{1}{4}\\\\right)}=\\\\frac{4}{5}\",\"note\":\"數列項的分式計算\"}\n",
+    "ts": "2026-04-27T10:33:35.856520+00:00",
+    "engine": "codex"
+  },
+  "image_55b2971d0e516b.png": {
+    "classification": "formula",
+    "latex": "a_2=a_5=a_8=\\cdots=a_{3k+2}=-\\frac{5}{7}",
+    "note": "等差索引數列項皆相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_2=a_5=a_8=\\\\cdots=a_{3k+2}=-\\\\frac{5}{7}\",\"note\":\"等差索引數列項皆相等\"}\n",
+    "ts": "2026-04-27T10:33:39.661769+00:00",
+    "engine": "codex"
+  },
+  "image_57ce6a1d5fc48c.png": {
+    "classification": "formula",
+    "latex": "-3",
+    "note": "負數整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3\",\"note\":\"負數整數\"}\n",
+    "ts": "2026-04-27T10:33:39.675710+00:00",
+    "engine": "codex"
+  },
+  "image_57be15369d51ed.png": {
+    "classification": "formula",
+    "latex": "a,b,c",
+    "note": "三個變數以逗號分隔",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a,b,c\",\"note\":\"三個變數以逗號分隔\"}\n",
+    "ts": "2026-04-27T10:33:40.056097+00:00",
+    "engine": "codex"
+  },
+  "image_566e6cc1568c87.png": {
+    "classification": "formula",
+    "latex": "\\frac{3-\\sqrt{5}}{2}",
+    "note": "分數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3-\\\\sqrt{5}}{2}\",\"note\":\"分數式\"}\n",
+    "ts": "2026-04-27T10:33:43.736503+00:00",
+    "engine": "codex"
+  },
+  "image_582556792bf49c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{5}=",
+    "note": "平方根五等於",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{5}=\",\"note\":\"平方根五等於\"}\n",
+    "ts": "2026-04-27T10:33:43.823481+00:00",
+    "engine": "codex"
+  },
+  "image_58da4d657aca95.png": {
+    "classification": "formula",
+    "latex": "f_2",
+    "note": "函數符號 f 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f_2\",\"note\":\"函數符號 f 下標 2\"}\n",
+    "ts": "2026-04-27T10:33:45.216872+00:00",
+    "engine": "codex"
+  },
+  "image_5881d20fa72709.png": {
+    "classification": "formula",
+    "latex": "\\frac{-2}{b_2}",
+    "note": "分式：負二除以b下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-2}{b_2}\",\"note\":\"分式：負二除以b下標2\"}\n",
+    "ts": "2026-04-27T10:33:45.993073+00:00",
+    "engine": "codex"
+  },
+  "image_59f5dddb50fbe5.png": {
+    "classification": "formula",
+    "latex": "\\left<\\dfrac{b_{n+1}}{b_n}\\right>=\\left<r\\right>",
+    "note": "數列比值的平均表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left<\\\\dfrac{b_{n+1}}{b_n}\\\\right>=\\\\left<r\\\\right>\",\"note\":\"數列比值的平均表示式\"}\n",
+    "ts": "2026-04-27T10:33:50.467736+00:00",
+    "engine": "codex"
+  },
+  "image_59f6d7bc386632.png": {
+    "classification": "formula",
+    "latex": "f_n",
+    "note": "函數符號 f 下標 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f_n\",\"note\":\"函數符號 f 下標 n\"}\n",
+    "ts": "2026-04-27T10:33:52.685707+00:00",
+    "engine": "codex"
+  },
+  "image_5bf2c51104e9b3.png": {
+    "classification": "formula",
+    "latex": "\\left\\langle 3^{a_n}\\right\\rangle",
+    "note": "angle brackets around exponential expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\langle 3^{a_n}\\\\right\\\\rangle\",\"note\":\"angle brackets around exponential expression\"}\n",
+    "ts": "2026-04-27T10:33:53.219130+00:00",
+    "engine": "codex"
+  },
+  "image_5c19c79a221e86.png": {
+    "classification": "formula",
+    "latex": "a_{1000}>0",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}>0\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-27T10:33:54.425148+00:00",
+    "engine": "codex"
+  },
+  "image_5f0ddff56b70bd.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{b_3}",
+    "note": "分式，分子4分母b下標3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{b_3}\",\"note\":\"分式，分子4分母b下標3\"}\n",
+    "ts": "2026-04-27T10:33:57.421260+00:00",
+    "engine": "codex"
+  },
+  "image_5d63ad002c33dc.png": {
+    "classification": "formula",
+    "latex": "e_{n+1}-e_n=(a_{n+1}+(n+1))-(a_n+n)=(a_{n+1}-a_n)+1=\\alpha+1",
+    "note": "數列差分等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e_{n+1}-e_n=(a_{n+1}+(n+1))-(a_n+n)=(a_{n+1}-a_n)+1=\\\\alpha+1\",\"note\":\"數列差分等式\"}\n",
+    "ts": "2026-04-27T10:33:59.577088+00:00",
+    "engine": "codex"
+  },
+  "image_612b63ae43f941.png": {
+    "classification": "formula",
+    "latex": "d_1+d_2",
+    "note": "兩個下標變數相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_1+d_2\",\"note\":\"兩個下標變數相加\"}\n",
+    "ts": "2026-04-27T10:34:01.698227+00:00",
+    "engine": "codex"
+  },
+  "image_602227db827ec2.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{y}",
+    "note": "根號y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{y}\",\"note\":\"根號y\"}\n",
+    "ts": "2026-04-27T10:34:03.413610+00:00",
+    "engine": "codex"
+  },
+  "image_5976905ea29b52.png": {
+    "classification": "formula",
+    "latex": "a_{20}=573",
+    "note": "純數學式：數列項值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{20}=573\",\"note\":\"純數學式：數列項值\"}\n",
+    "ts": "2026-04-27T10:34:03.631797+00:00",
+    "engine": "codex"
+  },
+  "image_644624fdc77743.png": {
+    "classification": "formula",
+    "latex": "d=-1",
+    "note": "單一等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=-1\",\"note\":\"單一等式\"}\n",
+    "ts": "2026-04-27T10:34:04.829677+00:00",
+    "engine": "codex"
+  },
+  "image_65ed8b7a9baccc.png": {
+    "classification": "formula",
+    "latex": "a_{100}=1+99d",
+    "note": "等差數列第100項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}=1+99d\",\"note\":\"等差數列第100項公式\"}\n",
+    "ts": "2026-04-27T10:34:07.641487+00:00",
+    "engine": "codex"
+  },
+  "image_67783de2834414.png": {
+    "classification": "formula",
+    "latex": "a_{30}=0",
+    "note": "下標30的a等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{30}=0\",\"note\":\"下標30的a等於0\"}\n",
+    "ts": "2026-04-27T10:34:08.357816+00:00",
+    "engine": "codex"
+  },
+  "image_659cd83c7c847c.png": {
+    "classification": "formula",
+    "latex": "\\frac{6}{4}=\\frac{9}{6}",
+    "note": "等比例分數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{6}{4}=\\\\frac{9}{6}\",\"note\":\"等比例分數式\"}\n",
+    "ts": "2026-04-27T10:34:08.959105+00:00",
+    "engine": "codex"
+  },
+  "image_64a86f03c4383e.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n \\rangle",
+    "note": "數列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n \\\\rangle\",\"note\":\"數列符號\"}\n",
+    "ts": "2026-04-27T10:34:08.981772+00:00",
+    "engine": "codex"
+  },
+  "image_6b23817d8d293d.png": {
+    "classification": "formula",
+    "latex": "a_1=29",
+    "note": "數列首項等於29",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1=29\",\"note\":\"數列首項等於29\"}\n",
+    "ts": "2026-04-27T10:34:13.203059+00:00",
+    "engine": "codex"
+  },
+  "image_69af95f91f6945.png": {
+    "classification": "formula",
+    "latex": "b_{10}<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{10}<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-27T10:34:13.599441+00:00",
+    "engine": "codex"
+  },
+  "image_6a2aadf1777c76.png": {
+    "classification": "formula",
+    "latex": "\\frac{2^{a_{n+1}}}{2^{a_n}}=2^{a_{n+1}-a_n}=2^d",
+    "note": "等比數列公比的指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2^{a_{n+1}}}{2^{a_n}}=2^{a_{n+1}-a_n}=2^d\",\"note\":\"等比數列公比的指數式\"}\n",
+    "ts": "2026-04-27T10:34:17.128551+00:00",
+    "engine": "codex"
+  },
+  "image_6b8b9b30d85a0d.png": {
+    "classification": "formula",
+    "latex": "a_3 \\times a_9 = a_4 \\times a_8 = a_5 \\times a_7 = a_6^2",
+    "note": "等比或對稱乘積關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3 \\\\times a_9 = a_4 \\\\times a_8 = a_5 \\\\times a_7 = a_6^2\",\"note\":\"等比或對稱乘積關係\"}\n",
+    "ts": "2026-04-27T10:34:17.221468+00:00",
+    "engine": "codex"
+  },
+  "image_6d4904227dd60f.png": {
+    "classification": "formula",
+    "latex": "a_{100}=1+99d>1-\\frac{99}{999}>0",
+    "note": "等差數列第100項不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}=1+99d>1-\\\\frac{99}{999}>0\",\"note\":\"等差數列第100項不等式\"}\n",
+    "ts": "2026-04-27T10:34:18.529522+00:00",
+    "engine": "codex"
+  },
+  "image_6c51e656b14b59.png": {
+    "classification": "formula",
+    "latex": "a_{100}=5+99\\times(-4)=-391",
+    "note": "等差數列第100項計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}=5+99\\\\times(-4)=-391\",\"note\":\"等差數列第100項計算式\"}\n",
+    "ts": "2026-04-27T10:34:19.728450+00:00",
+    "engine": "codex"
+  },
+  "image_6dbc1c3721a380.png": {
+    "classification": "formula",
+    "latex": "b,c",
+    "note": "variables b and c separated by comma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b,c\",\"note\":\"variables b and c separated by comma\"}\n",
+    "ts": "2026-04-27T10:34:21.538113+00:00",
+    "engine": "codex"
+  },
+  "image_6ec9bbf7cb4722.png": {
+    "classification": "formula",
+    "latex": "-0.8",
+    "note": "純數值小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-0.8\",\"note\":\"純數值小數\"}\n",
+    "ts": "2026-04-27T10:34:22.497449+00:00",
+    "engine": "codex"
+  },
+  "image_6d5d23384efa97.png": {
+    "classification": "formula",
+    "latex": "a_{1000}=1-9.99=-8.99<0",
+    "note": "純數學不等式計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}=1-9.99=-8.99<0\",\"note\":\"純數學不等式計算式\"}\n",
+    "ts": "2026-04-27T10:34:23.803850+00:00",
+    "engine": "codex"
+  },
+  "image_6f3975502ee997.png": {
+    "classification": "formula",
+    "latex": "a_{1000}-a_{10}=10(a_{100}-a_1)",
+    "note": "等差數列項次關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}-a_{10}=10(a_{100}-a_1)\",\"note\":\"等差數列項次關係式\"}\n",
+    "ts": "2026-04-27T10:34:24.814495+00:00",
+    "engine": "codex"
+  },
+  "image_6fda9e599aca39.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}",
+    "note": "平方根2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\",\"note\":\"平方根2\"}\n",
+    "ts": "2026-04-27T10:34:26.382447+00:00",
+    "engine": "codex"
+  },
+  "image_70b67f7ba0677e.png": {
+    "classification": "formula",
+    "latex": "n=1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n=1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:34:28.137764+00:00",
+    "engine": "codex"
+  },
+  "image_70958b52a175b3.png": {
+    "classification": "formula",
+    "latex": "\\overbrace{d+d+\\cdots+d}^{n\\text{個}}=15",
+    "note": "n個d相加等於15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overbrace{d+d+\\\\cdots+d}^{n\\\\text{個}}=15\",\"note\":\"n個d相加等於15\"}\n",
+    "ts": "2026-04-27T10:34:28.809116+00:00",
+    "engine": "codex"
+  },
+  "image_70a0f344af6b93.png": {
+    "classification": "formula",
+    "latex": "a_{20}=3+3\\times\\frac{20\\times19}{2}=3+570=573",
+    "note": "等差數列第20項計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{20}=3+3\\\\times\\\\frac{20\\\\times19}{2}=3+570=573\",\"note\":\"等差數列第20項計算式\"}\n",
+    "ts": "2026-04-27T10:34:30.055965+00:00",
+    "engine": "codex"
+  },
+  "image_7330448f65ea8e.png": {
+    "classification": "formula",
+    "latex": "a_1=5",
+    "note": "等差或數列首項表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1=5\",\"note\":\"等差或數列首項表示式\"}\n",
+    "ts": "2026-04-27T10:34:30.190996+00:00",
+    "engine": "codex"
+  },
+  "image_742577826dffe6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數一分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{5}\",\"note\":\"分數一分之五\"}\n",
+    "ts": "2026-04-27T10:34:31.965633+00:00",
+    "engine": "codex"
+  },
+  "image_7587f1aa1ff0d2.png": {
+    "classification": "formula",
+    "latex": "\\alpha",
+    "note": "希臘字母alpha",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\alpha\",\"note\":\"希臘字母alpha\"}\n",
+    "ts": "2026-04-27T10:34:32.371493+00:00",
+    "engine": "codex"
+  },
+  "image_761e8c243fa1d1.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{y}{90}\\right)^2=\\left(\\frac{x}{900}\\right)\\left(\\frac{z}{9}\\right)",
+    "note": "代數比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{y}{90}\\\\right)^2=\\\\left(\\\\frac{x}{900}\\\\right)\\\\left(\\\\frac{z}{9}\\\\right)\",\"note\":\"代數比例公式\"}\n",
+    "ts": "2026-04-27T10:34:35.250335+00:00",
+    "engine": "codex"
+  },
+  "image_7722795e6d7af8.png": {
+    "classification": "formula",
+    "latex": "\\frac{1+\\sqrt{5}}{2}",
+    "note": "黃金比例的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1+\\\\sqrt{5}}{2}\",\"note\":\"黃金比例的代數式\"}\n",
+    "ts": "2026-04-27T10:34:36.063637+00:00",
+    "engine": "codex"
+  },
+  "image_7658f40505d84e.png": {
+    "classification": "formula",
+    "latex": "a_{2025}=\\frac{4}{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2025}=\\\\frac{4}{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:34:36.240005+00:00",
+    "engine": "codex"
+  },
+  "image_779fa9adf37162.png": {
+    "classification": "formula",
+    "latex": "a_9>b_9",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9>b_9\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-27T10:34:37.320439+00:00",
+    "engine": "codex"
+  },
+  "image_79320f846c1194.png": {
+    "classification": "formula",
+    "latex": "a_4=8",
+    "note": "數列項表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4=8\",\"note\":\"數列項表示式\"}\n",
+    "ts": "2026-04-27T10:34:39.924797+00:00",
+    "engine": "codex"
+  },
+  "image_7b69f5b57ac5db.png": {
+    "classification": "formula",
+    "latex": "b_{10}>0",
+    "note": "不等式：b下標10大於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{10}>0\",\"note\":\"不等式：b下標10大於0\"}\n",
+    "ts": "2026-04-27T10:34:40.443690+00:00",
+    "engine": "codex"
+  },
+  "image_7c150a3663e9f6.png": {
+    "classification": "formula",
+    "latex": "r>0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r>0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-27T10:34:41.898177+00:00",
+    "engine": "codex"
+  },
+  "image_78b63550def3d5.png": {
+    "classification": "formula",
+    "latex": "a_2=2a_1-1=2\\times\\frac{6}{7}-1=\\frac{5}{7}",
+    "note": "等比或遞迴數列項的計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_2=2a_1-1=2\\\\times\\\\frac{6}{7}-1=\\\\frac{5}{7}\",\"note\":\"等比或遞迴數列項的計算式\"}\n",
+    "ts": "2026-04-27T10:34:42.119686+00:00",
+    "engine": "codex"
+  },
+  "image_7d0b5546846c96.png": {
+    "classification": "formula",
+    "latex": "3^8",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^8\",\"note\":\"指數式\"}\n",
+    "ts": "2026-04-27T10:34:43.754054+00:00",
+    "engine": "codex"
+  },
+  "image_7fca126bbd648d.png": {
+    "classification": "formula",
+    "latex": "a_{1000}=1+999d>0",
+    "note": "等差數列第1000項為正",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}=1+999d>0\",\"note\":\"等差數列第1000項為正\"}\n",
+    "ts": "2026-04-27T10:34:47.970893+00:00",
+    "engine": "codex"
+  },
+  "image_7cddd092cad541.png": {
+    "classification": "formula",
+    "latex": "r_1r_2",
+    "note": "兩個相乘的變數 r_1 與 r_2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_1r_2\",\"note\":\"兩個相乘的變數 r_1 與 r_2\"}\n",
+    "ts": "2026-04-27T10:34:49.053800+00:00",
+    "engine": "codex"
+  },
+  "image_7d1dba11c9b5f8.png": {
+    "classification": "formula",
+    "latex": "a_{100}=1+99d<0",
+    "note": "等差數列第100項不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}=1+99d<0\",\"note\":\"等差數列第100項不等式\"}\n",
+    "ts": "2026-04-27T10:34:50.338872+00:00",
+    "engine": "codex"
+  },
+  "image_7fc7871490a096.png": {
+    "classification": "formula",
+    "latex": "\\left\\langle \\frac{b_n}{a_n} \\right\\rangle",
+    "note": "角括號內的分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\langle \\\\frac{b_n}{a_n} \\\\right\\\\rangle\",\"note\":\"角括號內的分式\"}\n",
+    "ts": "2026-04-27T10:34:51.521311+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字2\"}\n",
+    "ts": "2026-04-27T10:34:51.538637+00:00",
+    "engine": "codex"
+  },
+  "image_8092080313221c.png": {
+    "classification": "formula",
+    "latex": "a_{2020}=5",
+    "note": "數列第2020項等於5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2020}=5\",\"note\":\"數列第2020項等於5\"}\n",
+    "ts": "2026-04-27T10:34:53.154581+00:00",
+    "engine": "codex"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-27T10:34:54.515045+00:00",
+    "engine": "codex"
+  },
+  "image_836e818475dd77.png": {
+    "classification": "formula",
+    "latex": "a_{1000}=1+999d",
+    "note": "等差數列第1000項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}=1+999d\",\"note\":\"等差數列第1000項公式\"}\n",
+    "ts": "2026-04-27T10:34:55.543770+00:00",
+    "engine": "codex"
+  },
+  "image_83aa7e34ae7f7e.png": {
+    "classification": "formula",
+    "latex": "n=2",
+    "note": "純公式：n等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n=2\",\"note\":\"純公式：n等於2\"}\n",
+    "ts": "2026-04-27T10:34:56.751912+00:00",
+    "engine": "codex"
+  },
+  "image_83b87f7ee614b0.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-04-27T10:34:57.469641+00:00",
+    "engine": "codex"
+  },
+  "image_83e1ec22e901e3.png": {
+    "classification": "formula",
+    "latex": "a_3=a_6=a_9=\\cdots=a_{3k}=-\\frac{3}{7}",
+    "note": "等差下標項皆為負三分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=a_6=a_9=\\\\cdots=a_{3k}=-\\\\frac{3}{7}\",\"note\":\"等差下標項皆為負三分之七\"}\n",
+    "ts": "2026-04-27T10:35:01.170161+00:00",
+    "engine": "codex"
+  },
+  "image_853052dda96688.png": {
+    "classification": "formula",
+    "latex": "a_9 \\times a_{10} < 0",
+    "note": "不等式表示兩項乘積小於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9 \\\\times a_{10} < 0\",\"note\":\"不等式表示兩項乘積小於零\"}\n",
+    "ts": "2026-04-27T10:35:01.211996+00:00",
+    "engine": "codex"
+  },
+  "image_8443b6a5eb32aa.png": {
+    "classification": "formula",
+    "latex": "a_{n+1}=\\begin{cases}2a_n, & 0\\le a_n<\\frac{1}{2}\\\\2a_n-1, & \\frac{1}{2}\\le a_n<1\\end{cases}",
+    "note": "分段遞迴公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n+1}=\\\\begin{cases}2a_n, & 0\\\\le a_n<\\\\frac{1}{2}\\\\\\\\2a_n-1, & \\\\frac{1}{2}\\\\le a_n<1\\\\end{cases}\",\"note\":\"分段遞迴公式\"}\n",
+    "ts": "2026-04-27T10:35:01.435256+00:00",
+    "engine": "codex"
+  },
+  "image_8594633d70902f.png": {
+    "classification": "formula",
+    "latex": "r_2",
+    "note": "變數 r 的下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_2\",\"note\":\"變數 r 的下標 2\"}\n",
+    "ts": "2026-04-27T10:35:01.785072+00:00",
+    "engine": "codex"
+  },
+  "image_85e65a8c8bb89e.png": {
+    "classification": "formula",
+    "latex": "a_{20}=10",
+    "note": "數列第20項等於10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{20}=10\",\"note\":\"數列第20項等於10\"}\n",
+    "ts": "2026-04-27T10:35:05.366690+00:00",
+    "engine": "codex"
+  },
+  "image_8836c9495341c5.png": {
+    "classification": "formula",
+    "latex": "a_{100}<0",
+    "note": "不等式，a 下標 100 小於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}<0\",\"note\":\"不等式，a 下標 100 小於 0\"}\n",
+    "ts": "2026-04-27T10:35:05.692427+00:00",
+    "engine": "codex"
+  },
+  "image_88d3c5ae035f61.png": {
+    "classification": "formula",
+    "latex": "b_{n+1}-b_n=\\frac{1}{2}a_{n+1}-\\frac{1}{2}a_n=\\frac{1}{2}(a_{n+1}-a_n)=\\frac{1}{2}d",
+    "note": "等差數列差值推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{n+1}-b_n=\\\\frac{1}{2}a_{n+1}-\\\\frac{1}{2}a_n=\\\\frac{1}{2}(a_{n+1}-a_n)=\\\\frac{1}{2}d\",\"note\":\"等差數列差值推導\"}\n",
+    "ts": "2026-04-27T10:35:07.887483+00:00",
+    "engine": "codex"
+  },
+  "image_86f76819d54b8b.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n^2 \\rangle",
+    "note": "角括號內的數列項平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n^2 \\\\rangle\",\"note\":\"角括號內的數列項平方\"}\n",
+    "ts": "2026-04-27T10:35:08.561363+00:00",
+    "engine": "codex"
+  },
+  "image_8a77acfd889481.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{7}",
+    "note": "分數 4/7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{7}\",\"note\":\"分數 4/7\"}\n",
+    "ts": "2026-04-27T10:35:09.032398+00:00",
+    "engine": "codex"
+  },
+  "image_8aa9fd5ebf849b.png": {
+    "classification": "formula",
+    "latex": "0.00\\overline{x}=\\frac{x}{900}",
+    "note": "循環小數與分數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.00\\\\overline{x}=\\\\frac{x}{900}\",\"note\":\"循環小數與分數表示\"}\n",
+    "ts": "2026-04-27T10:35:10.674025+00:00",
+    "engine": "codex"
+  },
+  "image_8d53eb91c62a4c.png": {
+    "classification": "formula",
+    "latex": "a_1=1",
+    "note": "數列首項等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1=1\",\"note\":\"數列首項等於1\"}\n",
+    "ts": "2026-04-27T10:35:12.215599+00:00",
+    "engine": "codex"
+  },
+  "image_91eefa9be6b861.png": {
+    "classification": "formula",
+    "latex": "a_{10}=20",
+    "note": "數列第10項等於20",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{10}=20\",\"note\":\"數列第10項等於20\"}\n",
+    "ts": "2026-04-27T10:35:12.756729+00:00",
+    "engine": "codex"
+  },
+  "image_8c468b3660acbb.png": {
+    "classification": "formula",
+    "latex": "a_{1000}=1+999d<1-\\frac{999}{99}<0",
+    "note": "不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}=1+999d<1-\\\\frac{999}{99}<0\",\"note\":\"不等式推導\"}\n",
+    "ts": "2026-04-27T10:35:12.847657+00:00",
+    "engine": "codex"
+  },
+  "image_926f22f2ebac6d.png": {
+    "classification": "formula",
+    "latex": "a_9=a_3\\times r^6\\Rightarrow 81=3\\times r^6",
+    "note": "等比數列公式代入",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9=a_3\\\\times r^6\\\\Rightarrow 81=3\\\\times r^6\",\"note\":\"等比數列公式代入\"}\n",
+    "ts": "2026-04-27T10:35:15.435897+00:00",
+    "engine": "codex"
+  },
+  "image_9364fbca607258.png": {
+    "classification": "formula",
+    "latex": "a_n=\\frac{n^2-n+3}{2}",
+    "note": "數列通項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n=\\\\frac{n^2-n+3}{2}\",\"note\":\"數列通項公式\"}\n",
+    "ts": "2026-04-27T10:35:16.477935+00:00",
+    "engine": "codex"
+  },
+  "image_94c616868f04c4.png": {
+    "classification": "formula",
+    "latex": "0.00\\overline{x}",
+    "note": "純數學式，小數後接循環節x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.00\\\\overline{x}\",\"note\":\"純數學式，小數後接循環節x\"}\n",
+    "ts": "2026-04-27T10:35:17.773079+00:00",
+    "engine": "codex"
+  },
+  "image_94fc4eff00e3aa.png": {
+    "classification": "formula",
+    "latex": "r_1",
+    "note": "r with subscript 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_1\",\"note\":\"r with subscript 1\"}\n",
+    "ts": "2026-04-27T10:35:17.931179+00:00",
+    "engine": "codex"
+  },
+  "image_95ad4334a21d0e.png": {
+    "classification": "formula",
+    "latex": "a_6=27",
+    "note": "數列第6項等於27",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_6=27\",\"note\":\"數列第6項等於27\"}\n",
+    "ts": "2026-04-27T10:35:19.505274+00:00",
+    "engine": "codex"
+  },
+  "image_96a7e6533b7caf.png": {
+    "classification": "formula",
+    "latex": "b_n=a_n+5",
+    "note": "等差數列關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_n=a_n+5\",\"note\":\"等差數列關係式\"}\n",
+    "ts": "2026-04-27T10:35:21.188348+00:00",
+    "engine": "codex"
+  },
+  "image_95d08033a4a3e2.png": {
+    "classification": "formula",
+    "latex": "a_{100}=1-0.99=0.01>0",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}=1-0.99=0.01>0\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T10:35:22.362873+00:00",
+    "engine": "codex"
+  },
+  "image_96e6ef0579da84.png": {
+    "classification": "formula",
+    "latex": "a_{n+1}=a_n+3n",
+    "note": "等差型遞迴公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n+1}=a_n+3n\",\"note\":\"等差型遞迴公式\"}\n",
+    "ts": "2026-04-27T10:35:23.589604+00:00",
+    "engine": "codex"
+  },
+  "image_9660ba06cb65c4.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n\\rangle:1,2,3,4",
+    "note": "數列符號與前四項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n\\\\rangle:1,2,3,4\",\"note\":\"數列符號與前四項\"}\n",
+    "ts": "2026-04-27T10:35:24.974993+00:00",
+    "engine": "codex"
+  },
+  "image_9828340bac0dbe.png": {
+    "classification": "formula",
+    "latex": "a_1=\\frac{6}{7}",
+    "note": "等差數列首項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1=\\\\frac{6}{7}\",\"note\":\"等差數列首項\"}\n",
+    "ts": "2026-04-27T10:35:27.761721+00:00",
+    "engine": "codex"
+  },
+  "image_9807df54199455.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{x}+\\frac{c}{y}",
+    "note": "分式相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{x}+\\\\frac{c}{y}\",\"note\":\"分式相加\"}\n",
+    "ts": "2026-04-27T10:35:28.269830+00:00",
+    "engine": "codex"
+  },
+  "image_9761e243de7df5.png": {
+    "classification": "formula",
+    "latex": "\\left\\langle \\frac{n^2+2}{2n-1}\\right\\rangle",
+    "note": "括號內的分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\langle \\\\frac{n^2+2}{2n-1}\\\\right\\\\rangle\",\"note\":\"括號內的分式代數式\"}\n",
+    "ts": "2026-04-27T10:35:29.073447+00:00",
+    "engine": "codex"
+  },
+  "image_9831cbca18aa17.png": {
+    "classification": "formula",
+    "latex": "0.0\\overline{y}=\\frac{y}{90}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.0\\\\overline{y}=\\\\frac{y}{90}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:35:31.152090+00:00",
+    "engine": "codex"
+  },
+  "image_9a11691114c829.png": {
+    "classification": "formula",
+    "latex": "b_{10}<b_9",
+    "note": "不等式：b10小於b9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{10}<b_9\",\"note\":\"不等式：b10小於b9\"}\n",
+    "ts": "2026-04-27T10:35:32.407917+00:00",
+    "engine": "codex"
+  },
+  "image_9a9cc18a34db84.png": {
+    "classification": "formula",
+    "latex": "a_1=3",
+    "note": "數列首項等於3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1=3\",\"note\":\"數列首項等於3\"}\n",
+    "ts": "2026-04-27T10:35:32.889323+00:00",
+    "engine": "codex"
+  },
+  "image_9af11bf6acf5ee.png": {
+    "classification": "formula",
+    "latex": "b_n=-a_n",
+    "note": "等式：b_n為a_n的相反數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_n=-a_n\",\"note\":\"等式：b_n為a_n的相反數\"}\n",
+    "ts": "2026-04-27T10:35:35.500499+00:00",
+    "engine": "codex"
+  },
+  "image_9c0629d265e973.png": {
+    "classification": "formula",
+    "latex": "a,b,c",
+    "note": "variables a, b, c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a,b,c\",\"note\":\"variables a, b, c\"}\n",
+    "ts": "2026-04-27T10:35:36.736724+00:00",
+    "engine": "codex"
+  },
+  "image_9cbd149c29b6d6.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{5}",
+    "note": "平方根5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{5}\",\"note\":\"平方根5\"}\n",
+    "ts": "2026-04-27T10:35:39.491019+00:00",
+    "engine": "codex"
+  },
+  "image_9b5bc8ebd1b839.png": {
+    "classification": "formula",
+    "latex": "a_4=\\frac{1}{1-\\frac{4}{5}}=5",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4=\\\\frac{1}{1-\\\\frac{4}{5}}=5\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:35:39.997043+00:00",
+    "engine": "codex"
+  },
+  "image_98adedb32f266a.png": {
+    "classification": "formula",
+    "latex": "\\frac{c}{y}=\\frac{ar^2}{y}=\\frac{2r}{1+r}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{c}{y}=\\\\frac{ar^2}{y}=\\\\frac{2r}{1+r}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:35:40.653841+00:00",
+    "engine": "codex"
+  },
+  "image_9ddb854a43bf61.png": {
+    "classification": "formula",
+    "latex": "2d_1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2d_1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T10:35:41.606118+00:00",
+    "engine": "codex"
+  },
+  "image_9e1c33f62d9744.png": {
+    "classification": "formula",
+    "latex": "\\langle 3a_n \\rangle",
+    "note": "數列表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle 3a_n \\\\rangle\",\"note\":\"數列表示式\"}\n",
+    "ts": "2026-04-27T10:35:44.263296+00:00",
+    "engine": "codex"
+  },
+  "image_a0a6c09b78ad7e.png": {
+    "classification": "formula",
+    "latex": "4\\sqrt{2}",
+    "note": "純數學式：4根號2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\\\\sqrt{2}\",\"note\":\"純數學式：4根號2\"}\n",
+    "ts": "2026-04-27T10:35:44.730963+00:00",
+    "engine": "codex"
+  },
+  "image_a0b3cef4e7998c.png": {
+    "classification": "formula",
+    "latex": "3^4",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^4\",\"note\":\"指數式\"}\n",
+    "ts": "2026-04-27T10:35:45.065598+00:00",
+    "engine": "codex"
+  },
+  "image_a252fd78955b92.png": {
+    "classification": "formula",
+    "latex": "c_1>c_2>c_3",
+    "note": "不等式鏈",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c_1>c_2>c_3\",\"note\":\"不等式鏈\"}\n",
+    "ts": "2026-04-27T10:35:48.631280+00:00",
+    "engine": "codex"
+  },
+  "image_a198f831541f43.png": {
+    "classification": "formula",
+    "latex": "\\mathrm{(ii)}-\\mathrm{(i)}",
+    "note": "兩個編號式相減",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mathrm{(ii)}-\\\\mathrm{(i)}\",\"note\":\"兩個編號式相減\"}\n",
+    "ts": "2026-04-27T10:35:48.678921+00:00",
+    "engine": "codex"
+  },
+  "image_a30b26a44756ed.png": {
+    "classification": "formula",
+    "latex": "a_{100}=-311",
+    "note": "數列第100項等於-311",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{100}=-311\",\"note\":\"數列第100項等於-311\"}\n",
+    "ts": "2026-04-27T10:35:49.272054+00:00",
+    "engine": "codex"
+  },
+  "image_a3d206e6e85b7e.png": {
+    "classification": "formula",
+    "latex": "<2^{a_n}>",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"<2^{a_n}>\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T10:35:55.270955+00:00",
+    "engine": "codex"
+  },
+  "image_a246a89b92aa4a.png": {
+    "classification": "formula",
+    "latex": "\\langle c_n \\rangle: 9,4,1",
+    "note": "數列符號與三項數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle c_n \\\\rangle: 9,4,1\",\"note\":\"數列符號與三項數值\"}\n",
+    "ts": "2026-04-27T10:35:55.469668+00:00",
+    "engine": "codex"
+  },
+  "image_a3c6a46839f32b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "單一數字8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"單一數字8\"}\n",
+    "ts": "2026-04-27T10:35:56.790397+00:00",
+    "engine": "codex"
+  },
+  "image_a37bf04b9f8fb8.png": {
+    "classification": "formula",
+    "latex": "a_n=a_{n-1}-4",
+    "note": "等差數列遞迴式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n=a_{n-1}-4\",\"note\":\"等差數列遞迴式\"}\n",
+    "ts": "2026-04-27T10:35:57.942464+00:00",
+    "engine": "codex"
+  },
+  "image_a51c57f584045b.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n\\rangle:-3,-2,-1",
+    "note": "數列符號與前三項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n\\\\rangle:-3,-2,-1\",\"note\":\"數列符號與前三項\"}\n",
+    "ts": "2026-04-27T10:36:00.401506+00:00",
+    "engine": "codex"
+  },
+  "image_a41037e9f3cdbe.png": {
+    "classification": "formula",
+    "latex": "0.\\overline{z}=\\frac{z}{9}",
+    "note": "循環小數轉分數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.\\\\overline{z}=\\\\frac{z}{9}\",\"note\":\"循環小數轉分數公式\"}\n",
+    "ts": "2026-04-27T10:36:01.031475+00:00",
+    "engine": "codex"
+  },
+  "image_a53b752f6a8b07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{b_1}",
+    "note": "分式：1 除以 b_1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{b_1}\",\"note\":\"分式：1 除以 b_1\"}\n",
+    "ts": "2026-04-27T10:36:04.402076+00:00",
+    "engine": "codex"
+  },
+  "image_a5de1f2e4a3d2f.png": {
+    "classification": "formula",
+    "latex": "a_1^3 \\times r^{12} = \\sqrt{50}",
+    "note": "等比數列項與根號的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1^3 \\\\times r^{12} = \\\\sqrt{50}\",\"note\":\"等比數列項與根號的公式\"}\n",
+    "ts": "2026-04-27T10:36:06.131720+00:00",
+    "engine": "codex"
+  },
+  "image_a63c36214c64e8.png": {
+    "classification": "formula",
+    "latex": "a_3=2a_2-1=2\\times\\frac{5}{7}-1=\\frac{3}{7}",
+    "note": "等比遞迴數列計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=2a_2-1=2\\\\times\\\\frac{5}{7}-1=\\\\frac{3}{7}\",\"note\":\"等比遞迴數列計算式\"}\n",
+    "ts": "2026-04-27T10:36:07.168118+00:00",
+    "engine": "codex"
+  },
+  "image_a70b66dcdf6012.png": {
+    "classification": "formula",
+    "latex": "a_4a_5a_6=(a_1r^3)\\times(a_1r^4)\\times(a_1\\times r^5)=a_1^3\\times r^{12}=\\sqrt{50}=5\\sqrt{2}",
+    "note": "等比數列項乘積化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4a_5a_6=(a_1r^3)\\\\times(a_1r^4)\\\\times(a_1\\\\times r^5)=a_1^3\\\\times r^{12}=\\\\sqrt{50}=5\\\\sqrt{2}\",\"note\":\"等比數列項乘積化簡\"}\n",
+    "ts": "2026-04-27T10:36:07.678388+00:00",
+    "engine": "codex"
+  },
+  "image_a7b463b6a43e9c.png": {
+    "classification": "formula",
+    "latex": "a_{n+1}-a_n=d",
+    "note": "等差數列相鄰項差為公差",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n+1}-a_n=d\",\"note\":\"等差數列相鄰項差為公差\"}\n",
+    "ts": "2026-04-27T10:36:11.009017+00:00",
+    "engine": "codex"
+  },
+  "image_a742e91c888ba1.png": {
+    "classification": "formula",
+    "latex": "\\left\\langle a_n+b_n \\right\\rangle",
+    "note": "angle brackets around a_n+b_n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\langle a_n+b_n \\\\right\\\\rangle\",\"note\":\"angle brackets around a_n+b_n\"}\n",
+    "ts": "2026-04-27T10:36:11.095856+00:00",
+    "engine": "codex"
+  },
+  "image_a9a5a84167db67.png": {
+    "classification": "formula",
+    "latex": "\\langle f_n\\rangle:1,\\frac{3}{2},2,\\frac{5}{2}",
+    "note": "數列表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle f_n\\\\rangle:1,\\\\frac{3}{2},2,\\\\frac{5}{2}\",\"note\":\"數列表示式\"}\n",
+    "ts": "2026-04-27T10:36:12.688661+00:00",
+    "engine": "codex"
+  },
+  "image_a7cfba77193ff5.png": {
+    "classification": "formula",
+    "latex": "a_4=2\\times2^3=16",
+    "note": "等比數列第4項計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4=2\\\\times2^3=16\",\"note\":\"等比數列第4項計算式\"}\n",
+    "ts": "2026-04-27T10:36:12.960640+00:00",
+    "engine": "codex"
+  },
+  "image_aa4a513db4a8f2.png": {
+    "classification": "formula",
+    "latex": "a_3=3",
+    "note": "等差數列項值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=3\",\"note\":\"等差數列項值公式\"}\n",
+    "ts": "2026-04-27T10:36:16.191784+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-27T10:36:16.528597+00:00",
+    "engine": "codex"
+  },
+  "image_aa1f5d7b11f8bd.png": {
+    "classification": "formula",
+    "latex": "a_{15}=15",
+    "note": "等差數列項值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{15}=15\",\"note\":\"等差數列項值\"}\n",
+    "ts": "2026-04-27T10:36:17.584991+00:00",
+    "engine": "codex"
+  },
+  "image_ab4e4dbe984d37.png": {
+    "classification": "formula",
+    "latex": "b_n=a_n+2n+1",
+    "note": "數列遞迴/關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_n=a_n+2n+1\",\"note\":\"數列遞迴/關係式\"}\n",
+    "ts": "2026-04-27T10:36:17.655573+00:00",
+    "engine": "codex"
+  },
+  "image_ac6dee2e87bd43.png": {
+    "classification": "formula",
+    "latex": "a_{2020}",
+    "note": "數列項符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2020}\",\"note\":\"數列項符號\"}\n",
+    "ts": "2026-04-27T10:36:21.176713+00:00",
+    "engine": "codex"
+  },
+  "image_ac834a265de79a.png": {
+    "classification": "formula",
+    "latex": "a_{1000}-a_{10}=(1+999d)-(1+9d)=990d",
+    "note": "等差數列項差化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{1000}-a_{10}=(1+999d)-(1+9d)=990d\",\"note\":\"等差數列項差化簡\"}\n",
+    "ts": "2026-04-27T10:36:21.311778+00:00",
+    "engine": "codex"
+  },
+  "image_ad2d8cd84dc002.png": {
+    "classification": "formula",
+    "latex": "0.\\overline{z}",
+    "note": "循環小數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.\\\\overline{z}\",\"note\":\"循環小數表示\"}\n",
+    "ts": "2026-04-27T10:36:22.037018+00:00",
+    "engine": "codex"
+  },
+  "image_ae18d606b37ffd.png": {
+    "classification": "formula",
+    "latex": "c=ar^2\\cdots\\cdots(i)",
+    "note": "等式編號(i)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=ar^2\\\\cdots\\\\cdots(i)\",\"note\":\"等式編號(i)\"}\n",
+    "ts": "2026-04-27T10:36:22.640498+00:00",
+    "engine": "codex"
+  },
+  "image_ae4919454741c8.png": {
+    "classification": "formula",
+    "latex": "a_9",
+    "note": "變數 a 下標 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9\",\"note\":\"變數 a 下標 9\"}\n",
+    "ts": "2026-04-27T10:36:25.415573+00:00",
+    "engine": "codex"
+  },
+  "image_aea5b42679dea5.png": {
+    "classification": "formula",
+    "latex": "a,b",
+    "note": "兩個變數以逗號分隔",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a,b\",\"note\":\"兩個變數以逗號分隔\"}\n",
+    "ts": "2026-04-27T10:36:26.016875+00:00",
+    "engine": "codex"
+  },
+  "image_b06d071df46218.png": {
+    "classification": "formula",
+    "latex": "b_9>b_{10}",
+    "note": "不等式：b9大於b10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_9>b_{10}\",\"note\":\"不等式：b9大於b10\"}\n",
+    "ts": "2026-04-27T10:36:26.497847+00:00",
+    "engine": "codex"
+  },
+  "image_ae7b541d975cd8.png": {
+    "classification": "formula",
+    "latex": "\\langle 2\\times a_n\\rangle",
+    "note": "純數學式：角括號內為2乘以a_n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle 2\\\\times a_n\\\\rangle\",\"note\":\"純數學式：角括號內為2乘以a_n\"}\n",
+    "ts": "2026-04-27T10:36:27.277131+00:00",
+    "engine": "codex"
+  },
+  "image_b2d7b9fafb309d.png": {
+    "classification": "formula",
+    "latex": "a_2",
+    "note": "下標變數 a_2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_2\",\"note\":\"下標變數 a_2\"}\n",
+    "ts": "2026-04-27T10:36:30.389895+00:00",
+    "engine": "codex"
+  },
+  "image_b1ca0bd4c9f262.png": {
+    "classification": "formula",
+    "latex": "a_n-a_{n-1}=-4",
+    "note": "等差數列相鄰兩項差為-4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n-a_{n-1}=-4\",\"note\":\"等差數列相鄰兩項差為-4\"}\n",
+    "ts": "2026-04-27T10:36:30.454317+00:00",
+    "engine": "codex"
+  },
+  "image_b183b11be25151.png": {
+    "classification": "formula",
+    "latex": "c_n = a_n^{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c_n = a_n^{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:36:31.263784+00:00",
+    "engine": "codex"
+  },
+  "image_b3c19a258eadc3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-27T10:36:31.873276+00:00",
+    "engine": "codex"
+  },
+  "image_b4471769b64a74.png": {
+    "classification": "formula",
+    "latex": "d_2",
+    "note": "變數 d 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_2\",\"note\":\"變數 d 下標 2\"}\n",
+    "ts": "2026-04-27T10:36:34.408160+00:00",
+    "engine": "codex"
+  },
+  "image_b5ae8c76b192f3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1+\\sqrt{5}}{2}",
+    "note": "黃金比例常見數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1+\\\\sqrt{5}}{2}\",\"note\":\"黃金比例常見數值\"}\n",
+    "ts": "2026-04-27T10:36:35.570008+00:00",
+    "engine": "codex"
+  },
+  "image_b5a1bff1285822.png": {
+    "classification": "formula",
+    "latex": "a_4 \\times a_8 = 243",
+    "note": "等比數列項乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4 \\\\times a_8 = 243\",\"note\":\"等比數列項乘積公式\"}\n",
+    "ts": "2026-04-27T10:36:36.254978+00:00",
+    "engine": "codex"
+  },
+  "image_b5c4a33d110a73.png": {
+    "classification": "formula",
+    "latex": "\\frac{1-\\sqrt{5}}{8}",
+    "note": "純數學分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1-\\\\sqrt{5}}{8}\",\"note\":\"純數學分式\"}\n",
+    "ts": "2026-04-27T10:36:36.697011+00:00",
+    "engine": "codex"
+  },
+  "image_b5d482a83cbd42.png": {
+    "classification": "formula",
+    "latex": "a_{2019}=\\frac{4}{5}",
+    "note": "等式：a下標2019等於4/5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2019}=\\\\frac{4}{5}\",\"note\":\"等式：a下標2019等於4/5\"}\n",
+    "ts": "2026-04-27T10:36:39.286052+00:00",
+    "engine": "codex"
+  },
+  "image_b626eb1590aabb.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n \\rangle",
+    "note": "數列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n \\\\rangle\",\"note\":\"數列符號\"}\n",
+    "ts": "2026-04-27T10:36:40.143766+00:00",
+    "engine": "codex"
+  },
+  "image_b6e97f936883fd.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n+2\\rangle",
+    "note": "數列記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n+2\\\\rangle\",\"note\":\"數列記號\"}\n",
+    "ts": "2026-04-27T10:36:43.106345+00:00",
+    "engine": "codex"
+  },
+  "image_b6ff607c2f787f.png": {
+    "classification": "formula",
+    "latex": "a_{15}=a_1+14d=15",
+    "note": "等差數列第15項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{15}=a_1+14d=15\",\"note\":\"等差數列第15項公式\"}\n",
+    "ts": "2026-04-27T10:36:43.708324+00:00",
+    "engine": "codex"
+  },
+  "image_ba21d3a619d674.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{1-a_n}",
+    "note": "分式：1除以1減a_n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{1-a_n}\",\"note\":\"分式：1除以1減a_n\"}\n",
+    "ts": "2026-04-27T10:36:46.968217+00:00",
+    "engine": "codex"
+  },
+  "image_b8212ef55b0754.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1=2,\\\\a_n=2a_{n-1}\\quad(n\\ge2),\\end{cases}",
+    "note": "等比數列遞迴定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1=2,\\\\\\\\a_n=2a_{n-1}\\\\quad(n\\\\ge2),\\\\end{cases}\",\"note\":\"等比數列遞迴定義\"}\n",
+    "ts": "2026-04-27T10:36:48.173187+00:00",
+    "engine": "codex"
+  },
+  "image_bb434834eaeeb1.png": {
+    "classification": "formula",
+    "latex": "a_{2035}=5",
+    "note": "數列項等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2035}=5\",\"note\":\"數列項等式\"}\n",
+    "ts": "2026-04-27T10:36:48.654102+00:00",
+    "engine": "codex"
+  },
+  "image_bbc577a2d90410.png": {
+    "classification": "formula",
+    "latex": "b+c=2y\\cdots\\cdots\\text{(iii)}",
+    "note": "等式編號(iii)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b+c=2y\\\\cdots\\\\cdots\\\\text{(iii)}\",\"note\":\"等式編號(iii)\"}\n",
+    "ts": "2026-04-27T10:36:52.643850+00:00",
+    "engine": "codex"
+  },
+  "image_b6577a08be7a59.png": {
+    "classification": "formula",
+    "latex": "P=7",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=7\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T10:36:52.728104+00:00",
+    "engine": "codex"
+  },
+  "image_bc22cd4f355edc.png": {
+    "classification": "formula",
+    "latex": "a_{10} > b_{10}",
+    "note": "不等式，a與b皆帶下標10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{10} > b_{10}\",\"note\":\"不等式，a與b皆帶下標10\"}\n",
+    "ts": "2026-04-27T10:36:52.736917+00:00",
+    "engine": "codex"
+  },
+  "image_bea5a3db1c198d.png": {
+    "classification": "formula",
+    "latex": "|a_n|",
+    "note": "絕對值符號中的數列項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|a_n|\",\"note\":\"絕對值符號中的數列項\"}\n",
+    "ts": "2026-04-27T10:36:54.519750+00:00",
+    "engine": "codex"
+  },
+  "image_c196123fd9e10b.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{7}",
+    "note": "分數三分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{7}\",\"note\":\"分數三分之七\"}\n",
+    "ts": "2026-04-27T10:36:56.922775+00:00",
+    "engine": "codex"
+  },
+  "image_c17cf8205686c9.png": {
+    "classification": "formula",
+    "latex": "a_9<a_{10}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_9<a_{10}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-27T10:36:57.613904+00:00",
+    "engine": "codex"
+  },
+  "image_becff19d30b9d3.png": {
+    "classification": "formula",
+    "latex": "a_{10}",
+    "note": "變數 a 下標 10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{10}\",\"note\":\"變數 a 下標 10\"}\n",
+    "ts": "2026-04-27T10:36:59.211751+00:00",
+    "engine": "codex"
+  },
+  "image_c362a216204586.png": {
+    "classification": "formula",
+    "latex": "d<-\\frac{1}{99}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d<-\\frac{1}{99}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-27T10:36:59.361725+00:00",
+    "engine": "codex"
+  },
+  "image_c8702e44eceb25.png": {
+    "classification": "formula",
+    "latex": "b_1>b_2>b_3>\\cdots",
+    "note": "遞減數列的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_1>b_2>b_3>\\\\cdots\",\"note\":\"遞減數列的不等式\"}\n",
+    "ts": "2026-04-27T10:37:02.890363+00:00",
+    "engine": "codex"
+  },
+  "image_c9a7918895480f.png": {
+    "classification": "formula",
+    "latex": "n",
+    "note": "單一變數 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n\",\"note\":\"單一變數 n\"}\n",
+    "ts": "2026-04-27T10:37:03.202518+00:00",
+    "engine": "codex"
+  },
+  "image_c911ec21cb27a1.png": {
+    "classification": "formula",
+    "latex": "a_{n}=-4n-9",
+    "note": "等差數列通項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n}=-4n-9\",\"note\":\"等差數列通項公式\"}\n",
+    "ts": "2026-04-27T10:37:04.197935+00:00",
+    "engine": "codex"
+  },
+  "image_cbfee445f588c5.png": {
+    "classification": "formula",
+    "latex": "=3^3+2^3=27+8=35=5\\times 7",
+    "note": "連等式與質因數分解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=3^3+2^3=27+8=35=5\\\\times 7\",\"note\":\"連等式與質因數分解\"}\n",
+    "ts": "2026-04-27T10:37:07.558274+00:00",
+    "engine": "codex"
+  },
+  "image_cc62152bdd0478.png": {
+    "classification": "formula",
+    "latex": "n\\ge 2",
+    "note": "不等式 n 大於等於 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n\\\\ge 2\",\"note\":\"不等式 n 大於等於 2\"}\n",
+    "ts": "2026-04-27T10:37:07.777133+00:00",
+    "engine": "codex"
+  },
+  "image_cc908e82ab3159.png": {
+    "classification": "formula",
+    "latex": "a_n=a_1+(n-1)d",
+    "note": "等差數列第n項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n=a_1+(n-1)d\",\"note\":\"等差數列第n項公式\"}\n",
+    "ts": "2026-04-27T10:37:08.660345+00:00",
+    "engine": "codex"
+  },
+  "image_c37e89dfc97c15.png": {
+    "classification": "formula",
+    "latex": "d > \\frac{1}{999}",
+    "note": "不等式：d 大於 1/999",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d > \\\\frac{1}{999}\",\"note\":\"不等式：d 大於 1/999\"}\n",
+    "ts": "2026-04-27T10:37:10.612706+00:00",
+    "engine": "codex"
+  },
+  "image_cd35f8febfcc7e.png": {
+    "classification": "formula",
+    "latex": "d=\\frac{3}{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=\\\\frac{3}{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-27T10:37:12.902433+00:00",
+    "engine": "codex"
+  },
+  "image_ccd3eaf5dabd5a.png": {
+    "classification": "formula",
+    "latex": "\\langle a_n \\times b_n \\rangle",
+    "note": "內積或向量括號表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle a_n \\\\times b_n \\\\rangle\",\"note\":\"內積或向量括號表達式\"}\n",
+    "ts": "2026-04-27T10:37:13.708415+00:00",
+    "engine": "codex"
+  },
+  "image_cdcdef48062a32.png": {
+    "classification": "formula",
+    "latex": "a_3=5+2\\times(-4)=-3",
+    "note": "等差數列項值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=5+2\\\\times(-4)=-3\",\"note\":\"等差數列項值計算\"}\n",
+    "ts": "2026-04-27T10:37:13.775690+00:00",
+    "engine": "codex"
+  },
+  "image_ce1b010fc360e6.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{x}+\\frac{c}{y}=\\frac{2}{1+r}+\\frac{2r}{1+r}",
+    "note": "分式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{x}+\\\\frac{c}{y}=\\\\frac{2}{1+r}+\\\\frac{2r}{1+r}\",\"note\":\"分式等式\"}\n",
+    "ts": "2026-04-27T10:37:15.357082+00:00",
+    "engine": "codex"
+  },
+  "image_ce24a48cdf20d6.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{7}",
+    "note": "分數五分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{7}\",\"note\":\"分數五分之七\"}\n",
+    "ts": "2026-04-27T10:37:17.874288+00:00",
+    "engine": "codex"
+  },
+  "image_ceb01c949faf71.png": {
+    "classification": "formula",
+    "latex": "=3^{\\frac{35}{2}}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=3^{\\\\frac{35}{2}}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T10:37:19.040212+00:00",
+    "engine": "codex"
+  },
+  "image_d12d025a984f90.png": {
+    "classification": "formula",
+    "latex": "a_3=a_6=a_9=\\cdots=a_{3k}=\\cdots=\\frac{3}{4}",
+    "note": "等差/數列項相等的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=a_6=a_9=\\\\cdots=a_{3k}=\\\\cdots=\\\\frac{3}{4}\",\"note\":\"等差/數列項相等的公式\"}\n",
+    "ts": "2026-04-27T10:37:20.127383+00:00",
+    "engine": "codex"
+  },
+  "image_d08fea9233f9ae.png": {
+    "classification": "formula",
+    "latex": "\\frac{(n-1)[1+(n-1)]}{2}",
+    "note": "等差級數求和形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{(n-1)[1+(n-1)]}{2}\",\"note\":\"等差級數求和形式\"}\n",
+    "ts": "2026-04-27T10:37:20.928979+00:00",
+    "engine": "codex"
+  },
+  "image_d2aaf7a541864b.png": {
+    "classification": "formula",
+    "latex": "b_{n+1}-b_n=(a_{n+1}+5)-(a_n+5)=d",
+    "note": "等差數列差值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{n+1}-b_n=(a_{n+1}+5)-(a_n+5)=d\",\"note\":\"等差數列差值公式\"}\n",
+    "ts": "2026-04-27T10:37:23.682489+00:00",
+    "engine": "codex"
+  },
+  "image_d72f6a61d781fe.png": {
+    "classification": "formula",
+    "latex": "\\frac{b_{n+1}}{b_n}=r",
+    "note": "等比數列公比公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b_{n+1}}{b_n}=r\",\"note\":\"等比數列公比公式\"}\n",
+    "ts": "2026-04-27T10:37:25.263794+00:00",
+    "engine": "codex"
+  },
+  "image_d5e048d6c3a3c8.png": {
+    "classification": "formula",
+    "latex": "2a_{1}",
+    "note": "純數學式：2a 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2a_{1}\",\"note\":\"純數學式：2a 下標 1\"}\n",
+    "ts": "2026-04-27T10:37:25.942442+00:00",
+    "engine": "codex"
+  },
+  "image_d4d8e1fb096bbc.png": {
+    "classification": "formula",
+    "latex": "d_3",
+    "note": "變數 d 下標 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_3\",\"note\":\"變數 d 下標 3\"}\n",
+    "ts": "2026-04-27T10:37:27.560212+00:00",
+    "engine": "codex"
+  },
+  "image_d769d6b05ec289.png": {
+    "classification": "formula",
+    "latex": "d=-0.01",
+    "note": "等式：d等於負0.01",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=-0.01\",\"note\":\"等式：d等於負0.01\"}\n",
+    "ts": "2026-04-27T10:37:27.826902+00:00",
+    "engine": "codex"
+  },
+  "image_d7b59be9028b7c.png": {
+    "classification": "formula",
+    "latex": "a_3=\\frac{1}{1-a_2}=\\frac{1}{1-(-\\frac{1}{3})}=\\frac{3}{4}",
+    "note": "遞迴數列代入計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_3=\\\\frac{1}{1-a_2}=\\\\frac{1}{1-(-\\\\frac{1}{3})}=\\\\frac{3}{4}\",\"note\":\"遞迴數列代入計算式\"}\n",
+    "ts": "2026-04-27T10:37:29.270176+00:00",
+    "engine": "codex"
+  },
+  "image_dc65cc576f9beb.png": {
+    "classification": "formula",
+    "latex": "b_n=|a_n|",
+    "note": "絕對值數列定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_n=|a_n|\",\"note\":\"絕對值數列定義\"}\n",
+    "ts": "2026-04-27T10:37:31.810554+00:00",
+    "engine": "codex"
+  },
+  "image_db66161f828ab3.png": {
+    "classification": "formula",
+    "latex": "a_1+b_1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1+b_1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-27T10:37:32.637909+00:00",
+    "engine": "codex"
+  },
+  "image_de93be03423a8a.png": {
+    "classification": "formula",
+    "latex": "3^{16}",
+    "note": "指數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{16}\",\"note\":\"指數表示式\"}\n",
+    "ts": "2026-04-27T10:37:33.790064+00:00",
+    "engine": "codex"
+  },
+  "image_db63fb809170e6.png": {
+    "classification": "formula",
+    "latex": "a_2=\\frac{1}{1-5}=-\\frac{1}{4}",
+    "note": "等比數列項的計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_2=\\\\frac{1}{1-5}=-\\\\frac{1}{4}\",\"note\":\"等比數列項的計算式\"}\n",
+    "ts": "2026-04-27T10:37:34.304334+00:00",
+    "engine": "codex"
+  },
+  "image_e0633a3f93715b.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-27T10:37:36.158114+00:00",
+    "engine": "codex"
+  },
+  "image_e1125fc6f85c91.png": {
+    "classification": "formula",
+    "latex": "d",
+    "note": "單一變數 d",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d\",\"note\":\"單一變數 d\"}\n",
+    "ts": "2026-04-27T10:37:36.509056+00:00",
+    "engine": "codex"
+  },
+  "image_e29c004fc4e71f.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{x}",
+    "note": "平方根 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{x}\",\"note\":\"平方根 x\"}\n",
+    "ts": "2026-04-27T10:37:39.263768+00:00",
+    "engine": "codex"
+  },
+  "image_e3d634e9c32596.png": {
+    "classification": "formula",
+    "latex": "\\frac{3a_{n+1}}{3a_n}=\\frac{a_{n+1}}{a_n}=r_1",
+    "note": "等比數列公比化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3a_{n+1}}{3a_n}=\\\\frac{a_{n+1}}{a_n}=r_1\",\"note\":\"等比數列公比化簡式\"}\n",
+    "ts": "2026-04-27T10:37:40.219128+00:00",
+    "engine": "codex"
+  },
+  "image_e745a0c54d9dbf.png": {
+    "classification": "formula",
+    "latex": "a+1",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+1\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-27T10:37:40.223616+00:00",
+    "engine": "codex"
+  },
+  "image_e56cefee6c4701.png": {
+    "classification": "formula",
+    "latex": "3^{32}",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{32}\",\"note\":\"指數式\"}\n",
+    "ts": "2026-04-27T10:37:40.399193+00:00",
+    "engine": "codex"
+  },
+  "image_e9078a3880d58f.png": {
+    "classification": "formula",
+    "latex": "a_{20}=10 \\Rightarrow a_1+19d=10\\cdots\\text{(ii)}",
+    "note": "等差數列第20項條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{20}=10 \\\\Rightarrow a_1+19d=10\\\\cdots\\\\text{(ii)}\",\"note\":\"等差數列第20項條件\"}\n",
+    "ts": "2026-04-27T10:37:45.820976+00:00",
+    "engine": "codex"
+  },
+  "image_e8e42ee0be7940.png": {
+    "classification": "formula",
+    "latex": "r_2",
+    "note": "變數 r 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r_2\",\"note\":\"變數 r 下標 2\"}\n",
+    "ts": "2026-04-27T10:37:46.794285+00:00",
+    "engine": "codex"
+  },
+  "image_e77cb73ab24554.png": {
+    "classification": "formula",
+    "latex": "a_{2019}=-\\frac{3}{4}",
+    "note": "數列項等於負四分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2019}=-\\\\frac{3}{4}\",\"note\":\"數列項等於負四分之三\"}\n",
+    "ts": "2026-04-27T10:37:48.601849+00:00",
+    "engine": "codex"
+  },
+  "image_e7ad9d9bd98e79.png": {
+    "classification": "formula",
+    "latex": "b_{10}",
+    "note": "變數b的下標10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b_{10}\",\"note\":\"變數b的下標10\"}\n",
+    "ts": "2026-04-27T10:37:50.991696+00:00",
+    "engine": "codex"
+  },
+  "image_ea59c321b6aed5.png": {
+    "classification": "formula",
+    "latex": "n",
+    "note": "單一變數 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n\",\"note\":\"單一變數 n\"}\n",
+    "ts": "2026-04-27T10:37:51.327358+00:00",
+    "engine": "codex"
+  },
+  "image_eb0d7480bc49dd.png": {
+    "classification": "formula",
+    "latex": "\\frac{r_2}{r_1}",
+    "note": "r2 over r1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{r_2}{r_1}\",\"note\":\"r2 over r1\"}\n",
+    "ts": "2026-04-27T10:37:51.619337+00:00",
+    "engine": "codex"
+  },
+  "image_ebc3ba400f6f96.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-27T10:37:52.467210+00:00",
+    "engine": "codex"
+  },
+  "image_ebdfa040ba15ef.png": {
+    "classification": "formula",
+    "latex": "\\langle b_n \\rangle",
+    "note": "數列或序列符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\langle b_n \\\\rangle\",\"note\":\"數列或序列符號\"}\n",
+    "ts": "2026-04-27T10:37:55.181238+00:00",
+    "engine": "codex"
+  },
+  "image_ed9bd471504c98.png": {
+    "classification": "formula",
+    "latex": "\\frac{b_1}{a_1}",
+    "note": "分式 b1 除以 a1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b_1}{a_1}\",\"note\":\"分式 b1 除以 a1\"}\n",
+    "ts": "2026-04-27T10:37:57.301938+00:00",
+    "engine": "codex"
+  },
+  "image_f0c9f390c6592b.png": {
+    "classification": "formula",
+    "latex": "a_1+2",
+    "note": "純數學式：a_1加2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_1+2\",\"note\":\"純數學式：a_1加2\"}\n",
+    "ts": "2026-04-27T10:37:59.549060+00:00",
+    "engine": "codex"
+  },
+  "image_f3366eac2e498a.png": {
+    "classification": "formula",
+    "latex": "a_{n+1}=\\frac{1}{1-a_n}",
+    "note": "遞迴數列公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n+1}=\\\\frac{1}{1-a_n}\",\"note\":\"遞迴數列公式\"}\n",
+    "ts": "2026-04-27T10:37:59.981249+00:00",
+    "engine": "codex"
+  },
+  "image_f549a2223c1d59.png": {
+    "classification": "formula",
+    "latex": "0.0\\overline{y}",
+    "note": "循環小數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.0\\\\overline{y}\",\"note\":\"循環小數表示\"}\n",
+    "ts": "2026-04-27T10:38:03.858638+00:00",
+    "engine": "codex"
+  },
+  "image_f2fbcedc47664d.png": {
+    "classification": "formula",
+    "latex": "a_5=\\frac{1}{4}",
+    "note": "等式：a_5等於四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_5=\\\\frac{1}{4}\",\"note\":\"等式：a_5等於四分之一\"}\n",
+    "ts": "2026-04-27T10:38:03.994694+00:00",
+    "engine": "codex"
+  },
+  "image_f69f754ea9226f.png": {
+    "classification": "formula",
+    "latex": "a_n",
+    "note": "數列項符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n\",\"note\":\"數列項符號\"}\n",
+    "ts": "2026-04-27T10:38:04.139976+00:00",
+    "engine": "codex"
+  },
+  "image_f56662a7bbf402.png": {
+    "classification": "formula",
+    "latex": "\\vdots",
+    "note": "垂直省略號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vdots\",\"note\":\"垂直省略號\"}\n",
+    "ts": "2026-04-27T10:38:04.320289+00:00",
+    "engine": "codex"
+  },
+  "image_f6de3b894314a2.png": {
+    "classification": "formula",
+    "latex": "f_1",
+    "note": "函數符號 f 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f_1\",\"note\":\"函數符號 f 下標 1\"}\n",
+    "ts": "2026-04-27T10:38:07.877568+00:00",
+    "engine": "codex"
+  },
+  "image_f927ab07cd8047.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{z}",
+    "note": "平方根z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{z}\",\"note\":\"平方根z\"}\n",
+    "ts": "2026-04-27T10:38:08.235095+00:00",
+    "engine": "codex"
+  },
+  "image_f99c7c4397eb3e.png": {
+    "classification": "formula",
+    "latex": "a_n=\\frac{3n^2-3n-6}{2}",
+    "note": "數列通項公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_n=\\\\frac{3n^2-3n-6}{2}\",\"note\":\"數列通項公式\"}\n",
+    "ts": "2026-04-27T10:38:08.872442+00:00",
+    "engine": "codex"
+  },
+  "image_fca86c326c170e.png": {
+    "classification": "formula",
+    "latex": "a_8>b_8",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_8>b_8\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-27T10:38:11.922754+00:00",
+    "engine": "codex"
+  },
+  "image_fe13889291e2f5.png": {
+    "classification": "formula",
+    "latex": "a_{2019}",
+    "note": "變數a下標2019",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{2019}\",\"note\":\"變數a下標2019\"}\n",
+    "ts": "2026-04-27T10:38:12.518619+00:00",
+    "engine": "codex"
+  },
+  "image_fe647111732ca9.png": {
+    "classification": "formula",
+    "latex": "3^2",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^2\",\"note\":\"指數式\"}\n",
+    "ts": "2026-04-27T10:38:12.800307+00:00",
+    "engine": "codex"
+  },
+  "image_fa2fa138f37bf1.png": {
+    "classification": "formula",
+    "latex": "\\frac{a_{n+1}\\times b_{n+1}}{a_n\\times b_n}=\\frac{a_{n+1}}{a_n}\\times\\frac{b_{n+1}}{b_n}=r_1\\times r_2",
+    "note": "等比關係乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a_{n+1}\\\\times b_{n+1}}{a_n\\\\times b_n}=\\\\frac{a_{n+1}}{a_n}\\\\times\\\\frac{b_{n+1}}{b_n}=r_1\\\\times r_2\",\"note\":\"等比關係乘積公式\"}\n",
+    "ts": "2026-04-27T10:38:12.864208+00:00",
+    "engine": "codex"
+  },
+  "image_ff8e361582758b.png": {
+    "classification": "formula",
+    "latex": "\\left\\langle a_n \\times b_n \\right\\rangle",
+    "note": "角括號中的向量叉積式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\langle a_n \\\\times b_n \\\\right\\\\rangle\",\"note\":\"角括號中的向量叉積式\"}\n",
+    "ts": "2026-04-27T10:38:17.430865+00:00",
+    "engine": "codex"
+  }
+}

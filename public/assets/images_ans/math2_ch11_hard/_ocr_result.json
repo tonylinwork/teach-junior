@@ -1,0 +1,660 @@
+{
+  "image_025e73a0b8ae02.png": {
+    "classification": "formula",
+    "latex": "\\theta_4 \\neq \\theta_3 + 90^\\circ",
+    "note": "theta_4 不等於 theta_3 加 90 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_4 \\neq \\theta_3 + 90^\\circ\",\"note\":\"theta_4 不等於 theta_3 加 90 度\"}\n",
+    "ts": "2026-05-01T09:30:04.513045+00:00"
+  },
+  "image_0ab0b77e1a13e1.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta_3 = \\sin(180^\\circ + \\theta_1)",
+    "note": "三角函數誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta_3 = \\sin(180^\\circ + \\theta_1)\",\"note\":\"三角函數誘導公式\"}\n",
+    "ts": "2026-05-01T09:30:05.243102+00:00"
+  },
+  "image_088d552153e525.png": {
+    "classification": "formula",
+    "latex": "2\\theta_3 = 360^\\circ + 2\\theta_1",
+    "note": "角度關係等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\theta_3 = 360^\\circ + 2\\theta_1\",\"note\":\"角度關係等式\"}\n",
+    "ts": "2026-05-01T09:30:11.506946+00:00"
+  },
+  "image_00e841fddcac85.png": {
+    "classification": "formula",
+    "latex": "\\theta_1 < 60^\\circ",
+    "note": "theta_1 小於 60 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_1 < 60^\\circ\",\"note\":\"theta_1 小於 60 度\"}\n",
+    "ts": "2026-05-01T09:30:10.341869+00:00"
+  },
+  "image_109110f0161216.png": {
+    "classification": "formula",
+    "latex": "\\cos 2\\theta_3 = \\cos(360^\\circ + 2\\theta_1) = \\cos 2\\theta_1",
+    "note": "三角函數週期性公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos 2\\theta_3 = \\cos(360^\\circ + 2\\theta_1) = \\cos 2\\theta_1\",\"note\":\"三角函數週期性公式\"}\n",
+    "ts": "2026-05-01T09:30:17.953566+00:00"
+  },
+  "image_0df6dffa36b6da.png": {
+    "classification": "formula",
+    "latex": "\\theta_4 = \\theta_3 + 90^\\circ",
+    "note": "theta_4 = theta_3 + 90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_4 = \\theta_3 + 90^\\circ\",\"note\":\"theta_4 = theta_3 + 90度\"}\n",
+    "ts": "2026-05-01T09:30:22.378879+00:00"
+  },
+  "image_176d7155478b1f.png": {
+    "classification": "formula",
+    "latex": "\\cos(A + B) = \\cos(180^\\circ - C) = -\\cos C",
+    "note": "餘弦函數誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos(A + B) = \\cos(180^\\circ - C) = -\\cos C\",\"note\":\"餘弦函數誘導公式\"}\n",
+    "ts": "2026-05-01T09:30:46.635785+00:00"
+  },
+  "image_1a1c2a485c3fbe.png": {
+    "classification": "formula",
+    "latex": "2\\theta_2 = 360^\\circ - 2\\theta_1",
+    "note": "三角函數關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\theta_2 = 360^\\circ - 2\\theta_1\",\"note\":\"三角函數關係式\"}\n",
+    "ts": "2026-05-01T09:30:22.795353+00:00"
+  },
+  "image_1b3360d2f62389.png": {
+    "classification": "formula",
+    "latex": "\\theta_4",
+    "note": "θ₄",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_4\",\"note\":\"θ₄\"}\n",
+    "ts": "2026-05-01T09:30:27.569720+00:00"
+  },
+  "image_1c0eeae9dcd6c1.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta_4 = -\\frac{2\\sqrt{2}}{3}",
+    "note": "sin theta_4 value",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta_4 = -\\frac{2\\sqrt{2}}{3}\",\"note\":\"sin theta_4 value\"}\n",
+    "ts": "2026-05-01T09:30:33.499954+00:00"
+  },
+  "image_1f5b565f52f5b9.png": {
+    "classification": "formula",
+    "latex": "a \\sin \\theta + b \\tan \\theta",
+    "note": "a sin theta + b tan theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\sin \\theta + b \\tan \\theta\",\"note\":\"a sin theta + b tan theta\"}\n",
+    "ts": "2026-05-01T09:30:33.649469+00:00"
+  },
+  "image_1fb51668f03474.png": {
+    "classification": "formula",
+    "latex": "\\angle B",
+    "note": "角 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle B\",\"note\":\"角 B\"}\n",
+    "ts": "2026-05-01T09:30:42.949093+00:00"
+  },
+  "image_232ff6e32e9f8c.png": {
+    "classification": "formula",
+    "latex": "\\angle A + \\angle B + \\angle C = 180^\\circ",
+    "note": "三角形內角和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle A + \\angle B + \\angle C = 180^\\circ\",\"note\":\"三角形內角和\"}\n",
+    "ts": "2026-05-01T09:30:53.981555+00:00"
+  },
+  "image_23fa104f34e853.png": {
+    "classification": "formula",
+    "latex": "\\tan(A+B)=\\tan C",
+    "note": "tan(A+B)=tan C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan(A+B)=\\tan C\",\"note\":\"tan(A+B)=tan C\"}\n",
+    "ts": "2026-05-01T09:30:47.058629+00:00"
+  },
+  "image_24ef552b20325d.png": {
+    "classification": "formula",
+    "latex": "\\sin(A+B) = \\sin(180^\\circ - C) = \\sin C",
+    "note": "正弦函數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(A+B) = \\\\sin(180^\\\\circ - C) = \\\\sin C\",\"note\":\"正弦函數恆等式\"}\n",
+    "ts": "2026-05-01T09:30:55.856133+00:00"
+  },
+  "image_285bf933a7afb5.png": {
+    "classification": "formula",
+    "latex": "\\theta_3 = 180^\\circ + \\theta_1",
+    "note": "角度關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_3 = 180^\\circ + \\theta_1\",\"note\":\"角度關係式\"}\n",
+    "ts": "2026-05-01T09:30:57.767091+00:00"
+  },
+  "image_2951c7689fb771.png": {
+    "classification": "formula",
+    "latex": "\\sin\\left(\\frac{A+B}{2}\\right)=\\sin\\left(\\frac{180^\\circ-C}{2}\\right)",
+    "note": "三角函數正弦公式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin\\\\left(\\\\frac{A+B}{2}\\\\right)=\\\\sin\\\\left(\\\\frac{180^\\\\circ-C}{2}\\\\right)\",\"note\":\"三角函數正弦公式等式\"}\n",
+    "ts": "2026-05-01T09:31:03.348244+00:00"
+  },
+  "image_2a051aa50398a2.png": {
+    "classification": "formula",
+    "latex": "\\cos 2\\theta_{2} = \\cos(360^{\\circ} - 2\\theta_{1}) = \\cos 2\\theta_{1}",
+    "note": "三角函數餘弦公式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos 2\\theta_{2} = \\cos(360^{\\circ} - 2\\theta_{1}) = \\cos 2\\theta_{1}\",\"note\":\"三角函數餘弦公式等式\"}\n",
+    "ts": "2026-05-01T09:31:07.024695+00:00"
+  },
+  "image_2acaa619cf0181.png": {
+    "classification": "formula",
+    "latex": "\\theta_3",
+    "note": "theta subscript 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_3\",\"note\":\"theta subscript 3\"}\n",
+    "ts": "2026-05-01T09:31:07.004818+00:00"
+  },
+  "image_377d2e7f14c47e.png": {
+    "classification": "formula",
+    "latex": "\\theta_1 + \\theta_2 = 180^\\circ",
+    "note": "兩角之和為180度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_1 + \\theta_2 = 180^\\circ\",\"note\":\"兩角之和為180度\"}\n",
+    "ts": "2026-05-01T09:31:09.875454+00:00"
+  },
+  "image_45f11d3628fa38.png": {
+    "classification": "formula",
+    "latex": "\\theta_3",
+    "note": "theta_3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_3\",\"note\":\"theta_3\"}\n",
+    "ts": "2026-05-01T09:31:20.394292+00:00"
+  },
+  "image_3d091320690ed8.png": {
+    "classification": "formula",
+    "latex": "\\sin\\left(\\frac{A+B}{2}\\right) = \\sin\\frac{C}{2}",
+    "note": "三角函數正弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin\\\\left(\\\\frac{A+B}{2}\\\\right) = \\\\sin\\\\frac{C}{2}\",\"note\":\"三角函數正弦公式\"}\n",
+    "ts": "2026-05-01T09:31:26.284997+00:00"
+  },
+  "image_4910333c2d206b.png": {
+    "classification": "formula",
+    "latex": "360^\\circ",
+    "note": "360度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"360^\\\\circ\",\"note\":\"360度\"}\n",
+    "ts": "2026-05-01T09:31:22.526184+00:00"
+  },
+  "image_4a7ce673c81f40.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\theta_3}{2} = 180^\\circ - \\frac{\\theta_2}{2}",
+    "note": "包含 theta_3 和 theta_2 的角度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\theta_3}{2} = 180^\\\\circ - \\\\frac{\\\\theta_2}{2}\",\"note\":\"包含 theta_3 和 theta_2 的角度等式\"}\n",
+    "ts": "2026-05-01T09:31:30.238754+00:00"
+  },
+  "image_4ca31440c07d1c.png": {
+    "classification": "formula",
+    "latex": "0^{\\circ}",
+    "note": "0度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0^{\\\\circ}\",\"note\":\"0度\"}\n",
+    "ts": "2026-05-01T09:31:35.378122+00:00"
+  },
+  "image_4cf0197379b2c4.png": {
+    "classification": "formula",
+    "latex": "\\angle ABD = \\angle ACD = 90^\\circ",
+    "note": "角度 ABD 與 ACD 均為 90 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle ABD = \\angle ACD = 90^\\circ\",\"note\":\"角度 ABD 與 ACD 均為 90 度\"}\n",
+    "ts": "2026-05-01T09:31:40.703387+00:00"
+  },
+  "image_4e10c5aeae646c.png": {
+    "classification": "formula",
+    "latex": "\\theta_2 = 180^\\circ - \\theta_1",
+    "note": "角度關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_2 = 180^\\circ - \\theta_1\",\"note\":\"角度關係式\"}\n",
+    "ts": "2026-05-01T09:31:38.137019+00:00"
+  },
+  "image_4ef03ef15f601b.png": {
+    "classification": "formula",
+    "latex": "\\angle ABF = \\angle EDB = \\theta - 90^\\circ",
+    "note": "角度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle ABF = \\angle EDB = \\theta - 90^\\circ\",\"note\":\"角度等式\"}\n",
+    "ts": "2026-05-01T09:31:42.747606+00:00"
+  },
+  "image_4f270b5cbe15ad.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "數學符號 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"數學符號 C\"}\n",
+    "ts": "2026-05-01T09:31:47.591080+00:00"
+  },
+  "image_534d814fb09ae4.png": {
+    "classification": "formula",
+    "latex": "a \\sin \\theta + b \\cos \\theta",
+    "note": "三角函數疊合式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\sin \\theta + b \\cos \\theta\",\"note\":\"三角函數疊合式\"}\n",
+    "ts": "2026-05-01T09:31:51.348574+00:00"
+  },
+  "image_50233e0bcbf964.png": {
+    "classification": "formula",
+    "latex": "\\angle ABD = 90^\\circ",
+    "note": "∠ABD等於90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle ABD = 90^\\circ\",\"note\":\"∠ABD等於90度\"}\n",
+    "ts": "2026-05-01T09:31:49.549734+00:00"
+  },
+  "image_55383bf55a86c7.png": {
+    "classification": "formula",
+    "latex": "\\sin\\left(\\frac{A+B+C}{2}\\right) = \\sin\\left(\\frac{180^\\circ}{2}\\right) = \\sin 90^\\circ = 1",
+    "note": "正弦函數計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin\\left(\\frac{A+B+C}{2}\\right) = \\sin\\left(\\frac{180^\\circ}{2}\\right) = \\sin 90^\\circ = 1\",\"note\":\"正弦函數計算過程\"}\n",
+    "ts": "2026-05-01T09:31:58.733620+00:00"
+  },
+  "image_566c4be4e76146.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta_3 = -\\frac{1}{3}",
+    "note": "cos theta_3 = -1/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\theta_3 = -\\frac{1}{3}\",\"note\":\"cos theta_3 = -1/3\"}\n",
+    "ts": "2026-05-01T09:32:04.351051+00:00"
+  },
+  "image_56993d6904d84d.png": {
+    "classification": "formula",
+    "latex": "\\sin(180^\\circ - \\theta_1) = \\sin \\theta_1 = \\sin \\theta_2",
+    "note": "正弦函數的誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(180^\\\\circ - \\\\theta_1) = \\\\sin \\\\theta_1 = \\\\sin \\\\theta_2\",\"note\":\"正弦函數的誘導公式\"}\n",
+    "ts": "2026-05-01T09:32:03.706616+00:00"
+  },
+  "image_584d386089b6e3.png": {
+    "classification": "formula",
+    "latex": "\\cos\\left(\\frac{A+B}{2}\\right)=\\sin\\frac{C}{2}",
+    "note": "三角函數誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos\\left(\\frac{A+B}{2}\\right)=\\sin\\frac{C}{2}\",\"note\":\"三角函數誘導公式\"}\n",
+    "ts": "2026-05-01T09:32:07.009037+00:00"
+  },
+  "image_5a6ad3ddac1b94.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角坐標系中的兩條直線及其標註的角度 theta1, theta2",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角坐標系中的兩條直線及其標註的角度 theta1, theta2\"}\n",
+    "ts": "2026-05-01T09:32:17.930706+00:00"
+  },
+  "image_5aa92692734eba.png": {
+    "classification": "formula",
+    "latex": "\\theta_1 > 45^\\circ",
+    "note": "theta_1 > 45 degrees",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_1 > 45^\\circ\",\"note\":\"theta_1 > 45 degrees\"}\n",
+    "ts": "2026-05-01T09:32:15.973225+00:00"
+  },
+  "image_5bd910d911756a.png": {
+    "classification": "formula",
+    "latex": "\\angle A",
+    "note": "角 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle A\",\"note\":\"角 A\"}\n",
+    "ts": "2026-05-01T09:32:17.955676+00:00"
+  },
+  "image_64cd24dd846a37.png": {
+    "classification": "formula",
+    "latex": "= \\cos ( 90^\\circ - \\frac{C}{2} ) = \\sin \\frac{C}{2}",
+    "note": "三角函數餘角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\cos ( 90^\\circ - \\frac{C}{2} ) = \\sin \\frac{C}{2}\",\"note\":\"三角函數餘角公式\"}\n",
+    "ts": "2026-05-01T09:32:27.859421+00:00"
+  },
+  "image_67f9214ab2555f.png": {
+    "classification": "formula",
+    "latex": "\\sin\\left(\\frac{A+B+C}{2}\\right)=0",
+    "note": "正弦函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin\\left(\\frac{A+B+C}{2}\\right)=0\",\"note\":\"正弦函數等式\"}\n",
+    "ts": "2026-05-01T09:32:29.538083+00:00"
+  },
+  "image_5e5e7254c802bb.png": {
+    "classification": "formula",
+    "latex": "\\tan(A + B) = \\tan(180^{\\circ} - C) = -\\tan C",
+    "note": "三角函數正切補角公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan(A + B) = \\tan(180^{\\circ} - C) = -\\tan C\",\"note\":\"三角函數正切補角公式\"}\n",
+    "ts": "2026-05-01T09:32:21.610787+00:00"
+  },
+  "image_6ae66e9993875c.png": {
+    "classification": "formula",
+    "latex": "\\angle A + \\angle B + \\angle C = 180^\\circ",
+    "note": "三角形內角和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle A + \\angle B + \\angle C = 180^\\circ\",\"note\":\"三角形內角和公式\"}\n",
+    "ts": "2026-05-01T09:32:33.476691+00:00"
+  },
+  "image_6b441197ee65a1.png": {
+    "classification": "formula",
+    "latex": "\\cos\\left(\\frac{A+B}{2}\\right) = \\cos\\left(\\frac{180^\\circ - C}{2}\\right)",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos\\left(\\frac{A+B}{2}\\right) = \\cos\\left(\\frac{180^\\circ - C}{2}\\right)\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-05-01T09:32:34.450756+00:00"
+  },
+  "image_709fe84059784d.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "矩形中的幾何圖形，標註線段 a, b 與角度 theta",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"矩形中的幾何圖形，標註線段 a, b 與角度 theta\"}\n",
+    "ts": "2026-05-01T09:32:39.431992+00:00"
+  },
+  "image_70c751c729dbfc.png": {
+    "classification": "formula",
+    "latex": "\\theta_1 < 45^\\circ",
+    "note": "theta_1 小於 45 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_1 < 45^\\circ\",\"note\":\"theta_1 小於 45 度\"}\n",
+    "ts": "2026-05-01T09:32:45.124425+00:00"
+  },
+  "image_75cfa87acf416e.png": {
+    "classification": "formula",
+    "latex": "\\cos 2\\theta_2 = \\cos 2\\theta_3",
+    "note": "餘弦函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos 2\\\\theta_2 = \\\\cos 2\\\\theta_3\",\"note\":\"餘弦函數等式\"}\n",
+    "ts": "2026-05-01T09:32:49.667957+00:00"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "變數 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"變數 B\"}\n",
+    "ts": "2026-05-01T09:32:09.591822+00:00"
+  },
+  "image_7524df00fb534b.png": {
+    "classification": "formula",
+    "latex": "\\theta_4 = 360^\\circ - \\theta_1",
+    "note": "角度關係等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_4 = 360^\\circ - \\theta_1\",\"note\":\"角度關係等式\"}\n",
+    "ts": "2026-05-01T09:32:49.652766+00:00"
+  },
+  "image_770824a92d77ff.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta_2 = -\\frac{1}{3}",
+    "note": "cos theta_2 = -1/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta_2 = -\\\\frac{1}{3}\",\"note\":\"cos theta_2 = -1/3\"}\n",
+    "ts": "2026-05-01T09:32:54.114734+00:00"
+  },
+  "image_78924ba23365d6.png": {
+    "classification": "formula",
+    "latex": "\\sin(A+B+C)=0",
+    "note": "正弦函數方程式 sin(A+B+C)=0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(A+B+C)=0\",\"note\":\"正弦函數方程式 sin(A+B+C)=0\"}\n",
+    "ts": "2026-05-01T09:33:01.326274+00:00"
+  },
+  "image_795332a5224024.png": {
+    "classification": "formula",
+    "latex": "\\cos(A + B) = -\\cos C",
+    "note": "cos(A + B) = -cos C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos(A + B) = -\\cos C\",\"note\":\"cos(A + B) = -cos C\"}\n",
+    "ts": "2026-05-01T09:33:04.163499+00:00"
+  },
+  "image_7bd7e1c44f978b.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "矩形內的幾何圖形，包含頂點標籤 A, B, C, D 與直角符號",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"矩形內的幾何圖形，包含頂點標籤 A, B, C, D 與直角符號\"}\n",
+    "ts": "2026-05-01T09:33:01.570043+00:00"
+  },
+  "image_7e406c75cbc6b7.png": {
+    "classification": "formula",
+    "latex": "\\theta_3 = 180^\\circ + \\theta_1",
+    "note": "theta_3 等於 180 度加 theta_1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_3 = 180^\\circ + \\theta_1\",\"note\":\"theta_3 等於 180 度加 theta_1\"}\n",
+    "ts": "2026-05-01T09:33:08.396283+00:00"
+  },
+  "image_85fa1b82c63e72.png": {
+    "classification": "formula",
+    "latex": "|\\sin \\theta_1| = |\\sin \\theta_2| = |\\sin \\theta_3| = |\\sin \\theta_4| = \\frac{4}{5}",
+    "note": "三角函數正弦值的絕對值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\sin \\\\theta_1| = |\\\\sin \\\\theta_2| = |\\\\sin \\\\theta_3| = |\\\\sin \\\\theta_4| = \\\\frac{4}{5}\",\"note\":\"三角函數正弦值的絕對值等式\"}\n",
+    "ts": "2026-05-01T09:33:16.407605+00:00"
+  },
+  "image_8927417a833d93.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta_1 = \\sin \\theta_2 = \\frac{4}{5}",
+    "note": "sin theta_1 = sin theta_2 = 4/5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta_1 = \\sin \\theta_2 = \\frac{4}{5}\",\"note\":\"sin theta_1 = sin theta_2 = 4/5\"}\n",
+    "ts": "2026-05-01T09:33:19.351439+00:00"
+  },
+  "image_89929b0cbffe65.png": {
+    "classification": "formula",
+    "latex": "\\angle BAC = \\theta",
+    "note": "角BAC等於theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle BAC = \\theta\",\"note\":\"角BAC等於theta\"}\n",
+    "ts": "2026-05-01T09:33:15.463751+00:00"
+  },
+  "image_8a6f84c90ec478.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=a",
+    "note": "線段 AB 等於 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB}=a\",\"note\":\"線段 AB 等於 a\"}\n",
+    "ts": "2026-05-01T09:33:19.767064+00:00"
+  },
+  "image_916c90b978da34.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\theta_3 = 360^\\circ - \\theta_2",
+    "note": "角度關係式：θ3 = 360° - θ2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\Rightarrow \\theta_3 = 360^\\circ - \\theta_2\",\"note\":\"角度關係式：θ3 = 360° - θ2\"}\n",
+    "ts": "2026-05-01T09:33:26.619579+00:00"
+  },
+  "image_934ede19e205f4.png": {
+    "classification": "formula",
+    "latex": "0^{\\circ}",
+    "note": "0度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0^{\\circ}\",\"note\":\"0度\"}\n",
+    "ts": "2026-05-01T09:33:29.487689+00:00"
+  },
+  "image_ac211e7f55fe8e.png": {
+    "classification": "formula",
+    "latex": "\\cos 45^\\circ = \\frac{\\sqrt{2}}{2} > \\frac{1}{3} = \\cos \\theta_1",
+    "note": "餘弦函數值比較",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos 45^\\circ = \\frac{\\sqrt{2}}{2} > \\frac{1}{3} = \\cos \\theta_1\",\"note\":\"餘弦函數值比較\"}\n",
+    "ts": "2026-05-01T09:33:42.834871+00:00"
+  },
+  "image_9a604b32c552a1.png": {
+    "classification": "formula",
+    "latex": "\\theta_1 + \\theta_2 = 180^\\circ",
+    "note": "兩角之和為180度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_1 + \\\\theta_2 = 180^\\\\circ\",\"note\":\"兩角之和為180度\"}\n",
+    "ts": "2026-05-01T09:33:38.563450+00:00"
+  },
+  "image_ad77deb80f388c.png": {
+    "classification": "formula",
+    "latex": "180^\\circ + \\theta_1",
+    "note": "180度加theta1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"180^\\\\circ + \\\\theta_1\",\"note\":\"180度加theta1\"}\n",
+    "ts": "2026-05-01T09:33:41.662349+00:00"
+  },
+  "image_b362a2ab32b916.png": {
+    "classification": "formula",
+    "latex": "180^\\circ - \\theta_1",
+    "note": "180度減 theta_1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"180^\\\\circ - \\\\theta_1\",\"note\":\"180度減 theta_1\"}\n",
+    "ts": "2026-05-01T09:33:48.331043+00:00"
+  },
+  "image_b5b43e0bf5e77a.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形 ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\triangle ABC\",\"note\":\"三角形 ABC\"}\n",
+    "ts": "2026-05-01T09:33:52.886142+00:00"
+  },
+  "image_b6667bb872c00b.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}=\\overline{BF}+\\overline{BE}",
+    "note": "線段長度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}=\\\\overline{BF}+\\\\overline{BE}\",\"note\":\"線段長度等式\"}\n",
+    "ts": "2026-05-01T09:33:55.759589+00:00"
+  },
+  "image_bc55bec381f388.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta_{3} = \\sin \\theta_{4} = -\\frac{4}{5}",
+    "note": "正弦函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta_{3} = \\sin \\theta_{4} = -\\frac{4}{5}\",\"note\":\"正弦函數等式\"}\n",
+    "ts": "2026-05-01T09:34:05.324310+00:00"
+  },
+  "image_b99ffa0aefd7d7.png": {
+    "classification": "formula",
+    "latex": "a \\cos \\theta - b \\sin \\theta",
+    "note": "三角函數線性組合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\cos \\\\theta - b \\\\sin \\\\theta\",\"note\":\"三角函數線性組合\"}\n",
+    "ts": "2026-05-01T09:33:57.803475+00:00"
+  },
+  "image_bbb96a5bb48aec.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta_4 = \\frac{1}{3}",
+    "note": "余弦函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta_4 = \\\\frac{1}{3}\",\"note\":\"余弦函數公式\"}\n",
+    "ts": "2026-05-01T09:34:09.404894+00:00"
+  },
+  "image_bfb83f755343c0.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta_1 = \\frac{1}{3}",
+    "note": "余弦函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta_1 = \\\\frac{1}{3}\",\"note\":\"余弦函數公式\"}\n",
+    "ts": "2026-05-01T09:34:10.402195+00:00"
+  },
+  "image_c1989abdedb34f.png": {
+    "classification": "formula",
+    "latex": "a \\cos \\theta + b \\sin \\theta",
+    "note": "三角函數疊合的基本形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\cos \\theta + b \\sin \\theta\",\"note\":\"三角函數疊合的基本形式\"}\n",
+    "ts": "2026-05-01T09:36:48.957492+00:00"
+  },
+  "image_c84a417972b749.png": {
+    "classification": "formula",
+    "latex": "= \\overline{AB} \\cos(\\theta - 90^\\circ) + \\overline{BD} \\sin(\\theta - 90^\\circ)",
+    "note": "包含線段長度與三角函數的數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\overline{AB} \\cos(\\theta - 90^\\circ) + \\overline{BD} \\sin(\\theta - 90^\\circ)\",\"note\":\"包含線段長度與三角函數的數學算式\"}\n",
+    "ts": "2026-05-01T09:34:21.133366+00:00"
+  },
+  "image_c93d3227857b71.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta_1 = \\frac{4}{5} = 0.8 < \\sin 60^\\circ = \\frac{\\sqrt{3}}{2} \\approx 0.866",
+    "note": "比較正弦函數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta_1 = \\frac{4}{5} = 0.8 < \\sin 60^\\circ = \\frac{\\sqrt{3}}{2} \\approx 0.866\",\"note\":\"比較正弦函數值\"}\n",
+    "ts": "2026-05-01T09:34:33.627172+00:00"
+  },
+  "image_c9f1c98e4bfb2e.png": {
+    "classification": "formula",
+    "latex": "360^\\circ",
+    "note": "360度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"360^\\circ\",\"note\":\"360度\"}\n",
+    "ts": "2026-05-01T09:34:31.656839+00:00"
+  },
+  "image_c23b98f3c224cc.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta_4 = \\frac{2\\sqrt{2}}{3}",
+    "note": "正弦函數 sin theta_4 的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta_4 = \\\\frac{2\\\\sqrt{2}}{3}\",\"note\":\"正弦函數 sin theta_4 的值\"}\n",
+    "ts": "2026-05-01T09:34:26.581463+00:00"
+  },
+  "image_c9ffc74c8aa15e.png": {
+    "classification": "formula",
+    "latex": "\\theta_1 > 60^\\circ",
+    "note": "不等式 theta_1 > 60 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_1 > 60^\\circ\",\"note\":\"不等式 theta_1 > 60 度\"}\n",
+    "ts": "2026-05-01T09:34:38.080621+00:00"
+  },
+  "image_d5e980704a4fb6.png": {
+    "classification": "formula",
+    "latex": "\\angle C",
+    "note": "角C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle C\",\"note\":\"角C\"}\n",
+    "ts": "2026-05-01T09:34:49.686868+00:00"
+  },
+  "image_d5379bf189495a.png": {
+    "classification": "formula",
+    "latex": "\\theta_1",
+    "note": "theta 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_1\",\"note\":\"theta 1\"}\n",
+    "ts": "2026-05-01T09:34:49.526407+00:00"
+  },
+  "image_d78f18a80f252e.png": {
+    "classification": "formula",
+    "latex": "= a \\cos(90^\\circ - \\theta) + b[-\\sin(90^\\circ - \\theta)]",
+    "note": "三角函數誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= a \\cos(90^\\circ - \\theta) + b[-\\sin(90^\\circ - \\theta)]\",\"note\":\"三角函數誘導公式\"}\n",
+    "ts": "2026-05-01T09:34:55.009264+00:00"
+  },
+  "image_d8d970602740bb.png": {
+    "classification": "formula",
+    "latex": "180^\\circ - \\theta_1 = \\theta_2",
+    "note": "角度關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"180^\\circ - \\theta_1 = \\theta_2\",\"note\":\"角度關係式\"}\n",
+    "ts": "2026-05-01T09:35:01.532053+00:00"
+  },
+  "image_daf307bb8b0314.png": {
+    "classification": "formula",
+    "latex": "\\cos\\frac{\\theta_3}{2} = \\cos\\left(180^\\circ - \\frac{\\theta_2}{2}\\right) = -\\cos\\frac{\\theta_2}{2}",
+    "note": "餘弦函數誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\frac{\\\\theta_3}{2} = \\\\cos\\\\left(180^\\\\circ - \\\\frac{\\\\theta_2}{2}\\\\right) = -\\\\cos\\\\frac{\\\\theta_2}{2}\",\"note\":\"餘弦函數誘導公式\"}\n",
+    "ts": "2026-05-01T09:35:03.934405+00:00"
+  },
+  "image_ddf3ae603ceec1.png": {
+    "classification": "formula",
+    "latex": "\\cos \\frac{\\theta_2}{2} = \\cos \\frac{\\theta_3}{2}",
+    "note": "餘弦函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\frac{\\theta_2}{2} = \\cos \\frac{\\theta_3}{2}\",\"note\":\"餘弦函數等式\"}\n",
+    "ts": "2026-05-01T09:35:06.553377+00:00"
+  },
+  "image_ec3c8a59d36e4d.png": {
+    "classification": "formula",
+    "latex": "\\sin(A+B) = \\sin C",
+    "note": "sin(A+B)=sinC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(A+B) = \\\\sin C\",\"note\":\"sin(A+B)=sinC\"}\n",
+    "ts": "2026-05-01T09:35:33.551133+00:00"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "Italic letter A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"Italic letter A\"}\n",
+    "ts": "2026-05-01T09:35:16.933681+00:00"
+  },
+  "image_e7f30949b18005.png": {
+    "classification": "formula",
+    "latex": "\\theta_2",
+    "note": "希臘字母 theta 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_2\",\"note\":\"希臘字母 theta 下標 2\"}\n",
+    "ts": "2026-05-01T09:35:14.828517+00:00"
+  },
+  "image_ed29818de7d742.png": {
+    "classification": "formula",
+    "latex": "\\sin(A+B)=\\sin(180^{\\circ}-C)=\\sin C",
+    "note": "正弦函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin(A+B)=\\sin(180^{\\circ}-C)=\\sin C\",\"note\":\"正弦函數公式\"}\n",
+    "ts": "2026-05-01T09:35:33.732566+00:00"
+  },
+  "image_ee5c96a9214b70.png": {
+    "classification": "formula",
+    "latex": "\\theta_3 = 180^\\circ + \\theta_1 = 180^\\circ + 180^\\circ - \\theta_2",
+    "note": "角度關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\theta_3 = 180^\\circ + \\theta_1 = 180^\\circ + 180^\\circ - \\theta_2\",\"note\":\"角度關係式\"}\n",
+    "ts": "2026-05-01T09:35:34.747444+00:00"
+  },
+  "image_de8a9b2df1afd7.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}=b",
+    "note": "線段BD等於b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}=b\",\"note\":\"線段BD等於b\"}\n",
+    "ts": "2026-05-01T09:35:16.923150+00:00"
+  },
+  "image_f02de0bcf967a4.png": {
+    "classification": "formula",
+    "latex": "\\sin(A+B+C) = \\sin 180^\\circ = 0",
+    "note": "正弦函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin(A+B+C) = \\sin 180^\\circ = 0\",\"note\":\"正弦函數等式\"}\n",
+    "ts": "2026-05-01T09:35:46.429102+00:00"
+  },
+  "image_f230e665646681.png": {
+    "classification": "formula",
+    "latex": "= a \\sin \\theta - b \\cos \\theta",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= a \\sin \\theta - b \\cos \\theta\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-05-01T09:35:51.522001+00:00"
+  },
+  "image_f13ba9b36d2df9.png": {
+    "classification": "formula",
+    "latex": "= \\sin(90^\\circ - \\frac{C}{2}) = \\cos \\frac{C}{2}",
+    "note": "三角函數誘導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\sin(90^\\circ - \\frac{C}{2}) = \\cos \\frac{C}{2}\",\"note\":\"三角函數誘導公式\"}\n",
+    "ts": "2026-05-01T09:35:47.867773+00:00"
+  },
+  "image_fa6611a8ed5f5d.png": {
+    "classification": "formula",
+    "latex": "\\theta_2",
+    "note": "theta_2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_2\",\"note\":\"theta_2\"}\n",
+    "ts": "2026-05-01T09:36:10.859783+00:00"
+  },
+  "image_f63299ae7ac26f.png": {
+    "classification": "formula",
+    "latex": "a \\sin \\theta - b \\cos \\theta",
+    "note": "三角函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\sin \\theta - b \\cos \\theta\",\"note\":\"三角函數表達式\"}\n",
+    "ts": "2026-05-01T09:35:57.292111+00:00"
+  },
+  "image_ffb791b58a758f.png": {
+    "classification": "formula",
+    "latex": "|\\cos \\theta_1| = |\\cos \\theta_2| = |\\cos \\theta_3| = |\\cos \\theta_4| = \\frac{1}{3}",
+    "note": "余弦值的絕對值等於1/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\cos \\\\theta_1| = |\\\\cos \\\\theta_2| = |\\\\cos \\\\theta_3| = |\\\\cos \\\\theta_4| = \\\\frac{1}{3}\",\"note\":\"余弦值的絕對值等於1/3\"}\n",
+    "ts": "2026-05-01T09:36:10.744459+00:00"
+  },
+  "image_fd1c55ecbcfdd3.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}",
+    "note": "線段 CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\",\"note\":\"線段 CD\"}\n",
+    "ts": "2026-05-01T09:36:05.698951+00:00"
+  }
+}

@@ -1,0 +1,1314 @@
+{
+  "image_02583990015055.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-30T00:53:54.132908+00:00",
+    "engine": "codex"
+  },
+  "image_045ee8868f6dcb.png": {
+    "classification": "formula",
+    "latex": "a=14",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=14\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:53:54.321180+00:00",
+    "engine": "codex"
+  },
+  "image_00ff8508ad194f.png": {
+    "classification": "formula",
+    "latex": "M=\\begin{bmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{bmatrix}",
+    "note": "旋轉矩陣公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M=\\\\begin{bmatrix}\\\\cos\\\\theta&-\\\\sin\\\\theta\\\\\\\\\\\\sin\\\\theta&\\\\cos\\\\theta\\\\end{bmatrix}\",\"note\":\"旋轉矩陣公式\"}\n",
+    "ts": "2026-04-30T00:53:57.773078+00:00",
+    "engine": "codex"
+  },
+  "image_010bc83d35f56f.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos20^\\circ&\\sin20^\\circ\\\\\\sin20^\\circ&-\\cos20^\\circ\\end{bmatrix}",
+    "note": "2x2 trigonometric matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos20^\\\\circ&\\\\sin20^\\\\circ\\\\\\\\\\\\sin20^\\\\circ&-\\\\cos20^\\\\circ\\\\end{bmatrix}\",\"note\":\"2x2 trigonometric matrix\"}\n",
+    "ts": "2026-04-30T00:53:58.642834+00:00",
+    "engine": "codex"
+  },
+  "image_04c97efce02f33.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}a&b\\\\1-a&1-b\\end{bmatrix}",
+    "note": "2x2 matrix expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}a&b\\\\\\\\1-a&1-b\\\\end{bmatrix}\",\"note\":\"2x2 matrix expression\"}\n",
+    "ts": "2026-04-30T00:54:01.180946+00:00",
+    "engine": "codex"
+  },
+  "image_04d0a2e7f2b243.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=(2,6)",
+    "note": "線段AC向量座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}=(2,6)\",\"note\":\"線段AC向量座標\"}\n",
+    "ts": "2026-04-30T00:54:01.341261+00:00",
+    "engine": "codex"
+  },
+  "image_065c3b429c5e66.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{5}",
+    "note": "分數四分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{5}\",\"note\":\"分數四分之五\"}\n",
+    "ts": "2026-04-30T00:54:03.282992+00:00",
+    "engine": "codex"
+  },
+  "image_05cc67d12e1ea5.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}4&0\\\\0&3\\end{matrix}\\right|=12",
+    "note": "二階行列式等於12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}4&0\\\\\\\\0&3\\\\end{matrix}\\\\right|=12\",\"note\":\"二階行列式等於12\"}\n",
+    "ts": "2026-04-30T00:54:04.342509+00:00",
+    "engine": "codex"
+  },
+  "image_0728681d0fa2c0.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{bmatrix}",
+    "note": "2D rotation matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos\\\\theta&-\\\\sin\\\\theta\\\\\\\\\\\\sin\\\\theta&\\\\cos\\\\theta\\\\end{bmatrix}\",\"note\":\"2D rotation matrix\"}\n",
+    "ts": "2026-04-30T00:54:07.784728+00:00",
+    "engine": "codex"
+  },
+  "image_076e6e71dece54.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-0.3&0.8\\\\1.3&0.2\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-0.3&0.8\\\\\\\\1.3&0.2\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:54:09.112932+00:00",
+    "engine": "codex"
+  },
+  "image_0809ff78f91905.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}\\begin{bmatrix}3&1\\\\1&3\\end{bmatrix}",
+    "note": "矩陣乘以四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\\\\begin{bmatrix}3&1\\\\\\\\1&3\\\\end{bmatrix}\",\"note\":\"矩陣乘以四分之一\"}\n",
+    "ts": "2026-04-30T00:54:10.382204+00:00",
+    "engine": "codex"
+  },
+  "image_084153a0397f8c.png": {
+    "classification": "formula",
+    "latex": "(2,6)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,6)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:54:12.592589+00:00",
+    "engine": "codex"
+  },
+  "image_0a5351ea9b9cfa.png": {
+    "classification": "formula",
+    "latex": "\\frac{(3a-32)-(a-8)}{3-1}=2",
+    "note": "純代數分式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{(3a-32)-(a-8)}{3-1}=2\",\"note\":\"純代數分式方程\"}\n",
+    "ts": "2026-04-30T00:54:15.425756+00:00",
+    "engine": "codex"
+  },
+  "image_084f817b6bb5aa.png": {
+    "classification": "formula",
+    "latex": "\\frac{A^2+B^2}{2}",
+    "note": "分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{A^2+B^2}{2}\",\"note\":\"分式代數式\"}\n",
+    "ts": "2026-04-30T00:54:15.816689+00:00",
+    "engine": "codex"
+  },
+  "image_0a9c797c72e424.png": {
+    "classification": "formula",
+    "latex": "A^2",
+    "note": "字母A的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2\",\"note\":\"字母A的平方\"}\n",
+    "ts": "2026-04-30T00:54:16.902095+00:00",
+    "engine": "codex"
+  },
+  "image_0a59c68f8e78ec.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\2&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\2&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:54:17.372331+00:00",
+    "engine": "codex"
+  },
+  "image_0c54ff3cab9ad3.png": {
+    "classification": "formula",
+    "latex": "A(0,0)",
+    "note": "點A座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(0,0)\",\"note\":\"點A座標\"}\n",
+    "ts": "2026-04-30T00:54:20.521067+00:00",
+    "engine": "codex"
+  },
+  "image_0ef4c395ba822b.png": {
+    "classification": "formula",
+    "latex": "M=\\begin{bmatrix}5&7\\\\2&4\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M=\\\\begin{bmatrix}5&7\\\\\\\\2&4\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T00:54:22.321797+00:00",
+    "engine": "codex"
+  },
+  "image_0c97da19302e60.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\cos^{2}10^\\circ+\\sin^{2}10^\\circ\\right|=1",
+    "note": "三角恆等式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\cos^{2}10^\\\\circ+\\\\sin^{2}10^\\\\circ\\\\right|=1\",\"note\":\"三角恆等式計算\"}\n",
+    "ts": "2026-04-30T00:54:24.283748+00:00",
+    "engine": "codex"
+  },
+  "image_0e0ce57cb2c611.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 180^\\circ & \\sin 180^\\circ\\\\ \\sin 180^\\circ & -\\cos 180^\\circ\\end{bmatrix}=\\begin{bmatrix}-1 & 0\\\\0 & 1\\end{bmatrix}",
+    "note": "三角函數矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 180^\\\\circ & \\\\sin 180^\\\\circ\\\\\\\\ \\\\sin 180^\\\\circ & -\\\\cos 180^\\\\circ\\\\end{bmatrix}=\\\\begin{bmatrix}-1 & 0\\\\\\\\0 & 1\\\\end{bmatrix}\",\"note\":\"三角函數矩陣等式\"}\n",
+    "ts": "2026-04-30T00:54:24.931180+00:00",
+    "engine": "codex"
+  },
+  "image_10427981cef244.png": {
+    "classification": "formula",
+    "latex": "A+B",
+    "note": "代數式 A 加 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A+B\",\"note\":\"代數式 A 加 B\"}\n",
+    "ts": "2026-04-30T00:54:25.451502+00:00",
+    "engine": "codex"
+  },
+  "image_1b87c66f971a9e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-1&0\\\\0&1\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-1&0\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T00:54:30.355691+00:00",
+    "engine": "codex"
+  },
+  "image_15656001918163.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 90^\\circ & \\sin 90^\\circ \\\\ \\sin 90^\\circ & -\\cos 90^\\circ\\end{bmatrix}=\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}",
+    "note": "矩陣三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 90^\\\\circ & \\\\sin 90^\\\\circ \\\\\\\\ \\\\sin 90^\\\\circ & -\\\\cos 90^\\\\circ\\\\end{bmatrix}=\\\\begin{bmatrix}0 & 1 \\\\\\\\ 1 & 0\\\\end{bmatrix}\",\"note\":\"矩陣三角函數等式\"}\n",
+    "ts": "2026-04-30T00:54:30.662514+00:00",
+    "engine": "codex"
+  },
+  "image_16d3db6754d848.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&k\\\\k&0\\end{bmatrix}",
+    "note": "2x2 matrix with zeros diagonal and k off-diagonal",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&k\\\\\\\\k&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix with zeros diagonal and k off-diagonal\"}\n",
+    "ts": "2026-04-30T00:54:30.768449+00:00",
+    "engine": "codex"
+  },
+  "image_1fc5090d006237.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "數字12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"數字12\"}\n",
+    "ts": "2026-04-30T00:54:34.910358+00:00",
+    "engine": "codex"
+  },
+  "image_1abf915dba0812.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}x'\\\\y'\\end{bmatrix}=\\begin{bmatrix}\\sqrt{2}&0\\\\0&\\sqrt{2}\\end{bmatrix}\\begin{bmatrix}\\cos45^\\circ&-\\sin45^\\circ\\\\\\sin45^\\circ&\\cos45^\\circ\\end{bmatrix}\\begin{bmatrix}4\\\\2\\end{bmatrix}",
+    "note": "矩陣旋轉與縮放變換公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}x'\\\\\\\\y'\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\sqrt{2}&0\\\\\\\\0&\\\\sqrt{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\cos45^\\\\circ&-\\\\sin45^\\\\circ\\\\\\\\\\\\sin45^\\\\circ&\\\\cos45^\\\\circ\\\\end{bmatrix}\\\\begin{bmatrix}4\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣旋轉與縮放變換公式\"}\n",
+    "ts": "2026-04-30T00:54:35.524758+00:00",
+    "engine": "codex"
+  },
+  "image_2068fd3cd54676.png": {
+    "classification": "formula",
+    "latex": "L",
+    "note": "單一斜體字母L",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L\",\"note\":\"單一斜體字母L\"}\n",
+    "ts": "2026-04-30T00:54:40.352458+00:00",
+    "engine": "codex"
+  },
+  "image_295988ff0245d0.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}5&2\\\\6&3\\end{bmatrix}",
+    "note": "2x2 matrix definition",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}5&2\\\\\\\\6&3\\\\end{bmatrix}\",\"note\":\"2x2 matrix definition\"}\n",
+    "ts": "2026-04-30T00:54:40.873475+00:00",
+    "engine": "codex"
+  },
+  "image_2332daf432417b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}3\\\\3\\end{bmatrix}",
+    "note": "二維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}3\\\\\\\\3\\\\end{bmatrix}\",\"note\":\"二維列向量\"}\n",
+    "ts": "2026-04-30T00:54:43.465177+00:00",
+    "engine": "codex"
+  },
+  "image_2b3350dd1a4a74.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-30T00:54:45.723864+00:00",
+    "engine": "codex"
+  },
+  "image_22eb3c1e0732e4.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-\\frac{1}{2}&\\frac{\\sqrt{3}}{2}\\\\\\frac{\\sqrt{3}}{2}&\\frac{1}{2}\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-\\\\frac{1}{2}&\\\\frac{\\\\sqrt{3}}{2}\\\\\\\\\\\\frac{\\\\sqrt{3}}{2}&\\\\frac{1}{2}\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T00:54:46.203722+00:00",
+    "engine": "codex"
+  },
+  "image_2a165d2183056a.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 10^\\circ & -\\sin 10^\\circ \\\\ \\sin 10^\\circ & \\cos 10^\\circ\\end{bmatrix}",
+    "note": "2D rotation matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 10^\\\\circ & -\\\\sin 10^\\\\circ \\\\\\\\ \\\\sin 10^\\\\circ & \\\\cos 10^\\\\circ\\\\end{bmatrix}\",\"note\":\"2D rotation matrix\"}\n",
+    "ts": "2026-04-30T00:54:47.700751+00:00",
+    "engine": "codex"
+  },
+  "image_2dd9be42a74761.png": {
+    "classification": "formula",
+    "latex": "45^\\circ",
+    "note": "角度數值 45 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"45^\\\\circ\",\"note\":\"角度數值 45 度\"}\n",
+    "ts": "2026-04-30T00:54:51.199389+00:00",
+    "engine": "codex"
+  },
+  "image_2d3ca4590a6fa2.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}\\begin{bmatrix}3&-4\\\\4&-3\\end{bmatrix}",
+    "note": "純矩陣表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\\\\begin{bmatrix}3&-4\\\\\\\\4&-3\\\\end{bmatrix}\",\"note\":\"純矩陣表達式\"}\n",
+    "ts": "2026-04-30T00:54:51.861489+00:00",
+    "engine": "codex"
+  },
+  "image_31deeed34228a3.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=(-3,-10)",
+    "note": "線段AC向量座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}=(-3,-10)\",\"note\":\"線段AC向量座標\"}\n",
+    "ts": "2026-04-30T00:54:51.891588+00:00",
+    "engine": "codex"
+  },
+  "image_2c00969853962e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 0^\\circ&\\sin 0^\\circ\\\\\\sin 0^\\circ&-\\cos 0^\\circ\\end{bmatrix}=\\begin{bmatrix}1&0\\\\0&-1\\end{bmatrix}",
+    "note": "三角函數矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 0^\\\\circ&\\\\sin 0^\\\\circ\\\\\\\\\\\\sin 0^\\\\circ&-\\\\cos 0^\\\\circ\\\\end{bmatrix}=\\\\begin{bmatrix}1&0\\\\\\\\0&-1\\\\end{bmatrix}\",\"note\":\"三角函數矩陣等式\"}\n",
+    "ts": "2026-04-30T00:54:52.120777+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-30T00:54:56.002797+00:00",
+    "engine": "codex"
+  },
+  "image_37de045083da5c.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "希臘字母 theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"希臘字母 theta\"}\n",
+    "ts": "2026-04-30T00:54:57.706630+00:00",
+    "engine": "codex"
+  },
+  "image_394030009f4470.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\dfrac{1}{\\sqrt{2}}&\\dfrac{1}{\\sqrt{2}}\\\\\\dfrac{1}{\\sqrt{2}}&-\\dfrac{1}{\\sqrt{2}}\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\dfrac{1}{\\\\sqrt{2}}&\\\\dfrac{1}{\\\\sqrt{2}}\\\\\\\\\\\\dfrac{1}{\\\\sqrt{2}}&-\\\\dfrac{1}{\\\\sqrt{2}}\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T00:54:59.254884+00:00",
+    "engine": "codex"
+  },
+  "image_35023fb81ecf21.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=(1,3)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=(1,3)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T00:55:04.384406+00:00",
+    "engine": "codex"
+  },
+  "image_3e6addd3df0271.png": {
+    "classification": "formula",
+    "latex": "-0.3",
+    "note": "負小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-0.3\",\"note\":\"負小數\"}\n",
+    "ts": "2026-04-30T00:55:04.435653+00:00",
+    "engine": "codex"
+  },
+  "image_3a0c5bf2ff1c21.png": {
+    "classification": "formula",
+    "latex": "(1,1)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,1)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:55:06.621504+00:00",
+    "engine": "codex"
+  },
+  "image_3f1abe49deff8d.png": {
+    "classification": "formula",
+    "latex": "A+B=\\begin{bmatrix}a+c&b+d\\\\2-a-c&2-b-d\\end{bmatrix}",
+    "note": "矩陣加法結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A+B=\\\\begin{bmatrix}a+c&b+d\\\\\\\\2-a-c&2-b-d\\\\end{bmatrix}\",\"note\":\"矩陣加法結果\"}\n",
+    "ts": "2026-04-30T00:55:08.864119+00:00",
+    "engine": "codex"
+  },
+  "image_3ffd8c0aff900b.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}\\cos 20^\\circ & -\\sin 20^\\circ \\\\ \\sin 20^\\circ & \\cos 20^\\circ\\end{matrix}\\right|=\\left|\\cos^2 20^\\circ+\\sin^2 20^\\circ\\right|=|1|=1",
+    "note": "二階行列式與三角恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}\\\\cos 20^\\\\circ & -\\\\sin 20^\\\\circ \\\\\\\\ \\\\sin 20^\\\\circ & \\\\cos 20^\\\\circ\\\\end{matrix}\\\\right|=\\\\left|\\\\cos^2 20^\\\\circ+\\\\sin^2 20^\\\\circ\\\\right|=|1|=1\",\"note\":\"二階行列式與三角恆等式\"}\n",
+    "ts": "2026-04-30T00:55:12.213968+00:00",
+    "engine": "codex"
+  },
+  "image_40e3911e6018de.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}x\\\\y\\end{bmatrix}",
+    "note": "二維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}x\\\\\\\\y\\\\end{bmatrix}\",\"note\":\"二維列向量\"}\n",
+    "ts": "2026-04-30T00:55:13.059656+00:00",
+    "engine": "codex"
+  },
+  "image_3f2666f0e188cc.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\begin{matrix}5&7\\\\2&4\\end{matrix}\\right|\\times7=42",
+    "note": "行列式乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\begin{matrix}5&7\\\\\\\\2&4\\\\end{matrix}\\\\right|\\\\times7=42\",\"note\":\"行列式乘法算式\"}\n",
+    "ts": "2026-04-30T00:55:13.815177+00:00",
+    "engine": "codex"
+  },
+  "image_41e62c1e40decc.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}\\begin{bmatrix}\\sqrt{3}&1\\\\1&\\sqrt{3}\\end{bmatrix}",
+    "note": "二階矩陣乘以二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\\\\begin{bmatrix}\\\\sqrt{3}&1\\\\\\\\1&\\\\sqrt{3}\\\\end{bmatrix}\",\"note\":\"二階矩陣乘以二分之一\"}\n",
+    "ts": "2026-04-30T00:55:16.022403+00:00",
+    "engine": "codex"
+  },
+  "image_467521fca19c5c.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}\\cos 30^\\circ & \\sin 30^\\circ \\\\ \\sin 30^\\circ & \\cos 30^\\circ\\end{matrix}\\right|",
+    "note": "二階行列式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}\\\\cos 30^\\\\circ & \\\\sin 30^\\\\circ \\\\\\\\ \\\\sin 30^\\\\circ & \\\\cos 30^\\\\circ\\\\end{matrix}\\\\right|\",\"note\":\"二階行列式\"}\n",
+    "ts": "2026-04-30T00:55:20.026175+00:00",
+    "engine": "codex"
+  },
+  "image_45c1d646a1d082.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&1\\\\-1&0\\end{bmatrix}=\\begin{bmatrix}\\cos\\frac{3\\pi}{2}&-\\sin\\frac{3\\pi}{2}\\\\\\sin\\frac{3\\pi}{2}&\\cos\\frac{3\\pi}{2}\\end{bmatrix}",
+    "note": "矩陣與三角函數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&1\\\\\\\\-1&0\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos\\\\frac{3\\\\pi}{2}&-\\\\sin\\\\frac{3\\\\pi}{2}\\\\\\\\\\\\sin\\\\frac{3\\\\pi}{2}&\\\\cos\\\\frac{3\\\\pi}{2}\\\\end{bmatrix}\",\"note\":\"矩陣與三角函數表示\"}\n",
+    "ts": "2026-04-30T00:55:21.059792+00:00",
+    "engine": "codex"
+  },
+  "image_483ff6db44c05e.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix}1&0\\\\2&1\\end{vmatrix}=1",
+    "note": "二階行列式等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix}1&0\\\\\\\\2&1\\\\end{vmatrix}=1\",\"note\":\"二階行列式等於1\"}\n",
+    "ts": "2026-04-30T00:55:21.870218+00:00",
+    "engine": "codex"
+  },
+  "image_4888a4d2640321.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}\\sqrt{2}&0\\\\0&\\sqrt{2}\\end{bmatrix}\\begin{bmatrix}3\\sqrt{2}\\\\-\\sqrt{2}\\end{bmatrix}=\\begin{bmatrix}6\\\\-2\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}\\\\sqrt{2}&0\\\\\\\\0&\\\\sqrt{2}\\\\end{bmatrix}\\\\begin{bmatrix}3\\\\sqrt{2}\\\\\\\\-\\\\sqrt{2}\\\\end{bmatrix}=\\\\begin{bmatrix}6\\\\\\\\-2\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-30T00:55:22.616530+00:00",
+    "engine": "codex"
+  },
+  "image_49f33fd405a9bf.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\0&-1\\end{bmatrix}",
+    "note": "2x2 diagonal matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\0&-1\\\\end{bmatrix}\",\"note\":\"2x2 diagonal matrix\"}\n",
+    "ts": "2026-04-30T00:55:27.369496+00:00",
+    "engine": "codex"
+  },
+  "image_4b53445e57686d.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0.5&0.5\\\\0.7&0.3\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0.5&0.5\\\\\\\\0.7&0.3\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:55:27.511190+00:00",
+    "engine": "codex"
+  },
+  "image_48b7a459862a69.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}\\frac{1}{2}&3\\\\0&4\\end{matrix}\\right|=\\left|2-0\\right|=2",
+    "note": "二階行列式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}\\\\frac{1}{2}&3\\\\\\\\0&4\\\\end{matrix}\\\\right|=\\\\left|2-0\\\\right|=2\",\"note\":\"二階行列式計算\"}\n",
+    "ts": "2026-04-30T00:55:28.620802+00:00",
+    "engine": "codex"
+  },
+  "image_48d25fb53256de.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&1\\\\-1&0\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&1\\\\\\\\-1&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:55:28.844786+00:00",
+    "engine": "codex"
+  },
+  "image_508789e6639183.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix}1&2\\\\2&3\\end{vmatrix}=1",
+    "note": "二階行列式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix}1&2\\\\\\\\2&3\\\\end{vmatrix}=1\",\"note\":\"二階行列式等式\"}\n",
+    "ts": "2026-04-30T00:55:33.052624+00:00",
+    "engine": "codex"
+  },
+  "image_5142cf1c669432.png": {
+    "classification": "formula",
+    "latex": "C=A+B",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C=A+B\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T00:55:33.389916+00:00",
+    "engine": "codex"
+  },
+  "image_57bb516d386f33.png": {
+    "classification": "formula",
+    "latex": "2\\times 2",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times 2\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-30T00:55:33.546947+00:00",
+    "engine": "codex"
+  },
+  "image_5326f999b7cfb9.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}\\sqrt{2}&0\\\\0&\\sqrt{2}\\end{bmatrix}\\begin{bmatrix}\\frac{\\sqrt{2}}{2}&\\frac{\\sqrt{2}}{2}\\\\-\\frac{\\sqrt{2}}{2}&\\frac{\\sqrt{2}}{2}\\end{bmatrix}\\begin{bmatrix}4\\\\2\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}\\\\sqrt{2}&0\\\\\\\\0&\\\\sqrt{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{\\\\sqrt{2}}{2}&\\\\frac{\\\\sqrt{2}}{2}\\\\\\\\-\\\\frac{\\\\sqrt{2}}{2}&\\\\frac{\\\\sqrt{2}}{2}\\\\end{bmatrix}\\\\begin{bmatrix}4\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-04-30T00:55:36.682735+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一斜體字母B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一斜體字母B\"}\n",
+    "ts": "2026-04-30T00:55:37.898187+00:00",
+    "engine": "codex"
+  },
+  "image_5b6612970e669c.png": {
+    "classification": "formula",
+    "latex": "M=\\begin{bmatrix}2&4\\\\2&5\\end{bmatrix}",
+    "note": "2x2 matrix expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M=\\\\begin{bmatrix}2&4\\\\\\\\2&5\\\\end{bmatrix}\",\"note\":\"2x2 matrix expression\"}\n",
+    "ts": "2026-04-30T00:55:38.591246+00:00",
+    "engine": "codex"
+  },
+  "image_5b464c2a34aa56.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos\\theta&\\sin\\theta\\\\\\sin\\theta&-\\cos\\theta\\end{bmatrix}",
+    "note": "2x2三角函數矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos\\\\theta&\\\\sin\\\\theta\\\\\\\\\\\\sin\\\\theta&-\\\\cos\\\\theta\\\\end{bmatrix}\",\"note\":\"2x2三角函數矩陣\"}\n",
+    "ts": "2026-04-30T00:55:40.919119+00:00",
+    "engine": "codex"
+  },
+  "image_5ea468e7e7a471.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "數字10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"數字10\"}\n",
+    "ts": "2026-04-30T00:55:43.482745+00:00",
+    "engine": "codex"
+  },
+  "image_5dca0661570978.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos30^\\circ & \\sin30^\\circ \\\\ \\sin30^\\circ & -\\cos30^\\circ\\end{bmatrix}",
+    "note": "2x2 trigonometric matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos30^\\\\circ & \\\\sin30^\\\\circ \\\\\\\\ \\\\sin30^\\\\circ & -\\\\cos30^\\\\circ\\\\end{bmatrix}\",\"note\":\"2x2 trigonometric matrix\"}\n",
+    "ts": "2026-04-30T00:55:45.451256+00:00",
+    "engine": "codex"
+  },
+  "image_5f025769344bf5.png": {
+    "classification": "formula",
+    "latex": "3x-2y=1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3x-2y=1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:55:45.824161+00:00",
+    "engine": "codex"
+  },
+  "image_5bab7d1d25c044.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}\\sqrt{2}&0\\\\0&\\sqrt{2}\\end{bmatrix}\\begin{bmatrix}\\sqrt{2}\\\\3\\sqrt{2}\\end{bmatrix}=\\begin{bmatrix}2\\\\6\\end{bmatrix}",
+    "note": "矩陣乘以向量的計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}\\\\sqrt{2}&0\\\\\\\\0&\\\\sqrt{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\sqrt{2}\\\\\\\\3\\\\sqrt{2}\\\\end{bmatrix}=\\\\begin{bmatrix}2\\\\\\\\6\\\\end{bmatrix}\",\"note\":\"矩陣乘以向量的計算式\"}\n",
+    "ts": "2026-04-30T00:55:48.414204+00:00",
+    "engine": "codex"
+  },
+  "image_5ff7a6038d08f0.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\times\\left|\\begin{matrix}1&3\\\\4&-2\\end{matrix}\\right|=7",
+    "note": "行列式計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\times\\\\left|\\\\begin{matrix}1&3\\\\\\\\4&-2\\\\end{matrix}\\\\right|=7\",\"note\":\"行列式計算式\"}\n",
+    "ts": "2026-04-30T00:55:50.245121+00:00",
+    "engine": "codex"
+  },
+  "image_603d418018d6b3.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}2&3\\\\5&7\\end{matrix}\\right|=\\left|-1\\right|=1",
+    "note": "二階行列式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}2&3\\\\\\\\5&7\\\\end{matrix}\\\\right|=\\\\left|-1\\\\right|=1\",\"note\":\"二階行列式計算\"}\n",
+    "ts": "2026-04-30T00:55:52.114006+00:00",
+    "engine": "codex"
+  },
+  "image_61bd514e373149.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}kx\\\\ky\\end{bmatrix}",
+    "note": "二維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}kx\\\\\\\\ky\\\\end{bmatrix}\",\"note\":\"二維列向量\"}\n",
+    "ts": "2026-04-30T00:55:56.273153+00:00",
+    "engine": "codex"
+  },
+  "image_627bcfcd2eb0cb.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}x'\\\\y'\\end{bmatrix}",
+    "note": "二維座標向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}x'\\\\\\\\y'\\\\end{bmatrix}\",\"note\":\"二維座標向量\"}\n",
+    "ts": "2026-04-30T00:55:57.062305+00:00",
+    "engine": "codex"
+  },
+  "image_6044c879d878c2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\-2&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\-2&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:55:58.031144+00:00",
+    "engine": "codex"
+  },
+  "image_634b1d4bf74100.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\a&-8\\end{bmatrix}\\begin{bmatrix}3\\\\4\\end{bmatrix}=\\begin{bmatrix}3\\\\3a-32\\end{bmatrix}",
+    "note": "矩陣乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\a&-8\\\\end{bmatrix}\\\\begin{bmatrix}3\\\\\\\\4\\\\end{bmatrix}=\\\\begin{bmatrix}3\\\\\\\\3a-32\\\\end{bmatrix}\",\"note\":\"矩陣乘法等式\"}\n",
+    "ts": "2026-04-30T00:56:00.117947+00:00",
+    "engine": "codex"
+  },
+  "image_641b360d8537f1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&2\\\\0&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&2\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:56:03.920754+00:00",
+    "engine": "codex"
+  },
+  "image_66554bc51eaaa0.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}(A^2+B^2)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}(A^2+B^2)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T00:56:04.023116+00:00",
+    "engine": "codex"
+  },
+  "image_690bb01a241da2.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AC}",
+    "note": "有向線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AC}\",\"note\":\"有向線段AC\"}\n",
+    "ts": "2026-04-30T00:56:05.860616+00:00",
+    "engine": "codex"
+  },
+  "image_6d1b0dbbe10430.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{2}}\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}",
+    "note": "2x2 matrix scaled by 1/sqrt2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{2}}\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix scaled by 1/sqrt2\"}\n",
+    "ts": "2026-04-30T00:56:09.255063+00:00",
+    "engine": "codex"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-30T00:56:10.412745+00:00",
+    "engine": "codex"
+  },
+  "image_65149cce17a556.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 2\\theta&\\sin 2\\theta\\\\\\sin 2\\theta&-\\cos 2\\theta\\end{bmatrix}",
+    "note": "2x2 trigonometric matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 2\\\\theta&\\\\sin 2\\\\theta\\\\\\\\\\\\sin 2\\\\theta&-\\\\cos 2\\\\theta\\\\end{bmatrix}\",\"note\":\"2x2 trigonometric matrix\"}\n",
+    "ts": "2026-04-30T00:56:11.821636+00:00",
+    "engine": "codex"
+  },
+  "image_7138383a505abb.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{vmatrix}\\cos15^\\circ&-\\sin15^\\circ\\\\\\sin15^\\circ&\\cos15^\\circ\\end{vmatrix}\\right|=\\left|\\cos^2 15^\\circ+\\sin^2 15^\\circ\\right|=1",
+    "note": "行列式三角恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{vmatrix}\\\\cos15^\\\\circ&-\\\\sin15^\\\\circ\\\\\\\\\\\\sin15^\\\\circ&\\\\cos15^\\\\circ\\\\end{vmatrix}\\\\right|=\\\\left|\\\\cos^2 15^\\\\circ+\\\\sin^2 15^\\\\circ\\\\right|=1\",\"note\":\"行列式三角恆等式\"}\n",
+    "ts": "2026-04-30T00:56:13.849227+00:00",
+    "engine": "codex"
+  },
+  "image_74b5c84f167fe9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}\\begin{bmatrix}\\sqrt{3}&1\\\\1&\\sqrt{3}\\end{bmatrix}=\\begin{bmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{bmatrix}",
+    "note": "矩陣等式與旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\\\\begin{bmatrix}\\\\sqrt{3}&1\\\\\\\\1&\\\\sqrt{3}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos\\\\theta&-\\\\sin\\\\theta\\\\\\\\\\\\sin\\\\theta&\\\\cos\\\\theta\\\\end{bmatrix}\",\"note\":\"矩陣等式與旋轉矩陣\"}\n",
+    "ts": "2026-04-30T00:56:15.543533+00:00",
+    "engine": "codex"
+  },
+  "image_7aa8f38e6f3ae7.png": {
+    "classification": "formula",
+    "latex": "(-2,6)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-2,6)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:56:16.641567+00:00",
+    "engine": "codex"
+  },
+  "image_7e472ee35293fd.png": {
+    "classification": "formula",
+    "latex": "\\angle ABC",
+    "note": "角ABC的符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle ABC\",\"note\":\"角ABC的符號\"}\n",
+    "ts": "2026-04-30T00:56:20.912397+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T00:56:21.062062+00:00",
+    "engine": "codex"
+  },
+  "image_7e3e4efedf97bf.png": {
+    "classification": "formula",
+    "latex": "(6,-2)",
+    "note": "坐標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(6,-2)\",\"note\":\"坐標點\"}\n",
+    "ts": "2026-04-30T00:56:22.352817+00:00",
+    "engine": "codex"
+  },
+  "image_818eeb177646d1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&0\\\\0&3\\end{bmatrix}",
+    "note": "2x2 diagonal matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&0\\\\\\\\0&3\\\\end{bmatrix}\",\"note\":\"2x2 diagonal matrix\"}\n",
+    "ts": "2026-04-30T00:56:24.253964+00:00",
+    "engine": "codex"
+  },
+  "image_836f817e20ca4b.png": {
+    "classification": "formula",
+    "latex": "B=\\begin{bmatrix}c&d\\\\1-c&1-d\\end{bmatrix}",
+    "note": "二階矩陣表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=\\\\begin{bmatrix}c&d\\\\\\\\1-c&1-d\\\\end{bmatrix}\",\"note\":\"二階矩陣表示式\"}\n",
+    "ts": "2026-04-30T00:56:26.411078+00:00",
+    "engine": "codex"
+  },
+  "image_843e4d6a134ea9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}\\left(A^2+B^2\\right)",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\\\\left(A^2+B^2\\\\right)\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:56:26.610303+00:00",
+    "engine": "codex"
+  },
+  "image_8742d1234cc76d.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{vmatrix}1&0\\\\-2&1\\end{vmatrix}\\right|=\\left|1\\right|=1",
+    "note": "行列式絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{vmatrix}1&0\\\\\\\\-2&1\\\\end{vmatrix}\\\\right|=\\\\left|1\\\\right|=1\",\"note\":\"行列式絕對值計算\"}\n",
+    "ts": "2026-04-30T00:56:31.120312+00:00",
+    "engine": "codex"
+  },
+  "image_84cb3614c52de1.png": {
+    "classification": "formula",
+    "latex": "\\left(1,a-8\\right)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,a-8\\\\right)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:56:31.613636+00:00",
+    "engine": "codex"
+  },
+  "image_8ca01eaa04c113.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=(-9,-6)",
+    "note": "向量AB的坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=(-9,-6)\",\"note\":\"向量AB的坐標\"}\n",
+    "ts": "2026-04-30T00:56:33.162350+00:00",
+    "engine": "codex"
+  },
+  "image_8a57f0f9ec2733.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0.3 & 0.8 \\\\ 0.7 & 0.2\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0.3 & 0.8 \\\\\\\\ 0.7 & 0.2\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:56:33.858596+00:00",
+    "engine": "codex"
+  },
+  "image_8cdb37d13a7a07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-30T00:56:36.237827+00:00",
+    "engine": "codex"
+  },
+  "image_8f283a5389f089.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}x'\\\\y'\\end{bmatrix}=\\begin{bmatrix}\\sqrt{2}&0\\\\0&\\sqrt{2}\\end{bmatrix}\\begin{bmatrix}\\cos(-45^\\circ)&-\\sin(-45^\\circ)\\\\\\sin(-45^\\circ)&\\cos(-45^\\circ)\\end{bmatrix}\\begin{bmatrix}4\\\\2\\end{bmatrix}",
+    "note": "矩陣變換公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}x'\\\\\\\\y'\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\sqrt{2}&0\\\\\\\\0&\\\\sqrt{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\cos(-45^\\\\circ)&-\\\\sin(-45^\\\\circ)\\\\\\\\\\\\sin(-45^\\\\circ)&\\\\cos(-45^\\\\circ)\\\\end{bmatrix}\\\\begin{bmatrix}4\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣變換公式\"}\n",
+    "ts": "2026-04-30T00:56:40.601600+00:00",
+    "engine": "codex"
+  },
+  "image_9081c5980b502f.png": {
+    "classification": "formula",
+    "latex": "A^2=\\begin{bmatrix}a&b\\\\1-a&1-b\\end{bmatrix}\\begin{bmatrix}a&b\\\\1-a&1-b\\end{bmatrix}=\\begin{bmatrix}a^2+b-ab&ab+b-b^2\\\\1-a^2-b+ab&1-ab-b+b^2\\end{bmatrix}",
+    "note": "矩陣平方展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A^2=\\\\begin{bmatrix}a&b\\\\\\\\1-a&1-b\\\\end{bmatrix}\\\\begin{bmatrix}a&b\\\\\\\\1-a&1-b\\\\end{bmatrix}=\\\\begin{bmatrix}a^2+b-ab&ab+b-b^2\\\\\\\\1-a^2-b+ab&1-ab-b+b^2\\\\end{bmatrix}\",\"note\":\"矩陣平方展開式\"}\n",
+    "ts": "2026-04-30T00:56:41.531470+00:00",
+    "engine": "codex"
+  },
+  "image_90fedd35b9a5f1.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1 & 2 \\\\ 2 & 3\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1 & 2 \\\\\\\\ 2 & 3\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:56:41.807685+00:00",
+    "engine": "codex"
+  },
+  "image_8d0e2ea9e46482.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}\\dfrac{4}{5}&0\\\\-3&1\\end{matrix}\\right|=\\left|\\dfrac{4}{5}-0\\right|=\\dfrac{4}{5}",
+    "note": "行列式絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}\\\\dfrac{4}{5}&0\\\\\\\\-3&1\\\\end{matrix}\\\\right|=\\\\left|\\\\dfrac{4}{5}-0\\\\right|=\\\\dfrac{4}{5}\",\"note\":\"行列式絕對值計算\"}\n",
+    "ts": "2026-04-30T00:56:41.921152+00:00",
+    "engine": "codex"
+  },
+  "image_93382151edb54c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 30^\\circ & \\sin 30^\\circ \\\\ \\sin 30^\\circ & \\cos 30^\\circ\\end{bmatrix}",
+    "note": "2x2 trigonometric matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 30^\\\\circ & \\\\sin 30^\\\\circ \\\\\\\\ \\\\sin 30^\\\\circ & \\\\cos 30^\\\\circ\\\\end{bmatrix}\",\"note\":\"2x2 trigonometric matrix\"}\n",
+    "ts": "2026-04-30T00:56:46.972210+00:00",
+    "engine": "codex"
+  },
+  "image_97d891c3677a66.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos 15^\\circ & -\\sin 15^\\circ \\\\ \\sin 15^\\circ & \\cos 15^\\circ\\end{bmatrix}",
+    "note": "2x2 rotation matrix with 15 degrees",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos 15^\\\\circ & -\\\\sin 15^\\\\circ \\\\\\\\ \\\\sin 15^\\\\circ & \\\\cos 15^\\\\circ\\\\end{bmatrix}\",\"note\":\"2x2 rotation matrix with 15 degrees\"}\n",
+    "ts": "2026-04-30T00:56:47.119510+00:00",
+    "engine": "codex"
+  },
+  "image_9708ccbf42e027.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}3&0\\\\0&-2\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}3&0\\\\\\\\0&-2\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T00:56:49.342238+00:00",
+    "engine": "codex"
+  },
+  "image_994b5b82e928bf.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\begin{matrix}2&4\\\\2&5\\end{matrix}\\right|\\times36=2\\times36=72",
+    "note": "行列式計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\begin{matrix}2&4\\\\\\\\2&5\\\\end{matrix}\\\\right|\\\\times36=2\\\\times36=72\",\"note\":\"行列式計算式\"}\n",
+    "ts": "2026-04-30T00:56:51.246108+00:00",
+    "engine": "codex"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-30T00:56:52.023278+00:00",
+    "engine": "codex"
+  },
+  "image_9cf232e9230936.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}4&0\\\\0&3\\end{bmatrix}",
+    "note": "2x2 diagonal matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}4&0\\\\\\\\0&3\\\\end{bmatrix}\",\"note\":\"2x2 diagonal matrix\"}\n",
+    "ts": "2026-04-30T00:56:53.148263+00:00",
+    "engine": "codex"
+  },
+  "image_a0887a4f0aa514.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{bmatrix}",
+    "note": "旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos\\\\theta&-\\\\sin\\\\theta\\\\\\\\\\\\sin\\\\theta&\\\\cos\\\\theta\\\\end{bmatrix}\",\"note\":\"旋轉矩陣\"}\n",
+    "ts": "2026-04-30T00:56:55.678153+00:00",
+    "engine": "codex"
+  },
+  "image_a3c6a46839f32b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字8\"}\n",
+    "ts": "2026-04-30T00:56:57.800770+00:00",
+    "engine": "codex"
+  },
+  "image_a2c05e385362fb.png": {
+    "classification": "formula",
+    "latex": "(3,3a-32)",
+    "note": "座標形式的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,3a-32)\",\"note\":\"座標形式的代數式\"}\n",
+    "ts": "2026-04-30T00:56:58.951637+00:00",
+    "engine": "codex"
+  },
+  "image_a21203ecc8687c.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}\\cos 10^\\circ & -\\sin 10^\\circ \\\\ \\sin 10^\\circ & \\cos 10^\\circ\\end{matrix}\\right|",
+    "note": "二階行列式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}\\\\cos 10^\\\\circ & -\\\\sin 10^\\\\circ \\\\\\\\ \\\\sin 10^\\\\circ & \\\\cos 10^\\\\circ\\\\end{matrix}\\\\right|\",\"note\":\"二階行列式\"}\n",
+    "ts": "2026-04-30T00:57:01.257304+00:00",
+    "engine": "codex"
+  },
+  "image_a497a4a7a3f86c.png": {
+    "classification": "formula",
+    "latex": "\\left(-2,4\\right)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-2,4\\\\right)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:57:02.184531+00:00",
+    "engine": "codex"
+  },
+  "image_a6c97b5e3f8b7f.png": {
+    "classification": "formula",
+    "latex": "A=\\left[a_{ij}\\right]_{2\\times 2}",
+    "note": "矩陣表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\left[a_{ij}\\\\right]_{2\\\\times 2}\",\"note\":\"矩陣表示式\"}\n",
+    "ts": "2026-04-30T00:57:03.795466+00:00",
+    "engine": "codex"
+  },
+  "image_a63faffec84902.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\frac{4}{5}&\\frac{3}{5}\\\\\\frac{3}{5}&-\\frac{4}{5}\\end{bmatrix}",
+    "note": "2x2 matrix with fractions",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\frac{4}{5}&\\\\frac{3}{5}\\\\\\\\\\\\frac{3}{5}&-\\\\frac{4}{5}\\\\end{bmatrix}\",\"note\":\"2x2 matrix with fractions\"}\n",
+    "ts": "2026-04-30T00:57:04.022049+00:00",
+    "engine": "codex"
+  },
+  "image_a6f316cac9ac7d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=(4,2)",
+    "note": "線段AB等於座標(4,2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=(4,2)\",\"note\":\"線段AB等於座標(4,2)\"}\n",
+    "ts": "2026-04-30T00:57:09.092917+00:00",
+    "engine": "codex"
+  },
+  "image_a8fb7838c0c282.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}\\begin{bmatrix}3&-4\\\\4&-3\\end{bmatrix}=\\begin{bmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{bmatrix}",
+    "note": "旋轉矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\\\\begin{bmatrix}3&-4\\\\\\\\4&-3\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos\\\\theta&-\\\\sin\\\\theta\\\\\\\\\\\\sin\\\\theta&\\\\cos\\\\theta\\\\end{bmatrix}\",\"note\":\"旋轉矩陣等式\"}\n",
+    "ts": "2026-04-30T00:57:11.562635+00:00",
+    "engine": "codex"
+  },
+  "image_ab97514fbd5c09.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AC}=(4,-2)",
+    "note": "向量AC的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AC}=(4,-2)\",\"note\":\"向量AC的座標\"}\n",
+    "ts": "2026-04-30T00:57:11.675375+00:00",
+    "engine": "codex"
+  },
+  "image_ad3c1c80d53238.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{2}}\\begin{bmatrix}1&-1\\\\1&1\\end{bmatrix}=\\begin{bmatrix}\\cos\\frac{\\pi}{4}&-\\sin\\frac{\\pi}{4}\\\\\\sin\\frac{\\pi}{4}&\\cos\\frac{\\pi}{4}\\end{bmatrix}",
+    "note": "矩陣與旋轉矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{2}}\\\\begin{bmatrix}1&-1\\\\\\\\1&1\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos\\\\frac{\\\\pi}{4}&-\\\\sin\\\\frac{\\\\pi}{4}\\\\\\\\\\\\sin\\\\frac{\\\\pi}{4}&\\\\cos\\\\frac{\\\\pi}{4}\\\\end{bmatrix}\",\"note\":\"矩陣與旋轉矩陣等式\"}\n",
+    "ts": "2026-04-30T00:57:17.555314+00:00",
+    "engine": "codex"
+  },
+  "image_b5185e2fd20676.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\frac{4}{5}&0\\\\-3&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\frac{4}{5}&0\\\\\\\\-3&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:57:18.295586+00:00",
+    "engine": "codex"
+  },
+  "image_adfb8f4451e76f.png": {
+    "classification": "formula",
+    "latex": "=\\left|-\\cos^2 20^\\circ-\\sin^2 20^\\circ\\right|=1",
+    "note": "絕對值三角恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|-\\\\cos^2 20^\\\\circ-\\\\sin^2 20^\\\\circ\\\\right|=1\",\"note\":\"絕對值三角恆等式\"}\n",
+    "ts": "2026-04-30T00:57:19.922751+00:00",
+    "engine": "codex"
+  },
+  "image_abb9092f7e65af.png": {
+    "classification": "formula",
+    "latex": "\\triangle DEF=\\begin{vmatrix}-14&2\\\\-3&4\\end{vmatrix}\\times\\triangle ABC=50\\triangle ABC",
+    "note": "三角形面積與行列式倍數關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle DEF=\\\\begin{vmatrix}-14&2\\\\\\\\-3&4\\\\end{vmatrix}\\\\times\\\\triangle ABC=50\\\\triangle ABC\",\"note\":\"三角形面積與行列式倍數關係\"}\n",
+    "ts": "2026-04-30T00:57:20.572454+00:00",
+    "engine": "codex"
+  },
+  "image_b6c3eb59e846d5.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos20^\\circ&\\sin20^\\circ\\\\\\sin20^\\circ&-\\cos20^\\circ\\end{bmatrix}",
+    "note": "2x2 trigonometric matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos20^\\\\circ&\\\\sin20^\\\\circ\\\\\\\\\\\\sin20^\\\\circ&-\\\\cos20^\\\\circ\\\\end{bmatrix}\",\"note\":\"2x2 trigonometric matrix\"}\n",
+    "ts": "2026-04-30T00:57:24.433940+00:00",
+    "engine": "codex"
+  },
+  "image_bcb0f2b86da1af.png": {
+    "classification": "formula",
+    "latex": "\\angle ABC=90^\\circ",
+    "note": "角ABC等於90度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle ABC=90^\\\\circ\",\"note\":\"角ABC等於90度\"}\n",
+    "ts": "2026-04-30T00:57:26.015486+00:00",
+    "engine": "codex"
+  },
+  "image_bd42851270b2ac.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}k&0\\\\0&k\\end{bmatrix}",
+    "note": "2x2 scalar diagonal matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}k&0\\\\\\\\0&k\\\\end{bmatrix}\",\"note\":\"2x2 scalar diagonal matrix\"}\n",
+    "ts": "2026-04-30T00:57:26.531119+00:00",
+    "engine": "codex"
+  },
+  "image_bc1b1d420b3104.png": {
+    "classification": "formula",
+    "latex": "=\\begin{bmatrix}\\sqrt{2}&0\\\\0&\\sqrt{2}\\end{bmatrix}\\begin{bmatrix}\\frac{\\sqrt{2}}{2}&-\\frac{\\sqrt{2}}{2}\\\\\\frac{\\sqrt{2}}{2}&\\frac{\\sqrt{2}}{2}\\end{bmatrix}\\begin{bmatrix}4\\\\2\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\begin{bmatrix}\\\\sqrt{2}&0\\\\\\\\0&\\\\sqrt{2}\\\\end{bmatrix}\\\\begin{bmatrix}\\\\frac{\\\\sqrt{2}}{2}&-\\\\frac{\\\\sqrt{2}}{2}\\\\\\\\\\\\frac{\\\\sqrt{2}}{2}&\\\\frac{\\\\sqrt{2}}{2}\\\\end{bmatrix}\\\\begin{bmatrix}4\\\\\\\\2\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-04-30T00:57:28.323920+00:00",
+    "engine": "codex"
+  },
+  "image_beb36993100092.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-30T00:57:32.654329+00:00",
+    "engine": "codex"
+  },
+  "image_c0bb24d1e53c3c.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-\\frac{1}{2}&\\frac{\\sqrt{3}}{2}\\\\\\frac{\\sqrt{3}}{2}&\\frac{1}{2}\\end{bmatrix}=\\begin{bmatrix}\\cos120^\\circ&\\sin120^\\circ\\\\\\sin120^\\circ&-\\cos120^\\circ\\end{bmatrix}",
+    "note": "矩陣與三角函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-\\\\frac{1}{2}&\\\\frac{\\\\sqrt{3}}{2}\\\\\\\\\\\\frac{\\\\sqrt{3}}{2}&\\\\frac{1}{2}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos120^\\\\circ&\\\\sin120^\\\\circ\\\\\\\\\\\\sin120^\\\\circ&-\\\\cos120^\\\\circ\\\\end{bmatrix}\",\"note\":\"矩陣與三角函數表示式\"}\n",
+    "ts": "2026-04-30T00:57:33.108831+00:00",
+    "engine": "codex"
+  },
+  "image_c1a56b8a6d511f.png": {
+    "classification": "formula",
+    "latex": "B=[b_{\\overline{ij}}]_{2\\times 2}",
+    "note": "矩陣元素表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=[b_{\\\\overline{ij}}]_{2\\\\times 2}\",\"note\":\"矩陣元素表示式\"}\n",
+    "ts": "2026-04-30T00:57:36.794417+00:00",
+    "engine": "codex"
+  },
+  "image_c2d1be90de769e.png": {
+    "classification": "formula",
+    "latex": "\\left|\\cos^2\\theta+\\sin^2\\theta\\right|=1",
+    "note": "三角恆等式加絕對值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\cos^2\\\\theta+\\\\sin^2\\\\theta\\\\right|=1\",\"note\":\"三角恆等式加絕對值\"}\n",
+    "ts": "2026-04-30T00:57:38.496641+00:00",
+    "engine": "codex"
+  },
+  "image_c3181356ff3fe7.png": {
+    "classification": "formula",
+    "latex": "(1,1)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,1)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:57:40.300664+00:00",
+    "engine": "codex"
+  },
+  "image_c33bc912f843dd.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix}\\cos 30^\\circ&\\sin 30^\\circ\\\\\\sin 30^\\circ&-\\cos 30^\\circ\\end{vmatrix}=\\left|-\\cos^2 30^\\circ-\\sin^2 30^\\circ\\right|=|-1|=1",
+    "note": "行列式計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix}\\\\cos 30^\\\\circ&\\\\sin 30^\\\\circ\\\\\\\\\\\\sin 30^\\\\circ&-\\\\cos 30^\\\\circ\\\\end{vmatrix}=\\\\left|-\\\\cos^2 30^\\\\circ-\\\\sin^2 30^\\\\circ\\\\right|=|-1|=1\",\"note\":\"行列式計算式\"}\n",
+    "ts": "2026-04-30T00:57:40.671153+00:00",
+    "engine": "codex"
+  },
+  "image_c4cc43077d7959.png": {
+    "classification": "formula",
+    "latex": "(2,-4)",
+    "note": "有序數對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,-4)\",\"note\":\"有序數對座標\"}\n",
+    "ts": "2026-04-30T00:57:43.494303+00:00",
+    "engine": "codex"
+  },
+  "image_c62e21d389b189.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&-1\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:57:46.081829+00:00",
+    "engine": "codex"
+  },
+  "image_c65e9feb8f9484.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1+2\\\\0+3\\end{bmatrix}",
+    "note": "二行一列矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1+2\\\\\\\\0+3\\\\end{bmatrix}\",\"note\":\"二行一列矩陣\"}\n",
+    "ts": "2026-04-30T00:57:47.440438+00:00",
+    "engine": "codex"
+  },
+  "image_c67dba243abd8b.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\a&-8\\end{bmatrix}\\begin{bmatrix}1\\\\1\\end{bmatrix}=\\begin{bmatrix}1\\\\a-8\\end{bmatrix}",
+    "note": "矩陣乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\a&-8\\\\end{bmatrix}\\\\begin{bmatrix}1\\\\\\\\1\\\\end{bmatrix}=\\\\begin{bmatrix}1\\\\\\\\a-8\\\\end{bmatrix}\",\"note\":\"矩陣乘法算式\"}\n",
+    "ts": "2026-04-30T00:57:52.634971+00:00",
+    "engine": "codex"
+  },
+  "image_c680e1fff9a244.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1\\\\3\\end{bmatrix}",
+    "note": "二維列向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1\\\\\\\\3\\\\end{bmatrix}\",\"note\":\"二維列向量\"}\n",
+    "ts": "2026-04-30T00:57:53.472508+00:00",
+    "engine": "codex"
+  },
+  "image_c7ee38a2763e80.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&3\\\\5&7\\end{bmatrix}",
+    "note": "2 by 2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&3\\\\\\\\5&7\\\\end{bmatrix}\",\"note\":\"2 by 2 matrix\"}\n",
+    "ts": "2026-04-30T00:57:57.075310+00:00",
+    "engine": "codex"
+  },
+  "image_ca0430a845c00b.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC的記號\"}\n",
+    "ts": "2026-04-30T00:57:58.657886+00:00",
+    "engine": "codex"
+  },
+  "image_cdae3b70e8da0e.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}0&1\\\\1&0\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}0&1\\\\\\\\1&0\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:57:58.872282+00:00",
+    "engine": "codex"
+  },
+  "image_d2829fa26593f2.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&3\\\\0&1\\end{bmatrix}",
+    "note": "2x2矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&3\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2x2矩陣\"}\n",
+    "ts": "2026-04-30T00:58:04.764029+00:00",
+    "engine": "codex"
+  },
+  "image_d3293598cd60a9.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}-0.2 & 0.7 \\\\ 1.2 & 0.3\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}-0.2 & 0.7 \\\\\\\\ 1.2 & 0.3\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:58:05.021189+00:00",
+    "engine": "codex"
+  },
+  "image_d12cc8d37b9b85.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\frac{1}{\\sqrt{2}}&\\frac{1}{\\sqrt{2}}\\\\\\frac{1}{\\sqrt{2}}&-\\frac{1}{\\sqrt{2}}\\end{bmatrix}=\\begin{bmatrix}\\cos45^\\circ&\\sin45^\\circ\\\\\\sin45^\\circ&-\\cos45^\\circ\\end{bmatrix}",
+    "note": "矩陣與三角函數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\frac{1}{\\\\sqrt{2}}&\\\\frac{1}{\\\\sqrt{2}}\\\\\\\\\\\\frac{1}{\\\\sqrt{2}}&-\\\\frac{1}{\\\\sqrt{2}}\\\\end{bmatrix}=\\\\begin{bmatrix}\\\\cos45^\\\\circ&\\\\sin45^\\\\circ\\\\\\\\\\\\sin45^\\\\circ&-\\\\cos45^\\\\circ\\\\end{bmatrix}\",\"note\":\"矩陣與三角函數表示\"}\n",
+    "ts": "2026-04-30T00:58:05.719033+00:00",
+    "engine": "codex"
+  },
+  "image_d4fd223606577c.png": {
+    "classification": "formula",
+    "latex": "(3,4)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,4)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T00:58:10.989614+00:00",
+    "engine": "codex"
+  },
+  "image_d5b501269e4c50.png": {
+    "classification": "formula",
+    "latex": "M=\\begin{bmatrix}-14&2\\\\-3&4\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M=\\\\begin{bmatrix}-14&2\\\\\\\\-3&4\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T00:58:11.811142+00:00",
+    "engine": "codex"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數字母 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數字母 C\"}\n",
+    "ts": "2026-04-30T00:58:13.321345+00:00",
+    "engine": "codex"
+  },
+  "image_dc7038fa3786ec.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "空白表格或作圖框線",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"空白表格或作圖框線\"}\n",
+    "ts": "2026-04-30T00:58:16.558763+00:00",
+    "engine": "codex"
+  },
+  "image_dc9e23216ca350.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段 AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段 AB\"}\n",
+    "ts": "2026-04-30T00:58:17.929002+00:00",
+    "engine": "codex"
+  },
+  "image_c622a452a526fa.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "座標幾何圖，含 A(0,0)、B(4,2) 等標籤",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"座標幾何圖，含 A(0,0)、B(4,2) 等標籤\"}\n",
+    "ts": "2026-04-30T00:58:18.379700+00:00",
+    "engine": "codex"
+  },
+  "image_df3cbc1899c92c.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix}\\cos20^\\circ&\\sin20^\\circ\\\\\\sin20^\\circ&-\\cos20^\\circ\\end{vmatrix}=|-\\cos^2 20^\\circ-\\sin^2 20^\\circ|=|-1|=1",
+    "note": "二階行列式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix}\\\\cos20^\\\\circ&\\\\sin20^\\\\circ\\\\\\\\\\\\sin20^\\\\circ&-\\\\cos20^\\\\circ\\\\end{vmatrix}=|-\\\\cos^2 20^\\\\circ-\\\\sin^2 20^\\\\circ|=|-1|=1\",\"note\":\"二階行列式計算\"}\n",
+    "ts": "2026-04-30T00:58:20.696871+00:00",
+    "engine": "codex"
+  },
+  "image_e218c4375cb7fe.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\cos20^\\circ&-\\sin20^\\circ\\\\\\sin20^\\circ&\\cos20^\\circ\\end{bmatrix}",
+    "note": "旋轉矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\cos20^\\\\circ&-\\\\sin20^\\\\circ\\\\\\\\\\\\sin20^\\\\circ&\\\\cos20^\\\\circ\\\\end{bmatrix}\",\"note\":\"旋轉矩陣\"}\n",
+    "ts": "2026-04-30T00:58:26.057363+00:00",
+    "engine": "codex"
+  },
+  "image_e2401cdf980834.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&-1\\\\-1&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&-1\\\\\\\\-1&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:58:28.133247+00:00",
+    "engine": "codex"
+  },
+  "image_e1821cbd58412c.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{vmatrix}2&0\\\\0&3\\end{vmatrix}\\right|=|6|=6",
+    "note": "行列式絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{vmatrix}2&0\\\\\\\\0&3\\\\end{vmatrix}\\\\right|=|6|=6\",\"note\":\"行列式絕對值計算\"}\n",
+    "ts": "2026-04-30T00:58:29.690689+00:00",
+    "engine": "codex"
+  },
+  "image_e48f18b86804d0.png": {
+    "classification": "formula",
+    "latex": "B(4,2)",
+    "note": "點B座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(4,2)\",\"note\":\"點B座標\"}\n",
+    "ts": "2026-04-30T00:58:31.079569+00:00",
+    "engine": "codex"
+  },
+  "image_e22a64b7ff5109.png": {
+    "classification": "formula",
+    "latex": "A=\\begin{bmatrix}3&0\\\\0&\\frac{1}{3}\\end{bmatrix}",
+    "note": "矩陣等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\begin{bmatrix}3&0\\\\\\\\0&\\\\frac{1}{3}\\\\end{bmatrix}\",\"note\":\"矩陣等式\"}\n",
+    "ts": "2026-04-30T00:58:32.853297+00:00",
+    "engine": "codex"
+  },
+  "image_e6457366091e7a.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "triangle ABC notation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"triangle ABC notation\"}\n",
+    "ts": "2026-04-30T00:58:35.001579+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數A\"}\n",
+    "ts": "2026-04-30T00:58:37.653629+00:00",
+    "engine": "codex"
+  },
+  "image_e78d67043309b6.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{vmatrix}1&2\\\\0&1\\end{vmatrix}\\right|=\\left|1\\right|=1",
+    "note": "行列式絕對值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{vmatrix}1&2\\\\\\\\0&1\\\\end{vmatrix}\\\\right|=\\\\left|1\\\\right|=1\",\"note\":\"行列式絕對值計算\"}\n",
+    "ts": "2026-04-30T00:58:38.604645+00:00",
+    "engine": "codex"
+  },
+  "image_e83636ef3240b7.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}\\dfrac{1}{2}&3\\\\0&4\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}\\\\dfrac{1}{2}&3\\\\\\\\0&4\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:58:38.887561+00:00",
+    "engine": "codex"
+  },
+  "image_f09fa87697cdb1.png": {
+    "classification": "formula",
+    "latex": "14",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"14\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-30T00:58:43.963994+00:00",
+    "engine": "codex"
+  },
+  "image_eb9c58afd9cc87.png": {
+    "classification": "formula",
+    "latex": "\\left|\\begin{matrix}3&0\\\\0&-2\\end{matrix}\\right|=\\left|-6-0\\right|=6",
+    "note": "二階行列式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\begin{matrix}3&0\\\\\\\\0&-2\\\\end{matrix}\\\\right|=\\\\left|-6-0\\\\right|=6\",\"note\":\"二階行列式計算\"}\n",
+    "ts": "2026-04-30T00:58:44.290904+00:00",
+    "engine": "codex"
+  },
+  "image_ed04aa38b1c0d2.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}=-\\frac{3}{5}",
+    "note": "分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}=-\\\\frac{3}{5}\",\"note\":\"分數等式\"}\n",
+    "ts": "2026-04-30T00:58:45.064530+00:00",
+    "engine": "codex"
+  },
+  "image_ef2cee220472ff.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&\\frac{2}{3}\\\\0&1\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&\\\\frac{2}{3}\\\\\\\\0&1\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:58:45.455413+00:00",
+    "engine": "codex"
+  },
+  "image_f115c8ec53a3b4.png": {
+    "classification": "formula",
+    "latex": "2a-24=4",
+    "note": "一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2a-24=4\",\"note\":\"一次方程式\"}\n",
+    "ts": "2026-04-30T00:58:48.333324+00:00",
+    "engine": "codex"
+  },
+  "image_f966e190b9e2a4.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{2}",
+    "note": "根號2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{2}\",\"note\":\"根號2\"}\n",
+    "ts": "2026-04-30T00:58:50.123144+00:00",
+    "engine": "codex"
+  },
+  "image_f44bef739f5802.png": {
+    "classification": "formula",
+    "latex": "=\\left|\\cos^2 30^\\circ-\\sin^2 30^\\circ\\right|=\\frac{1}{2}",
+    "note": "三角函數絕對值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left|\\\\cos^2 30^\\\\circ-\\\\sin^2 30^\\\\circ\\\\right|=\\\\frac{1}{2}\",\"note\":\"三角函數絕對值計算式\"}\n",
+    "ts": "2026-04-30T00:58:51.323742+00:00",
+    "engine": "codex"
+  },
+  "image_fb4211a036d247.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\times\\left|\\begin{matrix}-9&-6\\\\-3&-10\\end{matrix}\\right|=36",
+    "note": "二階行列式計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\times\\\\left|\\\\begin{matrix}-9&-6\\\\\\\\-3&-10\\\\end{matrix}\\\\right|=36\",\"note\":\"二階行列式計算式\"}\n",
+    "ts": "2026-04-30T00:58:52.130664+00:00",
+    "engine": "codex"
+  },
+  "image_fc1e5446803ba3.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&0\\\\a&-8\\end{bmatrix}",
+    "note": "2x2 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&0\\\\\\\\a&-8\\\\end{bmatrix}\",\"note\":\"2x2 matrix\"}\n",
+    "ts": "2026-04-30T00:58:55.307417+00:00",
+    "engine": "codex"
+  },
+  "image_fb738a8f5afa08.png": {
+    "classification": "formula",
+    "latex": "2\\left(A^2+B^2\\right)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\left(A^2+B^2\\\\right)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T00:58:56.581194+00:00",
+    "engine": "codex"
+  },
+  "image_fe68a684412312.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=\\overline{BC}",
+    "note": "線段AB等於線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=\\\\overline{BC}\",\"note\":\"線段AB等於線段BC\"}\n",
+    "ts": "2026-04-30T00:58:57.076683+00:00",
+    "engine": "codex"
+  }
+}

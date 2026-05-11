@@ -1,0 +1,634 @@
+{
+  "image_0d01fc7de2a2f1.png": {
+    "classification": "formula",
+    "latex": "PA",
+    "note": "兩個變數相乘或線段 PA",
+    "raw": "{\"class\":\"formula\",\"latex\":\"PA\",\"note\":\"兩個變數相乘或線段 PA\"}\n",
+    "ts": "2026-04-29T05:39:50.632359+00:00",
+    "engine": "codex"
+  },
+  "image_0d0e2089fa889c.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一變數字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一變數字母\"}\n",
+    "ts": "2026-04-29T05:39:52.233757+00:00",
+    "engine": "codex"
+  },
+  "image_025467160b3e3a.png": {
+    "classification": "formula",
+    "latex": "f(2)=-5",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(2)=-5\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T05:39:52.697429+00:00",
+    "engine": "codex"
+  },
+  "image_0090a0875cf978.png": {
+    "classification": "formula",
+    "latex": "(x_1,y_1)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x_1,y_1)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-29T05:39:53.259609+00:00",
+    "engine": "codex"
+  },
+  "image_0e7359a257806b.png": {
+    "classification": "formula",
+    "latex": "\\overline{PB}",
+    "note": "線段PB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PB}\",\"note\":\"線段PB\"}\n",
+    "ts": "2026-04-29T05:39:56.693771+00:00",
+    "engine": "codex"
+  },
+  "image_10e7ead276f2f4.png": {
+    "classification": "formula",
+    "latex": "x_2-x_1=1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_2-x_1=1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T05:39:58.405163+00:00",
+    "engine": "codex"
+  },
+  "image_0fdf8dc2557853.png": {
+    "classification": "formula",
+    "latex": "\\frac{b^2-4ac}{-4a}",
+    "note": "純數學分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b^2-4ac}{-4a}\",\"note\":\"純數學分式\"}\n",
+    "ts": "2026-04-29T05:40:00.323411+00:00",
+    "engine": "codex"
+  },
+  "image_146a5143e72a90.png": {
+    "classification": "formula",
+    "latex": "a>0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a>0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T05:40:00.733895+00:00",
+    "engine": "codex"
+  },
+  "image_1596cdb076b79f.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "水平箭頭與文字標示：再向下平移1單位",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"水平箭頭與文字標示：再向下平移1單位\"}\n",
+    "ts": "2026-04-29T05:40:02.213578+00:00",
+    "engine": "codex"
+  },
+  "image_1f7a00795df760.png": {
+    "classification": "formula",
+    "latex": "k>\\frac{3}{2}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k>\\\\frac{3}{2}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:03.231427+00:00",
+    "engine": "codex"
+  },
+  "image_2211b472ff1eb6.png": {
+    "classification": "formula",
+    "latex": "y=-3x+1",
+    "note": "一次函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-3x+1\",\"note\":\"一次函數方程式\"}\n",
+    "ts": "2026-04-29T05:40:05.390014+00:00",
+    "engine": "codex"
+  },
+  "image_2313cf70a18ad4.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-29T05:40:05.509697+00:00",
+    "engine": "codex"
+  },
+  "image_243942b03ed985.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直線圖，標示 f(x)=-2x-6 與截距",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直線圖，標示 f(x)=-2x-6 與截距\"}\n",
+    "ts": "2026-04-29T05:40:07.289026+00:00",
+    "engine": "codex"
+  },
+  "image_29b57958b3be4d.png": {
+    "classification": "formula",
+    "latex": "f(x)=ax+b",
+    "note": "一次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=ax+b\",\"note\":\"一次函數公式\"}\n",
+    "ts": "2026-04-29T05:40:11.433332+00:00",
+    "engine": "codex"
+  },
+  "image_2a78574fe05453.png": {
+    "classification": "formula",
+    "latex": "\\frac{-b}{2a}<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-b}{2a}<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:12.129242+00:00",
+    "engine": "codex"
+  },
+  "image_2853a68380fc24.png": {
+    "classification": "formula",
+    "latex": "f(3)=3",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=3\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T05:40:12.485592+00:00",
+    "engine": "codex"
+  },
+  "image_2fe282fc2eb6ac.png": {
+    "classification": "formula",
+    "latex": "f(3)=8",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=8\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T05:40:14.201992+00:00",
+    "engine": "codex"
+  },
+  "image_4d1db3adf1da35.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "右向箭頭，標示向右平移3單位",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"右向箭頭，標示向右平移3單位\"}\n",
+    "ts": "2026-04-29T05:40:20.347539+00:00",
+    "engine": "codex"
+  },
+  "image_4a30c8ceff17c4.png": {
+    "classification": "formula",
+    "latex": "\\frac{-b}{2a},\\frac{b^2-4ac}{-4a}",
+    "note": "兩個代數分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-b}{2a},\\\\frac{b^2-4ac}{-4a}\",\"note\":\"兩個代數分式\"}\n",
+    "ts": "2026-04-29T05:40:20.476135+00:00",
+    "engine": "codex"
+  },
+  "image_4d30d040618830.png": {
+    "classification": "formula",
+    "latex": "(0,c)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,c)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-29T05:40:20.791249+00:00",
+    "engine": "codex"
+  },
+  "image_3cf6f7e6ce0953.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "拋物線圖，標示對稱軸 x=-b/(2a)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"拋物線圖，標示對稱軸 x=-b/(2a)\"}\n",
+    "ts": "2026-04-29T05:40:21.724359+00:00",
+    "engine": "codex"
+  },
+  "image_4f8d9452871858.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "coordinate plane with points A-E and label P(2,3)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"coordinate plane with points A-E and label P(2,3)\"}\n",
+    "ts": "2026-04-29T05:40:24.837190+00:00",
+    "engine": "codex"
+  },
+  "image_55d54167da1087.png": {
+    "classification": "formula",
+    "latex": "0<k<\\frac{3}{2}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0<k<\\\\frac{3}{2}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:26.928486+00:00",
+    "engine": "codex"
+  },
+  "image_4e54ba3487efd8.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的直線，標示點(2,5)與(-1,-1)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的直線，標示點(2,5)與(-1,-1)\"}\n",
+    "ts": "2026-04-29T05:40:27.936929+00:00",
+    "engine": "codex"
+  },
+  "image_53e113f994c5bc.png": {
+    "classification": "formula",
+    "latex": "\\frac{y_2-y_1}{x_2-x_1}=-3",
+    "note": "斜率公式等於-3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{y_2-y_1}{x_2-x_1}=-3\",\"note\":\"斜率公式等於-3\"}\n",
+    "ts": "2026-04-29T05:40:29.014626+00:00",
+    "engine": "codex"
+  },
+  "image_56c084e293d9dd.png": {
+    "classification": "formula",
+    "latex": "k<\\frac{9}{4}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k<\\\\frac{9}{4}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:31.490511+00:00",
+    "engine": "codex"
+  },
+  "image_57ce6a1d5fc48c.png": {
+    "classification": "formula",
+    "latex": "-3",
+    "note": "負三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3\",\"note\":\"負三\"}\n",
+    "ts": "2026-04-29T05:40:32.965316+00:00",
+    "engine": "codex"
+  },
+  "image_6517f260281314.png": {
+    "classification": "formula",
+    "latex": "f(3)=-3\\times3+1=-8",
+    "note": "函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=-3\\\\times3+1=-8\",\"note\":\"函數值計算式\"}\n",
+    "ts": "2026-04-29T05:40:34.469096+00:00",
+    "engine": "codex"
+  },
+  "image_5d2a1fbb04bedb.png": {
+    "classification": "formula",
+    "latex": "\\frac{-b}{2a}>0",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-b}{2a}>0\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-29T05:40:34.822399+00:00",
+    "engine": "codex"
+  },
+  "image_6871303c47464d.png": {
+    "classification": "formula",
+    "latex": "\\frac{-b}{2a}<0",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-b}{2a}<0\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-29T05:40:38.390591+00:00",
+    "engine": "codex"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-04-29T05:40:40.349869+00:00",
+    "engine": "codex"
+  },
+  "image_665ad6d81f526c.png": {
+    "classification": "formula",
+    "latex": "f(3)=a+1=3",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(3)=a+1=3\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T05:40:40.435033+00:00",
+    "engine": "codex"
+  },
+  "image_6964215d8ed4b1.png": {
+    "classification": "formula",
+    "latex": "k > \\frac{9}{4}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k > \\\\frac{9}{4}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:42.142619+00:00",
+    "engine": "codex"
+  },
+  "image_762a1e5e8952a8.png": {
+    "classification": "formula",
+    "latex": "\\frac{-b}{2a}<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-b}{2a}<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:43.450840+00:00",
+    "engine": "codex"
+  },
+  "image_78c54a21bd7d5a.png": {
+    "classification": "formula",
+    "latex": "c>0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c>0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:45.883635+00:00",
+    "engine": "codex"
+  },
+  "image_79eb5763ad8c2a.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標軸與向下開口拋物線，標有x、y、O",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標軸與向下開口拋物線，標有x、y、O\"}\n",
+    "ts": "2026-04-29T05:40:46.626808+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-29T05:40:48.885142+00:00",
+    "engine": "codex"
+  },
+  "image_7ce7b56a3df6bf.png": {
+    "classification": "formula",
+    "latex": "0<k<\\frac{9}{4}",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0<k<\\\\frac{9}{4}\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T05:40:49.643328+00:00",
+    "engine": "codex"
+  },
+  "image_8196e025ce0b94.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上標示點A、B、C、D、E、P",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上標示點A、B、C、D、E、P\"}\n",
+    "ts": "2026-04-29T05:40:51.379302+00:00",
+    "engine": "codex"
+  },
+  "image_85ba92e85b075e.png": {
+    "classification": "formula",
+    "latex": "a=2",
+    "note": "等式 a=2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=2\",\"note\":\"等式 a=2\"}\n",
+    "ts": "2026-04-29T05:40:52.931373+00:00",
+    "engine": "codex"
+  },
+  "image_8d7f9dc90f4a76.png": {
+    "classification": "formula",
+    "latex": "\\frac{f(9)-f(7)}{9-7}",
+    "note": "函數值差商",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{f(9)-f(7)}{9-7}\",\"note\":\"函數值差商\"}\n",
+    "ts": "2026-04-29T05:40:54.037539+00:00",
+    "engine": "codex"
+  },
+  "image_962fbf04335f79.png": {
+    "classification": "formula",
+    "latex": "a、b、c",
+    "note": "三個變數以頓號分隔",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a、b、c\",\"note\":\"三個變數以頓號分隔\"}\n",
+    "ts": "2026-04-29T05:40:58.133990+00:00",
+    "engine": "codex"
+  },
+  "image_9643bd837a7524.png": {
+    "classification": "formula",
+    "latex": "PD",
+    "note": "線段或變數標記 PD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"PD\",\"note\":\"線段或變數標記 PD\"}\n",
+    "ts": "2026-04-29T05:40:58.235924+00:00",
+    "engine": "codex"
+  },
+  "image_992788112733b9.png": {
+    "classification": "formula",
+    "latex": "-3<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:40:58.776097+00:00",
+    "engine": "codex"
+  },
+  "image_98486aaea1cb8d.png": {
+    "classification": "formula",
+    "latex": "a \\neq 0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\neq 0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T05:40:59.363689+00:00",
+    "engine": "codex"
+  },
+  "image_a1582d884af716.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一斜體變數 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一斜體變數 B\"}\n",
+    "ts": "2026-04-29T05:41:02.919119+00:00",
+    "engine": "codex"
+  },
+  "image_a20c6fa52adcbb.png": {
+    "classification": "formula",
+    "latex": "f(x)=-3x+1",
+    "note": "一次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-3x+1\",\"note\":\"一次函數公式\"}\n",
+    "ts": "2026-04-29T05:41:03.878580+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字1\"}\n",
+    "ts": "2026-04-29T05:41:06.629832+00:00",
+    "engine": "codex"
+  },
+  "image_a9e38efd4dc709.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數 A\"}\n",
+    "ts": "2026-04-29T05:41:08.257349+00:00",
+    "engine": "codex"
+  },
+  "image_aae915367aa0e7.png": {
+    "classification": "formula",
+    "latex": "\\Gamma",
+    "note": "大寫希臘字母 Gamma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma\",\"note\":\"大寫希臘字母 Gamma\"}\n",
+    "ts": "2026-04-29T05:41:08.813585+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-29T05:41:09.571421+00:00",
+    "engine": "codex"
+  },
+  "image_aff35013a2ecd4.png": {
+    "classification": "formula",
+    "latex": "\\frac{b^2-4ac}{-4a}>0",
+    "note": "二次式判別式相關不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b^2-4ac}{-4a}>0\",\"note\":\"二次式判別式相關不等式\"}\n",
+    "ts": "2026-04-29T05:41:13.889557+00:00",
+    "engine": "codex"
+  },
+  "image_ab97859412d6ed.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的拋物線，標示截距(-2,0)、(1/2,0)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的拋物線，標示截距(-2,0)、(1/2,0)\"}\n",
+    "ts": "2026-04-29T05:41:14.048302+00:00",
+    "engine": "codex"
+  },
+  "image_b048802370eef9.png": {
+    "classification": "formula",
+    "latex": "y_2-y_1=-3(x_2-x_1)=-3",
+    "note": "斜率關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_2-y_1=-3(x_2-x_1)=-3\",\"note\":\"斜率關係式\"}\n",
+    "ts": "2026-04-29T05:41:14.947388+00:00",
+    "engine": "codex"
+  },
+  "image_b812ce152b90b4.png": {
+    "classification": "formula",
+    "latex": "y=ax^2+bx+c",
+    "note": "二次函數的一般式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=ax^2+bx+c\",\"note\":\"二次函數的一般式\"}\n",
+    "ts": "2026-04-29T05:41:19.860342+00:00",
+    "engine": "codex"
+  },
+  "image_ba06f3675daadc.png": {
+    "classification": "formula",
+    "latex": "f(1)=2+1=3",
+    "note": "函數值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=2+1=3\",\"note\":\"函數值計算式\"}\n",
+    "ts": "2026-04-29T05:41:20.219091+00:00",
+    "engine": "codex"
+  },
+  "image_bcf42d310e89b7.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-04-29T05:41:22.802632+00:00",
+    "engine": "codex"
+  },
+  "image_beafa6c5476f91.png": {
+    "classification": "formula",
+    "latex": "a<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:41:25.695161+00:00",
+    "engine": "codex"
+  },
+  "image_ba2bb6fff5ccde.png": {
+    "classification": "formula",
+    "latex": "\\overline{PE}",
+    "note": "線段PE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PE}\",\"note\":\"線段PE\"}\n",
+    "ts": "2026-04-29T05:41:26.603236+00:00",
+    "engine": "codex"
+  },
+  "image_bf25514ec0cb0c.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的拋物線，標示點(0,c)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的拋物線，標示點(0,c)\"}\n",
+    "ts": "2026-04-29T05:41:26.765676+00:00",
+    "engine": "codex"
+  },
+  "image_bfb37295c1a54b.png": {
+    "classification": "formula",
+    "latex": "L",
+    "note": "單一字母變數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L\",\"note\":\"單一字母變數\"}\n",
+    "ts": "2026-04-29T05:41:27.686596+00:00",
+    "engine": "codex"
+  },
+  "image_c170e6c5e17f8a.png": {
+    "classification": "formula",
+    "latex": "\\frac{b^2-4ac}{-4a}<0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b^2-4ac}{-4a}<0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:41:31.759547+00:00",
+    "engine": "codex"
+  },
+  "image_c49641fb5f76f6.png": {
+    "classification": "formula",
+    "latex": "x_2,y_2",
+    "note": "座標點的兩個分量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_2,y_2\",\"note\":\"座標點的兩個分量\"}\n",
+    "ts": "2026-04-29T05:41:33.660247+00:00",
+    "engine": "codex"
+  },
+  "image_c73ec14a6e332f.png": {
+    "classification": "formula",
+    "latex": "f(x)=2(x-2)^2+1",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2(x-2)^2+1\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-04-29T05:41:34.351867+00:00",
+    "engine": "codex"
+  },
+  "image_c235004dac6e49.png": {
+    "classification": "formula",
+    "latex": "y=-\\frac{1}{3}x^2",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-\\\\frac{1}{3}x^2\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-04-29T05:41:37.899815+00:00",
+    "engine": "codex"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "單一變數字母 D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"單一變數字母 D\"}\n",
+    "ts": "2026-04-29T05:41:37.932654+00:00",
+    "engine": "codex"
+  },
+  "image_d16b3d6d30c4d1.png": {
+    "classification": "formula",
+    "latex": "b^2-4ac>0",
+    "note": "判別式大於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b^2-4ac>0\",\"note\":\"判別式大於0\"}\n",
+    "ts": "2026-04-29T05:41:40.856825+00:00",
+    "engine": "codex"
+  },
+  "image_ccdea623b2fa86.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數符號\"}\n",
+    "ts": "2026-04-29T05:41:42.454158+00:00",
+    "engine": "codex"
+  },
+  "image_d3704c6cd1bf63.png": {
+    "classification": "formula",
+    "latex": "f(x)=a(x-2)^2+1",
+    "note": "二次函數頂點式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=a(x-2)^2+1\",\"note\":\"二次函數頂點式\"}\n",
+    "ts": "2026-04-29T05:41:43.908109+00:00",
+    "engine": "codex"
+  },
+  "image_d6d8d422836202.png": {
+    "classification": "formula",
+    "latex": "f(1)",
+    "note": "函數值符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)\",\"note\":\"函數值符號\"}\n",
+    "ts": "2026-04-29T05:41:45.812053+00:00",
+    "engine": "codex"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一字母變數 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一字母變數 C\"}\n",
+    "ts": "2026-04-29T05:41:47.341571+00:00",
+    "engine": "codex"
+  },
+  "image_e25a55dca429b9.png": {
+    "classification": "formula",
+    "latex": "x=2",
+    "note": "方程式 x 等於 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=2\",\"note\":\"方程式 x 等於 2\"}\n",
+    "ts": "2026-04-29T05:41:51.254462+00:00",
+    "engine": "codex"
+  },
+  "image_dd3ae565dff422.png": {
+    "classification": "formula",
+    "latex": "PE",
+    "note": "兩個斜體字母 P、E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"PE\",\"note\":\"兩個斜體字母 P、E\"}\n",
+    "ts": "2026-04-29T05:41:51.270822+00:00",
+    "engine": "codex"
+  },
+  "image_d58e092d4f734d.png": {
+    "classification": "formula",
+    "latex": "c<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:41:52.206314+00:00",
+    "engine": "codex"
+  },
+  "image_e73806d2cab971.png": {
+    "classification": "formula",
+    "latex": "\\left\\{\\begin{aligned}f(1)&=a+b=-2\\\\f(2)&=2a+b=-5\\end{aligned}\\right.\\Rightarrow\\left\\{\\begin{aligned}a&=-3,\\\\b&=1,\\end{aligned}\\right.",
+    "note": "由兩式解得a與b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\{\\\\begin{aligned}f(1)&=a+b=-2\\\\\\\\f(2)&=2a+b=-5\\\\end{aligned}\\\\right.\\\\Rightarrow\\\\left\\\\{\\\\begin{aligned}a&=-3,\\\\\\\\b&=1,\\\\end{aligned}\\\\right.\",\"note\":\"由兩式解得a與b\"}\n",
+    "ts": "2026-04-29T05:41:55.242030+00:00",
+    "engine": "codex"
+  },
+  "image_e96cf7da53b36c.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的二次函數圖形，標示截距",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的二次函數圖形，標示截距\"}\n",
+    "ts": "2026-04-29T05:41:56.671851+00:00",
+    "engine": "codex"
+  },
+  "image_f087bb27f10070.png": {
+    "classification": "formula",
+    "latex": "PC",
+    "note": "兩個變數字母 PC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"PC\",\"note\":\"兩個變數字母 PC\"}\n",
+    "ts": "2026-04-29T05:41:58.087535+00:00",
+    "engine": "codex"
+  },
+  "image_e93772dd627aec.png": {
+    "classification": "formula",
+    "latex": "f(1)=-2",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(1)=-2\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-29T05:41:58.361632+00:00",
+    "engine": "codex"
+  },
+  "image_f5db3334067c6e.png": {
+    "classification": "formula",
+    "latex": "\\frac{b}{2a}",
+    "note": "分式 b over 2a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{b}{2a}\",\"note\":\"分式 b over 2a\"}\n",
+    "ts": "2026-04-29T05:42:00.537602+00:00",
+    "engine": "codex"
+  }
+}

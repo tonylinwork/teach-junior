@@ -1,0 +1,26 @@
+{
+  "image_1b277f2b1925b4.png": {
+    "classification": "formula",
+    "latex": "\\overline{PA}+\\overline{PB}",
+    "note": "線段長度相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PA}+\\\\overline{PB}\",\"note\":\"線段長度相加\"}\n",
+    "ts": "2026-05-06T00:46:28.886513+00:00",
+    "engine": "codex"
+  },
+  "image_40159a2a524e4b.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{(x+5)^2+(y+4)^2+25}+\\sqrt{(x-3)^2+(y-5)^2+49}",
+    "note": "兩個平方根相加的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{(x+5)^2+(y+4)^2+25}+\\\\sqrt{(x-3)^2+(y-5)^2+49}\",\"note\":\"兩個平方根相加的代數式\"}\n",
+    "ts": "2026-05-06T00:46:29.730352+00:00",
+    "engine": "codex"
+  },
+  "image_8e4b979b790f81.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=\\sqrt{(-5-3)^2+(-4-5)^2+(5+7)^2}=\\sqrt{289}=17",
+    "note": "三維兩點距離計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=\\\\sqrt{(-5-3)^2+(-4-5)^2+(5+7)^2}=\\\\sqrt{289}=17\",\"note\":\"三維兩點距離計算式\"}\n",
+    "ts": "2026-05-06T00:46:31.296384+00:00",
+    "engine": "codex"
+  }
+}

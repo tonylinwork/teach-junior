@@ -1,0 +1,722 @@
+{
+  "image_11d0742c11908e.png": {
+    "classification": "formula",
+    "latex": "\\frac{8}{5}x+10",
+    "note": "一次式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{8}{5}x+10\",\"note\":\"一次式\"}\n",
+    "ts": "2026-04-30T07:13:31.662420+00:00",
+    "engine": "codex"
+  },
+  "image_02800ae80ab491.png": {
+    "classification": "formula",
+    "latex": "\\mu",
+    "note": "希臘字母 mu",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu\",\"note\":\"希臘字母 mu\"}\n",
+    "ts": "2026-04-30T07:13:31.840903+00:00",
+    "engine": "codex"
+  },
+  "image_03686f59eea0e0.png": {
+    "classification": "formula",
+    "latex": "y_2=\\frac{8}{5}x_2+10",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_2=\\\\frac{8}{5}x_2+10\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-04-30T07:13:32.848339+00:00",
+    "engine": "codex"
+  },
+  "image_0f564d4f285fe0.png": {
+    "classification": "formula",
+    "latex": "a=\\frac{9}{8}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\frac{9}{8}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T07:13:34.005955+00:00",
+    "engine": "codex"
+  },
+  "image_146b11ee01fe9a.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直方圖，區間10-60及頻數標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直方圖，區間10-60及頻數標示\"}\n",
+    "ts": "2026-04-30T07:13:35.541646+00:00",
+    "engine": "codex"
+  },
+  "image_1432ada651de95.png": {
+    "classification": "formula",
+    "latex": "x_1^2+x_2^2+\\cdots+x_{10}^2=970",
+    "note": "平方和等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_1^2+x_2^2+\\\\cdots+x_{10}^2=970\",\"note\":\"平方和等式\"}\n",
+    "ts": "2026-04-30T07:13:37.369370+00:00",
+    "engine": "codex"
+  },
+  "image_1a47b4be3e208c.png": {
+    "classification": "formula",
+    "latex": "y=\\frac{9}{8}x+6",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\frac{9}{8}x+6\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T07:13:38.533953+00:00",
+    "engine": "codex"
+  },
+  "image_1b95c0b57e4f40.png": {
+    "classification": "formula",
+    "latex": "=\\dfrac{1}{10}\\times(80+65+\\cdots+65)=65",
+    "note": "等差或平均計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\dfrac{1}{10}\\\\times(80+65+\\\\cdots+65)=65\",\"note\":\"等差或平均計算式\"}\n",
+    "ts": "2026-04-30T07:13:38.608763+00:00",
+    "engine": "codex"
+  },
+  "image_1fe2eff4410f9d.png": {
+    "classification": "formula",
+    "latex": "=4",
+    "note": "等號與數字4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=4\",\"note\":\"等號與數字4\"}\n",
+    "ts": "2026-04-30T07:13:42.650125+00:00",
+    "engine": "codex"
+  },
+  "image_1dd04abc7c85f4.png": {
+    "classification": "formula",
+    "latex": "y_i=\\frac{1}{2}x_i+40<60\\Rightarrow x_i<40",
+    "note": "不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_i=\\\\frac{1}{2}x_i+40<60\\\\Rightarrow x_i<40\",\"note\":\"不等式推導\"}\n",
+    "ts": "2026-04-30T07:13:42.839498+00:00",
+    "engine": "codex"
+  },
+  "image_2095aec5decb86.png": {
+    "classification": "formula",
+    "latex": "x_{10}",
+    "note": "變數 x 下標 10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_{10}\",\"note\":\"變數 x 下標 10\"}\n",
+    "ts": "2026-04-30T07:13:42.934310+00:00",
+    "engine": "codex"
+  },
+  "image_1cd88d314512dc.png": {
+    "classification": "formula",
+    "latex": "\\sigma=\\sqrt{\\frac{73000-15\\times68^2}{15}}=\\sqrt{\\frac{3640}{15}}=\\sqrt{\\frac{728}{3}}\\approx\\sqrt{243}",
+    "note": "標準差計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma=\\\\sqrt{\\\\frac{73000-15\\\\times68^2}{15}}=\\\\sqrt{\\\\frac{3640}{15}}=\\\\sqrt{\\\\frac{728}{3}}\\\\approx\\\\sqrt{243}\",\"note\":\"標準差計算式\"}\n",
+    "ts": "2026-04-30T07:13:43.358007+00:00",
+    "engine": "codex"
+  },
+  "image_25dcdb939635d2.png": {
+    "classification": "formula",
+    "latex": "\\mu_x = (68 - 40) \\times 2 = 56",
+    "note": "平均數平移倍數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_x = (68 - 40) \\\\times 2 = 56\",\"note\":\"平均數平移倍數計算式\"}\n",
+    "ts": "2026-04-30T07:13:47.444225+00:00",
+    "engine": "codex"
+  },
+  "image_2758aa94a7aee5.png": {
+    "classification": "formula",
+    "latex": "y_2-y_1=\\frac{8}{5}(x_2-x_1)>0",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_2-y_1=\\\\frac{8}{5}(x_2-x_1)>0\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T07:13:48.502807+00:00",
+    "engine": "codex"
+  },
+  "image_28c6886b013bcd.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{2(x_1+x_2+\\cdots+x_{10})}{20}",
+    "note": "平均數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{2(x_1+x_2+\\\\cdots+x_{10})}{20}\",\"note\":\"平均數公式\"}\n",
+    "ts": "2026-04-30T07:13:48.643684+00:00",
+    "engine": "codex"
+  },
+  "image_231277cf5ac65d.png": {
+    "classification": "formula",
+    "latex": "+x_2^2+\\cdots+x_{10}^2",
+    "note": "多項平方和的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+x_2^2+\\\\cdots+x_{10}^2\",\"note\":\"多項平方和的一部分\"}\n",
+    "ts": "2026-04-30T07:13:49.136296+00:00",
+    "engine": "codex"
+  },
+  "image_2e369c4a1793a4.png": {
+    "classification": "formula",
+    "latex": "f(9)=160",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(9)=160\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-30T07:13:52.805994+00:00",
+    "engine": "codex"
+  },
+  "image_3339b4970d8d51.png": {
+    "classification": "formula",
+    "latex": "y_2-y_1=\\frac{8}{5}(x_2-x_1)",
+    "note": "兩點斜率公式變形",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_2-y_1=\\\\frac{8}{5}(x_2-x_1)\",\"note\":\"兩點斜率公式變形\"}\n",
+    "ts": "2026-04-30T07:13:53.093754+00:00",
+    "engine": "codex"
+  },
+  "image_341da0b7076093.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow x_i \\le 80",
+    "note": "推出 x_i 小於等於 80",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow x_i \\\\le 80\",\"note\":\"推出 x_i 小於等於 80\"}\n",
+    "ts": "2026-04-30T07:13:54.457199+00:00",
+    "engine": "codex"
+  },
+  "image_308ec370be1769.png": {
+    "classification": "formula",
+    "latex": "40\\log 16+20\\approx 68",
+    "note": "對數近似算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"40\\\\log 16+20\\\\approx 68\",\"note\":\"對數近似算式\"}\n",
+    "ts": "2026-04-30T07:13:55.603787+00:00",
+    "engine": "codex"
+  },
+  "image_3ef69170f46aa0.png": {
+    "classification": "formula",
+    "latex": "y_1=\\frac{8}{5}x_1+10",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_1=\\\\frac{8}{5}x_1+10\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-04-30T07:13:57.072110+00:00",
+    "engine": "codex"
+  },
+  "image_3f6bb474989f2a.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直方圖，組距10，標示各組次數",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直方圖，組距10，標示各組次數\"}\n",
+    "ts": "2026-04-30T07:13:58.260354+00:00",
+    "engine": "codex"
+  },
+  "image_3e3eae5c5b8cb5.png": {
+    "classification": "formula",
+    "latex": "\\sigma=\\sqrt{\\frac{1}{10}\\left(x_1^2+x_2^2+\\cdots+x_{10}^2\\right)-9^2}=4",
+    "note": "標準差公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma=\\\\sqrt{\\\\frac{1}{10}\\\\left(x_1^2+x_2^2+\\\\cdots+x_{10}^2\\\\right)-9^2}=4\",\"note\":\"標準差公式\"}\n",
+    "ts": "2026-04-30T07:13:59.515245+00:00",
+    "engine": "codex"
+  },
+  "image_42e7fa027cd690.png": {
+    "classification": "formula",
+    "latex": "\\mu>50",
+    "note": "希臘字母mu大於50",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu>50\",\"note\":\"希臘字母mu大於50\"}\n",
+    "ts": "2026-04-30T07:14:01.919273+00:00",
+    "engine": "codex"
+  },
+  "image_427b53154e6ade.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{92}>9",
+    "note": "不等式計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{92}>9\",\"note\":\"不等式計算式\"}\n",
+    "ts": "2026-04-30T07:14:02.227875+00:00",
+    "engine": "codex"
+  },
+  "image_491c5f0ef0ded4.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{9}{8}x>94\\Rightarrow x>83.56",
+    "note": "不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{9}{8}x>94\\\\Rightarrow x>83.56\",\"note\":\"不等式推導\"}\n",
+    "ts": "2026-04-30T07:14:04.460613+00:00",
+    "engine": "codex"
+  },
+  "image_49c95689af6c86.png": {
+    "classification": "formula",
+    "latex": "\\sigma=\\sqrt{\\frac{1}{10}\\left[(x_1-9)^2+(x_2-9)^2+\\cdots+(x_{10}-9)^2\\right]}",
+    "note": "標準差公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma=\\\\sqrt{\\\\frac{1}{10}\\\\left[(x_1-9)^2+(x_2-9)^2+\\\\cdots+(x_{10}-9)^2\\\\right]}\",\"note\":\"標準差公式\"}\n",
+    "ts": "2026-04-30T07:14:05.381723+00:00",
+    "engine": "codex"
+  },
+  "image_501de403c08124.png": {
+    "classification": "formula",
+    "latex": "x_1",
+    "note": "變數 x 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_1\",\"note\":\"變數 x 下標 1\"}\n",
+    "ts": "2026-04-30T07:14:06.265194+00:00",
+    "engine": "codex"
+  },
+  "image_54923682c27080.png": {
+    "classification": "formula",
+    "latex": "\\sigma<10",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sigma<10\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-30T07:14:08.071100+00:00",
+    "engine": "codex"
+  },
+  "image_4d3c9ba1936385.png": {
+    "classification": "formula",
+    "latex": "=40\\log(x+1)+20",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=40\\\\log(x+1)+20\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T07:14:08.840443+00:00",
+    "engine": "codex"
+  },
+  "image_5571883cbe3602.png": {
+    "classification": "formula",
+    "latex": "+(x_{10}-x)^2",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+(x_{10}-x)^2\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T07:14:10.158778+00:00",
+    "engine": "codex"
+  },
+  "image_57ae14408eb88a.png": {
+    "classification": "formula",
+    "latex": "X",
+    "note": "單一變數 X",
+    "raw": "{\"class\":\"formula\",\"latex\":\"X\",\"note\":\"單一變數 X\"}\n",
+    "ts": "2026-04-30T07:14:11.908717+00:00",
+    "engine": "codex"
+  },
+  "image_5604aa24f0e2ba.png": {
+    "classification": "formula",
+    "latex": "=\\frac{70-60}{\\sqrt{92}}=\\frac{10}{\\sqrt{92}}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{70-60}{\\\\sqrt{92}}=\\\\frac{10}{\\\\sqrt{92}}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T07:14:12.033928+00:00",
+    "engine": "codex"
+  },
+  "image_5c647d9b03e4b2.png": {
+    "classification": "formula",
+    "latex": "=\\frac{x_1+x_2+\\cdots+x_{10}}{10}=9",
+    "note": "平均數公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{x_1+x_2+\\\\cdots+x_{10}}{10}=9\",\"note\":\"平均數公式的一部分\"}\n",
+    "ts": "2026-04-30T07:14:15.373974+00:00",
+    "engine": "codex"
+  },
+  "image_5f0db5a47f5ae4.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\text{原始分數}}{4}+55",
+    "note": "分數轉換公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\text{原始分數}}{4}+55\",\"note\":\"分數轉換公式\"}\n",
+    "ts": "2026-04-30T07:14:16.578051+00:00",
+    "engine": "codex"
+  },
+  "image_61c36512542523.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直方圖或長條圖，標示區間20至70與頻數",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直方圖或長條圖，標示區間20至70與頻數\"}\n",
+    "ts": "2026-04-30T07:14:17.025511+00:00",
+    "engine": "codex"
+  },
+  "image_6b2fc159fb1a7f.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{\\sqrt{70}}>\\frac{10}{\\sqrt{92}}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10}{\\\\sqrt{70}}>\\\\frac{10}{\\\\sqrt{92}}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T07:14:18.698749+00:00",
+    "engine": "codex"
+  },
+  "image_76bf03b8b034fd.png": {
+    "classification": "formula",
+    "latex": "\\sigma^2=\\frac{(x_1^2+x_2^2+\\cdots+x_n^2)-n\\times\\mu^2}{n}",
+    "note": "變異數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma^2=\\\\frac{(x_1^2+x_2^2+\\\\cdots+x_n^2)-n\\\\times\\\\mu^2}{n}\",\"note\":\"變異數公式\"}\n",
+    "ts": "2026-04-30T07:14:21.558088+00:00",
+    "engine": "codex"
+  },
+  "image_7772cb03664562.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x_1-\\overline{x})^2+(x_2-\\overline{x})^2+\\cdots+(x_{10}-\\overline{x})^2",
+    "note": "平方差總和函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x_1-\\\\overline{x})^2+(x_2-\\\\overline{x})^2+\\\\cdots+(x_{10}-\\\\overline{x})^2\",\"note\":\"平方差總和函數\"}\n",
+    "ts": "2026-04-30T07:14:25.347633+00:00",
+    "engine": "codex"
+  },
+  "image_6b89bcded3f313.png": {
+    "classification": "formula",
+    "latex": "f(9)>f(10)",
+    "note": "函數值不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(9)>f(10)\",\"note\":\"函數值不等式\"}\n",
+    "ts": "2026-04-30T07:14:25.527885+00:00",
+    "engine": "codex"
+  },
+  "image_78495575a8c3c2.png": {
+    "classification": "formula",
+    "latex": "+(x_{10}-9)^2=160",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+(x_{10}-9)^2=160\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T07:14:25.924910+00:00",
+    "engine": "codex"
+  },
+  "image_7ab08ae91d0532.png": {
+    "classification": "formula",
+    "latex": "= (x-x_1)^2+(x-x_2)^2+\\cdots+(x-x_{10})^2",
+    "note": "平方差和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= (x-x_1)^2+(x-x_2)^2+\\\\cdots+(x-x_{10})^2\",\"note\":\"平方差和\"}\n",
+    "ts": "2026-04-30T07:14:27.532092+00:00",
+    "engine": "codex"
+  },
+  "image_7eac86906d4488.png": {
+    "classification": "formula",
+    "latex": "f(9)<f(10)",
+    "note": "函數值不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(9)<f(10)\",\"note\":\"函數值不等式\"}\n",
+    "ts": "2026-04-30T07:14:30.163550+00:00",
+    "engine": "codex"
+  },
+  "image_7b6b8d8c3e60d1.png": {
+    "classification": "formula",
+    "latex": "y=40\\log\\left(\\frac{x+1}{10}\\right)+60=40\\left(\\log(x+1)-\\log 10\\right)+60",
+    "note": "對數函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=40\\\\log\\\\left(\\\\frac{x+1}{10}\\\\right)+60=40\\\\left(\\\\log(x+1)-\\\\log 10\\\\right)+60\",\"note\":\"對數函數等式\"}\n",
+    "ts": "2026-04-30T07:14:30.519632+00:00",
+    "engine": "codex"
+  },
+  "image_7e9ffbc5d6827d.png": {
+    "classification": "formula",
+    "latex": "Y",
+    "note": "單一變數 Y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Y\",\"note\":\"單一變數 Y\"}\n",
+    "ts": "2026-04-30T07:14:31.029505+00:00",
+    "engine": "codex"
+  },
+  "image_7edb06eff7e74b.png": {
+    "classification": "formula",
+    "latex": "\\approx 40(0.4771+0.8451)+20=72.888",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\approx 40(0.4771+0.8451)+20=72.888\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T07:14:33.663396+00:00",
+    "engine": "codex"
+  },
+  "image_85fd4ffbb831db.png": {
+    "classification": "formula",
+    "latex": "9=|a|\\times 8\\Rightarrow a=\\pm\\frac{9}{8}",
+    "note": "絕對值方程式求a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9=|a|\\\\times 8\\\\Rightarrow a=\\\\pm\\\\frac{9}{8}\",\"note\":\"絕對值方程式求a\"}\n",
+    "ts": "2026-04-30T07:14:34.649498+00:00",
+    "engine": "codex"
+  },
+  "image_8627bd7c301859.png": {
+    "classification": "formula",
+    "latex": "\\sigma",
+    "note": "希臘字母 sigma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma\",\"note\":\"希臘字母 sigma\"}\n",
+    "ts": "2026-04-30T07:14:36.170194+00:00",
+    "engine": "codex"
+  },
+  "image_87b0115e03292d.png": {
+    "classification": "formula",
+    "latex": "x>20",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>20\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T07:14:37.476566+00:00",
+    "engine": "codex"
+  },
+  "image_8824861ee8aefe.png": {
+    "classification": "formula",
+    "latex": "Y=\\frac{1}{2}X+40",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Y=\\\\frac{1}{2}X+40\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-04-30T07:14:39.456165+00:00",
+    "engine": "codex"
+  },
+  "image_8836b6abedee73.png": {
+    "classification": "formula",
+    "latex": "f(9)=40",
+    "note": "函數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(9)=40\",\"note\":\"函數值等式\"}\n",
+    "ts": "2026-04-30T07:14:40.717169+00:00",
+    "engine": "codex"
+  },
+  "image_87615ac82b31b6.png": {
+    "classification": "formula",
+    "latex": "y_i=\\frac{1}{2}x_i+40\\ge x_i\\Rightarrow \\frac{1}{2}x_i\\le 40",
+    "note": "不等式推導公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_i=\\\\frac{1}{2}x_i+40\\\\ge x_i\\\\Rightarrow \\\\frac{1}{2}x_i\\\\le 40\",\"note\":\"不等式推導公式\"}\n",
+    "ts": "2026-04-30T07:14:41.505799+00:00",
+    "engine": "codex"
+  },
+  "image_9cfdd02a8e539d.png": {
+    "classification": "formula",
+    "latex": "M=\\frac{1}{21}(x_1+x_2+\\cdots+x_{21})",
+    "note": "算術平均數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M=\\\\frac{1}{21}(x_1+x_2+\\\\cdots+x_{21})\",\"note\":\"算術平均數公式\"}\n",
+    "ts": "2026-04-30T07:14:42.120448+00:00",
+    "engine": "codex"
+  },
+  "image_a0c39fbaa49704.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{70}>8",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{70}>8\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-30T07:14:43.870992+00:00",
+    "engine": "codex"
+  },
+  "image_a0caa782f8bae9.png": {
+    "classification": "formula",
+    "latex": "x_1^2+x_2^2+\\cdots+x_{10}^2=850",
+    "note": "平方和等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_1^2+x_2^2+\\\\cdots+x_{10}^2=850\",\"note\":\"平方和等式\"}\n",
+    "ts": "2026-04-30T07:14:45.331085+00:00",
+    "engine": "codex"
+  },
+  "image_a1d9c24d420199.png": {
+    "classification": "formula",
+    "latex": "\\sigma_x=\\sqrt{50.75}",
+    "note": "標準差公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_x=\\\\sqrt{50.75}\",\"note\":\"標準差公式\"}\n",
+    "ts": "2026-04-30T07:14:47.583786+00:00",
+    "engine": "codex"
+  },
+  "image_a3e5b82ed34cd9.png": {
+    "classification": "formula",
+    "latex": "y=\\frac{8}{5}x+10",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=\\\\frac{8}{5}x+10\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-04-30T07:14:47.707126+00:00",
+    "engine": "codex"
+  },
+  "image_a47da5d49d4528.png": {
+    "classification": "formula",
+    "latex": "f(9)=(x_1-9)^2+(x_2-9)^2+\\cdots",
+    "note": "函數值的平方和表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(9)=(x_1-9)^2+(x_2-9)^2+\\\\cdots\",\"note\":\"函數值的平方和表達式\"}\n",
+    "ts": "2026-04-30T07:14:49.563369+00:00",
+    "engine": "codex"
+  },
+  "image_a6bc36169c2050.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{10}\\times(56+47+\\cdots+73)=60",
+    "note": "等差數列求和計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{10}\\\\times(56+47+\\\\cdots+73)=60\",\"note\":\"等差數列求和計算式\"}\n",
+    "ts": "2026-04-30T07:14:51.692616+00:00",
+    "engine": "codex"
+  },
+  "image_ae7f3f75a6347d.png": {
+    "classification": "formula",
+    "latex": "y=40\\log 10+20=60",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=40\\\\log 10+20=60\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T07:14:52.366358+00:00",
+    "engine": "codex"
+  },
+  "image_b07addc23c4790.png": {
+    "classification": "formula",
+    "latex": "40\\log_{10}\\left(\\frac{x+1}{10}\\right)+60",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"40\\\\log_{10}\\\\left(\\\\frac{x+1}{10}\\\\right)+60\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T07:14:54.615918+00:00",
+    "engine": "codex"
+  },
+  "image_af408e2ec0de24.png": {
+    "classification": "formula",
+    "latex": "x=9",
+    "note": "單純方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=9\",\"note\":\"單純方程式\"}\n",
+    "ts": "2026-04-30T07:14:55.150173+00:00",
+    "engine": "codex"
+  },
+  "image_b4d480dc9a0781.png": {
+    "classification": "formula",
+    "latex": "\\sigma>10",
+    "note": "不等式：sigma大於10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma>10\",\"note\":\"不等式：sigma大於10\"}\n",
+    "ts": "2026-04-30T07:14:55.849198+00:00",
+    "engine": "codex"
+  },
+  "image_b7e4c6c326b34f.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{9}{8}x+6>100",
+    "note": "一元一次不等式推導式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{9}{8}x+6>100\",\"note\":\"一元一次不等式推導式\"}\n",
+    "ts": "2026-04-30T07:14:57.863084+00:00",
+    "engine": "codex"
+  },
+  "image_b87d3ead860bf9.png": {
+    "classification": "formula",
+    "latex": "y=40\\log(x+1)+20",
+    "note": "對數函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=40\\\\log(x+1)+20\",\"note\":\"對數函數公式\"}\n",
+    "ts": "2026-04-30T07:14:59.076892+00:00",
+    "engine": "codex"
+  },
+  "image_bc82d75d1f7f63.png": {
+    "classification": "formula",
+    "latex": "\\sigma_x=2\\times5=10",
+    "note": "標準差計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_x=2\\\\times5=10\",\"note\":\"標準差計算式\"}\n",
+    "ts": "2026-04-30T07:15:00.239120+00:00",
+    "engine": "codex"
+  },
+  "image_bbc824182e3a9f.png": {
+    "classification": "formula",
+    "latex": "\\mu < 50",
+    "note": "不等式：mu 小於 50",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu < 50\",\"note\":\"不等式：mu 小於 50\"}\n",
+    "ts": "2026-04-30T07:15:01.459795+00:00",
+    "engine": "codex"
+  },
+  "image_bd8a7c3f7925b4.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{1}{10}\\left(x_1^2+x_2^2+\\cdots+x_{10}^2\\right)=97",
+    "note": "平方和平均等於97",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{1}{10}\\\\left(x_1^2+x_2^2+\\\\cdots+x_{10}^2\\\\right)=97\",\"note\":\"平方和平均等於97\"}\n",
+    "ts": "2026-04-30T07:15:03.425478+00:00",
+    "engine": "codex"
+  },
+  "image_be55be4baceece.png": {
+    "classification": "formula",
+    "latex": "=160",
+    "note": "純數學等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=160\",\"note\":\"純數學等式片段\"}\n",
+    "ts": "2026-04-30T07:15:04.164958+00:00",
+    "engine": "codex"
+  },
+  "image_be0eb78aabaacc.png": {
+    "classification": "formula",
+    "latex": "39-9=30",
+    "note": "純數字減法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"39-9=30\",\"note\":\"純數字減法等式\"}\n",
+    "ts": "2026-04-30T07:15:05.216568+00:00",
+    "engine": "codex"
+  },
+  "image_c03ceb2113b19c.png": {
+    "classification": "formula",
+    "latex": "f(\\theta)",
+    "note": "函數 f(theta)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(\\\\theta)\",\"note\":\"函數 f(theta)\"}\n",
+    "ts": "2026-04-30T07:15:05.520294+00:00",
+    "engine": "codex"
+  },
+  "image_c4828f83291b64.png": {
+    "classification": "formula",
+    "latex": "y>40\\log 21+20=40(\\log 3+\\log 7)+20",
+    "note": "對數不等式與展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y>40\\\\log 21+20=40(\\\\log 3+\\\\log 7)+20\",\"note\":\"對數不等式與展開式\"}\n",
+    "ts": "2026-04-30T07:15:08.453329+00:00",
+    "engine": "codex"
+  },
+  "image_c69a0e38a4a144.png": {
+    "classification": "formula",
+    "latex": "x_2",
+    "note": "x with subscript 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x_2\",\"note\":\"x with subscript 2\"}\n",
+    "ts": "2026-04-30T07:15:09.414790+00:00",
+    "engine": "codex"
+  },
+  "image_c617acbd20ff9e.png": {
+    "classification": "formula",
+    "latex": "\\mu_x=\\frac{1}{8}\\times(x_1+x_2+\\cdots+x_8)=\\frac{1}{8}\\times544=68",
+    "note": "平均數公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_x=\\\\frac{1}{8}\\\\times(x_1+x_2+\\\\cdots+x_8)=\\\\frac{1}{8}\\\\times544=68\",\"note\":\"平均數公式計算\"}\n",
+    "ts": "2026-04-30T07:15:09.447656+00:00",
+    "engine": "codex"
+  },
+  "image_c6a56f79ffd968.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "柱狀圖，區間30-40、40-50、50-60及頻數28、50、30",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"柱狀圖，區間30-40、40-50、50-60及頻數28、50、30\"}\n",
+    "ts": "2026-04-30T07:15:09.915959+00:00",
+    "engine": "codex"
+  },
+  "image_ccdea623b2fa86.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-30T07:15:13.217424+00:00",
+    "engine": "codex"
+  },
+  "image_cf85a82e0ecb0d.png": {
+    "classification": "formula",
+    "latex": "\\sigma_Y=\\dfrac{8}{5}\\times\\sigma_X",
+    "note": "標準差關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_Y=\\\\dfrac{8}{5}\\\\times\\\\sigma_X\",\"note\":\"標準差關係式\"}\n",
+    "ts": "2026-04-30T07:15:15.833754+00:00",
+    "engine": "codex"
+  },
+  "image_c942f82e07ec13.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow (x_1-9)^2+(x_2-9)^2+\\cdots+(x_{10}-9)^2",
+    "note": "平方和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow (x_1-9)^2+(x_2-9)^2+\\\\cdots+(x_{10}-9)^2\",\"note\":\"平方和公式\"}\n",
+    "ts": "2026-04-30T07:15:16.372121+00:00",
+    "engine": "codex"
+  },
+  "image_d0a4b486a3f47e.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{10}",
+    "note": "分數十分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{10}\",\"note\":\"分數十分之一\"}\n",
+    "ts": "2026-04-30T07:15:17.343645+00:00",
+    "engine": "codex"
+  },
+  "image_c9155ec0508bc2.png": {
+    "classification": "formula",
+    "latex": "x \\le \\frac{x}{4}+55 \\Rightarrow x \\le 73\\frac{1}{3}",
+    "note": "不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\le \\\\frac{x}{4}+55 \\\\Rightarrow x \\\\le 73\\\\frac{1}{3}\",\"note\":\"不等式推導\"}\n",
+    "ts": "2026-04-30T07:15:18.214680+00:00",
+    "engine": "codex"
+  },
+  "image_d39bb4159a8c74.png": {
+    "classification": "formula",
+    "latex": "=10x^2-2(x_1+x_2+\\cdots+x_{10})x+x_1^2",
+    "note": "純數學代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=10x^2-2(x_1+x_2+\\\\cdots+x_{10})x+x_1^2\",\"note\":\"純數學代數式\"}\n",
+    "ts": "2026-04-30T07:15:21.684511+00:00",
+    "engine": "codex"
+  },
+  "image_e1c72db0dc246a.png": {
+    "classification": "formula",
+    "latex": "\\mu_Y=-\\frac{8}{5}\\mu_X+10",
+    "note": "線性關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_Y=-\\\\frac{8}{5}\\\\mu_X+10\",\"note\":\"線性關係式\"}\n",
+    "ts": "2026-04-30T07:15:21.953014+00:00",
+    "engine": "codex"
+  },
+  "image_e1298fa0c1451b.png": {
+    "classification": "formula",
+    "latex": "=\\frac{75-65}{\\sqrt{70}}=\\frac{10}{\\sqrt{70}}",
+    "note": "分式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{75-65}{\\\\sqrt{70}}=\\\\frac{10}{\\\\sqrt{70}}\",\"note\":\"分式化簡\"}\n",
+    "ts": "2026-04-30T07:15:22.745379+00:00",
+    "engine": "codex"
+  },
+  "image_e384270a01222d.png": {
+    "classification": "formula",
+    "latex": "(40\\log 40+20)-(40\\log 10+20)=40(\\log 40-\\log 10)=40\\log 4\\approx 40\\times 0.6020=24.08",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(40\\\\log 40+20)-(40\\\\log 10+20)=40(\\\\log 40-\\\\log 10)=40\\\\log 4\\\\approx 40\\\\times 0.6020=24.08\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-04-30T07:15:24.070027+00:00",
+    "engine": "codex"
+  },
+  "image_eaedb563bfbfe8.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "長條圖，區間刻度與頻數標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"長條圖，區間刻度與頻數標示\"}\n",
+    "ts": "2026-04-30T07:15:27.234916+00:00",
+    "engine": "codex"
+  },
+  "image_e93b27efd862b9.png": {
+    "classification": "formula",
+    "latex": "y=ax+b\\Rightarrow\\begin{cases}\\mu_Y=a\\mu_X+b\\\\\\sigma_Y=|a|\\sigma_X\\end{cases}",
+    "note": "線性變換的平均數與標準差",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=ax+b\\\\Rightarrow\\\\begin{cases}\\\\mu_Y=a\\\\mu_X+b\\\\\\\\\\\\sigma_Y=|a|\\\\sigma_X\\\\end{cases}\",\"note\":\"線性變換的平均數與標準差\"}\n",
+    "ts": "2026-04-30T07:15:28.689801+00:00",
+    "engine": "codex"
+  },
+  "image_ed83f95ead5510.png": {
+    "classification": "formula",
+    "latex": "\\mu_Y=60\\Rightarrow 60=\\frac{9}{8}\\times 48+b\\Rightarrow b=6",
+    "note": "線性轉換平均數代入求b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mu_Y=60\\\\Rightarrow 60=\\\\frac{9}{8}\\\\times 48+b\\\\Rightarrow b=6\",\"note\":\"線性轉換平均數代入求b\"}\n",
+    "ts": "2026-04-30T07:15:29.666631+00:00",
+    "engine": "codex"
+  },
+  "image_f62f8663b3c685.png": {
+    "classification": "formula",
+    "latex": "\\sigma_x^2=\\frac{(x_1^2+x_2^2+\\cdots+x_8^2)-8\\times\\mu_x^2}{8}=\\frac{406}{8}=50.75",
+    "note": "變異數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sigma_x^2=\\\\frac{(x_1^2+x_2^2+\\\\cdots+x_8^2)-8\\\\times\\\\mu_x^2}{8}=\\\\frac{406}{8}=50.75\",\"note\":\"變異數計算公式\"}\n",
+    "ts": "2026-04-30T07:15:30.494565+00:00",
+    "engine": "codex"
+  },
+  "image_f9c7693736f5ee.png": {
+    "classification": "formula",
+    "latex": "f(x)=(x_1-x)^2+(x_2-x)^2+\\cdots",
+    "note": "函數平方和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=(x_1-x)^2+(x_2-x)^2+\\\\cdots\",\"note\":\"函數平方和公式\"}\n",
+    "ts": "2026-04-30T07:15:32.540591+00:00",
+    "engine": "codex"
+  },
+  "image_ffeb582695901f.png": {
+    "classification": "formula",
+    "latex": "\\overline{x}=\\frac{1}{21}(x_1+x_2+\\cdots+x_{21})=M",
+    "note": "平均數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{x}=\\\\frac{1}{21}(x_1+x_2+\\\\cdots+x_{21})=M\",\"note\":\"平均數公式\"}\n",
+    "ts": "2026-04-30T07:15:44.462210+00:00",
+    "engine": "codex"
+  }
+}

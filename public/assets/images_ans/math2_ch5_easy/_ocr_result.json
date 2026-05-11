@@ -1,0 +1,690 @@
+{
+  "image_083747346b8f99.png": {
+    "classification": "formula",
+    "latex": "(1+\\sqrt{2})^6=a+b\\sqrt{2}",
+    "note": "二項式展開相關等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1+\\\\sqrt{2})^6=a+b\\\\sqrt{2}\",\"note\":\"二項式展開相關等式\"}\n",
+    "ts": "2026-04-29T06:13:37.521062+00:00",
+    "engine": "codex"
+  },
+  "image_04a8aabec6f1ca.png": {
+    "classification": "formula",
+    "latex": "C_1^{20}=C_{19}^{20}=20",
+    "note": "組合數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^{20}=C_{19}^{20}=20\",\"note\":\"組合數等式\"}\n",
+    "ts": "2026-04-29T06:13:38.627508+00:00",
+    "engine": "codex"
+  },
+  "image_10e67f69cc017f.png": {
+    "classification": "formula",
+    "latex": "C_0^{10}+2\\times C_1^{10}+2^2\\times C_2^{10}+\\cdots+2^{10}\\times C_{10}^{10}=3^{10}",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{10}+2\\\\times C_1^{10}+2^2\\\\times C_2^{10}+\\\\cdots+2^{10}\\\\times C_{10}^{10}=3^{10}\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-29T06:13:39.254384+00:00",
+    "engine": "codex"
+  },
+  "image_0e73a03e7c6ca7.png": {
+    "classification": "formula",
+    "latex": "C_{35}^{40} + C_{34}^{40} = C_{6}^{41}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{35}^{40} + C_{34}^{40} = C_{6}^{41}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:13:40.153456+00:00",
+    "engine": "codex"
+  },
+  "image_135e0c16cd151b.png": {
+    "classification": "formula",
+    "latex": "C_{4}^{6}",
+    "note": "組合數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{4}^{6}\",\"note\":\"組合數符號\"}\n",
+    "ts": "2026-04-29T06:13:44.565708+00:00",
+    "engine": "codex"
+  },
+  "image_1529077623523e.png": {
+    "classification": "formula",
+    "latex": "+C_{6}^{7}(3x^{2})^{1}(-2y)^{6}+C_{7}^{7}(-2y)^{7}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+C_{6}^{7}(3x^{2})^{1}(-2y)^{6}+C_{7}^{7}(-2y)^{7}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T06:13:46.805878+00:00",
+    "engine": "codex"
+  },
+  "image_1c4980bb4f15be.png": {
+    "classification": "formula",
+    "latex": "C^{7}_{2}-C^{4}_{2}",
+    "note": "組合數相減",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{7}_{2}-C^{4}_{2}\",\"note\":\"組合數相減\"}\n",
+    "ts": "2026-04-29T06:13:49.489073+00:00",
+    "engine": "codex"
+  },
+  "image_191539abcba678.png": {
+    "classification": "formula",
+    "latex": "C_0^{10}-\\frac{1}{2}\\times C_1^{10}+\\frac{1}{4}\\times C_2^{10}+\\cdots+\\frac{1}{2^{10}}\\times C_{10}^{10}=\\left(\\frac{3}{2}\\right)^{10}",
+    "note": "二項式係數展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{10}-\\\\frac{1}{2}\\\\times C_1^{10}+\\\\frac{1}{4}\\\\times C_2^{10}+\\\\cdots+\\\\frac{1}{2^{10}}\\\\times C_{10}^{10}=\\\\left(\\\\frac{3}{2}\\\\right)^{10}\",\"note\":\"二項式係數展開式\"}\n",
+    "ts": "2026-04-29T06:13:51.545504+00:00",
+    "engine": "codex"
+  },
+  "image_1f1c886388c75c.png": {
+    "classification": "formula",
+    "latex": "C_{5}^{n}x^{5}",
+    "note": "組合符號乘以 x 的五次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{5}^{n}x^{5}\",\"note\":\"組合符號乘以 x 的五次方\"}\n",
+    "ts": "2026-04-29T06:13:51.711922+00:00",
+    "engine": "codex"
+  },
+  "image_2a1c81f1f08cbe.png": {
+    "classification": "formula",
+    "latex": "C_m^n=C_{n-m}^n",
+    "note": "組合數對稱性公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_m^n=C_{n-m}^n\",\"note\":\"組合數對稱性公式\"}\n",
+    "ts": "2026-04-29T06:13:58.973598+00:00",
+    "engine": "codex"
+  },
+  "image_26e3abfbaa85db.png": {
+    "classification": "formula",
+    "latex": "C_1^6+2C_3^6+2^2C_5^6",
+    "note": "組合數代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^6+2C_3^6+2^2C_5^6\",\"note\":\"組合數代數式\"}\n",
+    "ts": "2026-04-29T06:13:59.558732+00:00",
+    "engine": "codex"
+  },
+  "image_258cc8bdf194d3.png": {
+    "classification": "formula",
+    "latex": "(x-y)^7=C_0^7x^7+C_1^7x^6(-y)+\\cdots+C_k^7x^{7-k}(-y)^k+\\cdots+C_6^7x(-y)^6+C_7^7(-y)^7",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x-y)^7=C_0^7x^7+C_1^7x^6(-y)+\\\\cdots+C_k^7x^{7-k}(-y)^k+\\\\cdots+C_6^7x(-y)^6+C_7^7(-y)^7\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-29T06:14:01.548881+00:00",
+    "engine": "codex"
+  },
+  "image_269dddf585803d.png": {
+    "classification": "formula",
+    "latex": "(a+b)^n=C_0^n a^n+C_1^n a^{n-1}b+\\cdots+C_r^n a^{n-r}b^r+\\cdots+C_{n-1}^n ab^{n-1}+C_n^n b^n",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)^n=C_0^n a^n+C_1^n a^{n-1}b+\\\\cdots+C_r^n a^{n-r}b^r+\\\\cdots+C_{n-1}^n ab^{n-1}+C_n^n b^n\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-29T06:14:01.632242+00:00",
+    "engine": "codex"
+  },
+  "image_35c612f0a3d093.png": {
+    "classification": "formula",
+    "latex": "C_{0}^{10}+2C_{1}^{10}+2^{2}C_{2}^{10}+\\cdots+2^{10}C_{10}^{10}=3^{10}",
+    "note": "二项式定理展开式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{0}^{10}+2C_{1}^{10}+2^{2}C_{2}^{10}+\\\\cdots+2^{10}C_{10}^{10}=3^{10}\",\"note\":\"二项式定理展开式\"}\n",
+    "ts": "2026-04-29T06:14:07.501642+00:00",
+    "engine": "codex"
+  },
+  "image_35a9380b025148.png": {
+    "classification": "formula",
+    "latex": "=C_{23}^{26}-C_{2}^{5}=2600-10=2590",
+    "note": "組合數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=C_{23}^{26}-C_{2}^{5}=2600-10=2590\",\"note\":\"組合數計算式\"}\n",
+    "ts": "2026-04-29T06:14:07.680912+00:00",
+    "engine": "codex"
+  },
+  "image_36f509725b3020.png": {
+    "classification": "formula",
+    "latex": "C^{43}_{6}+C^{43}_{5}\\times C^{6}_{1}+C^{43}_{4}\\times C^{6}_{2}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{43}_{6}+C^{43}_{5}\\\\times C^{6}_{1}+C^{43}_{4}\\\\times C^{6}_{2}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:14:09.235107+00:00",
+    "engine": "codex"
+  },
+  "image_37b00da84080c5.png": {
+    "classification": "formula",
+    "latex": "C^{n}_{r}=C^{n}_{n-r}",
+    "note": "組合數對稱性公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{n}_{r}=C^{n}_{n-r}\",\"note\":\"組合數對稱性公式\"}\n",
+    "ts": "2026-04-29T06:14:11.175733+00:00",
+    "engine": "codex"
+  },
+  "image_413375f7b17007.png": {
+    "classification": "formula",
+    "latex": "C_{5}^{7}",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{5}^{7}\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-29T06:14:13.583475+00:00",
+    "engine": "codex"
+  },
+  "image_43987e191fceb3.png": {
+    "classification": "formula",
+    "latex": "x^{4}y^{5}",
+    "note": "單項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{4}y^{5}\",\"note\":\"單項式\"}\n",
+    "ts": "2026-04-29T06:14:15.383358+00:00",
+    "engine": "codex"
+  },
+  "image_47a13d19bf60bc.png": {
+    "classification": "formula",
+    "latex": "C_{12}^{40}=C_{28}^{40}",
+    "note": "組合數對稱性公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{12}^{40}=C_{28}^{40}\",\"note\":\"組合數對稱性公式\"}\n",
+    "ts": "2026-04-29T06:14:18.157751+00:00",
+    "engine": "codex"
+  },
+  "image_41fb6de2ad5670.png": {
+    "classification": "formula",
+    "latex": "\\left(1+\\sqrt{2}\\right)^6=C_0^6+C_1^6\\left(\\sqrt{2}\\right)+C_2^6\\left(\\sqrt{2}\\right)^2+C_3^6\\left(\\sqrt{2}\\right)^3+C_4^6\\left(\\sqrt{2}\\right)^4+C_5^6\\left(\\sqrt{2}\\right)^5+C_6^6\\left(\\sqrt{2}\\right)^6",
+    "note": "二項式展開公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1+\\\\sqrt{2}\\\\right)^6=C_0^6+C_1^6\\\\left(\\\\sqrt{2}\\\\right)+C_2^6\\\\left(\\\\sqrt{2}\\\\right)^2+C_3^6\\\\left(\\\\sqrt{2}\\\\right)^3+C_4^6\\\\left(\\\\sqrt{2}\\\\right)^4+C_5^6\\\\left(\\\\sqrt{2}\\\\right)^5+C_6^6\\\\left(\\\\sqrt{2}\\\\right)^6\",\"note\":\"二項式展開公式\"}\n",
+    "ts": "2026-04-29T06:14:19.975543+00:00",
+    "engine": "codex"
+  },
+  "image_578321f5236fd3.png": {
+    "classification": "formula",
+    "latex": "C_1^{10}+C_2^{10}+C_3^{10}+\\cdots+C_{10}^{10}=2^{10}",
+    "note": "二項係數和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^{10}+C_2^{10}+C_3^{10}+\\\\cdots+C_{10}^{10}=2^{10}\",\"note\":\"二項係數和公式\"}\n",
+    "ts": "2026-04-29T06:14:21.152167+00:00",
+    "engine": "codex"
+  },
+  "image_57aa1ae1c66a7b.png": {
+    "classification": "formula",
+    "latex": "1+C_{1}^{10}+C_{2}^{10}+\\cdots+C_{10}^{10}",
+    "note": "二項式係數和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1+C_{1}^{10}+C_{2}^{10}+\\\\cdots+C_{10}^{10}\",\"note\":\"二項式係數和\"}\n",
+    "ts": "2026-04-29T06:14:23.783666+00:00",
+    "engine": "codex"
+  },
+  "image_57c8213982a14c.png": {
+    "classification": "formula",
+    "latex": "C_{12}^{40}=C_{40-12}^{40}=C_{28}^{40}",
+    "note": "組合數對稱性公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{12}^{40}=C_{40-12}^{40}=C_{28}^{40}\",\"note\":\"組合數對稱性公式\"}\n",
+    "ts": "2026-04-29T06:14:25.152818+00:00",
+    "engine": "codex"
+  },
+  "image_5bfb3e8885d06a.png": {
+    "classification": "formula",
+    "latex": "a_{n-6}=C_{n-6}^{n}=C_{6}^{n}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_{n-6}=C_{n-6}^{n}=C_{6}^{n}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:14:27.906948+00:00",
+    "engine": "codex"
+  },
+  "image_5e2d0d242076c9.png": {
+    "classification": "formula",
+    "latex": "C_5^7 x^2(-y)^5",
+    "note": "排列組合符號與冪次的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^7 x^2(-y)^5\",\"note\":\"排列組合符號與冪次的代數式\"}\n",
+    "ts": "2026-04-29T06:14:29.118394+00:00",
+    "engine": "codex"
+  },
+  "image_65d31a42a68572.png": {
+    "classification": "formula",
+    "latex": "-3024",
+    "note": "負整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3024\",\"note\":\"負整數\"}\n",
+    "ts": "2026-04-29T06:14:30.979933+00:00",
+    "engine": "codex"
+  },
+  "image_6713e7234e35df.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{7}-C_{2}^{4}+1",
+    "note": "組合數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{7}-C_{2}^{4}+1\",\"note\":\"組合數運算式\"}\n",
+    "ts": "2026-04-29T06:14:33.546298+00:00",
+    "engine": "codex"
+  },
+  "image_6a21b4f67c455a.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-04-29T06:14:35.193040+00:00",
+    "engine": "codex"
+  },
+  "image_66a2d6501ae71c.png": {
+    "classification": "formula",
+    "latex": "=C_{6}^{43}+C_{5}^{43}\\times C_{1}^{6}+C_{4}^{43}\\times C_{2}^{6}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=C_{6}^{43}+C_{5}^{43}\\\\times C_{1}^{6}+C_{4}^{43}\\\\times C_{2}^{6}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:14:36.573671+00:00",
+    "engine": "codex"
+  },
+  "image_6beb8774607b83.png": {
+    "classification": "formula",
+    "latex": "C_1^5=5",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^5=5\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:14:37.463761+00:00",
+    "engine": "codex"
+  },
+  "image_6ccd9ee36a6e1a.png": {
+    "classification": "formula",
+    "latex": "C^{8}_{2}=C^{8}_{6}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{8}_{2}=C^{8}_{6}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:14:39.589178+00:00",
+    "engine": "codex"
+  },
+  "image_738494277e3ac0.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-29T06:14:41.634701+00:00",
+    "engine": "codex"
+  },
+  "image_73a629e0b2121d.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T06:14:45.968608+00:00",
+    "engine": "codex"
+  },
+  "image_75c1a185bfe88c.png": {
+    "classification": "formula",
+    "latex": "6048",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6048\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:14:48.734529+00:00",
+    "engine": "codex"
+  },
+  "image_77b538b5ac4500.png": {
+    "classification": "formula",
+    "latex": "C_5^7(3x^2)^2(-2y)^5",
+    "note": "組合數與冪次乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^7(3x^2)^2(-2y)^5\",\"note\":\"組合數與冪次乘積\"}\n",
+    "ts": "2026-04-29T06:14:51.032377+00:00",
+    "engine": "codex"
+  },
+  "image_7cb2774742861c.png": {
+    "classification": "formula",
+    "latex": "C_{34}^{40}+C_{35}^{40}=C_{35}^{41}=C_{6}^{41}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{34}^{40}+C_{35}^{40}=C_{35}^{41}=C_{6}^{41}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:14:52.054644+00:00",
+    "engine": "codex"
+  },
+  "image_792ee67bdf3082.png": {
+    "classification": "formula",
+    "latex": "(x+y)^8=C_0^8x^8+C_1^8x^7y+\\cdots+C_r^8x^{8-r}y^r+\\cdots+C_7^8xy^7+C_8^8y^8",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+y)^8=C_0^8x^8+C_1^8x^7y+\\\\cdots+C_r^8x^{8-r}y^r+\\\\cdots+C_7^8xy^7+C_8^8y^8\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-29T06:14:52.863421+00:00",
+    "engine": "codex"
+  },
+  "image_83375a5b7b4447.png": {
+    "classification": "formula",
+    "latex": "\\frac{3!}{3!}",
+    "note": "階乘分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3!}{3!}\",\"note\":\"階乘分式\"}\n",
+    "ts": "2026-04-29T06:14:59.381448+00:00",
+    "engine": "codex"
+  },
+  "image_7e0348adf005f4.png": {
+    "classification": "formula",
+    "latex": "(1+x)^n=C_0^n+C_1^n x+C_2^n x^2+\\cdots+C_n^n x^n",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1+x)^n=C_0^n+C_1^n x+C_2^n x^2+\\\\cdots+C_n^n x^n\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-29T06:15:00.590193+00:00",
+    "engine": "codex"
+  },
+  "image_7de3249b650d16.png": {
+    "classification": "formula",
+    "latex": "\\frac{C^{43}_{6}\\times C^{43}_{5}\\times C^{6}_{1}\\times C^{43}_{4}\\times C^{6}_{2}}{3!}",
+    "note": "組合數乘積除以3階乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C^{43}_{6}\\\\times C^{43}_{5}\\\\times C^{6}_{1}\\\\times C^{43}_{4}\\\\times C^{6}_{2}}{3!}\",\"note\":\"組合數乘積除以3階乘\"}\n",
+    "ts": "2026-04-29T06:15:01.755756+00:00",
+    "engine": "codex"
+  },
+  "image_812a2696d0b925.png": {
+    "classification": "formula",
+    "latex": "\\frac{6!}{2!4!}=C_{4}^{6}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{6!}{2!4!}=C_{4}^{6}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:15:03.813700+00:00",
+    "engine": "codex"
+  },
+  "image_97dde51809feff.png": {
+    "classification": "formula",
+    "latex": "C_2^5=10",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^5=10\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:15:08.246401+00:00",
+    "engine": "codex"
+  },
+  "image_9b59b458ca2007.png": {
+    "classification": "formula",
+    "latex": "(x+y+z)^8=\\overbrace{(x+y+z)(x+y+z)\\times\\cdots\\times(x+y+z)}^{8\\text{個}}",
+    "note": "三項式的8次方展開為8個因式相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+y+z)^8=\\\\overbrace{(x+y+z)(x+y+z)\\\\times\\\\cdots\\\\times(x+y+z)}^{8\\\\text{個}}\",\"note\":\"三項式的8次方展開為8個因式相乘\"}\n",
+    "ts": "2026-04-29T06:15:11.524906+00:00",
+    "engine": "codex"
+  },
+  "image_8cfdef228eae81.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{5}+C_{4}^{6}+C_{5}^{7}+\\cdots+C_{22}^{24}+C_{23}^{25}",
+    "note": "組合數列求和式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{5}+C_{4}^{6}+C_{5}^{7}+\\\\cdots+C_{22}^{24}+C_{23}^{25}\",\"note\":\"組合數列求和式\"}\n",
+    "ts": "2026-04-29T06:15:11.591217+00:00",
+    "engine": "codex"
+  },
+  "image_9c5908f9697b15.png": {
+    "classification": "formula",
+    "latex": "C_0^6+2C_2^6+2^2C_4^6+2^3C_6^6",
+    "note": "二項係數代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^6+2C_2^6+2^2C_4^6+2^3C_6^6\",\"note\":\"二項係數代數式\"}\n",
+    "ts": "2026-04-29T06:15:16.605104+00:00",
+    "engine": "codex"
+  },
+  "image_9f1619e48ba080.png": {
+    "classification": "formula",
+    "latex": "C_{1}^{10}+C_{2}^{10}+\\cdots+C_{10}^{10}=2^{10}-1",
+    "note": "二項係數求和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{1}^{10}+C_{2}^{10}+\\\\cdots+C_{10}^{10}=2^{10}-1\",\"note\":\"二項係數求和公式\"}\n",
+    "ts": "2026-04-29T06:15:18.116636+00:00",
+    "engine": "codex"
+  },
+  "image_8c5200143c0457.png": {
+    "classification": "formula",
+    "latex": "a_4=C^n_4",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4=C^n_4\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:15:20.297666+00:00",
+    "engine": "codex"
+  },
+  "image_a34ce36e3e74ca.png": {
+    "classification": "formula",
+    "latex": "(x+y)^n=C_0^n x^n+C_1^n x^{n-1}y+\\cdots+C_r^n x^{n-r}y^r+\\cdots+C_{n-1}^n xy^{n-1}+C_n^n y^n",
+    "note": "二項式定理公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+y)^n=C_0^n x^n+C_1^n x^{n-1}y+\\\\cdots+C_r^n x^{n-r}y^r+\\\\cdots+C_{n-1}^n xy^{n-1}+C_n^n y^n\",\"note\":\"二項式定理公式\"}\n",
+    "ts": "2026-04-29T06:15:23.092777+00:00",
+    "engine": "codex"
+  },
+  "image_a6621672b56d18.png": {
+    "classification": "formula",
+    "latex": "x^4y^5",
+    "note": "單項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^4y^5\",\"note\":\"單項式\"}\n",
+    "ts": "2026-04-29T06:15:25.588732+00:00",
+    "engine": "codex"
+  },
+  "image_ab7ac5e3b44639.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-29T06:15:25.622520+00:00",
+    "engine": "codex"
+  },
+  "image_a9ee7712bccaf8.png": {
+    "classification": "formula",
+    "latex": "C_{34}^{40}=C_{35}^{41}-C_{35}^{40}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{34}^{40}=C_{35}^{41}-C_{35}^{40}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:15:26.121048+00:00",
+    "engine": "codex"
+  },
+  "image_b58afff48cc33d.png": {
+    "classification": "formula",
+    "latex": "C_{0}^{20}=C_{20}^{20}=1",
+    "note": "組合數邊界值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{0}^{20}=C_{20}^{20}=1\",\"note\":\"組合數邊界值\"}\n",
+    "ts": "2026-04-29T06:15:32.148798+00:00",
+    "engine": "codex"
+  },
+  "image_af91413dce35d4.png": {
+    "classification": "formula",
+    "latex": "2\\times\\frac{n!}{(n-4)!\\times4!}=3\\times\\frac{n!}{(n-6)!\\times6!}",
+    "note": "排列組合等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times\\\\frac{n!}{(n-4)!\\\\times4!}=3\\\\times\\\\frac{n!}{(n-6)!\\\\times6!}\",\"note\":\"排列組合等式\"}\n",
+    "ts": "2026-04-29T06:15:32.415477+00:00",
+    "engine": "codex"
+  },
+  "image_ad987b2e085aea.png": {
+    "classification": "formula",
+    "latex": "= (C_{2}^{5}+C_{3}^{5}+C_{4}^{6}+C_{5}^{7}+\\cdots+C_{22}^{24}+C_{23}^{25})-C_{2}^{5}",
+    "note": "組合數求和式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= (C_{2}^{5}+C_{3}^{5}+C_{4}^{6}+C_{5}^{7}+\\\\cdots+C_{22}^{24}+C_{23}^{25})-C_{2}^{5}\",\"note\":\"組合數求和式\"}\n",
+    "ts": "2026-04-29T06:15:33.347218+00:00",
+    "engine": "codex"
+  },
+  "image_b974e9945b681c.png": {
+    "classification": "formula",
+    "latex": "C_{4}^{43}\\times C_{2}^{6}",
+    "note": "組合數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{4}^{43}\\\\times C_{2}^{6}\",\"note\":\"組合數相乘\"}\n",
+    "ts": "2026-04-29T06:15:36.803512+00:00",
+    "engine": "codex"
+  },
+  "image_b878cca788b4bf.png": {
+    "classification": "formula",
+    "latex": "C_{r-1}^{n-1}+C_r^{n-1}=C_r^n",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{r-1}^{n-1}+C_r^{n-1}=C_r^n\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:15:37.722094+00:00",
+    "engine": "codex"
+  },
+  "image_b4207bc74af30e.png": {
+    "classification": "formula",
+    "latex": "\\left(C^{43}_{6}+C^{43}_{5}\\times C^{6}_{1}+C^{43}_{4}\\times C^{6}_{2}\\right)\\times 3!",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(C^{43}_{6}+C^{43}_{5}\\\\times C^{6}_{1}+C^{43}_{4}\\\\times C^{6}_{2}\\\\right)\\\\times 3!\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:15:40.417835+00:00",
+    "engine": "codex"
+  },
+  "image_b9f66952cfbf99.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{6}\\times C_{2}^{4}\\times C_{2}^{2}",
+    "note": "組合數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{6}\\\\times C_{2}^{4}\\\\times C_{2}^{2}\",\"note\":\"組合數相乘\"}\n",
+    "ts": "2026-04-29T06:15:43.188418+00:00",
+    "engine": "codex"
+  },
+  "image_c2b29100cf8f45.png": {
+    "classification": "formula",
+    "latex": "C_{35}^{40}+C_{34}^{40}=C_{34}^{41}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{35}^{40}+C_{34}^{40}=C_{34}^{41}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:15:45.876854+00:00",
+    "engine": "codex"
+  },
+  "image_b9ffd85afd17a7.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{6}\\times C_{2}^{4}\\times C_{2}^{2}\\times \\frac{1}{3!}",
+    "note": "組合數乘積與階乘分母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{6}\\\\times C_{2}^{4}\\\\times C_{2}^{2}\\\\times \\\\frac{1}{3!}\",\"note\":\"組合數乘積與階乘分母\"}\n",
+    "ts": "2026-04-29T06:15:46.015219+00:00",
+    "engine": "codex"
+  },
+  "image_c96a54b47ab575.png": {
+    "classification": "formula",
+    "latex": "C_0^6+2C_1^6+2^2C_2^6+2^3C_3^6+2^4C_4^6+2^5C_5^6+2^6C_6^6",
+    "note": "二項係數加權和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^6+2C_1^6+2^2C_2^6+2^3C_3^6+2^4C_4^6+2^5C_5^6+2^6C_6^6\",\"note\":\"二項係數加權和\"}\n",
+    "ts": "2026-04-29T06:15:49.701368+00:00",
+    "engine": "codex"
+  },
+  "image_ccfe0589538d9e.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{8}x^{6}y^{2}",
+    "note": "組合符號與單項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{8}x^{6}y^{2}\",\"note\":\"組合符號與單項式\"}\n",
+    "ts": "2026-04-29T06:15:55.173189+00:00",
+    "engine": "codex"
+  },
+  "image_c9abb0e01fefff.png": {
+    "classification": "formula",
+    "latex": "C_6^n",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_6^n\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-29T06:15:57.184656+00:00",
+    "engine": "codex"
+  },
+  "image_ce9fa3c93cef08.png": {
+    "classification": "formula",
+    "latex": "2C_1^6+2^2C_3^6+2^3C_5^6",
+    "note": "組合數加權求和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2C_1^6+2^2C_3^6+2^3C_5^6\",\"note\":\"組合數加權求和\"}\n",
+    "ts": "2026-04-29T06:15:57.345004+00:00",
+    "engine": "codex"
+  },
+  "image_ce224a0f7114c0.png": {
+    "classification": "formula",
+    "latex": "= (C_0^6+2C_2^6+2^2C_4^6+2^3C_6^6)+(C_1^6+2C_3^6+2^2C_5^6)\\sqrt{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= (C_0^6+2C_2^6+2^2C_4^6+2^3C_6^6)+(C_1^6+2C_3^6+2^2C_5^6)\\\\sqrt{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T06:15:58.991428+00:00",
+    "engine": "codex"
+  },
+  "image_ceecd37b59eeac.png": {
+    "classification": "formula",
+    "latex": "C_5^7 \\times 3^2 \\times (-2)^5 = 21 \\times 9 \\times (-32) = -6048",
+    "note": "組合與指數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^7 \\\\times 3^2 \\\\times (-2)^5 = 21 \\\\times 9 \\\\times (-32) = -6048\",\"note\":\"組合與指數運算式\"}\n",
+    "ts": "2026-04-29T06:16:01.772028+00:00",
+    "engine": "codex"
+  },
+  "image_d48330f363724d.png": {
+    "classification": "formula",
+    "latex": "C^{43}_{6}",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{43}_{6}\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-29T06:16:06.219337+00:00",
+    "engine": "codex"
+  },
+  "image_d6b28f4b43df4f.png": {
+    "classification": "formula",
+    "latex": "\\left(3x^2-2y\\right)^7",
+    "note": "二項式的七次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(3x^2-2y\\\\right)^7\",\"note\":\"二項式的七次方\"}\n",
+    "ts": "2026-04-29T06:16:08.249508+00:00",
+    "engine": "codex"
+  },
+  "image_d8d2a35056eb1f.png": {
+    "classification": "formula",
+    "latex": "C_{0}^{10}+C_{1}^{10}x+C_{2}^{10}x^{2}+\\cdots+C_{10}^{10}x^{10}",
+    "note": "二項式係數展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{0}^{10}+C_{1}^{10}x+C_{2}^{10}x^{2}+\\\\cdots+C_{10}^{10}x^{10}\",\"note\":\"二項式係數展開式\"}\n",
+    "ts": "2026-04-29T06:16:09.321860+00:00",
+    "engine": "codex"
+  },
+  "image_d1b44f52a7854d.png": {
+    "classification": "formula",
+    "latex": "C_{5}^{7}(3x^{2})^{2}((-2y))^{5}=C_{2}^{7}",
+    "note": "二項式係數與冪次運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{5}^{7}(3x^{2})^{2}((-2y))^{5}=C_{2}^{7}\",\"note\":\"二項式係數與冪次運算式\"}\n",
+    "ts": "2026-04-29T06:16:12.037909+00:00",
+    "engine": "codex"
+  },
+  "image_da236af1124bb9.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{39}+C_{4}^{39}+C_{5}^{40}=C_{6}^{41}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{39}+C_{4}^{39}+C_{5}^{40}=C_{6}^{41}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:16:12.464918+00:00",
+    "engine": "codex"
+  },
+  "image_db3f7974dc56ac.png": {
+    "classification": "formula",
+    "latex": "C_{5}^{43}\\times C_{1}^{6}",
+    "note": "組合數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{5}^{43}\\\\times C_{1}^{6}\",\"note\":\"組合數相乘\"}\n",
+    "ts": "2026-04-29T06:16:14.889982+00:00",
+    "engine": "codex"
+  },
+  "image_db2deffdc9b20a.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{8}\\times C_{3}^{5}\\times C_{2}^{2}",
+    "note": "組合數乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{8}\\\\times C_{3}^{5}\\\\times C_{2}^{2}\",\"note\":\"組合數乘積\"}\n",
+    "ts": "2026-04-29T06:16:15.529002+00:00",
+    "engine": "codex"
+  },
+  "image_de39dacd695052.png": {
+    "classification": "formula",
+    "latex": "C^{43}_{6}+C^{43}_{5}+C^{43}_{4}",
+    "note": "組合數相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{43}_{6}+C^{43}_{5}+C^{43}_{4}\",\"note\":\"組合數相加\"}\n",
+    "ts": "2026-04-29T06:16:18.788558+00:00",
+    "engine": "codex"
+  },
+  "image_e1e7c31c47360b.png": {
+    "classification": "formula",
+    "latex": "(3x^2-2y)^7=C_0^7(3x^2)^7+C_1^7(3x^2)^6(-2y)^1+\\cdots+",
+    "note": "二項式展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3x^2-2y)^7=C_0^7(3x^2)^7+C_1^7(3x^2)^6(-2y)^1+\\\\cdots+\",\"note\":\"二項式展開式\"}\n",
+    "ts": "2026-04-29T06:16:21.508070+00:00",
+    "engine": "codex"
+  },
+  "image_e39991c125f13b.png": {
+    "classification": "formula",
+    "latex": "3024",
+    "note": "數字3024",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3024\",\"note\":\"數字3024\"}\n",
+    "ts": "2026-04-29T06:16:22.619924+00:00",
+    "engine": "codex"
+  },
+  "image_e4785c325d97c6.png": {
+    "classification": "formula",
+    "latex": "b=C_1^6+2C_3^6+2^2C_5^6",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=C_1^6+2C_3^6+2^2C_5^6\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:16:24.665634+00:00",
+    "engine": "codex"
+  },
+  "image_e7c146783d8c8d.png": {
+    "classification": "formula",
+    "latex": "-6048",
+    "note": "負整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-6048\",\"note\":\"負整數\"}\n",
+    "ts": "2026-04-29T06:16:27.878596+00:00",
+    "engine": "codex"
+  },
+  "image_ea3a880f245894.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{39}+C_{4}^{39}+C_{5}^{40}=C_{4}^{40}+C_{5}^{40}=C_{5}^{41}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{39}+C_{4}^{39}+C_{5}^{40}=C_{4}^{40}+C_{5}^{40}=C_{5}^{41}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-29T06:16:28.317660+00:00",
+    "engine": "codex"
+  },
+  "image_ed3c22233690e5.png": {
+    "classification": "formula",
+    "latex": "C_0^6+2^2C_2^6+2^4C_4^6+2^6C_6^6",
+    "note": "組合數與冪次的和式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^6+2^2C_2^6+2^4C_4^6+2^6C_6^6\",\"note\":\"組合數與冪次的和式\"}\n",
+    "ts": "2026-04-29T06:16:31.817897+00:00",
+    "engine": "codex"
+  },
+  "image_ed29feb18f36b7.png": {
+    "classification": "formula",
+    "latex": "2\\times C_4^n=3\\times C_6^n",
+    "note": "組合數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times C_4^n=3\\\\times C_6^n\",\"note\":\"組合數方程式\"}\n",
+    "ts": "2026-04-29T06:16:33.314881+00:00",
+    "engine": "codex"
+  },
+  "image_ff940d758f5ac8.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{(n-4)(n-5)}=\\frac{3}{6\\times5}",
+    "note": "分式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{(n-4)(n-5)}=\\\\frac{3}{6\\\\times5}\",\"note\":\"分式方程\"}\n",
+    "ts": "2026-04-29T06:16:39.825397+00:00",
+    "engine": "codex"
+  },
+  "image_fdc74af2b9b38f.png": {
+    "classification": "formula",
+    "latex": "C_0^{10}-\\frac{1}{2}C_1^{10}+\\frac{1}{4}C_2^{10}+\\cdots+\\frac{1}{2^{10}}C_{10}^{10}=(\\frac{1}{2})^{10}",
+    "note": "二項式係數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{10}-\\\\frac{1}{2}C_1^{10}+\\\\frac{1}{4}C_2^{10}+\\\\cdots+\\\\frac{1}{2^{10}}C_{10}^{10}=(\\\\frac{1}{2})^{10}\",\"note\":\"二項式係數等式\"}\n",
+    "ts": "2026-04-29T06:16:40.336729+00:00",
+    "engine": "codex"
+  },
+  "image_ff52ff7eb8304b.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{8}\\times C_{3}^{5}\\times C_{2}^{2}\\times \\frac{1}{2!}",
+    "note": "組合數相乘公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{8}\\\\times C_{3}^{5}\\\\times C_{2}^{2}\\\\times \\\\frac{1}{2!}\",\"note\":\"組合數相乘公式\"}\n",
+    "ts": "2026-04-29T06:16:40.632801+00:00",
+    "engine": "codex"
+  },
+  "image_f9bfabe3b008d7.png": {
+    "classification": "formula",
+    "latex": "C_0^n+C_1^n3+C_2^n3^2+\\cdots+C_n^n3^n=(1+3)^n",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^n+C_1^n3+C_2^n3^2+\\\\cdots+C_n^n3^n=(1+3)^n\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-29T06:16:40.975547+00:00",
+    "engine": "codex"
+  }
+}

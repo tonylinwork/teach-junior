@@ -1,0 +1,170 @@
+{
+  "image_0f0944f9964273.png": {
+    "classification": "formula",
+    "latex": "x^2-4x-1=0",
+    "note": "二次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-4x-1=0\",\"note\":\"二次方程式\"}\n",
+    "ts": "2026-04-30T06:23:40.161252+00:00",
+    "engine": "codex"
+  },
+  "image_2bf41712721f89.png": {
+    "classification": "formula",
+    "latex": "0.7 \\le a < 0.8",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.7 \\\\le a < 0.8\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-30T06:23:42.220843+00:00",
+    "engine": "codex"
+  },
+  "image_4443d1062ee6bf.png": {
+    "classification": "formula",
+    "latex": "=\\left(x^3-\\frac{1}{x^3}\\right)+\\left(x^2+\\frac{1}{x^2}\\right)",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left(x^3-\\\\frac{1}{x^3}\\\\right)+\\\\left(x^2+\\\\frac{1}{x^2}\\\\right)\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-30T06:23:43.449968+00:00",
+    "engine": "codex"
+  },
+  "image_17ebaf06512dde.png": {
+    "classification": "formula",
+    "latex": "60=50(1+r)^{12}",
+    "note": "複利成長方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60=50(1+r)^{12}\",\"note\":\"複利成長方程式\"}\n",
+    "ts": "2026-04-30T06:23:44.233397+00:00",
+    "engine": "codex"
+  },
+  "image_4b606b180f0f45.png": {
+    "classification": "formula",
+    "latex": "a \\ge 0.8",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\ge 0.8\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:23:46.304949+00:00",
+    "engine": "codex"
+  },
+  "image_6f353d17899763.png": {
+    "classification": "formula",
+    "latex": "x^2-1=4x\\Rightarrow x-\\frac{1}{x}=4",
+    "note": "代數等式變形",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-1=4x\\\\Rightarrow x-\\\\frac{1}{x}=4\",\"note\":\"代數等式變形\"}\n",
+    "ts": "2026-04-30T06:23:49.421795+00:00",
+    "engine": "codex"
+  },
+  "image_6edadaa1dfc3ba.png": {
+    "classification": "formula",
+    "latex": "x^2+\\frac{1}{x^2}=18\\cdots",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2+\\\\frac{1}{x^2}=18\\\\cdots\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:23:50.449227+00:00",
+    "engine": "codex"
+  },
+  "image_4bf4ac9f67abeb.png": {
+    "classification": "formula",
+    "latex": "0.5x^y0.5=",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.5x^y0.5=\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:23:51.480925+00:00",
+    "engine": "codex"
+  },
+  "image_70cb2e201eef77.png": {
+    "classification": "formula",
+    "latex": "0.6 \\le a < 0.7",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.6 \\\\le a < 0.7\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-30T06:23:53.701947+00:00",
+    "engine": "codex"
+  },
+  "image_8c73ba6fd2743d.png": {
+    "classification": "formula",
+    "latex": "=4\\times 19+18=94",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=4\\\\times 19+18=94\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T06:23:56.589413+00:00",
+    "engine": "codex"
+  },
+  "image_8a7fd4bdcd811f.png": {
+    "classification": "formula",
+    "latex": "a<0.5",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a<0.5\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:23:56.778438+00:00",
+    "engine": "codex"
+  },
+  "image_7eec58eb6ad47f.png": {
+    "classification": "formula",
+    "latex": "=\\left(x-\\frac{1}{x}\\right)\\left(x^2+1+\\frac{1}{x^2}\\right)+\\left(x^2+\\frac{1}{x^2}\\right)\\cdots",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left(x-\\\\frac{1}{x}\\\\right)\\\\left(x^2+1+\\\\frac{1}{x^2}\\\\right)+\\\\left(x^2+\\\\frac{1}{x^2}\\\\right)\\\\cdots\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:23:58.175093+00:00",
+    "engine": "codex"
+  },
+  "image_8cef81fd3ddcf9.png": {
+    "classification": "formula",
+    "latex": "(1+r)^{12}=\\frac{6}{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1+r)^{12}=\\\\frac{6}{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:24:02.830420+00:00",
+    "engine": "codex"
+  },
+  "image_a991587e5be9d7.png": {
+    "classification": "formula",
+    "latex": "=50\\left(\\frac{6}{5}\\right)^3=86.4",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=50\\\\left(\\\\frac{6}{5}\\\\right)^3=86.4\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T06:24:03.290091+00:00",
+    "engine": "codex"
+  },
+  "image_98f603b521dcdb.png": {
+    "classification": "formula",
+    "latex": "x-\\frac{1}{x}=4\\Rightarrow x^2+\\frac{1}{x^2}-2=16",
+    "note": "代數式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-\\\\frac{1}{x}=4\\\\Rightarrow x^2+\\\\frac{1}{x^2}-2=16\",\"note\":\"代數式推導\"}\n",
+    "ts": "2026-04-30T06:24:03.352549+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-30T06:24:04.110127+00:00",
+    "engine": "codex"
+  },
+  "image_cc5b7e5db6dbe0.png": {
+    "classification": "formula",
+    "latex": "0.5 \\le a < 0.6",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.5 \\\\le a < 0.6\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-30T06:24:07.998042+00:00",
+    "engine": "codex"
+  },
+  "image_d092717657c155.png": {
+    "classification": "formula",
+    "latex": "r",
+    "note": "單一變數 r",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r\",\"note\":\"單一變數 r\"}\n",
+    "ts": "2026-04-30T06:24:08.841752+00:00",
+    "engine": "codex"
+  },
+  "image_b1b4e6fd00bc55.png": {
+    "classification": "formula",
+    "latex": "x^3+x^2+x^{-2}-x^{-3}",
+    "note": "純代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^3+x^2+x^{-2}-x^{-3}\",\"note\":\"純代數式\"}\n",
+    "ts": "2026-04-30T06:24:09.331625+00:00",
+    "engine": "codex"
+  },
+  "image_f768c8cb3009ac.png": {
+    "classification": "formula",
+    "latex": "a=(0.5)^{0.5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=(0.5)^{0.5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:24:10.156526+00:00",
+    "engine": "codex"
+  },
+  "image_fb43ede245b937.png": {
+    "classification": "formula",
+    "latex": "50(1+r)^{36}=50\\left((1+r)^{12}\\right)^3",
+    "note": "指數冪次法則改寫",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50(1+r)^{36}=50\\\\left((1+r)^{12}\\\\right)^3\",\"note\":\"指數冪次法則改寫\"}\n",
+    "ts": "2026-04-30T06:24:14.185688+00:00",
+    "engine": "codex"
+  }
+}

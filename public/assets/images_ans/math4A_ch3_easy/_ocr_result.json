@@ -1,0 +1,1178 @@
+{
+  "image_0464676b73543b.png": {
+    "classification": "formula",
+    "latex": "(1, -2, -2)",
+    "note": "座標點 (1, -2, -2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1, -2, -2)\",\"note\":\"座標點 (1, -2, -2)\"}\n",
+    "ts": "2026-04-29T23:49:54.607557+00:00"
+  },
+  "image_01d1c39a10073b.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{2}",
+    "note": "分數二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{2}\",\"note\":\"分數二分之五\"}\n",
+    "ts": "2026-04-29T23:50:00.241210+00:00"
+  },
+  "image_0672eac5c6c41a.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T23:50:00.639470+00:00"
+  },
+  "image_084a7479536d9c.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = \\overrightarrow{AB} \\cdot \\overrightarrow{AD}",
+    "note": "向量內積等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB} \\\\cdot \\\\overrightarrow{AC} = \\\\overrightarrow{AB} \\\\cdot \\\\overrightarrow{AD}\",\"note\":\"向量內積等式\"}\n",
+    "ts": "2026-04-29T23:50:12.126270+00:00"
+  },
+  "image_074389febce8ae.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} \\times \\vec{a}",
+    "note": "向量 b 與 a 的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b} \\\\times \\\\vec{a}\",\"note\":\"向量 b 與 a 的外積\"}\n",
+    "ts": "2026-04-29T23:50:16.474140+00:00"
+  },
+  "image_0fe809399ea957.png": {
+    "classification": "formula",
+    "latex": "\\vec{AG} \\cdot \\vec{CE} \\neq 0",
+    "note": "向量 AG 與 CE 的內積不等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{AG} \\\\cdot \\\\vec{CE} \\\\neq 0\",\"note\":\"向量 AG 與 CE 的內積不等於 0\"}\n",
+    "ts": "2026-04-29T23:50:19.327010+00:00"
+  },
+  "image_105dac78d3917e.png": {
+    "classification": "formula",
+    "latex": "k",
+    "note": "變數 k",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k\",\"note\":\"變數 k\"}\n",
+    "ts": "2026-04-29T23:50:22.274490+00:00"
+  },
+  "image_0a39e3e7800744.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} \\cdot \\overrightarrow{BC} = |\\overrightarrow{AB}| |\\overrightarrow{BC}| \\cos 120^\\circ = 2 \\times 2 \\times (-\\frac{1}{2}) = -2",
+    "note": "向量內積計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} \\cdot \\overrightarrow{BC} = |\\overrightarrow{AB}| |\\overrightarrow{BC}| \\cos 120^\\circ = 2 \\times 2 \\times (-\\frac{1}{2}) = -2\",\"note\":\"向量內積計算\"}\n",
+    "ts": "2026-04-29T23:50:28.567827+00:00"
+  },
+  "image_14a7b513ab56f1.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-29T23:50:33.615493+00:00"
+  },
+  "image_1352f01bb4191e.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} = (7, 8, 9)",
+    "note": "向量 b 等於 (7, 8, 9)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b} = (7, 8, 9)\",\"note\":\"向量 b 等於 (7, 8, 9)\"}\n",
+    "ts": "2026-04-29T23:50:39.240406+00:00"
+  },
+  "image_1af48e165140ce.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} = (2, -1, 2)",
+    "note": "向量 a 等於 (2, -1, 2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} = (2, -1, 2)\",\"note\":\"向量 a 等於 (2, -1, 2)\"}\n",
+    "ts": "2026-04-29T23:50:40.887912+00:00"
+  },
+  "image_207317276237ca.png": {
+    "classification": "formula",
+    "latex": "\\vec{AD}",
+    "note": "向量 AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{AD}\",\"note\":\"向量 AD\"}\n",
+    "ts": "2026-04-29T23:50:45.635831+00:00"
+  },
+  "image_22d10670816045.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-29T23:50:55.879531+00:00"
+  },
+  "image_1f2c2fb2073d67.png": {
+    "classification": "formula",
+    "latex": "\\vec{AB}",
+    "note": "向量 AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{AB}\",\"note\":\"向量 AB\"}\n",
+    "ts": "2026-04-29T23:51:01.739316+00:00"
+  },
+  "image_2401324f94c2e4.png": {
+    "classification": "formula",
+    "latex": "|\\vec{a} \\times \\vec{b}|",
+    "note": "向量a與b外積的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\vec{a} \\\\times \\\\vec{b}|\",\"note\":\"向量a與b外積的長度\"}\n",
+    "ts": "2026-04-29T23:51:01.872708+00:00"
+  },
+  "image_27092e900a839e.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字 3\"}\n",
+    "ts": "2026-04-29T23:51:06.279694+00:00"
+  },
+  "image_228d316807160d.png": {
+    "classification": "formula",
+    "latex": "\\vec{AE} \\cdot \\vec{EG} = 0",
+    "note": "向量內積為0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{AE} \\\\cdot \\\\vec{EG} = 0\",\"note\":\"向量內積為0\"}\n",
+    "ts": "2026-04-29T23:51:06.649584+00:00"
+  },
+  "image_278ba5f3561f54.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} \\times \\vec{b}) \\perp (\\vec{a} + \\vec{b})",
+    "note": "向量外積與向量和的垂直關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} \\\\times \\\\vec{b}) \\\\perp (\\\\vec{a} + \\\\vec{b})\",\"note\":\"向量外積與向量和的垂直關係\"}\n",
+    "ts": "2026-04-29T23:51:17.991414+00:00"
+  },
+  "image_28c5d668171868.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T23:51:20.079745+00:00"
+  },
+  "image_2891c56c57a46f.png": {
+    "classification": "formula",
+    "latex": "2\\vec{b}",
+    "note": "2b 向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\vec{b}\",\"note\":\"2b 向量\"}\n",
+    "ts": "2026-04-29T23:51:20.717813+00:00"
+  },
+  "image_29bd160e680bca.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} + \\vec{b}) \\cdot (\\vec{a} \\times \\vec{b})",
+    "note": "向量內積與外積運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} + \\\\vec{b}) \\\\cdot (\\\\vec{a} \\\\times \\\\vec{b})\",\"note\":\"向量內積與外積運算\"}\n",
+    "ts": "2026-04-29T23:51:27.001400+00:00"
+  },
+  "image_2a8e71e58e9e7f.png": {
+    "classification": "formula",
+    "latex": "(-2, 2, 1)",
+    "note": "三維座標或向量 (-2, 2, 1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-2, 2, 1)\",\"note\":\"三維座標或向量 (-2, 2, 1)\"}\n",
+    "ts": "2026-04-29T23:51:28.554187+00:00"
+  },
+  "image_2ac1256c4dd39c.png": {
+    "classification": "formula",
+    "latex": "(5\\vec{a}-3\\vec{b})\\cdot(\\vec{a}\\times\\vec{b})",
+    "note": "向量內積與外積運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(5\\vec{a}-3\\vec{b})\\cdot(\\vec{a}\\times\\vec{b})\",\"note\":\"向量內積與外積運算式\"}\n",
+    "ts": "2026-04-29T23:51:34.428366+00:00"
+  },
+  "image_2c11b7ec59c630.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}|\\overrightarrow{AB}\\times\\overrightarrow{AC}|=\\frac{1}{2}\\sqrt{(-2)^2+1^2+(-2)^2}=\\frac{3}{2}",
+    "note": "向量外積與三角形面積計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}|\\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}|=\\\\frac{1}{2}\\\\sqrt{(-2)^2+1^2+(-2)^2}=\\\\frac{3}{2}\",\"note\":\"向量外積與三角形面積計算\"}\n",
+    "ts": "2026-04-29T23:51:36.374772+00:00"
+  },
+  "image_2de6f6e68d492e.png": {
+    "classification": "formula",
+    "latex": "\\vec{CD}",
+    "note": "向量 CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{CD}\",\"note\":\"向量 CD\"}\n",
+    "ts": "2026-04-29T23:51:37.803854+00:00"
+  },
+  "image_2fbd9d8583239e.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot \\vec{b}",
+    "note": "向量 a 與向量 b 的內積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\cdot \\\\vec{b}\",\"note\":\"向量 a 與向量 b 的內積\"}\n",
+    "ts": "2026-04-29T23:51:45.403705+00:00"
+  },
+  "image_3265f89565becb.png": {
+    "classification": "formula",
+    "latex": "(\\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{b}|^2}) \\vec{b}",
+    "note": "正射影向量公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\frac{\\\\vec{a} \\\\cdot \\\\vec{b}}{|\\\\vec{b}|^2}) \\\\vec{b}\",\"note\":\"正射影向量公式\"}\n",
+    "ts": "2026-04-29T23:51:48.766265+00:00"
+  },
+  "image_330b593932c1f3.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{EG}",
+    "note": "向量加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{EG}\",\"note\":\"向量加法等式\"}\n",
+    "ts": "2026-04-29T23:51:48.869808+00:00"
+  },
+  "image_32ab23cdf16b81.png": {
+    "classification": "formula",
+    "latex": "x^2 + y^2 + 4z^2 \\ge \\frac{6^2}{3} = 12",
+    "note": "包含不等式的數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2 + y^2 + 4z^2 \\ge \\frac{6^2}{3} = 12\",\"note\":\"包含不等式的數學公式\"}\n",
+    "ts": "2026-04-29T23:51:49.025172+00:00"
+  },
+  "image_36aef268282e20.png": {
+    "classification": "formula",
+    "latex": "\\overline{CE}",
+    "note": "線段 CE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{CE}\",\"note\":\"線段 CE\"}\n",
+    "ts": "2026-04-29T23:52:03.156943+00:00"
+  },
+  "image_370a2771b0e129.png": {
+    "classification": "formula",
+    "latex": "t \\vec{b}",
+    "note": "t 倍的向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t \\vec{b}\",\"note\":\"t 倍的向量 b\"}\n",
+    "ts": "2026-04-29T23:52:09.959868+00:00"
+  },
+  "image_3636522a192473.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AD} \\cdot \\overrightarrow{BC} = 0",
+    "note": "向量內積等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AD} \\\\cdot \\\\overrightarrow{BC} = 0\",\"note\":\"向量內積等於0\"}\n",
+    "ts": "2026-04-29T23:52:10.611986+00:00"
+  },
+  "image_38a66fd38c9fc7.png": {
+    "classification": "formula",
+    "latex": "5\\vec{b}-4\\vec{a}",
+    "note": "向量運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\\vec{b}-4\\vec{a}\",\"note\":\"向量運算式\"}\n",
+    "ts": "2026-04-29T23:52:11.724367+00:00"
+  },
+  "image_390b7a04de8b55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字 9\"}\n",
+    "ts": "2026-04-29T23:52:13.272299+00:00"
+  },
+  "image_3bb9de5256d4fb.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot \\vec{b} < 0",
+    "note": "向量內積小於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\cdot \\\\vec{b} < 0\",\"note\":\"向量內積小於零\"}\n",
+    "ts": "2026-04-29T23:52:26.119466+00:00"
+  },
+  "image_3fe7bd5260a9a1.png": {
+    "classification": "formula",
+    "latex": "=\\vec{a} \\cdot (\\vec{a} \\times \\vec{b}) + \\vec{b} \\cdot (\\vec{a} \\times \\vec{b}) = 0",
+    "note": "向量內積與外積運算恆等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\vec{a} \\cdot (\\vec{a} \\times \\vec{b}) + \\vec{b} \\cdot (\\vec{a} \\times \\vec{b}) = 0\",\"note\":\"向量內積與外積運算恆等於0\"}\n",
+    "ts": "2026-04-29T23:52:26.883977+00:00"
+  },
+  "image_40fe6688de9bc1.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T23:52:27.549909+00:00"
+  },
+  "image_4139b932469933.png": {
+    "classification": "formula",
+    "latex": "|\\vec{a}|=2",
+    "note": "向量a的長度為2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\vec{a}|=2\",\"note\":\"向量a的長度為2\"}\n",
+    "ts": "2026-04-29T23:52:32.196718+00:00"
+  },
+  "image_419b1988abdd98.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "標記頂點的正方體圖形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"標記頂點的正方體圖形\"}\n",
+    "ts": "2026-04-29T23:52:36.581347+00:00"
+  },
+  "image_4c1fdaff436155.png": {
+    "classification": "formula",
+    "latex": "(1, 1, 1)",
+    "note": "三維座標 (1, 1, 1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1, 1, 1)\",\"note\":\"三維座標 (1, 1, 1)\"}\n",
+    "ts": "2026-04-29T23:52:43.197730+00:00"
+  },
+  "image_436e281a9c1681.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}|\\vec{AB} \\times \\vec{AC}|",
+    "note": "三角形面積公式，利用向量外積求模長的一半",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}|\\\\vec{AB} \\\\times \\\\vec{AC}|\",\"note\":\"三角形面積公式，利用向量外積求模長的一半\"}\n",
+    "ts": "2026-04-29T23:52:46.309360+00:00"
+  },
+  "image_4c4a813005a66d.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "數字 12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"數字 12\"}\n",
+    "ts": "2026-04-29T23:52:46.773427+00:00"
+  },
+  "image_46b21b738ef85c.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\overrightarrow{AB} \\times \\overrightarrow{AC} = \\left( \\begin{vmatrix} 2 & 2 \\ 2 & 1 \\end{vmatrix}, \\begin{vmatrix} 2 & -1 \\ 1 & 0 \\end{vmatrix}, \\begin{vmatrix} -1 & 2 \\ 0 & 2 \\end{vmatrix} \\right) = (-2, 1, -2)",
+    "note": "向量外積計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\Rightarrow \\overrightarrow{AB} \\times \\overrightarrow{AC} = \\left( \\begin{vmatrix} 2 & 2 \\\\ 2 & 1 \\end{vmatrix}, \\begin{vmatrix} 2 & -1 \\\\ 1 & 0 \\end{vmatrix}, \\begin{vmatrix} -1 & 2 \\\\ 0 & 2 \\end{vmatrix} \\right) = (-2, 1, -2)\",\"note\":\"向量外積計算\"}\n",
+    "ts": "2026-04-29T23:52:48.941902+00:00"
+  },
+  "image_4cf86c98e2bbb4.png": {
+    "classification": "formula",
+    "latex": "z",
+    "note": "變數 z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z\",\"note\":\"變數 z\"}\n",
+    "ts": "2026-04-29T23:52:54.297938+00:00"
+  },
+  "image_4d801bdb379e79.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"數字6\"}\n",
+    "ts": "2026-04-29T23:52:56.615119+00:00"
+  },
+  "image_4df85730e803c8.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{a} = \\vec{0}",
+    "note": "向量外積公式：a 向量與自身外積為零向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{a} = \\vec{0}\",\"note\":\"向量外積公式：a 向量與自身外積為零向量\"}\n",
+    "ts": "2026-04-29T23:53:02.781033+00:00"
+  },
+  "image_54cf01021b57cd.png": {
+    "classification": "formula",
+    "latex": "\\vec{n} \\parallel (\\vec{a} \\times \\vec{b})",
+    "note": "向量n平行於向量a與b的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{n} \\parallel (\\vec{a} \\times \\vec{b})\",\"note\":\"向量n平行於向量a與b的外積\"}\n",
+    "ts": "2026-04-29T23:53:13.703051+00:00"
+  },
+  "image_4ebb7f88eb95e1.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\perp (\\vec{a} \\times \\vec{b})",
+    "note": "向量a垂直於a與b的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\perp (\\\\vec{a} \\\\times \\\\vec{b})\",\"note\":\"向量a垂直於a與b的外積\"}\n",
+    "ts": "2026-04-29T23:53:14.839870+00:00"
+  },
+  "image_543a8c95b03252.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-29T23:53:16.503644+00:00"
+  },
+  "image_4e88f5b3fed114.png": {
+    "classification": "formula",
+    "latex": "\\implies \\vec{AB} \\cdot \\vec{CD} = 0",
+    "note": "向量 AB 與 CD 的內積為 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\implies \\\\vec{AB} \\\\cdot \\\\vec{CD} = 0\",\"note\":\"向量 AB 與 CD 的內積為 0\"}\n",
+    "ts": "2026-04-29T23:53:16.506251+00:00"
+  },
+  "image_5566573ad19603.png": {
+    "classification": "formula",
+    "latex": "\\vec{AG} \\cdot \\vec{CE} = 0",
+    "note": "向量 AG 與 CE 的內積等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{AG} \\cdot \\vec{CE} = 0\",\"note\":\"向量 AG 與 CE 的內積等於 0\"}\n",
+    "ts": "2026-04-29T23:53:30.985336+00:00"
+  },
+  "image_55417d34283e5d.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} = (5, 4, -3)",
+    "note": "向量 a 的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} = (5, 4, -3)\",\"note\":\"向量 a 的坐標表示\"}\n",
+    "ts": "2026-04-29T23:53:32.359945+00:00"
+  },
+  "image_568603dc339eda.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = 0",
+    "note": "向量 AB 與 AC 的內積等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB} \\\\cdot \\\\overrightarrow{AC} = 0\",\"note\":\"向量 AB 與 AC 的內積等於 0\"}\n",
+    "ts": "2026-04-29T23:53:37.239033+00:00"
+  },
+  "image_5706e508cdac98.png": {
+    "classification": "formula",
+    "latex": "18",
+    "note": "數字 18",
+    "raw": "{\"class\":\"formula\",\"latex\":\"18\",\"note\":\"數字 18\"}\n",
+    "ts": "2026-04-29T23:53:41.662470+00:00"
+  },
+  "image_557778ba974704.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} \\times \\vec{b}) \\perp \\vec{b}",
+    "note": "向量外積垂直關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} \\\\times \\\\vec{b}) \\\\perp \\\\vec{b}\",\"note\":\"向量外積垂直關係\"}\n",
+    "ts": "2026-04-29T23:53:43.407144+00:00"
+  },
+  "image_57d7911509a547.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC\"}\n",
+    "ts": "2026-04-29T23:53:48.231295+00:00"
+  },
+  "image_597dc5e39d12e0.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\perp \\vec{b}",
+    "note": "向量 a 垂直於向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\perp \\\\vec{b}\",\"note\":\"向量 a 垂直於向量 b\"}\n",
+    "ts": "2026-04-29T23:53:55.097845+00:00"
+  },
+  "image_5b14326e5ed3b5.png": {
+    "classification": "formula",
+    "latex": "-10",
+    "note": "負10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-10\",\"note\":\"負10\"}\n",
+    "ts": "2026-04-29T23:53:59.852496+00:00"
+  },
+  "image_5b5cb95581c11d.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b}",
+    "note": "向量 a 與向量 b 的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{b}\",\"note\":\"向量 a 與向量 b 的外積\"}\n",
+    "ts": "2026-04-29T23:54:00.249765+00:00"
+  },
+  "image_5a5c6bfb1b44c6.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-29T23:54:02.935818+00:00"
+  },
+  "image_5b9d19fe603d0e.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "向量與點的幾何分佈圖，包含垂直輔助線",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"向量與點的幾何分佈圖，包含垂直輔助線\"}\n",
+    "ts": "2026-04-29T23:54:08.045331+00:00"
+  },
+  "image_61afbfd0f6d555.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\overrightarrow{AB} \\cdot (\\overrightarrow{AD} - \\overrightarrow{AC}) = 0",
+    "note": "向量點積運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\Rightarrow \\overrightarrow{AB} \\cdot (\\overrightarrow{AD} - \\overrightarrow{AC}) = 0\",\"note\":\"向量點積運算式\"}\n",
+    "ts": "2026-04-29T23:54:14.250634+00:00"
+  },
+  "image_628c0645d4e93d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = \\overline{AD}",
+    "note": "線段 AC 等於線段 AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AC} = \\overline{AD}\",\"note\":\"線段 AC 等於線段 AD\"}\n",
+    "ts": "2026-04-29T23:54:20.633274+00:00"
+  },
+  "image_682fd4da0c86be.png": {
+    "classification": "formula",
+    "latex": "\\overline{AE} \\perp \\overline{EG}",
+    "note": "線段AE垂直於線段EG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AE} \\perp \\overline{EG}\",\"note\":\"線段AE垂直於線段EG\"}\n",
+    "ts": "2026-04-29T23:54:24.816668+00:00"
+  },
+  "image_6872c9c03f3e3d.png": {
+    "classification": "formula",
+    "latex": "ABFE",
+    "note": "字母 ABFE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABFE\",\"note\":\"字母 ABFE\"}\n",
+    "ts": "2026-04-29T23:54:32.538205+00:00"
+  },
+  "image_5ed04ba7c09014.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} + \\vec{b}",
+    "note": "向量 a 加向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} + \\\\vec{b}\",\"note\":\"向量 a 加向量 b\"}\n",
+    "ts": "2026-04-29T23:54:34.539008+00:00"
+  },
+  "image_6925d9bb68994b.png": {
+    "classification": "formula",
+    "latex": "-14",
+    "note": "負14",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-14\",\"note\":\"負14\"}\n",
+    "ts": "2026-04-29T23:54:34.788666+00:00"
+  },
+  "image_6368e06036b8c3.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AG}",
+    "note": "向量 AG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AG}\",\"note\":\"向量 AG\"}\n",
+    "ts": "2026-04-29T23:54:41.115888+00:00"
+  },
+  "image_6f26df43576e2b.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} + \\vec{b}",
+    "note": "向量 a 加上向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} + \\vec{b}\",\"note\":\"向量 a 加上向量 b\"}\n",
+    "ts": "2026-04-29T23:54:51.583008+00:00"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"變數 y\"}\n",
+    "ts": "2026-04-29T23:54:52.192374+00:00"
+  },
+  "image_73409bcbce1bab.png": {
+    "classification": "formula",
+    "latex": "\\vec{n} \\perp \\vec{a}",
+    "note": "向量 n 垂直於向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n} \\\\perp \\\\vec{a}\",\"note\":\"向量 n 垂直於向量 a\"}\n",
+    "ts": "2026-04-29T23:54:52.607171+00:00"
+  },
+  "image_6de9e25c451367.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} \\cdot \\overrightarrow{BC} = 2",
+    "note": "向量AB與BC的內積等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} \\cdot \\overrightarrow{BC} = 2\",\"note\":\"向量AB與BC的內積等於2\"}\n",
+    "ts": "2026-04-29T23:54:57.287871+00:00"
+  },
+  "image_790b54247febef.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} = (1, 1, 1)",
+    "note": "向量 a 等於 (1, 1, 1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} = (1, 1, 1)\",\"note\":\"向量 a 等於 (1, 1, 1)\"}\n",
+    "ts": "2026-04-29T23:55:08.483145+00:00"
+  },
+  "image_7697554d23c7c1.png": {
+    "classification": "formula",
+    "latex": "\\vec{n} \\perp \\vec{b}",
+    "note": "向量 n 垂直於向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n} \\\\perp \\\\vec{b}\",\"note\":\"向量 n 垂直於向量 b\"}\n",
+    "ts": "2026-04-29T23:55:11.344630+00:00"
+  },
+  "image_794e3fe08c7ccf.png": {
+    "classification": "formula",
+    "latex": "\\overline{ED} \\perp \\overline{EF}",
+    "note": "線段 ED 垂直於線段 EF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{ED} \\perp \\overline{EF}\",\"note\":\"線段 ED 垂直於線段 EF\"}\n",
+    "ts": "2026-04-29T23:55:12.532770+00:00"
+  },
+  "image_7c1cfcd26d6612.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字 3\"}\n",
+    "ts": "2026-04-29T23:55:18.335358+00:00"
+  },
+  "image_76f262538cbc6c.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} \\times \\vec{a} = -(\\vec{a} \\times \\vec{b})",
+    "note": "向量外積的反交換律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b} \\\\times \\\\vec{a} = -(\\\\vec{a} \\\\times \\\\vec{b})\",\"note\":\"向量外積的反交換律\"}\n",
+    "ts": "2026-04-29T23:55:22.784633+00:00"
+  },
+  "image_7c337f2781c7c3.png": {
+    "classification": "formula",
+    "latex": "(x^2 + y^2 + z^2)(2^2 + 2^2 + 1^2) \\geq (2x + 2y + z)^2",
+    "note": "柯西不等式的應用",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x^2 + y^2 + z^2)(2^2 + 2^2 + 1^2) \\geq (2x + 2y + z)^2\",\"note\":\"柯西不等式的應用\"}\n",
+    "ts": "2026-04-29T23:55:22.915938+00:00"
+  },
+  "image_7e28f5cc5ea90c.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{AC} = \\overrightarrow{EG}",
+    "note": "向量加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{AC} = \\overrightarrow{EG}\",\"note\":\"向量加法等式\"}\n",
+    "ts": "2026-04-29T23:55:30.268176+00:00"
+  },
+  "image_7c80f32417e318.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T23:55:34.735111+00:00"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"變數 x\"}\n",
+    "ts": "2026-04-29T23:55:36.183535+00:00"
+  },
+  "image_8128faacfeb5d9.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b}",
+    "note": "向量 a 與 b 的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{b}\",\"note\":\"向量 a 與 b 的外積\"}\n",
+    "ts": "2026-04-29T23:55:38.459795+00:00"
+  },
+  "image_81f5d8ebbe1afb.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} \\times (3 \\vec{b}) = \\vec{0}",
+    "note": "向量外積運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b} \\times (3 \\vec{b}) = \\vec{0}\",\"note\":\"向量外積運算\"}\n",
+    "ts": "2026-04-29T23:55:43.232338+00:00"
+  },
+  "image_84bd9ca74c7509.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AE} = \\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CG} = \\overrightarrow{AG}",
+    "note": "向量加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AE} = \\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CG} = \\overrightarrow{AG}\",\"note\":\"向量加法等式\"}\n",
+    "ts": "2026-04-29T23:55:50.820674+00:00"
+  },
+  "image_840932a819341d.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot \\vec{b} = \\vec{a} \\times \\vec{b}",
+    "note": "向量內積與外積的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\cdot \\\\vec{b} = \\\\vec{a} \\\\times \\\\vec{b}\",\"note\":\"向量內積與外積的公式\"}\n",
+    "ts": "2026-04-29T23:55:53.439441+00:00"
+  },
+  "image_87a6cf5b01a6b6.png": {
+    "classification": "formula",
+    "latex": "x^2 + y^2 + z^2",
+    "note": "x^2 + y^2 + z^2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2 + y^2 + z^2\",\"note\":\"x^2 + y^2 + z^2\"}\n",
+    "ts": "2026-04-29T23:55:54.235955+00:00"
+  },
+  "image_84b9683c4fbd22.png": {
+    "classification": "formula",
+    "latex": "(\\vec{b} \\times \\vec{a}) \\parallel (\\vec{a} \\times \\vec{b})",
+    "note": "向量外積平行關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{b} \\\\times \\\\vec{a}) \\\\parallel (\\\\vec{a} \\\\times \\\\vec{b})\",\"note\":\"向量外積平行關係\"}\n",
+    "ts": "2026-04-29T23:55:59.975337+00:00"
+  },
+  "image_88f22ef332bbda.png": {
+    "classification": "formula",
+    "latex": "\\vec{AC}",
+    "note": "向量 AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{AC}\",\"note\":\"向量 AC\"}\n",
+    "ts": "2026-04-29T23:56:05.217082+00:00"
+  },
+  "image_894262edf81364.png": {
+    "classification": "formula",
+    "latex": "\\vec{n} \\perp (\\vec{a} \\times \\vec{b})",
+    "note": "n 向量垂直於 a 與 b 向量的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{n} \\perp (\\vec{a} \\times \\vec{b})\",\"note\":\"n 向量垂直於 a 與 b 向量的外積\"}\n",
+    "ts": "2026-04-29T23:56:05.535654+00:00"
+  },
+  "image_8a513004252e9d.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} = (1, 0, 2)",
+    "note": "向量 b 等於 (1, 0, 2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b} = (1, 0, 2)\",\"note\":\"向量 b 等於 (1, 0, 2)\"}\n",
+    "ts": "2026-04-29T23:56:12.919233+00:00"
+  },
+  "image_8cd04dfdc8c19a.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b} = \\vec{0}",
+    "note": "向量 a 與 b 的外積等於零向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{b} = \\vec{0}\",\"note\":\"向量 a 與 b 的外積等於零向量\"}\n",
+    "ts": "2026-04-29T23:56:16.636448+00:00"
+  },
+  "image_8dff4051ca13df.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} = (-2, -1, 6)",
+    "note": "向量 b = (-2, -1, 6)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{b} = (-2, -1, 6)\",\"note\":\"向量 b = (-2, -1, 6)\"}\n",
+    "ts": "2026-04-29T23:56:25.087715+00:00"
+  },
+  "image_8e1c9b01baa9fd.png": {
+    "classification": "formula",
+    "latex": "(\\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}|^2}) \\vec{b}",
+    "note": "向量投影相關公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\frac{\\\\vec{a} \\\\cdot \\\\vec{b}}{|\\\\vec{a}|^2}) \\\\vec{b}\",\"note\":\"向量投影相關公式\"}\n",
+    "ts": "2026-04-29T23:56:27.038693+00:00"
+  },
+  "image_95652f1029bda5.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} \\perp \\overline{AC}",
+    "note": "線段AB垂直於線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB} \\perp \\overline{AC}\",\"note\":\"線段AB垂直於線段AC\"}\n",
+    "ts": "2026-04-29T23:56:30.810802+00:00"
+  },
+  "image_8f99e07041fb21.png": {
+    "classification": "formula",
+    "latex": "\\vec{AB} \\cdot \\vec{CD} = 0",
+    "note": "向量AB與向量CD的內積為0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{AB} \\\\cdot \\\\vec{CD} = 0\",\"note\":\"向量AB與向量CD的內積為0\"}\n",
+    "ts": "2026-04-29T23:56:36.969557+00:00"
+  },
+  "image_95c2c795e2dbdf.png": {
+    "classification": "formula",
+    "latex": "\\vec{AE}",
+    "note": "向量AE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{AE}\",\"note\":\"向量AE\"}\n",
+    "ts": "2026-04-29T23:56:40.336636+00:00"
+  },
+  "image_9963d8b38858c9.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot \\vec{b} = |\\vec{a}| \\times |\\vec{b}| \\times \\cos \\theta < 0",
+    "note": "向量內積公式與餘弦值小於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\cdot \\vec{b} = |\\vec{a}| \\times |\\vec{b}| \\times \\cos \\theta < 0\",\"note\":\"向量內積公式與餘弦值小於零\"}\n",
+    "ts": "2026-04-29T23:56:42.301579+00:00"
+  },
+  "image_9a05a0fb777839.png": {
+    "classification": "formula",
+    "latex": "x^2 + y^2 + z^2 \\ge \\frac{81}{9} = 9",
+    "note": "三元二次平方和不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2 + y^2 + z^2 \\ge \\frac{81}{9} = 9\",\"note\":\"三元二次平方和不等式\"}\n",
+    "ts": "2026-04-29T23:56:48.185300+00:00"
+  },
+  "image_95a51b28260c7d.png": {
+    "classification": "formula",
+    "latex": "\\vec{AB} \\cdot \\vec{BC}",
+    "note": "向量 AB 與 BC 的內積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{AB} \\\\cdot \\\\vec{BC}\",\"note\":\"向量 AB 與 BC 的內積\"}\n",
+    "ts": "2026-04-29T23:56:48.777155+00:00"
+  },
+  "image_9ddfdee216db10.png": {
+    "classification": "formula",
+    "latex": "10 + (-9) + (k - 2) = 0",
+    "note": "方程式 10 + (-9) + (k - 2) = 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10 + (-9) + (k - 2) = 0\",\"note\":\"方程式 10 + (-9) + (k - 2) = 0\"}\n",
+    "ts": "2026-04-29T23:56:53.507860+00:00"
+  },
+  "image_9b0d4caf80c40c.png": {
+    "classification": "formula",
+    "latex": "\\vec{AC} = (0, 2, 1)",
+    "note": "向量 AC 的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{AC} = (0, 2, 1)\",\"note\":\"向量 AC 的座標表示\"}\n",
+    "ts": "2026-04-29T23:56:53.804344+00:00"
+  },
+  "image_9f7cbd87ca160f.png": {
+    "classification": "formula",
+    "latex": "(2, -2, 1)",
+    "note": "三維坐標或向量 (2, -2, 1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2, -2, 1)\",\"note\":\"三維坐標或向量 (2, -2, 1)\"}\n",
+    "ts": "2026-04-29T23:57:00.302277+00:00"
+  },
+  "image_9fa1dc0f79b620.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b} = -\\vec{b} \\times \\vec{a}",
+    "note": "向量外積的反交換律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{b} = -\\vec{b} \\times \\vec{a}\",\"note\":\"向量外積的反交換律\"}\n",
+    "ts": "2026-04-29T23:57:05.138619+00:00"
+  },
+  "image_a033ec4fac51e8.png": {
+    "classification": "formula",
+    "latex": "\\vec{ED} \\cdot \\vec{EF} = 0",
+    "note": "向量內積為 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{ED} \\cdot \\vec{EF} = 0\",\"note\":\"向量內積為 0\"}\n",
+    "ts": "2026-04-29T23:57:07.783114+00:00"
+  },
+  "image_a072d9168dae0d.png": {
+    "classification": "formula",
+    "latex": "(-2, -2, -1)",
+    "note": "三維空間座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-2, -2, -1)\",\"note\":\"三維空間座標\"}\n",
+    "ts": "2026-04-29T23:57:10.393318+00:00"
+  },
+  "image_a1afb4c46e6be8.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b}",
+    "note": "向量 a 與向量 b 的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{b}\",\"note\":\"向量 a 與向量 b 的外積\"}\n",
+    "ts": "2026-04-29T23:57:16.435881+00:00"
+  },
+  "image_a2724434688260.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-29T23:57:18.314300+00:00"
+  },
+  "image_a28a29c0844807.png": {
+    "classification": "formula",
+    "latex": "\\overline{AG}",
+    "note": "線段 AG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AG}\",\"note\":\"線段 AG\"}\n",
+    "ts": "2026-04-29T23:57:26.362860+00:00"
+  },
+  "image_9f3afe3b46a8ce.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b} = \\left( \\begin{vmatrix} 4 & -3 \\cr -1 & 6 \\end{vmatrix}, \\begin{vmatrix} -3 & 5 \\cr 6 & -2 \\end{vmatrix}, \\begin{vmatrix} 5 & 4 \\cr -2 & -1 \\end{vmatrix} \\right) = (21, -24, 3)",
+    "note": "向量外積的行列式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\times \\\\vec{b} = \\\\left( \\\\begin{vmatrix} 4 & -3 \\\\cr -1 & 6 \\\\end{vmatrix}, \\\\begin{vmatrix} -3 & 5 \\\\cr 6 & -2 \\\\end{vmatrix}, \\\\begin{vmatrix} 5 & 4 \\\\cr -2 & -1 \\\\end{vmatrix} \\\\right) = (21, -24, 3)\",\"note\":\"向量外積的行列式運算\"}\n",
+    "ts": "2026-04-29T23:57:31.437805+00:00"
+  },
+  "image_a5289bffca8945.png": {
+    "classification": "formula",
+    "latex": "(3^2 + 5^2 + 7^2)((\\sqrt{3})^2 + (\\sqrt{5})^2 + (\\sqrt{7})^2) > (3\\sqrt{7} + 5\\sqrt{5} + 7\\sqrt{3})^2",
+    "note": "柯西不等式的數值比較實例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3^2 + 5^2 + 7^2)((\\\\sqrt{3})^2 + (\\\\sqrt{5})^2 + (\\\\sqrt{7})^2) > (3\\\\sqrt{7} + 5\\\\sqrt{5} + 7\\\\sqrt{3})^2\",\"note\":\"柯西不等式的數值比較實例\"}\n",
+    "ts": "2026-04-29T23:57:34.013387+00:00"
+  },
+  "image_a4060796591e7b.png": {
+    "classification": "formula",
+    "latex": "\\vec{FH}",
+    "note": "向量 FH",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{FH}\",\"note\":\"向量 FH\"}\n",
+    "ts": "2026-04-29T23:57:36.370485+00:00"
+  },
+  "image_a8dfb3979e400c.png": {
+    "classification": "formula",
+    "latex": "\\vec{AF}",
+    "note": "向量 AF",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{AF}\",\"note\":\"向量 AF\"}\n",
+    "ts": "2026-04-29T23:57:39.180937+00:00"
+  },
+  "image_aeaa1c504aee99.png": {
+    "classification": "formula",
+    "latex": "\\frac{|\\vec{a} \\cdot \\vec{b}|}{|\\vec{b}|}",
+    "note": "向量投影長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{|\\\\vec{a} \\\\cdot \\\\vec{b}|}{|\\\\vec{b}|}\",\"note\":\"向量投影長度公式\"}\n",
+    "ts": "2026-04-29T23:57:45.021606+00:00"
+  },
+  "image_ad529f14aa6e76.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} \\times \\vec{b}) \\perp \\vec{a}",
+    "note": "向量外積垂直於原向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} \\\\times \\\\vec{b}) \\\\perp \\\\vec{a}\",\"note\":\"向量外積垂直於原向量\"}\n",
+    "ts": "2026-04-29T23:57:49.170826+00:00"
+  },
+  "image_aeb07f68d68588.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot \\vec{b} = 1 \\times (-1) + 1 \\times (-2) + 1 \\times 3 = 0",
+    "note": "向量內積計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\cdot \\vec{b} = 1 \\times (-1) + 1 \\times (-2) + 1 \\times 3 = 0\",\"note\":\"向量內積計算\"}\n",
+    "ts": "2026-04-29T23:57:49.254503+00:00"
+  },
+  "image_af583094b0ce97.png": {
+    "classification": "formula",
+    "latex": "(1,1,1)",
+    "note": "坐標 (1,1,1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,1,1)\",\"note\":\"坐標 (1,1,1)\"}\n",
+    "ts": "2026-04-29T23:57:56.504632+00:00"
+  },
+  "image_aeb60d8bca6e80.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AC} = (5, -3, k-2)",
+    "note": "向量 AC 等於 (5, -3, k-2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AC} = (5, -3, k-2)\",\"note\":\"向量 AC 等於 (5, -3, k-2)\"}\n",
+    "ts": "2026-04-29T23:57:56.557181+00:00"
+  },
+  "image_b609c846c879e8.png": {
+    "classification": "formula",
+    "latex": "(-2, -2, 1)",
+    "note": "三維座標 (-2, -2, 1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-2, -2, 1)\",\"note\":\"三維座標 (-2, -2, 1)\"}\n",
+    "ts": "2026-04-29T23:57:59.250669+00:00"
+  },
+  "image_b342da32b3c004.png": {
+    "classification": "formula",
+    "latex": "\\implies",
+    "note": "推導箭頭",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\implies\",\"note\":\"推導箭頭\"}\n",
+    "ts": "2026-04-29T23:58:04.653805+00:00"
+  },
+  "image_b8b0e951c139a8.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字 0\"}\n",
+    "ts": "2026-04-29T23:58:07.129128+00:00"
+  },
+  "image_bf38d25a232029.png": {
+    "classification": "formula",
+    "latex": "k = 1",
+    "note": "k=1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k = 1\",\"note\":\"k=1\"}\n",
+    "ts": "2026-04-29T23:58:09.857672+00:00"
+  },
+  "image_c039cf9d53cbf0.png": {
+    "classification": "formula",
+    "latex": "=|\\vec{a} \\times \\vec{b}| = \\sqrt{441 + 576 + 9} = \\sqrt{1026} \\approx 32",
+    "note": "計算向量外積的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=|\\\\vec{a} \\\\times \\\\vec{b}| = \\\\sqrt{441 + 576 + 9} = \\\\sqrt{1026} \\\\approx 32\",\"note\":\"計算向量外積的長度\"}\n",
+    "ts": "2026-04-29T23:58:19.339574+00:00"
+  },
+  "image_bab6ada0ecb77c.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-29T23:58:21.446906+00:00"
+  },
+  "image_c1097c107620e5.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AE} = \\overrightarrow{AG}",
+    "note": "向量加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB} + \\\\overrightarrow{AD} + \\\\overrightarrow{AE} = \\\\overrightarrow{AG}\",\"note\":\"向量加法等式\"}\n",
+    "ts": "2026-04-29T23:58:22.970625+00:00"
+  },
+  "image_c2d02ceb389015.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot (\\vec{a} \\times \\vec{b}) = 0",
+    "note": "向量a與a、b外積之內積等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\cdot (\\\\vec{a} \\\\times \\\\vec{b}) = 0\",\"note\":\"向量a與a、b外積之內積等於0\"}\n",
+    "ts": "2026-04-29T23:58:25.654906+00:00"
+  },
+  "image_c39bc5679cee33.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\cdot \\vec{b} = \\vec{b} \\cdot \\vec{a}",
+    "note": "向量內積交換律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\cdot \\vec{b} = \\vec{b} \\cdot \\vec{a}\",\"note\":\"向量內積交換律\"}\n",
+    "ts": "2026-04-29T23:58:32.277875+00:00"
+  },
+  "image_c356cc3b1c0608.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} = (3, 5, 7)",
+    "note": "向量 a 為 (3, 5, 7)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} = (3, 5, 7)\",\"note\":\"向量 a 為 (3, 5, 7)\"}\n",
+    "ts": "2026-04-29T23:58:33.819764+00:00"
+  },
+  "image_c626a1a5e02c60.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} \\times \\vec{b}) \\perp (2 \\vec{a} - 3 \\vec{b})",
+    "note": "向量垂直關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} \\times \\vec{b}) \\perp (2 \\vec{a} - 3 \\vec{b})\",\"note\":\"向量垂直關係式\"}\n",
+    "ts": "2026-04-29T23:58:40.139259+00:00"
+  },
+  "image_c4a3faf15ba58f.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b} = \\vec{b} \\times \\vec{a}",
+    "note": "向量外積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a} \\\\times \\\\vec{b} = \\\\vec{b} \\\\times \\\\vec{a}\",\"note\":\"向量外積公式\"}\n",
+    "ts": "2026-04-29T23:58:42.519623+00:00"
+  },
+  "image_c713c8a7210f07.png": {
+    "classification": "formula",
+    "latex": "|\\vec{b}|=3",
+    "note": "向量b的長度為3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\vec{b}|=3\",\"note\":\"向量b的長度為3\"}\n",
+    "ts": "2026-04-29T23:58:48.306177+00:00"
+  },
+  "image_cb0221708af19c.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字 2\"}\n",
+    "ts": "2026-04-29T23:58:49.805130+00:00"
+  },
+  "image_cad768fdb32812.png": {
+    "classification": "formula",
+    "latex": "\\vec{DG}",
+    "note": "向量 DG",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{DG}\",\"note\":\"向量 DG\"}\n",
+    "ts": "2026-04-29T23:58:50.074415+00:00"
+  },
+  "image_cc61a7d833bfac.png": {
+    "classification": "formula",
+    "latex": "2x + 2y + z = 9",
+    "note": "三元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x + 2y + z = 9\",\"note\":\"三元一次方程式\"}\n",
+    "ts": "2026-04-29T23:58:53.061792+00:00"
+  },
+  "image_cd5c7dc08a0c08.png": {
+    "classification": "formula",
+    "latex": "AD",
+    "note": "Mathematical expression AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"AD\",\"note\":\"Mathematical expression AD\"}\n",
+    "ts": "2026-04-29T23:58:59.639247+00:00"
+  },
+  "image_d08a4dba933901.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{2}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{2}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-29T23:59:03.448040+00:00"
+  },
+  "image_d1879c8f9c7c75.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} \\times \\vec{a}",
+    "note": "向量 b 與向量 a 的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b} \\times \\vec{a}\",\"note\":\"向量 b 與向量 a 的外積\"}\n",
+    "ts": "2026-04-29T23:59:09.340818+00:00"
+  },
+  "image_d2d5a34124c763.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AC}",
+    "note": "向量 AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AC}\",\"note\":\"向量 AC\"}\n",
+    "ts": "2026-04-29T23:59:14.173189+00:00"
+  },
+  "image_cf7724d8a3a029.png": {
+    "classification": "formula",
+    "latex": "= 5 \\vec{a} ( \\vec{a} \\times \\vec{b} ) - 3 \\vec{b} ( \\vec{a} \\times \\vec{b} ) = 0",
+    "note": "向量外積與內積的運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 5 \\\\vec{a} ( \\\\vec{a} \\\\times \\\\vec{b} ) - 3 \\\\vec{b} ( \\\\vec{a} \\\\times \\\\vec{b} ) = 0\",\"note\":\"向量外積與內積的運算\"}\n",
+    "ts": "2026-04-29T23:59:20.203399+00:00"
+  },
+  "image_d301f2b2b26350.png": {
+    "classification": "formula",
+    "latex": "|\\vec{a} \\times \\vec{b}| = |\\vec{a}| |\\vec{b}| \\sin 60^\\circ = 2 \\times 3 \\times \\frac{\\sqrt{3}}{2} = 3\\sqrt{3}",
+    "note": "向量外積的大小計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\vec{a} \\\\times \\\\vec{b}| = |\\\\vec{a}| |\\\\vec{b}| \\\\sin 60^\\\\circ = 2 \\\\times 3 \\\\times \\\\frac{\\\\sqrt{3}}{2} = 3\\\\sqrt{3}\",\"note\":\"向量外積的大小計算\"}\n",
+    "ts": "2026-04-29T23:59:21.456458+00:00"
+  },
+  "image_d547e0b1655456.png": {
+    "classification": "formula",
+    "latex": "\\vec{AB}=(2,3,1)",
+    "note": "向量 AB 等於 (2,3,1)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{AB}=(2,3,1)\",\"note\":\"向量 AB 等於 (2,3,1)\"}\n",
+    "ts": "2026-04-29T23:59:30.527831+00:00"
+  },
+  "image_d74ee4d2d761fd.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} = (-1, 2, 2)",
+    "note": "向量 AB 的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} = (-1, 2, 2)\",\"note\":\"向量 AB 的坐標表示\"}\n",
+    "ts": "2026-04-29T23:59:31.990969+00:00"
+  },
+  "image_d79922fe2821fd.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T23:59:36.608036+00:00"
+  },
+  "image_d8c3c450c3cd83.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BC} = (3, -6, -2)",
+    "note": "向量 BC 的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{BC} = (3, -6, -2)\",\"note\":\"向量 BC 的座標表示\"}\n",
+    "ts": "2026-04-29T23:59:39.123747+00:00"
+  },
+  "image_db543b3bb72f54.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AD}",
+    "note": "向量 AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AD}\",\"note\":\"向量 AD\"}\n",
+    "ts": "2026-04-29T23:59:45.924187+00:00"
+  },
+  "image_d8d889dae9e71f.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} + \\vec{b}) \\perp (\\vec{a} \\times \\vec{b})",
+    "note": "向量和與外積垂直",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} + \\\\vec{b}) \\\\perp (\\\\vec{a} \\\\times \\\\vec{b})\",\"note\":\"向量和與外積垂直\"}\n",
+    "ts": "2026-04-29T23:59:47.909657+00:00"
+  },
+  "image_db6046cea58d22.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} \\times \\vec{a} = -(\\vec{a} \\times \\vec{b})",
+    "note": "向量外積的反交換性",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b} \\times \\vec{a} = -(\\vec{a} \\times \\vec{b})\",\"note\":\"向量外積的反交換性\"}\n",
+    "ts": "2026-04-29T23:59:50.883499+00:00"
+  },
+  "image_ddcc699e0c8514.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{a} = 0",
+    "note": "向量與自身的外積等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{a} = 0\",\"note\":\"向量與自身的外積等於 0\"}\n",
+    "ts": "2026-04-29T23:59:54.689784+00:00"
+  },
+  "image_de79ad91c864cf.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-29T23:59:57.581151+00:00"
+  },
+  "image_debd262cc7b832.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} \\times (3 \\vec{b}) = \\vec{0}",
+    "note": "向量外積運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b} \\times (3 \\vec{b}) = \\vec{0}\",\"note\":\"向量外積運算\"}\n",
+    "ts": "2026-04-29T23:59:59.663108+00:00"
+  },
+  "image_df36554633fdd5.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta < 0",
+    "note": "cos theta 小於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\theta < 0\",\"note\":\"cos theta 小於 0\"}\n",
+    "ts": "2026-04-30T00:00:01.558568+00:00"
+  },
+  "image_e46ee24e83908e.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-04-30T00:00:04.141625+00:00"
+  },
+  "image_e82354791bb244.png": {
+    "classification": "formula",
+    "latex": "3 \\vec{a} \\perp (\\vec{a} \\times \\vec{b})",
+    "note": "向量垂直與外積的關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3 \\vec{a} \\perp (\\vec{a} \\times \\vec{b})\",\"note\":\"向量垂直與外積的關係式\"}\n",
+    "ts": "2026-04-30T00:00:07.614695+00:00"
+  },
+  "image_e90d251ff5e2bc.png": {
+    "classification": "formula",
+    "latex": "-4",
+    "note": "數字 -4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-4\",\"note\":\"數字 -4\"}\n",
+    "ts": "2026-04-30T00:00:10.336382+00:00"
+  },
+  "image_eade1a0b3c11ee.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB} \\cdot \\overrightarrow{BC} = 2 \\times 3 + 3 \\times (-6) + 1 \\times (-2) = -14",
+    "note": "向量內積計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overrightarrow{AB} \\cdot \\overrightarrow{BC} = 2 \\times 3 + 3 \\times (-6) + 1 \\times (-2) = -14\",\"note\":\"向量內積計算\"}\n",
+    "ts": "2026-04-30T00:00:16.809462+00:00"
+  },
+  "image_eabaf9cd109e5d.png": {
+    "classification": "formula",
+    "latex": "(\\vec{a} \\times \\vec{b}) \\perp (\\vec{a} + \\vec{b})",
+    "note": "向量外積與向量和的垂直關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\vec{a} \\times \\\\vec{b}) \\perp (\\\\vec{a} + \\\\vec{b})\",\"note\":\"向量外積與向量和的垂直關係\"}\n",
+    "ts": "2026-04-30T00:00:16.947153+00:00"
+  },
+  "image_eaebf23f11543b.png": {
+    "classification": "formula",
+    "latex": "x \\vec{a} + y \\vec{b}",
+    "note": "向量 a 與 b 的線性組合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\vec{a} + y \\vec{b}\",\"note\":\"向量 a 與 b 的線性組合\"}\n",
+    "ts": "2026-04-30T00:00:22.344428+00:00"
+  },
+  "image_eca4948dece12d.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}-\\vec{b}",
+    "note": "向量 a 減向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}-\\vec{b}\",\"note\":\"向量 a 減向量 b\"}\n",
+    "ts": "2026-04-30T00:00:27.323115+00:00"
+  },
+  "image_eb91a28d5c4bc1.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-30T00:00:27.329583+00:00"
+  },
+  "image_ed54050dcc7482.png": {
+    "classification": "formula",
+    "latex": "5 \\vec{a} - 3 \\vec{b}",
+    "note": "向量線性組合 5a - 3b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5 \\vec{a} - 3 \\vec{b}\",\"note\":\"向量線性組合 5a - 3b\"}\n",
+    "ts": "2026-04-30T00:00:35.528296+00:00"
+  },
+  "image_ef511157e1b9e9.png": {
+    "classification": "formula",
+    "latex": "3\\vec{a}",
+    "note": "向量 3a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\vec{a}\",\"note\":\"向量 3a\"}\n",
+    "ts": "2026-04-30T00:00:39.258147+00:00"
+  },
+  "image_ef91dce514b70e.png": {
+    "classification": "formula",
+    "latex": "\\vec{a} \\times \\vec{b}",
+    "note": "向量 a 與 b 的外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a} \\times \\vec{b}\",\"note\":\"向量 a 與 b 的外積\"}\n",
+    "ts": "2026-04-30T00:00:41.402589+00:00"
+  },
+  "image_f026c551d7036e.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-30T00:00:44.555013+00:00"
+  },
+  "image_f397cb698b9827.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "標註頂點A-H的長方體示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"標註頂點A-H的長方體示意圖\"}\n",
+    "ts": "2026-04-30T00:00:45.699447+00:00"
+  },
+  "image_f3b8163e75236c.png": {
+    "classification": "formula",
+    "latex": "(2, 2, 2)",
+    "note": "三元數組 (2, 2, 2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2, 2, 2)\",\"note\":\"三元數組 (2, 2, 2)\"}\n",
+    "ts": "2026-04-30T00:00:50.757906+00:00"
+  },
+  "image_f8aa7002931e57.png": {
+    "classification": "formula",
+    "latex": "\\vec{b} = (-1, -2, 3)",
+    "note": "向量 b 的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b} = (-1, -2, 3)\",\"note\":\"向量 b 的座標表示\"}\n",
+    "ts": "2026-04-30T00:00:56.196076+00:00"
+  },
+  "image_f44cf9aa28e58d.png": {
+    "classification": "formula",
+    "latex": "|\\vec{a} \\times \\vec{b}| = 3",
+    "note": "向量外積的長度等於3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|\\\\vec{a} \\\\times \\\\vec{b}| = 3\",\"note\":\"向量外積的長度等於3\"}\n",
+    "ts": "2026-04-30T00:00:58.589564+00:00"
+  },
+  "image_ffcc86699f7482.png": {
+    "classification": "formula",
+    "latex": "\\vec{a}",
+    "note": "向量 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{a}\",\"note\":\"向量 a\"}\n",
+    "ts": "2026-04-30T00:01:03.164126+00:00"
+  },
+  "image_fc60a8469306d7.png": {
+    "classification": "formula",
+    "latex": "\\vec{b}",
+    "note": "向量 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\vec{b}\",\"note\":\"向量 b\"}\n",
+    "ts": "2026-04-30T00:01:05.754352+00:00"
+  }
+}

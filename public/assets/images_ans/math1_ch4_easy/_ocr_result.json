@@ -1,0 +1,682 @@
+{
+  "image_02781471d60e0e.png": {
+    "classification": "formula",
+    "latex": "40\\le a^5<45",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"40\\\\le a^5<45\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:28:24.343906+00:00",
+    "engine": "codex"
+  },
+  "image_05544abe591021.png": {
+    "classification": "formula",
+    "latex": "1 \\le a",
+    "note": "不等式：1小於等於a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1 \\\\le a\",\"note\":\"不等式：1小於等於a\"}\n",
+    "ts": "2026-04-29T03:28:25.324474+00:00",
+    "engine": "codex"
+  },
+  "image_0f0cf4f1f15627.png": {
+    "classification": "formula",
+    "latex": "a^{\\frac{1}{n}}",
+    "note": "指數為1/n的冪",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^{\\\\frac{1}{n}}\",\"note\":\"指數為1/n的冪\"}\n",
+    "ts": "2026-04-29T03:28:26.911957+00:00",
+    "engine": "codex"
+  },
+  "image_0c700a016f120d.png": {
+    "classification": "formula",
+    "latex": "a^{\\frac{1}{n}}=\\frac{1}{a^n}",
+    "note": "指數與分式的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^{\\\\frac{1}{n}}=\\\\frac{1}{a^n}\",\"note\":\"指數與分式的等式\"}\n",
+    "ts": "2026-04-29T03:28:28.225805+00:00",
+    "engine": "codex"
+  },
+  "image_0f4016a12bc2a7.png": {
+    "classification": "formula",
+    "latex": "a^{\\frac{1}{n}}=\\sqrt[n]{a}",
+    "note": "指數與根式的轉換公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^{\\\\frac{1}{n}}=\\\\sqrt[n]{a}\",\"note\":\"指數與根式的轉換公式\"}\n",
+    "ts": "2026-04-29T03:28:30.710863+00:00",
+    "engine": "codex"
+  },
+  "image_1241c0446e3541.png": {
+    "classification": "formula",
+    "latex": "\\left(\\sqrt{2}\\right)^{\\frac{1}{2}}=\\sqrt[4]{2}",
+    "note": "根式與指數式轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\sqrt{2}\\\\right)^{\\\\frac{1}{2}}=\\\\sqrt[4]{2}\",\"note\":\"根式與指數式轉換\"}\n",
+    "ts": "2026-04-29T03:28:34.847188+00:00",
+    "engine": "codex"
+  },
+  "image_134dcb37bd3c77.png": {
+    "classification": "formula",
+    "latex": "2^{\\frac{1}{3}}=\\sqrt[3]{2}",
+    "note": "指數與根式的等價表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\frac{1}{3}}=\\\\sqrt[3]{2}\",\"note\":\"指數與根式的等價表示\"}\n",
+    "ts": "2026-04-29T03:28:37.584173+00:00",
+    "engine": "codex"
+  },
+  "image_14228f535510b9.png": {
+    "classification": "formula",
+    "latex": "x+2y=3",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+2y=3\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-04-29T03:28:38.068604+00:00",
+    "engine": "codex"
+  },
+  "image_143e07dd55aa25.png": {
+    "classification": "formula",
+    "latex": "2^{\\frac{1}{3}}=\\sqrt[3]{2}",
+    "note": "指數與根式互換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\frac{1}{3}}=\\\\sqrt[3]{2}\",\"note\":\"指數與根式互換\"}\n",
+    "ts": "2026-04-29T03:28:41.368697+00:00",
+    "engine": "codex"
+  },
+  "image_1253d8ab74cfef.png": {
+    "classification": "formula",
+    "latex": "\\left(\\sqrt{2}\\right)^{\\frac{1}{2}}=\\left(2^{\\frac{1}{2}}\\right)^{\\frac{1}{2}}=2^{\\frac{1}{4}}=\\sqrt[4]{2}",
+    "note": "根號與分數指數轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\sqrt{2}\\\\right)^{\\\\frac{1}{2}}=\\\\left(2^{\\\\frac{1}{2}}\\\\right)^{\\\\frac{1}{2}}=2^{\\\\frac{1}{4}}=\\\\sqrt[4]{2}\",\"note\":\"根號與分數指數轉換\"}\n",
+    "ts": "2026-04-29T03:28:43.335702+00:00",
+    "engine": "codex"
+  },
+  "image_15e199b7074fbe.png": {
+    "classification": "formula",
+    "latex": "\\left(-8\\right)^{\\frac{1}{3}}",
+    "note": "負八的三分之一次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-8\\\\right)^{\\\\frac{1}{3}}\",\"note\":\"負八的三分之一次方\"}\n",
+    "ts": "2026-04-29T03:28:44.876028+00:00",
+    "engine": "codex"
+  },
+  "image_1934357057b104.png": {
+    "classification": "formula",
+    "latex": "1.7",
+    "note": "小數數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1.7\",\"note\":\"小數數字\"}\n",
+    "ts": "2026-04-29T03:28:45.552048+00:00",
+    "engine": "codex"
+  },
+  "image_1d580863b2374a.png": {
+    "classification": "formula",
+    "latex": "b=3^{\\frac{12}{8}}=3^{\\frac{3}{2}}=\\sqrt{27}\\approx5.2",
+    "note": "指數與根式換算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=3^{\\\\frac{12}{8}}=3^{\\\\frac{3}{2}}=\\\\sqrt{27}\\\\approx5.2\",\"note\":\"指數與根式換算\"}\n",
+    "ts": "2026-04-29T03:28:47.730415+00:00",
+    "engine": "codex"
+  },
+  "image_1ee95437f8272c.png": {
+    "classification": "formula",
+    "latex": "2^{0}=0",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{0}=0\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:28:48.686556+00:00",
+    "engine": "codex"
+  },
+  "image_202f192ee85675.png": {
+    "classification": "formula",
+    "latex": "2^{-1}=\\frac{1}{2}",
+    "note": "負指數等於倒數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{-1}=\\\\frac{1}{2}\",\"note\":\"負指數等於倒數\"}\n",
+    "ts": "2026-04-29T03:28:49.390089+00:00",
+    "engine": "codex"
+  },
+  "image_26625f3d3302e9.png": {
+    "classification": "formula",
+    "latex": "2^3+2^5=2^8",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^3+2^5=2^8\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:28:49.469493+00:00",
+    "engine": "codex"
+  },
+  "image_2d7eafe35fcafc.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字3\"}\n",
+    "ts": "2026-04-29T03:28:52.892079+00:00",
+    "engine": "codex"
+  },
+  "image_295a3ce103ee98.png": {
+    "classification": "formula",
+    "latex": "(-8)^{\\frac{1}{3}}=(-8)^{\\frac{2}{6}}",
+    "note": "指數分數形式相等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-8)^{\\\\frac{1}{3}}=(-8)^{\\\\frac{2}{6}}\",\"note\":\"指數分數形式相等式\"}\n",
+    "ts": "2026-04-29T03:28:53.570703+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-29T03:28:53.890395+00:00",
+    "engine": "codex"
+  },
+  "image_35de35f98f5472.png": {
+    "classification": "formula",
+    "latex": "81",
+    "note": "數字81",
+    "raw": "{\"class\":\"formula\",\"latex\":\"81\",\"note\":\"數字81\"}\n",
+    "ts": "2026-04-29T03:28:58.939766+00:00",
+    "engine": "codex"
+  },
+  "image_35b1bf51d41494.png": {
+    "classification": "formula",
+    "latex": "2^3 \\times 2^5 = 2^8",
+    "note": "指數乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^3 \\\\times 2^5 = 2^8\",\"note\":\"指數乘法公式\"}\n",
+    "ts": "2026-04-29T03:28:59.082612+00:00",
+    "engine": "codex"
+  },
+  "image_2fddffb1456219.png": {
+    "classification": "formula",
+    "latex": "\\left(\\left(b^2\\right)^2\\right)^2=81^3",
+    "note": "冪次運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\left(b^2\\\\right)^2\\\\right)^2=81^3\",\"note\":\"冪次運算等式\"}\n",
+    "ts": "2026-04-29T03:28:59.772434+00:00",
+    "engine": "codex"
+  },
+  "image_39854c739442b2.png": {
+    "classification": "formula",
+    "latex": "35 \\leq a^5 < 40",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"35 \\\\leq a^5 < 40\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:29:00.218816+00:00",
+    "engine": "codex"
+  },
+  "image_3dfa8e68690451.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^n}",
+    "note": "分式：1除以a的n次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^n}\",\"note\":\"分式：1除以a的n次方\"}\n",
+    "ts": "2026-04-29T03:29:03.353799+00:00",
+    "engine": "codex"
+  },
+  "image_3cfaed413a3772.png": {
+    "classification": "formula",
+    "latex": "45 \\le a^5 < 50",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"45 \\\\le a^5 < 50\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:29:05.641634+00:00",
+    "engine": "codex"
+  },
+  "image_3e15a3d06e99ba.png": {
+    "classification": "formula",
+    "latex": "2^{11}-2^9=2048-512=1536",
+    "note": "指數與整數減法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{11}-2^9=2048-512=1536\",\"note\":\"指數與整數減法等式\"}\n",
+    "ts": "2026-04-29T03:29:05.725587+00:00",
+    "engine": "codex"
+  },
+  "image_3ea3e0ce01dfb5.png": {
+    "classification": "formula",
+    "latex": "3^{-\\frac{1}{2}}=-\\sqrt{3}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{-\\\\frac{1}{2}}=-\\\\sqrt{3}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:29:06.418772+00:00",
+    "engine": "codex"
+  },
+  "image_3ebc83bc35ae43.png": {
+    "classification": "formula",
+    "latex": "a=(0.25)^{2.5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=(0.25)^{2.5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:29:09.372160+00:00",
+    "engine": "codex"
+  },
+  "image_407856a20208cb.png": {
+    "classification": "formula",
+    "latex": "(\\sqrt{2})^2=2",
+    "note": "根號2的平方等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\sqrt{2})^2=2\",\"note\":\"根號2的平方等於2\"}\n",
+    "ts": "2026-04-29T03:29:10.683725+00:00",
+    "engine": "codex"
+  },
+  "image_3f694c746e8dcd.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^n}=a^{-n}",
+    "note": "負指數定律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^n}=a^{-n}\",\"note\":\"負指數定律\"}\n",
+    "ts": "2026-04-29T03:29:12.814736+00:00",
+    "engine": "codex"
+  },
+  "image_3f8b6fad00c93f.png": {
+    "classification": "formula",
+    "latex": "(\\sqrt{3})^3=(3)^{\\sqrt{3}}",
+    "note": "指數與根號的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\sqrt{3})^3=(3)^{\\\\sqrt{3}}\",\"note\":\"指數與根號的等式\"}\n",
+    "ts": "2026-04-29T03:29:13.649938+00:00",
+    "engine": "codex"
+  },
+  "image_47d0525b3345fc.png": {
+    "classification": "formula",
+    "latex": "5.2",
+    "note": "小數數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5.2\",\"note\":\"小數數字\"}\n",
+    "ts": "2026-04-29T03:29:13.968455+00:00",
+    "engine": "codex"
+  },
+  "image_49ffc5d81cb48b.png": {
+    "classification": "formula",
+    "latex": "2^{-1}=\\frac{1}{2}",
+    "note": "負一次方等於倒數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{-1}=\\\\frac{1}{2}\",\"note\":\"負一次方等於倒數\"}\n",
+    "ts": "2026-04-29T03:29:16.231882+00:00",
+    "engine": "codex"
+  },
+  "image_4cecbb842c615d.png": {
+    "classification": "formula",
+    "latex": "a=b^{\\frac{1}{m}}",
+    "note": "指數為分數的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=b^{\\\\frac{1}{m}}\",\"note\":\"指數為分數的等式\"}\n",
+    "ts": "2026-04-29T03:29:18.052644+00:00",
+    "engine": "codex"
+  },
+  "image_53e8a2b0ed0d5a.png": {
+    "classification": "formula",
+    "latex": "5^{-\\frac{2}{3}}=25^{-\\frac{1}{3}}=\\left(\\sqrt[3]{25}\\right)^{-1}=\\frac{1}{\\sqrt[3]{25}}",
+    "note": "指數與根號的等價轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5^{-\\\\frac{2}{3}}=25^{-\\\\frac{1}{3}}=\\\\left(\\\\sqrt[3]{25}\\\\right)^{-1}=\\\\frac{1}{\\\\sqrt[3]{25}}\",\"note\":\"指數與根號的等價轉換\"}\n",
+    "ts": "2026-04-29T03:29:19.579810+00:00",
+    "engine": "codex"
+  },
+  "image_589f2ebe786eeb.png": {
+    "classification": "formula",
+    "latex": "a^2",
+    "note": "變數 a 的平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2\",\"note\":\"變數 a 的平方\"}\n",
+    "ts": "2026-04-29T03:29:20.512149+00:00",
+    "engine": "codex"
+  },
+  "image_5b29f4548da61a.png": {
+    "classification": "formula",
+    "latex": "\\left(2^3\\right)^5=2^{15}",
+    "note": "指數的乘方法則",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(2^3\\\\right)^5=2^{15}\",\"note\":\"指數的乘方法則\"}\n",
+    "ts": "2026-04-29T03:29:23.133608+00:00",
+    "engine": "codex"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "單一數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"單一數字9\"}\n",
+    "ts": "2026-04-29T03:29:24.016607+00:00",
+    "engine": "codex"
+  },
+  "image_5cc1ef0ec095cb.png": {
+    "classification": "formula",
+    "latex": "2^{-\\frac{1}{3}}=\\left(\\sqrt[3]{2}\\right)^{-1}=\\frac{1}{\\sqrt[3]{2}}",
+    "note": "負分數指數與根式倒數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{-\\\\frac{1}{3}}=\\\\left(\\\\sqrt[3]{2}\\\\right)^{-1}=\\\\frac{1}{\\\\sqrt[3]{2}}\",\"note\":\"負分數指數與根式倒數\"}\n",
+    "ts": "2026-04-29T03:29:25.204694+00:00",
+    "engine": "codex"
+  },
+  "image_5ed54ffab25a85.png": {
+    "classification": "formula",
+    "latex": "2^3=8",
+    "note": "指數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^3=8\",\"note\":\"指數等式\"}\n",
+    "ts": "2026-04-29T03:29:27.767517+00:00",
+    "engine": "codex"
+  },
+  "image_5e91caa8f29563.png": {
+    "classification": "formula",
+    "latex": "=105\\times 32\\approx 3000",
+    "note": "乘法估算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=105\\\\times 32\\\\approx 3000\",\"note\":\"乘法估算式\"}\n",
+    "ts": "2026-04-29T03:29:29.796605+00:00",
+    "engine": "codex"
+  },
+  "image_62b0d967e262c6.png": {
+    "classification": "formula",
+    "latex": "1-\\left(\\sqrt{2}\\right)^0=1-1=0",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-\\\\left(\\\\sqrt{2}\\\\right)^0=1-1=0\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:29:30.054397+00:00",
+    "engine": "codex"
+  },
+  "image_6519a1951d5bea.png": {
+    "classification": "formula",
+    "latex": "2^{-1}=-\\frac{1}{2}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{-1}=-\\\\frac{1}{2}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:29:30.353784+00:00",
+    "engine": "codex"
+  },
+  "image_6cb380080e84c3.png": {
+    "classification": "formula",
+    "latex": "0<a<0.5",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0<a<0.5\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T03:29:32.431749+00:00",
+    "engine": "codex"
+  },
+  "image_6da1b8d2b6f239.png": {
+    "classification": "formula",
+    "latex": "(x,y)",
+    "note": "坐標點表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y)\",\"note\":\"坐標點表示\"}\n",
+    "ts": "2026-04-29T03:29:35.365949+00:00",
+    "engine": "codex"
+  },
+  "image_6e6777f1e1cc32.png": {
+    "classification": "formula",
+    "latex": "50^3=125000>100000",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50^3=125000>100000\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:29:36.073262+00:00",
+    "engine": "codex"
+  },
+  "image_71d94c0c64ac9a.png": {
+    "classification": "formula",
+    "latex": "\\sqrt[n]{a}",
+    "note": "n次方根a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt[n]{a}\",\"note\":\"n次方根a\"}\n",
+    "ts": "2026-04-29T03:29:38.627968+00:00",
+    "engine": "codex"
+  },
+  "image_70ed54d95242b2.png": {
+    "classification": "formula",
+    "latex": "\\left(\\sqrt{2}\\right)^{-1}=-\\sqrt{2}",
+    "note": "根號2的負一次方等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\sqrt{2}\\\\right)^{-1}=-\\\\sqrt{2}\",\"note\":\"根號2的負一次方等式\"}\n",
+    "ts": "2026-04-29T03:29:38.935008+00:00",
+    "engine": "codex"
+  },
+  "image_7823337ef13a7e.png": {
+    "classification": "formula",
+    "latex": "2^{\\frac{1}{2}}=\\sqrt{2}",
+    "note": "指數與根號的等價表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\frac{1}{2}}=\\\\sqrt{2}\",\"note\":\"指數與根號的等價表示\"}\n",
+    "ts": "2026-04-29T03:29:43.908160+00:00",
+    "engine": "codex"
+  },
+  "image_738494277e3ac0.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-29T03:29:45.247777+00:00",
+    "engine": "codex"
+  },
+  "image_79c4972a723138.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2^3}=2^{-3}",
+    "note": "指數負次方與分數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2^3}=2^{-3}\",\"note\":\"指數負次方與分數表示\"}\n",
+    "ts": "2026-04-29T03:29:45.498772+00:00",
+    "engine": "codex"
+  },
+  "image_8357fabd48319c.png": {
+    "classification": "formula",
+    "latex": "1-(\\sqrt{2})^{0}=1",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-(\\\\sqrt{2})^{0}=1\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:29:50.264849+00:00",
+    "engine": "codex"
+  },
+  "image_7ce6d9439dc850.png": {
+    "classification": "formula",
+    "latex": "\\left(\\sqrt[n]{a}\\right)^m=\\sqrt[n]{a^m}",
+    "note": "根式冪次公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\sqrt[n]{a}\\\\right)^m=\\\\sqrt[n]{a^m}\",\"note\":\"根式冪次公式\"}\n",
+    "ts": "2026-04-29T03:29:52.472747+00:00",
+    "engine": "codex"
+  },
+  "image_98aba4ca9507d1.png": {
+    "classification": "formula",
+    "latex": "(\\sqrt{3})^3=3\\sqrt{3}=3^1\\times3^{\\frac{1}{2}}=3^{\\frac{3}{2}}\\ne3^{\\sqrt{3}}",
+    "note": "指數運算示例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\sqrt{3})^3=3\\\\sqrt{3}=3^1\\\\times3^{\\\\frac{1}{2}}=3^{\\\\frac{3}{2}}\\\\ne3^{\\\\sqrt{3}}\",\"note\":\"指數運算示例\"}\n",
+    "ts": "2026-04-29T03:29:53.026582+00:00",
+    "engine": "codex"
+  },
+  "image_7755dec6f33ceb.png": {
+    "classification": "formula",
+    "latex": "(\\sqrt{2})^{-1}=\\frac{1}{\\sqrt{2}}",
+    "note": "根號2的負一次方等於其倒數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\sqrt{2})^{-1}=\\\\frac{1}{\\\\sqrt{2}}\",\"note\":\"根號2的負一次方等於其倒數\"}\n",
+    "ts": "2026-04-29T03:29:56.744037+00:00",
+    "engine": "codex"
+  },
+  "image_99f82accefc4cb.png": {
+    "classification": "formula",
+    "latex": "2^{-\\frac{1}{3}}=-\\frac{1}{2^3}",
+    "note": "指數與分數的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{-\\\\frac{1}{3}}=-\\\\frac{1}{2^3}\",\"note\":\"指數與分數的等式\"}\n",
+    "ts": "2026-04-29T03:29:57.694154+00:00",
+    "engine": "codex"
+  },
+  "image_9d3e8c217c9811.png": {
+    "classification": "formula",
+    "latex": "\\frac{2^{12}}{2^2}=2^{10}",
+    "note": "指數除法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2^{12}}{2^2}=2^{10}\",\"note\":\"指數除法公式\"}\n",
+    "ts": "2026-04-29T03:29:58.253997+00:00",
+    "engine": "codex"
+  },
+  "image_9edab63c5f6853.png": {
+    "classification": "formula",
+    "latex": "25 \\le a^5 < 30",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"25 \\\\le a^5 < 30\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:30:01.340497+00:00",
+    "engine": "codex"
+  },
+  "image_a6913c26d92637.png": {
+    "classification": "formula",
+    "latex": "a^5",
+    "note": "單項式冪次",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^5\",\"note\":\"單項式冪次\"}\n",
+    "ts": "2026-04-29T03:30:02.314469+00:00",
+    "engine": "codex"
+  },
+  "image_a37ac770c29e1b.png": {
+    "classification": "formula",
+    "latex": "10^x\\times100^y=1000\\Rightarrow10^x\\times10^{2y}=10^3\\Rightarrow10^{x+2y}=10^3",
+    "note": "指數式化為同底數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x\\\\times100^y=1000\\\\Rightarrow10^x\\\\times10^{2y}=10^3\\\\Rightarrow10^{x+2y}=10^3\",\"note\":\"指數式化為同底數\"}\n",
+    "ts": "2026-04-29T03:30:03.390140+00:00",
+    "engine": "codex"
+  },
+  "image_a130259b5bc7d2.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{a}\\right)^{\\frac{1}{m}}",
+    "note": "冪次根式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{a}\\\\right)^{\\\\frac{1}{m}}\",\"note\":\"冪次根式\"}\n",
+    "ts": "2026-04-29T03:30:07.287549+00:00",
+    "engine": "codex"
+  },
+  "image_a861273fa30fe3.png": {
+    "classification": "formula",
+    "latex": "a^m=(\\frac{1}{a})^{\\frac{1}{m}}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^m=(\\\\frac{1}{a})^{\\\\frac{1}{m}}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:30:09.450133+00:00",
+    "engine": "codex"
+  },
+  "image_a7c341dcc4ae52.png": {
+    "classification": "formula",
+    "latex": "2^0=1",
+    "note": "指數為0的冪等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^0=1\",\"note\":\"指數為0的冪等於1\"}\n",
+    "ts": "2026-04-29T03:30:10.518586+00:00",
+    "engine": "codex"
+  },
+  "image_b5bd1f3e7a6a87.png": {
+    "classification": "formula",
+    "latex": "b^8=3^{12}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b^8=3^{12}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:30:11.828673+00:00",
+    "engine": "codex"
+  },
+  "image_af2ff843cfd9d0.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{a}\\right)^{m\\cdot\\frac{1}{m}}=(a^{-1})^{\\frac{1}{m}}=a^{-\\frac{1}{m}}",
+    "note": "指數律等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{a}\\\\right)^{m\\\\cdot\\\\frac{1}{m}}=(a^{-1})^{\\\\frac{1}{m}}=a^{-\\\\frac{1}{m}}\",\"note\":\"指數律等式\"}\n",
+    "ts": "2026-04-29T03:30:14.982489+00:00",
+    "engine": "codex"
+  },
+  "image_ba8b147c0386f8.png": {
+    "classification": "formula",
+    "latex": "81^3",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"81^3\",\"note\":\"指數式\"}\n",
+    "ts": "2026-04-29T03:30:15.561890+00:00",
+    "engine": "codex"
+  },
+  "image_bf6dde16843d21.png": {
+    "classification": "formula",
+    "latex": "\\sqrt[5]{2}",
+    "note": "五次根號二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt[5]{2}\",\"note\":\"五次根號二\"}\n",
+    "ts": "2026-04-29T03:30:16.506767+00:00",
+    "engine": "codex"
+  },
+  "image_b65e582d27209a.png": {
+    "classification": "formula",
+    "latex": "45^3=91125<100000",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"45^3=91125<100000\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:30:19.631608+00:00",
+    "engine": "codex"
+  },
+  "image_d1c289ea76247d.png": {
+    "classification": "formula",
+    "latex": "-1<a<0",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1<a<0\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T03:30:19.896254+00:00",
+    "engine": "codex"
+  },
+  "image_d65de50285c2b0.png": {
+    "classification": "formula",
+    "latex": "2^{11}-2^9=2^{11-9}",
+    "note": "指數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{11}-2^9=2^{11-9}\",\"note\":\"指數運算等式\"}\n",
+    "ts": "2026-04-29T03:30:20.590252+00:00",
+    "engine": "codex"
+  },
+  "image_da003d0ee495f8.png": {
+    "classification": "formula",
+    "latex": "30 \\le a^5 < 35",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30 \\\\le a^5 < 35\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:30:20.778715+00:00",
+    "engine": "codex"
+  },
+  "image_dca3f0b01409f0.png": {
+    "classification": "formula",
+    "latex": "a=\\sqrt[3]{10}",
+    "note": "立方根表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sqrt[3]{10}\",\"note\":\"立方根表示式\"}\n",
+    "ts": "2026-04-29T03:30:25.944544+00:00",
+    "engine": "codex"
+  },
+  "image_de830dbbcd49f2.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{a}\\right)^{\\frac{1}{m}}=\\left(a^{-1}\\right)^{\\frac{1}{m}}=a^{-\\frac{1}{m}}",
+    "note": "指數律與倒數的等價式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{a}\\\\right)^{\\\\frac{1}{m}}=\\\\left(a^{-1}\\\\right)^{\\\\frac{1}{m}}=a^{-\\\\frac{1}{m}}\",\"note\":\"指數律與倒數的等價式\"}\n",
+    "ts": "2026-04-29T03:30:26.848723+00:00",
+    "engine": "codex"
+  },
+  "image_dec131e6e13de8.png": {
+    "classification": "formula",
+    "latex": "2^{\\frac{1}{3}}=\\frac{1}{2^3}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\frac{1}{3}}=\\\\frac{1}{2^3}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T03:30:27.384866+00:00",
+    "engine": "codex"
+  },
+  "image_e691c9833a30db.png": {
+    "classification": "formula",
+    "latex": "(a^m)^{\\frac{1}{m}} = b^{\\frac{1}{m}}",
+    "note": "冪次與分數指數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a^m)^{\\\\frac{1}{m}} = b^{\\\\frac{1}{m}}\",\"note\":\"冪次與分數指數公式\"}\n",
+    "ts": "2026-04-29T03:30:33.808549+00:00",
+    "engine": "codex"
+  },
+  "image_e7d38d7d049cdc.png": {
+    "classification": "formula",
+    "latex": "a^5=\\left(\\sqrt[3]{10}\\right)^5=\\sqrt[3]{10^5}=\\sqrt[3]{100000}",
+    "note": "根式冪運算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^5=\\\\left(\\\\sqrt[3]{10}\\\\right)^5=\\\\sqrt[3]{10^5}=\\\\sqrt[3]{100000}\",\"note\":\"根式冪運算公式\"}\n",
+    "ts": "2026-04-29T03:30:34.299177+00:00",
+    "engine": "codex"
+  },
+  "image_e498ca195c2d54.png": {
+    "classification": "formula",
+    "latex": "\\sqrt[5]{2^3}=\\left(\\sqrt[5]{2}\\right)^3",
+    "note": "根式指數性質",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt[5]{2^3}=\\\\left(\\\\sqrt[5]{2}\\\\right)^3\",\"note\":\"根式指數性質\"}\n",
+    "ts": "2026-04-29T03:30:34.436414+00:00",
+    "engine": "codex"
+  },
+  "image_e9e1fe4f2a6bd1.png": {
+    "classification": "formula",
+    "latex": "2^3+2^5=8+32=40",
+    "note": "指數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^3+2^5=8+32=40\",\"note\":\"指數運算等式\"}\n",
+    "ts": "2026-04-29T03:30:39.178772+00:00",
+    "engine": "codex"
+  },
+  "image_ecaef6b8659d37.png": {
+    "classification": "formula",
+    "latex": "10^x \\times 100^y = 1000",
+    "note": "指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10^x \\\\times 100^y = 1000\",\"note\":\"指數方程式\"}\n",
+    "ts": "2026-04-29T03:30:40.366548+00:00",
+    "engine": "codex"
+  },
+  "image_ed65bd2884b326.png": {
+    "classification": "formula",
+    "latex": "5^{-\\frac{2}{3}}=\\frac{1}{\\sqrt[3]{25}}",
+    "note": "指數與根式等值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5^{-\\\\frac{2}{3}}=\\\\frac{1}{\\\\sqrt[3]{25}}\",\"note\":\"指數與根式等值\"}\n",
+    "ts": "2026-04-29T03:30:42.854037+00:00",
+    "engine": "codex"
+  },
+  "image_f246294585e5ad.png": {
+    "classification": "formula",
+    "latex": "0.5 \\le a < 1",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.5 \\\\le a < 1\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T03:30:45.194339+00:00",
+    "engine": "codex"
+  },
+  "image_f44face41a86dc.png": {
+    "classification": "formula",
+    "latex": "0.01\\times 2^{25}=0.01\\times 2^{20}\\times 32",
+    "note": "等式化簡：將2^25拆成2^20乘32",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.01\\\\times 2^{25}=0.01\\\\times 2^{20}\\\\times 32\",\"note\":\"等式化簡：將2^25拆成2^20乘32\"}\n",
+    "ts": "2026-04-29T03:30:48.079328+00:00",
+    "engine": "codex"
+  },
+  "image_fb69d9fbda127a.png": {
+    "classification": "formula",
+    "latex": "2^3 \\times 2^5 = 2^{15}",
+    "note": "指數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^3 \\\\times 2^5 = 2^{15}\",\"note\":\"指數乘法算式\"}\n",
+    "ts": "2026-04-29T03:30:52.373425+00:00",
+    "engine": "codex"
+  },
+  "image_f108b1c5ef218c.png": {
+    "classification": "formula",
+    "latex": "2^{-1}=\\frac{1}{2}",
+    "note": "負一次方等於二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{-1}=\\\\frac{1}{2}\",\"note\":\"負一次方等於二分之一\"}\n",
+    "ts": "2026-04-29T03:30:52.705411+00:00",
+    "engine": "codex"
+  },
+  "image_e4922a25349ed0.png": {
+    "classification": "formula",
+    "latex": "3^{-\\frac{1}{2}}=\\frac{1}{\\sqrt{3}}",
+    "note": "指數與根式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{-\\\\frac{1}{2}}=\\\\frac{1}{\\\\sqrt{3}}\",\"note\":\"指數與根式等式\"}\n",
+    "ts": "2026-04-29T03:30:54.331760+00:00",
+    "engine": "codex"
+  }
+}

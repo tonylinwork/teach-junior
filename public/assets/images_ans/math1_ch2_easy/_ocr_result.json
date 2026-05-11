@@ -1,0 +1,482 @@
+{
+  "image_08793f488791f8.png": {
+    "classification": "formula",
+    "latex": "12<7+\\sqrt{35}<13",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12<7+\\\\sqrt{35}<13\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:12:06.192897+00:00",
+    "engine": "codex"
+  },
+  "image_09792ef71e1d48.png": {
+    "classification": "formula",
+    "latex": "5<\\sqrt{35}<6",
+    "note": "不等式：根號35介於5和6之間",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5<\\\\sqrt{35}<6\",\"note\":\"不等式：根號35介於5和6之間\"}\n",
+    "ts": "2026-04-29T03:12:06.354576+00:00",
+    "engine": "codex"
+  },
+  "image_05193f479e36d5.png": {
+    "classification": "formula",
+    "latex": "2\\sqrt{3}",
+    "note": "純數學式：二倍根號三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\sqrt{3}\",\"note\":\"純數學式：二倍根號三\"}\n",
+    "ts": "2026-04-29T03:12:06.419807+00:00",
+    "engine": "codex"
+  },
+  "image_0aab47eccf9603.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{6}-\\sqrt{5}}<\\frac{1}{\\sqrt{7}-\\sqrt{6}}",
+    "note": "分母含根號的分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{6}-\\\\sqrt{5}}<\\\\frac{1}{\\\\sqrt{7}-\\\\sqrt{6}}\",\"note\":\"分母含根號的分式不等式\"}\n",
+    "ts": "2026-04-29T03:12:07.024123+00:00",
+    "engine": "codex"
+  },
+  "image_23d0092c18b7f2.png": {
+    "classification": "formula",
+    "latex": "a-b=\\pm\\sqrt{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-b=\\\\pm\\\\sqrt{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:12:11.088568+00:00",
+    "engine": "codex"
+  },
+  "image_17a7c7825b53b0.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{55}+\\sqrt{\\overline{55}}",
+    "note": "根號55加根號上劃線55",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{55}+\\\\sqrt{\\\\overline{55}}\",\"note\":\"根號55加根號上劃線55\"}\n",
+    "ts": "2026-04-29T03:12:13.174293+00:00",
+    "engine": "codex"
+  },
+  "image_19a32c76c9a1b6.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{(\\sqrt{3}-\\sqrt{5})^2}=\\sqrt{3}-\\sqrt{5}",
+    "note": "根式化簡等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{(\\\\sqrt{3}-\\\\sqrt{5})^2}=\\\\sqrt{3}-\\\\sqrt{5}\",\"note\":\"根式化簡等式\"}\n",
+    "ts": "2026-04-29T03:12:14.204332+00:00",
+    "engine": "codex"
+  },
+  "image_0c689d4c9b7742.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{5}",
+    "note": "根號5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{5}\",\"note\":\"根號5\"}\n",
+    "ts": "2026-04-29T03:12:14.812859+00:00",
+    "engine": "codex"
+  },
+  "image_27e4a463256246.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{\\left(\\sqrt{3}-\\sqrt{5}\\right)^2}=\\sqrt{5}-\\sqrt{3}",
+    "note": "根式化簡等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{\\\\left(\\\\sqrt{3}-\\\\sqrt{5}\\\\right)^2}=\\\\sqrt{5}-\\\\sqrt{3}\",\"note\":\"根式化簡等式\"}\n",
+    "ts": "2026-04-29T03:12:17.756539+00:00",
+    "engine": "codex"
+  },
+  "image_32b34fc68526ed.png": {
+    "classification": "formula",
+    "latex": "3\\sqrt{3}",
+    "note": "根式數值表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\sqrt{3}\",\"note\":\"根式數值表達式\"}\n",
+    "ts": "2026-04-29T03:12:19.290339+00:00",
+    "engine": "codex"
+  },
+  "image_2e99d5c13febe7.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{5}<\\sqrt{7}",
+    "note": "根式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{5}<\\\\sqrt{7}\",\"note\":\"根式不等式\"}\n",
+    "ts": "2026-04-29T03:12:21.746844+00:00",
+    "engine": "codex"
+  },
+  "image_2a575744285348.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 3<\\sqrt{7+\\sqrt{35}}<4",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 3<\\\\sqrt{7+\\\\sqrt{35}}<4\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-29T03:12:23.013921+00:00",
+    "engine": "codex"
+  },
+  "image_3346fb79e65310.png": {
+    "classification": "formula",
+    "latex": "68<75-\\sqrt{48}<69",
+    "note": "連續不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"68<75-\\\\sqrt{48}<69\",\"note\":\"連續不等式\"}\n",
+    "ts": "2026-04-29T03:12:23.660399+00:00",
+    "engine": "codex"
+  },
+  "image_33f27949461817.png": {
+    "classification": "formula",
+    "latex": "7<\\sqrt{55}<8",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7<\\\\sqrt{55}<8\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:12:24.345576+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-29T03:12:26.248059+00:00",
+    "engine": "codex"
+  },
+  "image_3b399ed0c30f31.png": {
+    "classification": "formula",
+    "latex": "a=7",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=7\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-29T03:12:27.775438+00:00",
+    "engine": "codex"
+  },
+  "image_3d7da575f64dbb.png": {
+    "classification": "formula",
+    "latex": "ab=1",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ab=1\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-29T03:12:28.069783+00:00",
+    "engine": "codex"
+  },
+  "image_3e9ae6cf2aff5a.png": {
+    "classification": "formula",
+    "latex": "a=\\sqrt{11}+\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sqrt{11}+\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:12:28.428910+00:00",
+    "engine": "codex"
+  },
+  "image_4bb88bcf4b58f1.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T03:12:32.097185+00:00",
+    "engine": "codex"
+  },
+  "image_52c8bfe49ef39e.png": {
+    "classification": "formula",
+    "latex": "b=3+\\sqrt{5}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=3+\\\\sqrt{5}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:12:33.470993+00:00",
+    "engine": "codex"
+  },
+  "image_4bddb339b550e3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{6}-\\sqrt{5}}=\\sqrt{6}+\\sqrt{5}",
+    "note": "根式分母有理化等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{6}-\\\\sqrt{5}}=\\\\sqrt{6}+\\\\sqrt{5}\",\"note\":\"根式分母有理化等式\"}\n",
+    "ts": "2026-04-29T03:12:33.734761+00:00",
+    "engine": "codex"
+  },
+  "image_52e6298b93a49a.png": {
+    "classification": "formula",
+    "latex": "(a+b)^2=a^2+b^2+2ab",
+    "note": "平方和展開公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)^2=a^2+b^2+2ab\",\"note\":\"平方和展開公式\"}\n",
+    "ts": "2026-04-29T03:12:38.449251+00:00",
+    "engine": "codex"
+  },
+  "image_58e3b58f808cae.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 64<75-\\sqrt{48}<81",
+    "note": "不等式推導式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 64<75-\\\\sqrt{48}<81\",\"note\":\"不等式推導式\"}\n",
+    "ts": "2026-04-29T03:12:39.449565+00:00",
+    "engine": "codex"
+  },
+  "image_5933b36a696afc.png": {
+    "classification": "formula",
+    "latex": "=2a^3+6ab^2",
+    "note": "純代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2a^3+6ab^2\",\"note\":\"純代數式\"}\n",
+    "ts": "2026-04-29T03:12:39.577689+00:00",
+    "engine": "codex"
+  },
+  "image_5a8c6165e9caeb.png": {
+    "classification": "formula",
+    "latex": "c^2=26=14+12=14+2\\sqrt{36}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c^2=26=14+12=14+2\\\\sqrt{36}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:12:41.826382+00:00",
+    "engine": "codex"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字9\"}\n",
+    "ts": "2026-04-29T03:12:45.948927+00:00",
+    "engine": "codex"
+  },
+  "image_649d3aaf29a68d.png": {
+    "classification": "formula",
+    "latex": "(a-b)^2=a^2+b^2-2ab=7-2=5",
+    "note": "平方差展開並代入計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a-b)^2=a^2+b^2-2ab=7-2=5\",\"note\":\"平方差展開並代入計算\"}\n",
+    "ts": "2026-04-29T03:12:48.351152+00:00",
+    "engine": "codex"
+  },
+  "image_5e332e40c3269c.png": {
+    "classification": "formula",
+    "latex": "(-\\sqrt{\\frac{16}{5}})\\times\\sqrt{\\frac{25}{24}}\\div(-\\sqrt{\\frac{5}{18}})=",
+    "note": "根式乘除運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-\\\\sqrt{\\\\frac{16}{5}})\\\\times\\\\sqrt{\\\\frac{25}{24}}\\\\div(-\\\\sqrt{\\\\frac{5}{18}})=\",\"note\":\"根式乘除運算\"}\n",
+    "ts": "2026-04-29T03:12:48.808613+00:00",
+    "engine": "codex"
+  },
+  "image_738494277e3ac0.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-29T03:12:50.341940+00:00",
+    "engine": "codex"
+  },
+  "image_6305b8924304ff.png": {
+    "classification": "formula",
+    "latex": "c=\\sqrt{26}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\sqrt{26}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:12:50.383335+00:00",
+    "engine": "codex"
+  },
+  "image_78de1a14a60493.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T03:12:52.768568+00:00",
+    "engine": "codex"
+  },
+  "image_7ab6ccd3d5868d.png": {
+    "classification": "formula",
+    "latex": "7",
+    "note": "單一數字7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7\",\"note\":\"單一數字7\"}\n",
+    "ts": "2026-04-29T03:12:54.765306+00:00",
+    "engine": "codex"
+  },
+  "image_7ea32efe898e1c.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\sqrt{3}}{3}",
+    "note": "根號3除以3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\sqrt{3}}{3}\",\"note\":\"根號3除以3\"}\n",
+    "ts": "2026-04-29T03:12:55.102397+00:00",
+    "engine": "codex"
+  },
+  "image_7cfc4f31a9406c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{7+\\sqrt{35}}",
+    "note": "根式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{7+\\\\sqrt{35}}\",\"note\":\"根式\"}\n",
+    "ts": "2026-04-29T03:12:56.545130+00:00",
+    "engine": "codex"
+  },
+  "image_84b5039d641b68.png": {
+    "classification": "formula",
+    "latex": "b^2=14+6\\sqrt{5}=14+2\\sqrt{45}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b^2=14+6\\\\sqrt{5}=14+2\\\\sqrt{45}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:13:00.032127+00:00",
+    "engine": "codex"
+  },
+  "image_88088ef3b1ff9b.png": {
+    "classification": "formula",
+    "latex": "\\frac{8}{\\sqrt{27}}",
+    "note": "分數：8除以根號27",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{8}{\\\\sqrt{27}}\",\"note\":\"分數：8除以根號27\"}\n",
+    "ts": "2026-04-29T03:13:01.009527+00:00",
+    "engine": "codex"
+  },
+  "image_84df958e474dd0.png": {
+    "classification": "formula",
+    "latex": "(a+b)^3+(a-b)^3=a^3+3a^2b+3ab^2+b^3+a^3-3a^2b+3ab^2-b^3",
+    "note": "二項式展開公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)^3+(a-b)^3=a^3+3a^2b+3ab^2+b^3+a^3-3a^2b+3ab^2-b^3\",\"note\":\"二項式展開公式\"}\n",
+    "ts": "2026-04-29T03:13:01.025976+00:00",
+    "engine": "codex"
+  },
+  "image_969ec0d7d2edec.png": {
+    "classification": "formula",
+    "latex": "9^3-3\\times9^2\\times8+3\\times9\\times8^2-8^3=1",
+    "note": "數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9^3-3\\\\times9^2\\\\times8+3\\\\times9\\\\times8^2-8^3=1\",\"note\":\"數學等式\"}\n",
+    "ts": "2026-04-29T03:13:06.563561+00:00",
+    "engine": "codex"
+  },
+  "image_90e3aeeed898e5.png": {
+    "classification": "formula",
+    "latex": "\\pm\\sqrt{5}",
+    "note": "正負根號5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\pm\\\\sqrt{5}\",\"note\":\"正負根號5\"}\n",
+    "ts": "2026-04-29T03:13:07.612092+00:00",
+    "engine": "codex"
+  },
+  "image_9e05d9e5ab1041.png": {
+    "classification": "formula",
+    "latex": "(a+b)^3+(a-b)^3=2a^3",
+    "note": "純代數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)^3+(a-b)^3=2a^3\",\"note\":\"純代數恆等式\"}\n",
+    "ts": "2026-04-29T03:13:07.679178+00:00",
+    "engine": "codex"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T03:13:12.241394+00:00",
+    "engine": "codex"
+  },
+  "image_a3c6a46839f32b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字8\"}\n",
+    "ts": "2026-04-29T03:13:12.446149+00:00",
+    "engine": "codex"
+  },
+  "image_a072570832c95d.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{6}-\\sqrt{5}}>\\frac{1}{\\sqrt{7}-\\sqrt{6}}",
+    "note": "比較兩個根式分母的倒數大小",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{6}-\\\\sqrt{5}}>\\\\frac{1}{\\\\sqrt{7}-\\\\sqrt{6}}\",\"note\":\"比較兩個根式分母的倒數大小\"}\n",
+    "ts": "2026-04-29T03:13:13.808849+00:00",
+    "engine": "codex"
+  },
+  "image_99f6986a25c89f.png": {
+    "classification": "formula",
+    "latex": "a+1",
+    "note": "代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+1\",\"note\":\"代數式\"}\n",
+    "ts": "2026-04-29T03:13:15.040184+00:00",
+    "engine": "codex"
+  },
+  "image_a9cfcd0d740173.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{6}",
+    "note": "平方根6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{6}\",\"note\":\"平方根6\"}\n",
+    "ts": "2026-04-29T03:13:16.692273+00:00",
+    "engine": "codex"
+  },
+  "image_ab4d2b90cd5fa3.png": {
+    "classification": "formula",
+    "latex": "-7",
+    "note": "負整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-7\",\"note\":\"負整數\"}\n",
+    "ts": "2026-04-29T03:13:18.214888+00:00",
+    "engine": "codex"
+  },
+  "image_c1ec4d56e7c6bc.png": {
+    "classification": "formula",
+    "latex": "6<\\sqrt{48}<7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6<\\\\sqrt{48}<7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:13:19.206515+00:00",
+    "engine": "codex"
+  },
+  "image_ca4dadc4585d95.png": {
+    "classification": "formula",
+    "latex": "a^2+b^2=7",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2+b^2=7\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:13:19.925425+00:00",
+    "engine": "codex"
+  },
+  "image_cbd50bca8c09d6.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{75}-\\sqrt{48}",
+    "note": "根式相減",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{75}-\\\\sqrt{48}\",\"note\":\"根式相減\"}\n",
+    "ts": "2026-04-29T03:13:22.972390+00:00",
+    "engine": "codex"
+  },
+  "image_d002c5a4ca65a1.png": {
+    "classification": "formula",
+    "latex": "=\\left(-\\frac{4}{\\sqrt{5}}\\right)\\times\\frac{5}{2\\sqrt{6}}\\times\\left(-\\frac{3\\sqrt{2}}{\\sqrt{5}}\\right)=2\\sqrt{3}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\left(-\\\\frac{4}{\\\\sqrt{5}}\\\\right)\\\\times\\\\frac{5}{2\\\\sqrt{6}}\\\\times\\\\left(-\\\\frac{3\\\\sqrt{2}}{\\\\sqrt{5}}\\\\right)=2\\\\sqrt{3}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:13:24.261407+00:00",
+    "engine": "codex"
+  },
+  "image_d1de449efabdc9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{\\sqrt{7}-\\sqrt{6}}=\\sqrt{7}+\\sqrt{6}",
+    "note": "分母有理化等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{\\\\sqrt{7}-\\\\sqrt{6}}=\\\\sqrt{7}+\\\\sqrt{6}\",\"note\":\"分母有理化等式\"}\n",
+    "ts": "2026-04-29T03:13:25.663099+00:00",
+    "engine": "codex"
+  },
+  "image_d430c1ede1a8e1.png": {
+    "classification": "formula",
+    "latex": "9=a^2+b^2+2",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9=a^2+b^2+2\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:13:25.757825+00:00",
+    "engine": "codex"
+  },
+  "image_d6c9214e31d441.png": {
+    "classification": "formula",
+    "latex": "a^2=14+2\\sqrt{33}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2=14+2\\\\sqrt{33}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:13:28.474189+00:00",
+    "engine": "codex"
+  },
+  "image_dd7d4e3ec53b32.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 9<7+\\sqrt{35}<16",
+    "note": "不等式推論",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 9<7+\\\\sqrt{35}<16\",\"note\":\"不等式推論\"}\n",
+    "ts": "2026-04-29T03:13:31.972910+00:00",
+    "engine": "codex"
+  },
+  "image_d8d20e6c0120b2.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{55+\\sqrt{55}}=\\sqrt{62\\cdots}=7\\cdots",
+    "note": "根式近似計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{55+\\\\sqrt{55}}=\\\\sqrt{62\\\\cdots}=7\\\\cdots\",\"note\":\"根式近似計算\"}\n",
+    "ts": "2026-04-29T03:13:32.366721+00:00",
+    "engine": "codex"
+  },
+  "image_db59f3d2ce68ef.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 8<\\sqrt{75-\\sqrt{48}}<9",
+    "note": "根式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 8<\\\\sqrt{75-\\\\sqrt{48}}<9\",\"note\":\"根式不等式\"}\n",
+    "ts": "2026-04-29T03:13:32.813058+00:00",
+    "engine": "codex"
+  },
+  "image_efee617718bb25.png": {
+    "classification": "formula",
+    "latex": "a-b=",
+    "note": "代數式：a減b等於",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-b=\",\"note\":\"代數式：a減b等於\"}\n",
+    "ts": "2026-04-29T03:13:33.023536+00:00",
+    "engine": "codex"
+  },
+  "image_feb03ba8dca5df.png": {
+    "classification": "formula",
+    "latex": "7<\\sqrt{55+\\sqrt{55}}<8",
+    "note": "根式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7<\\\\sqrt{55+\\\\sqrt{55}}<8\",\"note\":\"根式不等式\"}\n",
+    "ts": "2026-04-29T03:13:37.801843+00:00",
+    "engine": "codex"
+  },
+  "image_f19b02d0e306d8.png": {
+    "classification": "formula",
+    "latex": "a+b=3",
+    "note": "線性等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b=3\",\"note\":\"線性等式\"}\n",
+    "ts": "2026-04-29T03:13:37.997554+00:00",
+    "engine": "codex"
+  },
+  "image_fee85a9bebb27d.png": {
+    "classification": "formula",
+    "latex": "9^3-3\\times 9^2\\times 8+3\\times 9\\times 8^2-8^3=(9-8)^3=1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9^3-3\\\\times 9^2\\\\times 8+3\\\\times 9\\\\times 8^2-8^3=(9-8)^3=1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:13:40.809397+00:00",
+    "engine": "codex"
+  }
+}

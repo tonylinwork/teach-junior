@@ -1,0 +1,810 @@
+{
+  "image_066f4fa51de4ff.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數字母 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數字母 C\"}\n",
+    "ts": "2026-04-29T06:17:20.945348+00:00",
+    "engine": "codex"
+  },
+  "image_001d4ac8fbe06d.png": {
+    "classification": "formula",
+    "latex": "n(S)=C_{2}^{12}\\times 2!=132",
+    "note": "樣本空間元素個數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(S)=C_{2}^{12}\\\\times 2!=132\",\"note\":\"樣本空間元素個數計算式\"}\n",
+    "ts": "2026-04-29T06:17:21.414460+00:00",
+    "engine": "codex"
+  },
+  "image_05b3e8e0e3530c.png": {
+    "classification": "formula",
+    "latex": "n(A\\cup B')=n(A\\cup C')",
+    "note": "集合聯集與補集的基數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cup B')=n(A\\\\cup C')\",\"note\":\"集合聯集與補集的基數等式\"}\n",
+    "ts": "2026-04-29T06:17:22.130071+00:00",
+    "engine": "codex"
+  },
+  "image_06fbe6b268531a.png": {
+    "classification": "formula",
+    "latex": "n(A\\cup B)=37+28-x=65-x",
+    "note": "集合聯集元素個數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cup B)=37+28-x=65-x\",\"note\":\"集合聯集元素個數公式\"}\n",
+    "ts": "2026-04-29T06:17:24.538112+00:00",
+    "engine": "codex"
+  },
+  "image_149ff231168f81.png": {
+    "classification": "formula",
+    "latex": "0.74",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.74\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T06:17:27.177774+00:00",
+    "engine": "codex"
+  },
+  "image_15bc374caa6487.png": {
+    "classification": "formula",
+    "latex": "N-M=\\{1,2,3,5\\}",
+    "note": "集合差的結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N-M=\\\\{1,2,3,5\\\\}\",\"note\":\"集合差的結果\"}\n",
+    "ts": "2026-04-29T06:17:28.749706+00:00",
+    "engine": "codex"
+  },
+  "image_153f6f9f291f1b.png": {
+    "classification": "formula",
+    "latex": "n(A\\cap B)=x",
+    "note": "集合交集元素個數等於x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cap B)=x\",\"note\":\"集合交集元素個數等於x\"}\n",
+    "ts": "2026-04-29T06:17:28.897560+00:00",
+    "engine": "codex"
+  },
+  "image_1b9589f926f5fb.png": {
+    "classification": "formula",
+    "latex": "0.56",
+    "note": "小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.56\",\"note\":\"小數\"}\n",
+    "ts": "2026-04-29T06:17:31.290410+00:00",
+    "engine": "codex"
+  },
+  "image_163218fad0bfc0.png": {
+    "classification": "formula",
+    "latex": "\\{6,7,8,9,10,11,12,13\\}",
+    "note": "集合列舉表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\{6,7,8,9,10,11,12,13\\\\}\",\"note\":\"集合列舉表示\"}\n",
+    "ts": "2026-04-29T06:17:31.772216+00:00",
+    "engine": "codex"
+  },
+  "image_2026c260be9fe0.png": {
+    "classification": "formula",
+    "latex": "0.46",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.46\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T06:17:35.699681+00:00",
+    "engine": "codex"
+  },
+  "image_1ff63799ce99e3.png": {
+    "classification": "formula",
+    "latex": "\\frac{15}{50}=0.3",
+    "note": "分數化為小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{15}{50}=0.3\",\"note\":\"分數化為小數\"}\n",
+    "ts": "2026-04-29T06:17:35.720510+00:00",
+    "engine": "codex"
+  },
+  "image_234f9715dd45ef.png": {
+    "classification": "formula",
+    "latex": "99",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"99\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:17:36.664132+00:00",
+    "engine": "codex"
+  },
+  "image_230b93cb0e0fb1.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T06:17:38.680141+00:00",
+    "engine": "codex"
+  },
+  "image_2b7e784dd21222.png": {
+    "classification": "formula",
+    "latex": "0.44 \\le p < 0.55",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.44 \\\\le p < 0.55\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T06:17:44.112084+00:00",
+    "engine": "codex"
+  },
+  "image_25d70d6c3763cc.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=P(A)+P(B)-P(A\\cap B)=\\frac{4!\\times 2!}{5!}+\\frac{4!\\times 2!}{5!}-\\frac{3!\\times 2!\\times 2!}{5!}",
+    "note": "機率加法公式與排列階乘計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=P(A)+P(B)-P(A\\\\cap B)=\\\\frac{4!\\\\times 2!}{5!}+\\\\frac{4!\\\\times 2!}{5!}-\\\\frac{3!\\\\times 2!\\\\times 2!}{5!}\",\"note\":\"機率加法公式與排列階乘計算\"}\n",
+    "ts": "2026-04-29T06:17:44.246123+00:00",
+    "engine": "codex"
+  },
+  "image_256a3d77f10ed1.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:17:45.757299+00:00",
+    "engine": "codex"
+  },
+  "image_2d364592e4f212.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-29T06:17:46.081361+00:00",
+    "engine": "codex"
+  },
+  "image_2ecc73cbc1ea9f.png": {
+    "classification": "formula",
+    "latex": "S",
+    "note": "單一變數 S",
+    "raw": "{\"class\":\"formula\",\"latex\":\"S\",\"note\":\"單一變數 S\"}\n",
+    "ts": "2026-04-29T06:17:50.866285+00:00",
+    "engine": "codex"
+  },
+  "image_30ae1efa5c694f.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-29T06:17:52.018967+00:00",
+    "engine": "codex"
+  },
+  "image_367b5912bf2aa3.png": {
+    "classification": "formula",
+    "latex": "M \\cup N=\\{1,2,3,4,5,8,12\\}",
+    "note": "集合聯集的結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\cup N=\\\\{1,2,3,4,5,8,12\\\\}\",\"note\":\"集合聯集的結果\"}\n",
+    "ts": "2026-04-29T06:17:52.632065+00:00",
+    "engine": "codex"
+  },
+  "image_35879578364783.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{5}",
+    "note": "分數四分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{5}\",\"note\":\"分數四分之五\"}\n",
+    "ts": "2026-04-29T06:17:54.031994+00:00",
+    "engine": "codex"
+  },
+  "image_3c14201c1437a3.png": {
+    "classification": "formula",
+    "latex": "37",
+    "note": "數字37",
+    "raw": "{\"class\":\"formula\",\"latex\":\"37\",\"note\":\"數字37\"}\n",
+    "ts": "2026-04-29T06:17:58.151714+00:00",
+    "engine": "codex"
+  },
+  "image_3b0d1e49e91131.png": {
+    "classification": "formula",
+    "latex": "28",
+    "note": "純數字題號或數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"28\",\"note\":\"純數字題號或數值\"}\n",
+    "ts": "2026-04-29T06:17:58.321265+00:00",
+    "engine": "codex"
+  },
+  "image_3bf3fee5c66602.png": {
+    "classification": "formula",
+    "latex": "n(S)=2\\times 6=12",
+    "note": "樣本空間元素個數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(S)=2\\\\times 6=12\",\"note\":\"樣本空間元素個數計算\"}\n",
+    "ts": "2026-04-29T06:17:59.929635+00:00",
+    "engine": "codex"
+  },
+  "image_3ecdfefa247046.png": {
+    "classification": "formula",
+    "latex": "0.55 \\le p < 0.66",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.55 \\\\le p < 0.66\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T06:18:02.459516+00:00",
+    "engine": "codex"
+  },
+  "image_4404f491225339.png": {
+    "classification": "formula",
+    "latex": "\\underline{C^4_2}",
+    "note": "排列組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\underline{C^4_2}\",\"note\":\"排列組合符號\"}\n",
+    "ts": "2026-04-29T06:18:05.890900+00:00",
+    "engine": "codex"
+  },
+  "image_455bfa1e93b103.png": {
+    "classification": "formula",
+    "latex": "n(A)=1\\times 6=6",
+    "note": "集合A的元素個數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A)=1\\\\times 6=6\",\"note\":\"集合A的元素個數計算\"}\n",
+    "ts": "2026-04-29T06:18:06.849604+00:00",
+    "engine": "codex"
+  },
+  "image_3f93623f15e2e1.png": {
+    "classification": "formula",
+    "latex": "P=1-P(A\\cup B)=1-\\frac{3}{5}=\\frac{2}{5}",
+    "note": "機率運算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=1-P(A\\\\cup B)=1-\\\\frac{3}{5}=\\\\frac{2}{5}\",\"note\":\"機率運算公式\"}\n",
+    "ts": "2026-04-29T06:18:07.669904+00:00",
+    "engine": "codex"
+  },
+  "image_54b11b2f965d36.png": {
+    "classification": "formula",
+    "latex": "N",
+    "note": "單一變數字母 N",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N\",\"note\":\"單一變數字母 N\"}\n",
+    "ts": "2026-04-29T06:18:11.596332+00:00",
+    "engine": "codex"
+  },
+  "image_4a4c8d0cfcc5a9.png": {
+    "classification": "formula",
+    "latex": "n(A \\cap C')=1\\times3=3",
+    "note": "集合交集元素個數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A \\\\cap C')=1\\\\times3=3\",\"note\":\"集合交集元素個數公式\"}\n",
+    "ts": "2026-04-29T06:18:13.952192+00:00",
+    "engine": "codex"
+  },
+  "image_55685af835820c.png": {
+    "classification": "formula",
+    "latex": "n(A\\cap B)=1\\times3=3",
+    "note": "集合交集元素個數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cap B)=1\\\\times3=3\",\"note\":\"集合交集元素個數計算式\"}\n",
+    "ts": "2026-04-29T06:18:15.490828+00:00",
+    "engine": "codex"
+  },
+  "image_58ee63384f7ce4.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數一六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數一六分之一\"}\n",
+    "ts": "2026-04-29T06:18:16.591787+00:00",
+    "engine": "codex"
+  },
+  "image_57893b0ade7558.png": {
+    "classification": "formula",
+    "latex": "\\frac{2!}{}",
+    "note": "分子為2階乘的分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2!}{}\",\"note\":\"分子為2階乘的分式\"}\n",
+    "ts": "2026-04-29T06:18:16.667947+00:00",
+    "engine": "codex"
+  },
+  "image_5a62631e9222cb.png": {
+    "classification": "formula",
+    "latex": "A\\cap B",
+    "note": "集合A與B的交集",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B\",\"note\":\"集合A與B的交集\"}\n",
+    "ts": "2026-04-29T06:18:21.163898+00:00",
+    "engine": "codex"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "單一數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"單一數字9\"}\n",
+    "ts": "2026-04-29T06:18:22.233237+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數 B\"}\n",
+    "ts": "2026-04-29T06:18:26.416451+00:00",
+    "engine": "codex"
+  },
+  "image_5b89d50d8528a2.png": {
+    "classification": "formula",
+    "latex": "\\cdots",
+    "note": "水平省略號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cdots\",\"note\":\"水平省略號\"}\n",
+    "ts": "2026-04-29T06:18:26.925151+00:00",
+    "engine": "codex"
+  },
+  "image_6032c328532a39.png": {
+    "classification": "formula",
+    "latex": "N' = \\{6,7,8,9,10,11,12,13\\}",
+    "note": "集合 N' 的元素列舉",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N' = \\\\{6,7,8,9,10,11,12,13\\\\}\",\"note\":\"集合 N' 的元素列舉\"}\n",
+    "ts": "2026-04-29T06:18:27.015980+00:00",
+    "engine": "codex"
+  },
+  "image_6a21b4f67c455a.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字 0\"}\n",
+    "ts": "2026-04-29T06:18:30.369404+00:00",
+    "engine": "codex"
+  },
+  "image_769b22f8bc1532.png": {
+    "classification": "formula",
+    "latex": "n(A)=37",
+    "note": "集合A的元素個數為37",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A)=37\",\"note\":\"集合A的元素個數為37\"}\n",
+    "ts": "2026-04-29T06:18:32.002097+00:00",
+    "engine": "codex"
+  },
+  "image_78de1a14a60493.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:18:34.203737+00:00",
+    "engine": "codex"
+  },
+  "image_6a7727d07e20c5.png": {
+    "classification": "formula",
+    "latex": "\\{4\\}",
+    "note": "集合表示法：元素4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\{4\\\\}\",\"note\":\"集合表示法：元素4\"}\n",
+    "ts": "2026-04-29T06:18:34.643962+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:18:36.392465+00:00",
+    "engine": "codex"
+  },
+  "image_7b75b3e809a24d.png": {
+    "classification": "formula",
+    "latex": "n(A\\cup C)=6+6-3=9",
+    "note": "集合聯集元素個數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cup C)=6+6-3=9\",\"note\":\"集合聯集元素個數計算\"}\n",
+    "ts": "2026-04-29T06:18:38.189324+00:00",
+    "engine": "codex"
+  },
+  "image_80ed086b8dc5ce.png": {
+    "classification": "formula",
+    "latex": "x \\ge 15",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\ge 15\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T06:18:40.348759+00:00",
+    "engine": "codex"
+  },
+  "image_80f25755264c28.png": {
+    "classification": "formula",
+    "latex": "\\times",
+    "note": "乘號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\times\",\"note\":\"乘號\"}\n",
+    "ts": "2026-04-29T06:18:42.388566+00:00",
+    "engine": "codex"
+  },
+  "image_809fa22251e415.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{10}",
+    "note": "分數十分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{10}\",\"note\":\"分數十分之一\"}\n",
+    "ts": "2026-04-29T06:18:42.489492+00:00",
+    "engine": "codex"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:18:43.016372+00:00",
+    "engine": "codex"
+  },
+  "image_8274d70544141f.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:18:45.114301+00:00",
+    "engine": "codex"
+  },
+  "image_8fa7b4fdcc19b2.png": {
+    "classification": "formula",
+    "latex": "=\\frac{48}{120}+\\frac{48}{120}-\\frac{24}{120}=\\frac{3}{5}",
+    "note": "分數加減運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{48}{120}+\\\\frac{48}{120}-\\\\frac{24}{120}=\\\\frac{3}{5}\",\"note\":\"分數加減運算式\"}\n",
+    "ts": "2026-04-29T06:18:49.459240+00:00",
+    "engine": "codex"
+  },
+  "image_8e575015f1763d.png": {
+    "classification": "formula",
+    "latex": "(\\text{正},1)",
+    "note": "有序對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\text{正},1)\",\"note\":\"有序對座標\"}\n",
+    "ts": "2026-04-29T06:18:51.814798+00:00",
+    "engine": "codex"
+  },
+  "image_93f860150bb050.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-29T06:18:54.552676+00:00",
+    "engine": "codex"
+  },
+  "image_8d4689b02dfc50.png": {
+    "classification": "formula",
+    "latex": "A\\cap C",
+    "note": "集合交集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap C\",\"note\":\"集合交集公式\"}\n",
+    "ts": "2026-04-29T06:18:56.452553+00:00",
+    "engine": "codex"
+  },
+  "image_9b723c1b7aeab8.png": {
+    "classification": "formula",
+    "latex": "0.28",
+    "note": "純數值小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.28\",\"note\":\"純數值小數\"}\n",
+    "ts": "2026-04-29T06:18:58.767885+00:00",
+    "engine": "codex"
+  },
+  "image_900401d485e0d7.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=P(A)+P(B)-P(A\\cap B)=\\frac{1}{3}+\\frac{1}{2}-\\frac{1}{6}=\\frac{2}{3}",
+    "note": "機率加法公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=P(A)+P(B)-P(A\\\\cap B)=\\\\frac{1}{3}+\\\\frac{1}{2}-\\\\frac{1}{6}=\\\\frac{2}{3}\",\"note\":\"機率加法公式計算\"}\n",
+    "ts": "2026-04-29T06:18:59.778766+00:00",
+    "engine": "codex"
+  },
+  "image_999ce09fe576fa.png": {
+    "classification": "formula",
+    "latex": "\\begin{matrix}3\\\\8\\end{matrix}",
+    "note": "上下排列的數字3和8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{matrix}3\\\\\\\\8\\\\end{matrix}\",\"note\":\"上下排列的數字3和8\"}\n",
+    "ts": "2026-04-29T06:19:01.444092+00:00",
+    "engine": "codex"
+  },
+  "image_9cabe292ff3075.png": {
+    "classification": "formula",
+    "latex": "n(A)=",
+    "note": "集合A的元素個數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A)=\",\"note\":\"集合A的元素個數符號\"}\n",
+    "ts": "2026-04-29T06:19:01.941340+00:00",
+    "engine": "codex"
+  },
+  "image_9e9bcc4dac3ba4.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{3}",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{3}\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-29T06:19:05.177329+00:00",
+    "engine": "codex"
+  },
+  "image_a033068a5ccf41.png": {
+    "classification": "formula",
+    "latex": "p=\\dfrac{36}{90}=\\dfrac{2}{5}=0.4",
+    "note": "機率等值分數與小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p=\\\\dfrac{36}{90}=\\\\dfrac{2}{5}=0.4\",\"note\":\"機率等值分數與小數\"}\n",
+    "ts": "2026-04-29T06:19:05.889364+00:00",
+    "engine": "codex"
+  },
+  "image_a7e194286cdf1f.png": {
+    "classification": "formula",
+    "latex": "n(S)=12",
+    "note": "集合S的元素個數為12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(S)=12\",\"note\":\"集合S的元素個數為12\"}\n",
+    "ts": "2026-04-29T06:19:06.921125+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:19:07.143767+00:00",
+    "engine": "codex"
+  },
+  "image_a92112580744b6.png": {
+    "classification": "formula",
+    "latex": "65-x \\le 50",
+    "note": "一元一次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"65-x \\\\le 50\",\"note\":\"一元一次不等式\"}\n",
+    "ts": "2026-04-29T06:19:12.617274+00:00",
+    "engine": "codex"
+  },
+  "image_b622a3a80b3612.png": {
+    "classification": "formula",
+    "latex": "N=\\{1,2,3,4,5\\}",
+    "note": "集合表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N=\\\\{1,2,3,4,5\\\\}\",\"note\":\"集合表示式\"}\n",
+    "ts": "2026-04-29T06:19:12.784886+00:00",
+    "engine": "codex"
+  },
+  "image_b59c66ab8d8faf.png": {
+    "classification": "formula",
+    "latex": "\\{1,2,3,4,5\\}",
+    "note": "集合表示法",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\{1,2,3,4,5\\\\}\",\"note\":\"集合表示法\"}\n",
+    "ts": "2026-04-29T06:19:14.994827+00:00",
+    "engine": "codex"
+  },
+  "image_abd14c09bed445.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{n(A)}{n(S)}=\\frac{38}{132}=\\frac{19}{66}\\approx 0.29=29\\%",
+    "note": "機率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{n(A)}{n(S)}=\\\\frac{38}{132}=\\\\frac{19}{66}\\\\approx 0.29=29\\\\%\",\"note\":\"機率計算公式\"}\n",
+    "ts": "2026-04-29T06:19:16.869422+00:00",
+    "engine": "codex"
+  },
+  "image_b6571221a51fba.png": {
+    "classification": "formula",
+    "latex": "0.66 \\le p < 0.77",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.66 \\\\le p < 0.77\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T06:19:18.286693+00:00",
+    "engine": "codex"
+  },
+  "image_bcf897e596bb41.png": {
+    "classification": "formula",
+    "latex": "50",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:19:19.631898+00:00",
+    "engine": "codex"
+  },
+  "image_be3a00bc2a2c94.png": {
+    "classification": "formula",
+    "latex": "n(A\\cup B)=6+6-3=9",
+    "note": "集合聯集元素個數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cup B)=6+6-3=9\",\"note\":\"集合聯集元素個數公式\"}\n",
+    "ts": "2026-04-29T06:19:22.979434+00:00",
+    "engine": "codex"
+  },
+  "image_b6253536e54202.png": {
+    "classification": "formula",
+    "latex": "0.33 \\le p < 0.44",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.33 \\\\le p < 0.44\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T06:19:23.118828+00:00",
+    "engine": "codex"
+  },
+  "image_bf024b293a8397.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-29T06:19:25.476063+00:00",
+    "engine": "codex"
+  },
+  "image_c1aa49271d9caa.png": {
+    "classification": "formula",
+    "latex": "\\frac{28}{50}=0.56",
+    "note": "分數化為小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{28}{50}=0.56\",\"note\":\"分數化為小數\"}\n",
+    "ts": "2026-04-29T06:19:25.741561+00:00",
+    "engine": "codex"
+  },
+  "image_c748c297d86676.png": {
+    "classification": "formula",
+    "latex": "n(A\\cup B)\\le 50",
+    "note": "集合聯集元素個數不超過50",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cup B)\\\\le 50\",\"note\":\"集合聯集元素個數不超過50\"}\n",
+    "ts": "2026-04-29T06:19:28.349573+00:00",
+    "engine": "codex"
+  },
+  "image_c2a92a75c12ace.png": {
+    "classification": "formula",
+    "latex": "90",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"90\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T06:19:29.126234+00:00",
+    "engine": "codex"
+  },
+  "image_c98ae3f35be397.png": {
+    "classification": "formula",
+    "latex": "M=\\{4,8,12\\}",
+    "note": "集合表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M=\\\\{4,8,12\\\\}\",\"note\":\"集合表示式\"}\n",
+    "ts": "2026-04-29T06:19:29.702887+00:00",
+    "engine": "codex"
+  },
+  "image_cc1da757cab766.png": {
+    "classification": "formula",
+    "latex": "n(B)=28",
+    "note": "集合B的元素個數為28",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(B)=28\",\"note\":\"集合B的元素個數為28\"}\n",
+    "ts": "2026-04-29T06:19:32.223249+00:00",
+    "engine": "codex"
+  },
+  "image_cde9fe866d4fab.png": {
+    "classification": "formula",
+    "latex": "M\\cap N=\\{4\\}",
+    "note": "集合交集結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\\\\cap N=\\\\{4\\\\}\",\"note\":\"集合交集結果\"}\n",
+    "ts": "2026-04-29T06:19:33.575905+00:00",
+    "engine": "codex"
+  },
+  "image_cf1b4ffadf6c40.png": {
+    "classification": "formula",
+    "latex": "+",
+    "note": "加號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\",\"note\":\"加號\"}\n",
+    "ts": "2026-04-29T06:19:34.479743+00:00",
+    "engine": "codex"
+  },
+  "image_cfb0321bf539de.png": {
+    "classification": "formula",
+    "latex": "p",
+    "note": "單一變數 p",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p\",\"note\":\"單一變數 p\"}\n",
+    "ts": "2026-04-29T06:19:35.607518+00:00",
+    "engine": "codex"
+  },
+  "image_d05e860aefc066.png": {
+    "classification": "formula",
+    "latex": "0.3 \\le P(A \\cap B) \\le 0.56",
+    "note": "機率不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.3 \\\\le P(A \\\\cap B) \\\\le 0.56\",\"note\":\"機率不等式\"}\n",
+    "ts": "2026-04-29T06:19:37.865020+00:00",
+    "engine": "codex"
+  },
+  "image_d0cd561392750d.png": {
+    "classification": "formula",
+    "latex": "C^5_2",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^5_2\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-29T06:19:40.591659+00:00",
+    "engine": "codex"
+  },
+  "image_d23b71a9a556e2.png": {
+    "classification": "formula",
+    "latex": "n(C)=2\\times3=6",
+    "note": "集合C的元素個數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(C)=2\\\\times3=6\",\"note\":\"集合C的元素個數計算\"}\n",
+    "ts": "2026-04-29T06:19:42.131921+00:00",
+    "engine": "codex"
+  },
+  "image_d0c9446cf2ea88.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{5}",
+    "note": "分數二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{5}\",\"note\":\"分數二分之五\"}\n",
+    "ts": "2026-04-29T06:19:42.600743+00:00",
+    "engine": "codex"
+  },
+  "image_d2414601f7b9f0.png": {
+    "classification": "formula",
+    "latex": "M \\cap N = \\{4\\} \\ne \\varnothing",
+    "note": "集合交集非空",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M \\\\cap N = \\\\{4\\\\} \\\\ne \\\\varnothing\",\"note\":\"集合交集非空\"}\n",
+    "ts": "2026-04-29T06:19:45.906340+00:00",
+    "engine": "codex"
+  },
+  "image_d8b41cdaaf751d.png": {
+    "classification": "formula",
+    "latex": "n(A\\cap B)=28",
+    "note": "集合交集元素個數等於28",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cap B)=28\",\"note\":\"集合交集元素個數等於28\"}\n",
+    "ts": "2026-04-29T06:19:46.388143+00:00",
+    "engine": "codex"
+  },
+  "image_d736fc9afa0c6e.png": {
+    "classification": "formula",
+    "latex": "0.22 \\le p < 0.33",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.22 \\\\le p < 0.33\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T06:19:47.809883+00:00",
+    "engine": "codex"
+  },
+  "image_dae489143e276d.png": {
+    "classification": "formula",
+    "latex": "n(B)=2\\times3=6",
+    "note": "集合B的元素個數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(B)=2\\\\times3=6\",\"note\":\"集合B的元素個數計算\"}\n",
+    "ts": "2026-04-29T06:19:49.971914+00:00",
+    "engine": "codex"
+  },
+  "image_e080d8074f7ebc.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-29T06:19:52.195025+00:00",
+    "engine": "codex"
+  },
+  "image_ddb03f68ae7e31.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)",
+    "note": "事件A與B交集的機率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)\",\"note\":\"事件A與B交集的機率\"}\n",
+    "ts": "2026-04-29T06:19:53.605439+00:00",
+    "engine": "codex"
+  },
+  "image_e1e19a9f5abc92.png": {
+    "classification": "formula",
+    "latex": "n(A\\cap B)",
+    "note": "集合交集的元素個數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A\\\\cap B)\",\"note\":\"集合交集的元素個數\"}\n",
+    "ts": "2026-04-29T06:19:55.748929+00:00",
+    "engine": "codex"
+  },
+  "image_e11ae4e54d6663.png": {
+    "classification": "formula",
+    "latex": "0.\\overline{66}",
+    "note": "循環小數0.66",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.\\\\overline{66}\",\"note\":\"循環小數0.66\"}\n",
+    "ts": "2026-04-29T06:19:56.369429+00:00",
+    "engine": "codex"
+  },
+  "image_f14d7b71b8acdd.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數五分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數五分之一\"}\n",
+    "ts": "2026-04-29T06:20:01.510910+00:00",
+    "engine": "codex"
+  },
+  "image_f07d3925580e99.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字 3\"}\n",
+    "ts": "2026-04-29T06:20:01.813342+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "斜體大寫字母A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"斜體大寫字母A\"}\n",
+    "ts": "2026-04-29T06:20:02.441454+00:00",
+    "engine": "codex"
+  },
+  "image_f1c5f782f762f2.png": {
+    "classification": "formula",
+    "latex": "n(A)=6",
+    "note": "集合 A 的元素個數為 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A)=6\",\"note\":\"集合 A 的元素個數為 6\"}\n",
+    "ts": "2026-04-29T06:20:03.320511+00:00",
+    "engine": "codex"
+  },
+  "image_f7ccb9df964fd2.png": {
+    "classification": "formula",
+    "latex": "M",
+    "note": "單一變數 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\",\"note\":\"單一變數 M\"}\n",
+    "ts": "2026-04-29T06:20:10.275461+00:00",
+    "engine": "codex"
+  },
+  "image_f997164c7e5aaf.png": {
+    "classification": "formula",
+    "latex": "n(C)=6",
+    "note": "集合C的元素個數為6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(C)=6\",\"note\":\"集合C的元素個數為6\"}\n",
+    "ts": "2026-04-29T06:20:10.983419+00:00",
+    "engine": "codex"
+  },
+  "image_f92abde8504191.png": {
+    "classification": "formula",
+    "latex": "B \\subset A",
+    "note": "集合包含關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B \\\\subset A\",\"note\":\"集合包含關係\"}\n",
+    "ts": "2026-04-29T06:20:12.002531+00:00",
+    "engine": "codex"
+  },
+  "image_f350706bc7ab5f.png": {
+    "classification": "formula",
+    "latex": "C_2^9 \\times 1 = 36",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^9 \\\\times 1 = 36\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-29T06:20:13.834585+00:00",
+    "engine": "codex"
+  },
+  "image_fbc05aca6b777d.png": {
+    "classification": "formula",
+    "latex": "P=\\frac{n(A)}{n(S)}=\\frac{C_2^3}{2^3}=\\frac{3}{8}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=\\\\frac{n(A)}{n(S)}=\\\\frac{C_2^3}{2^3}=\\\\frac{3}{8}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-29T06:20:19.071068+00:00",
+    "engine": "codex"
+  },
+  "image_fdc848e9bcf78a.png": {
+    "classification": "formula",
+    "latex": "n(B)=6",
+    "note": "集合B的元素個數為6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(B)=6\",\"note\":\"集合B的元素個數為6\"}\n",
+    "ts": "2026-04-29T06:20:19.128446+00:00",
+    "engine": "codex"
+  },
+  "image_ff4e28ca852a60.png": {
+    "classification": "formula",
+    "latex": "13",
+    "note": "題號或數字 13",
+    "raw": "{\"class\":\"formula\",\"latex\":\"13\",\"note\":\"題號或數字 13\"}\n",
+    "ts": "2026-04-29T06:20:20.447504+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,1759 @@
+{
+  "image_0071b67feea6d8.png": {
+    "classification": "formula",
+    "latex": "p = -2\\sqrt{3}",
+    "note": "p = -2\\sqrt{3}",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p = -2\\\\sqrt{3}\",\"note\":\"p = -2\\\\sqrt{3}\"}\n",
+    "ts": "2026-04-26T14:05:28.613784+00:00"
+  },
+  "image_01897e3590f996.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{\\overline{QC}}{\\overline{OC}}",
+    "note": "正弦函數定義公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta = \\frac{\\overline{QC}}{\\overline{OC}}\",\"note\":\"正弦函數定義公式\"}\n",
+    "ts": "2026-04-26T14:05:34.968349+00:00"
+  },
+  "image_017ac6c23fb966.png": {
+    "classification": "formula",
+    "latex": "\\cos 50^\\circ > \\frac{1}{2}",
+    "note": "比較 cos 50 度與 1/2 的大小",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos 50^\\circ > \\frac{1}{2}\",\"note\":\"比較 cos 50 度與 1/2 的大小\"}\n",
+    "ts": "2026-04-26T14:05:38.130023+00:00"
+  },
+  "image_003dd7cce7230b.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\sin \\theta - \\cos \\theta}{\\sin \\theta + \\cos \\theta} + \\frac{\\tan \\theta + 1}{\\tan \\theta - 1} = \\frac{\\sin \\theta - \\cos \\theta}{\\sin \\theta + \\cos \\theta} + \\frac{\\frac{\\sin \\theta}{\\cos \\theta} + 1}{\\frac{\\sin \\theta}{\\cos \\theta} - 1} = \\frac{\\sin \\theta - \\cos \\theta}{\\sin \\theta + \\cos \\theta} + \\frac{\\sin \\theta + \\cos \\theta}{\\sin \\theta - \\cos \\theta}",
+    "note": "三角函數分式化簡過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\sin \\\\theta - \\\\cos \\\\theta}{\\\\sin \\\\theta + \\\\cos \\\\theta} + \\\\frac{\\\\tan \\\\theta + 1}{\\\\tan \\\\theta - 1} = \\\\frac{\\\\sin \\\\theta - \\\\cos \\\\theta}{\\\\sin \\\\theta + \\\\cos \\\\theta} + \\\\frac{\\\\frac{\\\\sin \\\\theta}{\\\\cos \\\\theta} + 1}{\\\\frac{\\\\sin \\\\theta}{\\\\cos \\\\theta} - 1} = \\\\frac{\\\\sin \\\\theta - \\\\cos \\\\theta}{\\\\sin \\\\theta + \\\\cos \\\\theta} + \\\\frac{\\\\sin \\\\theta + \\\\cos \\\\theta}{\\\\sin \\\\theta - \\\\cos \\\\theta}\",\"note\":\"三角函數分式化簡過程\"}\n",
+    "ts": "2026-04-26T14:05:41.184780+00:00"
+  },
+  "image_02df3f7b8789ea.png": {
+    "classification": "formula",
+    "latex": "\\angle C = \\frac{180^\\circ - 140^\\circ}{2} = 20^\\circ = \\angle A",
+    "note": "計算角C與角A的度數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle C = \\frac{180^\\circ - 140^\\circ}{2} = 20^\\circ = \\angle A\",\"note\":\"計算角C與角A的度數\"}\n",
+    "ts": "2026-04-26T14:05:41.606254+00:00"
+  },
+  "image_0418fbe0b79769.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=1",
+    "note": "線段AB等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB}=1\",\"note\":\"線段AB等於1\"}\n",
+    "ts": "2026-04-26T14:05:44.864738+00:00"
+  },
+  "image_060f563c63cce4.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}=15",
+    "note": "線段BD等於15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BD}=15\",\"note\":\"線段BD等於15\"}\n",
+    "ts": "2026-04-26T14:05:50.109324+00:00"
+  },
+  "image_0772974b8fcc3d.png": {
+    "classification": "formula",
+    "latex": "cos \\theta = \\frac{1}{3}",
+    "note": "cos theta = 1/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"cos \\theta = \\frac{1}{3}\",\"note\":\"cos theta = 1/3\"}\n",
+    "ts": "2026-04-26T14:05:52.464833+00:00"
+  },
+  "image_07fc86c2259963.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = 56",
+    "note": "線段 BC 等於 56",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BC} = 56\",\"note\":\"線段 BC 等於 56\"}\n",
+    "ts": "2026-04-26T14:05:58.001403+00:00"
+  },
+  "image_0948b45a875782.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{QC}}{\\overline{AC}} = \\cos C",
+    "note": "三角函數餘弦定義公式，QC線段比AC線段等於cos C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{QC}}{\\\\overline{AC}} = \\\\cos C\",\"note\":\"三角函數餘弦定義公式，QC線段比AC線段等於cos C\"}\n",
+    "ts": "2026-04-26T14:06:01.811613+00:00"
+  },
+  "image_09bef83cce310a.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = 20",
+    "note": "線段AD等於20",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AD} = 20\",\"note\":\"線段AD等於20\"}\n",
+    "ts": "2026-04-26T14:06:05.100539+00:00"
+  },
+  "image_0a936f558a7bf4.png": {
+    "classification": "formula",
+    "latex": "\\overline{BE}=\\overline{DE}",
+    "note": "線段 BE 等於線段 DE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BE}=\\overline{DE}\",\"note\":\"線段 BE 等於線段 DE\"}\n",
+    "ts": "2026-04-26T14:06:07.653972+00:00"
+  },
+  "image_0b4d8d139abe08.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{\\overline{BD}}{\\overline{BC}}",
+    "note": "正弦函數定義公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta = \\frac{\\overline{BD}}{\\overline{BC}}\",\"note\":\"正弦函數定義公式\"}\n",
+    "ts": "2026-04-26T14:06:14.192808+00:00"
+  },
+  "image_114bf24f9b3cc6.png": {
+    "classification": "formula",
+    "latex": "\\overline{AQ} \\perp \\overline{BC}",
+    "note": "AQ垂直於BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AQ} \\perp \\overline{BC}\",\"note\":\"AQ垂直於BC\"}\n",
+    "ts": "2026-04-26T14:06:17.713920+00:00"
+  },
+  "image_0c38d6e3d6cbae.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=\\overline{BD}+\\overline{CD}=20+8=28",
+    "note": "線段長度相加計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}=\\\\overline{BD}+\\\\overline{CD}=20+8=28\",\"note\":\"線段長度相加計算\"}\n",
+    "ts": "2026-04-26T14:06:19.902960+00:00"
+  },
+  "image_0fc6bc4880c323.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} \\sin 35^\\circ",
+    "note": "BC線段長度乘以sin 35度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} \\\\sin 35^\\\\circ\",\"note\":\"BC線段長度乘以sin 35度\"}\n",
+    "ts": "2026-04-26T14:06:21.463682+00:00"
+  },
+  "image_11962b05702700.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} \\perp \\overline{BC}",
+    "note": "線段AD垂直線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AD} \\perp \\overline{BC}\",\"note\":\"線段AD垂直線段BC\"}\n",
+    "ts": "2026-04-26T14:06:23.898882+00:00"
+  },
+  "image_1212340714bb09.png": {
+    "classification": "formula",
+    "latex": "\\angle CEB = 80^\\circ",
+    "note": "角度 CEB 等於 80 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle CEB = 80^\\circ\",\"note\":\"角度 CEB 等於 80 度\"}\n",
+    "ts": "2026-04-26T14:06:34.422221+00:00"
+  },
+  "image_17278180c62604.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = 39",
+    "note": "線段 AC 等於 39",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AC} = 39\",\"note\":\"線段 AC 等於 39\"}\n",
+    "ts": "2026-04-26T14:06:34.853203+00:00"
+  },
+  "image_13f628b1ef0777.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta \\times \\cos \\theta = \\frac{q}{3}",
+    "note": "包含正弦、餘弦乘積與分式的數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin \\theta \\times \\cos \\theta = \\frac{q}{3}\",\"note\":\"包含正弦、餘弦乘積與分式的數學等式\"}\n",
+    "ts": "2026-04-26T14:06:36.744762+00:00"
+  },
+  "image_140b0f9afcf6d7.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段 BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BC}\",\"note\":\"線段 BC\"}\n",
+    "ts": "2026-04-26T14:06:39.854839+00:00"
+  },
+  "image_1a72438982c12d.png": {
+    "classification": "formula",
+    "latex": "\\overline{PB} = 105.3",
+    "note": "線段 PB 等於 105.3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PB} = 105.3\",\"note\":\"線段 PB 等於 105.3\"}\n",
+    "ts": "2026-04-26T14:06:52.870857+00:00"
+  },
+  "image_1b647fddb16247.png": {
+    "classification": "formula",
+    "latex": "\\sin^3 \\theta + \\cos^3 \\theta",
+    "note": "三角函數三次方和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin^3 \\theta + \\cos^3 \\theta\",\"note\":\"三角函數三次方和\"}\n",
+    "ts": "2026-04-26T14:06:53.643861+00:00"
+  },
+  "image_1ad9d1093fab9b.png": {
+    "classification": "formula",
+    "latex": "\\sin A \\cos A",
+    "note": "sin A cos A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A \\\\cos A\",\"note\":\"sin A cos A\"}\n",
+    "ts": "2026-04-26T14:06:55.776449+00:00"
+  },
+  "image_186dfd0c164eec.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3-a} + \\frac{1}{b} = \\frac{1}{3-(2-\\sin \\theta)} + \\frac{1}{1-\\sin \\theta} = \\frac{1}{1+\\sin \\theta} + \\frac{1}{1-\\sin \\theta}",
+    "note": "包含正弦函數的分式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3-a} + \\\\frac{1}{b} = \\\\frac{1}{3-(2-\\\\sin \\\\theta)} + \\\\frac{1}{1-\\\\sin \\\\theta} = \\\\frac{1}{1+\\\\sin \\\\theta} + \\\\frac{1}{1-\\\\sin \\\\theta}\",\"note\":\"包含正弦函數的分式等式\"}\n",
+    "ts": "2026-04-26T14:06:57.528058+00:00"
+  },
+  "image_1c2429e7c7aba2.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段 BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}\",\"note\":\"線段 BC\"}\n",
+    "ts": "2026-04-26T14:07:07.828120+00:00"
+  },
+  "image_1bd2b6b0ae92ba.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = \\overline{AB} \\times \\sin \\theta = 1 \\times \\sin \\theta = \\sin \\theta",
+    "note": "使用正弦函數計算線段BC的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} = \\\\overline{AB} \\\\times \\\\sin \\\\theta = 1 \\\\times \\\\sin \\\\theta = \\\\sin \\\\theta\",\"note\":\"使用正弦函數計算線段BC的長度\"}\n",
+    "ts": "2026-04-26T14:07:12.451794+00:00"
+  },
+  "image_2019d401cc3270.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段 AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB}\",\"note\":\"線段 AB\"}\n",
+    "ts": "2026-04-26T14:07:12.482131+00:00"
+  },
+  "image_2069b7aa668676.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} \\sin 35^\\circ",
+    "note": "AB線段長度乘以sin 35度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB} \\\\sin 35^\\\\circ\",\"note\":\"AB線段長度乘以sin 35度\"}\n",
+    "ts": "2026-04-26T14:07:17.660598+00:00"
+  },
+  "image_20c14fb084c50a.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形ABC圖形，包含垂線PD、PE、BF及角度標註70與55",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形ABC圖形，包含垂線PD、PE、BF及角度標註70與55\"}\n",
+    "ts": "2026-04-26T14:07:19.421083+00:00"
+  },
+  "image_224e246d675a2d.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = \\overline{BD} + \\overline{DC} = 20 + 36 = 56",
+    "note": "線段相加計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} = \\\\overline{BD} + \\\\overline{DC} = 20 + 36 = 56\",\"note\":\"線段相加計算\"}\n",
+    "ts": "2026-04-26T14:07:29.401900+00:00"
+  },
+  "image_24ce7eb31b0a1b.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段 BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BC}\",\"note\":\"線段 BC\"}\n",
+    "ts": "2026-04-26T14:07:29.610045+00:00"
+  },
+  "image_2369ab3da8ae46.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} \\sin 70^\\circ",
+    "note": "BC線段長乘以sin 70度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} \\\\sin 70^\\\\circ\",\"note\":\"BC線段長乘以sin 70度\"}\n",
+    "ts": "2026-04-26T14:07:32.669062+00:00"
+  },
+  "image_2631b2aeca80de.png": {
+    "classification": "formula",
+    "latex": "\\overline{BE} = \\overline{BC} \\times \\cos 80^\\circ \\times 2",
+    "note": "包含餘弦函數的線段長度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BE} = \\\\overline{BC} \\\\times \\\\cos 80^\\\\circ \\\\times 2\",\"note\":\"包含餘弦函數的線段長度等式\"}\n",
+    "ts": "2026-04-26T14:07:44.611075+00:00"
+  },
+  "image_26742732fbc3e3.png": {
+    "classification": "formula",
+    "latex": "\\tan B = \\frac{3}{4}",
+    "note": "tan B = 3/4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan B = \\frac{3}{4}\",\"note\":\"tan B = 3/4\"}\n",
+    "ts": "2026-04-26T14:07:47.883677+00:00"
+  },
+  "image_254e7baabdc3b8.png": {
+    "classification": "formula",
+    "latex": "\\angle ABD = 20^\\circ",
+    "note": "角ABD等於20度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle ABD = 20^\\\\circ\",\"note\":\"角ABD等於20度\"}\n",
+    "ts": "2026-04-26T14:07:53.150871+00:00"
+  },
+  "image_26d8c109a4af83.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形 ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形 ABC\"}\n",
+    "ts": "2026-04-26T14:07:55.114259+00:00"
+  },
+  "image_21ba99208868d7.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta + \\cos \\theta = \\sqrt{1 + \\tan^2 \\theta}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta + \\\\cos \\\\theta = \\\\sqrt{1 + \\\\tan^2 \\\\theta}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-26T14:07:57.860387+00:00"
+  },
+  "image_26e5eba40e6f2e.png": {
+    "classification": "formula",
+    "latex": "\\cos^2 A",
+    "note": "cos^2 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos^2 A\",\"note\":\"cos^2 A\"}\n",
+    "ts": "2026-04-26T14:08:08.971220+00:00"
+  },
+  "image_28f545c5e0756c.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta = \\frac{\\overline{QC}}{1} = \\overline{QC}",
+    "note": "正切函數與線段長度的關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta = \\\\frac{\\\\overline{QC}}{1} = \\\\overline{QC}\",\"note\":\"正切函數與線段長度的關係式\"}\n",
+    "ts": "2026-04-26T14:08:10.120800+00:00"
+  },
+  "image_292f50d7b8dc5d.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = 2(r \\tan 10^\\circ)",
+    "note": "線段CD的長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD} = 2(r \\\\tan 10^\\\\circ)\",\"note\":\"線段CD的長度公式\"}\n",
+    "ts": "2026-04-26T14:08:11.885593+00:00"
+  },
+  "image_2935dfb3bd3737.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}=\\overline{CE}",
+    "note": "線段 BC 等於線段 CE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BC}=\\overline{CE}\",\"note\":\"線段 BC 等於線段 CE\"}\n",
+    "ts": "2026-04-26T14:08:15.217454+00:00"
+  },
+  "image_29a0f882d4a331.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = \\overline{AB} \\times \\sin B = 25 \\times \\frac{3}{5} = 15",
+    "note": "計算線段 AD 的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AD} = \\overline{AB} \\times \\sin B = 25 \\times \\frac{3}{5} = 15\",\"note\":\"計算線段 AD 的長度\"}\n",
+    "ts": "2026-04-26T14:08:20.582553+00:00"
+  },
+  "image_2b51bf1237703a.png": {
+    "classification": "formula",
+    "latex": "\\cos \\phi = \\frac{\\overline{QC}}{\\overline{OC}}",
+    "note": "餘弦函數定義公式，包含線段 QC 與 OC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\phi = \\frac{\\overline{QC}}{\\overline{OC}}\",\"note\":\"餘弦函數定義公式，包含線段 QC 與 OC\"}\n",
+    "ts": "2026-04-26T14:08:25.947795+00:00"
+  },
+  "image_2ceb48db7b4ff5.png": {
+    "classification": "formula",
+    "latex": "\\angle EBC = 80^\\circ",
+    "note": "角EBC等於80度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle EBC = 80^\\circ\",\"note\":\"角EBC等於80度\"}\n",
+    "ts": "2026-04-26T14:08:29.887131+00:00"
+  },
+  "image_2f9547fd7d89e4.png": {
+    "classification": "formula",
+    "latex": "\\overline{AP} = \\cos \\theta",
+    "note": "線段 AP 等於 cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AP} = \\\\cos \\\\theta\",\"note\":\"線段 AP 等於 cos theta\"}\n",
+    "ts": "2026-04-26T14:08:30.636949+00:00"
+  },
+  "image_2f65c17257635a.png": {
+    "classification": "formula",
+    "latex": "= \\tan \\theta \\times 100\\%",
+    "note": "正切值乘以100%",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\tan \\\\theta \\\\times 100\\\\%\",\"note\":\"正切值乘以100%\"}\n",
+    "ts": "2026-04-26T14:08:37.576183+00:00"
+  },
+  "image_306603102aede8.png": {
+    "classification": "formula",
+    "latex": "\\overline{AH} \\perp \\overline{PQ}",
+    "note": "線段 AH 垂直於線段 PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AH} \\\\perp \\\\overline{PQ}\",\"note\":\"線段 AH 垂直於線段 PQ\"}\n",
+    "ts": "2026-04-26T14:08:40.651403+00:00"
+  },
+  "image_30b79db7c1ab00.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}",
+    "note": "線段 CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}\",\"note\":\"線段 CD\"}\n",
+    "ts": "2026-04-26T14:08:51.311798+00:00"
+  },
+  "image_31a9549347f310.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形 ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\triangle ABC\",\"note\":\"三角形 ABC\"}\n",
+    "ts": "2026-04-26T14:08:52.124106+00:00"
+  },
+  "image_312ae81b2b68fe.png": {
+    "classification": "formula",
+    "latex": "\\frac{5 \\sin \\alpha}{\\sin \\beta}",
+    "note": "三角函數分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{5 \\sin \\alpha}{\\sin \\beta}\",\"note\":\"三角函數分式\"}\n",
+    "ts": "2026-04-26T14:08:53.067500+00:00"
+  },
+  "image_32210943d60217.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} \\cos 70^\\circ",
+    "note": "線段AC乘cos 70度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC} \\\\cos 70^\\\\circ\",\"note\":\"線段AC乘cos 70度\"}\n",
+    "ts": "2026-04-26T14:08:59.213040+00:00"
+  },
+  "image_33a8a5a66a40e2.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} = \\overline{BD} \\times \\cos 20^\\circ \\times 2 = 2\\overline{BD} \\times \\cos 20^\\circ",
+    "note": "包含線段長度與餘弦函數的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB} = \\overline{BD} \\times \\cos 20^\\circ \\times 2 = 2\\overline{BD} \\times \\cos 20^\\circ\",\"note\":\"包含線段長度與餘弦函數的等式\"}\n",
+    "ts": "2026-04-26T14:09:08.656559+00:00"
+  },
+  "image_338954955a49ae.png": {
+    "classification": "formula",
+    "latex": "\\overline{OA}^2 + \\overline{AB}^2 = \\overline{OB}^2",
+    "note": "線段平方和公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{OA}^2 + \\overline{AB}^2 = \\overline{OB}^2\",\"note\":\"線段平方和公式\"}\n",
+    "ts": "2026-04-26T14:09:09.488824+00:00"
+  },
+  "image_3750397461af7d.png": {
+    "classification": "formula",
+    "latex": "ABC",
+    "note": "數學變數 ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABC\",\"note\":\"數學變數 ABC\"}\n",
+    "ts": "2026-04-26T14:09:11.092257+00:00"
+  },
+  "image_34986547291207.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta + \\sin \\theta = \\frac{8\\sqrt{2}}{3}",
+    "note": "包含 tan 與 sin 的三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan \\theta + \\sin \\theta = \\frac{8\\sqrt{2}}{3}\",\"note\":\"包含 tan 與 sin 的三角函數等式\"}\n",
+    "ts": "2026-04-26T14:09:14.887309+00:00"
+  },
+  "image_40195f4eb925db.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD} = \\overline{AB} \\times \\cos B = 25 \\times \\frac{4}{5} = 20",
+    "note": "線段BD的長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BD} = \\overline{AB} \\times \\cos B = 25 \\times \\frac{4}{5} = 20\",\"note\":\"線段BD的長度計算\"}\n",
+    "ts": "2026-04-26T14:09:22.219705+00:00"
+  },
+  "image_3ed39e17f6ca0f.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形圖(c)，標註頂點A, B, D, D'及角度20度",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形圖(c)，標註頂點A, B, D, D'及角度20度\"}\n",
+    "ts": "2026-04-26T14:09:22.866026+00:00"
+  },
+  "image_3e6afaa61397a6.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{AC}}{\\overline{AB}} = \\cos \\theta",
+    "note": "線段長度比例與餘弦函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{AC}}{\\\\overline{AB}} = \\\\cos \\\\theta\",\"note\":\"線段長度比例與餘弦函數公式\"}\n",
+    "ts": "2026-04-26T14:09:25.169164+00:00"
+  },
+  "image_40e97c4e0ffd71.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD} = \\overline{BC} \\times \\sin \\theta = \\sin \\theta \\times \\sin \\theta = \\sin^{2} \\theta",
+    "note": "利用三角函數計算線段長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BD} = \\overline{BC} \\times \\sin \\theta = \\sin \\theta \\times \\sin \\theta = \\sin^{2} \\theta\",\"note\":\"利用三角函數計算線段長度\"}\n",
+    "ts": "2026-04-26T14:09:32.888755+00:00"
+  },
+  "image_42027c85086792.png": {
+    "classification": "formula",
+    "latex": "\\sin^2 \\theta + \\sin^2 \\phi = 1",
+    "note": "三角函數平方和恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin^2 \\theta + \\sin^2 \\phi = 1\",\"note\":\"三角函數平方和恆等式\"}\n",
+    "ts": "2026-04-26T14:09:34.808029+00:00"
+  },
+  "image_458027f3eb2332.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = 36",
+    "note": "線段CD等於36",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{CD} = 36\",\"note\":\"線段CD等於36\"}\n",
+    "ts": "2026-04-26T14:09:40.948756+00:00"
+  },
+  "image_48b4c945cb85d6.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "道路、車輛與交通號誌示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"道路、車輛與交通號誌示意圖\"}\n",
+    "ts": "2026-04-26T14:09:45.448321+00:00"
+  },
+  "image_45c3dbb980d681.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = \\overline{CE}",
+    "note": "線段 BC 等於線段 CE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BC} = \\overline{CE}\",\"note\":\"線段 BC 等於線段 CE\"}\n",
+    "ts": "2026-04-26T14:09:52.016055+00:00"
+  },
+  "image_4a174ef04b3628.png": {
+    "classification": "formula",
+    "latex": "\\times(\\sin^2 \\theta - \\sin \\theta \\cos \\theta + \\cos^2 \\theta)",
+    "note": "包含正弦與餘弦平方項的三角函數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\times(\\sin^2 \\theta - \\sin \\theta \\cos \\theta + \\cos^2 \\theta)\",\"note\":\"包含正弦與餘弦平方項的三角函數算式\"}\n",
+    "ts": "2026-04-26T14:09:56.712266+00:00"
+  },
+  "image_40d5471c363363.png": {
+    "classification": "formula",
+    "latex": "\\cos C = \\frac{\\overline{QC}}{\\overline{AC}}",
+    "note": "余弦函數公式：cos C = QC/AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos C = \\\\frac{\\\\overline{QC}}{\\\\overline{AC}}\",\"note\":\"余弦函數公式：cos C = QC/AC\"}\n",
+    "ts": "2026-04-26T14:09:59.795682+00:00"
+  },
+  "image_4aa11738b34832.png": {
+    "classification": "formula",
+    "latex": "=\\frac{7}{5} \\times (1 - \\frac{12}{25})",
+    "note": "含有分數與括號的乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{7}{5} \\times (1 - \\\\frac{12}{25})\",\"note\":\"含有分數與括號的乘法算式\"}\n",
+    "ts": "2026-04-26T14:10:00.592702+00:00"
+  },
+  "image_4b04a51416a014.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=17",
+    "note": "線段AC等於17",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AC}=17\",\"note\":\"線段AC等於17\"}\n",
+    "ts": "2026-04-26T14:10:07.904900+00:00"
+  },
+  "image_4f6c5893568f3b.png": {
+    "classification": "formula",
+    "latex": "\\tan 70^{\\circ} < \\sqrt{3}",
+    "note": "tan 70度小於根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan 70^{\\circ} < \\sqrt{3}\",\"note\":\"tan 70度小於根號3\"}\n",
+    "ts": "2026-04-26T14:10:11.106897+00:00"
+  },
+  "image_4d2a70f70f225e.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD} = \\overline{BE} \\times \\cos 40^\\circ \\times 2",
+    "note": "線段BD與BE的三角函數關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BD} = \\overline{BE} \\times \\cos 40^\\circ \\times 2\",\"note\":\"線段BD與BE的三角函數關係式\"}\n",
+    "ts": "2026-04-26T14:10:16.266926+00:00"
+  },
+  "image_4fdaa2eede0253.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形ABC與以AB為直徑的半圓，交點為P、Q，含角度theta",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形ABC與以AB為直徑的半圓，交點為P、Q，含角度theta\"}\n",
+    "ts": "2026-04-26T14:10:19.757438+00:00"
+  },
+  "image_4bc6981fcece9d.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta = \\frac{1}{\\sqrt{1 + \\tan^2 \\theta}}",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\theta = \\frac{1}{\\sqrt{1 + \\tan^2 \\theta}}\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-26T14:10:24.221901+00:00"
+  },
+  "image_52b57cfe784bf3.png": {
+    "classification": "formula",
+    "latex": "=(\\sin \\theta + \\cos \\theta)",
+    "note": "三角函數的正弦與餘弦相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(\\\\sin \\\\theta + \\\\cos \\\\theta)\",\"note\":\"三角函數的正弦與餘弦相加\"}\n",
+    "ts": "2026-04-26T14:10:25.229983+00:00"
+  },
+  "image_53855385e826c6.png": {
+    "classification": "formula",
+    "latex": "\\triangle ACD",
+    "note": "三角形 ACD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ACD\",\"note\":\"三角形 ACD\"}\n",
+    "ts": "2026-04-26T14:10:29.986551+00:00"
+  },
+  "image_540b54657eee7d.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形 APQ，包含高 AH 及線段 AB",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形 APQ，包含高 AH 及線段 AB\"}\n",
+    "ts": "2026-04-26T14:10:37.139644+00:00"
+  },
+  "image_54248144c49e7c.png": {
+    "classification": "formula",
+    "latex": "(\\sin \\theta + \\cos \\theta)^2 = \\frac{49}{25}",
+    "note": "三角函數平方等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\sin \\\\theta + \\\\cos \\\\theta)^2 = \\\\frac{49}{25}\",\"note\":\"三角函數平方等式\"}\n",
+    "ts": "2026-04-26T14:10:37.186205+00:00"
+  },
+  "image_547c65a485efd0.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta = \\frac{\\overline{AC}}{\\overline{AB}} = \\frac{1}{\\sqrt{1+t^2}} = \\frac{1}{\\sqrt{1+\\tan^2 \\theta}}",
+    "note": "三角函數公式：cosθ 與 tanθ 的關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos \\theta = \\frac{\\overline{AC}}{\\overline{AB}} = \\frac{1}{\\sqrt{1+t^2}} = \\frac{1}{\\sqrt{1+\\tan^2 \\theta}}\",\"note\":\"三角函數公式：cosθ 與 tanθ 的關係\"}\n",
+    "ts": "2026-04-26T14:10:43.646826+00:00"
+  },
+  "image_563d7a14b81b3a.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} = \\overline{BC}",
+    "note": "線段 AB 等於線段 BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB} = \\overline{BC}\",\"note\":\"線段 AB 等於線段 BC\"}\n",
+    "ts": "2026-04-26T14:10:50.182273+00:00"
+  },
+  "image_55a6672c864524.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{AD}}{\\overline{AC}} = \\sin C",
+    "note": "線段比例與正弦函數關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{\\overline{AD}}{\\overline{AC}} = \\sin C\",\"note\":\"線段比例與正弦函數關係\"}\n",
+    "ts": "2026-04-26T14:10:51.113330+00:00"
+  },
+  "image_539177baf270da.png": {
+    "classification": "formula",
+    "latex": "tan \\phi = \\frac{1}{qC}",
+    "note": "正切函數公式 tan phi = 1/qC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"tan \\\\phi = \\\\frac{1}{qC}\",\"note\":\"正切函數公式 tan phi = 1/qC\"}\n",
+    "ts": "2026-04-26T14:10:51.403360+00:00"
+  },
+  "image_569fa910989f84.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角三角形ABC，CD為斜邊上的高，標記角A為theta",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角三角形ABC，CD為斜邊上的高，標記角A為theta\"}\n",
+    "ts": "2026-04-26T14:10:56.782888+00:00"
+  },
+  "image_575a324da7e6ed.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta = 2\\sqrt{2}",
+    "note": "tan θ = 2√2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan \\theta = 2\\sqrt{2}\",\"note\":\"tan θ = 2√2\"}\n",
+    "ts": "2026-04-26T14:11:00.241839+00:00"
+  },
+  "image_5b20a5aa82d133.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{PC}}{\\overline{BC}} = \\sin C",
+    "note": "線段比例與正弦函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{PC}}{\\\\overline{BC}} = \\\\sin C\",\"note\":\"線段比例與正弦函數公式\"}\n",
+    "ts": "2026-04-26T14:11:08.248633+00:00"
+  },
+  "image_5d9a2bc99dd499.png": {
+    "classification": "formula",
+    "latex": "\\overline{BE} = \\overline{DE}",
+    "note": "線段BE等於線段DE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BE} = \\\\overline{DE}\",\"note\":\"線段BE等於線段DE\"}\n",
+    "ts": "2026-04-26T14:11:13.049284+00:00"
+  },
+  "image_5f70ce15f9dedb.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta + \\frac{1}{\\tan \\theta} = \\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\sin \\theta}",
+    "note": "正切與正弦、餘弦的關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta + \\\\frac{1}{\\\\tan \\\\theta} = \\\\frac{\\\\sin \\\\theta}{\\\\cos \\\\theta} + \\\\frac{\\\\cos \\\\theta}{\\\\sin \\\\theta}\",\"note\":\"正切與正弦、餘弦的關係式\"}\n",
+    "ts": "2026-04-26T14:11:14.496777+00:00"
+  },
+  "image_600a7a4a299e04.png": {
+    "classification": "formula",
+    "latex": "\\overline{PD} + \\overline{PE} = \\overline{BF} = \\overline{AB} \\times \\sin 70^\\circ = \\overline{BC} \\times \\sin 55^\\circ = \\overline{BC} \\times \\cos 35^\\circ",
+    "note": "包含正弦與餘弦的線段長度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PD} + \\\\overline{PE} = \\\\overline{BF} = \\\\overline{AB} \\\\times \\\\sin 70^\\\\circ = \\\\overline{BC} \\\\times \\\\sin 55^\\\\circ = \\\\overline{BC} \\\\times \\\\cos 35^\\\\circ\",\"note\":\"包含正弦與餘弦的線段長度等式\"}\n",
+    "ts": "2026-04-26T14:11:16.508175+00:00"
+  },
+  "image_61be623c487ed1.png": {
+    "classification": "formula",
+    "latex": "tan C = \\frac{15}{8}",
+    "note": "tan C 等於八分之十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"tan C = \\frac{15}{8}\",\"note\":\"tan C 等於八分之十五\"}\n",
+    "ts": "2026-04-26T14:11:24.438922+00:00"
+  },
+  "image_601a86016ef7ad.png": {
+    "classification": "formula",
+    "latex": "=\\frac{(\\sin \\theta - \\cos \\theta)^2 + (\\sin \\theta + \\cos \\theta)^2}{\\sin^2 \\theta - \\cos^2 \\theta} = \\frac{2}{\\sin^2 \\theta - \\cos^2 \\theta}",
+    "note": "三角函數式簡化",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{(\\\\sin \\\\theta - \\\\cos \\\\theta)^2 + (\\\\sin \\\\theta + \\\\cos \\\\theta)^2}{\\\\sin^2 \\\\theta - \\\\cos^2 \\\\theta} = \\\\frac{2}{\\\\sin^2 \\\\theta - \\\\cos^2 \\\\theta}\",\"note\":\"三角函數式簡化\"}\n",
+    "ts": "2026-04-26T14:11:25.225039+00:00"
+  },
+  "image_625cb1e4995649.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 1 + 2 \\sin \\theta \\cos \\theta = \\frac{49}{25}",
+    "note": "包含三角函數的代數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\Rightarrow 1 + 2 \\sin \\theta \\cos \\theta = \\frac{49}{25}\",\"note\":\"包含三角函數的代數等式\"}\n",
+    "ts": "2026-04-26T14:11:30.086709+00:00"
+  },
+  "image_61af53cdce22b6.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = \\overline{AC} \\times \\sin \\theta = \\cos \\theta \\times \\sin \\theta",
+    "note": "線段CD與三角函數的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{CD} = \\overline{AC} \\times \\sin \\theta = \\cos \\theta \\times \\sin \\theta\",\"note\":\"線段CD與三角函數的等式\"}\n",
+    "ts": "2026-04-26T14:11:30.133849+00:00"
+  },
+  "image_62d10fd72c4d47.png": {
+    "classification": "formula",
+    "latex": "\\overline{BF} \\perp \\overline{AC}",
+    "note": "線段BF垂直於線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BF} \\perp \\overline{AC}\",\"note\":\"線段BF垂直於線段AC\"}\n",
+    "ts": "2026-04-26T14:11:39.448200+00:00"
+  },
+  "image_625d39a91fcefc.png": {
+    "classification": "formula",
+    "latex": "\\frac{5 \\tan \\alpha}{\\tan \\beta}",
+    "note": "包含正切函數的分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5 \\\\tan \\\\alpha}{\\\\tan \\\\beta}\",\"note\":\"包含正切函數的分式\"}\n",
+    "ts": "2026-04-26T14:11:40.297095+00:00"
+  },
+  "image_641c20a852d117.png": {
+    "classification": "formula",
+    "latex": "\\frac{5 \\cos \\beta}{\\sin \\alpha}",
+    "note": "三角函數分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5 \\\\cos \\\\beta}{\\\\sin \\\\alpha}\",\"note\":\"三角函數分式\"}\n",
+    "ts": "2026-04-26T14:11:43.432109+00:00"
+  },
+  "image_647adba8995db0.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = \\overline{AB} \\times \\cos \\theta = 1 \\times \\cos \\theta = \\cos \\theta",
+    "note": "利用餘弦函數計算線段 AC 的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC} = \\\\overline{AB} \\\\times \\\\cos \\\\theta = 1 \\\\times \\\\cos \\\\theta = \\\\cos \\\\theta\",\"note\":\"利用餘弦函數計算線段 AC 的長度\"}\n",
+    "ts": "2026-04-26T14:11:45.618715+00:00"
+  },
+  "image_68475380dc04ff.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=25",
+    "note": "線段 AB 長度為 25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB}=25\",\"note\":\"線段 AB 長度為 25\"}\n",
+    "ts": "2026-04-26T14:11:53.254113+00:00"
+  },
+  "image_67d26af4616f0f.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = \\overline{AC} \\times \\cos \\theta = \\cos \\theta \\times \\cos \\theta = \\cos^2 \\theta",
+    "note": "線段長度與三角函數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AD} = \\overline{AC} \\times \\cos \\theta = \\cos \\theta \\times \\cos \\theta = \\cos^2 \\theta\",\"note\":\"線段長度與三角函數運算\"}\n",
+    "ts": "2026-04-26T14:11:54.461077+00:00"
+  },
+  "image_68f54c52e9c434.png": {
+    "classification": "formula",
+    "latex": "\\angle COD = \\frac{360^\\circ}{18} = 20^\\circ",
+    "note": "計算角度COD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle COD = \\frac{360^\\circ}{18} = 20^\\circ\",\"note\":\"計算角度COD\"}\n",
+    "ts": "2026-04-26T14:11:57.556424+00:00"
+  },
+  "image_6847a4cbb7f4ed.png": {
+    "classification": "formula",
+    "latex": "\\cos C = \\frac{12}{13} = \\frac{\\overline{CD}}{39}",
+    "note": "餘弦函數與線段比例計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos C = \\frac{12}{13} = \\frac{\\overline{CD}}{39}\",\"note\":\"餘弦函數與線段比例計算\"}\n",
+    "ts": "2026-04-26T14:12:05.366273+00:00"
+  },
+  "image_6a130027068017.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} = \\sqrt{1 + t^2}",
+    "note": "線段 AB 的長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{AB} = \\sqrt{1 + t^2}\",\"note\":\"線段 AB 的長度公式\"}\n",
+    "ts": "2026-04-26T14:12:11.667478+00:00"
+  },
+  "image_6a2e1d0ee2a68c.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABD",
+    "note": "三角形 ABD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\triangle ABD\",\"note\":\"三角形 ABD\"}\n",
+    "ts": "2026-04-26T14:12:12.588074+00:00"
+  },
+  "image_6bad5c9ca8e756.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC}",
+    "note": "線段 BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC}\",\"note\":\"線段 BC\"}\n",
+    "ts": "2026-04-26T14:12:14.261348+00:00"
+  },
+  "image_6a23dee9e3751e.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD} = 2\\overline{BE} \\times \\cos 40^\\circ",
+    "note": "線段BD等於2倍線段BE乘以cos 40度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BD} = 2\\overline{BE} \\times \\cos 40^\\circ\",\"note\":\"線段BD等於2倍線段BE乘以cos 40度\"}\n",
+    "ts": "2026-04-26T14:12:16.261555+00:00"
+  },
+  "image_6e9c16d269635b.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形圖(a)，標有80度角與頂點C, B, C', E",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形圖(a)，標有80度角與頂點C, B, C', E\"}\n",
+    "ts": "2026-04-26T14:12:23.699279+00:00"
+  },
+  "image_711692737d8221.png": {
+    "classification": "formula",
+    "latex": "\\sin(\\angle CAD) = \\frac{\\overline{CD}}{\\overline{AC}} = \\frac{8}{17}",
+    "note": "計算角CAD的正弦值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\sin(\\angle CAD) = \\frac{\\overline{CD}}{\\overline{AC}} = \\frac{8}{17}\",\"note\":\"計算角CAD的正弦值\"}\n",
+    "ts": "2026-04-26T14:12:30.133249+00:00"
+  },
+  "image_6f16e8f67221dc.png": {
+    "classification": "formula",
+    "latex": "\\cos 50^\\circ > \\cos 60^\\circ = \\frac{1}{2}",
+    "note": "比較 cos 50 度與 cos 60 度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\cos 50^\\circ > \\cos 60^\\circ = \\frac{1}{2}\",\"note\":\"比較 cos 50 度與 cos 60 度\"}\n",
+    "ts": "2026-04-26T14:12:30.171160+00:00"
+  },
+  "image_7133dce1649f7b.png": {
+    "classification": "formula",
+    "latex": "\\overline{BE} = \\overline{BC} \\times \\cos 80^\\circ",
+    "note": "線段 BE 的長度計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BE} = \\overline{BC} \\times \\cos 80^\\circ\",\"note\":\"線段 BE 的長度計算公式\"}\n",
+    "ts": "2026-04-26T14:12:33.366248+00:00"
+  },
+  "image_716b9546cede84.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta = \\overline{QC}",
+    "note": "正切值等於線段QC的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan \\theta = \\overline{QC}\",\"note\":\"正切值等於線段QC的長度\"}\n",
+    "ts": "2026-04-26T14:12:39.051229+00:00"
+  },
+  "image_7545baf0a67c92.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "theta symbol",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"theta symbol\"}\n",
+    "ts": "2026-04-26T14:12:39.902346+00:00"
+  },
+  "image_74ef17e77eb4fc.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta + \\sin \\theta = \\frac{1+2\\sqrt{2}}{3}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\tan \\theta + \\sin \\theta = \\frac{1+2\\sqrt{2}}{3}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-26T14:12:40.381276+00:00"
+  },
+  "image_759c2ddcc2428e.png": {
+    "classification": "formula",
+    "latex": "\\angle BDC = 40^\\circ",
+    "note": "angle BDC equals 40 degrees",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle BDC = 40^\\\\circ\",\"note\":\"angle BDC equals 40 degrees\"}\n",
+    "ts": "2026-04-26T14:12:43.772243+00:00"
+  },
+  "image_77bdecfab8df16.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓與弦AB、圓心O及半徑r，並標示弦心距垂直符號",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓與弦AB、圓心O及半徑r，並標示弦心距垂直符號\"}\n",
+    "ts": "2026-04-26T14:12:46.818043+00:00"
+  },
+  "image_76df8874e3eb12.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta = 1",
+    "note": "cos theta equals 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta = 1\",\"note\":\"cos theta equals 1\"}\n",
+    "ts": "2026-04-26T14:12:49.534874+00:00"
+  },
+  "image_7a11f6b3edf45b.png": {
+    "classification": "formula",
+    "latex": "\\triangle BCD",
+    "note": "triangle BCD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle BCD\",\"note\":\"triangle BCD\"}\n",
+    "ts": "2026-04-26T14:12:53.558497+00:00"
+  },
+  "image_78284c6bb6f06f.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "Right triangle ABC with altitude CD and arc l",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"Right triangle ABC with altitude CD and arc l\"}\n",
+    "ts": "2026-04-26T14:12:54.847784+00:00"
+  },
+  "image_7a163102424167.png": {
+    "classification": "formula",
+    "latex": "\\sin C = \\frac{\\overline{BP}}{\\overline{BC}}",
+    "note": "sin C ratio",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin C = \\\\frac{\\\\overline{BP}}{\\\\overline{BC}}\",\"note\":\"sin C ratio\"}\n",
+    "ts": "2026-04-26T14:12:56.048338+00:00"
+  },
+  "image_7a5b4de025db01.png": {
+    "classification": "formula",
+    "latex": "\\cos B = \\frac{\\overline{BD}}{25} = \\frac{4}{5}",
+    "note": "cos B formula",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos B = \\\\frac{\\\\overline{BD}}{25} = \\\\frac{4}{5}\",\"note\":\"cos B formula\"}\n",
+    "ts": "2026-04-26T14:13:02.077708+00:00"
+  },
+  "image_7bdb385154c3fa.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形ABC及其高AD與邊長",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形ABC及其高AD與邊長\"}\n",
+    "ts": "2026-04-26T14:13:03.751491+00:00"
+  },
+  "image_7ad913a40b2f35.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = 15",
+    "note": "線段AD長度為15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD} = 15\",\"note\":\"線段AD長度為15\"}\n",
+    "ts": "2026-04-26T14:13:05.728062+00:00"
+  },
+  "image_7d2099f1915863.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta + \\sin \\theta = 2\\sqrt{2} + \\frac{2\\sqrt{2}}{3} = \\frac{8\\sqrt{2}}{3}",
+    "note": "trigonometric expression evaluation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta + \\\\sin \\\\theta = 2\\\\sqrt{2} + \\\\frac{2\\\\sqrt{2}}{3} = \\\\frac{8\\\\sqrt{2}}{3}\",\"note\":\"trigonometric expression evaluation\"}\n",
+    "ts": "2026-04-26T14:13:11.263212+00:00"
+  },
+  "image_7f22d07bc45b43.png": {
+    "classification": "formula",
+    "latex": "h=16\\sqrt{2}",
+    "note": "h等於16根號2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h=16\\\\sqrt{2}\",\"note\":\"h等於16根號2\"}\n",
+    "ts": "2026-04-26T14:13:14.039080+00:00"
+  },
+  "image_7e3b9ca58b0dd6.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} = 2(r \\sin 10^\\circ)",
+    "note": "線段AB長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB} = 2(r \\\\sin 10^\\\\circ)\",\"note\":\"線段AB長度\"}\n",
+    "ts": "2026-04-26T14:13:14.282390+00:00"
+  },
+  "image_7f5c352853a1d0.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "平行四邊形ABCD，標示直角、角度及邊長",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"平行四邊形ABCD，標示直角、角度及邊長\"}\n",
+    "ts": "2026-04-26T14:13:15.631590+00:00"
+  },
+  "image_81b3623c6f5343.png": {
+    "classification": "formula",
+    "latex": "\\angle DBE = 40^\\circ",
+    "note": "角DBE等於40度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\angle DBE = 40^\\circ\",\"note\":\"角DBE等於40度\"}\n",
+    "ts": "2026-04-26T14:13:24.909178+00:00"
+  },
+  "image_7f97e31a8c9ae2.png": {
+    "classification": "formula",
+    "latex": "\\cos B = \\frac{4}{5}",
+    "note": "余弦函數公式 cos B = 4/5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos B = \\\\frac{4}{5}\",\"note\":\"余弦函數公式 cos B = 4/5\"}\n",
+    "ts": "2026-04-26T14:13:25.550729+00:00"
+  },
+  "image_80c68908cd35c1.png": {
+    "classification": "formula",
+    "latex": "\\overline{BP} \\perp \\overline{AC}",
+    "note": "線段BP垂直於線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{BP} \\perp \\overline{AC}\",\"note\":\"線段BP垂直於線段AC\"}\n",
+    "ts": "2026-04-26T14:13:29.536933+00:00"
+  },
+  "image_87160fe00e11b4.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體測量示意圖，包含角度與邊長",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體測量示意圖，包含角度與邊長\"}\n",
+    "ts": "2026-04-26T14:13:34.056726+00:00"
+  },
+  "image_82cb4597d8d599.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}",
+    "note": "線段 CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{CD}\",\"note\":\"線段 CD\"}\n",
+    "ts": "2026-04-26T14:13:34.817969+00:00"
+  },
+  "image_86ea61480cac10.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = \\overline{AC} \\times \\sin A = \\cos A \\times \\sin A = \\sin A \\cos A",
+    "note": "trigonometric equation for length CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD} = \\\\overline{AC} \\\\times \\\\sin A = \\\\cos A \\\\times \\\\sin A = \\\\sin A \\\\cos A\",\"note\":\"trigonometric equation for length CD\"}\n",
+    "ts": "2026-04-26T14:13:34.886676+00:00"
+  },
+  "image_8a4c9eb7870aab.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=1",
+    "note": "線段AB等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=1\",\"note\":\"線段AB等於1\"}\n",
+    "ts": "2026-04-26T14:13:39.215466+00:00"
+  },
+  "image_8c8caafcf4264c.png": {
+    "classification": "formula",
+    "latex": "\\overline{OA}=\\overline{OH}=h",
+    "note": "等長線段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OA}=\\\\overline{OH}=h\",\"note\":\"等長線段\"}\n",
+    "ts": "2026-04-26T14:13:51.445104+00:00"
+  },
+  "image_8c4bbf40e7b490.png": {
+    "classification": "formula",
+    "latex": "\\overline{QC} \\perp \\overline{OQ}",
+    "note": "QC垂直OQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{QC} \\\\perp \\\\overline{OQ}\",\"note\":\"QC垂直OQ\"}\n",
+    "ts": "2026-04-26T14:13:53.798041+00:00"
+  },
+  "image_8b158f7f5201bd.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}=\\frac{\\overline{AD}}{\\tan C}=\\frac{15}{\\frac{15}{8}}=8",
+    "note": "length of CD calculation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}=\\\\frac{\\\\overline{AD}}{\\\\tan C}=\\\\frac{15}{\\\\frac{15}{8}}=8\",\"note\":\"length of CD calculation\"}\n",
+    "ts": "2026-04-26T14:13:53.883302+00:00"
+  },
+  "image_8f2f1ccc7a4262.png": {
+    "classification": "formula",
+    "latex": "q=\\frac{1}{2}",
+    "note": "q=1/2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"q=\\\\frac{1}{2}\",\"note\":\"q=1/2\"}\n",
+    "ts": "2026-04-26T14:13:54.710013+00:00"
+  },
+  "image_961db780eedc93.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}",
+    "note": "線段AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}\",\"note\":\"線段AC\"}\n",
+    "ts": "2026-04-26T14:14:03.346847+00:00"
+  },
+  "image_92aeec834876a2.png": {
+    "classification": "formula",
+    "latex": "\\sin B = \\frac{3}{5}",
+    "note": "sin B equals 3/5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin B = \\\\frac{3}{5}\",\"note\":\"sin B equals 3/5\"}\n",
+    "ts": "2026-04-26T14:14:03.690735+00:00"
+  },
+  "image_91a689fc9c584c.png": {
+    "classification": "formula",
+    "latex": "\\sin C = \\frac{5}{13} = \\frac{\\overline{AD}}{\\overline{AC}} = \\frac{15}{\\overline{AC}}",
+    "note": "正弦函數比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin C = \\\\frac{5}{13} = \\\\frac{\\\\overline{AD}}{\\\\overline{AC}} = \\\\frac{15}{\\\\overline{AC}}\",\"note\":\"正弦函數比例式\"}\n",
+    "ts": "2026-04-26T14:14:05.117129+00:00"
+  },
+  "image_95e47cb73b8b43.png": {
+    "classification": "formula",
+    "latex": "\\sin^3 \\theta + \\cos^3 \\theta = \\frac{91}{125}",
+    "note": "trig equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin^3 \\\\theta + \\\\cos^3 \\\\theta = \\\\frac{91}{125}\",\"note\":\"trig equation\"}\n",
+    "ts": "2026-04-26T14:14:08.159931+00:00"
+  },
+  "image_9794f6d2f084be.png": {
+    "classification": "formula",
+    "latex": "\\frac{x}{100} \\times 100\\% = 6.1\\%",
+    "note": "百分比方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x}{100} \\\\times 100\\\\% = 6.1\\\\%\",\"note\":\"百分比方程式\"}\n",
+    "ts": "2026-04-26T14:14:14.670932+00:00"
+  },
+  "image_965b6a52b511d3.png": {
+    "classification": "formula",
+    "latex": "\\sin^2 \\theta + \\sin^2 \\phi = \\sin^2 \\theta + \\sin^2 (90^\\circ - \\theta)",
+    "note": "三角函數餘角轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin^2 \\\\theta + \\\\sin^2 \\\\phi = \\\\sin^2 \\\\theta + \\\\sin^2 (90^\\\\circ - \\\\theta)\",\"note\":\"三角函數餘角轉換\"}\n",
+    "ts": "2026-04-26T14:14:15.531520+00:00"
+  },
+  "image_99a2d81ef153b2.png": {
+    "classification": "formula",
+    "latex": "\\sin C = \\frac{5}{13}",
+    "note": "sin C equals 5 over 13",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin C = \\\\frac{5}{13}\",\"note\":\"sin C equals 5 over 13\"}\n",
+    "ts": "2026-04-26T14:14:16.227878+00:00"
+  },
+  "image_98e80f6d835c79.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3-a}+\\frac{1}{b}=8",
+    "note": "fraction equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3-a}+\\\\frac{1}{b}=8\",\"note\":\"fraction equation\"}\n",
+    "ts": "2026-04-26T14:14:16.947129+00:00"
+  },
+  "image_9b9582f19eca8b.png": {
+    "classification": "formula",
+    "latex": "\\cos^2 \\theta = \\frac{2}{8} = \\frac{1}{4}",
+    "note": "cosine squared theta equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos^2 \\\\theta = \\\\frac{2}{8} = \\\\frac{1}{4}\",\"note\":\"cosine squared theta equation\"}\n",
+    "ts": "2026-04-26T14:14:24.373267+00:00"
+  },
+  "image_99bbd15ade029d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = 39",
+    "note": "線段AC長度等於39",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC} = 39\",\"note\":\"線段AC長度等於39\"}\n",
+    "ts": "2026-04-26T14:14:25.504040+00:00"
+  },
+  "image_9dc2e3b8185581.png": {
+    "classification": "formula",
+    "latex": "=\\frac{7}{5}\\times\\frac{13}{25}=\\frac{91}{125}",
+    "note": "fraction multiplication",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{7}{5}\\\\times\\\\frac{13}{25}=\\\\frac{91}{125}\",\"note\":\"fraction multiplication\"}\n",
+    "ts": "2026-04-26T14:14:30.962362+00:00"
+  },
+  "image_9c009b463bc1dc.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = \\sin\\theta \\sin C",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} = \\\\sin\\\\theta \\\\sin C\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-26T14:14:32.780338+00:00"
+  },
+  "image_9e54c74409596f.png": {
+    "classification": "formula",
+    "latex": "\\overline{PD} + \\overline{PE} =",
+    "note": "線段PD加線段PE",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PD} + \\\\overline{PE} =\",\"note\":\"線段PD加線段PE\"}\n",
+    "ts": "2026-04-26T14:14:35.436628+00:00"
+  },
+  "image_9bee55a575db4e.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta=\\frac{\\tan\\theta}{\\sqrt{1+\\tan^2\\theta}}",
+    "note": "Trigonometric formula",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta=\\\\frac{\\\\tan\\\\theta}{\\\\sqrt{1+\\\\tan^2\\\\theta}}\",\"note\":\"Trigonometric formula\"}\n",
+    "ts": "2026-04-26T14:14:37.830258+00:00"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字1\"}\n",
+    "ts": "2026-04-26T14:14:40.853448+00:00"
+  },
+  "image_a32926c7500e80.png": {
+    "classification": "formula",
+    "latex": "\\sin(\\angle CAD)=\\frac{15}{17}",
+    "note": "sine of angle CAD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin(\\\\angle CAD)=\\\\frac{15}{17}\",\"note\":\"sine of angle CAD\"}\n",
+    "ts": "2026-04-26T14:14:46.427971+00:00"
+  },
+  "image_a37bfb3e543072.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓內部三角形OCD與高",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓內部三角形OCD與高\"}\n",
+    "ts": "2026-04-26T14:14:47.523399+00:00"
+  },
+  "image_a1f948da59df3d.png": {
+    "classification": "formula",
+    "latex": "\\angle AOB = \\frac{360^\\circ}{18} = 20^\\circ",
+    "note": "計算角AOB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle AOB = \\\\frac{360^\\\\circ}{18} = 20^\\\\circ\",\"note\":\"計算角AOB\"}\n",
+    "ts": "2026-04-26T14:14:48.235843+00:00"
+  },
+  "image_a395cfda1a3f20.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=5",
+    "note": "Length of AB is 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=5\",\"note\":\"Length of AB is 5\"}\n",
+    "ts": "2026-04-26T14:14:52.732973+00:00"
+  },
+  "image_a3a5a9eb715341.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=1",
+    "note": "線段AB長度為1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=1\",\"note\":\"線段AB長度為1\"}\n",
+    "ts": "2026-04-26T14:14:56.273175+00:00"
+  },
+  "image_a3dab01e789ecd.png": {
+    "classification": "formula",
+    "latex": "\\overline{QC} = \\frac{1}{\\tan \\phi}",
+    "note": "Length of line segment QC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{QC} = \\\\frac{1}{\\\\tan \\\\phi}\",\"note\":\"Length of line segment QC\"}\n",
+    "ts": "2026-04-26T14:14:58.081318+00:00"
+  },
+  "image_ab2642b7a5256f.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} \\perp \\overline{AB}",
+    "note": "CD is perpendicular to AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD} \\\\perp \\\\overline{AB}\",\"note\":\"CD is perpendicular to AB\"}\n",
+    "ts": "2026-04-26T14:15:05.156035+00:00"
+  },
+  "image_a7a8b985f146db.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{CD}}{\\overline{AC}} = \\sin \\theta",
+    "note": "正弦比值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{CD}}{\\\\overline{AC}} = \\\\sin \\\\theta\",\"note\":\"正弦比值公式\"}\n",
+    "ts": "2026-04-26T14:15:05.594756+00:00"
+  },
+  "image_abaee7574623fc.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = 15",
+    "note": "線段AD等於15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD} = 15\",\"note\":\"線段AD等於15\"}\n",
+    "ts": "2026-04-26T14:15:05.731347+00:00"
+  },
+  "image_ad86443f15b5eb.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta + \\cos \\theta = \\frac{1 + \\tan \\theta}{\\sqrt{1 + \\tan^2 \\theta}}",
+    "note": "Trigonometric identity",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta + \\\\cos \\\\theta = \\\\frac{1 + \\\\tan \\\\theta}{\\\\sqrt{1 + \\\\tan^2 \\\\theta}}\",\"note\":\"Trigonometric identity\"}\n",
+    "ts": "2026-04-26T14:15:10.930937+00:00"
+  },
+  "image_afa9ea908b2e9d.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\overline{PC} = \\frac{\\sin \\theta}{\\tan C}",
+    "note": "formula for PC length",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\overline{PC} = \\\\frac{\\\\sin \\\\theta}{\\\\tan C}\",\"note\":\"formula for PC length\"}\n",
+    "ts": "2026-04-26T14:15:19.479738+00:00"
+  },
+  "image_adf6de0a967678.png": {
+    "classification": "formula",
+    "latex": "\\frac{5 \\sin \\beta}{\\cos \\alpha}",
+    "note": "Trigonometric fraction with sin and cos",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5 \\\\sin \\\\beta}{\\\\cos \\\\alpha}\",\"note\":\"Trigonometric fraction with sin and cos\"}\n",
+    "ts": "2026-04-26T14:15:19.630511+00:00"
+  },
+  "image_adf647ca4617a6.png": {
+    "classification": "formula",
+    "latex": "= 2\\overline{BE} \\times \\cos 40^\\circ",
+    "note": "formula",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 2\\\\overline{BE} \\\\times \\\\cos 40^\\\\circ\",\"note\":\"formula\"}\n",
+    "ts": "2026-04-26T14:15:21.702804+00:00"
+  },
+  "image_b08648dd10f043.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\overline{BC} = \\frac{\\sin \\theta}{\\sin C}",
+    "note": "推導線段BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\overline{BC} = \\\\frac{\\\\sin \\\\theta}{\\\\sin C}\",\"note\":\"推導線段BC\"}\n",
+    "ts": "2026-04-26T14:15:22.304492+00:00"
+  },
+  "image_b334d364ca3b01.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}=\\sin^2 \\theta",
+    "note": "線段AD等於sin平方theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}=\\\\sin^2 \\\\theta\",\"note\":\"線段AD等於sin平方theta\"}\n",
+    "ts": "2026-04-26T14:15:29.050061+00:00"
+  },
+  "image_b30e330d1d38d4.png": {
+    "classification": "formula",
+    "latex": "\\sin A \\tan A",
+    "note": "sin A tan A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin A \\\\tan A\",\"note\":\"sin A tan A\"}\n",
+    "ts": "2026-04-26T14:15:29.420266+00:00"
+  },
+  "image_b1588ae9b2e1cf.png": {
+    "classification": "formula",
+    "latex": "\\overline{QB} = 94.7",
+    "note": "segment QB equals 94.7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{QB} = 94.7\",\"note\":\"segment QB equals 94.7\"}\n",
+    "ts": "2026-04-26T14:15:31.080725+00:00"
+  },
+  "image_b0ce36be06b3b5.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = \\frac{\\overline{AC}}{\\sin \\beta} = \\frac{5 \\sin \\alpha}{\\sin \\beta}",
+    "note": "正弦定理求線段CD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD} = \\\\frac{\\\\overline{AC}}{\\\\sin \\\\beta} = \\\\frac{5 \\\\sin \\\\alpha}{\\\\sin \\\\beta}\",\"note\":\"正弦定理求線段CD\"}\n",
+    "ts": "2026-04-26T14:15:31.295309+00:00"
+  },
+  "image_b408e95f036cd0.png": {
+    "classification": "formula",
+    "latex": "\\sin B = \\frac{3}{5} = \\frac{\\overline{AD}}{\\overline{AB}} = \\frac{\\overline{AD}}{25}",
+    "note": "三角函數比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin B = \\\\frac{3}{5} = \\\\frac{\\\\overline{AD}}{\\\\overline{AB}} = \\\\frac{\\\\overline{AD}}{25}\",\"note\":\"三角函數比例\"}\n",
+    "ts": "2026-04-26T14:15:40.003241+00:00"
+  },
+  "image_b5b43e0bf5e77a.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC\"}\n",
+    "ts": "2026-04-26T14:15:41.308986+00:00"
+  },
+  "image_b4fd1e059822be.png": {
+    "classification": "formula",
+    "latex": "\\tan 52^\\circ \\times \\tan 38^\\circ = \\frac{\\sin 52^\\circ}{\\cos 52^\\circ} \\times \\frac{\\sin 38^\\circ}{\\cos 38^\\circ} = \\frac{\\cos 38^\\circ}{\\sin 38^\\circ} \\times \\frac{\\sin 38^\\circ}{\\cos 38^\\circ} = 1",
+    "note": "trigonometric calculation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan 52^\\\\circ \\\\times \\\\tan 38^\\\\circ = \\\\frac{\\\\sin 52^\\\\circ}{\\\\cos 52^\\\\circ} \\\\times \\\\frac{\\\\sin 38^\\\\circ}{\\\\cos 38^\\\\circ} = \\\\frac{\\\\cos 38^\\\\circ}{\\\\sin 38^\\\\circ} \\\\times \\\\frac{\\\\sin 38^\\\\circ}{\\\\cos 38^\\\\circ} = 1\",\"note\":\"trigonometric calculation\"}\n",
+    "ts": "2026-04-26T14:15:45.076176+00:00"
+  },
+  "image_b5f0dafc9023c7.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\sin\\theta - \\cos\\theta}{\\sin\\theta + \\cos\\theta} + \\frac{\\tan\\theta + 1}{\\tan\\theta - 1} = \\frac{k}{\\sin^2\\theta - \\cos^2\\theta}",
+    "note": "trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\sin\\\\theta - \\\\cos\\\\theta}{\\\\sin\\\\theta + \\\\cos\\\\theta} + \\\\frac{\\\\tan\\\\theta + 1}{\\\\tan\\\\theta - 1} = \\\\frac{k}{\\\\sin^2\\\\theta - \\\\cos^2\\\\theta}\",\"note\":\"trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:15:45.689977+00:00"
+  },
+  "image_b6568b61cb686c.png": {
+    "classification": "formula",
+    "latex": "\\sin\\theta + \\cos\\theta = \\frac{7}{5}",
+    "note": "三角函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin\\\\theta + \\\\cos\\\\theta = \\\\frac{7}{5}\",\"note\":\"三角函數方程式\"}\n",
+    "ts": "2026-04-26T14:15:47.670237+00:00"
+  },
+  "image_b6308081d56db2.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = \\cos \\theta",
+    "note": "AC equals cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC} = \\\\cos \\\\theta\",\"note\":\"AC equals cos theta\"}\n",
+    "ts": "2026-04-26T14:15:49.818306+00:00"
+  },
+  "image_b88b708f091f1e.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角三角形ABC，標示邊長1、t與角theta",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角三角形ABC，標示邊長1、t與角theta\"}\n",
+    "ts": "2026-04-26T14:15:55.451210+00:00"
+  },
+  "image_b687cdafb01a2f.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{AD}}{\\overline{AC}}=\\cos\\theta",
+    "note": "ratio of line segments equals cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{AD}}{\\\\overline{AC}}=\\\\cos\\\\theta\",\"note\":\"ratio of line segments equals cos theta\"}\n",
+    "ts": "2026-04-26T14:15:55.882596+00:00"
+  },
+  "image_b8ee28cb99ce22.png": {
+    "classification": "formula",
+    "latex": "x = 6.1",
+    "note": "equation x=6.1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x = 6.1\",\"note\":\"equation x=6.1\"}\n",
+    "ts": "2026-04-26T14:15:56.631239+00:00"
+  },
+  "image_b9332d30edc17e.png": {
+    "classification": "formula",
+    "latex": "= \\frac{1}{\\sin\\theta\\cos\\theta} = \\frac{25}{12}",
+    "note": "三角函數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\frac{1}{\\\\sin\\\\theta\\\\cos\\\\theta} = \\\\frac{25}{12}\",\"note\":\"三角函數等式\"}\n",
+    "ts": "2026-04-26T14:16:01.025337+00:00"
+  },
+  "image_ba80d1348d582f.png": {
+    "classification": "formula",
+    "latex": "-\\frac{1}{2}",
+    "note": "負二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\frac{1}{2}\",\"note\":\"負二分之一\"}\n",
+    "ts": "2026-04-26T14:16:06.532315+00:00"
+  },
+  "image_ba925587cae83f.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD} = \\overline{AB} \\times \\sin 40^\\circ = (\\overline{BC} \\times \\cos 40^\\circ) \\times \\sin 40^\\circ = \\cos 40^\\circ \\times \\sin 40^\\circ",
+    "note": "trigonometric expression for line AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD} = \\\\overline{AB} \\\\times \\\\sin 40^\\\\circ = (\\\\overline{BC} \\\\times \\\\cos 40^\\\\circ) \\\\times \\\\sin 40^\\\\circ = \\\\cos 40^\\\\circ \\\\times \\\\sin 40^\\\\circ\",\"note\":\"trigonometric expression for line AD\"}\n",
+    "ts": "2026-04-26T14:16:08.196618+00:00"
+  },
+  "image_bd34d1e50cc184.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "半圓與切線幾何圖形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"半圓與切線幾何圖形\"}\n",
+    "ts": "2026-04-26T14:16:10.398654+00:00"
+  },
+  "image_bad0023becda92.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角三角形ABC, 角B=40度, AD為高",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角三角形ABC, 角B=40度, AD為高\"}\n",
+    "ts": "2026-04-26T14:16:13.299550+00:00"
+  },
+  "image_c063998acbd0d7.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{AC}}{\\overline{AB}} = \\sin \\alpha",
+    "note": "AC over AB equals sin alpha",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{AC}}{\\\\overline{AB}} = \\\\sin \\\\alpha\",\"note\":\"AC over AB equals sin alpha\"}\n",
+    "ts": "2026-04-26T14:16:18.375510+00:00"
+  },
+  "image_bf957c8ab0d45d.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta \\times \\cos \\theta = \\frac{24}{25}",
+    "note": "Trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta \\\\times \\\\cos \\\\theta = \\\\frac{24}{25}\",\"note\":\"Trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:16:19.133993+00:00"
+  },
+  "image_bf5e73f11ed2dc.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD}=20",
+    "note": "線段BD等於20",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD}=20\",\"note\":\"線段BD等於20\"}\n",
+    "ts": "2026-04-26T14:16:20.893207+00:00"
+  },
+  "image_c19d2b773dac7e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}",
+    "note": "line segment AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}\",\"note\":\"line segment AD\"}\n",
+    "ts": "2026-04-26T14:16:25.910238+00:00"
+  },
+  "image_c1429b9a86ea0d.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = \\overline{AB} \\times \\sin \\alpha = 5 \\sin \\alpha",
+    "note": "線段AC長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC} = \\\\overline{AB} \\\\times \\\\sin \\\\alpha = 5 \\\\sin \\\\alpha\",\"note\":\"線段AC長度計算\"}\n",
+    "ts": "2026-04-26T14:16:29.433514+00:00"
+  },
+  "image_c2cedb32dd8a5f.png": {
+    "classification": "formula",
+    "latex": "\\overline{QC} = \\cos\\theta",
+    "note": "線段QC等於cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{QC} = \\\\cos\\\\theta\",\"note\":\"線段QC等於cos theta\"}\n",
+    "ts": "2026-04-26T14:16:31.291309+00:00"
+  },
+  "image_c3200df9dd0162.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{BC}}{\\overline{AB}}=\\sin\\theta",
+    "note": "BC/AB = sin theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{BC}}{\\\\overline{AB}}=\\\\sin\\\\theta\",\"note\":\"BC/AB = sin theta\"}\n",
+    "ts": "2026-04-26T14:16:34.393518+00:00"
+  },
+  "image_c396e676a7dd25.png": {
+    "classification": "formula",
+    "latex": "\\stackrel{\\text{平方}}{\\Rightarrow}",
+    "note": "平方 implies arrow",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\stackrel{\\\\text{平方}}{\\\\Rightarrow}\",\"note\":\"平方 implies arrow\"}\n",
+    "ts": "2026-04-26T14:16:38.328293+00:00"
+  },
+  "image_c4811c4070af88.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta = \\frac{\\overline{AP}}{\\overline{AB}} = \\overline{AP}",
+    "note": "cos theta formula",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta = \\\\frac{\\\\overline{AP}}{\\\\overline{AB}} = \\\\overline{AP}\",\"note\":\"cos theta formula\"}\n",
+    "ts": "2026-04-26T14:16:39.300835+00:00"
+  },
+  "image_c46a9d10d383b7.png": {
+    "classification": "formula",
+    "latex": "= 2\\overline{BC} \\times \\cos 80^\\circ",
+    "note": "equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 2\\\\overline{BC} \\\\times \\\\cos 80^\\\\circ\",\"note\":\"equation\"}\n",
+    "ts": "2026-04-26T14:16:41.075930+00:00"
+  },
+  "image_c67f4e20b45659.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta = \\frac{1}{\\tan \\phi}",
+    "note": "tan theta relation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta = \\\\frac{1}{\\\\tan \\\\phi}\",\"note\":\"tan theta relation\"}\n",
+    "ts": "2026-04-26T14:16:45.091412+00:00"
+  },
+  "image_c6b586a0cce590.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta = \\frac{1}{2}",
+    "note": "餘弦方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta = \\\\frac{1}{2}\",\"note\":\"餘弦方程式\"}\n",
+    "ts": "2026-04-26T14:16:51.667455+00:00"
+  },
+  "image_c7e2e8f5961904.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = 28",
+    "note": "BC bar equals 28",
+    "raw": "{\"class\": \"formula\", \"latex\": \"\\\\overline{BC} = 28\", \"note\": \"BC bar equals 28\"}\n",
+    "ts": "2026-04-26T14:16:52.823618+00:00"
+  },
+  "image_c7187785741f5b.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta + \\frac{1}{\\tan \\theta} = \\frac{25}{12}",
+    "note": "trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta + \\\\frac{1}{\\\\tan \\\\theta} = \\\\frac{25}{12}\",\"note\":\"trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:16:53.316798+00:00"
+  },
+  "image_c75f11e25d7e2c.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=25",
+    "note": "線段AB等於25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=25\",\"note\":\"線段AB等於25\"}\n",
+    "ts": "2026-04-26T14:16:55.812607+00:00"
+  },
+  "image_c8df98a20c20a7.png": {
+    "classification": "formula",
+    "latex": "D",
+    "note": "Capital letter D",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D\",\"note\":\"Capital letter D\"}\n",
+    "ts": "2026-04-26T14:17:03.016797+00:00"
+  },
+  "image_c8e36a4fe47457.png": {
+    "classification": "formula",
+    "latex": "\\overline{OB} = \\sqrt{3} \\overline{OH} = \\sqrt{3}h",
+    "note": "Length equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{OB} = \\\\sqrt{3} \\\\overline{OH} = \\\\sqrt{3}h\",\"note\":\"Length equation\"}\n",
+    "ts": "2026-04-26T14:17:05.553214+00:00"
+  },
+  "image_c8a412a2de191b.png": {
+    "classification": "formula",
+    "latex": "\\sin\\theta\\cos\\phi=1",
+    "note": "sin(theta)cos(phi)=1 equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin\\\\theta\\\\cos\\\\phi=1\",\"note\":\"sin(theta)cos(phi)=1 equation\"}\n",
+    "ts": "2026-04-26T14:17:05.715143+00:00"
+  },
+  "image_c9bd8a72ca02a4.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{1}{3}",
+    "note": "sine equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{1}{3}\",\"note\":\"sine equation\"}\n",
+    "ts": "2026-04-26T14:17:05.832429+00:00"
+  },
+  "image_c9cc1cbb6090cc.png": {
+    "classification": "formula",
+    "latex": "\\overline{PC} = \\frac{\\sin \\theta}{\\tan C}",
+    "note": "線段PC長度公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PC} = \\\\frac{\\\\sin \\\\theta}{\\\\tan C}\",\"note\":\"線段PC長度公式\"}\n",
+    "ts": "2026-04-26T14:17:13.328243+00:00"
+  },
+  "image_cba8257fa67838.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\sin\\theta \\cos\\theta = \\frac{12}{25}",
+    "note": "sin theta cos theta = 12/25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\sin\\\\theta \\\\cos\\\\theta = \\\\frac{12}{25}\",\"note\":\"sin theta cos theta = 12/25\"}\n",
+    "ts": "2026-04-26T14:17:21.119074+00:00"
+  },
+  "image_cba52cdc413068.png": {
+    "classification": "formula",
+    "latex": "\\overline{AD}",
+    "note": "線段 AD",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AD}\",\"note\":\"線段 AD\"}\n",
+    "ts": "2026-04-26T14:17:21.911950+00:00"
+  },
+  "image_cb187fc6c3f856.png": {
+    "classification": "formula",
+    "latex": "\\tan B = \\frac{3}{4}",
+    "note": "tan B equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan B = \\\\frac{3}{4}\",\"note\":\"tan B equation\"}\n",
+    "ts": "2026-04-26T14:17:23.332394+00:00"
+  },
+  "image_cc0c4855f6bbe6.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{1}{\\sqrt{1+\\tan^2 \\theta}}",
+    "note": "正弦與正切的關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{1}{\\\\sqrt{1+\\\\tan^2 \\\\theta}}\",\"note\":\"正弦與正切的關係式\"}\n",
+    "ts": "2026-04-26T14:17:27.549933+00:00"
+  },
+  "image_ccbd07a6ebd3cb.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta + \\cos \\theta = -\\frac{p}{3}",
+    "note": "trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta + \\\\cos \\\\theta = -\\\\frac{p}{3}\",\"note\":\"trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:17:31.673543+00:00"
+  },
+  "image_cd2214c67530b3.png": {
+    "classification": "formula",
+    "latex": "\\sin C = \\frac{15}{17}",
+    "note": "sin C 等於 15/17",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin C = \\\\frac{15}{17}\",\"note\":\"sin C 等於 15/17\"}\n",
+    "ts": "2026-04-26T14:17:31.839339+00:00"
+  },
+  "image_ccb8ee500a73d0.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC} = \\overline{AB} \\times \\cos A = 1 \\times \\cos A = \\cos A",
+    "note": "Trig formula for AC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC} = \\\\overline{AB} \\\\times \\\\cos A = 1 \\\\times \\\\cos A = \\\\cos A\",\"note\":\"Trig formula for AC\"}\n",
+    "ts": "2026-04-26T14:17:33.220407+00:00"
+  },
+  "image_cdaffb14ca349d.png": {
+    "classification": "formula",
+    "latex": "\\sin^2 A",
+    "note": "sine squared A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin^2 A\",\"note\":\"sine squared A\"}\n",
+    "ts": "2026-04-26T14:17:37.839052+00:00"
+  },
+  "image_cf915b2ede486f.png": {
+    "classification": "formula",
+    "latex": "= \\sin^2(40^\\circ + \\theta) + \\cos^2(40^\\circ + \\theta) + \\frac{\\sin(70^\\circ + \\phi)}{\\cos(70^\\circ + \\phi)} \\times \\frac{\\sin(20^\\circ - \\phi)}{\\cos(20^\\circ - \\phi)}",
+    "note": "三角函數化簡過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\sin^2(40^\\\\circ + \\\\theta) + \\\\cos^2(40^\\\\circ + \\\\theta) + \\\\frac{\\\\sin(70^\\\\circ + \\\\phi)}{\\\\cos(70^\\\\circ + \\\\phi)} \\\\times \\\\frac{\\\\sin(20^\\\\circ - \\\\phi)}{\\\\cos(20^\\\\circ - \\\\phi)}\",\"note\":\"三角函數化簡過程\"}\n",
+    "ts": "2026-04-26T14:17:44.044075+00:00"
+  },
+  "image_d2a1c69078f6c2.png": {
+    "classification": "formula",
+    "latex": "\\overline{PH} = \\frac{105.3 + 94.7}{2} = 100",
+    "note": "PH長度計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PH} = \\\\frac{105.3 + 94.7}{2} = 100\",\"note\":\"PH長度計算\"}\n",
+    "ts": "2026-04-26T14:17:44.301854+00:00"
+  },
+  "image_d699981804ca40.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}",
+    "note": "line segment AC",
+    "raw": "{\"class\": \"formula\", \"latex\": \"\\\\overline{AC}\", \"note\": \"line segment AC\"}\n",
+    "ts": "2026-04-26T14:17:45.209135+00:00"
+  },
+  "image_cf4264aa4abd8f.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta + \\cos \\theta = \\frac{2}{\\sqrt{3}}",
+    "note": "Trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta + \\\\cos \\\\theta = \\\\frac{2}{\\\\sqrt{3}}\",\"note\":\"Trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:17:48.234430+00:00"
+  },
+  "image_d6e9dc4951a034.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} = \\sin \\theta",
+    "note": "segment BC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} = \\\\sin \\\\theta\",\"note\":\"segment BC\"}\n",
+    "ts": "2026-04-26T14:17:53.175743+00:00"
+  },
+  "image_db410e6639017d.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}=8",
+    "note": "線段CD等於8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}=8\",\"note\":\"線段CD等於8\"}\n",
+    "ts": "2026-04-26T14:17:55.113524+00:00"
+  },
+  "image_de1fbd339e52a8.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "等腰三角形ABC與內部線段、角度標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"等腰三角形ABC與內部線段、角度標示\"}\n",
+    "ts": "2026-04-26T14:17:57.168290+00:00"
+  },
+  "image_dd4dcb4e2ef8d4.png": {
+    "classification": "formula",
+    "latex": "\\overline{AC}=\\frac{\\overline{AD}}{\\sin C}=\\frac{15}{\\frac{15}{17}}=17",
+    "note": "計算AC線段長度的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AC}=\\\\frac{\\\\overline{AD}}{\\\\sin C}=\\\\frac{15}{\\\\frac{15}{17}}=17\",\"note\":\"計算AC線段長度的公式\"}\n",
+    "ts": "2026-04-26T14:18:03.357697+00:00"
+  },
+  "image_e0cfa76e0d727c.png": {
+    "classification": "formula",
+    "latex": "\\tan(\\angle HAB) = \\frac{\\overline{HB}}{\\overline{AH}} = \\frac{5.3}{100 \\times \\tan(28^\\circ 50')} \\approx 0.096274",
+    "note": "三角函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan(\\\\angle HAB) = \\\\frac{\\\\overline{HB}}{\\\\overline{AH}} = \\\\frac{5.3}{100 \\\\times \\\\tan(28^\\\\circ 50')} \\\\approx 0.096274\",\"note\":\"三角函數公式\"}\n",
+    "ts": "2026-04-26T14:18:03.911571+00:00"
+  },
+  "image_de65925a3a3edd.png": {
+    "classification": "formula",
+    "latex": "1 + 2\\sin\\theta \\times \\cos\\theta = \\frac{4}{3}",
+    "note": "Trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1 + 2\\\\sin\\\\theta \\\\times \\\\cos\\\\theta = \\\\frac{4}{3}\",\"note\":\"Trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:18:06.968331+00:00"
+  },
+  "image_e08d126e13b1ad.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{\\tan \\theta}{\\sqrt{1 + \\tan^2 \\theta}}",
+    "note": "用正切表示正弦的恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{\\\\tan \\\\theta}{\\\\sqrt{1 + \\\\tan^2 \\\\theta}}\",\"note\":\"用正切表示正弦的恆等式\"}\n",
+    "ts": "2026-04-26T14:18:07.982250+00:00"
+  },
+  "image_e338fd25e7b43c.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{\\overline{BC}}{\\overline{AB}} = \\frac{t}{\\sqrt{1+t^2}} = \\frac{\\tan \\theta}{\\sqrt{1+\\tan^2 \\theta}}",
+    "note": "sin formula in terms of tan",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{\\\\overline{BC}}{\\\\overline{AB}} = \\\\frac{t}{\\\\sqrt{1+t^2}} = \\\\frac{\\\\tan \\\\theta}{\\\\sqrt{1+\\\\tan^2 \\\\theta}}\",\"note\":\"sin formula in terms of tan\"}\n",
+    "ts": "2026-04-26T14:18:18.750615+00:00"
+  },
+  "image_e6dd44e2a64a8f.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{2\\sqrt{2}}{3}",
+    "note": "正弦函數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{2\\\\sqrt{2}}{3}\",\"note\":\"正弦函數值\"}\n",
+    "ts": "2026-04-26T14:18:20.438138+00:00"
+  },
+  "image_e57e7f1aa4f919.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\overline{AC}}{\\overline{CD}} = \\sin \\beta",
+    "note": "Sine ratio formula",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\overline{AC}}{\\\\overline{CD}} = \\\\sin \\\\beta\",\"note\":\"Sine ratio formula\"}\n",
+    "ts": "2026-04-26T14:18:26.483767+00:00"
+  },
+  "image_e806e724510280.png": {
+    "classification": "formula",
+    "latex": "\\overline{BC} \\cos 35^\\circ",
+    "note": "線段BC乘上cos35度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BC} \\\\cos 35^\\\\circ\",\"note\":\"線段BC乘上cos35度\"}\n",
+    "ts": "2026-04-26T14:18:31.270832+00:00"
+  },
+  "image_e7c40ec4d41453.png": {
+    "classification": "formula",
+    "latex": "= \\sin^2 \\theta + \\cos^2 \\theta = 1",
+    "note": "Pythagorean trigonometric identity",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\sin^2 \\\\theta + \\\\cos^2 \\\\theta = 1\",\"note\":\"Pythagorean trigonometric identity\"}\n",
+    "ts": "2026-04-26T14:18:32.910241+00:00"
+  },
+  "image_e90e1dfdd8bd38.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{\\overline{BP}}{\\overline{AB}} = \\overline{BP}",
+    "note": "正弦函數定義",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{\\\\overline{BP}}{\\\\overline{AB}} = \\\\overline{BP}\",\"note\":\"正弦函數定義\"}\n",
+    "ts": "2026-04-26T14:18:35.608121+00:00"
+  },
+  "image_eaf656fffa3885.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta \\cos \\phi = \\frac{\\overline{QC}^2}{\\overline{OC}^2}",
+    "note": "trigonometric equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta \\\\cos \\\\phi = \\\\frac{\\\\overline{QC}^2}{\\\\overline{OC}^2}\",\"note\":\"trigonometric equation\"}\n",
+    "ts": "2026-04-26T14:18:41.740645+00:00"
+  },
+  "image_ebf5d9b5987fe4.png": {
+    "classification": "formula",
+    "latex": "\\tan 70^\\circ > \\tan 60^\\circ = \\sqrt{3}",
+    "note": "tan inequality",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan 70^\\\\circ > \\\\tan 60^\\\\circ = \\\\sqrt{3}\",\"note\":\"tan inequality\"}\n",
+    "ts": "2026-04-26T14:18:42.256683+00:00"
+  },
+  "image_ec272992972d6d.png": {
+    "classification": "formula",
+    "latex": "\\overline{BD} = \\cos^2 \\theta",
+    "note": "線段BD長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BD} = \\\\cos^2 \\\\theta\",\"note\":\"線段BD長度\"}\n",
+    "ts": "2026-04-26T14:18:47.491788+00:00"
+  },
+  "image_ece734f63c9edb.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "直角三角形，邊長 1, 3, 2\\sqrt{2}，角度 \\theta",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"直角三角形，邊長 1, 3, 2\\\\sqrt{2}，角度 \\\\theta\"}\n",
+    "ts": "2026-04-26T14:18:50.731627+00:00"
+  },
+  "image_ec6d28b05f52a6.png": {
+    "classification": "formula",
+    "latex": "\\overline{AH} = \\overline{PH} \\times \\tan P = 100 \\times \\tan(28^\\circ 50')",
+    "note": "Length calculation for AH using tangent",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AH} = \\\\overline{PH} \\\\times \\\\tan P = 100 \\\\times \\\\tan(28^\\\\circ 50')\",\"note\":\"Length calculation for AH using tangent\"}\n",
+    "ts": "2026-04-26T14:18:51.340128+00:00"
+  },
+  "image_ed4ab46224b246.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD}=\\frac{5\\sin\\alpha}{\\sin\\beta}",
+    "note": "CD length formula",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD}=\\\\frac{5\\\\sin\\\\alpha}{\\\\sin\\\\beta}\",\"note\":\"CD length formula\"}\n",
+    "ts": "2026-04-26T14:18:58.188700+00:00"
+  },
+  "image_ed671178b56121.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形 BED 圖示，角 B 為 40 度",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形 BED 圖示，角 B 為 40 度\"}\n",
+    "ts": "2026-04-26T14:18:59.303414+00:00"
+  },
+  "image_f098058ea615cd.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "line segment AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"line segment AB\"}\n",
+    "ts": "2026-04-26T14:19:03.641846+00:00"
+  },
+  "image_f2342c0e30660a.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}",
+    "note": "線段PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}\",\"note\":\"線段PQ\"}\n",
+    "ts": "2026-04-26T14:19:08.793440+00:00"
+  },
+  "image_f2cb5902e7d87a.png": {
+    "classification": "formula",
+    "latex": "\\tan C = \\frac{\\overline{BP}}{\\overline{PC}}",
+    "note": "tangent of angle C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan C = \\\\frac{\\\\overline{BP}}{\\\\overline{PC}}\",\"note\":\"tangent of angle C\"}\n",
+    "ts": "2026-04-26T14:19:09.508848+00:00"
+  },
+  "image_f38db3610a85f8.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta \\times \\cos \\theta = \\frac{1}{6}",
+    "note": "sin theta times cos theta = 1/6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta \\\\times \\\\cos \\\\theta = \\\\frac{1}{6}\",\"note\":\"sin theta times cos theta = 1/6\"}\n",
+    "ts": "2026-04-26T14:19:12.810982+00:00"
+  },
+  "image_f40c2f03dfcca6.png": {
+    "classification": "formula",
+    "latex": "\\overline{HB}=\\overline{PB}-\\overline{PH}=105.3-100=5.3",
+    "note": "segment subtraction",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{HB}=\\\\overline{PB}-\\\\overline{PH}=105.3-100=5.3\",\"note\":\"segment subtraction\"}\n",
+    "ts": "2026-04-26T14:19:18.180116+00:00"
+  },
+  "image_f4ed90fabcb327.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形幾何圖形，包含頂點與多個角度標示",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形幾何圖形，包含頂點與多個角度標示\"}\n",
+    "ts": "2026-04-26T14:19:20.536929+00:00"
+  },
+  "image_f568ecc26475ce.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB} = 2\\overline{BD} \\times \\cos 20^\\circ",
+    "note": "包含线段和余弦的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB} = 2\\\\overline{BD} \\\\times \\\\cos 20^\\\\circ\",\"note\":\"包含线段和余弦的等式\"}\n",
+    "ts": "2026-04-26T14:19:25.023185+00:00"
+  },
+  "image_f578a05aa902dd.png": {
+    "classification": "formula",
+    "latex": "p^2 - 12q = (-2\\sqrt{3})^2 - 12(\\frac{1}{2}) = 6",
+    "note": "equation evaluation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p^2 - 12q = (-2\\\\sqrt{3})^2 - 12(\\\\frac{1}{2}) = 6\",\"note\":\"equation evaluation\"}\n",
+    "ts": "2026-04-26T14:19:31.349550+00:00"
+  },
+  "image_f607f5d0c84d5a.png": {
+    "classification": "formula",
+    "latex": "= \\frac{2}{(1+\\sin\\theta)(1-\\sin\\theta)} = \\frac{2}{1-\\sin^2\\theta} = \\frac{2}{\\cos^2\\theta} = 8",
+    "note": "trigonometric simplification",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\frac{2}{(1+\\\\sin\\\\theta)(1-\\\\sin\\\\theta)} = \\\\frac{2}{1-\\\\sin^2\\\\theta} = \\\\frac{2}{\\\\cos^2\\\\theta} = 8\",\"note\":\"trigonometric simplification\"}\n",
+    "ts": "2026-04-26T14:19:31.706684+00:00"
+  },
+  "image_f618f3db784fff.png": {
+    "classification": "formula",
+    "latex": "\\overline{CD} = \\sin\\theta \\times \\cos\\theta",
+    "note": "線段CD長度等於sinθ乘cosθ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{CD} = \\\\sin\\\\theta \\\\times \\\\cos\\\\theta\",\"note\":\"線段CD長度等於sinθ乘cosθ\"}\n",
+    "ts": "2026-04-26T14:19:35.740481+00:00"
+  },
+  "image_f9bfa7c20282b6.png": {
+    "classification": "formula",
+    "latex": "\\frac{5\\cos\\alpha}{\\cos\\beta}",
+    "note": "fraction 5cos(alpha) over cos(beta)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5\\\\cos\\\\alpha}{\\\\cos\\\\beta}\",\"note\":\"fraction 5cos(alpha) over cos(beta)\"}\n",
+    "ts": "2026-04-26T14:19:41.666338+00:00"
+  },
+  "image_f9e503cf7ed643.png": {
+    "classification": "formula",
+    "latex": "\\frac{1+\\cos\\theta}{1-\\cos\\theta}=2",
+    "note": "三角方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1+\\\\cos\\\\theta}{1-\\\\cos\\\\theta}=2\",\"note\":\"三角方程式\"}\n",
+    "ts": "2026-04-26T14:19:42.200880+00:00"
+  },
+  "image_fba6b3415b3a8b.png": {
+    "classification": "formula",
+    "latex": "\\tan \\theta = \\frac{1}{3}",
+    "note": "tangent equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\tan \\\\theta = \\\\frac{1}{3}\",\"note\":\"tangent equation\"}\n",
+    "ts": "2026-04-26T14:19:45.827748+00:00"
+  },
+  "image_fcbc71a2d794b9.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{2}{5}",
+    "note": "sin theta equals 2/5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{2}{5}\",\"note\":\"sin theta equals 2/5\"}\n",
+    "ts": "2026-04-26T14:19:52.652276+00:00"
+  },
+  "image_fd95453312451c.png": {
+    "classification": "formula",
+    "latex": "= \\sin^2(40^\\circ + \\theta) + \\cos^2(40^\\circ + \\theta) + \\frac{\\sin(70^\\circ + \\phi)}{\\cos(70^\\circ + \\phi)} \\times \\frac{\\cos(70^\\circ + \\phi)}{\\sin(70^\\circ + \\phi)}",
+    "note": "trigonometric expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\sin^2(40^\\\\circ + \\\\theta) + \\\\cos^2(40^\\\\circ + \\\\theta) + \\\\frac{\\\\sin(70^\\\\circ + \\\\phi)}{\\\\cos(70^\\\\circ + \\\\phi)} \\\\times \\\\frac{\\\\cos(70^\\\\circ + \\\\phi)}{\\\\sin(70^\\\\circ + \\\\phi)}\",\"note\":\"trigonometric expression\"}\n",
+    "ts": "2026-04-26T14:20:01.590966+00:00"
+  },
+  "image_fdbd3696042a05.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "Greek letter theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"Greek letter theta\"}\n",
+    "ts": "2026-04-26T14:20:02.883076+00:00"
+  },
+  "image_fe68a684412312.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=\\overline{BC}",
+    "note": "AB線段等於BC線段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=\\\\overline{BC}\",\"note\":\"AB線段等於BC線段\"}\n",
+    "ts": "2026-04-26T14:20:03.308671+00:00"
+  },
+  "image_ffd2fa87bda5bc.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta \\times \\cos \\theta = \\frac{12}{25}",
+    "note": "sine cosine product equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta \\\\times \\\\cos \\\\theta = \\\\frac{12}{25}\",\"note\":\"sine cosine product equation\"}\n",
+    "ts": "2026-04-26T14:20:11.374122+00:00"
+  },
+  "image_e57beb9b54a561.png": {
+    "classification": "error",
+    "latex": "",
+    "note": "TimeoutExpired: Command '['C:\\\\Users\\\\s1020\\\\AppData\\\\Roaming\\\\npm\\\\gemini.cmd', '--skip-trust', '-y', '--include-directories', 'D:\\\\Teach\\\\TeachAssistant\\\\client\\\\public\\\\assets\\\\images_ans\\\\math2_ch10_medium', '-p', 'You will look at the attached image @D:\\\\Teach\\\\TeachAssistant\\\\client\\\\public\\\\a",
+    "raw": "",
+    "ts": "2026-04-26T14:20:14.879898+00:00"
+  }
+}

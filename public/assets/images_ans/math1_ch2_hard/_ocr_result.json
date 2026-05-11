@@ -1,0 +1,346 @@
+{
+  "image_028965420631e9.png": {
+    "classification": "formula",
+    "latex": "x+\\frac{1}{x}=4",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+\\\\frac{1}{x}=4\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:16:39.873950+00:00",
+    "engine": "codex"
+  },
+  "image_066116a5f5d489.png": {
+    "classification": "formula",
+    "latex": "a=\\sqrt{19}-\\sqrt{14}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sqrt{19}-\\\\sqrt{14}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:16:41.096729+00:00",
+    "engine": "codex"
+  },
+  "image_17978b1519c756.png": {
+    "classification": "formula",
+    "latex": "x^3-\\frac{1}{x^3}=\\left(x-\\frac{1}{x}\\right)^3+3\\times x\\times\\frac{1}{x}\\left(x-\\frac{1}{x}\\right)",
+    "note": "代數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^3-\\\\frac{1}{x^3}=\\\\left(x-\\\\frac{1}{x}\\\\right)^3+3\\\\times x\\\\times\\\\frac{1}{x}\\\\left(x-\\\\frac{1}{x}\\\\right)\",\"note\":\"代數恆等式\"}\n",
+    "ts": "2026-04-30T06:16:41.284809+00:00",
+    "engine": "codex"
+  },
+  "image_0c87508eabe1c9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{c}=\\frac{1}{\\sqrt{16}-\\sqrt{11}}=\\frac{\\sqrt{16}+\\sqrt{11}}{5}",
+    "note": "有理化分母的等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{c}=\\\\frac{1}{\\\\sqrt{16}-\\\\sqrt{11}}=\\\\frac{\\\\sqrt{16}+\\\\sqrt{11}}{5}\",\"note\":\"有理化分母的等式\"}\n",
+    "ts": "2026-04-30T06:16:45.355270+00:00",
+    "engine": "codex"
+  },
+  "image_1f098c4511ffd1.png": {
+    "classification": "formula",
+    "latex": "x=-2+\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=-2+\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:16:47.572020+00:00",
+    "engine": "codex"
+  },
+  "image_1c372325c7df7b.png": {
+    "classification": "formula",
+    "latex": "(x+\\frac{1}{x})^2=(-4)^2\\Rightarrow x^2+2+\\frac{1}{x^2}=16",
+    "note": "代數等式展開",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+\\\\frac{1}{x})^2=(-4)^2\\\\Rightarrow x^2+2+\\\\frac{1}{x^2}=16\",\"note\":\"代數等式展開\"}\n",
+    "ts": "2026-04-30T06:16:48.928320+00:00",
+    "engine": "codex"
+  },
+  "image_19fbb585665c8a.png": {
+    "classification": "formula",
+    "latex": "x-\\frac{1}{x}=-2\\sqrt{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-\\\\frac{1}{x}=-2\\\\sqrt{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:16:52.000816+00:00",
+    "engine": "codex"
+  },
+  "image_298d7cd4f6052e.png": {
+    "classification": "formula",
+    "latex": "t^6+\\frac{1}{t^6}=18",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^6+\\\\frac{1}{t^6}=18\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T06:16:52.095520+00:00",
+    "engine": "codex"
+  },
+  "image_2a22678a36a863.png": {
+    "classification": "formula",
+    "latex": "t-\\frac{1}{t}=\\pm1",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t-\\\\frac{1}{t}=\\\\pm1\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T06:16:52.864498+00:00",
+    "engine": "codex"
+  },
+  "image_2b8bf4e1ca15bd.png": {
+    "classification": "formula",
+    "latex": "t-\\frac{1}{t}=1",
+    "note": "代數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t-\\\\frac{1}{t}=1\",\"note\":\"代數方程式\"}\n",
+    "ts": "2026-04-30T06:16:56.973836+00:00",
+    "engine": "codex"
+  },
+  "image_3662455c11d737.png": {
+    "classification": "formula",
+    "latex": "=(2\\sqrt{3})^{3}+3(2\\sqrt{3})",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(2\\\\sqrt{3})^{3}+3(2\\\\sqrt{3})\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:16:58.293582+00:00",
+    "engine": "codex"
+  },
+  "image_3b7067008b03df.png": {
+    "classification": "formula",
+    "latex": "\\left(t-\\frac{1}{t}\\right)^2=t^2-2+\\frac{1}{t^2}=3-2=1",
+    "note": "代數恆等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(t-\\\\frac{1}{t}\\\\right)^2=t^2-2+\\\\frac{1}{t^2}=3-2=1\",\"note\":\"代數恆等式化簡\"}\n",
+    "ts": "2026-04-30T06:16:59.420499+00:00",
+    "engine": "codex"
+  },
+  "image_3c09725c1c03ef.png": {
+    "classification": "formula",
+    "latex": "=\\sqrt{5}\\times(3-1)=2\\sqrt{5}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\sqrt{5}\\\\times(3-1)=2\\\\sqrt{5}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T06:17:00.206323+00:00",
+    "engine": "codex"
+  },
+  "image_3e13896b6ccc97.png": {
+    "classification": "formula",
+    "latex": "3<\\sqrt{7+\\sqrt{47}}<4",
+    "note": "不等式根式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3<\\\\sqrt{7+\\\\sqrt{47}}<4\",\"note\":\"不等式根式\"}\n",
+    "ts": "2026-04-30T06:17:04.652731+00:00",
+    "engine": "codex"
+  },
+  "image_5a4e579d1b4ad6.png": {
+    "classification": "formula",
+    "latex": "13<7+\\sqrt{47}<14",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"13<7+\\\\sqrt{47}<14\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:17:05.840710+00:00",
+    "engine": "codex"
+  },
+  "image_42e67be7f3ea3f.png": {
+    "classification": "formula",
+    "latex": "\\left(t+\\frac{1}{t}\\right)^2=t^2+2+\\frac{1}{t^2}=5\\Rightarrow t^2+\\frac{1}{t^2}=3",
+    "note": "代數恆等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(t+\\\\frac{1}{t}\\\\right)^2=t^2+2+\\\\frac{1}{t^2}=5\\\\Rightarrow t^2+\\\\frac{1}{t^2}=3\",\"note\":\"代數恆等式推導\"}\n",
+    "ts": "2026-04-30T06:17:07.069424+00:00",
+    "engine": "codex"
+  },
+  "image_47a1b2a28b8eaa.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow x^4+\\frac{1}{x^4}=194",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow x^4+\\\\frac{1}{x^4}=194\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:17:07.125117+00:00",
+    "engine": "codex"
+  },
+  "image_5ae8a4f043487e.png": {
+    "classification": "formula",
+    "latex": "t^4+\\frac{1}{t^4}=\\left(t^2+\\frac{1}{t^2}\\right)^2-2=3^2-2=7",
+    "note": "純代數式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^4+\\\\frac{1}{t^4}=\\\\left(t^2+\\\\frac{1}{t^2}\\\\right)^2-2=3^2-2=7\",\"note\":\"純代數式化簡\"}\n",
+    "ts": "2026-04-30T06:17:10.401701+00:00",
+    "engine": "codex"
+  },
+  "image_5d848dc0064684.png": {
+    "classification": "formula",
+    "latex": "t^4+\\frac{1}{t^4}=7",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^4+\\\\frac{1}{t^4}=7\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:17:11.894889+00:00",
+    "engine": "codex"
+  },
+  "image_5f192ced46b6f7.png": {
+    "classification": "formula",
+    "latex": "t+\\frac{1}{t}=\\sqrt{5}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t+\\\\frac{1}{t}=\\\\sqrt{5}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:17:12.372874+00:00",
+    "engine": "codex"
+  },
+  "image_6b4b65d5d3f9da.png": {
+    "classification": "formula",
+    "latex": "x^4+\\frac{1}{x^4}=194",
+    "note": "純代數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^4+\\\\frac{1}{x^4}=194\",\"note\":\"純代數等式\"}\n",
+    "ts": "2026-04-30T06:17:15.823587+00:00",
+    "engine": "codex"
+  },
+  "image_6661a53c0cb72e.png": {
+    "classification": "formula",
+    "latex": "t^6+\\frac{1}{t^6}=\\left(t^2+\\frac{1}{t^2}\\right)\\left(t^4+\\frac{1}{t^4}\\right)-\\left(t^2+\\frac{1}{t^2}\\right)",
+    "note": "代數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^6+\\\\frac{1}{t^6}=\\\\left(t^2+\\\\frac{1}{t^2}\\\\right)\\\\left(t^4+\\\\frac{1}{t^4}\\\\right)-\\\\left(t^2+\\\\frac{1}{t^2}\\\\right)\",\"note\":\"代數恆等式\"}\n",
+    "ts": "2026-04-30T06:17:16.501756+00:00",
+    "engine": "codex"
+  },
+  "image_7b878245e9cb35.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a}=\\frac{1}{\\sqrt{19}-\\sqrt{14}}=\\frac{\\sqrt{19}+\\sqrt{14}}{5}",
+    "note": "分母有理化等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a}=\\\\frac{1}{\\\\sqrt{19}-\\\\sqrt{14}}=\\\\frac{\\\\sqrt{19}+\\\\sqrt{14}}{5}\",\"note\":\"分母有理化等式\"}\n",
+    "ts": "2026-04-30T06:17:19.515433+00:00",
+    "engine": "codex"
+  },
+  "image_78f37913dda871.png": {
+    "classification": "formula",
+    "latex": "(x^2+\\frac{1}{x^2})^2=14^2\\Rightarrow x^4+2+\\frac{1}{x^4}=196",
+    "note": "代數恆等式展開",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x^2+\\\\frac{1}{x^2})^2=14^2\\\\Rightarrow x^4+2+\\\\frac{1}{x^4}=196\",\"note\":\"代數恆等式展開\"}\n",
+    "ts": "2026-04-30T06:17:19.714750+00:00",
+    "engine": "codex"
+  },
+  "image_7d03157e23b577.png": {
+    "classification": "formula",
+    "latex": "b=\\sqrt{13}-2\\sqrt{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\sqrt{13}-2\\\\sqrt{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:17:20.838325+00:00",
+    "engine": "codex"
+  },
+  "image_7d5e7a0acdc181.png": {
+    "classification": "formula",
+    "latex": "x^3-\\frac{1}{x^3}=-26\\sqrt{3}",
+    "note": "純代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^3-\\\\frac{1}{x^3}=-26\\\\sqrt{3}\",\"note\":\"純代數式\"}\n",
+    "ts": "2026-04-30T06:17:21.468153+00:00",
+    "engine": "codex"
+  },
+  "image_817cd3d6569e96.png": {
+    "classification": "formula",
+    "latex": "x+\\frac{1}{x}=(-2+\\sqrt{3})+(-2-\\sqrt{3})=-4",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+\\\\frac{1}{x}=(-2+\\\\sqrt{3})+(-2-\\\\sqrt{3})=-4\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T06:17:24.740970+00:00",
+    "engine": "codex"
+  },
+  "image_854c11bcda9052.png": {
+    "classification": "formula",
+    "latex": "a=\\sqrt{7+\\sqrt{47}}",
+    "note": "純數學根式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\sqrt{7+\\\\sqrt{47}}\",\"note\":\"純數學根式\"}\n",
+    "ts": "2026-04-30T06:17:26.048922+00:00",
+    "engine": "codex"
+  },
+  "image_8e37cf486cfade.png": {
+    "classification": "formula",
+    "latex": "=24\\sqrt{3}+6\\sqrt{3}=30\\sqrt{3}",
+    "note": "根式加法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=24\\\\sqrt{3}+6\\\\sqrt{3}=30\\\\sqrt{3}\",\"note\":\"根式加法計算\"}\n",
+    "ts": "2026-04-30T06:17:27.126165+00:00",
+    "engine": "codex"
+  },
+  "image_92ebb5a296f3ac.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow x^2+\\frac{1}{x^2}=14",
+    "note": "代數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow x^2+\\\\frac{1}{x^2}=14\",\"note\":\"代數方程式\"}\n",
+    "ts": "2026-04-30T06:17:28.021005+00:00",
+    "engine": "codex"
+  },
+  "image_ab7ac5e3b44639.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "single variable a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"single variable a\"}\n",
+    "ts": "2026-04-30T06:17:30.636907+00:00",
+    "engine": "codex"
+  },
+  "image_aab134f368e569.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{1}{a} > \\frac{1}{c} > \\frac{1}{b}",
+    "note": "倒數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{1}{a} > \\\\frac{1}{c} > \\\\frac{1}{b}\",\"note\":\"倒數不等式\"}\n",
+    "ts": "2026-04-30T06:17:32.071740+00:00",
+    "engine": "codex"
+  },
+  "image_af120886daeb72.png": {
+    "classification": "formula",
+    "latex": "(t+\\frac{1}{t})^2=\\sqrt{5^2}\\Rightarrow t^2+2+\\frac{1}{t^2}=5\\Rightarrow t^2+\\frac{1}{t^2}=3",
+    "note": "代數式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(t+\\\\frac{1}{t})^2=\\\\sqrt{5^2}\\\\Rightarrow t^2+2+\\\\frac{1}{t^2}=5\\\\Rightarrow t^2+\\\\frac{1}{t^2}=3\",\"note\":\"代數式推導\"}\n",
+    "ts": "2026-04-30T06:17:33.512668+00:00",
+    "engine": "codex"
+  },
+  "image_b2b905af5c01d9.png": {
+    "classification": "formula",
+    "latex": "x^2-\\frac{1}{x^2}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=(-4)\\times2\\sqrt{3}=-8\\sqrt{3}",
+    "note": "代數式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-\\\\frac{1}{x^2}=\\\\left(x+\\\\frac{1}{x}\\\\right)\\\\left(x-\\\\frac{1}{x}\\\\right)=(-4)\\\\times2\\\\sqrt{3}=-8\\\\sqrt{3}\",\"note\":\"代數式推導\"}\n",
+    "ts": "2026-04-30T06:17:34.362832+00:00",
+    "engine": "codex"
+  },
+  "image_cd7693417ce03d.png": {
+    "classification": "formula",
+    "latex": "x^2-\\frac{1}{x^2}=-8\\sqrt{3}",
+    "note": "代數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-\\\\frac{1}{x^2}=-8\\\\sqrt{3}\",\"note\":\"代數方程式\"}\n",
+    "ts": "2026-04-30T06:17:38.793602+00:00",
+    "engine": "codex"
+  },
+  "image_d76f2913abf50d.png": {
+    "classification": "formula",
+    "latex": "t^2+\\frac{1}{t^2}=3",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^2+\\\\frac{1}{t^2}=3\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:17:38.841799+00:00",
+    "engine": "codex"
+  },
+  "image_d933a56a60201d.png": {
+    "classification": "formula",
+    "latex": "c=4-\\sqrt{11}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=4-\\\\sqrt{11}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:17:41.250798+00:00",
+    "engine": "codex"
+  },
+  "image_d88c43d11c1444.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+y=3\\\\xy=-4\\end{cases}\\Rightarrow x(3-x)=-4",
+    "note": "聯立方程式代入化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+y=3\\\\\\\\xy=-4\\\\end{cases}\\\\Rightarrow x(3-x)=-4\",\"note\":\"聯立方程式代入化簡\"}\n",
+    "ts": "2026-04-30T06:17:42.579834+00:00",
+    "engine": "codex"
+  },
+  "image_fa1792b86b8f9a.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{b}=\\frac{1}{\\sqrt{13}-\\sqrt{8}}=\\frac{\\sqrt{13}+\\sqrt{8}}{5}",
+    "note": "分母有理化等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{b}=\\\\frac{1}{\\\\sqrt{13}-\\\\sqrt{8}}=\\\\frac{\\\\sqrt{13}+\\\\sqrt{8}}{5}\",\"note\":\"分母有理化等式\"}\n",
+    "ts": "2026-04-30T06:17:44.208787+00:00",
+    "engine": "codex"
+  },
+  "image_e5627b0fc4024e.png": {
+    "classification": "formula",
+    "latex": "x-\\frac{1}{x}=(-2+\\sqrt{3})-(-2-\\sqrt{3})=2\\sqrt{3}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-\\\\frac{1}{x}=(-2+\\\\sqrt{3})-(-2-\\\\sqrt{3})=2\\\\sqrt{3}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T06:17:45.072842+00:00",
+    "engine": "codex"
+  },
+  "image_fd649baaa21e77.png": {
+    "classification": "formula",
+    "latex": "t^3+\\frac{1}{t^3}=2\\sqrt{5}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^3+\\\\frac{1}{t^3}=2\\\\sqrt{5}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:17:47.810653+00:00",
+    "engine": "codex"
+  },
+  "image_fe363d1ef623c9.png": {
+    "classification": "formula",
+    "latex": "6<\\sqrt{47}<7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6<\\\\sqrt{47}<7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:17:49.242531+00:00",
+    "engine": "codex"
+  },
+  "image_ff2158c3e5717b.png": {
+    "classification": "formula",
+    "latex": "t^3+\\frac{1}{t^3}=\\left(t+\\frac{1}{t}\\right)\\left(t^2-1+\\frac{1}{t^2}\\right)",
+    "note": "代數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t^3+\\\\frac{1}{t^3}=\\\\left(t+\\\\frac{1}{t}\\\\right)\\\\left(t^2-1+\\\\frac{1}{t^2}\\\\right)\",\"note\":\"代數恆等式\"}\n",
+    "ts": "2026-04-30T06:17:50.843262+00:00",
+    "engine": "codex"
+  }
+}

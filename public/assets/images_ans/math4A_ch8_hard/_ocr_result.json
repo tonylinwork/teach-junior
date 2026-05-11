@@ -1,0 +1,1514 @@
+{
+  "image_04170b92bf5147.png": {
+    "classification": "formula",
+    "latex": "a=7",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=7\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-06T00:33:07.986811+00:00",
+    "engine": "codex"
+  },
+  "image_04e006e0ebc862.png": {
+    "classification": "formula",
+    "latex": "I_2",
+    "note": "大寫 I 的下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"I_2\",\"note\":\"大寫 I 的下標 2\"}\n",
+    "ts": "2026-05-06T00:33:08.083385+00:00",
+    "engine": "codex"
+  },
+  "image_01f4ed6c2f9b15.png": {
+    "classification": "formula",
+    "latex": "(x,y,z)=(1,-1,0)",
+    "note": "有序三元組的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y,z)=(1,-1,0)\",\"note\":\"有序三元組的值\"}\n",
+    "ts": "2026-05-06T00:33:10.031785+00:00",
+    "engine": "codex"
+  },
+  "image_04b2ab077f9585.png": {
+    "classification": "formula",
+    "latex": "(1+t,3+2t,5+3t)=(0,-1,-2)",
+    "note": "三維向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1+t,3+2t,5+3t)=(0,-1,-2)\",\"note\":\"三維向量等式\"}\n",
+    "ts": "2026-05-06T00:33:10.903723+00:00",
+    "engine": "codex"
+  },
+  "image_070a34863599b3.png": {
+    "classification": "formula",
+    "latex": "a \\ne 7",
+    "note": "不等式：a不等于7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\ne 7\",\"note\":\"不等式：a不等于7\"}\n",
+    "ts": "2026-05-06T00:33:12.953706+00:00",
+    "engine": "codex"
+  },
+  "image_0758b04866162e.png": {
+    "classification": "formula",
+    "latex": "\\rightarrow \\left[\\begin{array}{cccc}1&2&a&1\\\\0&-2&b-3a&-4\\\\0&0&7+3b-11a&c-14\\end{array}\\right]",
+    "note": "增廣矩陣的列階梯形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\rightarrow \\\\left[\\\\begin{array}{cccc}1&2&a&1\\\\\\\\0&-2&b-3a&-4\\\\\\\\0&0&7+3b-11a&c-14\\\\end{array}\\\\right]\",\"note\":\"增廣矩陣的列階梯形式\"}\n",
+    "ts": "2026-05-06T00:33:15.043953+00:00",
+    "engine": "codex"
+  },
+  "image_08d7a0e2f52fe2.png": {
+    "classification": "formula",
+    "latex": "A\\cap B\\subset A",
+    "note": "集合包含關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B\\\\subset A\",\"note\":\"集合包含關係式\"}\n",
+    "ts": "2026-05-06T00:33:15.622429+00:00",
+    "engine": "codex"
+  },
+  "image_09fd3bc9c4b56a.png": {
+    "classification": "formula",
+    "latex": "t",
+    "note": "單一變數 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\",\"note\":\"單一變數 t\"}\n",
+    "ts": "2026-05-06T00:33:16.947119+00:00",
+    "engine": "codex"
+  },
+  "image_0944316a9f6be0.png": {
+    "classification": "formula",
+    "latex": "(1,3,5)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,3,5)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:33:19.330215+00:00",
+    "engine": "codex"
+  },
+  "image_0c8d0960516d71.png": {
+    "classification": "formula",
+    "latex": "a \\ne 0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\ne 0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-05-06T00:33:20.259536+00:00",
+    "engine": "codex"
+  },
+  "image_0da0c10afdaef1.png": {
+    "classification": "formula",
+    "latex": "y=1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:33:20.809567+00:00",
+    "engine": "codex"
+  },
+  "image_0b0376c8fe4b0a.png": {
+    "classification": "formula",
+    "latex": "0,3,2",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0,3,2\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:33:20.843750+00:00",
+    "engine": "codex"
+  },
+  "image_1031065bf0daf8.png": {
+    "classification": "formula",
+    "latex": "y=-1",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-1\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-06T00:33:25.820637+00:00",
+    "engine": "codex"
+  },
+  "image_0e233be8865e5b.png": {
+    "classification": "formula",
+    "latex": "a-1\\ne 0",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-1\\\\ne 0\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-05-06T00:33:27.818761+00:00",
+    "engine": "codex"
+  },
+  "image_0ee31145250500.png": {
+    "classification": "formula",
+    "latex": "\\rightarrow \\begin{bmatrix}1&1&1&1\\\\0&1&-3&0\\\\0&1&a-4&b-4\\end{bmatrix}",
+    "note": "矩陣列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\rightarrow \\\\begin{bmatrix}1&1&1&1\\\\\\\\0&1&-3&0\\\\\\\\0&1&a-4&b-4\\\\end{bmatrix}\",\"note\":\"矩陣列運算結果\"}\n",
+    "ts": "2026-05-06T00:33:28.556987+00:00",
+    "engine": "codex"
+  },
+  "image_0def71f935b941.png": {
+    "classification": "formula",
+    "latex": "L':\\begin{cases}x=t+4\\\\y=-2t+5\\\\z=3t+6\\end{cases}",
+    "note": "直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L':\\\\begin{cases}x=t+4\\\\\\\\y=-2t+5\\\\\\\\z=3t+6\\\\end{cases}\",\"note\":\"直線的參數式\"}\n",
+    "ts": "2026-05-06T00:33:30.186711+00:00",
+    "engine": "codex"
+  },
+  "image_10d3ca207d4a09.png": {
+    "classification": "formula",
+    "latex": "d_3",
+    "note": "變數 d 的下標 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_3\",\"note\":\"變數 d 的下標 3\"}\n",
+    "ts": "2026-05-06T00:33:31.282763+00:00",
+    "engine": "codex"
+  },
+  "image_11b28e93989e92.png": {
+    "classification": "formula",
+    "latex": "b=4",
+    "note": "變數 b 等於 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=4\",\"note\":\"變數 b 等於 4\"}\n",
+    "ts": "2026-05-06T00:33:31.736062+00:00",
+    "engine": "codex"
+  },
+  "image_14f8af4b440fcf.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{rrrr}1&-1&-1&3\\\\0&2&4&-2\\\\0&6&a+5&b-15\\end{array}\\right]",
+    "note": "列運算後的增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{rrrr}1&-1&-1&3\\\\\\\\0&2&4&-2\\\\\\\\0&6&a+5&b-15\\\\end{array}\\\\right]\",\"note\":\"列運算後的增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:33:34.915380+00:00",
+    "engine": "codex"
+  },
+  "image_15d67bc0d4c12b.png": {
+    "classification": "formula",
+    "latex": "d_2",
+    "note": "變數 d 的下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_2\",\"note\":\"變數 d 的下標 2\"}\n",
+    "ts": "2026-05-06T00:33:35.021245+00:00",
+    "engine": "codex"
+  },
+  "image_16ce3eadd41aec.png": {
+    "classification": "formula",
+    "latex": "b \\ne 4",
+    "note": "不等式：b不等于4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b \\\\ne 4\",\"note\":\"不等式：b不等于4\"}\n",
+    "ts": "2026-05-06T00:33:35.885329+00:00",
+    "engine": "codex"
+  },
+  "image_173cfb4f7aa5a2.png": {
+    "classification": "formula",
+    "latex": "z",
+    "note": "單一變數 z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z\",\"note\":\"單一變數 z\"}\n",
+    "ts": "2026-05-06T00:33:39.200955+00:00",
+    "engine": "codex"
+  },
+  "image_165fa908c10d93.png": {
+    "classification": "formula",
+    "latex": "(0,1,2)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,1,2)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:33:39.449183+00:00",
+    "engine": "codex"
+  },
+  "image_1a15cdad1ceb88.png": {
+    "classification": "formula",
+    "latex": "a-1=0",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-1=0\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-06T00:33:40.731086+00:00",
+    "engine": "codex"
+  },
+  "image_17b1f82836af89.png": {
+    "classification": "formula",
+    "latex": "\\left(1+t,3+2t,5+3t\\right)=\\left(1,\\frac{5}{2},4\\right)",
+    "note": "三維座標參數式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1+t,3+2t,5+3t\\\\right)=\\\\left(1,\\\\frac{5}{2},4\\\\right)\",\"note\":\"三維座標參數式等式\"}\n",
+    "ts": "2026-05-06T00:33:44.266572+00:00",
+    "engine": "codex"
+  },
+  "image_1e436095557443.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow L:\\begin{cases}x=t\\\\y=-2t\\\\z=3t\\end{cases}",
+    "note": "直線L的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow L:\\\\begin{cases}x=t\\\\\\\\y=-2t\\\\\\\\z=3t\\\\end{cases}\",\"note\":\"直線L的參數式\"}\n",
+    "ts": "2026-05-06T00:33:44.679858+00:00",
+    "engine": "codex"
+  },
+  "image_20dd53e64675b3.png": {
+    "classification": "formula",
+    "latex": "\\times \\frac{1}{2}",
+    "note": "乘以二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\times \\\\frac{1}{2}\",\"note\":\"乘以二分之一\"}\n",
+    "ts": "2026-05-06T00:33:46.467673+00:00",
+    "engine": "codex"
+  },
+  "image_1f5f02d9bdcf33.png": {
+    "classification": "formula",
+    "latex": "\\left\\{\\begin{array}{l}A=1\\\\B-C=2\\\\(3+a)C=0\\end{array}\\right.\\Rightarrow\\left\\{\\begin{array}{l}2^x=1\\\\3^y-5^z=2\\\\(3+a)\\times5^z=0\\end{array}\\right.",
+    "note": "方程組代換成指數形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left\\\\{\\\\begin{array}{l}A=1\\\\\\\\B-C=2\\\\\\\\(3+a)C=0\\\\end{array}\\\\right.\\\\Rightarrow\\\\left\\\\{\\\\begin{array}{l}2^x=1\\\\\\\\3^y-5^z=2\\\\\\\\(3+a)\\\\times5^z=0\\\\end{array}\\\\right.\",\"note\":\"方程組代換成指數形式\"}\n",
+    "ts": "2026-05-06T00:33:46.721679+00:00",
+    "engine": "codex"
+  },
+  "image_21da4add510bce.png": {
+    "classification": "formula",
+    "latex": "t=1",
+    "note": "單一等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=1\",\"note\":\"單一等式\"}\n",
+    "ts": "2026-05-06T00:33:47.879766+00:00",
+    "engine": "codex"
+  },
+  "image_2545e8130d4b19.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-05-06T00:33:49.900186+00:00",
+    "engine": "codex"
+  },
+  "image_25671114e8f08f.png": {
+    "classification": "formula",
+    "latex": "2-b+0=-1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2-b+0=-1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:33:51.054260+00:00",
+    "engine": "codex"
+  },
+  "image_259bd0ade00e72.png": {
+    "classification": "formula",
+    "latex": "11a-3b\\ne 7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"11a-3b\\\\ne 7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:33:52.182018+00:00",
+    "engine": "codex"
+  },
+  "image_233d79db4bce6a.png": {
+    "classification": "formula",
+    "latex": "3^y-5^z=2\\Rightarrow 3^y=2+5^z>1\\Rightarrow y>0",
+    "note": "指數方程推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^y-5^z=2\\\\Rightarrow 3^y=2+5^z>1\\\\Rightarrow y>0\",\"note\":\"指數方程推導\"}\n",
+    "ts": "2026-05-06T00:33:53.661545+00:00",
+    "engine": "codex"
+  },
+  "image_27b9495d3730b8.png": {
+    "classification": "formula",
+    "latex": "a+b+c=2",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b+c=2\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-06T00:33:53.941855+00:00",
+    "engine": "codex"
+  },
+  "image_2879dc0a456fa8.png": {
+    "classification": "formula",
+    "latex": "t=-1",
+    "note": "等式：t 等於負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=-1\",\"note\":\"等式：t 等於負一\"}\n",
+    "ts": "2026-05-06T00:33:55.201192+00:00",
+    "engine": "codex"
+  },
+  "image_2cd498cb0cae58.png": {
+    "classification": "formula",
+    "latex": "a=0",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=0\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:33:57.904855+00:00",
+    "engine": "codex"
+  },
+  "image_2ac55c3ce7f652.png": {
+    "classification": "formula",
+    "latex": "c \\ne 14",
+    "note": "不等式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c \\\\ne 14\",\"note\":\"不等式表達式\"}\n",
+    "ts": "2026-05-06T00:33:58.790528+00:00",
+    "engine": "codex"
+  },
+  "image_2f802af31bf4ac.png": {
+    "classification": "formula",
+    "latex": "a=7",
+    "note": "純文字數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=7\",\"note\":\"純文字數學等式\"}\n",
+    "ts": "2026-05-06T00:33:59.512731+00:00",
+    "engine": "codex"
+  },
+  "image_2c951102654b75.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{rrrr}1&-1&-1&3\\\\0&1&2&-1\\\\0&6&a+5&b-15\\end{array}\\right]",
+    "note": "增廣矩陣列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{rrrr}1&-1&-1&3\\\\\\\\0&1&2&-1\\\\\\\\0&6&a+5&b-15\\\\end{array}\\\\right]\",\"note\":\"增廣矩陣列運算結果\"}\n",
+    "ts": "2026-05-06T00:33:59.607908+00:00",
+    "engine": "codex"
+  },
+  "image_33a24ffbfe0c7f.png": {
+    "classification": "formula",
+    "latex": "A=2^x",
+    "note": "指數函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=2^x\",\"note\":\"指數函數式\"}\n",
+    "ts": "2026-05-06T00:34:02.337508+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-05-06T00:34:04.108519+00:00",
+    "engine": "codex"
+  },
+  "image_34acf9a16f049d.png": {
+    "classification": "formula",
+    "latex": "x\\in A\\cap B",
+    "note": "集合交集的元素關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\\\\in A\\\\cap B\",\"note\":\"集合交集的元素關係\"}\n",
+    "ts": "2026-05-06T00:34:04.476133+00:00",
+    "engine": "codex"
+  },
+  "image_363ce755d2d9b8.png": {
+    "classification": "formula",
+    "latex": "11a-3b=7",
+    "note": "線性代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"11a-3b=7\",\"note\":\"線性代數式\"}\n",
+    "ts": "2026-05-06T00:34:06.721006+00:00",
+    "engine": "codex"
+  },
+  "image_3894373d1103be.png": {
+    "classification": "formula",
+    "latex": "A\\cap B\\subset A",
+    "note": "集合包含關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B\\\\subset A\",\"note\":\"集合包含關係\"}\n",
+    "ts": "2026-05-06T00:34:09.757842+00:00",
+    "engine": "codex"
+  },
+  "image_38f97c45191d2f.png": {
+    "classification": "formula",
+    "latex": "a=0",
+    "note": "等式：a等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=0\",\"note\":\"等式：a等於0\"}\n",
+    "ts": "2026-05-06T00:34:13.060923+00:00",
+    "engine": "codex"
+  },
+  "image_34291103533f75.png": {
+    "classification": "formula",
+    "latex": "\\to \\begin{bmatrix}1&0&0&k-8\\\\0&1&0&2k-21\\\\0&0&-1&k-11\\end{bmatrix}\\to \\begin{bmatrix}1&0&0&k-8\\\\0&1&0&2k-21\\\\0&0&1&-k+11\\end{bmatrix}",
+    "note": "矩陣列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\begin{bmatrix}1&0&0&k-8\\\\\\\\0&1&0&2k-21\\\\\\\\0&0&-1&k-11\\\\end{bmatrix}\\\\to \\\\begin{bmatrix}1&0&0&k-8\\\\\\\\0&1&0&2k-21\\\\\\\\0&0&1&-k+11\\\\end{bmatrix}\",\"note\":\"矩陣列運算結果\"}\n",
+    "ts": "2026-05-06T00:34:13.736595+00:00",
+    "engine": "codex"
+  },
+  "image_38920a763b5a0a.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{rrrr}1&-1&-1&3\\\\0&2&4&-2\\\\0&6&a+5&b-15\\end{array}\\right]",
+    "note": "箭頭指向增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{rrrr}1&-1&-1&3\\\\\\\\0&2&4&-2\\\\\\\\0&6&a+5&b-15\\\\end{array}\\\\right]\",\"note\":\"箭頭指向增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:34:14.668126+00:00",
+    "engine": "codex"
+  },
+  "image_3a48597945a093.png": {
+    "classification": "formula",
+    "latex": "\\to \\begin{bmatrix}1&2&2&-1\\\\0&-3&1&3\\\\0&-5&-5&5\\end{bmatrix}",
+    "note": "矩陣列運算後的增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\begin{bmatrix}1&2&2&-1\\\\\\\\0&-3&1&3\\\\\\\\0&-5&-5&5\\\\end{bmatrix}\",\"note\":\"矩陣列運算後的增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:34:16.000985+00:00",
+    "engine": "codex"
+  },
+  "image_3b5c77bb825d8a.png": {
+    "classification": "formula",
+    "latex": "y>z",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y>z\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:34:18.617345+00:00",
+    "engine": "codex"
+  },
+  "image_3da973032bdfaf.png": {
+    "classification": "formula",
+    "latex": "a=5",
+    "note": "變數a等於5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=5\",\"note\":\"變數a等於5\"}\n",
+    "ts": "2026-05-06T00:34:19.779378+00:00",
+    "engine": "codex"
+  },
+  "image_3e606ce0f8f1b1.png": {
+    "classification": "formula",
+    "latex": "(x,y,z)=(2,5,8)",
+    "note": "有序三元組等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y,z)=(2,5,8)\",\"note\":\"有序三元組等式\"}\n",
+    "ts": "2026-05-06T00:34:20.669429+00:00",
+    "engine": "codex"
+  },
+  "image_3f22d20f49a1a5.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+y+z=1\\\\2x+3y-2z=3\\\\4x+5y+az=b\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+y+z=1\\\\\\\\2x+3y-2z=3\\\\\\\\4x+5y+az=b\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:34:23.339192+00:00",
+    "engine": "codex"
+  },
+  "image_43632737f76e56.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+2y+az=1\\\\3x+4y-bz=-1\\\\2x+10y+7z=c\\end{cases}",
+    "note": "三元一次聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+2y+az=1\\\\\\\\3x+4y-bz=-1\\\\\\\\2x+10y+7z=c\\\\end{cases}\",\"note\":\"三元一次聯立方程式\"}\n",
+    "ts": "2026-05-06T00:34:26.176972+00:00",
+    "engine": "codex"
+  },
+  "image_404cfd68575a11.png": {
+    "classification": "formula",
+    "latex": "\\Gamma_2:\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\a_2x+b_2y+c_2z=d_2\\\\a_3x+b_3y+c_3z=d_3\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma_2:\\\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\\\\\a_2x+b_2y+c_2z=d_2\\\\\\\\a_3x+b_3y+c_3z=d_3\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:34:26.436300+00:00",
+    "engine": "codex"
+  },
+  "image_43939dc5cebf63.png": {
+    "classification": "formula",
+    "latex": "\\text{(ii)}\\times t+\\text{(v)}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\text{(ii)}\\\\times t+\\\\text{(v)}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:34:26.772616+00:00",
+    "engine": "codex"
+  },
+  "image_43fabbad9b16f6.png": {
+    "classification": "formula",
+    "latex": "(x,y,z)=(0,1,2)",
+    "note": "有序三元組等於(0,1,2)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y,z)=(0,1,2)\",\"note\":\"有序三元組等於(0,1,2)\"}\n",
+    "ts": "2026-05-06T00:34:28.366211+00:00",
+    "engine": "codex"
+  },
+  "image_451569bb2c0328.png": {
+    "classification": "formula",
+    "latex": "a=0",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=0\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:34:30.673926+00:00",
+    "engine": "codex"
+  },
+  "image_46850976ded2b1.png": {
+    "classification": "formula",
+    "latex": "c=2",
+    "note": "變數c等於2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=2\",\"note\":\"變數c等於2\"}\n",
+    "ts": "2026-05-06T00:34:30.998297+00:00",
+    "engine": "codex"
+  },
+  "image_4459f454420d29.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{cccc}1&1&1&1\\\\0&1&-3&0\\\\0&0&a-1&b-4\\end{array}\\right]",
+    "note": "列階梯矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{cccc}1&1&1&1\\\\\\\\0&1&-3&0\\\\\\\\0&0&a-1&b-4\\\\end{array}\\\\right]\",\"note\":\"列階梯矩陣\"}\n",
+    "ts": "2026-05-06T00:34:34.100141+00:00",
+    "engine": "codex"
+  },
+  "image_47dfca74310355.png": {
+    "classification": "formula",
+    "latex": "11a-3b\\ne 7",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"11a-3b\\\\ne 7\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-05-06T00:34:35.631803+00:00",
+    "engine": "codex"
+  },
+  "image_46d08dd47ab88c.png": {
+    "classification": "formula",
+    "latex": "1+t,3+2t,5+3t",
+    "note": "三維參數座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1+t,3+2t,5+3t\",\"note\":\"三維參數座標\"}\n",
+    "ts": "2026-05-06T00:34:36.109512+00:00",
+    "engine": "codex"
+  },
+  "image_48105118bb788c.png": {
+    "classification": "formula",
+    "latex": "7+3b-11a=0",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7+3b-11a=0\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-06T00:34:38.596526+00:00",
+    "engine": "codex"
+  },
+  "image_49506993c7f475.png": {
+    "classification": "formula",
+    "latex": "B=3^y",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=3^y\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-06T00:34:39.730971+00:00",
+    "engine": "codex"
+  },
+  "image_47c98b033f33d2.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{rrrr}1&-1&-1&2\\\\0&1&2&1\\\\0&1&1&k-10\\end{array}\\right]",
+    "note": "增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{rrrr}1&-1&-1&2\\\\\\\\0&1&2&1\\\\\\\\0&1&1&k-10\\\\end{array}\\\\right]\",\"note\":\"增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:34:40.133301+00:00",
+    "engine": "codex"
+  },
+  "image_4a2cbe30276f8b.png": {
+    "classification": "formula",
+    "latex": "\\Gamma_1:\\begin{cases}a_1x+b_1y+c_1z=0\\\\a_2x+b_2y+c_2z=0\\\\a_3x+b_3y+c_3z=0\\end{cases}",
+    "note": "三元一次聯立方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma_1:\\\\begin{cases}a_1x+b_1y+c_1z=0\\\\\\\\a_2x+b_2y+c_2z=0\\\\\\\\a_3x+b_3y+c_3z=0\\\\end{cases}\",\"note\":\"三元一次聯立方程組\"}\n",
+    "ts": "2026-05-06T00:34:43.014447+00:00",
+    "engine": "codex"
+  },
+  "image_4db553da12b821.png": {
+    "classification": "formula",
+    "latex": "c-14=0",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c-14=0\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-06T00:34:43.862604+00:00",
+    "engine": "codex"
+  },
+  "image_51c21ebfc87700.png": {
+    "classification": "formula",
+    "latex": "b\\ne 9",
+    "note": "不等式：b不等于9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\\\\ne 9\",\"note\":\"不等式：b不等于9\"}\n",
+    "ts": "2026-05-06T00:34:44.583568+00:00",
+    "engine": "codex"
+  },
+  "image_4fc05274f46964.png": {
+    "classification": "formula",
+    "latex": "c \\ne 14",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c \\\\ne 14\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:34:45.541822+00:00",
+    "engine": "codex"
+  },
+  "image_54889161d4dc41.png": {
+    "classification": "formula",
+    "latex": "a=b=0",
+    "note": "等式：a、b皆為0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=b=0\",\"note\":\"等式：a、b皆為0\"}\n",
+    "ts": "2026-05-06T00:34:49.604794+00:00",
+    "engine": "codex"
+  },
+  "image_53a7c5adaa6c40.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases} ax+cy-z=3\\\\ 2x+by+2z=-1\\\\ x+2y+2z=-1 \\end{cases}",
+    "note": "三元一次聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases} ax+cy-z=3\\\\\\\\ 2x+by+2z=-1\\\\\\\\ x+2y+2z=-1 \\\\end{cases}\",\"note\":\"三元一次聯立方程式\"}\n",
+    "ts": "2026-05-06T00:34:50.272918+00:00",
+    "engine": "codex"
+  },
+  "image_56e9357d8df052.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{cccc}1&1&1&1\\\\0&1&-4&1\\\\0&1&a-4&b-4\\end{array}\\right]",
+    "note": "箭頭指向三列四欄矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{cccc}1&1&1&1\\\\\\\\0&1&-4&1\\\\\\\\0&1&a-4&b-4\\\\end{array}\\\\right]\",\"note\":\"箭頭指向三列四欄矩陣\"}\n",
+    "ts": "2026-05-06T00:34:53.011681+00:00",
+    "engine": "codex"
+  },
+  "image_5784b59e593c97.png": {
+    "classification": "formula",
+    "latex": "c=14",
+    "note": "等式：c 等於 14",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=14\",\"note\":\"等式：c 等於 14\"}\n",
+    "ts": "2026-05-06T00:34:54.053950+00:00",
+    "engine": "codex"
+  },
+  "image_58135368aab4c7.png": {
+    "classification": "formula",
+    "latex": "z=0",
+    "note": "單一方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z=0\",\"note\":\"單一方程式\"}\n",
+    "ts": "2026-05-06T00:34:55.390792+00:00",
+    "engine": "codex"
+  },
+  "image_5a42d6d89d6d22.png": {
+    "classification": "formula",
+    "latex": "1-c-0=3",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-c-0=3\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-06T00:34:56.551552+00:00",
+    "engine": "codex"
+  },
+  "image_5e153f629fd81a.png": {
+    "classification": "formula",
+    "latex": "\\to \\begin{bmatrix}1&2&2&-1\\\\0&-3&1&3\\\\0&0&-4&0\\end{bmatrix}",
+    "note": "箭頭指向的矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\begin{bmatrix}1&2&2&-1\\\\\\\\0&-3&1&3\\\\\\\\0&0&-4&0\\\\end{bmatrix}\",\"note\":\"箭頭指向的矩陣\"}\n",
+    "ts": "2026-05-06T00:35:00.902110+00:00",
+    "engine": "codex"
+  },
+  "image_5c52d812f1667b.png": {
+    "classification": "formula",
+    "latex": "\\to \\begin{bmatrix}1&0&1&2\\\\0&1&2&-1\\\\0&0&a-7&b-9\\end{bmatrix}",
+    "note": "矩陣列簡化結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\begin{bmatrix}1&0&1&2\\\\\\\\0&1&2&-1\\\\\\\\0&0&a-7&b-9\\\\end{bmatrix}\",\"note\":\"矩陣列簡化結果\"}\n",
+    "ts": "2026-05-06T00:35:01.461432+00:00",
+    "engine": "codex"
+  },
+  "image_601f2aebafa9a2.png": {
+    "classification": "formula",
+    "latex": "\\to \\begin{bmatrix}1&2&2&-1\\\\0&-3&1&3\\\\0&-3&-3&3\\end{bmatrix}",
+    "note": "箭頭指向一個三列四行矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\begin{bmatrix}1&2&2&-1\\\\\\\\0&-3&1&3\\\\\\\\0&-3&-3&3\\\\end{bmatrix}\",\"note\":\"箭頭指向一個三列四行矩陣\"}\n",
+    "ts": "2026-05-06T00:35:03.872593+00:00",
+    "engine": "codex"
+  },
+  "image_5e8e511a3ca58d.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x-y-z=3\\\\x+y+3z=1\\\\5x+y+az=b\\end{cases}",
+    "note": "三元一次聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x-y-z=3\\\\\\\\x+y+3z=1\\\\\\\\5x+y+az=b\\\\end{cases}\",\"note\":\"三元一次聯立方程式\"}\n",
+    "ts": "2026-05-06T00:35:05.241775+00:00",
+    "engine": "codex"
+  },
+  "image_61936ca78528b4.png": {
+    "classification": "formula",
+    "latex": "\\rightarrow \\left[\\begin{array}{rrrr}1&-1&-1&3\\\\0&2&4&-2\\\\0&6&a+5&b-15\\end{array}\\right]",
+    "note": "增廣矩陣列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\rightarrow \\\\left[\\\\begin{array}{rrrr}1&-1&-1&3\\\\\\\\0&2&4&-2\\\\\\\\0&6&a+5&b-15\\\\end{array}\\\\right]\",\"note\":\"增廣矩陣列運算結果\"}\n",
+    "ts": "2026-05-06T00:35:07.668842+00:00",
+    "engine": "codex"
+  },
+  "image_632cd9d91e8300.png": {
+    "classification": "formula",
+    "latex": "b-4\\ne 0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b-4\\\\ne 0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-05-06T00:35:08.173257+00:00",
+    "engine": "codex"
+  },
+  "image_60d2244c014cba.png": {
+    "classification": "formula",
+    "latex": "\\longrightarrow \\left[\\begin{array}{cccc}1&1&1&1\\\\0&1&-4&1\\\\0&0&a&b-5\\end{array}\\right]",
+    "note": "矩陣列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\longrightarrow \\\\left[\\\\begin{array}{cccc}1&1&1&1\\\\\\\\0&1&-4&1\\\\\\\\0&0&a&b-5\\\\end{array}\\\\right]\",\"note\":\"矩陣列運算結果\"}\n",
+    "ts": "2026-05-06T00:35:08.585470+00:00",
+    "engine": "codex"
+  },
+  "image_6363ef5f6308e2.png": {
+    "classification": "formula",
+    "latex": "b \\ne 4",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b \\\\ne 4\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:35:09.802997+00:00",
+    "engine": "codex"
+  },
+  "image_63a523484bfef4.png": {
+    "classification": "formula",
+    "latex": "5^z=0",
+    "note": "指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5^z=0\",\"note\":\"指數方程式\"}\n",
+    "ts": "2026-05-06T00:35:12.326183+00:00",
+    "engine": "codex"
+  },
+  "image_63d25bea460d9a.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x-y-z=3\\\\x+y+3z=1\\\\5x+y+az=b\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x-y-z=3\\\\\\\\x+y+3z=1\\\\\\\\5x+y+az=b\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:35:14.324611+00:00",
+    "engine": "codex"
+  },
+  "image_64bf65580557cd.png": {
+    "classification": "formula",
+    "latex": "y<z",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y<z\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:35:16.685380+00:00",
+    "engine": "codex"
+  },
+  "image_63b9fdd10d85b4.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1+3b_1+5c_1=d_1\\cdots\\cdots(\\mathrm{iv})\\\\a_2+3b_2+5c_2=d_2\\cdots\\cdots(\\mathrm{v})\\\\a_3+3b_3+5c_3=d_3\\cdots\\cdots(\\mathrm{vi})\\end{cases}",
+    "note": "三個線性方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1+3b_1+5c_1=d_1\\\\cdots\\\\cdots(\\\\mathrm{iv})\\\\\\\\a_2+3b_2+5c_2=d_2\\\\cdots\\\\cdots(\\\\mathrm{v})\\\\\\\\a_3+3b_3+5c_3=d_3\\\\cdots\\\\cdots(\\\\mathrm{vi})\\\\end{cases}\",\"note\":\"三個線性方程組\"}\n",
+    "ts": "2026-05-06T00:35:18.838101+00:00",
+    "engine": "codex"
+  },
+  "image_645bd14159febf.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&1&1&1\\\\2&3&-1&2\\\\4&5&a&b\\end{bmatrix}",
+    "note": "3乘4矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&1&1&1\\\\\\\\2&3&-1&2\\\\\\\\4&5&a&b\\\\end{bmatrix}\",\"note\":\"3乘4矩陣\"}\n",
+    "ts": "2026-05-06T00:35:19.253632+00:00",
+    "engine": "codex"
+  },
+  "image_6791e699988d4a.png": {
+    "classification": "formula",
+    "latex": "\\rightarrow \\begin{bmatrix}1&0&1&3\\\\0&1&2&1\\\\0&0&-1&k-11\\end{bmatrix}",
+    "note": "列簡化後的增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\rightarrow \\\\begin{bmatrix}1&0&1&3\\\\\\\\0&1&2&1\\\\\\\\0&0&-1&k-11\\\\end{bmatrix}\",\"note\":\"列簡化後的增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:35:22.781296+00:00",
+    "engine": "codex"
+  },
+  "image_6aa425f01720ce.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&2&a&1\\\\3&4&b&-1\\\\2&10&7&c\\end{bmatrix}",
+    "note": "3x4 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&2&a&1\\\\\\\\3&4&b&-1\\\\\\\\2&10&7&c\\\\end{bmatrix}\",\"note\":\"3x4 matrix\"}\n",
+    "ts": "2026-05-06T00:35:24.890650+00:00",
+    "engine": "codex"
+  },
+  "image_6f5fc4990969bd.png": {
+    "classification": "formula",
+    "latex": "\\left(x,y,z\\right)=\\left(0,0,0\\right)",
+    "note": "三元有序數組等於原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(x,y,z\\\\right)=\\\\left(0,0,0\\\\right)\",\"note\":\"三元有序數組等於原點\"}\n",
+    "ts": "2026-05-06T00:35:27.279031+00:00",
+    "engine": "codex"
+  },
+  "image_704b1693100bb9.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix}1&1\\\\a-3&b+2\\end{vmatrix}=0",
+    "note": "二階行列式等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix}1&1\\\\\\\\a-3&b+2\\\\end{vmatrix}=0\",\"note\":\"二階行列式等於0\"}\n",
+    "ts": "2026-05-06T00:35:29.005126+00:00",
+    "engine": "codex"
+  },
+  "image_70df0807614bd3.png": {
+    "classification": "formula",
+    "latex": "\\left(x,y,z\\right)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(x,y,z\\\\right)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-05-06T00:35:30.555877+00:00",
+    "engine": "codex"
+  },
+  "image_6dcc24004889b1.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1(1+t)+b_1(3+2t)+c_1(5+3t)=d_1\\\\a_2(1+t)+b_2(3+2t)+c_2(5+3t)=d_2\\\\a_3(1+t)+b_3(3+2t)+c_3(5+3t)=d_3\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1(1+t)+b_1(3+2t)+c_1(5+3t)=d_1\\\\\\\\a_2(1+t)+b_2(3+2t)+c_2(5+3t)=d_2\\\\\\\\a_3(1+t)+b_3(3+2t)+c_3(5+3t)=d_3\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:35:32.294380+00:00",
+    "engine": "codex"
+  },
+  "image_710b81476f24fd.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一字母 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一字母 C\"}\n",
+    "ts": "2026-05-06T00:35:32.520251+00:00",
+    "engine": "codex"
+  },
+  "image_71450e12c633b9.png": {
+    "classification": "formula",
+    "latex": "(1,2,3)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,3)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:35:34.565232+00:00",
+    "engine": "codex"
+  },
+  "image_7157aa74d02c1e.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1x+b_1y+c_1z=0\\\\a_2x+b_2y+c_2z=0\\\\a_3x+b_3y+c_3z=0\\end{cases}",
+    "note": "三元一次齊次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1x+b_1y+c_1z=0\\\\\\\\a_2x+b_2y+c_2z=0\\\\\\\\a_3x+b_3y+c_3z=0\\\\end{cases}\",\"note\":\"三元一次齊次方程組\"}\n",
+    "ts": "2026-05-06T00:35:37.160434+00:00",
+    "engine": "codex"
+  },
+  "image_735b81d7aab7bd.png": {
+    "classification": "formula",
+    "latex": "y",
+    "note": "單一變數 y",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y\",\"note\":\"單一變數 y\"}\n",
+    "ts": "2026-05-06T00:35:39.777660+00:00",
+    "engine": "codex"
+  },
+  "image_79d842ff671b86.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&-1&-1&3\\\\1&1&3&1\\\\5&1&a&b\\end{bmatrix}",
+    "note": "三列四行矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&-1&-1&3\\\\\\\\1&1&3&1\\\\\\\\5&1&a&b\\\\end{bmatrix}\",\"note\":\"三列四行矩陣\"}\n",
+    "ts": "2026-05-06T00:35:40.065973+00:00",
+    "engine": "codex"
+  },
+  "image_7bbdcc638537a9.png": {
+    "classification": "formula",
+    "latex": "3A=3\\Rightarrow A=1",
+    "note": "等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3A=3\\\\Rightarrow A=1\",\"note\":\"等式推導\"}\n",
+    "ts": "2026-05-06T00:35:41.134040+00:00",
+    "engine": "codex"
+  },
+  "image_7a38a216c38574.png": {
+    "classification": "formula",
+    "latex": "(\\mathrm{i})\\times t+(\\mathrm{iv})",
+    "note": "代數式含羅馬編號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\mathrm{i})\\\\times t+(\\\\mathrm{iv})\",\"note\":\"代數式含羅馬編號\"}\n",
+    "ts": "2026-05-06T00:35:42.771732+00:00",
+    "engine": "codex"
+  },
+  "image_7cd809eefa2d3b.png": {
+    "classification": "formula",
+    "latex": "5A+(3+a)C=5",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5A+(3+a)C=5\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:35:45.352743+00:00",
+    "engine": "codex"
+  },
+  "image_7fe35b81b5c6be.png": {
+    "classification": "formula",
+    "latex": "2x+by+2z=-1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+by+2z=-1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:35:45.778119+00:00",
+    "engine": "codex"
+  },
+  "image_8026ec8d96b168.png": {
+    "classification": "formula",
+    "latex": "c=14",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=14\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:35:46.599326+00:00",
+    "engine": "codex"
+  },
+  "image_7d62d6d78ba478.png": {
+    "classification": "formula",
+    "latex": "a \\ne 0",
+    "note": "不等於零的條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\ne 0\",\"note\":\"不等於零的條件\"}\n",
+    "ts": "2026-05-06T00:35:46.743592+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"變數 x\"}\n",
+    "ts": "2026-05-06T00:35:50.214803+00:00",
+    "engine": "codex"
+  },
+  "image_8384247d9063f4.png": {
+    "classification": "formula",
+    "latex": "2^x=1\\Rightarrow x=0",
+    "note": "指數方程解為x=0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^x=1\\\\Rightarrow x=0\",\"note\":\"指數方程解為x=0\"}\n",
+    "ts": "2026-05-06T00:35:53.561098+00:00",
+    "engine": "codex"
+  },
+  "image_8044f5bcdfb6da.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x-y-z=2\\\\x+z=3\\\\5x-4y-4z=k\\end{cases}",
+    "note": "三元一次聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x-y-z=2\\\\\\\\x+z=3\\\\\\\\5x-4y-4z=k\\\\end{cases}\",\"note\":\"三元一次聯立方程式\"}\n",
+    "ts": "2026-05-06T00:35:53.665444+00:00",
+    "engine": "codex"
+  },
+  "image_86094ec5bf1e32.png": {
+    "classification": "formula",
+    "latex": "\\left(0,2,\\log_{5}7\\right)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(0,2,\\\\log_{5}7\\\\right)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:35:54.631642+00:00",
+    "engine": "codex"
+  },
+  "image_892dc8e5c2a28d.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&-1&-1&3\\\\1&1&3&1\\\\5&1&a&b\\end{bmatrix}",
+    "note": "3×4矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&-1&-1&3\\\\\\\\1&1&3&1\\\\\\\\5&1&a&b\\\\end{bmatrix}\",\"note\":\"3×4矩陣\"}\n",
+    "ts": "2026-05-06T00:35:55.282336+00:00",
+    "engine": "codex"
+  },
+  "image_8e28dab0dd9f9c.png": {
+    "classification": "formula",
+    "latex": "a \\neq 7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\neq 7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:35:59.681362+00:00",
+    "engine": "codex"
+  },
+  "image_8dda9260780af8.png": {
+    "classification": "formula",
+    "latex": "a^2+b^2=0",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^2+b^2=0\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-06T00:35:59.963760+00:00",
+    "engine": "codex"
+  },
+  "image_8dfa1e53f5da45.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&-1&-1&2\\\\1&0&1&3\\\\5&-4&-4&k\\end{bmatrix}",
+    "note": "3x4 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&-1&-1&2\\\\\\\\1&0&1&3\\\\\\\\5&-4&-4&k\\\\end{bmatrix}\",\"note\":\"3x4 matrix\"}\n",
+    "ts": "2026-05-06T00:36:00.452693+00:00",
+    "engine": "codex"
+  },
+  "image_8dad496aa0c324.png": {
+    "classification": "formula",
+    "latex": "\\frac{a-3}{1}=\\frac{b+2}{1}=\\frac{-1}{-1}",
+    "note": "連比例分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a-3}{1}=\\\\frac{b+2}{1}=\\\\frac{-1}{-1}\",\"note\":\"連比例分式\"}\n",
+    "ts": "2026-05-06T00:36:00.873755+00:00",
+    "engine": "codex"
+  },
+  "image_909dc7523d5f34.png": {
+    "classification": "formula",
+    "latex": "a\\ne -3",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\\\\ne -3\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-05-06T00:36:04.870401+00:00",
+    "engine": "codex"
+  },
+  "image_8e3018d6813165.png": {
+    "classification": "formula",
+    "latex": "\\to \\left[\\begin{array}{cccc}1&-1&-1&3\\\\0&1&2&-1\\\\0&6&a+5&b-15\\end{array}\\right]",
+    "note": "增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\left[\\\\begin{array}{cccc}1&-1&-1&3\\\\\\\\0&1&2&-1\\\\\\\\0&6&a+5&b-15\\\\end{array}\\\\right]\",\"note\":\"增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:36:06.789413+00:00",
+    "engine": "codex"
+  },
+  "image_8f582df6d8bd45.png": {
+    "classification": "formula",
+    "latex": "\\frac{a-3}{1}=\\frac{b+2}{1}\\ne\\frac{-1}{-1}",
+    "note": "純代數分式式子",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a-3}{1}=\\\\frac{b+2}{1}\\\\ne\\\\frac{-1}{-1}\",\"note\":\"純代數分式式子\"}\n",
+    "ts": "2026-05-06T00:36:06.983407+00:00",
+    "engine": "codex"
+  },
+  "image_947f09eac9b58f.png": {
+    "classification": "formula",
+    "latex": "a \\neq 0",
+    "note": "不等於零的代數條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\neq 0\",\"note\":\"不等於零的代數條件\"}\n",
+    "ts": "2026-05-06T00:36:09.361265+00:00",
+    "engine": "codex"
+  },
+  "image_94a45e10187548.png": {
+    "classification": "formula",
+    "latex": "a=1",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=1\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-06T00:36:11.294671+00:00",
+    "engine": "codex"
+  },
+  "image_94d63ecb5282b8.png": {
+    "classification": "formula",
+    "latex": "x \\in A \\cap B",
+    "note": "集合交集的元素關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\in A \\\\cap B\",\"note\":\"集合交集的元素關係\"}\n",
+    "ts": "2026-05-06T00:36:11.899643+00:00",
+    "engine": "codex"
+  },
+  "image_8ea6ec1d8d03d9.png": {
+    "classification": "formula",
+    "latex": "(0,-1,-2)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,-1,-2)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-05-06T00:36:12.309978+00:00",
+    "engine": "codex"
+  },
+  "image_95c381ac6aa759.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}a&c&-1&3\\\\2&b&2&-1\\\\1&2&2&-1\\end{bmatrix}",
+    "note": "3x4 matrix expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}a&c&-1&3\\\\\\\\2&b&2&-1\\\\\\\\1&2&2&-1\\\\end{bmatrix}\",\"note\":\"3x4 matrix expression\"}\n",
+    "ts": "2026-05-06T00:36:16.190755+00:00",
+    "engine": "codex"
+  },
+  "image_963743bd2eb177.png": {
+    "classification": "formula",
+    "latex": "a-2+0=-1",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-2+0=-1\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-06T00:36:17.168503+00:00",
+    "engine": "codex"
+  },
+  "image_964cb0b417fc12.png": {
+    "classification": "formula",
+    "latex": "x \\in A",
+    "note": "元素屬於集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\in A\",\"note\":\"元素屬於集合\"}\n",
+    "ts": "2026-05-06T00:36:17.353496+00:00",
+    "engine": "codex"
+  },
+  "image_974456db3978e8.png": {
+    "classification": "formula",
+    "latex": "b=5",
+    "note": "變數 b 等於 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=5\",\"note\":\"變數 b 等於 5\"}\n",
+    "ts": "2026-05-06T00:36:17.430923+00:00",
+    "engine": "codex"
+  },
+  "image_989d013bb31b7b.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2^x=1\\\\3^y-5^z=2\\end{cases}",
+    "note": "二元指數方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2^x=1\\\\\\\\3^y-5^z=2\\\\end{cases}\",\"note\":\"二元指數方程組\"}\n",
+    "ts": "2026-05-06T00:36:23.724393+00:00",
+    "engine": "codex"
+  },
+  "image_9b99e03864d5c5.png": {
+    "classification": "formula",
+    "latex": "\\rightarrow \\begin{bmatrix}1&-1&-1&3\\\\0&2&4&-2\\\\0&0&a-7&b-9\\end{bmatrix}",
+    "note": "列階梯矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\rightarrow \\\\begin{bmatrix}1&-1&-1&3\\\\\\\\0&2&4&-2\\\\\\\\0&0&a-7&b-9\\\\end{bmatrix}\",\"note\":\"列階梯矩陣\"}\n",
+    "ts": "2026-05-06T00:36:23.874714+00:00",
+    "engine": "codex"
+  },
+  "image_9ee013ff2c5503.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}A-B+C=-1\\cdots\\text{(i)}\\\\2A+B-C=4\\cdots\\text{(ii)}\\\\2A+3B+aC=8\\cdots\\text{(iii)}\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}A-B+C=-1\\\\cdots\\\\text{(i)}\\\\\\\\2A+B-C=4\\\\cdots\\\\text{(ii)}\\\\\\\\2A+3B+aC=8\\\\cdots\\\\text{(iii)}\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:36:25.537239+00:00",
+    "engine": "codex"
+  },
+  "image_9f1c2aa3f450fd.png": {
+    "classification": "formula",
+    "latex": "(0,0,0)",
+    "note": "三維座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0,0)\",\"note\":\"三維座標原點\"}\n",
+    "ts": "2026-05-06T00:36:25.962490+00:00",
+    "engine": "codex"
+  },
+  "image_a90120b88204b6.png": {
+    "classification": "formula",
+    "latex": "a=1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:36:28.265700+00:00",
+    "engine": "codex"
+  },
+  "image_a46434efb1efa1.png": {
+    "classification": "formula",
+    "latex": "a=2",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=2\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-06T00:36:28.396007+00:00",
+    "engine": "codex"
+  },
+  "image_ab0cadb2bf21fe.png": {
+    "classification": "formula",
+    "latex": "b=5",
+    "note": "變數 b 等於 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=5\",\"note\":\"變數 b 等於 5\"}\n",
+    "ts": "2026-05-06T00:36:29.984375+00:00",
+    "engine": "codex"
+  },
+  "image_aca7cf69daf8ff.png": {
+    "classification": "formula",
+    "latex": "b\\ne 5",
+    "note": "不等式：b不等于5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\\\\ne 5\",\"note\":\"不等式：b不等于5\"}\n",
+    "ts": "2026-05-06T00:36:30.370652+00:00",
+    "engine": "codex"
+  },
+  "image_ad986b81003a5f.png": {
+    "classification": "formula",
+    "latex": "y>0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y>0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:36:32.298846+00:00",
+    "engine": "codex"
+  },
+  "image_af1fd0d5a02341.png": {
+    "classification": "formula",
+    "latex": "b \\ne 9",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b \\\\ne 9\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:36:34.375719+00:00",
+    "engine": "codex"
+  },
+  "image_aeb5249693af46.png": {
+    "classification": "formula",
+    "latex": "C=5^z",
+    "note": "等式：C equals 5 to the z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C=5^z\",\"note\":\"等式：C equals 5 to the z\"}\n",
+    "ts": "2026-05-06T00:36:34.605277+00:00",
+    "engine": "codex"
+  },
+  "image_ad57d27d893cca.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+2y-3z=1\\\\x+3y-2z=0\\\\x+ay+bz=-1\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+2y-3z=1\\\\\\\\x+3y-2z=0\\\\\\\\x+ay+bz=-1\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:36:35.937718+00:00",
+    "engine": "codex"
+  },
+  "image_b33ee570fa77d3.png": {
+    "classification": "formula",
+    "latex": "(i)\\times 3+(iii)",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(i)\\\\times 3+(iii)\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-06T00:36:37.599051+00:00",
+    "engine": "codex"
+  },
+  "image_b99f426fbcec87.png": {
+    "classification": "formula",
+    "latex": "d_1",
+    "note": "變數 d 的下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_1\",\"note\":\"變數 d 的下標 1\"}\n",
+    "ts": "2026-05-06T00:36:39.435026+00:00",
+    "engine": "codex"
+  },
+  "image_b737dfd6c366af.png": {
+    "classification": "formula",
+    "latex": "(0,1,0)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,1,0)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:36:41.503282+00:00",
+    "engine": "codex"
+  },
+  "image_ba962ae0a757ce.png": {
+    "classification": "formula",
+    "latex": "x=1",
+    "note": "單純方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=1\",\"note\":\"單純方程式\"}\n",
+    "ts": "2026-05-06T00:36:42.026594+00:00",
+    "engine": "codex"
+  },
+  "image_ba690caf7b9103.png": {
+    "classification": "formula",
+    "latex": "a=5",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=5\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:36:42.718157+00:00",
+    "engine": "codex"
+  },
+  "image_c55a0f0c8e57eb.png": {
+    "classification": "formula",
+    "latex": "b=-1",
+    "note": "變數 b 等於負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=-1\",\"note\":\"變數 b 等於負一\"}\n",
+    "ts": "2026-05-06T00:36:46.055249+00:00",
+    "engine": "codex"
+  },
+  "image_bff1fec13ed348.png": {
+    "classification": "formula",
+    "latex": "z=0",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z=0\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:36:48.774303+00:00",
+    "engine": "codex"
+  },
+  "image_c5689b24365c3d.png": {
+    "classification": "formula",
+    "latex": "\\left[\\begin{array}{rrrr}1&-3&5&3\\\\0&1&2&2\\\\0&0&a&b\\end{array}\\right]",
+    "note": "三列四欄矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left[\\\\begin{array}{rrrr}1&-3&5&3\\\\\\\\0&1&2&2\\\\\\\\0&0&a&b\\\\end{array}\\\\right]\",\"note\":\"三列四欄矩陣\"}\n",
+    "ts": "2026-05-06T00:36:48.923712+00:00",
+    "engine": "codex"
+  },
+  "image_befb567b0f79b8.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\a_2x+b_2y+c_2z=d_2\\\\a_3x+b_3y+c_3z=d_3\\end{cases}",
+    "note": "三元一次聯立方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\\\\\a_2x+b_2y+c_2z=d_2\\\\\\\\a_3x+b_3y+c_3z=d_3\\\\end{cases}\",\"note\":\"三元一次聯立方程組\"}\n",
+    "ts": "2026-05-06T00:36:50.247020+00:00",
+    "engine": "codex"
+  },
+  "image_c6a89af7f1717b.png": {
+    "classification": "formula",
+    "latex": "a=b",
+    "note": "等式 a=b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=b\",\"note\":\"等式 a=b\"}\n",
+    "ts": "2026-05-06T00:36:51.918521+00:00",
+    "engine": "codex"
+  },
+  "image_c8a4a3571865c7.png": {
+    "classification": "formula",
+    "latex": "b=9",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=9\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:36:53.301200+00:00",
+    "engine": "codex"
+  },
+  "image_c6eb05b95aa3cf.png": {
+    "classification": "formula",
+    "latex": "b=3",
+    "note": "等式 b=3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=3\",\"note\":\"等式 b=3\"}\n",
+    "ts": "2026-05-06T00:36:53.563577+00:00",
+    "engine": "codex"
+  },
+  "image_cccfffb2e02b43.png": {
+    "classification": "formula",
+    "latex": "ax+cy-z=3",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ax+cy-z=3\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:36:57.807495+00:00",
+    "engine": "codex"
+  },
+  "image_c8ef20bcf53faa.png": {
+    "classification": "formula",
+    "latex": "\\Gamma_2:\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\a_2x+b_2y+c_2z=d_2\\\\a_3x+b_3y+c_3z=d_3\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma_2:\\\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\\\\\a_2x+b_2y+c_2z=d_2\\\\\\\\a_3x+b_3y+c_3z=d_3\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:36:58.857870+00:00",
+    "engine": "codex"
+  },
+  "image_cd17cd8ee24458.png": {
+    "classification": "formula",
+    "latex": "\\begin{vmatrix}1&1\\\\a-3&b+2\\end{vmatrix}\\ne0\\Rightarrow a-b\\ne5",
+    "note": "行列式非零推出條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{vmatrix}1&1\\\\\\\\a-3&b+2\\\\end{vmatrix}\\\\ne0\\\\Rightarrow a-b\\\\ne5\",\"note\":\"行列式非零推出條件\"}\n",
+    "ts": "2026-05-06T00:37:00.662918+00:00",
+    "engine": "codex"
+  },
+  "image_cae49030022e1c.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2x-y-z=3\\\\ax+2y+2z=-1\\\\x-y+3z=2\\end{cases}",
+    "note": "三元一次聯立方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2x-y-z=3\\\\\\\\ax+2y+2z=-1\\\\\\\\x-y+3z=2\\\\end{cases}\",\"note\":\"三元一次聯立方程組\"}\n",
+    "ts": "2026-05-06T00:37:02.050346+00:00",
+    "engine": "codex"
+  },
+  "image_cd3af794a6605a.png": {
+    "classification": "formula",
+    "latex": "a \\ne 1",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\ne 1\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-05-06T00:37:02.265142+00:00",
+    "engine": "codex"
+  },
+  "image_cdadbcc8bb76e7.png": {
+    "classification": "formula",
+    "latex": "b=0",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=0\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-06T00:37:04.232330+00:00",
+    "engine": "codex"
+  },
+  "image_d2f45909359f02.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-05-06T00:37:06.827836+00:00",
+    "engine": "codex"
+  },
+  "image_d538d6b81d77c8.png": {
+    "classification": "formula",
+    "latex": "a=1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:37:06.851069+00:00",
+    "engine": "codex"
+  },
+  "image_d464cc7340424d.png": {
+    "classification": "formula",
+    "latex": "c-14\\ne 0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c-14\\\\ne 0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-05-06T00:37:07.567495+00:00",
+    "engine": "codex"
+  },
+  "image_d67f9a4b851aff.png": {
+    "classification": "formula",
+    "latex": "b=4",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=4\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:37:09.936926+00:00",
+    "engine": "codex"
+  },
+  "image_d6dd6c9fe47d76.png": {
+    "classification": "formula",
+    "latex": "x\\in A",
+    "note": "元素x屬於集合A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\\\\in A\",\"note\":\"元素x屬於集合A\"}\n",
+    "ts": "2026-05-06T00:37:12.273565+00:00",
+    "engine": "codex"
+  },
+  "image_d693cb14168145.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2^x-3^y+5^z=-1\\\\2^{x+1}+3^y-5^z=4\\\\2^{x+1}+3^{y+1}+a5^z=8\\end{cases}",
+    "note": "三元指數方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2^x-3^y+5^z=-1\\\\\\\\2^{x+1}+3^y-5^z=4\\\\\\\\2^{x+1}+3^{y+1}+a5^z=8\\\\end{cases}\",\"note\":\"三元指數方程組\"}\n",
+    "ts": "2026-05-06T00:37:14.199960+00:00",
+    "engine": "codex"
+  },
+  "image_d9f165e8d10fd2.png": {
+    "classification": "formula",
+    "latex": "\\text{(iii)}\\times t+\\text{(vi)}",
+    "note": "含羅馬序號標記的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\text{(iii)}\\\\times t+\\\\text{(vi)}\",\"note\":\"含羅馬序號標記的代數式\"}\n",
+    "ts": "2026-05-06T00:37:17.582992+00:00",
+    "engine": "codex"
+  },
+  "image_dc120c99b96c53.png": {
+    "classification": "formula",
+    "latex": "x=0",
+    "note": "純文字方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=0\",\"note\":\"純文字方程式\"}\n",
+    "ts": "2026-05-06T00:37:18.550128+00:00",
+    "engine": "codex"
+  },
+  "image_d851e24a51b78b.png": {
+    "classification": "formula",
+    "latex": "\\text{(i)}+\\text{(ii)}",
+    "note": "兩個編號式子的相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\text{(i)}+\\\\text{(ii)}\",\"note\":\"兩個編號式子的相加\"}\n",
+    "ts": "2026-05-06T00:37:20.306230+00:00",
+    "engine": "codex"
+  },
+  "image_d9f46707cd0f80.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+y+z=1\\\\2x+3y-z=2\\\\4x+5y+az=b\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+y+z=1\\\\\\\\2x+3y-z=2\\\\\\\\4x+5y+az=b\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:37:21.698461+00:00",
+    "engine": "codex"
+  },
+  "image_dc13a7bc755954.png": {
+    "classification": "formula",
+    "latex": "c=-2",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=-2\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:37:21.744797+00:00",
+    "engine": "codex"
+  },
+  "image_de48637872f84d.png": {
+    "classification": "formula",
+    "latex": "d_1=d_2=d_3=0",
+    "note": "等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d_1=d_2=d_3=0\",\"note\":\"等式公式\"}\n",
+    "ts": "2026-05-06T00:37:25.950876+00:00",
+    "engine": "codex"
+  },
+  "image_dc8dd3943a40b4.png": {
+    "classification": "formula",
+    "latex": "\\to\\left[\\begin{array}{cccc}1&0&1&3\\\\0&1&2&1\\\\0&0&-1&k-11\\end{array}\\right]",
+    "note": "列簡化後的增廣矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to\\\\left[\\\\begin{array}{cccc}1&0&1&3\\\\\\\\0&1&2&1\\\\\\\\0&0&-1&k-11\\\\end{array}\\\\right]\",\"note\":\"列簡化後的增廣矩陣\"}\n",
+    "ts": "2026-05-06T00:37:27.080824+00:00",
+    "engine": "codex"
+  },
+  "image_dd98c9745bad65.png": {
+    "classification": "formula",
+    "latex": "a \\ne b",
+    "note": "不等式：a 不等於 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\ne b\",\"note\":\"不等式：a 不等於 b\"}\n",
+    "ts": "2026-05-06T00:37:27.512133+00:00",
+    "engine": "codex"
+  },
+  "image_dfc4505fde55ea.png": {
+    "classification": "formula",
+    "latex": "a=-3",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-3\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:37:29.237397+00:00",
+    "engine": "codex"
+  },
+  "image_e2a261c149650e.png": {
+    "classification": "formula",
+    "latex": "b=1",
+    "note": "等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=1\",\"note\":\"等式\"}\n",
+    "ts": "2026-05-06T00:37:30.692239+00:00",
+    "engine": "codex"
+  },
+  "image_e0e868cfe7fae7.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-05-06T00:37:31.852269+00:00",
+    "engine": "codex"
+  },
+  "image_e3afae69909ded.png": {
+    "classification": "formula",
+    "latex": "7+3b-11a\\ne0",
+    "note": "不等式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7+3b-11a\\\\ne0\",\"note\":\"不等式代數式\"}\n",
+    "ts": "2026-05-06T00:37:32.334452+00:00",
+    "engine": "codex"
+  },
+  "image_e46ee24e83908e.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-05-06T00:37:33.739788+00:00",
+    "engine": "codex"
+  },
+  "image_eb431edf1327dd.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}2&-1&-1&3\\\\a&2&2&-1\\\\1&-1&3&2\\end{bmatrix}",
+    "note": "3x4矩陣",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}2&-1&-1&3\\\\\\\\a&2&2&-1\\\\\\\\1&-1&3&2\\\\end{bmatrix}\",\"note\":\"3x4矩陣\"}\n",
+    "ts": "2026-05-06T00:37:37.976213+00:00",
+    "engine": "codex"
+  },
+  "image_ed760dfc0131f1.png": {
+    "classification": "formula",
+    "latex": "(1,3,5)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,3,5)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:37:38.042540+00:00",
+    "engine": "codex"
+  },
+  "image_e96db3e6fd6a97.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}a_1+2b_1+3c_1=0\\cdots\\cdots\\mathrm{(i)}\\\\a_2+2b_2+3c_2=0\\cdots\\cdots\\mathrm{(ii)}\\\\a_3+2b_3+3c_3=0\\cdots\\cdots\\mathrm{(iii)}\\end{cases}",
+    "note": "三元線性方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}a_1+2b_1+3c_1=0\\\\cdots\\\\cdots\\\\mathrm{(i)}\\\\\\\\a_2+2b_2+3c_2=0\\\\cdots\\\\cdots\\\\mathrm{(ii)}\\\\\\\\a_3+2b_3+3c_3=0\\\\cdots\\\\cdots\\\\mathrm{(iii)}\\\\end{cases}\",\"note\":\"三元線性方程組\"}\n",
+    "ts": "2026-05-06T00:37:41.601090+00:00",
+    "engine": "codex"
+  },
+  "image_ef2d3d0d04aa18.png": {
+    "classification": "formula",
+    "latex": "\\to \\begin{bmatrix}1&0&0&k-8\\\\0&1&0&2k-21\\\\0&0&-1&k-11\\end{bmatrix}\\to\\begin{bmatrix}1&0&0&k-8\\\\0&1&0&2k-21\\\\0&0&1&-k+11\\end{bmatrix}",
+    "note": "增廣矩陣列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\to \\\\begin{bmatrix}1&0&0&k-8\\\\\\\\0&1&0&2k-21\\\\\\\\0&0&-1&k-11\\\\end{bmatrix}\\\\to\\\\begin{bmatrix}1&0&0&k-8\\\\\\\\0&1&0&2k-21\\\\\\\\0&0&1&-k+11\\\\end{bmatrix}\",\"note\":\"增廣矩陣列運算結果\"}\n",
+    "ts": "2026-05-06T00:37:41.752480+00:00",
+    "engine": "codex"
+  },
+  "image_efd23f6d049671.png": {
+    "classification": "formula",
+    "latex": "b \\ne 5",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b \\\\ne 5\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-06T00:37:42.940918+00:00",
+    "engine": "codex"
+  },
+  "image_f0c0d6b71e8a9a.png": {
+    "classification": "formula",
+    "latex": "(2,5,8^\\circ)",
+    "note": "三元組座標或數列",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,5,8^\\\\circ)\",\"note\":\"三元組座標或數列\"}\n",
+    "ts": "2026-05-06T00:37:45.297938+00:00",
+    "engine": "codex"
+  },
+  "image_f21655aa3f505a.png": {
+    "classification": "formula",
+    "latex": "11a-3b=7",
+    "note": "線性代數式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"11a-3b=7\",\"note\":\"線性代數式等式\"}\n",
+    "ts": "2026-05-06T00:37:46.203000+00:00",
+    "engine": "codex"
+  },
+  "image_f55af43b69a809.png": {
+    "classification": "formula",
+    "latex": "b=9",
+    "note": "變數b等於9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=9\",\"note\":\"變數b等於9\"}\n",
+    "ts": "2026-05-06T00:37:47.538888+00:00",
+    "engine": "codex"
+  },
+  "image_f5d6fa53f4358a.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}y+z=-1\\\\(a-3)y+(b+2)z=-1\\end{cases}",
+    "note": "二元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}y+z=-1\\\\\\\\(a-3)y+(b+2)z=-1\\\\end{cases}\",\"note\":\"二元一次方程組\"}\n",
+    "ts": "2026-05-06T00:37:49.636850+00:00",
+    "engine": "codex"
+  },
+  "image_fac165b8787efb.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&1&1&1\\\\2&3&-2&3\\\\4&5&a&b\\end{bmatrix}",
+    "note": "3 by 4 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&1&1&1\\\\\\\\2&3&-2&3\\\\\\\\4&5&a&b\\\\end{bmatrix}\",\"note\":\"3 by 4 matrix\"}\n",
+    "ts": "2026-05-06T00:37:50.295781+00:00",
+    "engine": "codex"
+  },
+  "image_fb5c381280d173.png": {
+    "classification": "formula",
+    "latex": "a+b=0",
+    "note": "線性等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b=0\",\"note\":\"線性等式\"}\n",
+    "ts": "2026-05-06T00:37:51.244497+00:00",
+    "engine": "codex"
+  },
+  "image_fba5f3a8278c68.png": {
+    "classification": "formula",
+    "latex": "\\left(1,\\frac{5}{2},4\\right)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,\\\\frac{5}{2},4\\\\right)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:37:53.403349+00:00",
+    "engine": "codex"
+  },
+  "image_ff287425e97472.png": {
+    "classification": "formula",
+    "latex": "ax+2y+2z=-1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ax+2y+2z=-1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:37:55.563589+00:00",
+    "engine": "codex"
+  },
+  "image_fbd4b643de48bc.png": {
+    "classification": "formula",
+    "latex": "\\rightarrow \\left[\\begin{array}{cccc}1&2&a&1\\\\0&-2&b-3a&-4\\\\0&6&7-2a&c-2\\end{array}\\right]",
+    "note": "增廣矩陣的列運算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\rightarrow \\\\left[\\\\begin{array}{cccc}1&2&a&1\\\\\\\\0&-2&b-3a&-4\\\\\\\\0&6&7-2a&c-2\\\\end{array}\\\\right]\",\"note\":\"增廣矩陣的列運算結果\"}\n",
+    "ts": "2026-05-06T00:37:56.732193+00:00",
+    "engine": "codex"
+  },
+  "image_fd24aa4b53300d.png": {
+    "classification": "formula",
+    "latex": "\\begin{bmatrix}1&2&2&-1\\\\1&-1&3&2\\\\2&-1&-1&3\\end{bmatrix}",
+    "note": "3×4 matrix",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{bmatrix}1&2&2&-1\\\\\\\\1&-1&3&2\\\\\\\\2&-1&-1&3\\\\end{bmatrix}\",\"note\":\"3×4 matrix\"}\n",
+    "ts": "2026-05-06T00:37:57.516052+00:00",
+    "engine": "codex"
+  },
+  "image_ff320518e30b40.png": {
+    "classification": "formula",
+    "latex": "(x,y,z)=(1+t,3+2t,5+3t)",
+    "note": "空間直線參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y,z)=(1+t,3+2t,5+3t)\",\"note\":\"空間直線參數式\"}\n",
+    "ts": "2026-05-06T00:37:58.614740+00:00",
+    "engine": "codex"
+  }
+}

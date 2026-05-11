@@ -1,0 +1,618 @@
+{
+  "image_0db6fd0e9498c1.png": {
+    "classification": "formula",
+    "latex": "x^2-4x+3<0",
+    "note": "一元二次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-4x+3<0\",\"note\":\"一元二次不等式\"}\n",
+    "ts": "2026-04-29T05:43:37.151564+00:00",
+    "engine": "codex"
+  },
+  "image_0364216a3785bf.png": {
+    "classification": "formula",
+    "latex": "-1",
+    "note": "負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1\",\"note\":\"負一\"}\n",
+    "ts": "2026-04-29T05:43:37.446440+00:00",
+    "engine": "codex"
+  },
+  "image_0e0cc97817cd53.png": {
+    "classification": "formula",
+    "latex": "1<x<2",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1<x<2\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T05:43:37.708628+00:00",
+    "engine": "codex"
+  },
+  "image_0ddb3cd27c041e.png": {
+    "classification": "formula",
+    "latex": "(x-1)(x-2)^2(x-3)<0",
+    "note": "一元多項式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x-1)(x-2)^2(x-3)<0\",\"note\":\"一元多項式不等式\"}\n",
+    "ts": "2026-04-29T05:43:38.885029+00:00",
+    "engine": "codex"
+  },
+  "image_11ce4a7539abac.png": {
+    "classification": "formula",
+    "latex": "x>3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:43:41.835368+00:00",
+    "engine": "codex"
+  },
+  "image_164e5824fe513b.png": {
+    "classification": "formula",
+    "latex": "1>0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1>0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:43:44.690047+00:00",
+    "engine": "codex"
+  },
+  "image_181fca27ba3509.png": {
+    "classification": "formula",
+    "latex": "\\frac{2x+1}{3x+2}>0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2x+1}{3x+2}>0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:43:45.704840+00:00",
+    "engine": "codex"
+  },
+  "image_254fb5fec99f59.png": {
+    "classification": "formula",
+    "latex": "x>1",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>1\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:43:46.711428+00:00",
+    "engine": "codex"
+  },
+  "image_261d0fbced4a0a.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的三次函數圖形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的三次函數圖形\"}\n",
+    "ts": "2026-04-29T05:43:48.955313+00:00",
+    "engine": "codex"
+  },
+  "image_297c2379799899.png": {
+    "classification": "formula",
+    "latex": "(x^2+x+1)(x-1)(x-2) \\le 0",
+    "note": "一元不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x^2+x+1)(x-1)(x-2) \\\\le 0\",\"note\":\"一元不等式\"}\n",
+    "ts": "2026-04-29T05:43:50.945830+00:00",
+    "engine": "codex"
+  },
+  "image_3609ca1766ddf0.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標有 α、β、γ 與 x 軸",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標有 α、β、γ 與 x 軸\"}\n",
+    "ts": "2026-04-29T05:43:53.471457+00:00",
+    "engine": "codex"
+  },
+  "image_317ceb5dbb30b7.png": {
+    "classification": "formula",
+    "latex": "(x+5)(x+1)(x-4)(x-7)(x^2-2x+3)<0",
+    "note": "多項式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+5)(x+1)(x-4)(x-7)(x^2-2x+3)<0\",\"note\":\"多項式不等式\"}\n",
+    "ts": "2026-04-29T05:43:54.099081+00:00",
+    "engine": "codex"
+  },
+  "image_3a4dbd2d91435d.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形與正負區間示意",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形與正負區間示意\"}\n",
+    "ts": "2026-04-29T05:43:55.941474+00:00",
+    "engine": "codex"
+  },
+  "image_3ba8afe7244efa.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-3}{x-1}<0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-3}{x-1}<0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:43:59.732974+00:00",
+    "engine": "codex"
+  },
+  "image_3c6cada3eafda1.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "Parabola crossing x-axis at labels α and β",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"Parabola crossing x-axis at labels α and β\"}\n",
+    "ts": "2026-04-29T05:44:01.161591+00:00",
+    "engine": "codex"
+  },
+  "image_3c257527195a22.png": {
+    "classification": "formula",
+    "latex": "(x-1)^2(x-3)<0",
+    "note": "一元不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x-1)^2(x-3)<0\",\"note\":\"一元不等式\"}\n",
+    "ts": "2026-04-29T05:44:02.183350+00:00",
+    "engine": "codex"
+  },
+  "image_434aa63764dbac.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-2}{x-1}\\le 0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-2}{x-1}\\\\le 0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:44:06.585495+00:00",
+    "engine": "codex"
+  },
+  "image_4721402e7f9e1f.png": {
+    "classification": "formula",
+    "latex": "D=(-2)^2-4\\times1\\times3=-8<0",
+    "note": "判別式計算結果小於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"D=(-2)^2-4\\\\times1\\\\times3=-8<0\",\"note\":\"判別式計算結果小於0\"}\n",
+    "ts": "2026-04-29T05:44:07.261839+00:00",
+    "engine": "codex"
+  },
+  "image_499b01c1c55d67.png": {
+    "classification": "formula",
+    "latex": "\\frac{2x-(x+2)(x-1)}{x+2}\\le 0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2x-(x+2)(x-1)}{x+2}\\\\le 0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:44:09.015919+00:00",
+    "engine": "codex"
+  },
+  "image_4b060d41d81322.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線區間示意圖，標示-1、3、4及陰影區域",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線區間示意圖，標示-1、3、4及陰影區域\"}\n",
+    "ts": "2026-04-29T05:44:12.427202+00:00",
+    "engine": "codex"
+  },
+  "image_4cb1171c8aba0f.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "多項式函數圖形與零點符號示意",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"多項式函數圖形與零點符號示意\"}\n",
+    "ts": "2026-04-29T05:44:14.214309+00:00",
+    "engine": "codex"
+  },
+  "image_38e30e416538a5.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標示 y=f(x)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標示 y=f(x)\"}\n",
+    "ts": "2026-04-29T05:44:14.348822+00:00",
+    "engine": "codex"
+  },
+  "image_4c062d0a57feb3.png": {
+    "classification": "formula",
+    "latex": "x>7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:14.606098+00:00",
+    "engine": "codex"
+  },
+  "image_50907eb762058d.png": {
+    "classification": "formula",
+    "latex": "x^2-2x+3",
+    "note": "二次多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2-2x+3\",\"note\":\"二次多項式\"}\n",
+    "ts": "2026-04-29T05:44:17.913757+00:00",
+    "engine": "codex"
+  },
+  "image_5192d2eebf85ac.png": {
+    "classification": "formula",
+    "latex": "\\frac{x^2}{x}\\le 0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x^2}{x}\\\\le 0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:19.964964+00:00",
+    "engine": "codex"
+  },
+  "image_50d4a1b98ba316.png": {
+    "classification": "formula",
+    "latex": "(x+5)(x+1)(x-4)(x-7)<0",
+    "note": "多項式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+5)(x+1)(x-4)(x-7)<0\",\"note\":\"多項式不等式\"}\n",
+    "ts": "2026-04-29T05:44:20.156089+00:00",
+    "engine": "codex"
+  },
+  "image_54b808e560add8.png": {
+    "classification": "formula",
+    "latex": "x^2(x+5)(x+1)(x-4)(x-7)<(2x-3)(x+5)(x+1)(x-4)(x-7)",
+    "note": "多項式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2(x+5)(x+1)(x-4)(x-7)<(2x-3)(x+5)(x+1)(x-4)(x-7)\",\"note\":\"多項式不等式\"}\n",
+    "ts": "2026-04-29T05:44:22.652091+00:00",
+    "engine": "codex"
+  },
+  "image_56fcadd14e464f.png": {
+    "classification": "formula",
+    "latex": "1 < x < 3",
+    "note": "不等式：x 介於 1 和 3 之間",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1 < x < 3\",\"note\":\"不等式：x 介於 1 和 3 之間\"}\n",
+    "ts": "2026-04-29T05:44:22.831455+00:00",
+    "engine": "codex"
+  },
+  "image_5e19823598f24d.png": {
+    "classification": "formula",
+    "latex": "(1-x)(x-2)\\ge 0",
+    "note": "一元二次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1-x)(x-2)\\\\ge 0\",\"note\":\"一元二次不等式\"}\n",
+    "ts": "2026-04-29T05:44:27.656094+00:00",
+    "engine": "codex"
+  },
+  "image_6707db7d43eae4.png": {
+    "classification": "formula",
+    "latex": "-2x>3",
+    "note": "linear inequality",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2x>3\",\"note\":\"linear inequality\"}\n",
+    "ts": "2026-04-29T05:44:27.783382+00:00",
+    "engine": "codex"
+  },
+  "image_65e6cd4df34dc8.png": {
+    "classification": "formula",
+    "latex": "\\frac{2x}{x+2}\\le x-1",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2x}{x+2}\\\\le x-1\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:29.989757+00:00",
+    "engine": "codex"
+  },
+  "image_600c4d6d486075.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "拋物線與x軸交於α、β",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"拋物線與x軸交於α、β\"}\n",
+    "ts": "2026-04-29T05:44:30.670167+00:00",
+    "engine": "codex"
+  },
+  "image_67d0f3d05c5426.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x>3\\\\-1<x<4\\end{cases}",
+    "note": "不等式組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x>3\\\\\\\\-1<x<4\\\\end{cases}\",\"note\":\"不等式組\"}\n",
+    "ts": "2026-04-29T05:44:35.344482+00:00",
+    "engine": "codex"
+  },
+  "image_6ac4721d9782ef.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{x}>1",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{x}>1\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:35.744551+00:00",
+    "engine": "codex"
+  },
+  "image_6e6657c29414aa.png": {
+    "classification": "formula",
+    "latex": "\\frac{-x^2+x+2}{x+2}\\le 0",
+    "note": "有理不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-x^2+x+2}{x+2}\\\\le 0\",\"note\":\"有理不等式\"}\n",
+    "ts": "2026-04-29T05:44:36.720418+00:00",
+    "engine": "codex"
+  },
+  "image_6d1274132dc237.png": {
+    "classification": "formula",
+    "latex": "\\frac{x}{x^2+1}\\ge 0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x}{x^2+1}\\\\ge 0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:37.409202+00:00",
+    "engine": "codex"
+  },
+  "image_6ee963b502b4b3.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標示 α、β、γ 與 x 軸",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標示 α、β、γ 與 x 軸\"}\n",
+    "ts": "2026-04-29T05:44:40.723807+00:00",
+    "engine": "codex"
+  },
+  "image_70f05ef0f49b6b.png": {
+    "classification": "formula",
+    "latex": "x<\\frac{3}{2}",
+    "note": "不等式：x小於二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x<\\\\frac{3}{2}\",\"note\":\"不等式：x小於二分之三\"}\n",
+    "ts": "2026-04-29T05:44:42.566458+00:00",
+    "engine": "codex"
+  },
+  "image_76f07019015550.png": {
+    "classification": "formula",
+    "latex": "-2\\pi",
+    "note": "負二倍圓周率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\\\\pi\",\"note\":\"負二倍圓周率\"}\n",
+    "ts": "2026-04-29T05:44:43.301843+00:00",
+    "engine": "codex"
+  },
+  "image_78197a772ce02a.png": {
+    "classification": "formula",
+    "latex": "x>\\frac{3}{2}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>\\\\frac{3}{2}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:46.204305+00:00",
+    "engine": "codex"
+  },
+  "image_70cff7b41507d8.png": {
+    "classification": "formula",
+    "latex": "4<x<7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4<x<7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:47.569454+00:00",
+    "engine": "codex"
+  },
+  "image_81e1e806cdc6c0.png": {
+    "classification": "formula",
+    "latex": "x^2(x-1)(x-3)<0",
+    "note": "一元不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2(x-1)(x-3)<0\",\"note\":\"一元不等式\"}\n",
+    "ts": "2026-04-29T05:44:48.400372+00:00",
+    "engine": "codex"
+  },
+  "image_7bca9f49895e78.png": {
+    "classification": "formula",
+    "latex": "\\pi \\approx 3.14",
+    "note": "圓周率近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\pi \\\\approx 3.14\",\"note\":\"圓周率近似值\"}\n",
+    "ts": "2026-04-29T05:44:49.663070+00:00",
+    "engine": "codex"
+  },
+  "image_832da375961abd.png": {
+    "classification": "formula",
+    "latex": "y=x^2-2x+3",
+    "note": "二次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^2-2x+3\",\"note\":\"二次函數公式\"}\n",
+    "ts": "2026-04-29T05:44:52.427654+00:00",
+    "engine": "codex"
+  },
+  "image_85a6103057e92c.png": {
+    "classification": "formula",
+    "latex": "\\frac{2x}{x+2}-(x-1)\\le 0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2x}{x+2}-(x-1)\\\\le 0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:44:53.091066+00:00",
+    "engine": "codex"
+  },
+  "image_8abba6d7145a89.png": {
+    "classification": "formula",
+    "latex": "(a+b)x-4(a+b)<9\\Rightarrow 3x-12<9",
+    "note": "不等式化簡推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)x-4(a+b)<9\\\\Rightarrow 3x-12<9\",\"note\":\"不等式化簡推導\"}\n",
+    "ts": "2026-04-29T05:44:55.966218+00:00",
+    "engine": "codex"
+  },
+  "image_8895b403c03db1.png": {
+    "classification": "formula",
+    "latex": "x^2+x+1",
+    "note": "polynomial expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^2+x+1\",\"note\":\"polynomial expression\"}\n",
+    "ts": "2026-04-29T05:44:56.523474+00:00",
+    "engine": "codex"
+  },
+  "image_8fbab53610317d.png": {
+    "classification": "formula",
+    "latex": "(x-1)(x-2)\\le 0",
+    "note": "一元二次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x-1)(x-2)\\\\le 0\",\"note\":\"一元二次不等式\"}\n",
+    "ts": "2026-04-29T05:44:59.683403+00:00",
+    "engine": "codex"
+  },
+  "image_917f066b8a23cf.png": {
+    "classification": "formula",
+    "latex": "ax<-b+3",
+    "note": "一元不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ax<-b+3\",\"note\":\"一元不等式\"}\n",
+    "ts": "2026-04-29T05:44:59.815479+00:00",
+    "engine": "codex"
+  },
+  "image_93589448a9a741.png": {
+    "classification": "formula",
+    "latex": "-\\pi",
+    "note": "負的圓周率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\\\\pi\",\"note\":\"負的圓周率\"}\n",
+    "ts": "2026-04-29T05:45:02.761623+00:00",
+    "engine": "codex"
+  },
+  "image_937691d82d8485.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x^3+x^2-8x-12>0\\\\x^2-3x-4<0\\end{cases}",
+    "note": "聯立不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x^3+x^2-8x-12>0\\\\\\\\x^2-3x-4<0\\\\end{cases}\",\"note\":\"聯立不等式\"}\n",
+    "ts": "2026-04-29T05:45:02.938043+00:00",
+    "engine": "codex"
+  },
+  "image_9bf1527a9e5b17.png": {
+    "classification": "formula",
+    "latex": "-5 < x < -1",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-5 < x < -1\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T05:45:05.616131+00:00",
+    "engine": "codex"
+  },
+  "image_97162474d1a9f1.png": {
+    "classification": "formula",
+    "latex": "x>5",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x>5\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:45:06.319167+00:00",
+    "engine": "codex"
+  },
+  "image_a3f2614c3e8048.png": {
+    "classification": "formula",
+    "latex": "x \\neq -4",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\neq -4\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T05:45:08.189736+00:00",
+    "engine": "codex"
+  },
+  "image_9d4aa5c18415a2.png": {
+    "classification": "formula",
+    "latex": "ax+b<3",
+    "note": "一次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ax+b<3\",\"note\":\"一次不等式\"}\n",
+    "ts": "2026-04-29T05:45:08.315191+00:00",
+    "engine": "codex"
+  },
+  "image_a6f1c4f1d69b40.png": {
+    "classification": "formula",
+    "latex": "5(x+4)^2>0",
+    "note": "二次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5(x+4)^2>0\",\"note\":\"二次不等式\"}\n",
+    "ts": "2026-04-29T05:45:11.985582+00:00",
+    "engine": "codex"
+  },
+  "image_a626e14064845f.png": {
+    "classification": "formula",
+    "latex": "a<0",
+    "note": "不等式：a小於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a<0\",\"note\":\"不等式：a小於0\"}\n",
+    "ts": "2026-04-29T05:45:12.010386+00:00",
+    "engine": "codex"
+  },
+  "image_a9a7e334b988e5.png": {
+    "classification": "formula",
+    "latex": "\\pi",
+    "note": "圓周率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\pi\",\"note\":\"圓周率符號\"}\n",
+    "ts": "2026-04-29T05:45:13.752640+00:00",
+    "engine": "codex"
+  },
+  "image_b09397f0201b87.png": {
+    "classification": "formula",
+    "latex": "(x-1)(x-3)<0",
+    "note": "一元二次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x-1)(x-3)<0\",\"note\":\"一元二次不等式\"}\n",
+    "ts": "2026-04-29T05:45:16.835605+00:00",
+    "engine": "codex"
+  },
+  "image_b289e92aa3d0af.png": {
+    "classification": "formula",
+    "latex": "\\frac{-b+3}{a}=1\\Rightarrow a+b=3",
+    "note": "代數等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-b+3}{a}=1\\\\Rightarrow a+b=3\",\"note\":\"代數等式推導\"}\n",
+    "ts": "2026-04-29T05:45:17.936004+00:00",
+    "engine": "codex"
+  },
+  "image_b3bde416134d80.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形與正負區間示意",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形與正負區間示意\"}\n",
+    "ts": "2026-04-29T05:45:18.882062+00:00",
+    "engine": "codex"
+  },
+  "image_b9f74d0fca158a.png": {
+    "classification": "formula",
+    "latex": "3<x<5",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3<x<5\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:45:19.021908+00:00",
+    "engine": "codex"
+  },
+  "image_c6457ca242e24b.png": {
+    "classification": "formula",
+    "latex": "x<1",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x<1\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:45:23.139994+00:00",
+    "engine": "codex"
+  },
+  "image_c5d9631edfa495.png": {
+    "classification": "formula",
+    "latex": "(x-3)(x-5)>0",
+    "note": "一元二次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x-3)(x-5)>0\",\"note\":\"一元二次不等式\"}\n",
+    "ts": "2026-04-29T05:45:24.044112+00:00",
+    "engine": "codex"
+  },
+  "image_c8125a879a702e.png": {
+    "classification": "formula",
+    "latex": "x<7",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x<7\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:45:25.760670+00:00",
+    "engine": "codex"
+  },
+  "image_c9c3bcc2ef4810.png": {
+    "classification": "formula",
+    "latex": "x<3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x<3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:45:28.522530+00:00",
+    "engine": "codex"
+  },
+  "image_cfe05307e0eb49.png": {
+    "classification": "formula",
+    "latex": "2 < x < 3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2 < x < 3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T05:45:31.949707+00:00",
+    "engine": "codex"
+  },
+  "image_c2ea8db7ed5d4f.png": {
+    "classification": "formula",
+    "latex": "2\\pi",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\pi\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T05:45:32.338567+00:00",
+    "engine": "codex"
+  },
+  "image_cc4aea7f716084.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-2}{x+1}\\le 0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-2}{x+1}\\\\le 0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:45:32.563716+00:00",
+    "engine": "codex"
+  },
+  "image_dbe6ac159b67ba.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-2}{x+1}\\le 0",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-2}{x+1}\\\\le 0\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:45:37.713885+00:00",
+    "engine": "codex"
+  },
+  "image_e2a8469a8dd262.png": {
+    "classification": "formula",
+    "latex": "\\frac{x^2-x-2}{x^2+x+1}",
+    "note": "有理式分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x^2-x-2}{x^2+x+1}\",\"note\":\"有理式分式\"}\n",
+    "ts": "2026-04-29T05:45:38.229832+00:00",
+    "engine": "codex"
+  },
+  "image_edd937099c2d10.png": {
+    "classification": "formula",
+    "latex": "(a+b)x-4(a+b)<9",
+    "note": "一元一次不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a+b)x-4(a+b)<9\",\"note\":\"一元一次不等式\"}\n",
+    "ts": "2026-04-29T05:45:39.135108+00:00",
+    "engine": "codex"
+  },
+  "image_edf2bbe4a5ff08.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的三次函數圖形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的三次函數圖形\"}\n",
+    "ts": "2026-04-29T05:45:44.868393+00:00",
+    "engine": "codex"
+  },
+  "image_eea339f85ae6bf.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}(x-3)(x+2)^2>0\\\\(x+1)(x-4)<0\\end{cases}",
+    "note": "二元一次不等式組形式的代數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}(x-3)(x+2)^2>0\\\\\\\\(x+1)(x-4)<0\\\\end{cases}\",\"note\":\"二元一次不等式組形式的代數不等式\"}\n",
+    "ts": "2026-04-29T05:45:45.011125+00:00",
+    "engine": "codex"
+  },
+  "image_efa1545b2c5662.png": {
+    "classification": "formula",
+    "latex": "\\frac{2x}{x+2}\\le x-1",
+    "note": "分式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2x}{x+2}\\\\le x-1\",\"note\":\"分式不等式\"}\n",
+    "ts": "2026-04-29T05:45:49.795808+00:00",
+    "engine": "codex"
+  },
+  "image_e37623cb64b6c0.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 3x<21\\Rightarrow x<7",
+    "note": "不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 3x<21\\\\Rightarrow x<7\",\"note\":\"不等式推導\"}\n",
+    "ts": "2026-04-29T05:45:49.940645+00:00",
+    "engine": "codex"
+  },
+  "image_fbf5ac2085cc6a.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形與正負區間示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形與正負區間示意圖\"}\n",
+    "ts": "2026-04-29T05:45:52.873457+00:00",
+    "engine": "codex"
+  }
+}

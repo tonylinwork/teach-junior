@@ -1,0 +1,514 @@
+{
+  "image_0d8663a3c265d9.png": {
+    "classification": "formula",
+    "latex": "B(-4)",
+    "note": "點B的座標或數值標示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(-4)\",\"note\":\"點B的座標或數值標示\"}\n",
+    "ts": "2026-04-29T03:26:06.758225+00:00",
+    "engine": "codex"
+  },
+  "image_07a61df00c5acb.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=|a-(-4)|=|a+4|",
+    "note": "線段AB長度的絕對值表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=|a-(-4)|=|a+4|\",\"note\":\"線段AB長度的絕對值表示\"}\n",
+    "ts": "2026-04-29T03:26:08.812175+00:00",
+    "engine": "codex"
+  },
+  "image_0646ea2784dbe0.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線區間圖，標示A(√101)、B(√38)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線區間圖，標示A(√101)、B(√38)\"}\n",
+    "ts": "2026-04-29T03:26:10.238477+00:00",
+    "engine": "codex"
+  },
+  "image_06d9bc502b8f9d.png": {
+    "classification": "formula",
+    "latex": "\\frac{4a+b}{5}",
+    "note": "代數分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4a+b}{5}\",\"note\":\"代數分式\"}\n",
+    "ts": "2026-04-29T03:26:10.867578+00:00",
+    "engine": "codex"
+  },
+  "image_1b94f17d1af701.png": {
+    "classification": "formula",
+    "latex": "a>1",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a>1\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:26:13.067605+00:00",
+    "engine": "codex"
+  },
+  "image_1c23f4eab748fb.png": {
+    "classification": "formula",
+    "latex": "\\overline{RA}:\\overline{AS}=1:2",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{RA}:\\\\overline{AS}=1:2\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-04-29T03:26:13.357795+00:00",
+    "engine": "codex"
+  },
+  "image_1d2f82bc649f7e.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{101}",
+    "note": "根號101",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{101}\",\"note\":\"根號101\"}\n",
+    "ts": "2026-04-29T03:26:14.887011+00:00",
+    "engine": "codex"
+  },
+  "image_1d649b4fcbfb8b.png": {
+    "classification": "formula",
+    "latex": "a=\\frac{12}{6}=2",
+    "note": "等式與分數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\frac{12}{6}=2\",\"note\":\"等式與分數計算\"}\n",
+    "ts": "2026-04-29T03:26:15.385191+00:00",
+    "engine": "codex"
+  },
+  "image_238d75622fa186.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三條數線示意點R,A/B/C,S的位置",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三條數線示意點R,A/B/C,S的位置\"}\n",
+    "ts": "2026-04-29T03:26:20.033749+00:00",
+    "engine": "codex"
+  },
+  "image_227765cd9ef9a8.png": {
+    "classification": "formula",
+    "latex": "|x-1|=|1-x|",
+    "note": "絕對值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"|x-1|=|1-x|\",\"note\":\"絕對值等式\"}\n",
+    "ts": "2026-04-29T03:26:20.309763+00:00",
+    "engine": "codex"
+  },
+  "image_2338bc9b9323aa.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線上標示甲、乙及-8、0、1、10",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線上標示甲、乙及-8、0、1、10\"}\n",
+    "ts": "2026-04-29T03:26:20.977361+00:00",
+    "engine": "codex"
+  },
+  "image_2168a60555f25c.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{38}+3<n<\\sqrt{101}+5\\Rightarrow 9\\cdots<n<15\\cdots\\Rightarrow n=10,11,12,13,14,15",
+    "note": "不等式推得整數 n 的範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{38}+3<n<\\\\sqrt{101}+5\\\\Rightarrow 9\\\\cdots<n<15\\\\cdots\\\\Rightarrow n=10,11,12,13,14,15\",\"note\":\"不等式推得整數 n 的範圍\"}\n",
+    "ts": "2026-04-29T03:26:21.918675+00:00",
+    "engine": "codex"
+  },
+  "image_259e9f447e66d6.png": {
+    "classification": "formula",
+    "latex": "\\overline{PA}\\cdot \\overline{PB}=m:n",
+    "note": "線段乘積比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PA}\\\\cdot \\\\overline{PB}=m:n\",\"note\":\"線段乘積比例公式\"}\n",
+    "ts": "2026-04-29T03:26:25.746772+00:00",
+    "engine": "codex"
+  },
+  "image_26381c6aed1e3d.png": {
+    "classification": "formula",
+    "latex": "A(a)",
+    "note": "函數或集合記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(a)\",\"note\":\"函數或集合記號\"}\n",
+    "ts": "2026-04-29T03:26:26.859080+00:00",
+    "engine": "codex"
+  },
+  "image_2ff2bfcb4192d7.png": {
+    "classification": "formula",
+    "latex": "10-1.1\\times\\frac{60}{7}=\\frac{4}{7}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10-1.1\\\\times\\\\frac{60}{7}=\\\\frac{4}{7}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T03:26:29.578734+00:00",
+    "engine": "codex"
+  },
+  "image_2c00d5deffd6a5.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{38}=6\\cdots",
+    "note": "根號38約為6點多",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{38}=6\\\\cdots\",\"note\":\"根號38約為6點多\"}\n",
+    "ts": "2026-04-29T03:26:31.586872+00:00",
+    "engine": "codex"
+  },
+  "image_3131d3f6f3a070.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{38}",
+    "note": "平方根38",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{38}\",\"note\":\"平方根38\"}\n",
+    "ts": "2026-04-29T03:26:34.112055+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-04-29T03:26:34.411066+00:00",
+    "engine": "codex"
+  },
+  "image_4c4a813005a66d.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "數字12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"數字12\"}\n",
+    "ts": "2026-04-29T03:26:35.786562+00:00",
+    "engine": "codex"
+  },
+  "image_326389f492987a.png": {
+    "classification": "formula",
+    "latex": "\\left|b-\\frac{1}{2}\\right|<\\frac{1}{2}",
+    "note": "絕對值不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|b-\\\\frac{1}{2}\\\\right|<\\\\frac{1}{2}\",\"note\":\"絕對值不等式\"}\n",
+    "ts": "2026-04-29T03:26:36.141263+00:00",
+    "engine": "codex"
+  },
+  "image_503a931e48b962.png": {
+    "classification": "formula",
+    "latex": "-8",
+    "note": "負數 -8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-8\",\"note\":\"負數 -8\"}\n",
+    "ts": "2026-04-29T03:26:39.234520+00:00",
+    "engine": "codex"
+  },
+  "image_626bcc35ca8ccd.png": {
+    "classification": "formula",
+    "latex": "t+1.1t=18",
+    "note": "一元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t+1.1t=18\",\"note\":\"一元一次方程式\"}\n",
+    "ts": "2026-04-29T03:26:40.687366+00:00",
+    "engine": "codex"
+  },
+  "image_4cb18dc9df8f9e.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-29T03:26:40.830170+00:00",
+    "engine": "codex"
+  },
+  "image_5fc3f4a7712a19.png": {
+    "classification": "formula",
+    "latex": "r<\\frac{r+2s}{3}<s",
+    "note": "不等式連鎖",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r<\\\\frac{r+2s}{3}<s\",\"note\":\"不等式連鎖\"}\n",
+    "ts": "2026-04-29T03:26:40.931142+00:00",
+    "engine": "codex"
+  },
+  "image_7937c378cd096f.png": {
+    "classification": "formula",
+    "latex": "1.1",
+    "note": "章節編號或小數數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1.1\",\"note\":\"章節編號或小數數字\"}\n",
+    "ts": "2026-04-29T03:26:45.076509+00:00",
+    "engine": "codex"
+  },
+  "image_6a21b4f67c455a.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字0\"}\n",
+    "ts": "2026-04-29T03:26:45.372967+00:00",
+    "engine": "codex"
+  },
+  "image_6431d07b31556d.png": {
+    "classification": "formula",
+    "latex": "\\left|a+4\\right|",
+    "note": "絕對值式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|a+4\\\\right|\",\"note\":\"絕對值式\"}\n",
+    "ts": "2026-04-29T03:26:45.549654+00:00",
+    "engine": "codex"
+  },
+  "image_7bcf7ba33bdc54.png": {
+    "classification": "formula",
+    "latex": "t",
+    "note": "單一變數 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\",\"note\":\"單一變數 t\"}\n",
+    "ts": "2026-04-29T03:26:50.265072+00:00",
+    "engine": "codex"
+  },
+  "image_7a4ebff712752f.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{101}-5<n<\\sqrt{101}+5",
+    "note": "不等式範圍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{101}-5<n<\\\\sqrt{101}+5\",\"note\":\"不等式範圍\"}\n",
+    "ts": "2026-04-29T03:26:50.464888+00:00",
+    "engine": "codex"
+  },
+  "image_81c4b59bfc47f7.png": {
+    "classification": "formula",
+    "latex": "\\frac{r+s}{3}<s",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{r+s}{3}<s\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-29T03:26:51.642658+00:00",
+    "engine": "codex"
+  },
+  "image_78de1a14a60493.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T03:26:51.776119+00:00",
+    "engine": "codex"
+  },
+  "image_83f9c54241f588.png": {
+    "classification": "formula",
+    "latex": "c=\\frac{r+5s}{6}",
+    "note": "純代數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\frac{r+5s}{6}\",\"note\":\"純代數公式\"}\n",
+    "ts": "2026-04-29T03:26:55.399472+00:00",
+    "engine": "codex"
+  },
+  "image_9308730d5cf3d3.png": {
+    "classification": "formula",
+    "latex": "\\frac{r+2s}{3}<s",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{r+2s}{3}<s\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-29T03:26:56.215433+00:00",
+    "engine": "codex"
+  },
+  "image_85ba92e85b075e.png": {
+    "classification": "formula",
+    "latex": "a=2",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=2\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:26:57.014267+00:00",
+    "engine": "codex"
+  },
+  "image_9968a3589130f4.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線上標示a到b的五等分點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線上標示a到b的五等分點\"}\n",
+    "ts": "2026-04-29T03:26:58.751409+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字1\"}\n",
+    "ts": "2026-04-29T03:27:01.368034+00:00",
+    "engine": "codex"
+  },
+  "image_a19a1080021594.png": {
+    "classification": "formula",
+    "latex": "r<\\frac{r+s}{3}",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"r<\\\\frac{r+s}{3}\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-29T03:27:03.115573+00:00",
+    "engine": "codex"
+  },
+  "image_a834eddcd878b6.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "數線上點a,b,x與線段長m,n的示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"數線上點a,b,x與線段長m,n的示意圖\"}\n",
+    "ts": "2026-04-29T03:27:03.936986+00:00",
+    "engine": "codex"
+  },
+  "image_ad79ed9dbeb80d.png": {
+    "classification": "formula",
+    "latex": "\\overline{RS}",
+    "note": "線段RS",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\overline{RS}\",\"note\":\"線段RS\"}\n",
+    "ts": "2026-04-29T03:27:07.478729+00:00",
+    "engine": "codex"
+  },
+  "image_ad9c979d13d056.png": {
+    "classification": "formula",
+    "latex": "a=\\frac{2r+s}{3}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\frac{2r+s}{3}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T03:27:08.347793+00:00",
+    "engine": "codex"
+  },
+  "image_b3930675e40f56.png": {
+    "classification": "formula",
+    "latex": "\\frac{a+4b}{5}",
+    "note": "分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a+4b}{5}\",\"note\":\"分式代數式\"}\n",
+    "ts": "2026-04-29T03:27:10.960252+00:00",
+    "engine": "codex"
+  },
+  "image_bd000d8ce3a55f.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{101}=10\\cdots",
+    "note": "根號101約為10點多",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{101}=10\\\\cdots\",\"note\":\"根號101約為10點多\"}\n",
+    "ts": "2026-04-29T03:27:13.652176+00:00",
+    "engine": "codex"
+  },
+  "image_ba3af1eb98f923.png": {
+    "classification": "formula",
+    "latex": "\\left|1-x\\right| \\le 3",
+    "note": "絕對值不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|1-x\\\\right| \\\\le 3\",\"note\":\"絕對值不等式\"}\n",
+    "ts": "2026-04-29T03:27:14.759231+00:00",
+    "engine": "codex"
+  },
+  "image_a807c40ab303fe.png": {
+    "classification": "formula",
+    "latex": "t=\\frac{18}{2.1}=\\frac{60}{7}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=\\\\frac{18}{2.1}=\\\\frac{60}{7}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T03:27:17.225196+00:00",
+    "engine": "codex"
+  },
+  "image_bf01e50fd37807.png": {
+    "classification": "formula",
+    "latex": "s-\\left(\\frac{r+2s}{3}\\right)=\\frac{3s-r-2s}{3}=\\frac{s-r}{3}>0",
+    "note": "純數學不等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"s-\\\\left(\\\\frac{r+2s}{3}\\\\right)=\\\\frac{3s-r-2s}{3}=\\\\frac{s-r}{3}>0\",\"note\":\"純數學不等式化簡\"}\n",
+    "ts": "2026-04-29T03:27:17.737314+00:00",
+    "engine": "codex"
+  },
+  "image_c15bd18c415fc4.png": {
+    "classification": "formula",
+    "latex": "b-\\frac{1}{2}",
+    "note": "純數學式：b 減二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b-\\\\frac{1}{2}\",\"note\":\"純數學式：b 減二分之一\"}\n",
+    "ts": "2026-04-29T03:27:19.810715+00:00",
+    "engine": "codex"
+  },
+  "image_bf80b3f1ac3a24.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{r+2s}{3}\\right)-r=\\frac{r+2s-3r}{3}=\\frac{2(s-r)}{3}>0",
+    "note": "純數學不等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{r+2s}{3}\\\\right)-r=\\\\frac{r+2s-3r}{3}=\\\\frac{2(s-r)}{3}>0\",\"note\":\"純數學不等式推導\"}\n",
+    "ts": "2026-04-29T03:27:20.618949+00:00",
+    "engine": "codex"
+  },
+  "image_c56726cefee894.png": {
+    "classification": "formula",
+    "latex": "b=\\frac{r+s}{2}",
+    "note": "代數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\frac{r+s}{2}\",\"note\":\"代數公式\"}\n",
+    "ts": "2026-04-29T03:27:22.808492+00:00",
+    "engine": "codex"
+  },
+  "image_cc1277ec6dc035.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "線段ab上有點x，弧線標示m與n，右端箭頭",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"線段ab上有點x，弧線標示m與n，右端箭頭\"}\n",
+    "ts": "2026-04-29T03:27:23.520365+00:00",
+    "engine": "codex"
+  },
+  "image_d6308fbb5e58b3.png": {
+    "classification": "formula",
+    "latex": "\\frac{2a+b}{3}>\\frac{a+2b}{3}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2a+b}{3}>\\\\frac{a+2b}{3}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:27:26.234746+00:00",
+    "engine": "codex"
+  },
+  "image_d36e7cbdd33d85.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{mb-na}{m-n}",
+    "note": "純代數分式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{mb-na}{m-n}\",\"note\":\"純代數分式公式\"}\n",
+    "ts": "2026-04-29T03:27:26.270260+00:00",
+    "engine": "codex"
+  },
+  "image_d9c089f904ed7e.png": {
+    "classification": "formula",
+    "latex": "-2",
+    "note": "負二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\",\"note\":\"負二\"}\n",
+    "ts": "2026-04-29T03:27:29.603506+00:00",
+    "engine": "codex"
+  },
+  "image_e039a2c4b96992.png": {
+    "classification": "formula",
+    "latex": "\\overline{RC}:\\overline{CS}=5:1",
+    "note": "線段比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{RC}:\\\\overline{CS}=5:1\",\"note\":\"線段比例式\"}\n",
+    "ts": "2026-04-29T03:27:30.871220+00:00",
+    "engine": "codex"
+  },
+  "image_e24a15c52493ab.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T03:27:31.156795+00:00",
+    "engine": "codex"
+  },
+  "image_e2f3b8af2d944a.png": {
+    "classification": "formula",
+    "latex": "\\frac{2a+3b}{5}",
+    "note": "代數分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2a+3b}{5}\",\"note\":\"代數分式\"}\n",
+    "ts": "2026-04-29T03:27:31.409242+00:00",
+    "engine": "codex"
+  },
+  "image_e58edd2e3712c8.png": {
+    "classification": "formula",
+    "latex": "n < \\sqrt{38}-3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n < \\\\sqrt{38}-3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:27:35.844423+00:00",
+    "engine": "codex"
+  },
+  "image_e92d59b8c25c41.png": {
+    "classification": "formula",
+    "latex": "\\frac{3a+2b}{5}",
+    "note": "分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3a+2b}{5}\",\"note\":\"分式代數式\"}\n",
+    "ts": "2026-04-29T03:27:36.030023+00:00",
+    "engine": "codex"
+  },
+  "image_e37d050a0fef37.png": {
+    "classification": "formula",
+    "latex": "n>\\sqrt{38}+3",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n>\\\\sqrt{38}+3\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:27:37.457758+00:00",
+    "engine": "codex"
+  },
+  "image_e4cc1f2943c541.png": {
+    "classification": "formula",
+    "latex": "a < b",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a < b\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T03:27:40.096715+00:00",
+    "engine": "codex"
+  },
+  "image_edba3eaf48fc15.png": {
+    "classification": "formula",
+    "latex": "\\frac{2a+b}{3}-\\frac{a+2b}{3}=\\frac{a-b}{3}<0",
+    "note": "純代數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2a+b}{3}-\\\\frac{a+2b}{3}=\\\\frac{a-b}{3}<0\",\"note\":\"純代數不等式\"}\n",
+    "ts": "2026-04-29T03:27:42.362851+00:00",
+    "engine": "codex"
+  },
+  "image_edec2156fd10fc.png": {
+    "classification": "formula",
+    "latex": "\\frac{r+s}{3}=\\frac{1+2}{3}=1",
+    "note": "平均值代入計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{r+s}{3}=\\\\frac{1+2}{3}=1\",\"note\":\"平均值代入計算\"}\n",
+    "ts": "2026-04-29T03:27:43.568779+00:00",
+    "engine": "codex"
+  },
+  "image_f7eca5b40d9712.png": {
+    "classification": "formula",
+    "latex": "x=\\frac{mb+na}{m-n}",
+    "note": "分式代數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=\\\\frac{mb+na}{m-n}\",\"note\":\"分式代數表達式\"}\n",
+    "ts": "2026-04-29T03:27:44.883422+00:00",
+    "engine": "codex"
+  },
+  "image_f6fb8d98b57d51.png": {
+    "classification": "formula",
+    "latex": "\\overline{RB} : \\overline{BS} = 1 : 1",
+    "note": "線段 RB 與 BS 的比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{RB} : \\\\overline{BS} = 1 : 1\",\"note\":\"線段 RB 與 BS 的比例式\"}\n",
+    "ts": "2026-04-29T03:27:44.949397+00:00",
+    "engine": "codex"
+  },
+  "image_fbca3549896c20.png": {
+    "classification": "formula",
+    "latex": "\\left|x-1\\right|\\le 3",
+    "note": "絕對值不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|x-1\\\\right|\\\\le 3\",\"note\":\"絕對值不等式\"}\n",
+    "ts": "2026-04-29T03:27:47.759062+00:00",
+    "engine": "codex"
+  }
+}

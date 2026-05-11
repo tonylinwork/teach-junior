@@ -1,0 +1,730 @@
+{
+  "image_10ae39514531df.png": {
+    "classification": "formula",
+    "latex": "60",
+    "note": "數字 60",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60\",\"note\":\"數字 60\"}\n",
+    "ts": "2026-04-26T13:34:17.662942+00:00"
+  },
+  "image_09e10509969349.png": {
+    "classification": "formula",
+    "latex": "p_1 : p_2 : p_3 : p_4 = \\frac{1}{1} : \\frac{1}{2} : \\frac{1}{3} : \\frac{1}{4} = 12 : 6 : 4 : 3",
+    "note": "機率比例的連比計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_1 : p_2 : p_3 : p_4 = \\\\frac{1}{1} : \\\\frac{1}{2} : \\\\frac{1}{3} : \\\\frac{1}{4} = 12 : 6 : 4 : 3\",\"note\":\"機率比例的連比計算\"}\n",
+    "ts": "2026-04-26T13:34:29.990447+00:00"
+  },
+  "image_157887d71fdd37.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數三分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數三分之二\"}\n",
+    "ts": "2026-04-26T13:34:34.026748+00:00"
+  },
+  "image_0ad1f1ad5272bf.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_3^6 \\times 4! \\times 3!}{P_7^7} = \\frac{20}{35}",
+    "note": "機率計算公式，包含組合與階乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\\\frac{C_3^6 \\\\times 4! \\\\times 3!}{P_7^7} = \\\\frac{20}{35}\",\"note\":\"機率計算公式，包含組合與階乘\"}\n",
+    "ts": "2026-04-26T13:34:40.718252+00:00"
+  },
+  "image_17568937bbdeed.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{25}",
+    "note": "分數 3/25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{3}{25}\",\"note\":\"分數 3/25\"}\n",
+    "ts": "2026-04-26T13:34:43.359207+00:00"
+  },
+  "image_009ee86933fdbc.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率分佈表格，列出獎金與其對應的機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率分佈表格，列出獎金與其對應的機率\"}\n",
+    "ts": "2026-04-26T13:34:46.087025+00:00"
+  },
+  "image_23209c30ae040e.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "排列組合示意圖，包含 3R1W 與 R 的標記",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"排列組合示意圖，包含 3R1W 與 R 的標記\"}\n",
+    "ts": "2026-04-26T13:34:53.179217+00:00"
+  },
+  "image_269190ad14b5aa.png": {
+    "classification": "formula",
+    "latex": "p_3 = \\frac{4}{25}",
+    "note": "機率 p_3 的數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_3 = \\\\frac{4}{25}\",\"note\":\"機率 p_3 的數值\"}\n",
+    "ts": "2026-04-26T13:34:56.908490+00:00"
+  },
+  "image_299bd1749889ef.png": {
+    "classification": "formula",
+    "latex": "\\frac{6 \\times 5 \\times 4}{216} \\times 3 = \\frac{5}{3}",
+    "note": "乘法與分數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{6 \\times 5 \\times 4}{216} \\times 3 = \\frac{5}{3}\",\"note\":\"乘法與分數運算\"}\n",
+    "ts": "2026-04-26T13:35:00.100495+00:00"
+  },
+  "image_215122b1014453.png": {
+    "classification": "formula",
+    "latex": "p = \\frac{C_1^1 \\times C_2^4 + C_1^2 \\times C_1^3 \\times C_1^4}{C_3^{10}} = \\frac{6+24}{120} = \\frac{30}{120} = \\frac{1}{4} = 0.25 > 0.2",
+    "note": "機率計算過程，包含組合數運算與分式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p = \\\\frac{C_1^1 \\\\times C_2^4 + C_1^2 \\\\times C_1^3 \\\\times C_1^4}{C_3^{10}} = \\\\frac{6+24}{120} = \\\\frac{30}{120} = \\\\frac{1}{4} = 0.25 > 0.2\",\"note\":\"機率計算過程，包含組合數運算與分式化簡\"}\n",
+    "ts": "2026-04-26T13:35:03.669715+00:00"
+  },
+  "image_2bdf7545fca190.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "排列組合示意圖，包含虛線位置及3R2W、R標記",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"排列組合示意圖，包含虛線位置及3R2W、R標記\"}\n",
+    "ts": "2026-04-26T13:35:05.977481+00:00"
+  },
+  "image_2cc04cb7882b3a.png": {
+    "classification": "formula",
+    "latex": "30",
+    "note": "數字 30",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30\",\"note\":\"數字 30\"}\n",
+    "ts": "2026-04-26T13:35:06.872601+00:00"
+  },
+  "image_2d7eafe35fcafc.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字 3\"}\n",
+    "ts": "2026-04-26T13:35:09.712755+00:00"
+  },
+  "image_30441e176f8ffa.png": {
+    "classification": "formula",
+    "latex": "390",
+    "note": "數字 390",
+    "raw": "{\"class\":\"formula\",\"latex\":\"390\",\"note\":\"數字 390\"}\n",
+    "ts": "2026-04-26T13:35:13.144368+00:00"
+  },
+  "image_30df2fd6bc8908.png": {
+    "classification": "formula",
+    "latex": "= 216 \\times \\frac{75}{216} + 432 \\times \\frac{15}{216} + 648 \\times \\frac{1}{216} = 75 + 30 + 3 = 108",
+    "note": "計算期望值的過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 216 \\\\times \\\\frac{75}{216} + 432 \\\\times \\\\frac{15}{216} + 648 \\\\times \\\\frac{1}{216} = 75 + 30 + 3 = 108\",\"note\":\"計算期望值的過程\"}\n",
+    "ts": "2026-04-26T13:35:19.335500+00:00"
+  },
+  "image_3075d085e45e24.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{27}",
+    "note": "分數 1/27",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{27}\",\"note\":\"分數 1/27\"}\n",
+    "ts": "2026-04-26T13:35:23.123623+00:00"
+  },
+  "image_318de43eaab36d.png": {
+    "classification": "formula",
+    "latex": "\\frac{C^3_2 \\times 5}{6^3} = \\frac{15}{216}",
+    "note": "組合與機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C^3_2 \\\\times 5}{6^3} = \\\\frac{15}{216}\",\"note\":\"組合與機率計算式\"}\n",
+    "ts": "2026-04-26T13:35:31.600792+00:00"
+  },
+  "image_328e8afbaf9d35.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數1/4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數1/4\"}\n",
+    "ts": "2026-04-26T13:35:32.010871+00:00"
+  },
+  "image_37bac2fc709bac.png": {
+    "classification": "formula",
+    "latex": "p_1 = \\frac{12}{25}",
+    "note": "p_1 等於二十五分之十二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_1 = \\frac{12}{25}\",\"note\":\"p_1 等於二十五分之十二\"}\n",
+    "ts": "2026-04-26T13:35:36.912475+00:00"
+  },
+  "image_347f383be302e8.png": {
+    "classification": "formula",
+    "latex": "\\frac{130}{3} \\times 3 = 130",
+    "note": "乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{130}{3} \\times 3 = 130\",\"note\":\"乘法等式\"}\n",
+    "ts": "2026-04-26T13:35:37.938895+00:00"
+  },
+  "image_3c5dfcd357948d.png": {
+    "classification": "formula",
+    "latex": "40",
+    "note": "數字 40",
+    "raw": "{\"class\":\"formula\",\"latex\":\"40\",\"note\":\"數字 40\"}\n",
+    "ts": "2026-04-26T13:35:42.929023+00:00"
+  },
+  "image_390e7b1b60d704.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}+\\frac{15}{4}+\\frac{5}{3}=\\frac{71}{12}",
+    "note": "分數加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{2}+\\frac{15}{4}+\\frac{5}{3}=\\frac{71}{12}\",\"note\":\"分數加法等式\"}\n",
+    "ts": "2026-04-26T13:35:48.201626+00:00"
+  },
+  "image_440ec9738fb8ed.png": {
+    "classification": "formula",
+    "latex": "65",
+    "note": "數字 65",
+    "raw": "{\"class\":\"formula\",\"latex\":\"65\",\"note\":\"數字 65\"}\n",
+    "ts": "2026-04-26T13:35:48.315810+00:00"
+  },
+  "image_42266e72a40a1e.png": {
+    "classification": "formula",
+    "latex": "\\frac{8}{9}",
+    "note": "分數8/9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{8}{9}\",\"note\":\"分數8/9\"}\n",
+    "ts": "2026-04-26T13:35:51.974704+00:00"
+  },
+  "image_4c4a813005a66d.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "數字12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"數字12\"}\n",
+    "ts": "2026-04-26T13:35:52.896654+00:00"
+  },
+  "image_54a3427156269a.png": {
+    "classification": "formula",
+    "latex": "\\frac{96}{25}",
+    "note": "分式 96/25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{96}{25}\",\"note\":\"分式 96/25\"}\n",
+    "ts": "2026-04-26T13:35:58.137374+00:00"
+  },
+  "image_513d8636808f9b.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{3}",
+    "note": "分數 7/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{7}{3}\",\"note\":\"分數 7/3\"}\n",
+    "ts": "2026-04-26T13:36:00.092496+00:00"
+  },
+  "image_59e02ce08bd30d.png": {
+    "classification": "formula",
+    "latex": "p_2 = \\frac{6}{25}",
+    "note": "p_2 等於二十五分之六",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_2 = \\frac{6}{25}\",\"note\":\"p_2 等於二十五分之六\"}\n",
+    "ts": "2026-04-26T13:36:02.658046+00:00"
+  },
+  "image_5706e508cdac98.png": {
+    "classification": "formula",
+    "latex": "18",
+    "note": "數字18",
+    "raw": "{\"class\":\"formula\",\"latex\":\"18\",\"note\":\"數字18\"}\n",
+    "ts": "2026-04-26T13:36:03.283603+00:00"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字 9\"}\n",
+    "ts": "2026-04-26T13:36:09.497755+00:00"
+  },
+  "image_5daecdead53371.png": {
+    "classification": "formula",
+    "latex": "\\frac{8}{3}",
+    "note": "分數 8/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{8}{3}\",\"note\":\"分數 8/3\"}\n",
+    "ts": "2026-04-26T13:36:12.339145+00:00"
+  },
+  "image_5afe012a614f27.png": {
+    "classification": "formula",
+    "latex": "= \\frac{390}{9} = \\frac{130}{3}",
+    "note": "等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\frac{390}{9} = \\frac{130}{3}\",\"note\":\"等式化簡\"}\n",
+    "ts": "2026-04-26T13:36:13.636899+00:00"
+  },
+  "image_63da523c7f7599.png": {
+    "classification": "formula",
+    "latex": "100",
+    "note": "數字 100",
+    "raw": "{\"class\":\"formula\",\"latex\":\"100\",\"note\":\"數字 100\"}\n",
+    "ts": "2026-04-26T13:36:19.581546+00:00"
+  },
+  "image_671eff98970ec7.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{8}",
+    "note": "分數 1/8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{8}\",\"note\":\"分數 1/8\"}\n",
+    "ts": "2026-04-26T13:36:21.616916+00:00"
+  },
+  "image_6b38cf40936109.png": {
+    "classification": "formula",
+    "latex": "+\\frac{3}{8} \\times 20",
+    "note": "正八分之三乘以二十",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\\\\frac{3}{8} \\\\times 20\",\"note\":\"正八分之三乘以二十\"}\n",
+    "ts": "2026-04-26T13:36:30.580780+00:00"
+  },
+  "image_6370624e14b67c.png": {
+    "classification": "formula",
+    "latex": "E = 2 \\times \\frac{2}{6} + 3 \\times \\frac{4}{6} = \\frac{8}{3}",
+    "note": "期望值計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = 2 \\times \\frac{2}{6} + 3 \\times \\frac{4}{6} = \\frac{8}{3}\",\"note\":\"期望值計算公式\"}\n",
+    "ts": "2026-04-26T13:36:31.628399+00:00"
+  },
+  "image_6ffdd24ec6a38e.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_{1}^{3}C_{2}^{2}\\times 3!}{3^{3}}=\\frac{18}{27}=\\frac{2}{3}",
+    "note": "組合數與機率計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_{1}^{3}C_{2}^{2}\\\\times 3!}{3^{3}}=\\\\frac{18}{27}=\\\\frac{2}{3}\",\"note\":\"組合數與機率計算過程\"}\n",
+    "ts": "2026-04-26T13:36:40.441864+00:00"
+  },
+  "image_71d758731433a0.png": {
+    "classification": "formula",
+    "latex": "E(1) = \\frac{2}{9} \\times 100 + \\frac{3}{9} \\times 50 + \\frac{4}{9} \\times 10",
+    "note": "期望值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E(1) = \\\\frac{2}{9} \\\\times 100 + \\\\frac{3}{9} \\\\times 50 + \\\\frac{4}{9} \\\\times 10\",\"note\":\"期望值計算式\"}\n",
+    "ts": "2026-04-26T13:36:45.079418+00:00"
+  },
+  "image_6b67a291793db5.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_3^5 \\times 4! \\times P_2^3}{P_6^7} = \\frac{10}{35}",
+    "note": "機率與排列組合運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\\\frac{C_3^5 \\\\times 4! \\\\times P_2^3}{P_6^7} = \\\\frac{10}{35}\",\"note\":\"機率與排列組合運算式\"}\n",
+    "ts": "2026-04-26T13:36:49.331319+00:00"
+  },
+  "image_722dd84817863e.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{4}",
+    "note": "5/4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{5}{4}\",\"note\":\"5/4\"}\n",
+    "ts": "2026-04-26T13:36:49.961793+00:00"
+  },
+  "image_73c6f97b77e8b0.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "排列組合示意圖，包含 3R3W 標籤與右側 R 標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"排列組合示意圖，包含 3R3W 標籤與右側 R 標記\"}\n",
+    "ts": "2026-04-26T13:36:51.770347+00:00"
+  },
+  "image_78de1a14a60493.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "數字10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"數字10\"}\n",
+    "ts": "2026-04-26T13:37:00.874814+00:00"
+  },
+  "image_78f2d3d39cbd27.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{9}",
+    "note": "分數九分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{2}{9}\",\"note\":\"分數九分之二\"}\n",
+    "ts": "2026-04-26T13:37:05.590387+00:00"
+  },
+  "image_787355c7ca35e0.png": {
+    "classification": "formula",
+    "latex": "= 0 \\times \\frac{2}{9} + 1 \\times \\frac{2}{3} + 2 \\times \\frac{1}{9} + 3 \\times 0 = \\frac{8}{9}",
+    "note": "期望值計算算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 0 \\\\times \\\\frac{2}{9} + 1 \\\\times \\\\frac{2}{3} + 2 \\\\times \\\\frac{1}{9} + 3 \\\\times 0 = \\\\frac{8}{9}\",\"note\":\"期望值計算算式\"}\n",
+    "ts": "2026-04-26T13:37:05.617095+00:00"
+  },
+  "image_7719f63b9f26ae.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_1^2 \\times C_1^2 \\times C_1^2}{C_3^6} = \\frac{4}{10}",
+    "note": "機率計算式，包含組合數 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\frac{C_1^2 \\times C_1^2 \\times C_1^2}{C_3^6} = \\frac{4}{10}\",\"note\":\"機率計算式，包含組合數 C\"}\n",
+    "ts": "2026-04-26T13:37:06.744490+00:00"
+  },
+  "image_7f7ab32f38332d.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_1^2 \\times C_2^2}{C_3^6} = \\frac{2}{20} = \\frac{1}{10} = 0.1",
+    "note": "機率與組合數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\frac{C_1^2 \\times C_2^2}{C_3^6} = \\frac{2}{20} = \\frac{1}{10} = 0.1\",\"note\":\"機率與組合數計算\"}\n",
+    "ts": "2026-04-26T13:37:18.448818+00:00"
+  },
+  "image_7f6b3fea497c57.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三位數與長度的對照表格",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三位數與長度的對照表格\"}\n",
+    "ts": "2026-04-26T13:37:19.647383+00:00"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字 2\"}\n",
+    "ts": "2026-04-26T13:37:22.260840+00:00"
+  },
+  "image_7c341ff2cd18c9.png": {
+    "classification": "formula",
+    "latex": "= 10 \\times \\frac{1}{36} + 20 \\times \\frac{1}{36} + 30 \\times \\frac{1}{36} + 40 \\times \\frac{1}{36} + 50 \\times \\frac{1}{36} + 60 \\times \\frac{1}{36} + (-x) \\times \\frac{30}{36} = 0",
+    "note": "機率期望值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 10 \\times \\frac{1}{36} + 20 \\times \\frac{1}{36} + 30 \\times \\frac{1}{36} + 40 \\times \\frac{1}{36} + 50 \\times \\frac{1}{36} + 60 \\times \\frac{1}{36} + (-x) \\times \\frac{30}{36} = 0\",\"note\":\"機率期望值計算式\"}\n",
+    "ts": "2026-04-26T13:37:22.561359+00:00"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "數字 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"數字 4\"}\n",
+    "ts": "2026-04-26T13:37:28.332728+00:00"
+  },
+  "image_8402d05322b15b.png": {
+    "classification": "formula",
+    "latex": "100",
+    "note": "數字100",
+    "raw": "{\"class\":\"formula\",\"latex\":\"100\",\"note\":\"數字100\"}\n",
+    "ts": "2026-04-26T13:37:28.886869+00:00"
+  },
+  "image_8cdb37d13a7a07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數1/2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{2}\",\"note\":\"分數1/2\"}\n",
+    "ts": "2026-04-26T13:37:39.471140+00:00"
+  },
+  "image_8f75054c59da32.png": {
+    "classification": "formula",
+    "latex": "12k + 6k + 4k + 3k = 1 \\implies k = \\frac{1}{25}",
+    "note": "解方程式求k的值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12k + 6k + 4k + 3k = 1 \\implies k = \\frac{1}{25}\",\"note\":\"解方程式求k的值\"}\n",
+    "ts": "2026-04-26T13:37:45.372675+00:00"
+  },
+  "image_9177f385af6740.png": {
+    "classification": "formula",
+    "latex": "=\\frac{700}{10} \\times 3 = 210",
+    "note": "數學算式：700/10 乘以 3 等於 210",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{700}{10} \\\\times 3 = 210\",\"note\":\"數學算式：700/10 乘以 3 等於 210\"}\n",
+    "ts": "2026-04-26T13:37:45.580851+00:00"
+  },
+  "image_86a416ed24bf40.png": {
+    "classification": "formula",
+    "latex": "E = \\frac{1000 \\times 1 + 500 \\times 2 + 100 \\times 3 - 400 \\times 4}{10} \\times 3 = \\frac{1000 + 1000 + 300 - 1600}{10} \\times 3",
+    "note": "期望值計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = \\\\frac{1000 \\\\times 1 + 500 \\\\times 2 + 100 \\\\times 3 - 400 \\\\times 4}{10} \\\\times 3 = \\\\frac{1000 + 1000 + 300 - 1600}{10} \\\\times 3\",\"note\":\"期望值計算過程\"}\n",
+    "ts": "2026-04-26T13:37:47.121455+00:00"
+  },
+  "image_9966b40f036df4.png": {
+    "classification": "formula",
+    "latex": "E = 4 \\times \\frac{1}{10} + 5 \\times \\frac{2}{10} + 6 \\times \\frac{4}{10} + 7 \\times \\frac{2}{10} + 8 \\times \\frac{1}{10} = \\frac{4+10+24+14+8}{10} = 6",
+    "note": "期望值計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = 4 \\times \\frac{1}{10} + 5 \\times \\frac{2}{10} + 6 \\times \\frac{4}{10} + 7 \\times \\frac{2}{10} + 8 \\times \\frac{1}{10} = \\frac{4+10+24+14+8}{10} = 6\",\"note\":\"期望值計算過程\"}\n",
+    "ts": "2026-04-26T13:37:51.626221+00:00"
+  },
+  "image_9d40f812ebfc33.png": {
+    "classification": "formula",
+    "latex": "50",
+    "note": "數字50",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50\",\"note\":\"數字50\"}\n",
+    "ts": "2026-04-26T13:37:55.555694+00:00"
+  },
+  "image_9d16edf8f4b479.png": {
+    "classification": "formula",
+    "latex": "2 \\times \\frac{48}{25} = \\frac{96}{25}",
+    "note": "分數乘法運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2 \\times \\frac{48}{25} = \\frac{96}{25}\",\"note\":\"分數乘法運算式\"}\n",
+    "ts": "2026-04-26T13:37:55.933874+00:00"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "數字 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"數字 6\"}\n",
+    "ts": "2026-04-26T13:38:05.093075+00:00"
+  },
+  "image_9f6250911d1b1f.png": {
+    "classification": "formula",
+    "latex": "1 \\times \\frac{12}{25} + 2 \\times \\frac{6}{25} + 3 \\times \\frac{4}{25} + 4 \\times \\frac{3}{25} = \\frac{48}{25}",
+    "note": "包含分數乘法與加法的期望值計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1 \\times \\frac{12}{25} + 2 \\times \\frac{6}{25} + 3 \\times \\frac{4}{25} + 4 \\times \\frac{3}{25} = \\frac{48}{25}\",\"note\":\"包含分數乘法與加法的期望值計算式\"}\n",
+    "ts": "2026-04-26T13:38:07.030326+00:00"
+  },
+  "image_a0684f1fca4e89.png": {
+    "classification": "formula",
+    "latex": "\\frac{75}{216}",
+    "note": "分數 75/216",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{75}{216}\",\"note\":\"分數 75/216\"}\n",
+    "ts": "2026-04-26T13:38:09.106408+00:00"
+  },
+  "image_9e5cbf01ca8278.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_1^3 C_1^2 C_1^1}{3^3} = \\frac{6}{27} = \\frac{2}{9}",
+    "note": "組合機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_1^3 C_1^2 C_1^1}{3^3} = \\\\frac{6}{27} = \\\\frac{2}{9}\",\"note\":\"組合機率計算式\"}\n",
+    "ts": "2026-04-26T13:38:10.141913+00:00"
+  },
+  "image_a185f0c7bd30d2.png": {
+    "classification": "formula",
+    "latex": "E = 100 \\times \\frac{C_1^3 \\times C_1^3}{C_2^6} = 60",
+    "note": "期望值計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = 100 \\times \\frac{C_1^3 \\times C_1^3}{C_2^6} = 60\",\"note\":\"期望值計算公式\"}\n",
+    "ts": "2026-04-26T13:38:19.142755+00:00"
+  },
+  "image_a2c392926f2b10.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{3}",
+    "note": "分數 10/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{10}{3}\",\"note\":\"分數 10/3\"}\n",
+    "ts": "2026-04-26T13:38:20.474432+00:00"
+  },
+  "image_a40cccd3ccd48f.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{1}{8}",
+    "note": "機率 P = 1/8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\frac{1}{8}\",\"note\":\"機率 P = 1/8\"}\n",
+    "ts": "2026-04-26T13:38:23.897679+00:00"
+  },
+  "image_ac4bfa9953e053.png": {
+    "classification": "formula",
+    "latex": "E = \\frac{1}{8} \\times 30",
+    "note": "數學公式：E = 1/8 * 30",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E = \\\\frac{1}{8} \\\\times 30\",\"note\":\"數學公式：E = 1/8 * 30\"}\n",
+    "ts": "2026-04-26T13:38:25.883353+00:00"
+  },
+  "image_b3680d62f90948.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_2^2 C_1^2}{C_3^6} = \\frac{2}{20} = \\frac{1}{10} = 0.1",
+    "note": "機率計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\frac{C_2^2 C_1^2}{C_3^6} = \\frac{2}{20} = \\frac{1}{10} = 0.1\",\"note\":\"機率計算過程\"}\n",
+    "ts": "2026-04-26T13:38:36.915386+00:00"
+  },
+  "image_b6ffd966ab4aa6.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{4 \\times 3 \\times 2 \\times 1}{7 \\times 6 \\times 5 \\times 4} = \\frac{1}{35}",
+    "note": "機率計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\\\frac{4 \\\\times 3 \\\\times 2 \\\\times 1}{7 \\\\times 6 \\\\times 5 \\\\times 4} = \\\\frac{1}{35}\",\"note\":\"機率計算過程\"}\n",
+    "ts": "2026-04-26T13:38:40.858209+00:00"
+  },
+  "image_b219985f6fd6a8.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_2^2 \\times C_1^2 \\times 2}{C_3^6} = \\frac{2}{10}",
+    "note": "機率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\frac{C_2^2 \\times C_1^2 \\times 2}{C_3^6} = \\frac{2}{10}\",\"note\":\"機率計算公式\"}\n",
+    "ts": "2026-04-26T13:38:41.701104+00:00"
+  },
+  "image_b3968b4bf33aff.png": {
+    "classification": "formula",
+    "latex": "\\frac{3^3 - C^3_1 \\times 2^3 + C^3_2 \\times 1^3 - C^3_3 \\times 0^3}{3^3} = \\frac{27 - 24 + 3}{3^3} = \\frac{6}{27} = \\frac{2}{9}",
+    "note": "組合數與次方運算的計算與化簡過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3^3 - C^3_1 \\\\times 2^3 + C^3_2 \\\\times 1^3 - C^3_3 \\\\times 0^3}{3^3} = \\\\frac{27 - 24 + 3}{3^3} = \\\\frac{6}{27} = \\\\frac{2}{9}\",\"note\":\"組合數與次方運算的計算與化簡過程\"}\n",
+    "ts": "2026-04-26T13:38:49.461739+00:00"
+  },
+  "image_b7bbd17d4b94cf.png": {
+    "classification": "formula",
+    "latex": "E(1) = \\frac{1}{2} \\times 1 = \\frac{1}{2}",
+    "note": "期望值計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E(1) = \\frac{1}{2} \\times 1 = \\frac{1}{2}\",\"note\":\"期望值計算公式\"}\n",
+    "ts": "2026-04-26T13:38:49.554084+00:00"
+  },
+  "image_bcf897e596bb41.png": {
+    "classification": "formula",
+    "latex": "50",
+    "note": "數字 50",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50\",\"note\":\"數字 50\"}\n",
+    "ts": "2026-04-26T13:38:59.649713+00:00"
+  },
+  "image_bf63ceabca49d0.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "號碼和與機率分佈對照表",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"號碼和與機率分佈對照表\"}\n",
+    "ts": "2026-04-26T13:39:05.696928+00:00"
+  },
+  "image_bfbbecbdce05a8.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字3\"}\n",
+    "ts": "2026-04-26T13:39:09.416498+00:00"
+  },
+  "image_c07376ea3eba5f.png": {
+    "classification": "formula",
+    "latex": "130",
+    "note": "數字130",
+    "raw": "{\"class\":\"formula\",\"latex\":\"130\",\"note\":\"數字130\"}\n",
+    "ts": "2026-04-26T13:39:16.753924+00:00"
+  },
+  "image_bb4d96ef7556a6.png": {
+    "classification": "formula",
+    "latex": "\\{(\\text{正正反}),(\\text{正反正}),(\\text{反正正})\\}",
+    "note": "二正一反的事件集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\{(\\\\text{正正反}),(\\\\text{正反正}),(\\\\text{反正正})\\\\}\",\"note\":\"二正一反的事件集合\"}\n",
+    "ts": "2026-04-26T13:39:17.634636+00:00"
+  },
+  "image_b971ae742b9a41.png": {
+    "classification": "formula",
+    "latex": "\\begin{array}{c|c|c|c} \\text{金額} & 216 & 432 & 648 \\\\ \\hline \\text{機率} & \\frac{75}{216} & \\frac{15}{216} & \\frac{1}{216} \\end{array}",
+    "note": "金額與機率的對應表格",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{array}{c|c|c|c} \\\\text{金額} & 216 & 432 & 648 \\\\\\\\ \\\\hline \\\\text{機率} & \\\\frac{75}{216} & \\\\frac{15}{216} & \\\\frac{1}{216} \\\\end{array}\",\"note\":\"金額與機率的對應表格\"}\n",
+    "ts": "2026-04-26T13:39:19.546816+00:00"
+  },
+  "image_c082f1e419275f.png": {
+    "classification": "formula",
+    "latex": "\\frac{5^3}{6^3} = \\frac{125}{216}",
+    "note": "分數指數冪運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{5^3}{6^3} = \\frac{125}{216}\",\"note\":\"分數指數冪運算等式\"}\n",
+    "ts": "2026-04-26T13:39:25.355579+00:00"
+  },
+  "image_c99b56b404cf32.png": {
+    "classification": "formula",
+    "latex": "=\\frac{8}{9}",
+    "note": "等於九分之八",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{8}{9}\",\"note\":\"等於九分之八\"}\n",
+    "ts": "2026-04-26T13:39:28.671359+00:00"
+  },
+  "image_cca166d9eb605f.png": {
+    "classification": "formula",
+    "latex": "\\frac{71}{12} \\times 2 = \\frac{71}{6}",
+    "note": "分數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{71}{12} \\times 2 = \\frac{71}{6}\",\"note\":\"分數乘法等式\"}\n",
+    "ts": "2026-04-26T13:39:31.342377+00:00"
+  },
+  "image_cf8834bfb11041.png": {
+    "classification": "formula",
+    "latex": "E(6) = \\frac{1}{2} \\times 6 = 3",
+    "note": "期望值計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E(6) = \\frac{1}{2} \\times 6 = 3\",\"note\":\"期望值計算公式\"}\n",
+    "ts": "2026-04-26T13:39:36.600306+00:00"
+  },
+  "image_cee02c6f8f36b0.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{6} = \\frac{1}{2}",
+    "note": "分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{6} = \\\\frac{1}{2}\",\"note\":\"分數等式\"}\n",
+    "ts": "2026-04-26T13:39:37.348259+00:00"
+  },
+  "image_d43b6001822aed.png": {
+    "classification": "formula",
+    "latex": "\\frac{125}{216}",
+    "note": "分式 125/216",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{125}{216}\",\"note\":\"分式 125/216\"}\n",
+    "ts": "2026-04-26T13:39:41.669317+00:00"
+  },
+  "image_d3f2056db781ec.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{10+20+30+40+50+60-30x}{36} = 0 \\Rightarrow x=7",
+    "note": "求解 x 的一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{10+20+30+40+50+60-30x}{36} = 0 \\\\Rightarrow x=7\",\"note\":\"求解 x 的一次方程式\"}\n",
+    "ts": "2026-04-26T13:39:43.079879+00:00"
+  },
+  "image_d4b0af37873954.png": {
+    "classification": "formula",
+    "latex": "\\frac{160}{9}",
+    "note": "分數 160/9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{160}{9}\",\"note\":\"分數 160/9\"}\n",
+    "ts": "2026-04-26T13:39:51.098981+00:00"
+  },
+  "image_d5a54a631ea7a6.png": {
+    "classification": "formula",
+    "latex": "\\frac{3\\times 5^2}{6^3}=\\frac{75}{216}",
+    "note": "分數與次方的運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{3\\times 5^2}{6^3}=\\frac{75}{216}\",\"note\":\"分數與次方的運算等式\"}\n",
+    "ts": "2026-04-26T13:39:53.394830+00:00"
+  },
+  "image_d8afb3a6a1dc29.png": {
+    "classification": "formula",
+    "latex": "\\frac{20}{27}",
+    "note": "分數 20/27",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{20}{27}\",\"note\":\"分數 20/27\"}\n",
+    "ts": "2026-04-26T13:39:53.807135+00:00"
+  },
+  "image_d7259a5dbcc4a0.png": {
+    "classification": "formula",
+    "latex": "\\frac{25}{216}",
+    "note": "分數 25/216",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{25}{216}\",\"note\":\"分數 25/216\"}\n",
+    "ts": "2026-04-26T13:39:57.063161+00:00"
+  },
+  "image_dc36331a055baf.png": {
+    "classification": "formula",
+    "latex": "E=4 \\times \\frac{1}{35}+5 \\times \\frac{4}{35}+6 \\times \\frac{10}{35}+7 \\times \\frac{20}{35}=\\frac{4+20+60+140}{35}=\\frac{224}{35}=6.4",
+    "note": "期望值的計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E=4 \\times \\frac{1}{35}+5 \\times \\frac{4}{35}+6 \\times \\frac{10}{35}+7 \\times \\frac{20}{35}=\\frac{4+20+60+140}{35}=\\frac{224}{35}=6.4\",\"note\":\"期望值的計算過程\"}\n",
+    "ts": "2026-04-26T13:40:06.214580+00:00"
+  },
+  "image_e24a15c52493ab.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-26T13:40:09.968137+00:00"
+  },
+  "image_e65311021f5789.png": {
+    "classification": "formula",
+    "latex": "+\\frac{3}{8} \\times 10",
+    "note": "加八分之三乘以十",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\\\\frac{3}{8} \\\\times 10\",\"note\":\"加八分之三乘以十\"}\n",
+    "ts": "2026-04-26T13:40:13.038743+00:00"
+  },
+  "image_dbce0651114838.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{3}",
+    "note": "分數 5/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{5}{3}\",\"note\":\"分數 5/3\"}\n",
+    "ts": "2026-04-26T13:40:17.692789+00:00"
+  },
+  "image_ebc3ba400f6f96.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-26T13:40:18.995258+00:00"
+  },
+  "image_e66103f0d910f9.png": {
+    "classification": "formula",
+    "latex": "\\frac{48}{25}",
+    "note": "分數 48/25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{48}{25}\",\"note\":\"分數 48/25\"}\n",
+    "ts": "2026-04-26T13:40:28.335613+00:00"
+  },
+  "image_ee9d6ca8218b3d.png": {
+    "classification": "formula",
+    "latex": "\\frac{6}{216} \\times 18 = \\frac{1}{2}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{6}{216} \\times 18 = \\frac{1}{2}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-26T13:40:29.353791+00:00"
+  },
+  "image_f0e8746ca61adb.png": {
+    "classification": "formula",
+    "latex": "p_4 = \\frac{3}{25}",
+    "note": "p_4 等於二十五分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_4 = \\frac{3}{25}\",\"note\":\"p_4 等於二十五分之三\"}\n",
+    "ts": "2026-04-26T13:40:36.034466+00:00"
+  },
+  "image_fa658becf8bbf7.png": {
+    "classification": "formula",
+    "latex": "\\frac{130}{3}",
+    "note": "分數 130/3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{130}{3}\",\"note\":\"分數 130/3\"}\n",
+    "ts": "2026-04-26T13:40:40.915769+00:00"
+  },
+  "image_f819a2725cab27.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{3^3} = \\frac{1}{9}",
+    "note": "分數與次方的運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{3^3} = \\\\frac{1}{9}\",\"note\":\"分數與次方的運算等式\"}\n",
+    "ts": "2026-04-26T13:40:44.739549+00:00"
+  },
+  "image_fdbb48fd80ed9c.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{3}{8}",
+    "note": "P = 3/8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\frac{3}{8}\",\"note\":\"P = 3/8\"}\n",
+    "ts": "2026-04-26T13:40:51.276976+00:00"
+  },
+  "image_fde3b87d6b4ad8.png": {
+    "classification": "formula",
+    "latex": "20",
+    "note": "數字 20",
+    "raw": "{\"class\":\"formula\",\"latex\":\"20\",\"note\":\"數字 20\"}\n",
+    "ts": "2026-04-26T13:40:53.765593+00:00"
+  },
+  "image_fcefb6e81da503.png": {
+    "classification": "formula",
+    "latex": "\\frac{3 \\times [2^3 - C_1^2 \\times 1^3 + C_2^2 \\times 0^3]}{3^3} = \\frac{3 \\times (8 - 2)}{3^3} = \\frac{18}{27} = \\frac{2}{3}",
+    "note": "包含組合數與次方的分式運算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3 \\\\times [2^3 - C_1^2 \\\\times 1^3 + C_2^2 \\\\times 0^3]}{3^3} = \\\\frac{3 \\\\times (8 - 2)}{3^3} = \\\\frac{18}{27} = \\\\frac{2}{3}\",\"note\":\"包含組合數與次方的分式運算過程\"}\n",
+    "ts": "2026-04-26T13:40:55.201180+00:00"
+  },
+  "image_ffd92e4638b7f0.png": {
+    "classification": "formula",
+    "latex": "\\frac{6 \\times 5 \\times \\frac{3!}{2!}}{216} \\times 9 = \\frac{15}{4}",
+    "note": "包含階乘的分數計算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{6 \\times 5 \\times \\frac{3!}{2!}}{216} \\times 9 = \\frac{15}{4}\",\"note\":\"包含階乘的分數計算等式\"}\n",
+    "ts": "2026-04-26T13:41:09.455388+00:00"
+  },
+  "image_faec22404d8b3d.png": {
+    "classification": "formula",
+    "latex": "\\begin{array}{|c|c|c|c|c|} \\hline \\text{空箱個數} & 0 & 1 & 2 & 3 \\\\ \\hline \\text{機率} & \\frac{2}{9} & \\frac{2}{3} & \\frac{1}{9} & 0 \\\\ \\hline \\end{array}",
+    "note": "機率分佈表",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{array}{|c|c|c|c|c|} \\\\hline \\\\text{空箱個數} & 0 & 1 & 2 & 3 \\\\\\\\ \\\\hline \\\\text{機率} & \\\\frac{2}{9} & \\\\frac{2}{3} & \\\\frac{1}{9} & 0 \\\\\\\\ \\\\hline \\\\end{array}\",\"note\":\"機率分佈表\"}\n",
+    "ts": "2026-04-26T13:41:25.586162+00:00"
+  },
+  "image_feb3851d5345cb.png": {
+    "classification": "formula",
+    "latex": "P = \\frac{C_3^4 \\times 4! \\times C_1^3}{P_5^7} = \\frac{4}{35}",
+    "note": "機率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P = \\\\frac{C_3^4 \\\\times 4! \\\\times C_1^3}{P_5^7} = \\\\frac{4}{35}\",\"note\":\"機率計算公式\"}\n",
+    "ts": "2026-04-26T13:41:33.752514+00:00"
+  }
+}

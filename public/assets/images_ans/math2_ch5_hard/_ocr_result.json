@@ -1,0 +1,274 @@
+{
+  "image_0837ef0dcfb455.png": {
+    "classification": "formula",
+    "latex": "C_2^4+C_2^5",
+    "note": "組合符號相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^4+C_2^5\",\"note\":\"組合符號相加\"}\n",
+    "ts": "2026-04-30T07:08:46.980174+00:00",
+    "engine": "codex"
+  },
+  "image_15c7a1e2da19e3.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{4}+C_{2}^{5}C_{1}^{4}",
+    "note": "組合數符號運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{4}+C_{2}^{5}C_{1}^{4}\",\"note\":\"組合數符號運算式\"}\n",
+    "ts": "2026-04-30T07:08:47.453250+00:00",
+    "engine": "codex"
+  },
+  "image_007cd1f8515c16.png": {
+    "classification": "formula",
+    "latex": "P^{80}_{50}=P^{78}_{50}+100\\times P^{78}_{49}+2450\\times P^{78}_{48}",
+    "note": "排列數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^{80}_{50}=P^{78}_{50}+100\\\\times P^{78}_{49}+2450\\\\times P^{78}_{48}\",\"note\":\"排列數等式\"}\n",
+    "ts": "2026-04-30T07:08:47.945617+00:00",
+    "engine": "codex"
+  },
+  "image_00f80faa6aff91.png": {
+    "classification": "formula",
+    "latex": "=C_0^{50}(1+x)^{50}+C_1^{50}(1+x)^{49}(-x^2)+C_2^{50}(1+x)^{48}(-x^2)^2+\\cdots+C_{50}^{50}(-x^2)^{50}",
+    "note": "二項式展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=C_0^{50}(1+x)^{50}+C_1^{50}(1+x)^{49}(-x^2)+C_2^{50}(1+x)^{48}(-x^2)^2+\\\\cdots+C_{50}^{50}(-x^2)^{50}\",\"note\":\"二項式展開式\"}\n",
+    "ts": "2026-04-30T07:08:48.337597+00:00",
+    "engine": "codex"
+  },
+  "image_2661c713e0e549.png": {
+    "classification": "formula",
+    "latex": "=3^7-C_1^3\\times2^7+C_2^3\\times1^7-0",
+    "note": "容斥計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=3^7-C_1^3\\\\times2^7+C_2^3\\\\times1^7-0\",\"note\":\"容斥計算式\"}\n",
+    "ts": "2026-04-30T07:08:53.338826+00:00",
+    "engine": "codex"
+  },
+  "image_2c8123c5f5f83f.png": {
+    "classification": "formula",
+    "latex": "+\\left(C_3^7\\times C_2^4\\times C_2^2\\times \\frac{1}{2!}\\right)\\times 3!",
+    "note": "組合數乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\\\\left(C_3^7\\\\times C_2^4\\\\times C_2^2\\\\times \\\\frac{1}{2!}\\\\right)\\\\times 3!\",\"note\":\"組合數乘積公式\"}\n",
+    "ts": "2026-04-30T07:08:54.376458+00:00",
+    "engine": "codex"
+  },
+  "image_41a201d766b158.png": {
+    "classification": "formula",
+    "latex": "C_{8}^{100}=C_{8}^{99}+C_{9}^{99}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{8}^{100}=C_{8}^{99}+C_{9}^{99}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-30T07:08:54.563308+00:00",
+    "engine": "codex"
+  },
+  "image_3e9652423cf9d4.png": {
+    "classification": "formula",
+    "latex": "+\\left(C_3^7\\times C_3^4\\times C_1^1\\times \\frac{1}{2!}\\right)\\times 3!",
+    "note": "純數學組合式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\\\\left(C_3^7\\\\times C_3^4\\\\times C_1^1\\\\times \\\\frac{1}{2!}\\\\right)\\\\times 3!\",\"note\":\"純數學組合式\"}\n",
+    "ts": "2026-04-30T07:08:57.246586+00:00",
+    "engine": "codex"
+  },
+  "image_44bac3f827fba2.png": {
+    "classification": "formula",
+    "latex": "P_{30}^{100}=P_{5}^{100}\\times P_{25}^{95}",
+    "note": "排列數乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_{30}^{100}=P_{5}^{100}\\\\times P_{25}^{95}\",\"note\":\"排列數乘法公式\"}\n",
+    "ts": "2026-04-30T07:08:59.310611+00:00",
+    "engine": "codex"
+  },
+  "image_4ef240065546c1.png": {
+    "classification": "formula",
+    "latex": "C_8^{99}+C_9^{99}=C_9^{100}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_8^{99}+C_9^{99}=C_9^{100}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-30T07:08:59.797307+00:00",
+    "engine": "codex"
+  },
+  "image_68fd06896098db.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{5}\\times C_{1}^{2}",
+    "note": "組合符號相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{5}\\\\times C_{1}^{2}\",\"note\":\"組合符號相乘\"}\n",
+    "ts": "2026-04-30T07:09:01.953689+00:00",
+    "engine": "codex"
+  },
+  "image_4cddf6f26755b8.png": {
+    "classification": "formula",
+    "latex": "C_{50}^{50}(-1)^{50}",
+    "note": "組合數乘以(-1)的50次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{50}^{50}(-1)^{50}\",\"note\":\"組合數乘以(-1)的50次方\"}\n",
+    "ts": "2026-04-30T07:09:02.792681+00:00",
+    "engine": "codex"
+  },
+  "image_70ffee0f2b3cf5.png": {
+    "classification": "formula",
+    "latex": "C_3^9-C_3^5",
+    "note": "組合數相減",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^9-C_3^5\",\"note\":\"組合數相減\"}\n",
+    "ts": "2026-04-30T07:09:05.060498+00:00",
+    "engine": "codex"
+  },
+  "image_6bb4f72957fe97.png": {
+    "classification": "formula",
+    "latex": "C_2^7 \\times 2^5 = 21 \\times 32 = 672",
+    "note": "組合數與乘法計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^7 \\\\times 2^5 = 21 \\\\times 32 = 672\",\"note\":\"組合數與乘法計算式\"}\n",
+    "ts": "2026-04-30T07:09:05.251085+00:00",
+    "engine": "codex"
+  },
+  "image_8cd007d77110df.png": {
+    "classification": "formula",
+    "latex": "C_3^3+C_3^3+C_3^3",
+    "note": "三個組合數相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^3+C_3^3+C_3^3\",\"note\":\"三個組合數相加\"}\n",
+    "ts": "2026-04-30T07:09:07.601749+00:00",
+    "engine": "codex"
+  },
+  "image_8fb95908d14cdb.png": {
+    "classification": "formula",
+    "latex": "\\frac{a+c}{2}",
+    "note": "分式：(a+c)除以2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a+c}{2}\",\"note\":\"分式：(a+c)除以2\"}\n",
+    "ts": "2026-04-30T07:09:09.425511+00:00",
+    "engine": "codex"
+  },
+  "image_89c6f3b27a976a.png": {
+    "classification": "formula",
+    "latex": "+\\left(C_3^7\\times C_2^4\\times C_2^2\\times \\frac{1}{2!}\\right)\\times 2!",
+    "note": "純數學排列組合式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\\\\left(C_3^7\\\\times C_2^4\\\\times C_2^2\\\\times \\\\frac{1}{2!}\\\\right)\\\\times 2!\",\"note\":\"純數學排列組合式\"}\n",
+    "ts": "2026-04-30T07:09:09.675257+00:00",
+    "engine": "codex"
+  },
+  "image_8e773a0212c25a.png": {
+    "classification": "formula",
+    "latex": "+\\left(C_{3}^{7}\\times C_{3}^{4}\\times C_{1}^{1}\\times \\frac{1}{2!}\\right)\\times 2!",
+    "note": "純數學排列組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\\\\left(C_{3}^{7}\\\\times C_{3}^{4}\\\\times C_{1}^{1}\\\\times \\\\frac{1}{2!}\\\\right)\\\\times 2!\",\"note\":\"純數學排列組合公式\"}\n",
+    "ts": "2026-04-30T07:09:12.281523+00:00",
+    "engine": "codex"
+  },
+  "image_bc22c1b0df2eee.png": {
+    "classification": "formula",
+    "latex": "P_{30}^{100}",
+    "note": "排列符號，上標100下標30",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_{30}^{100}\",\"note\":\"排列符號，上標100下標30\"}\n",
+    "ts": "2026-04-30T07:09:15.392948+00:00",
+    "engine": "codex"
+  },
+  "image_b621c4e3cd3acc.png": {
+    "classification": "formula",
+    "latex": "=(C^{7}_{4}\\times C^{3}_{2}\\times C^{1}_{1})\\times 1",
+    "note": "組合數乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(C^{7}_{4}\\\\times C^{3}_{2}\\\\times C^{1}_{1})\\\\times 1\",\"note\":\"組合數乘積公式\"}\n",
+    "ts": "2026-04-30T07:09:16.300008+00:00",
+    "engine": "codex"
+  },
+  "image_b7b4aa4e6556d0.png": {
+    "classification": "formula",
+    "latex": "=P^{78}_{50}+100\\times P^{78}_{49}+2450\\times P^{78}_{48}",
+    "note": "排列數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P^{78}_{50}+100\\\\times P^{78}_{49}+2450\\\\times P^{78}_{48}\",\"note\":\"排列數公式\"}\n",
+    "ts": "2026-04-30T07:09:17.414050+00:00",
+    "engine": "codex"
+  },
+  "image_bff11d0e1454c8.png": {
+    "classification": "formula",
+    "latex": "C_{10}^{50}=C_{10}^{48}+2\\times C_{9}^{48}+C_{8}^{48}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{10}^{50}=C_{10}^{48}+2\\\\times C_{9}^{48}+C_{8}^{48}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-30T07:09:18.680085+00:00",
+    "engine": "codex"
+  },
+  "image_c3ba997a2aa87a.png": {
+    "classification": "formula",
+    "latex": "C_{0}^{50}\\times C_{1}^{50}=50",
+    "note": "組合數乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{0}^{50}\\\\times C_{1}^{50}=50\",\"note\":\"組合數乘法公式\"}\n",
+    "ts": "2026-04-30T07:09:20.935452+00:00",
+    "engine": "codex"
+  },
+  "image_c739b9ab48516b.png": {
+    "classification": "formula",
+    "latex": "P^{80}_{50}",
+    "note": "排列符號，上標80下標50",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^{80}_{50}\",\"note\":\"排列符號，上標80下標50\"}\n",
+    "ts": "2026-04-30T07:09:22.157513+00:00",
+    "engine": "codex"
+  },
+  "image_cc6ca5b2ed3fcb.png": {
+    "classification": "formula",
+    "latex": "C_2^6 + C_2^6",
+    "note": "組合符號相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^6 + C_2^6\",\"note\":\"組合符號相加\"}\n",
+    "ts": "2026-04-30T07:09:22.433341+00:00",
+    "engine": "codex"
+  },
+  "image_ccffe115ea15eb.png": {
+    "classification": "formula",
+    "latex": "=C_{4}^{7}\\times C_{2}^{3}\\times C_{1}^{1}\\times 3!",
+    "note": "組合數乘積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=C_{4}^{7}\\\\times C_{2}^{3}\\\\times C_{1}^{1}\\\\times 3!\",\"note\":\"組合數乘積公式\"}\n",
+    "ts": "2026-04-30T07:09:25.303821+00:00",
+    "engine": "codex"
+  },
+  "image_d79cdcae159e29.png": {
+    "classification": "formula",
+    "latex": "C^{4}_{3}",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{4}_{3}\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-30T07:09:28.055077+00:00",
+    "engine": "codex"
+  },
+  "image_d0b4c6f214216d.png": {
+    "classification": "formula",
+    "latex": "C_{10}^{35}=C_{9}^{34}+C_{10}^{34}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{10}^{35}=C_{9}^{34}+C_{10}^{34}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-30T07:09:28.835566+00:00",
+    "engine": "codex"
+  },
+  "image_d337cd59046bea.png": {
+    "classification": "formula",
+    "latex": "C_{9}^{34}+C_{10}^{34}=C_{10}^{35}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{9}^{34}+C_{10}^{34}=C_{10}^{35}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-30T07:09:28.904514+00:00",
+    "engine": "codex"
+  },
+  "image_d846cdbcffbc74.png": {
+    "classification": "formula",
+    "latex": "C^{50}_{10}",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{50}_{10}\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-30T07:09:31.016689+00:00",
+    "engine": "codex"
+  },
+  "image_ea71751562e0c6.png": {
+    "classification": "formula",
+    "latex": "P^{80}_{50}=P^{78}_{50}+C^{2}_{1}\\times C^{50}_{1}\\times P^{78}_{49}+C^{50}_{2}\\times 2!\\times P^{78}_{48}",
+    "note": "排列組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^{80}_{50}=P^{78}_{50}+C^{2}_{1}\\\\times C^{50}_{1}\\\\times P^{78}_{49}+C^{50}_{2}\\\\times 2!\\\\times P^{78}_{48}\",\"note\":\"排列組合公式\"}\n",
+    "ts": "2026-04-30T07:09:35.448692+00:00",
+    "engine": "codex"
+  },
+  "image_f0fcbe5533b4f7.png": {
+    "classification": "formula",
+    "latex": "C_1^3 \\times C_1^3 \\times C_1^3",
+    "note": "三個組合數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^3 \\\\times C_1^3 \\\\times C_1^3\",\"note\":\"三個組合數相乘\"}\n",
+    "ts": "2026-04-30T07:09:36.658104+00:00",
+    "engine": "codex"
+  },
+  "image_f56558d2d19b6d.png": {
+    "classification": "formula",
+    "latex": "C_{1}^{5}\\times C_{2}^{4}",
+    "note": "組合數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{1}^{5}\\\\times C_{2}^{4}\",\"note\":\"組合數相乘\"}\n",
+    "ts": "2026-04-30T07:09:37.815811+00:00",
+    "engine": "codex"
+  },
+  "image_e2f86457f7b36a.png": {
+    "classification": "formula",
+    "latex": "b=C_{0}^{50}\\times C_{2}^{50}+C_{1}^{50}\\times C_{0}^{49}\\times(-1)=1175",
+    "note": "純數學排列組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=C_{0}^{50}\\\\times C_{2}^{50}+C_{1}^{50}\\\\times C_{0}^{49}\\\\times(-1)=1175\",\"note\":\"純數學排列組合公式\"}\n",
+    "ts": "2026-04-30T07:09:42.779003+00:00",
+    "engine": "codex"
+  }
+}

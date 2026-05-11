@@ -1,0 +1,1946 @@
+{
+  "image_037eeef100dac6.png": {
+    "classification": "formula",
+    "latex": "y=0",
+    "note": "純公式：y等於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=0\",\"note\":\"純公式：y等於0\"}\n",
+    "ts": "2026-04-30T00:27:51.641191+00:00",
+    "engine": "codex"
+  },
+  "image_008517ede263a2.png": {
+    "classification": "formula",
+    "latex": "L_2:\\begin{cases}x=1+t\\\\y=2+2t\\\\z=3+3t\\end{cases}",
+    "note": "空間直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\begin{cases}x=1+t\\\\\\\\y=2+2t\\\\\\\\z=3+3t\\\\end{cases}\",\"note\":\"空間直線的參數式\"}\n",
+    "ts": "2026-04-30T00:27:53.197861+00:00",
+    "engine": "codex"
+  },
+  "image_00e6e2658870d9.png": {
+    "classification": "formula",
+    "latex": "-4",
+    "note": "負四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-4\",\"note\":\"負四\"}\n",
+    "ts": "2026-04-30T00:27:53.213087+00:00",
+    "engine": "codex"
+  },
+  "image_00f0421e76e99e.png": {
+    "classification": "formula",
+    "latex": "(2,-1,3)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,-1,3)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:27:54.436268+00:00",
+    "engine": "codex"
+  },
+  "image_03d463bd9ba612.png": {
+    "classification": "formula",
+    "latex": "\\vec{v}_1=(2,1,3)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{v}_1=(2,1,3)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-04-30T00:27:58.105561+00:00",
+    "engine": "codex"
+  },
+  "image_06030e68115a83.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=1+2t\\\\y=2-3t\\\\z=5t\\end{cases}",
+    "note": "三維直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=1+2t\\\\\\\\y=2-3t\\\\\\\\z=5t\\\\end{cases}\",\"note\":\"三維直線的參數式\"}\n",
+    "ts": "2026-04-30T00:27:59.425815+00:00",
+    "engine": "codex"
+  },
+  "image_04260cf6f69013.png": {
+    "classification": "formula",
+    "latex": "\\left(1,1,2\\right)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,1,2\\\\right)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:28:00.160830+00:00",
+    "engine": "codex"
+  },
+  "image_064aba9c2617e2.png": {
+    "classification": "formula",
+    "latex": "(1,0,-1)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,0,-1)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:28:03.622109+00:00",
+    "engine": "codex"
+  },
+  "image_0babe24b80be49.png": {
+    "classification": "formula",
+    "latex": "y_0=0",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_0=0\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T00:28:03.832519+00:00",
+    "engine": "codex"
+  },
+  "image_0c409010a642b3.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow (1+2t)-(-1+3t)-(2-t)=0\\Rightarrow 0t=0",
+    "note": "代入後化簡為恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow (1+2t)-(-1+3t)-(2-t)=0\\\\Rightarrow 0t=0\",\"note\":\"代入後化簡為恆等式\"}\n",
+    "ts": "2026-04-30T00:28:05.658945+00:00",
+    "engine": "codex"
+  },
+  "image_0c6fae67abe77c.png": {
+    "classification": "formula",
+    "latex": "(1,2,-3)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,-3)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:28:07.085718+00:00",
+    "engine": "codex"
+  },
+  "image_0d0e2089fa889c.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一變數 E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一變數 E\"}\n",
+    "ts": "2026-04-30T00:28:07.831005+00:00",
+    "engine": "codex"
+  },
+  "image_0dd43d38ee5e4a.png": {
+    "classification": "formula",
+    "latex": "L_1:\\frac{x-3}{2}=\\frac{y+1}{1}=\\frac{z-2}{3}",
+    "note": "空間直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\frac{x-3}{2}=\\\\frac{y+1}{1}=\\\\frac{z-2}{3}\",\"note\":\"空間直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:28:10.652490+00:00",
+    "engine": "codex"
+  },
+  "image_0d3a9fdb21a2a7.png": {
+    "classification": "formula",
+    "latex": "(2,-1,0)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,-1,0)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-04-30T00:28:11.578474+00:00",
+    "engine": "codex"
+  },
+  "image_0fed031ef8ec5f.png": {
+    "classification": "formula",
+    "latex": "y_0 + b + c = 0 + (-4) + 10 = 6",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_0 + b + c = 0 + (-4) + 10 = 6\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T00:28:13.933061+00:00",
+    "engine": "codex"
+  },
+  "image_1081e1a752d836.png": {
+    "classification": "formula",
+    "latex": "(2,3,1)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,3,1)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:28:15.351402+00:00",
+    "engine": "codex"
+  },
+  "image_1147273dead23c.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}5=1+2t\\\\a=3-2t\\\\b=-2+3t\\end{cases}",
+    "note": "三個參數式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}5=1+2t\\\\\\\\a=3-2t\\\\\\\\b=-2+3t\\\\end{cases}\",\"note\":\"三個參數式方程\"}\n",
+    "ts": "2026-04-30T00:28:17.891163+00:00",
+    "engine": "codex"
+  },
+  "image_12b5b78a52b8f3.png": {
+    "classification": "formula",
+    "latex": "(1,-3,-2)",
+    "note": "三維坐標或有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,-3,-2)\",\"note\":\"三維坐標或有序三元組\"}\n",
+    "ts": "2026-04-30T00:28:20.105761+00:00",
+    "engine": "codex"
+  },
+  "image_10fe99b66081a8.png": {
+    "classification": "formula",
+    "latex": "(2,1,-3)",
+    "note": "三維坐標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,1,-3)\",\"note\":\"三維坐標點\"}\n",
+    "ts": "2026-04-30T00:28:20.245691+00:00",
+    "engine": "codex"
+  },
+  "image_1343d4c963a74f.png": {
+    "classification": "formula",
+    "latex": "L_1",
+    "note": "字母L下標1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1\",\"note\":\"字母L下標1\"}\n",
+    "ts": "2026-04-30T00:28:20.358412+00:00",
+    "engine": "codex"
+  },
+  "image_15b5eb27fc0f52.png": {
+    "classification": "formula",
+    "latex": "b=2",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=2\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T00:28:22.954285+00:00",
+    "engine": "codex"
+  },
+  "image_2068fd3cd54676.png": {
+    "classification": "formula",
+    "latex": "L",
+    "note": "單一變數 L",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L\",\"note\":\"單一變數 L\"}\n",
+    "ts": "2026-04-30T00:28:24.803316+00:00",
+    "engine": "codex"
+  },
+  "image_1f08c6c13b89e7.png": {
+    "classification": "formula",
+    "latex": "\\frac{x+1}{-2}=\\frac{y-1}{1}=\\frac{z}{-2}",
+    "note": "連比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x+1}{-2}=\\\\frac{y-1}{1}=\\\\frac{z}{-2}\",\"note\":\"連比例式\"}\n",
+    "ts": "2026-04-30T00:28:26.690060+00:00",
+    "engine": "codex"
+  },
+  "image_24a669bb9af65e.png": {
+    "classification": "formula",
+    "latex": "(1,2,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:28:29.280739+00:00",
+    "engine": "codex"
+  },
+  "image_23dff76d2d5471.png": {
+    "classification": "formula",
+    "latex": "3(-3+2t)+(1-t)-2\\times 3t=-10\\Rightarrow t=2",
+    "note": "代數方程式求 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3(-3+2t)+(1-t)-2\\\\times 3t=-10\\\\Rightarrow t=2\",\"note\":\"代數方程式求 t\"}\n",
+    "ts": "2026-04-30T00:28:29.706371+00:00",
+    "engine": "codex"
+  },
+  "image_26bb31eafacd13.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=-3+2t\\\\y=1-t\\\\z=3t\\end{cases}",
+    "note": "三維直線參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=-3+2t\\\\\\\\y=1-t\\\\\\\\z=3t\\\\end{cases}\",\"note\":\"三維直線參數式\"}\n",
+    "ts": "2026-04-30T00:28:30.164539+00:00",
+    "engine": "codex"
+  },
+  "image_28060db5f3b864.png": {
+    "classification": "formula",
+    "latex": "\\frac{(-10)-1}{3}=\\frac{1+2}{-1}=\\frac{-6}{2}",
+    "note": "連等式分數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{(-10)-1}{3}=\\\\frac{1+2}{-1}=\\\\frac{-6}{2}\",\"note\":\"連等式分數運算\"}\n",
+    "ts": "2026-04-30T00:28:31.857586+00:00",
+    "engine": "codex"
+  },
+  "image_28ce59823bc968.png": {
+    "classification": "formula",
+    "latex": "P(3,k,1)",
+    "note": "排列符號函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(3,k,1)\",\"note\":\"排列符號函數\"}\n",
+    "ts": "2026-04-30T00:28:34.609085+00:00",
+    "engine": "codex"
+  },
+  "image_29aa3053bff915.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-1}{1}=\\frac{y-2}{-1}=\\frac{z}{1}",
+    "note": "對稱式直線方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-1}{1}=\\\\frac{y-2}{-1}=\\\\frac{z}{1}\",\"note\":\"對稱式直線方程\"}\n",
+    "ts": "2026-04-30T00:28:34.961909+00:00",
+    "engine": "codex"
+  },
+  "image_28666b6f627205.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{QP}=(2,k-2,3)",
+    "note": "向量QP的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{QP}=(2,k-2,3)\",\"note\":\"向量QP的座標表示\"}\n",
+    "ts": "2026-04-30T00:28:35.257109+00:00",
+    "engine": "codex"
+  },
+  "image_2ab4f9ec6dcf61.png": {
+    "classification": "formula",
+    "latex": "(-1,0,2)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,0,2)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:28:37.352624+00:00",
+    "engine": "codex"
+  },
+  "image_2c49667b6c0470.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-2}{1}=\\frac{y-4}{-2}=\\frac{z-6}{-5}",
+    "note": "三維直線對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-2}{1}=\\\\frac{y-4}{-2}=\\\\frac{z-6}{-5}\",\"note\":\"三維直線對稱式\"}\n",
+    "ts": "2026-04-30T00:28:40.255499+00:00",
+    "engine": "codex"
+  },
+  "image_2c813bc21b2d70.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-3}{-1}=\\frac{y-2}{2}=\\frac{z-1}{5}",
+    "note": "三維直線對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-3}{-1}=\\\\frac{y-2}{2}=\\\\frac{z-1}{5}\",\"note\":\"三維直線對稱式方程\"}\n",
+    "ts": "2026-04-30T00:28:41.019115+00:00",
+    "engine": "codex"
+  },
+  "image_2c41af1d019dc7.png": {
+    "classification": "formula",
+    "latex": "\\vec{v}=(1,2,3)",
+    "note": "向量等於三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{v}=(1,2,3)\",\"note\":\"向量等於三維座標\"}\n",
+    "ts": "2026-04-30T00:28:41.931320+00:00",
+    "engine": "codex"
+  },
+  "image_2f323928535c97.png": {
+    "classification": "formula",
+    "latex": "t=\\frac{1}{4}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=\\\\frac{1}{4}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T00:28:44.222831+00:00",
+    "engine": "codex"
+  },
+  "image_2cc85af1862b14.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-1}{2}=\\frac{y+1}{3}=\\frac{z-2}{-1}",
+    "note": "三維直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-1}{2}=\\\\frac{y+1}{3}=\\\\frac{z-2}{-1}\",\"note\":\"三維直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:28:47.401961+00:00",
+    "engine": "codex"
+  },
+  "image_2f81aad33844a4.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow (1+2t)-(-1+3t)+2(2-t)=6 \\Rightarrow t=0",
+    "note": "一元一次方程化簡求t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow (1+2t)-(-1+3t)+2(2-t)=6 \\\\Rightarrow t=0\",\"note\":\"一元一次方程化簡求t\"}\n",
+    "ts": "2026-04-30T00:28:48.349339+00:00",
+    "engine": "codex"
+  },
+  "image_309954dce90fd3.png": {
+    "classification": "formula",
+    "latex": "L_2",
+    "note": "字母L下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2\",\"note\":\"字母L下標2\"}\n",
+    "ts": "2026-04-30T00:28:48.564361+00:00",
+    "engine": "codex"
+  },
+  "image_2fecf50be119de.png": {
+    "classification": "formula",
+    "latex": "P,\\underline{Q}",
+    "note": "variables P and underlined Q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P,\\\\underline{Q}\",\"note\":\"variables P and underlined Q\"}\n",
+    "ts": "2026-04-30T00:28:49.081476+00:00",
+    "engine": "codex"
+  },
+  "image_30c9c6bb035265.png": {
+    "classification": "formula",
+    "latex": "t=2",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=2\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:28:53.648172+00:00",
+    "engine": "codex"
+  },
+  "image_31d77da7d3a246.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{v_1}//\\overrightarrow{v_2}",
+    "note": "兩向量平行",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{v_1}//\\\\overrightarrow{v_2}\",\"note\":\"兩向量平行\"}\n",
+    "ts": "2026-04-30T00:28:54.824486+00:00",
+    "engine": "codex"
+  },
+  "image_323c53b228995e.png": {
+    "classification": "formula",
+    "latex": "(2,k-2,3)\\cdot(2,1,-1)=0\\Rightarrow 2\\times2+(k-2)\\times1+3\\times(-1)=0\\Rightarrow k=1",
+    "note": "向量內積為零求k",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,k-2,3)\\\\cdot(2,1,-1)=0\\\\Rightarrow 2\\\\times2+(k-2)\\\\times1+3\\\\times(-1)=0\\\\Rightarrow k=1\",\"note\":\"向量內積為零求k\"}\n",
+    "ts": "2026-04-30T00:28:55.490903+00:00",
+    "engine": "codex"
+  },
+  "image_337706fe2a179e.png": {
+    "classification": "formula",
+    "latex": "(-1,1,-1)",
+    "note": "三維座標或向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,1,-1)\",\"note\":\"三維座標或向量\"}\n",
+    "ts": "2026-04-30T00:28:55.568041+00:00",
+    "engine": "codex"
+  },
+  "image_34f8a033800fbe.png": {
+    "classification": "formula",
+    "latex": "y_0+b+c",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y_0+b+c\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:28:58.297263+00:00",
+    "engine": "codex"
+  },
+  "image_358a3b4430ad46.png": {
+    "classification": "formula",
+    "latex": "2x-y+3z=0",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-y+3z=0\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:29:00.464375+00:00",
+    "engine": "codex"
+  },
+  "image_367863e15eb133.png": {
+    "classification": "formula",
+    "latex": "B(1,0,2)",
+    "note": "點B的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(1,0,2)\",\"note\":\"點B的三維座標\"}\n",
+    "ts": "2026-04-30T00:29:01.028303+00:00",
+    "engine": "codex"
+  },
+  "image_35d89418580dc0.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x+3}{2}=\\frac{y-1}{-1}=\\frac{z}{3}",
+    "note": "直線對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x+3}{2}=\\\\frac{y-1}{-1}=\\\\frac{z}{3}\",\"note\":\"直線對稱式方程\"}\n",
+    "ts": "2026-04-30T00:29:01.665547+00:00",
+    "engine": "codex"
+  },
+  "image_36b7b5e123cfd6.png": {
+    "classification": "formula",
+    "latex": "(4,-2,4)=2(2,-1,2)",
+    "note": "向量倍數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(4,-2,4)=2(2,-1,2)\",\"note\":\"向量倍數等式\"}\n",
+    "ts": "2026-04-30T00:29:03.342195+00:00",
+    "engine": "codex"
+  },
+  "image_39764484618886.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-3}{2}=\\frac{y+1}{-1}=\\frac{z-4}{2}",
+    "note": "三維直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-3}{2}=\\\\frac{y+1}{-1}=\\\\frac{z-4}{2}\",\"note\":\"三維直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:29:06.886879+00:00",
+    "engine": "codex"
+  },
+  "image_37961f044a6bf1.png": {
+    "classification": "formula",
+    "latex": "-2,1,0",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2,1,0\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:29:07.200070+00:00",
+    "engine": "codex"
+  },
+  "image_3b8ba32575865b.png": {
+    "classification": "formula",
+    "latex": "a+b",
+    "note": "代數式 a 加 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b\",\"note\":\"代數式 a 加 b\"}\n",
+    "ts": "2026-04-30T00:29:07.597891+00:00",
+    "engine": "codex"
+  },
+  "image_389e72a33705bc.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=1+t\\\\y=2+t\\\\z=3-2t\\end{cases}",
+    "note": "三維直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=1+t\\\\\\\\y=2+t\\\\\\\\z=3-2t\\\\end{cases}\",\"note\":\"三維直線的參數式\"}\n",
+    "ts": "2026-04-30T00:29:08.906953+00:00",
+    "engine": "codex"
+  },
+  "image_3ce5b5c5ad8ffa.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=1+2t\\\\y=3-2t\\\\z=-2+3t\\end{cases}",
+    "note": "三維參數式方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=1+2t\\\\\\\\y=3-2t\\\\\\\\z=-2+3t\\\\end{cases}\",\"note\":\"三維參數式方程組\"}\n",
+    "ts": "2026-04-30T00:29:11.588252+00:00",
+    "engine": "codex"
+  },
+  "image_3cf16860d7ab65.png": {
+    "classification": "formula",
+    "latex": "(-7,3,-6)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-7,3,-6)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:29:12.630285+00:00",
+    "engine": "codex"
+  },
+  "image_3d26fade70c276.png": {
+    "classification": "formula",
+    "latex": "\\left(2,-1,3\\right)",
+    "note": "三維座標或有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(2,-1,3\\\\right)\",\"note\":\"三維座標或有序三元組\"}\n",
+    "ts": "2026-04-30T00:29:14.180455+00:00",
+    "engine": "codex"
+  },
+  "image_3e52055e08b208.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-04-30T00:29:14.432076+00:00",
+    "engine": "codex"
+  },
+  "image_3f07e2dc4b248c.png": {
+    "classification": "formula",
+    "latex": "L_1:\\begin{cases}x=1+t\\\\y=t\\\\z=-1+2t\\end{cases}",
+    "note": "空間直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\begin{cases}x=1+t\\\\\\\\y=t\\\\\\\\z=-1+2t\\\\end{cases}\",\"note\":\"空間直線的參數式\"}\n",
+    "ts": "2026-04-30T00:29:17.252165+00:00",
+    "engine": "codex"
+  },
+  "image_3f423ac983bf2e.png": {
+    "classification": "formula",
+    "latex": "P(-3+2t,1-t,3t)",
+    "note": "點P的三維座標參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(-3+2t,1-t,3t)\",\"note\":\"點P的三維座標參數式\"}\n",
+    "ts": "2026-04-30T00:29:18.885903+00:00",
+    "engine": "codex"
+  },
+  "image_3fabc13f0b1299.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 2(1+2t)-(-1+3t)+(2-t)=5\\Rightarrow 0t=0",
+    "note": "純數學等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 2(1+2t)-(-1+3t)+(2-t)=5\\\\Rightarrow 0t=0\",\"note\":\"純數學等式推導\"}\n",
+    "ts": "2026-04-30T00:29:20.443245+00:00",
+    "engine": "codex"
+  },
+  "image_416e7aaca0f2bb.png": {
+    "classification": "formula",
+    "latex": "(1,-1,1)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,-1,1)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:29:21.796860+00:00",
+    "engine": "codex"
+  },
+  "image_41cef21d3fbac7.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{v}=(1,1,-2)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{v}=(1,1,-2)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-04-30T00:29:23.285252+00:00",
+    "engine": "codex"
+  },
+  "image_41d5697b94083f.png": {
+    "classification": "formula",
+    "latex": "3x-y+2z=5",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3x-y+2z=5\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:29:24.435556+00:00",
+    "engine": "codex"
+  },
+  "image_438b2b76c3b383.png": {
+    "classification": "formula",
+    "latex": "2x-y+z=5",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-y+z=5\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:29:27.166455+00:00",
+    "engine": "codex"
+  },
+  "image_41dbd438c40d3d.png": {
+    "classification": "formula",
+    "latex": "\\frac{2-6}{4}=\\frac{1}{-1}=\\frac{c+1}{b}",
+    "note": "連比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2-6}{4}=\\\\frac{1}{-1}=\\\\frac{c+1}{b}\",\"note\":\"連比例式\"}\n",
+    "ts": "2026-04-30T00:29:27.861289+00:00",
+    "engine": "codex"
+  },
+  "image_45c7950925b236.png": {
+    "classification": "formula",
+    "latex": "yz",
+    "note": "兩個變數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"yz\",\"note\":\"兩個變數相乘\"}\n",
+    "ts": "2026-04-30T00:29:27.993332+00:00",
+    "engine": "codex"
+  },
+  "image_45db4c36ab7f65.png": {
+    "classification": "formula",
+    "latex": "(-10,1,-6)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-10,1,-6)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:29:28.341600+00:00",
+    "engine": "codex"
+  },
+  "image_4656ae6afa50a1.png": {
+    "classification": "formula",
+    "latex": "E_1, E_2",
+    "note": "兩個帶下標的變數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E_1, E_2\",\"note\":\"兩個帶下標的變數\"}\n",
+    "ts": "2026-04-30T00:29:31.240387+00:00",
+    "engine": "codex"
+  },
+  "image_48a5ab798e4439.png": {
+    "classification": "formula",
+    "latex": "b=4",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=4\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:29:33.148095+00:00",
+    "engine": "codex"
+  },
+  "image_4a9da689aff9c1.png": {
+    "classification": "formula",
+    "latex": "(2,2,2)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,2,2)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-04-30T00:29:36.275944+00:00",
+    "engine": "codex"
+  },
+  "image_4aaf40cd15fe96.png": {
+    "classification": "formula",
+    "latex": "(-1,-2,3)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,-2,3)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:29:37.266883+00:00",
+    "engine": "codex"
+  },
+  "image_4cf86c98e2bbb4.png": {
+    "classification": "formula",
+    "latex": "z",
+    "note": "單一變數 z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z\",\"note\":\"單一變數 z\"}\n",
+    "ts": "2026-04-30T00:29:37.407433+00:00",
+    "engine": "codex"
+  },
+  "image_4b2af5cbefab1f.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{d_1}=(2,3,1)",
+    "note": "向量座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{d_1}=(2,3,1)\",\"note\":\"向量座標\"}\n",
+    "ts": "2026-04-30T00:29:37.625997+00:00",
+    "engine": "codex"
+  },
+  "image_4dc416a9227cb2.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x+2}{1}=\\frac{y-1}{-2}=\\frac{z}{-1}",
+    "note": "直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x+2}{1}=\\\\frac{y-1}{-2}=\\\\frac{z}{-1}\",\"note\":\"直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:29:40.928585+00:00",
+    "engine": "codex"
+  },
+  "image_4de9bca03f021b.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-1}{1}=\\frac{y}{2}=\\frac{z+1}{3}",
+    "note": "連比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-1}{1}=\\\\frac{y}{2}=\\\\frac{z+1}{3}\",\"note\":\"連比例式\"}\n",
+    "ts": "2026-04-30T00:29:44.492537+00:00",
+    "engine": "codex"
+  },
+  "image_51f7c5785cb677.png": {
+    "classification": "formula",
+    "latex": "\\left(3,-2,-1\\right)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(3,-2,-1\\\\right)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:29:44.564130+00:00",
+    "engine": "codex"
+  },
+  "image_522a33a18b14a8.png": {
+    "classification": "formula",
+    "latex": "L_2",
+    "note": "字母L下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2\",\"note\":\"字母L下標2\"}\n",
+    "ts": "2026-04-30T00:29:45.011601+00:00",
+    "engine": "codex"
+  },
+  "image_503e0e528edf67.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-2}{1}=\\frac{y-4}{-2}=\\frac{z-6}{-5}",
+    "note": "三維直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-2}{1}=\\\\frac{y-4}{-2}=\\\\frac{z-6}{-5}\",\"note\":\"三維直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:29:45.268435+00:00",
+    "engine": "codex"
+  },
+  "image_53a61e2d9ce55b.png": {
+    "classification": "formula",
+    "latex": "(1,-2,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,-2,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:29:48.192839+00:00",
+    "engine": "codex"
+  },
+  "image_5623224ea3dee8.png": {
+    "classification": "formula",
+    "latex": "x=t-3",
+    "note": "線性代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=t-3\",\"note\":\"線性代數式\"}\n",
+    "ts": "2026-04-30T00:29:48.271425+00:00",
+    "engine": "codex"
+  },
+  "image_572434364936a3.png": {
+    "classification": "formula",
+    "latex": "B(3,2,1)",
+    "note": "點B的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(3,2,1)\",\"note\":\"點B的座標\"}\n",
+    "ts": "2026-04-30T00:29:49.824476+00:00",
+    "engine": "codex"
+  },
+  "image_565a8bc7613808.png": {
+    "classification": "formula",
+    "latex": "L_1:\\frac{x-2}{2}=\\frac{y-1}{-3}=\\frac{z}{-1}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\frac{x-2}{2}=\\\\frac{y-1}{-3}=\\\\frac{z}{-1}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:29:51.093479+00:00",
+    "engine": "codex"
+  },
+  "image_58b66cc8ab92c8.png": {
+    "classification": "formula",
+    "latex": "L:\\begin{cases}x=1+2t\\\\y=2-t\\\\z=-1+3t\\end{cases}",
+    "note": "空間直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\begin{cases}x=1+2t\\\\\\\\y=2-t\\\\\\\\z=-1+3t\\\\end{cases}\",\"note\":\"空間直線的參數式\"}\n",
+    "ts": "2026-04-30T00:29:54.884667+00:00",
+    "engine": "codex"
+  },
+  "image_5764bd43c07873.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=3+2s\\\\y=-1-3s\\\\z=5+5s\\end{cases}",
+    "note": "三維參數式直線方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=3+2s\\\\\\\\y=-1-3s\\\\\\\\z=5+5s\\\\end{cases}\",\"note\":\"三維參數式直線方程\"}\n",
+    "ts": "2026-04-30T00:29:54.971026+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一字母變數B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一字母變數B\"}\n",
+    "ts": "2026-04-30T00:29:55.218205+00:00",
+    "engine": "codex"
+  },
+  "image_5bd80b4937337f.png": {
+    "classification": "formula",
+    "latex": "a=-1",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-1\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T00:29:59.487344+00:00",
+    "engine": "codex"
+  },
+  "image_5bb62adbfb81cf.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一英文字母變數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一英文字母變數\"}\n",
+    "ts": "2026-04-30T00:30:00.282581+00:00",
+    "engine": "codex"
+  },
+  "image_5d93014d53d874.png": {
+    "classification": "formula",
+    "latex": "(17,27,-14)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(17,27,-14)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:30:00.476299+00:00",
+    "engine": "codex"
+  },
+  "image_5de7e80b794c2f.png": {
+    "classification": "formula",
+    "latex": "\\left(1,1,-2\\right)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,1,-2\\\\right)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:30:02.924837+00:00",
+    "engine": "codex"
+  },
+  "image_5f68a0bd170228.png": {
+    "classification": "formula",
+    "latex": "b=-4, c=10",
+    "note": "變數 b 與 c 的數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=-4, c=10\",\"note\":\"變數 b 與 c 的數值\"}\n",
+    "ts": "2026-04-30T00:30:05.151574+00:00",
+    "engine": "codex"
+  },
+  "image_5f4e94ed1025fb.png": {
+    "classification": "formula",
+    "latex": "(-3,1,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-3,1,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:30:06.474575+00:00",
+    "engine": "codex"
+  },
+  "image_607969bd498cda.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{BA}=(-1,2,5)",
+    "note": "向量BA的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{BA}=(-1,2,5)\",\"note\":\"向量BA的座標\"}\n",
+    "ts": "2026-04-30T00:30:06.872329+00:00",
+    "engine": "codex"
+  },
+  "image_60aeb4fcb920dd.png": {
+    "classification": "formula",
+    "latex": "(17,-27,14)",
+    "note": "三維坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(17,-27,14)\",\"note\":\"三維坐標\"}\n",
+    "ts": "2026-04-30T00:30:10.406910+00:00",
+    "engine": "codex"
+  },
+  "image_615b38b6b44c05.png": {
+    "classification": "formula",
+    "latex": "a=3,c=-3",
+    "note": "變數 a 與 c 的取值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=3,c=-3\",\"note\":\"變數 a 與 c 的取值\"}\n",
+    "ts": "2026-04-30T00:30:10.642327+00:00",
+    "engine": "codex"
+  },
+  "image_61f1590067130e.png": {
+    "classification": "formula",
+    "latex": "\\frac{6-1}{3}=\\frac{(-2)+2}{-1}=\\frac{4}{2}",
+    "note": "連等式分數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{6-1}{3}=\\\\frac{(-2)+2}{-1}=\\\\frac{4}{2}\",\"note\":\"連等式分數計算\"}\n",
+    "ts": "2026-04-30T00:30:12.814611+00:00",
+    "engine": "codex"
+  },
+  "image_627fedc42a2020.png": {
+    "classification": "formula",
+    "latex": "L_1:\\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z-3}{1}",
+    "note": "三維直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\frac{x-1}{2}=\\\\frac{y-2}{3}=\\\\frac{z-3}{1}\",\"note\":\"三維直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:30:13.859217+00:00",
+    "engine": "codex"
+  },
+  "image_63e61a16dc2b38.png": {
+    "classification": "formula",
+    "latex": "x+y+3z=2",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+y+3z=2\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:30:15.004240+00:00",
+    "engine": "codex"
+  },
+  "image_62a5f673bd6641.png": {
+    "classification": "formula",
+    "latex": "(2,-1,2)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,-1,2)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:30:16.318825+00:00",
+    "engine": "codex"
+  },
+  "image_65d13b28a360e7.png": {
+    "classification": "formula",
+    "latex": "2x-y=0",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-y=0\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:30:17.573639+00:00",
+    "engine": "codex"
+  },
+  "image_6711318d0927f5.png": {
+    "classification": "formula",
+    "latex": "t=\\frac{1}{2}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=\\\\frac{1}{2}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T00:30:20.461288+00:00",
+    "engine": "codex"
+  },
+  "image_67afb0d2b9d794.png": {
+    "classification": "formula",
+    "latex": "(6,-2,4)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(6,-2,4)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:30:21.432903+00:00",
+    "engine": "codex"
+  },
+  "image_6886046f5ad8c0.png": {
+    "classification": "formula",
+    "latex": "k",
+    "note": "單一變數 k",
+    "raw": "{\"class\":\"formula\",\"latex\":\"k\",\"note\":\"單一變數 k\"}\n",
+    "ts": "2026-04-30T00:30:22.405009+00:00",
+    "engine": "codex"
+  },
+  "image_66a2d67bc0b112.png": {
+    "classification": "formula",
+    "latex": "L_1:\\frac{x-a}{1}=\\frac{y-3}{2}=\\frac{z}{3}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\frac{x-a}{1}=\\\\frac{y-3}{2}=\\\\frac{z}{3}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:30:23.194534+00:00",
+    "engine": "codex"
+  },
+  "image_6e762f4b07c2ed.png": {
+    "classification": "formula",
+    "latex": "L_2:\\frac{x-3}{4}=\\frac{y+1}{-6}=\\frac{z-2}{-2}",
+    "note": "三維直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\frac{x-3}{4}=\\\\frac{y+1}{-6}=\\\\frac{z-2}{-2}\",\"note\":\"三維直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:30:28.364044+00:00",
+    "engine": "codex"
+  },
+  "image_6b066f28a812f3.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=1+4s\\\\y=2-6s\\\\z=10s\\end{cases}",
+    "note": "三維參數方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=1+4s\\\\\\\\y=2-6s\\\\\\\\z=10s\\\\end{cases}\",\"note\":\"三維參數方程組\"}\n",
+    "ts": "2026-04-30T00:30:28.401831+00:00",
+    "engine": "codex"
+  },
+  "image_68e336dc229576.png": {
+    "classification": "formula",
+    "latex": "(10,-5,6)",
+    "note": "三元有序數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(10,-5,6)\",\"note\":\"三元有序數組\"}\n",
+    "ts": "2026-04-30T00:30:28.678686+00:00",
+    "engine": "codex"
+  },
+  "image_6bdd294a503017.png": {
+    "classification": "formula",
+    "latex": "L_2:\\frac{x-1}{1}=\\frac{y+2}{1}=\\frac{z-1}{-2}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\frac{x-1}{1}=\\\\frac{y+2}{1}=\\\\frac{z-1}{-2}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:30:28.900355+00:00",
+    "engine": "codex"
+  },
+  "image_70c29769be8e00.png": {
+    "classification": "formula",
+    "latex": "E:3x-y+2z-4=0",
+    "note": "平面方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E:3x-y+2z-4=0\",\"note\":\"平面方程式\"}\n",
+    "ts": "2026-04-30T00:30:32.407566+00:00",
+    "engine": "codex"
+  },
+  "image_6e8063d0509ef6.png": {
+    "classification": "formula",
+    "latex": "x+y=2",
+    "note": "一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+y=2\",\"note\":\"一次方程式\"}\n",
+    "ts": "2026-04-30T00:30:32.583522+00:00",
+    "engine": "codex"
+  },
+  "image_70c72e2cb1281c.png": {
+    "classification": "formula",
+    "latex": "t=-1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=-1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:30:32.840155+00:00",
+    "engine": "codex"
+  },
+  "image_6f066c4e60aa39.png": {
+    "classification": "formula",
+    "latex": "(16,-7,10)",
+    "note": "三元有序數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(16,-7,10)\",\"note\":\"三元有序數組\"}\n",
+    "ts": "2026-04-30T00:30:34.608258+00:00",
+    "engine": "codex"
+  },
+  "image_70d7a0ea79f80a.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PQ}=(3,-1,2)",
+    "note": "向量PQ的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PQ}=(3,-1,2)\",\"note\":\"向量PQ的座標表示\"}\n",
+    "ts": "2026-04-30T00:30:37.320437+00:00",
+    "engine": "codex"
+  },
+  "image_71ce284a7f808c.png": {
+    "classification": "formula",
+    "latex": "x+2y+3z=0",
+    "note": "linear equation in three variables",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+2y+3z=0\",\"note\":\"linear equation in three variables\"}\n",
+    "ts": "2026-04-30T00:30:40.394086+00:00",
+    "engine": "codex"
+  },
+  "image_74f415fd80e957.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x-2}{3}=\\frac{y+1}{-2}=-z",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x-2}{3}=\\\\frac{y+1}{-2}=-z\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:30:42.487621+00:00",
+    "engine": "codex"
+  },
+  "image_757b3c70effe10.png": {
+    "classification": "formula",
+    "latex": "L_2:\\frac{x-1}{4}=\\frac{y+2}{2}=\\frac{z+1}{6}",
+    "note": "空間直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\frac{x-1}{4}=\\\\frac{y+2}{2}=\\\\frac{z+1}{6}\",\"note\":\"空間直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:30:42.890856+00:00",
+    "engine": "codex"
+  },
+  "image_71a475c236cf77.png": {
+    "classification": "formula",
+    "latex": "3t-9-2t-1-2t-4=0\\Rightarrow t=-14",
+    "note": "一元一次方程式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3t-9-2t-1-2t-4=0\\\\Rightarrow t=-14\",\"note\":\"一元一次方程式運算\"}\n",
+    "ts": "2026-04-30T00:30:44.472020+00:00",
+    "engine": "codex"
+  },
+  "image_77be7eeabd3a6b.png": {
+    "classification": "formula",
+    "latex": "a+b+c",
+    "note": "三個變數相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b+c\",\"note\":\"三個變數相加\"}\n",
+    "ts": "2026-04-30T00:30:47.202149+00:00",
+    "engine": "codex"
+  },
+  "image_75c5e9a68b3bc8.png": {
+    "classification": "formula",
+    "latex": "6x-2y+4z=10",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6x-2y+4z=10\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:30:49.337546+00:00",
+    "engine": "codex"
+  },
+  "image_78b59c7f64e727.png": {
+    "classification": "formula",
+    "latex": "2\\overrightarrow{AB}=(2,-4,-10)",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\overrightarrow{AB}=(2,-4,-10)\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-30T00:30:49.937575+00:00",
+    "engine": "codex"
+  },
+  "image_7746e25d755bf7.png": {
+    "classification": "formula",
+    "latex": "\\vec{v}_{2}=(4,2,6)",
+    "note": "向量座標式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{v}_{2}=(4,2,6)\",\"note\":\"向量座標式\"}\n",
+    "ts": "2026-04-30T00:30:49.992107+00:00",
+    "engine": "codex"
+  },
+  "image_7b9ffef28e4cb6.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=1+2t\\\\y=-t\\\\z=2+2t\\end{cases}",
+    "note": "三維直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=1+2t\\\\\\\\y=-t\\\\\\\\z=2+2t\\\\end{cases}\",\"note\":\"三維直線的參數式\"}\n",
+    "ts": "2026-04-30T00:30:52.832294+00:00",
+    "engine": "codex"
+  },
+  "image_7bcf7ba33bdc54.png": {
+    "classification": "formula",
+    "latex": "t",
+    "note": "單一變數 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\",\"note\":\"單一變數 t\"}\n",
+    "ts": "2026-04-30T00:30:53.282717+00:00",
+    "engine": "codex"
+  },
+  "image_7e50c67b081a90.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=-1+4t\\\\y=4-4t\\\\z=8-t\\end{cases}",
+    "note": "三維參數方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=-1+4t\\\\\\\\y=4-4t\\\\\\\\z=8-t\\\\end{cases}\",\"note\":\"三維參數方程組\"}\n",
+    "ts": "2026-04-30T00:30:56.532495+00:00",
+    "engine": "codex"
+  },
+  "image_7f2b616cb8ba8f.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x-2}{1}=\\frac{y-4}{2}=\\frac{z-2}{1}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x-2}{1}=\\\\frac{y-4}{2}=\\\\frac{z-2}{1}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:30:56.875733+00:00",
+    "engine": "codex"
+  },
+  "image_8074e4ff59d2f7.png": {
+    "classification": "formula",
+    "latex": "M",
+    "note": "單一變數 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\",\"note\":\"單一變數 M\"}\n",
+    "ts": "2026-04-30T00:30:57.474517+00:00",
+    "engine": "codex"
+  },
+  "image_811c530e469819.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}3x-y+2z=5\\\\6x-2y+4z=10\\end{cases}",
+    "note": "二元? actually linear system",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}3x-y+2z=5\\\\\\\\6x-2y+4z=10\\\\end{cases}\",\"note\":\"二元? actually linear system\"}\n",
+    "ts": "2026-04-30T00:31:00.214632+00:00",
+    "engine": "codex"
+  },
+  "image_83fab9d72a116f.png": {
+    "classification": "formula",
+    "latex": "x=0",
+    "note": "方程式 x 等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=0\",\"note\":\"方程式 x 等於 0\"}\n",
+    "ts": "2026-04-30T00:31:01.095024+00:00",
+    "engine": "codex"
+  },
+  "image_82c81436e24827.png": {
+    "classification": "formula",
+    "latex": "\\frac{x+3}{2}=\\frac{y-1}{-1}=\\frac{z+4}{2}",
+    "note": "三維直線對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x+3}{2}=\\\\frac{y-1}{-1}=\\\\frac{z+4}{2}\",\"note\":\"三維直線對稱式\"}\n",
+    "ts": "2026-04-30T00:31:03.388707+00:00",
+    "engine": "codex"
+  },
+  "image_8518d42b731a42.png": {
+    "classification": "formula",
+    "latex": "2x-3y=5",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-3y=5\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-04-30T00:31:04.261218+00:00",
+    "engine": "codex"
+  },
+  "image_8154afbd9c435d.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}1+t=1+s\\\\t=-2+s\\\\-1+2t=1-2s\\end{cases}\\Rightarrow\\begin{cases}t-s=0\\cdots\\text{(i)}\\\\t-s=-2\\cdots\\text{(ii)}\\\\t+s=1\\cdots\\text{(iii)}\\end{cases}",
+    "note": "聯立方程式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}1+t=1+s\\\\\\\\t=-2+s\\\\\\\\-1+2t=1-2s\\\\end{cases}\\\\Rightarrow\\\\begin{cases}t-s=0\\\\cdots\\\\text{(i)}\\\\\\\\t-s=-2\\\\cdots\\\\text{(ii)}\\\\\\\\t+s=1\\\\cdots\\\\text{(iii)}\\\\end{cases}\",\"note\":\"聯立方程式化簡\"}\n",
+    "ts": "2026-04-30T00:31:06.038307+00:00",
+    "engine": "codex"
+  },
+  "image_85afbec3f8cdda.png": {
+    "classification": "formula",
+    "latex": "\\left(1,2,3\\right)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,2,3\\\\right)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:31:09.324133+00:00",
+    "engine": "codex"
+  },
+  "image_8a2b37c339b6de.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=2+t\\\\y=4-2t\\\\z=6-5t\\end{cases}",
+    "note": "三元一次參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=2+t\\\\\\\\y=4-2t\\\\\\\\z=6-5t\\\\end{cases}\",\"note\":\"三元一次參數式\"}\n",
+    "ts": "2026-04-30T00:31:10.543521+00:00",
+    "engine": "codex"
+  },
+  "image_8c0b79729cab23.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=3+2t\\\\y=2-4t\\\\z=1-10t\\end{cases}",
+    "note": "三維直線參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=3+2t\\\\\\\\y=2-4t\\\\\\\\z=1-10t\\\\end{cases}\",\"note\":\"三維直線參數式\"}\n",
+    "ts": "2026-04-30T00:31:11.342829+00:00",
+    "engine": "codex"
+  },
+  "image_89ebef1b31b08f.png": {
+    "classification": "formula",
+    "latex": "(-5,8,9)",
+    "note": "三元有序數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-5,8,9)\",\"note\":\"三元有序數組\"}\n",
+    "ts": "2026-04-30T00:31:11.897238+00:00",
+    "engine": "codex"
+  },
+  "image_920445e89c326b.png": {
+    "classification": "formula",
+    "latex": "P(x,y,z)",
+    "note": "點P的座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(x,y,z)\",\"note\":\"點P的座標表示\"}\n",
+    "ts": "2026-04-30T00:31:15.691689+00:00",
+    "engine": "codex"
+  },
+  "image_92ccb0c149dc8f.png": {
+    "classification": "formula",
+    "latex": "xz",
+    "note": "兩個變數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"xz\",\"note\":\"兩個變數相乘\"}\n",
+    "ts": "2026-04-30T00:31:16.558578+00:00",
+    "engine": "codex"
+  },
+  "image_905a278a985aa7.png": {
+    "classification": "formula",
+    "latex": "(-17,27,14)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-17,27,14)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:31:17.064052+00:00",
+    "engine": "codex"
+  },
+  "image_90bde5555c960f.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=3+2t\\\\y=2-4t\\\\z=1-10t\\end{cases}",
+    "note": "三維直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=3+2t\\\\\\\\y=2-4t\\\\\\\\z=1-10t\\\\end{cases}\",\"note\":\"三維直線的參數式\"}\n",
+    "ts": "2026-04-30T00:31:21.197299+00:00",
+    "engine": "codex"
+  },
+  "image_93386ef0be968e.png": {
+    "classification": "formula",
+    "latex": "-2",
+    "note": "負數 -2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\",\"note\":\"負數 -2\"}\n",
+    "ts": "2026-04-30T00:31:21.738328+00:00",
+    "engine": "codex"
+  },
+  "image_934efdd82cb6e1.png": {
+    "classification": "formula",
+    "latex": "(4,-1,3)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(4,-1,3)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:31:24.053216+00:00",
+    "engine": "codex"
+  },
+  "image_944d0ef2101937.png": {
+    "classification": "formula",
+    "latex": "\\left(-4,2,-4\\right)=2\\left(-2,1,-2\\right)",
+    "note": "三維向量純量倍數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-4,2,-4\\\\right)=2\\\\left(-2,1,-2\\\\right)\",\"note\":\"三維向量純量倍數等式\"}\n",
+    "ts": "2026-04-30T00:31:25.957111+00:00",
+    "engine": "codex"
+  },
+  "image_95d47319e822e3.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+3y=1\\\\x-3y+2z=6\\end{cases}",
+    "note": "二元與三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+3y=1\\\\\\\\x-3y+2z=6\\\\end{cases}\",\"note\":\"二元與三元一次方程組\"}\n",
+    "ts": "2026-04-30T00:31:26.939209+00:00",
+    "engine": "codex"
+  },
+  "image_94f614c585bea4.png": {
+    "classification": "formula",
+    "latex": "\\frac{-5-1}{3}=\\frac{0+2}{-1}=\\frac{1}{2}",
+    "note": "分數連等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-5-1}{3}=\\\\frac{0+2}{-1}=\\\\frac{1}{2}\",\"note\":\"分數連等式\"}\n",
+    "ts": "2026-04-30T00:31:28.102241+00:00",
+    "engine": "codex"
+  },
+  "image_96d6760e5b8ba8.png": {
+    "classification": "formula",
+    "latex": "-3+2t,1-t,3t",
+    "note": "三維座標參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3+2t,1-t,3t\",\"note\":\"三維座標參數式\"}\n",
+    "ts": "2026-04-30T00:31:29.861802+00:00",
+    "engine": "codex"
+  },
+  "image_97b5c2e9497e57.png": {
+    "classification": "formula",
+    "latex": "(2,-1,3)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,-1,3)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:31:33.201654+00:00",
+    "engine": "codex"
+  },
+  "image_9aae145bc82f9a.png": {
+    "classification": "formula",
+    "latex": "(2,0,1)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,0,1)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-04-30T00:31:34.186686+00:00",
+    "engine": "codex"
+  },
+  "image_9b50410bfc4c42.png": {
+    "classification": "formula",
+    "latex": "0=-2",
+    "note": "等式：0等於負2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0=-2\",\"note\":\"等式：0等於負2\"}\n",
+    "ts": "2026-04-30T00:31:34.603488+00:00",
+    "engine": "codex"
+  },
+  "image_9aeda107773524.png": {
+    "classification": "formula",
+    "latex": "\\underline{Q}(1,2,-2)",
+    "note": "點Q座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\underline{Q}(1,2,-2)\",\"note\":\"點Q座標\"}\n",
+    "ts": "2026-04-30T00:31:34.954373+00:00",
+    "engine": "codex"
+  },
+  "image_9b6ef15db76ab3.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-3}{-1}=\\frac{y-2}{2}=\\frac{z-1}{5}",
+    "note": "三維直線對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-3}{-1}=\\\\frac{y-2}{2}=\\\\frac{z-1}{5}\",\"note\":\"三維直線對稱式\"}\n",
+    "ts": "2026-04-30T00:31:38.186867+00:00",
+    "engine": "codex"
+  },
+  "image_9f1c2aa3f450fd.png": {
+    "classification": "formula",
+    "latex": "(0,0,0)",
+    "note": "三維座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0,0)\",\"note\":\"三維座標原點\"}\n",
+    "ts": "2026-04-30T00:31:40.205665+00:00",
+    "engine": "codex"
+  },
+  "image_9f2ec7ed81e17d.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=(1,-2,-5)",
+    "note": "向量AB的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=(1,-2,-5)\",\"note\":\"向量AB的坐標表示\"}\n",
+    "ts": "2026-04-30T00:31:42.539288+00:00",
+    "engine": "codex"
+  },
+  "image_9c022012172e21.png": {
+    "classification": "formula",
+    "latex": "(3,0,2)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,0,2)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:31:42.935162+00:00",
+    "engine": "codex"
+  },
+  "image_9fd3ba21f2bc61.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{d_1}\\nparallel\\overrightarrow{d_2}",
+    "note": "兩有向直線不平行",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{d_1}\\\\nparallel\\\\overrightarrow{d_2}\",\"note\":\"兩有向直線不平行\"}\n",
+    "ts": "2026-04-30T00:31:45.321216+00:00",
+    "engine": "codex"
+  },
+  "image_a355c545d58769.png": {
+    "classification": "formula",
+    "latex": "E_1",
+    "note": "下標變數 E1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E_1\",\"note\":\"下標變數 E1\"}\n",
+    "ts": "2026-04-30T00:31:49.444340+00:00",
+    "engine": "codex"
+  },
+  "image_a343b75a3452e3.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{4}=\\frac{1}{2}=\\frac{3}{6}",
+    "note": "等值分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{4}=\\\\frac{1}{2}=\\\\frac{3}{6}\",\"note\":\"等值分數\"}\n",
+    "ts": "2026-04-30T00:31:49.532717+00:00",
+    "engine": "codex"
+  },
+  "image_a08591616605bc.png": {
+    "classification": "formula",
+    "latex": "\\frac{10-1}{3}=\\frac{(-5)+2}{-1}=\\frac{6}{2}",
+    "note": "等式中的分數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10-1}{3}=\\\\frac{(-5)+2}{-1}=\\\\frac{6}{2}\",\"note\":\"等式中的分數運算\"}\n",
+    "ts": "2026-04-30T00:31:49.973695+00:00",
+    "engine": "codex"
+  },
+  "image_a2692641dcf506.png": {
+    "classification": "formula",
+    "latex": "L_2",
+    "note": "字母 L 下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2\",\"note\":\"字母 L 下標 2\"}\n",
+    "ts": "2026-04-30T00:31:50.929135+00:00",
+    "engine": "codex"
+  },
+  "image_a3d4c82b7aad91.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}",
+    "note": "線段PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}\",\"note\":\"線段PQ\"}\n",
+    "ts": "2026-04-30T00:31:54.543115+00:00",
+    "engine": "codex"
+  },
+  "image_a3ad24cc91626e.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-1}{4}=\\frac{y}{-2}=\\frac{z-2}{4}",
+    "note": "三维直线的对称式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-1}{4}=\\\\frac{y}{-2}=\\\\frac{z-2}{4}\",\"note\":\"三维直线的对称式\"}\n",
+    "ts": "2026-04-30T00:31:55.928910+00:00",
+    "engine": "codex"
+  },
+  "image_a3a46dc7be68e7.png": {
+    "classification": "formula",
+    "latex": "(-5,2,-3)",
+    "note": "三維座標或向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-5,2,-3)\",\"note\":\"三維座標或向量\"}\n",
+    "ts": "2026-04-30T00:31:56.730273+00:00",
+    "engine": "codex"
+  },
+  "image_a62b34ea68dad5.png": {
+    "classification": "formula",
+    "latex": "L_1:\\begin{cases}x=1+2t\\\\y=2-t\\\\z=-1+3t\\end{cases}",
+    "note": "三維直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\begin{cases}x=1+2t\\\\\\\\y=2-t\\\\\\\\z=-1+3t\\\\end{cases}\",\"note\":\"三維直線的參數式\"}\n",
+    "ts": "2026-04-30T00:31:58.141795+00:00",
+    "engine": "codex"
+  },
+  "image_ad7040a2376ed5.png": {
+    "classification": "formula",
+    "latex": "x-y+2z=6",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-y+2z=6\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:32:02.370740+00:00",
+    "engine": "codex"
+  },
+  "image_a7cf126ddfa112.png": {
+    "classification": "formula",
+    "latex": "\\left(1,2,\\frac{15}{2}\\right)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,2,\\\\frac{15}{2}\\\\right)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:32:05.161145+00:00",
+    "engine": "codex"
+  },
+  "image_a6e0c0ab4f5fb0.png": {
+    "classification": "formula",
+    "latex": "(2,1,-1)",
+    "note": "三維座標或有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,1,-1)\",\"note\":\"三維座標或有序三元組\"}\n",
+    "ts": "2026-04-30T00:32:07.833635+00:00",
+    "engine": "codex"
+  },
+  "image_ae81bb68f5779d.png": {
+    "classification": "formula",
+    "latex": "E_2",
+    "note": "字母E下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E_2\",\"note\":\"字母E下標2\"}\n",
+    "ts": "2026-04-30T00:32:07.878784+00:00",
+    "engine": "codex"
+  },
+  "image_b002081048fbb4.png": {
+    "classification": "formula",
+    "latex": "Q(3,0,2)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"Q(3,0,2)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:32:09.397136+00:00",
+    "engine": "codex"
+  },
+  "image_b1f367b2e8239e.png": {
+    "classification": "formula",
+    "latex": "\\frac{2-a}{1}=\\frac{1-3}{2}=\\frac{c}{3}",
+    "note": "連比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2-a}{1}=\\\\frac{1-3}{2}=\\\\frac{c}{3}\",\"note\":\"連比例式\"}\n",
+    "ts": "2026-04-30T00:32:09.989388+00:00",
+    "engine": "codex"
+  },
+  "image_b3f2ba489dd3b9.png": {
+    "classification": "formula",
+    "latex": "(-3,0,-7)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-3,0,-7)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:32:13.612165+00:00",
+    "engine": "codex"
+  },
+  "image_b3fa9f0bc8f79f.png": {
+    "classification": "formula",
+    "latex": "(2,b,c)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,b,c)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:32:15.287167+00:00",
+    "engine": "codex"
+  },
+  "image_b48fb0088593f9.png": {
+    "classification": "formula",
+    "latex": "-1",
+    "note": "負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1\",\"note\":\"負一\"}\n",
+    "ts": "2026-04-30T00:32:15.468845+00:00",
+    "engine": "codex"
+  },
+  "image_b39f3076c2d2ca.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x+3}{1}=\\frac{y-1}{2}=\\frac{z}{-1}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x+3}{1}=\\\\frac{y-1}{2}=\\\\frac{z}{-1}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:32:15.712461+00:00",
+    "engine": "codex"
+  },
+  "image_b51f6928656ef2.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow (1+2t)+(-1+3t)+3(2-t)=2 \\Rightarrow t=-2",
+    "note": "代數方程推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow (1+2t)+(-1+3t)+3(2-t)=2 \\\\Rightarrow t=-2\",\"note\":\"代數方程推導\"}\n",
+    "ts": "2026-04-30T00:32:19.196681+00:00",
+    "engine": "codex"
+  },
+  "image_b7d4b2deddd6f7.png": {
+    "classification": "formula",
+    "latex": "-5",
+    "note": "負數 -5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-5\",\"note\":\"負數 -5\"}\n",
+    "ts": "2026-04-30T00:32:19.477855+00:00",
+    "engine": "codex"
+  },
+  "image_b87a92e446c465.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "平面E與直線L相交，點P在交線附近",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"平面E與直線L相交，點P在交線附近\"}\n",
+    "ts": "2026-04-30T00:32:19.784571+00:00",
+    "engine": "codex"
+  },
+  "image_b8fb8b400df701.png": {
+    "classification": "formula",
+    "latex": "P(1,-2,0)",
+    "note": "三維座標點 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(1,-2,0)\",\"note\":\"三維座標點 P\"}\n",
+    "ts": "2026-04-30T00:32:23.232894+00:00",
+    "engine": "codex"
+  },
+  "image_b9373ace7423c1.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x}{1}=\\frac{y}{2}=\\frac{z}{3}",
+    "note": "直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x}{1}=\\\\frac{y}{2}=\\\\frac{z}{3}\",\"note\":\"直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:32:25.128159+00:00",
+    "engine": "codex"
+  },
+  "image_babf05be4d828c.png": {
+    "classification": "formula",
+    "latex": "L_2:\\frac{x-6}{4}=\\frac{y}{-1}=\\frac{z+1}{b}",
+    "note": "空間直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\frac{x-6}{4}=\\\\frac{y}{-1}=\\\\frac{z+1}{b}\",\"note\":\"空間直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:32:28.320127+00:00",
+    "engine": "codex"
+  },
+  "image_b9a04f3dc76e15.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=2+2t\\\\y=y_0+bt\\\\z=1+ct\\end{cases}",
+    "note": "三維參數式方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=2+2t\\\\\\\\y=y_0+bt\\\\\\\\z=1+ct\\\\end{cases}\",\"note\":\"三維參數式方程組\"}\n",
+    "ts": "2026-04-30T00:32:28.531232+00:00",
+    "engine": "codex"
+  },
+  "image_b9036a00dc07a2.png": {
+    "classification": "formula",
+    "latex": "(3,0,7)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,0,7)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-04-30T00:32:29.408640+00:00",
+    "engine": "codex"
+  },
+  "image_bf7e52decee86a.png": {
+    "classification": "formula",
+    "latex": "\\overline{PQ}=(2,-2,2)=2(1,-1,1)",
+    "note": "向量表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PQ}=(2,-2,2)=2(1,-1,1)\",\"note\":\"向量表示式\"}\n",
+    "ts": "2026-04-30T00:32:30.669277+00:00",
+    "engine": "codex"
+  },
+  "image_c048da27d77a68.png": {
+    "classification": "formula",
+    "latex": "(2,1,c)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,1,c)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:32:34.283239+00:00",
+    "engine": "codex"
+  },
+  "image_c1f59165303647.png": {
+    "classification": "formula",
+    "latex": "\\frac{1-2}{1}=\\frac{2-4}{2}\\ne\\frac{3-2}{1}",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1-2}{1}=\\\\frac{2-4}{2}\\\\ne\\\\frac{3-2}{1}\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:32:34.878996+00:00",
+    "engine": "codex"
+  },
+  "image_c22ec098183fb7.png": {
+    "classification": "formula",
+    "latex": "(-5,0,1)",
+    "note": "三元有序數對",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-5,0,1)\",\"note\":\"三元有序數對\"}\n",
+    "ts": "2026-04-30T00:32:34.912731+00:00",
+    "engine": "codex"
+  },
+  "image_c44ccf858afa34.png": {
+    "classification": "formula",
+    "latex": "x-3y+5z=6",
+    "note": "三元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-3y+5z=6\",\"note\":\"三元一次方程式\"}\n",
+    "ts": "2026-04-30T00:32:35.456552+00:00",
+    "engine": "codex"
+  },
+  "image_c5d4c29c569902.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}",
+    "note": "線段AB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}\",\"note\":\"線段AB\"}\n",
+    "ts": "2026-04-30T00:32:40.392702+00:00",
+    "engine": "codex"
+  },
+  "image_c5ba725cc1e4b3.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow",
+    "note": "雙線右箭頭符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow\",\"note\":\"雙線右箭頭符號\"}\n",
+    "ts": "2026-04-30T00:32:40.716624+00:00",
+    "engine": "codex"
+  },
+  "image_c615d11def22d6.png": {
+    "classification": "formula",
+    "latex": "E:3x+y-2z=-10",
+    "note": "直線或平面方程式標記",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E:3x+y-2z=-10\",\"note\":\"直線或平面方程式標記\"}\n",
+    "ts": "2026-04-30T00:32:40.900768+00:00",
+    "engine": "codex"
+  },
+  "image_c576a83a3000ab.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow (1+2t)-2(-1+3t)-4(2-t)=0\\Rightarrow 0t=5",
+    "note": "線性方程化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow (1+2t)-2(-1+3t)-4(2-t)=0\\\\Rightarrow 0t=5\",\"note\":\"線性方程化簡\"}\n",
+    "ts": "2026-04-30T00:32:41.269257+00:00",
+    "engine": "codex"
+  },
+  "image_c980c6cec9d106.png": {
+    "classification": "formula",
+    "latex": "\\frac{x+2}{1}=\\frac{y-1}{-2}=\\frac{z}{-1}\\to\\frac{x-(-2)}{1}=\\frac{y-1}{-2}=\\frac{z}{-1}",
+    "note": "直線對稱式轉換",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x+2}{1}=\\\\frac{y-1}{-2}=\\\\frac{z}{-1}\\\\to\\\\frac{x-(-2)}{1}=\\\\frac{y-1}{-2}=\\\\frac{z}{-1}\",\"note\":\"直線對稱式轉換\"}\n",
+    "ts": "2026-04-30T00:32:47.033400+00:00",
+    "engine": "codex"
+  },
+  "image_c850c0c36c1ac6.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=2+t\\\\y=4-2t\\\\z=6-5t\\end{cases}",
+    "note": "三維直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=2+t\\\\\\\\y=4-2t\\\\\\\\z=6-5t\\\\end{cases}\",\"note\":\"三維直線的參數式\"}\n",
+    "ts": "2026-04-30T00:32:47.445775+00:00",
+    "engine": "codex"
+  },
+  "image_c749fbacaf81e1.png": {
+    "classification": "formula",
+    "latex": "A(3,-1,4)",
+    "note": "點 A 的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(3,-1,4)\",\"note\":\"點 A 的三維座標\"}\n",
+    "ts": "2026-04-30T00:32:47.768858+00:00",
+    "engine": "codex"
+  },
+  "image_c705d8ae636662.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=2-t\\\\y=3\\\\z=1+2t\\end{cases}",
+    "note": "三維直線參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=2-t\\\\\\\\y=3\\\\\\\\z=1+2t\\\\end{cases}\",\"note\":\"三維直線參數式\"}\n",
+    "ts": "2026-04-30T00:32:48.754046+00:00",
+    "engine": "codex"
+  },
+  "image_cc19e42ee876f8.png": {
+    "classification": "formula",
+    "latex": "(3,-1,2)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,-1,2)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:32:54.302988+00:00",
+    "engine": "codex"
+  },
+  "image_cb14715abffbc4.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-1}{1}=\\frac{y}{-2}=\\frac{z+1}{3}",
+    "note": "對稱式直線方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-1}{1}=\\\\frac{y}{-2}=\\\\frac{z+1}{3}\",\"note\":\"對稱式直線方程\"}\n",
+    "ts": "2026-04-30T00:32:54.944232+00:00",
+    "engine": "codex"
+  },
+  "image_cd21e3b4094601.png": {
+    "classification": "formula",
+    "latex": "\\frac{x-1}{3}=\\frac{y+2}{-1}=\\frac{z}{2}",
+    "note": "三維直線對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x-1}{3}=\\\\frac{y+2}{-1}=\\\\frac{z}{2}\",\"note\":\"三維直線對稱式方程\"}\n",
+    "ts": "2026-04-30T00:32:55.023568+00:00",
+    "engine": "codex"
+  },
+  "image_ce4188b5251d96.png": {
+    "classification": "formula",
+    "latex": "(1,0,3)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,0,3)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:32:58.928856+00:00",
+    "engine": "codex"
+  },
+  "image_d0ca4151de88fe.png": {
+    "classification": "formula",
+    "latex": "2x-y+z=5",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-y+z=5\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-04-30T00:32:59.601766+00:00",
+    "engine": "codex"
+  },
+  "image_d0987c3889f8e9.png": {
+    "classification": "formula",
+    "latex": "L:\\begin{cases}x=1-t\\\\y=2+t\\\\z=-1+2t\\end{cases}",
+    "note": "直線的參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\begin{cases}x=1-t\\\\\\\\y=2+t\\\\\\\\z=-1+2t\\\\end{cases}\",\"note\":\"直線的參數式\"}\n",
+    "ts": "2026-04-30T00:33:02.017693+00:00",
+    "engine": "codex"
+  },
+  "image_c98c508c5cb024.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}2=1-t\\\\1=2+t\\\\-3=-1+2t\\end{cases}\\Rightarrow\\begin{cases}t=-1\\\\t=-1\\\\t=-1\\end{cases}",
+    "note": "聯立方程求得 t=-1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}2=1-t\\\\\\\\1=2+t\\\\\\\\-3=-1+2t\\\\end{cases}\\\\Rightarrow\\\\begin{cases}t=-1\\\\\\\\t=-1\\\\\\\\t=-1\\\\end{cases}\",\"note\":\"聯立方程求得 t=-1\"}\n",
+    "ts": "2026-04-30T00:33:03.192521+00:00",
+    "engine": "codex"
+  },
+  "image_d138321aff03a5.png": {
+    "classification": "formula",
+    "latex": "L_2:\\begin{cases}x=1+s\\\\y=-2+s\\\\z=1-2s\\end{cases}",
+    "note": "參數式直線方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\begin{cases}x=1+s\\\\\\\\y=-2+s\\\\\\\\z=1-2s\\\\end{cases}\",\"note\":\"參數式直線方程\"}\n",
+    "ts": "2026-04-30T00:33:05.038505+00:00",
+    "engine": "codex"
+  },
+  "image_d17db9eb2e8141.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=3-4t\\\\y=-1+2t\\\\z=4-4t\\end{cases}",
+    "note": "三維直線參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=3-4t\\\\\\\\y=-1+2t\\\\\\\\z=4-4t\\\\end{cases}\",\"note\":\"三維直線參數式\"}\n",
+    "ts": "2026-04-30T00:33:05.535580+00:00",
+    "engine": "codex"
+  },
+  "image_d2c291a8644f6d.png": {
+    "classification": "formula",
+    "latex": "P(1,2,0)",
+    "note": "點P的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(1,2,0)\",\"note\":\"點P的三維座標\"}\n",
+    "ts": "2026-04-30T00:33:06.715759+00:00",
+    "engine": "codex"
+  },
+  "image_d2ee5a34ba867a.png": {
+    "classification": "formula",
+    "latex": "t",
+    "note": "單一變數 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\",\"note\":\"單一變數 t\"}\n",
+    "ts": "2026-04-30T00:33:09.208969+00:00",
+    "engine": "codex"
+  },
+  "image_d3d9f3e4cd3f6b.png": {
+    "classification": "formula",
+    "latex": "B(3,2,1)",
+    "note": "點B的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(3,2,1)\",\"note\":\"點B的三維座標\"}\n",
+    "ts": "2026-04-30T00:33:10.929768+00:00",
+    "engine": "codex"
+  },
+  "image_d5b0dc7147af0b.png": {
+    "classification": "formula",
+    "latex": "P(1+2t,-1+3t,2-t)",
+    "note": "點P的參數座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(1+2t,-1+3t,2-t)\",\"note\":\"點P的參數座標表示\"}\n",
+    "ts": "2026-04-30T00:33:11.013669+00:00",
+    "engine": "codex"
+  },
+  "image_d9c2527539e0b4.png": {
+    "classification": "formula",
+    "latex": "z=-t",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z=-t\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T00:33:12.794904+00:00",
+    "engine": "codex"
+  },
+  "image_d63bab0428353d.png": {
+    "classification": "formula",
+    "latex": "(1,2,-4)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,-4)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-04-30T00:33:15.643507+00:00",
+    "engine": "codex"
+  },
+  "image_ddc311e62aa9dc.png": {
+    "classification": "formula",
+    "latex": "a+b+c=3+2+(-3)=2",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b+c=3+2+(-3)=2\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-30T00:33:16.438084+00:00",
+    "engine": "codex"
+  },
+  "image_df87984b6e6042.png": {
+    "classification": "formula",
+    "latex": "x-2y-4z=0",
+    "note": "三變數一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-2y-4z=0\",\"note\":\"三變數一次方程式\"}\n",
+    "ts": "2026-04-30T00:33:17.911849+00:00",
+    "engine": "codex"
+  },
+  "image_dff7ddd6f0123f.png": {
+    "classification": "formula",
+    "latex": "\\left(-1,2,-5\\right)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-1,2,-5\\\\right)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:33:20.004847+00:00",
+    "engine": "codex"
+  },
+  "image_e37fbf010d6877.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{PQ}",
+    "note": "向量PQ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{PQ}\",\"note\":\"向量PQ\"}\n",
+    "ts": "2026-04-30T00:33:21.841884+00:00",
+    "engine": "codex"
+  },
+  "image_e3a09c1c1f0c6f.png": {
+    "classification": "formula",
+    "latex": "P(-17,-27,14)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(-17,-27,14)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:33:22.966211+00:00",
+    "engine": "codex"
+  },
+  "image_e01bbd5ef33a4c.png": {
+    "classification": "formula",
+    "latex": "\\left(0,3,\\frac{31}{4}\\right)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(0,3,\\\\frac{31}{4}\\\\right)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:33:23.591837+00:00",
+    "engine": "codex"
+  },
+  "image_e5f1d53a16adf4.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x=0\\\\y=0\\end{cases}",
+    "note": "聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x=0\\\\\\\\y=0\\\\end{cases}\",\"note\":\"聯立方程式\"}\n",
+    "ts": "2026-04-30T00:33:26.591785+00:00",
+    "engine": "codex"
+  },
+  "image_e5ee91a9c9eb20.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x-1}{1}=\\frac{y}{2}=\\frac{z+1}{-3}",
+    "note": "空間直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x-1}{1}=\\\\frac{y}{2}=\\\\frac{z+1}{-3}\",\"note\":\"空間直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:33:26.666039+00:00",
+    "engine": "codex"
+  },
+  "image_e74626338eb45d.png": {
+    "classification": "formula",
+    "latex": "(4,-3,2)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(4,-3,2)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:33:30.101182+00:00",
+    "engine": "codex"
+  },
+  "image_e7be4fef27aa69.png": {
+    "classification": "formula",
+    "latex": "L_2:\\frac{x-1}{4}=\\frac{y-2}{-2}=\\frac{z+1}{6}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2:\\\\frac{x-1}{4}=\\\\frac{y-2}{-2}=\\\\frac{z+1}{6}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:33:30.299420+00:00",
+    "engine": "codex"
+  },
+  "image_e7e4ecb3802e36.png": {
+    "classification": "formula",
+    "latex": "A(2,4,6)",
+    "note": "點A的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(2,4,6)\",\"note\":\"點A的三維座標\"}\n",
+    "ts": "2026-04-30T00:33:31.799245+00:00",
+    "engine": "codex"
+  },
+  "image_e7d6b827011210.png": {
+    "classification": "formula",
+    "latex": "(-17,-27,14)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-17,-27,14)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:33:32.983843+00:00",
+    "engine": "codex"
+  },
+  "image_ea3e002267a167.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x-1}{2}=\\frac{y-2}{-1}=\\frac{z-3}{3}",
+    "note": "空間直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x-1}{2}=\\\\frac{y-2}{-1}=\\\\frac{z-3}{3}\",\"note\":\"空間直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:33:35.100145+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數字母A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數字母A\"}\n",
+    "ts": "2026-04-30T00:33:36.174897+00:00",
+    "engine": "codex"
+  },
+  "image_ec342b4bb7980c.png": {
+    "classification": "formula",
+    "latex": "M:\\begin{cases}x=1-t\\\\y=-2t\\\\z=-1+3t\\end{cases}",
+    "note": "空間直線參數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M:\\\\begin{cases}x=1-t\\\\\\\\y=-2t\\\\\\\\z=-1+3t\\\\end{cases}\",\"note\":\"空間直線參數式\"}\n",
+    "ts": "2026-04-30T00:33:38.781153+00:00",
+    "engine": "codex"
+  },
+  "image_ec6c12f2663ba9.png": {
+    "classification": "formula",
+    "latex": "\\left(-17,-27,-14\\right)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-17,-27,-14\\\\right)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:33:40.551985+00:00",
+    "engine": "codex"
+  },
+  "image_ec9d2a9de32d7a.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{a}_2=(1,2,3)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{a}_2=(1,2,3)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-04-30T00:33:41.604318+00:00",
+    "engine": "codex"
+  },
+  "image_eec9c85f43d450.png": {
+    "classification": "formula",
+    "latex": "y=2t+1",
+    "note": "linear expression",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2t+1\",\"note\":\"linear expression\"}\n",
+    "ts": "2026-04-30T00:33:44.051581+00:00",
+    "engine": "codex"
+  },
+  "image_ed349e8afad245.png": {
+    "classification": "formula",
+    "latex": "(1,2,-1)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,-1)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-04-30T00:33:45.550410+00:00",
+    "engine": "codex"
+  },
+  "image_eb08f0f7508be8.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=(-2,1,-2)=-(2,-1,2)",
+    "note": "向量等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=(-2,1,-2)=-(2,-1,2)\",\"note\":\"向量等式\"}\n",
+    "ts": "2026-04-30T00:33:46.864304+00:00",
+    "engine": "codex"
+  },
+  "image_f1574425adb856.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x-3}{2}=\\frac{y-3}{1}=\\frac{z+3}{-1}",
+    "note": "直線的對稱式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x-3}{2}=\\\\frac{y-3}{1}=\\\\frac{z+3}{-1}\",\"note\":\"直線的對稱式\"}\n",
+    "ts": "2026-04-30T00:33:47.146364+00:00",
+    "engine": "codex"
+  },
+  "image_f58237594baa85.png": {
+    "classification": "formula",
+    "latex": "(2,1,0)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,1,0)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-04-30T00:33:51.997756+00:00",
+    "engine": "codex"
+  },
+  "image_f5c447123e974a.png": {
+    "classification": "formula",
+    "latex": "\\underline{Q}(4,-3,2)",
+    "note": "三維座標點Q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\underline{Q}(4,-3,2)\",\"note\":\"三維座標點Q\"}\n",
+    "ts": "2026-04-30T00:33:53.898684+00:00",
+    "engine": "codex"
+  },
+  "image_f19b02d0e306d8.png": {
+    "classification": "formula",
+    "latex": "a+b=3",
+    "note": "純代數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b=3\",\"note\":\"純代數等式\"}\n",
+    "ts": "2026-04-30T00:33:54.332559+00:00",
+    "engine": "codex"
+  },
+  "image_f60eae28000188.png": {
+    "classification": "formula",
+    "latex": "(1,2,3)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,3)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:33:56.524407+00:00",
+    "engine": "codex"
+  },
+  "image_f6723c90e22525.png": {
+    "classification": "formula",
+    "latex": "t=1",
+    "note": "純數學式：t等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t=1\",\"note\":\"純數學式：t等於1\"}\n",
+    "ts": "2026-04-30T00:33:56.883991+00:00",
+    "engine": "codex"
+  },
+  "image_f6b0e83958d4fd.png": {
+    "classification": "formula",
+    "latex": "L_1",
+    "note": "字母 L 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1\",\"note\":\"字母 L 下標 1\"}\n",
+    "ts": "2026-04-30T00:33:57.910020+00:00",
+    "engine": "codex"
+  },
+  "image_f710327501f108.png": {
+    "classification": "formula",
+    "latex": "(1,2,3)\\cdot(1,-2,3)=6\\ne0",
+    "note": "向量內積不為零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,3)\\\\cdot(1,-2,3)=6\\\\ne0\",\"note\":\"向量內積不為零\"}\n",
+    "ts": "2026-04-30T00:34:00.170704+00:00",
+    "engine": "codex"
+  },
+  "image_f7fe9801220111.png": {
+    "classification": "formula",
+    "latex": "x-y-z=0",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-y-z=0\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-04-30T00:34:00.551357+00:00",
+    "engine": "codex"
+  },
+  "image_f9ee413b926df6.png": {
+    "classification": "formula",
+    "latex": "\\frac{16-1}{3}=\\frac{(-7)+2}{-1}=\\frac{10}{2}",
+    "note": "連等式分數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{16-1}{3}=\\\\frac{(-7)+2}{-1}=\\\\frac{10}{2}\",\"note\":\"連等式分數運算\"}\n",
+    "ts": "2026-04-30T00:34:03.472375+00:00",
+    "engine": "codex"
+  },
+  "image_fa638435a5d3ff.png": {
+    "classification": "formula",
+    "latex": "(5,a,b)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(5,a,b)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-04-30T00:34:04.000236+00:00",
+    "engine": "codex"
+  },
+  "image_fb37c2a6342855.png": {
+    "classification": "formula",
+    "latex": "A(2,4,6)",
+    "note": "點A的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(2,4,6)\",\"note\":\"點A的三維座標\"}\n",
+    "ts": "2026-04-30T00:34:05.187084+00:00",
+    "engine": "codex"
+  },
+  "image_fcc9e3234897c9.png": {
+    "classification": "formula",
+    "latex": "L_1:\\frac{x-1}{1}=\\frac{y}{1}=\\frac{z+1}{2}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_1:\\\\frac{x-1}{1}=\\\\frac{y}{1}=\\\\frac{z+1}{2}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:34:07.143286+00:00",
+    "engine": "codex"
+  },
+  "image_fd0e00fe741615.png": {
+    "classification": "formula",
+    "latex": "t\\in\\mathbb{R}",
+    "note": "變數t屬於實數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\\\\in\\\\mathbb{R}\",\"note\":\"變數t屬於實數\"}\n",
+    "ts": "2026-04-30T00:34:08.479453+00:00",
+    "engine": "codex"
+  },
+  "image_fd399a12a9550b.png": {
+    "classification": "formula",
+    "latex": "(1,-1,6)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,-1,6)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-04-30T00:34:10.011117+00:00",
+    "engine": "codex"
+  },
+  "image_fdda524567df37.png": {
+    "classification": "formula",
+    "latex": "L_2",
+    "note": "字母L下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L_2\",\"note\":\"字母L下標2\"}\n",
+    "ts": "2026-04-30T00:34:10.170207+00:00",
+    "engine": "codex"
+  },
+  "image_fe10fd28e8e5b0.png": {
+    "classification": "formula",
+    "latex": "L:\\frac{x-1}{2}=\\frac{y+3}{-1}=\\frac{z+2}{3}",
+    "note": "直線的對稱式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L:\\\\frac{x-1}{2}=\\\\frac{y+3}{-1}=\\\\frac{z+2}{3}\",\"note\":\"直線的對稱式方程\"}\n",
+    "ts": "2026-04-30T00:34:12.022512+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "image_04003b703f5133.png": {
+    "classification": "formula",
+    "latex": "\\log 723",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 723\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:25:20.358984+00:00",
+    "engine": "codex"
+  },
+  "image_047f5dd38b938f.png": {
+    "classification": "formula",
+    "latex": "\\log 2021",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2021\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:25:23.258494+00:00",
+    "engine": "codex"
+  },
+  "image_065efda7d4fad4.png": {
+    "classification": "formula",
+    "latex": "3\\times 5\\log 2",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\times 5\\\\log 2\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T07:25:24.423390+00:00",
+    "engine": "codex"
+  },
+  "image_0063063c8c9c7b.png": {
+    "classification": "formula",
+    "latex": "3^{2a}=3^5",
+    "note": "指數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{2a}=3^5\",\"note\":\"指數方程式\"}\n",
+    "ts": "2026-04-29T07:25:28.937040+00:00",
+    "engine": "codex"
+  },
+  "image_0d32c0ad2736dc.png": {
+    "classification": "formula",
+    "latex": "\\log 0.003030",
+    "note": "對數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 0.003030\",\"note\":\"對數算式\"}\n",
+    "ts": "2026-04-29T07:25:30.988694+00:00",
+    "engine": "codex"
+  },
+  "image_0891aa8d46de00.png": {
+    "classification": "formula",
+    "latex": "\\log_2 13+\\frac{1}{2}\\log_2 25+\\log_2\\frac{4}{7}-\\log_2\\frac{65}{7}=",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_2 13+\\\\frac{1}{2}\\\\log_2 25+\\\\log_2\\\\frac{4}{7}-\\\\log_2\\\\frac{65}{7}=\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-04-29T07:25:32.794840+00:00",
+    "engine": "codex"
+  },
+  "image_07675c362de250.png": {
+    "classification": "formula",
+    "latex": "3^5\\log 2",
+    "note": "純數學式：3的5次方乘以log 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^5\\\\log 2\",\"note\":\"純數學式：3的5次方乘以log 2\"}\n",
+    "ts": "2026-04-29T07:25:34.469087+00:00",
+    "engine": "codex"
+  },
+  "image_0d3c39b1556842.png": {
+    "classification": "formula",
+    "latex": "\\log 0.2345=\\log \\frac{2.345}{10}=\\log 2.345-1=a-1",
+    "note": "對數等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 0.2345=\\\\log \\\\frac{2.345}{10}=\\\\log 2.345-1=a-1\",\"note\":\"對數等式化簡\"}\n",
+    "ts": "2026-04-29T07:25:36.523238+00:00",
+    "engine": "codex"
+  },
+  "image_11ccb440bd625b.png": {
+    "classification": "formula",
+    "latex": "\\log 2020",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\log 2020\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:25:37.697789+00:00",
+    "engine": "codex"
+  },
+  "image_191c683b6aa4cf.png": {
+    "classification": "formula",
+    "latex": "\\log\\left(2^{\\left(3^5\\right)}\\right)",
+    "note": "對數與指數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log\\\\left(2^{\\\\left(3^5\\\\right)}\\\\right)\",\"note\":\"對數與指數運算式\"}\n",
+    "ts": "2026-04-29T07:25:41.126948+00:00",
+    "engine": "codex"
+  },
+  "image_105e701a21d72b.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\log\\left(13\\times5\\times\\frac{4}{7}\\times\\frac{7}{65}\\right)}{\\log2}=\\frac{\\log4}{\\log2}=\\frac{2\\log2}{\\log2}=2",
+    "note": "對數化簡算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\log\\\\left(13\\\\times5\\\\times\\\\frac{4}{7}\\\\times\\\\frac{7}{65}\\\\right)}{\\\\log2}=\\\\frac{\\\\log4}{\\\\log2}=\\\\frac{2\\\\log2}{\\\\log2}=2\",\"note\":\"對數化簡算式\"}\n",
+    "ts": "2026-04-29T07:25:41.493122+00:00",
+    "engine": "codex"
+  },
+  "image_1e33978b06e053.png": {
+    "classification": "formula",
+    "latex": "\\log_2 0=0",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_2 0=0\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T07:25:45.703028+00:00",
+    "engine": "codex"
+  },
+  "image_22873b714be97b.png": {
+    "classification": "formula",
+    "latex": "\\log \\sqrt{5}=\\frac{1}{2}\\log 5",
+    "note": "對數根式化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log \\\\sqrt{5}=\\\\frac{1}{2}\\\\log 5\",\"note\":\"對數根式化簡公式\"}\n",
+    "ts": "2026-04-29T07:25:47.855901+00:00",
+    "engine": "codex"
+  },
+  "image_23e70a61d53a9f.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\log 13}{\\log 2}+\\frac{\\frac{1}{2}\\log 25}{\\log 2}+\\frac{\\log \\frac{4}{7}}{\\log 2}-\\frac{\\log \\frac{65}{7}}{\\log 2}",
+    "note": "對數換底式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\log 13}{\\\\log 2}+\\\\frac{\\\\frac{1}{2}\\\\log 25}{\\\\log 2}+\\\\frac{\\\\log \\\\frac{4}{7}}{\\\\log 2}-\\\\frac{\\\\log \\\\frac{65}{7}}{\\\\log 2}\",\"note\":\"對數換底式\"}\n",
+    "ts": "2026-04-29T07:25:48.028257+00:00",
+    "engine": "codex"
+  },
+  "image_1df4d81bda2341.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\log 13+\\log(25)^{\\frac{1}{2}}+\\log\\frac{4}{7}-\\log\\frac{65}{7}}{\\log 2}=\\frac{\\log\\left(13\\times5\\times\\frac{4}{7}\\div\\frac{65}{7}\\right)}{\\log 2}",
+    "note": "對數運算化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\log 13+\\\\log(25)^{\\\\frac{1}{2}}+\\\\log\\\\frac{4}{7}-\\\\log\\\\frac{65}{7}}{\\\\log 2}=\\\\frac{\\\\log\\\\left(13\\\\times5\\\\times\\\\frac{4}{7}\\\\div\\\\frac{65}{7}\\\\right)}{\\\\log 2}\",\"note\":\"對數運算化簡\"}\n",
+    "ts": "2026-04-29T07:25:49.816517+00:00",
+    "engine": "codex"
+  },
+  "image_24c0739240c21e.png": {
+    "classification": "formula",
+    "latex": "3^{\\log_3(-9)}=-9",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{\\\\log_3(-9)}=-9\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T07:25:52.225790+00:00",
+    "engine": "codex"
+  },
+  "image_2512879064cae3.png": {
+    "classification": "formula",
+    "latex": "a \\neq 1",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a \\\\neq 1\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T07:25:52.473032+00:00",
+    "engine": "codex"
+  },
+  "image_304a2695c553ab.png": {
+    "classification": "formula",
+    "latex": "\\log 0.2345=\\frac{a}{10}",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 0.2345=\\\\frac{a}{10}\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-04-29T07:25:55.668850+00:00",
+    "engine": "codex"
+  },
+  "image_280c72fcf12579.png": {
+    "classification": "formula",
+    "latex": "\\log\\frac{I'}{I}=1",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log\\\\frac{I'}{I}=1\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-04-29T07:25:56.387915+00:00",
+    "engine": "codex"
+  },
+  "image_33abdc5ae7a6f4.png": {
+    "classification": "formula",
+    "latex": "b>0",
+    "note": "不等式：b大於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b>0\",\"note\":\"不等式：b大於0\"}\n",
+    "ts": "2026-04-29T07:25:56.922030+00:00",
+    "engine": "codex"
+  },
+  "image_3e959fbf4a0045.png": {
+    "classification": "formula",
+    "latex": "\\log\\frac{1}{2021}",
+    "note": "對數分數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log\\\\frac{1}{2021}\",\"note\":\"對數分數公式\"}\n",
+    "ts": "2026-04-29T07:25:59.997087+00:00",
+    "engine": "codex"
+  },
+  "image_46fe27eb5c8e6d.png": {
+    "classification": "formula",
+    "latex": "\\log \\frac{1}{327}",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log \\\\frac{1}{327}\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:01.364505+00:00",
+    "engine": "codex"
+  },
+  "image_46f941eea4a82d.png": {
+    "classification": "formula",
+    "latex": "\\ge 1",
+    "note": "不等式符號與數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\ge 1\",\"note\":\"不等式符號與數字1\"}\n",
+    "ts": "2026-04-29T07:26:02.215781+00:00",
+    "engine": "codex"
+  },
+  "image_412d4b96ead497.png": {
+    "classification": "formula",
+    "latex": "2a=5\\Rightarrow a=\\frac{5}{2}",
+    "note": "一元一次方程式求解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2a=5\\\\Rightarrow a=\\\\frac{5}{2}\",\"note\":\"一元一次方程式求解\"}\n",
+    "ts": "2026-04-29T07:26:02.373918+00:00",
+    "engine": "codex"
+  },
+  "image_4a4814e39b8a34.png": {
+    "classification": "formula",
+    "latex": "\\log\\left(2^{\\left(3^5\\right)}\\right)=3^5\\log 2",
+    "note": "對數冪次公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log\\\\left(2^{\\\\left(3^5\\\\right)}\\\\right)=3^5\\\\log 2\",\"note\":\"對數冪次公式\"}\n",
+    "ts": "2026-04-29T07:26:06.878697+00:00",
+    "engine": "codex"
+  },
+  "image_5c0252bd7ae89f.png": {
+    "classification": "formula",
+    "latex": "\\log 32700",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 32700\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:06.892586+00:00",
+    "engine": "codex"
+  },
+  "image_62da8b549d00d7.png": {
+    "classification": "formula",
+    "latex": "\\log 3030",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 3030\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:07.973708+00:00",
+    "engine": "codex"
+  },
+  "image_4db6bc77fccc9a.png": {
+    "classification": "formula",
+    "latex": "\\log_{9}243=a\\Rightarrow 9^{a}=243",
+    "note": "對數式轉為指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{9}243=a\\\\Rightarrow 9^{a}=243\",\"note\":\"對數式轉為指數式\"}\n",
+    "ts": "2026-04-29T07:26:08.636450+00:00",
+    "engine": "codex"
+  },
+  "image_80385771f01c1b.png": {
+    "classification": "formula",
+    "latex": "5\\log\\left(2^3\\right)",
+    "note": "對數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\\\\log\\\\left(2^3\\\\right)\",\"note\":\"對數算式\"}\n",
+    "ts": "2026-04-29T07:26:13.158633+00:00",
+    "engine": "codex"
+  },
+  "image_64492122365dba.png": {
+    "classification": "formula",
+    "latex": "5(\\log 2+\\log 3)",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5(\\\\log 2+\\\\log 3)\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-04-29T07:26:13.954301+00:00",
+    "engine": "codex"
+  },
+  "image_667abe401e21c1.png": {
+    "classification": "formula",
+    "latex": "\\log(5+9)=\\log 5\\times\\log 9",
+    "note": "對數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log(5+9)=\\\\log 5\\\\times\\\\log 9\",\"note\":\"對數算式\"}\n",
+    "ts": "2026-04-29T07:26:14.755130+00:00",
+    "engine": "codex"
+  },
+  "image_860c040d80ddb3.png": {
+    "classification": "formula",
+    "latex": "<1",
+    "note": "不等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"<1\",\"note\":\"不等式片段\"}\n",
+    "ts": "2026-04-29T07:26:17.306540+00:00",
+    "engine": "codex"
+  },
+  "image_8a20a868008237.png": {
+    "classification": "formula",
+    "latex": "2^{\\log_2 4}=4",
+    "note": "指數與對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\log_2 4}=4\",\"note\":\"指數與對數運算式\"}\n",
+    "ts": "2026-04-29T07:26:18.387627+00:00",
+    "engine": "codex"
+  },
+  "image_8c4cd6e68eab7a.png": {
+    "classification": "formula",
+    "latex": "2^{\\log_{2}3}=3",
+    "note": "指數與對數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\log_{2}3}=3\",\"note\":\"指數與對數恆等式\"}\n",
+    "ts": "2026-04-29T07:26:20.063013+00:00",
+    "engine": "codex"
+  },
+  "image_8c9a8c0a36e234.png": {
+    "classification": "formula",
+    "latex": "\\log \\frac{1}{2020}",
+    "note": "對數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log \\\\frac{1}{2020}\",\"note\":\"對數式\"}\n",
+    "ts": "2026-04-29T07:26:22.830506+00:00",
+    "engine": "codex"
+  },
+  "image_96818036ffa501.png": {
+    "classification": "formula",
+    "latex": "\\log 0.002021",
+    "note": "對數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 0.002021\",\"note\":\"對數式\"}\n",
+    "ts": "2026-04-29T07:26:23.374672+00:00",
+    "engine": "codex"
+  },
+  "image_976dedceeced12.png": {
+    "classification": "formula",
+    "latex": "\\log 202100",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 202100\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:24.605756+00:00",
+    "engine": "codex"
+  },
+  "image_988459045651a1.png": {
+    "classification": "formula",
+    "latex": "\\log_2 3=\\frac{\\log 3}{\\log 2}=\\frac{1}{\\frac{\\log 2}{\\log 3}}=\\frac{1}{\\log_3 2}",
+    "note": "換底公式與倒數關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_2 3=\\\\frac{\\\\log 3}{\\\\log 2}=\\\\frac{1}{\\\\frac{\\\\log 2}{\\\\log 3}}=\\\\frac{1}{\\\\log_3 2}\",\"note\":\"換底公式與倒數關係\"}\n",
+    "ts": "2026-04-29T07:26:26.481835+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字1\"}\n",
+    "ts": "2026-04-29T07:26:27.980458+00:00",
+    "engine": "codex"
+  },
+  "image_9eb26d469a5073.png": {
+    "classification": "formula",
+    "latex": "a>0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a>0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T07:26:28.680318+00:00",
+    "engine": "codex"
+  },
+  "image_a3bf63b84baeaf.png": {
+    "classification": "formula",
+    "latex": "\\log_a r^t=t\\log_a r",
+    "note": "對數冪次性質",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_a r^t=t\\\\log_a r\",\"note\":\"對數冪次性質\"}\n",
+    "ts": "2026-04-29T07:26:29.671227+00:00",
+    "engine": "codex"
+  },
+  "image_aa1caad3666d9f.png": {
+    "classification": "formula",
+    "latex": "\\log 202000",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 202000\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:33.732498+00:00",
+    "engine": "codex"
+  },
+  "image_c4a75d9412cfa3.png": {
+    "classification": "formula",
+    "latex": "\\log a = 5.67",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log a = 5.67\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-04-29T07:26:35.407516+00:00",
+    "engine": "codex"
+  },
+  "image_b4707bedb97363.png": {
+    "classification": "formula",
+    "latex": "\\log 327",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 327\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:36.157669+00:00",
+    "engine": "codex"
+  },
+  "image_c4af63418793e9.png": {
+    "classification": "formula",
+    "latex": "\\log 0.02346=\\log \\frac{2.346}{100}=\\log 2.346-2=b-2",
+    "note": "對數運算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 0.02346=\\\\log \\\\frac{2.346}{100}=\\\\log 2.346-2=b-2\",\"note\":\"對數運算等式\"}\n",
+    "ts": "2026-04-29T07:26:37.765476+00:00",
+    "engine": "codex"
+  },
+  "image_dbb7c5318b2ff5.png": {
+    "classification": "formula",
+    "latex": "\\log 0.0327",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 0.0327\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:41.466258+00:00",
+    "engine": "codex"
+  },
+  "image_dd8803d38609a6.png": {
+    "classification": "formula",
+    "latex": "2^{\\log_2 3}=3",
+    "note": "指數與對數互為反運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{\\\\log_2 3}=3\",\"note\":\"指數與對數互為反運算\"}\n",
+    "ts": "2026-04-29T07:26:43.566570+00:00",
+    "engine": "codex"
+  },
+  "image_ca227c409b66b6.png": {
+    "classification": "formula",
+    "latex": "a^{\\log_a b}=b",
+    "note": "指數與對數互為反運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^{\\\\log_a b}=b\",\"note\":\"指數與對數互為反運算\"}\n",
+    "ts": "2026-04-29T07:26:44.020699+00:00",
+    "engine": "codex"
+  },
+  "image_e0df788dde5675.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "單一數字0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"單一數字0\"}\n",
+    "ts": "2026-04-29T07:26:48.852299+00:00",
+    "engine": "codex"
+  },
+  "image_de4dd8c52f939f.png": {
+    "classification": "formula",
+    "latex": "a^{\\log_a b}=b",
+    "note": "指數與對數互逆公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a^{\\\\log_a b}=b\",\"note\":\"指數與對數互逆公式\"}\n",
+    "ts": "2026-04-29T07:26:49.315051+00:00",
+    "engine": "codex"
+  },
+  "image_e0f4da541be955.png": {
+    "classification": "formula",
+    "latex": "\\frac{I'}{I}=10",
+    "note": "純數學公式：I'與I的比值等於10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{I'}{I}=10\",\"note\":\"純數學公式：I'與I的比值等於10\"}\n",
+    "ts": "2026-04-29T07:26:50.057097+00:00",
+    "engine": "codex"
+  },
+  "image_d066943064f836.png": {
+    "classification": "formula",
+    "latex": "\\log_{9} 243 = \\frac{5}{2}",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{9} 243 = \\\\frac{5}{2}\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-04-29T07:26:52.043888+00:00",
+    "engine": "codex"
+  },
+  "image_e56bda47d47139.png": {
+    "classification": "formula",
+    "latex": "5\\log 2\\times\\log 3",
+    "note": "對數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\\\\log 2\\\\times\\\\log 3\",\"note\":\"對數乘法算式\"}\n",
+    "ts": "2026-04-29T07:26:55.653621+00:00",
+    "engine": "codex"
+  },
+  "image_e981f790286c3b.png": {
+    "classification": "formula",
+    "latex": "\\log 3031",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\log 3031\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-04-29T07:26:55.853928+00:00",
+    "engine": "codex"
+  },
+  "image_e689d11e5ed724.png": {
+    "classification": "formula",
+    "latex": "\\log_{2} 3 = \\frac{1}{\\log_{3} 2}",
+    "note": "對數換底關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{2} 3 = \\\\frac{1}{\\\\log_{3} 2}\",\"note\":\"對數換底關係式\"}\n",
+    "ts": "2026-04-29T07:26:58.118159+00:00",
+    "engine": "codex"
+  },
+  "image_ee19e2aec71ccb.png": {
+    "classification": "formula",
+    "latex": "\\log \\sqrt{5}=\\log 5^{\\frac{1}{2}}=\\frac{1}{2}\\log 5",
+    "note": "對數與根號指數性質",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log \\\\sqrt{5}=\\\\log 5^{\\\\frac{1}{2}}=\\\\frac{1}{2}\\\\log 5\",\"note\":\"對數與根號指數性質\"}\n",
+    "ts": "2026-04-29T07:27:01.484196+00:00",
+    "engine": "codex"
+  },
+  "image_f80687a6571658.png": {
+    "classification": "formula",
+    "latex": "\\log(5+9)=\\log 14\\ne \\log 5\\times \\log 9",
+    "note": "對數加法的錯誤性質示例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log(5+9)=\\\\log 14\\\\ne \\\\log 5\\\\times \\\\log 9\",\"note\":\"對數加法的錯誤性質示例\"}\n",
+    "ts": "2026-04-29T07:27:02.964012+00:00",
+    "engine": "codex"
+  },
+  "image_febc3723a17c7c.png": {
+    "classification": "formula",
+    "latex": "\\log_{(-2)}1=0",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{(-2)}1=0\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-04-29T07:27:03.573707+00:00",
+    "engine": "codex"
+  }
+}

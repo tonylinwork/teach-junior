@@ -1,0 +1,834 @@
+{
+  "image_051698cd27947a.png": {
+    "classification": "formula",
+    "latex": "0.6336",
+    "note": "小數數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.6336\",\"note\":\"小數數值\"}\n",
+    "ts": "2026-05-05T10:29:34.592783+00:00",
+    "engine": "codex"
+  },
+  "image_02d7b0d3ce6066.png": {
+    "classification": "formula",
+    "latex": "\\log x = \\log 3^{27} = 27 \\times \\log 3 \\approx 27 \\times 0.4771",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log x = \\\\log 3^{27} = 27 \\\\times \\\\log 3 \\\\approx 27 \\\\times 0.4771\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-05-05T10:29:35.830079+00:00",
+    "engine": "codex"
+  },
+  "image_07888b0aa262e6.png": {
+    "classification": "formula",
+    "latex": "=\\log\\frac{(10^{2x})(4+4\\times10^{-x}+10^{-2x})}{\\frac{1}{4}+10^x+10^{2x}}",
+    "note": "對數分式代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log\\\\frac{(10^{2x})(4+4\\\\times10^{-x}+10^{-2x})}{\\\\frac{1}{4}+10^x+10^{2x}}\",\"note\":\"對數分式代數式\"}\n",
+    "ts": "2026-05-05T10:29:37.462922+00:00",
+    "engine": "codex"
+  },
+  "image_0336ef1523c9f4.png": {
+    "classification": "formula",
+    "latex": "=\\log \\frac{4\\times10^{2x}+4\\times10^x+1}{\\frac{1}{4}(4\\times10^{2x}+4\\times10^x+1)}",
+    "note": "對數分式化簡步驟",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log \\\\frac{4\\\\times10^{2x}+4\\\\times10^x+1}{\\\\frac{1}{4}(4\\\\times10^{2x}+4\\\\times10^x+1)}\",\"note\":\"對數分式化簡步驟\"}\n",
+    "ts": "2026-05-05T10:29:38.247442+00:00",
+    "engine": "codex"
+  },
+  "image_0aff4393f96838.png": {
+    "classification": "formula",
+    "latex": "\\log 15=\\log 3+\\log 5=\\log 3+1-\\log 2=c-a+1",
+    "note": "對數等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 15=\\\\log 3+\\\\log 5=\\\\log 3+1-\\\\log 2=c-a+1\",\"note\":\"對數等式推導\"}\n",
+    "ts": "2026-05-05T10:29:41.601323+00:00",
+    "engine": "codex"
+  },
+  "image_0fbffd73a70ad6.png": {
+    "classification": "formula",
+    "latex": "3^5",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^5\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:29:42.575737+00:00",
+    "engine": "codex"
+  },
+  "image_0bb014a7c0272f.png": {
+    "classification": "formula",
+    "latex": "\\log_{7} a=11",
+    "note": "對數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{7} a=11\",\"note\":\"對數方程式\"}\n",
+    "ts": "2026-05-05T10:29:42.583533+00:00",
+    "engine": "codex"
+  },
+  "image_14bd8e6fbc391d.png": {
+    "classification": "formula",
+    "latex": "-",
+    "note": "minus sign",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-\",\"note\":\"minus sign\"}\n",
+    "ts": "2026-05-05T10:29:47.350235+00:00",
+    "engine": "codex"
+  },
+  "image_126776c2ba66a1.png": {
+    "classification": "formula",
+    "latex": "b=\\log 1.8",
+    "note": "對數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\log 1.8\",\"note\":\"對數公式\"}\n",
+    "ts": "2026-05-05T10:29:48.188635+00:00",
+    "engine": "codex"
+  },
+  "image_131705308d656c.png": {
+    "classification": "formula",
+    "latex": "a=\\log 14-\\log 10=\\log 2+\\log 7-1\\cdots",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\log 14-\\\\log 10=\\\\log 2+\\\\log 7-1\\\\cdots\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T10:29:48.441378+00:00",
+    "engine": "codex"
+  },
+  "image_207ca70a25ceb6.png": {
+    "classification": "formula",
+    "latex": "a+b",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a+b\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-05T10:29:52.117579+00:00",
+    "engine": "codex"
+  },
+  "image_22f4c399ead36c.png": {
+    "classification": "formula",
+    "latex": "\\log 15=a-c+1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 15=a-c+1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:29:54.239080+00:00",
+    "engine": "codex"
+  },
+  "image_15d45c4fb9f9cb.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1\\times(1-2^{30})}{1-2}=2^{30}-1",
+    "note": "等比級數和公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1\\\\times(1-2^{30})}{1-2}=2^{30}-1\",\"note\":\"等比級數和公式化簡\"}\n",
+    "ts": "2026-05-05T10:29:56.175403+00:00",
+    "engine": "codex"
+  },
+  "image_2374701a8695df.png": {
+    "classification": "formula",
+    "latex": "\\log_{3}(\\log_{3} x)=3",
+    "note": "對數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\log_{3}(\\\\log_{3} x)=3\",\"note\":\"對數方程式\"}\n",
+    "ts": "2026-05-05T10:29:56.667407+00:00",
+    "engine": "codex"
+  },
+  "image_095e13b5af8348.png": {
+    "classification": "formula",
+    "latex": "\\log 2^{30}=30\\log 2\\approx 30\\times 0.3010=9.03=9+0.03",
+    "note": "對數近似計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2^{30}=30\\\\log 2\\\\approx 30\\\\times 0.3010=9.03=9+0.03\",\"note\":\"對數近似計算\"}\n",
+    "ts": "2026-05-05T10:29:58.210214+00:00",
+    "engine": "codex"
+  },
+  "image_2fc0454d4ad3df.png": {
+    "classification": "formula",
+    "latex": "7 \\le b < 8",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7 \\\\le b < 8\",\"note\":\"不等式\"}\n",
+    "ts": "2026-05-05T10:30:02.571374+00:00",
+    "engine": "codex"
+  },
+  "image_30b5adc46e6c6e.png": {
+    "classification": "formula",
+    "latex": "a=\\log 1.4",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=\\\\log 1.4\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-05-05T10:30:07.007871+00:00",
+    "engine": "codex"
+  },
+  "image_2be4873418e711.png": {
+    "classification": "formula",
+    "latex": "\\log b=\\log 3^{16}=16\\times\\log 3=16\\times0.4771",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log b=\\\\log 3^{16}=16\\\\times\\\\log 3=16\\\\times0.4771\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-05-05T10:30:07.795412+00:00",
+    "engine": "codex"
+  },
+  "image_2d19a5be49342f.png": {
+    "classification": "formula",
+    "latex": "27\\div 4=6\\cdots 3",
+    "note": "除法算式，商6餘3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"27\\\\div 4=6\\\\cdots 3\",\"note\":\"除法算式，商6餘3\"}\n",
+    "ts": "2026-05-05T10:30:11.366951+00:00",
+    "engine": "codex"
+  },
+  "image_3263de55be7429.png": {
+    "classification": "formula",
+    "latex": "\\log_3\\left(\\log_3\\left(\\log_3 x\\right)\\right)=1",
+    "note": "三重以3為底的對數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_3\\\\left(\\\\log_3\\\\left(\\\\log_3 x\\\\right)\\\\right)=1\",\"note\":\"三重以3為底的對數方程式\"}\n",
+    "ts": "2026-05-05T10:30:12.683209+00:00",
+    "engine": "codex"
+  },
+  "image_32b1a1812ebeae.png": {
+    "classification": "formula",
+    "latex": "\\log a",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log a\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-05-05T10:30:12.939343+00:00",
+    "engine": "codex"
+  },
+  "image_341df2a330f895.png": {
+    "classification": "formula",
+    "latex": "a",
+    "note": "單一變數 a",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\",\"note\":\"單一變數 a\"}\n",
+    "ts": "2026-05-05T10:30:15.623424+00:00",
+    "engine": "codex"
+  },
+  "image_363b99ed8e9fc4.png": {
+    "classification": "formula",
+    "latex": "0.8817",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.8817\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-05-05T10:30:16.862159+00:00",
+    "engine": "codex"
+  },
+  "image_2cdf6959a09497.png": {
+    "classification": "formula",
+    "latex": "\\log 2^{30}",
+    "note": "對數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2^{30}\",\"note\":\"對數表達式\"}\n",
+    "ts": "2026-05-05T10:30:18.356636+00:00",
+    "engine": "codex"
+  },
+  "image_3b58b67ac2821a.png": {
+    "classification": "formula",
+    "latex": "2x+2\\log(2+10^{-x})-\\log\\left(\\frac{1}{4}+10^x+10^{2x}\\right)=",
+    "note": "對數代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+2\\\\log(2+10^{-x})-\\\\log\\\\left(\\\\frac{1}{4}+10^x+10^{2x}\\\\right)=\",\"note\":\"對數代數式\"}\n",
+    "ts": "2026-05-05T10:30:18.431160+00:00",
+    "engine": "codex"
+  },
+  "image_3d127b5e6f69fc.png": {
+    "classification": "formula",
+    "latex": "3^1",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^1\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:30:20.398173+00:00",
+    "engine": "codex"
+  },
+  "image_3f19726145f610.png": {
+    "classification": "formula",
+    "latex": "x=27^3",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=27^3\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:30:20.834813+00:00",
+    "engine": "codex"
+  },
+  "image_416ca71d96501e.png": {
+    "classification": "formula",
+    "latex": "\\times 2",
+    "note": "乘以2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\times 2\",\"note\":\"乘以2\"}\n",
+    "ts": "2026-05-05T10:30:23.018683+00:00",
+    "engine": "codex"
+  },
+  "image_46b0877d9ac446.png": {
+    "classification": "formula",
+    "latex": "0.826",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.826\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-05-05T10:30:25.029118+00:00",
+    "engine": "codex"
+  },
+  "image_420a161eb1d069.png": {
+    "classification": "formula",
+    "latex": "=\\log(4\\cdots\\times10^7)",
+    "note": "對數算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log(4\\\\cdots\\\\times10^7)\",\"note\":\"對數算式\"}\n",
+    "ts": "2026-05-05T10:30:26.018268+00:00",
+    "engine": "codex"
+  },
+  "image_498078699daea3.png": {
+    "classification": "formula",
+    "latex": "\\log a \\approx 7+\\log 6\\cdots",
+    "note": "對數近似式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log a \\\\approx 7+\\\\log 6\\\\cdots\",\"note\":\"對數近似式\"}\n",
+    "ts": "2026-05-05T10:30:28.075263+00:00",
+    "engine": "codex"
+  },
+  "image_4ca2fd1e275525.png": {
+    "classification": "formula",
+    "latex": "\\log 6<0.826<\\log 7",
+    "note": "對數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 6<0.826<\\\\log 7\",\"note\":\"對數不等式\"}\n",
+    "ts": "2026-05-05T10:30:30.027973+00:00",
+    "engine": "codex"
+  },
+  "image_4f5404be75b4cf.png": {
+    "classification": "formula",
+    "latex": "a\\times b",
+    "note": "乘法表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a\\\\times b\",\"note\":\"乘法表達式\"}\n",
+    "ts": "2026-05-05T10:30:30.513746+00:00",
+    "engine": "codex"
+  },
+  "image_425bddab932cdf.png": {
+    "classification": "formula",
+    "latex": "2a+b-2c=3\\log 2-1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2a+b-2c=3\\\\log 2-1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:30:30.587752+00:00",
+    "engine": "codex"
+  },
+  "image_50be013493c454.png": {
+    "classification": "formula",
+    "latex": "\\log b \\approx 7+\\log 4\\cdots",
+    "note": "對數近似式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log b \\\\approx 7+\\\\log 4\\\\cdots\",\"note\":\"對數近似式\"}\n",
+    "ts": "2026-05-05T10:30:32.974624+00:00",
+    "engine": "codex"
+  },
+  "image_5492067be5eb49.png": {
+    "classification": "formula",
+    "latex": "b=7^{13}",
+    "note": "指數式，b 等於 7 的 13 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=7^{13}\",\"note\":\"指數式，b 等於 7 的 13 次方\"}\n",
+    "ts": "2026-05-05T10:30:34.994795+00:00",
+    "engine": "codex"
+  },
+  "image_5850ed4b19704d.png": {
+    "classification": "formula",
+    "latex": "=\\log(6\\cdots\\times 10^7)",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log(6\\\\cdots\\\\times 10^7)\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-05T10:30:37.814171+00:00",
+    "engine": "codex"
+  },
+  "image_57883fcc2a9e56.png": {
+    "classification": "formula",
+    "latex": "a=7^{11}",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=7^{11}\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-05-05T10:30:38.075576+00:00",
+    "engine": "codex"
+  },
+  "image_59247f609b1a35.png": {
+    "classification": "formula",
+    "latex": "\\log a=\\log 2^{26}=26\\times\\log 2\\approx 26\\times 0.3010",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log a=\\\\log 2^{26}=26\\\\times\\\\log 2\\\\approx 26\\\\times 0.3010\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-05-05T10:30:39.140789+00:00",
+    "engine": "codex"
+  },
+  "image_5b9df9c192f537.png": {
+    "classification": "formula",
+    "latex": "\\log 42=\\log 2+\\log 3+\\log 7=\\frac{1}{3}(2a+b+c+4)",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 42=\\\\log 2+\\\\log 3+\\\\log 7=\\\\frac{1}{3}(2a+b+c+4)\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T10:30:41.506750+00:00",
+    "engine": "codex"
+  },
+  "image_69e4aef2f537bb.png": {
+    "classification": "formula",
+    "latex": "\\log_{3} x=3^{3}=27",
+    "note": "對數與指數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{3} x=3^{3}=27\",\"note\":\"對數與指數等式\"}\n",
+    "ts": "2026-05-05T10:30:43.177796+00:00",
+    "engine": "codex"
+  },
+  "image_6423c034374649.png": {
+    "classification": "formula",
+    "latex": "=7.826",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=7.826\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-05T10:30:43.547845+00:00",
+    "engine": "codex"
+  },
+  "image_6c840d376f0bf5.png": {
+    "classification": "formula",
+    "latex": "=7.6336",
+    "note": "等式中的小數數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=7.6336\",\"note\":\"等式中的小數數值\"}\n",
+    "ts": "2026-05-05T10:30:45.270748+00:00",
+    "engine": "codex"
+  },
+  "image_722f51495a1867.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "單一數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"單一數字9\"}\n",
+    "ts": "2026-05-05T10:30:47.453710+00:00",
+    "engine": "codex"
+  },
+  "image_72a0ce7d3cc647.png": {
+    "classification": "formula",
+    "latex": "7",
+    "note": "單一數字7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7\",\"note\":\"單一數字7\"}\n",
+    "ts": "2026-05-05T10:30:47.778072+00:00",
+    "engine": "codex"
+  },
+  "image_72071d30ec0e0c.png": {
+    "classification": "formula",
+    "latex": "3^3",
+    "note": "三的三次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^3\",\"note\":\"三的三次方\"}\n",
+    "ts": "2026-05-05T10:30:49.452470+00:00",
+    "engine": "codex"
+  },
+  "image_74023feee20b00.png": {
+    "classification": "formula",
+    "latex": "\\log 7=\\frac{1}{3}a-\\frac{1}{3}b+\\frac{2}{3}c+\\frac{2}{3}=\\frac{1}{3}(a-b+2c+2)",
+    "note": "對數代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 7=\\\\frac{1}{3}a-\\\\frac{1}{3}b+\\\\frac{2}{3}c+\\\\frac{2}{3}=\\\\frac{1}{3}(a-b+2c+2)\",\"note\":\"對數代數式\"}\n",
+    "ts": "2026-05-05T10:30:51.576635+00:00",
+    "engine": "codex"
+  },
+  "image_76188c6dc6c075.png": {
+    "classification": "formula",
+    "latex": "+",
+    "note": "加號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+\",\"note\":\"加號\"}\n",
+    "ts": "2026-05-05T10:30:51.576783+00:00",
+    "engine": "codex"
+  },
+  "image_7d0b5546846c96.png": {
+    "classification": "formula",
+    "latex": "3^8",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^8\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:30:54.615695+00:00",
+    "engine": "codex"
+  },
+  "image_76767b5e18655f.png": {
+    "classification": "formula",
+    "latex": "\\log_{7}(a+b)=\\log_{7}(7^{11}+7^{13})=\\log_{7}(7^{11}(1+7^{2}))",
+    "note": "對數化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{7}(a+b)=\\\\log_{7}(7^{11}+7^{13})=\\\\log_{7}(7^{11}(1+7^{2}))\",\"note\":\"對數化簡式\"}\n",
+    "ts": "2026-05-05T10:30:56.278616+00:00",
+    "engine": "codex"
+  },
+  "image_7d835e415c1c80.png": {
+    "classification": "formula",
+    "latex": "16",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"16\",\"note\":\"純數字\"}\n",
+    "ts": "2026-05-05T10:30:56.718811+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-05-05T10:30:56.875122+00:00",
+    "engine": "codex"
+  },
+  "image_8169148ca3247f.png": {
+    "classification": "formula",
+    "latex": "\\log_{7}(a+b)",
+    "note": "對數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{7}(a+b)\",\"note\":\"對數式\"}\n",
+    "ts": "2026-05-05T10:30:59.177826+00:00",
+    "engine": "codex"
+  },
+  "image_8171e9da89a8c0.png": {
+    "classification": "formula",
+    "latex": "=12.8817",
+    "note": "純數值等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=12.8817\",\"note\":\"純數值等式片段\"}\n",
+    "ts": "2026-05-05T10:31:01.029545+00:00",
+    "engine": "codex"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "單一數字4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"單一數字4\"}\n",
+    "ts": "2026-05-05T10:31:02.491254+00:00",
+    "engine": "codex"
+  },
+  "image_89f9b112d37fba.png": {
+    "classification": "formula",
+    "latex": "\\log_{7} b = 13",
+    "note": "對數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log_{7} b = 13\",\"note\":\"對數方程式\"}\n",
+    "ts": "2026-05-05T10:31:03.673790+00:00",
+    "engine": "codex"
+  },
+  "image_88bdc185de3f82.png": {
+    "classification": "formula",
+    "latex": "a-c=\\log 2-\\log 3\\cdots",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-c=\\\\log 2-\\\\log 3\\\\cdots\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T10:31:06.191361+00:00",
+    "engine": "codex"
+  },
+  "image_8c788945b90072.png": {
+    "classification": "formula",
+    "latex": "x^{\\log\\frac{1}{4}}",
+    "note": "冪次含對數與分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{\\\\log\\\\frac{1}{4}}\",\"note\":\"冪次含對數與分數\"}\n",
+    "ts": "2026-05-05T10:31:07.983310+00:00",
+    "engine": "codex"
+  },
+  "image_8ad6413a5879ba.png": {
+    "classification": "formula",
+    "latex": "=\\log_{7}7^{11}+\\log_{7}50\\approx 11+2=13",
+    "note": "對數估算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log_{7}7^{11}+\\\\log_{7}50\\\\approx 11+2=13\",\"note\":\"對數估算式\"}\n",
+    "ts": "2026-05-05T10:31:08.650308+00:00",
+    "engine": "codex"
+  },
+  "image_8e272d28b4c8c6.png": {
+    "classification": "formula",
+    "latex": "\\log 7 \\approx 0.8451",
+    "note": "對數近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 7 \\\\approx 0.8451\",\"note\":\"對數近似值\"}\n",
+    "ts": "2026-05-05T10:31:08.895535+00:00",
+    "engine": "codex"
+  },
+  "image_8e2a97356bebbb.png": {
+    "classification": "formula",
+    "latex": "=7.826+7.6336",
+    "note": "小數加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=7.826+7.6336\",\"note\":\"小數加法算式\"}\n",
+    "ts": "2026-05-05T10:31:11.141843+00:00",
+    "engine": "codex"
+  },
+  "image_92bc29199df5ed.png": {
+    "classification": "formula",
+    "latex": "2^{30}",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{30}\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:31:12.024612+00:00",
+    "engine": "codex"
+  },
+  "image_930bb0a53e5c03.png": {
+    "classification": "formula",
+    "latex": "\\log 3=-\\frac{1}{3}a+\\frac{1}{3}b+\\frac{1}{3}c+\\frac{1}{3}=\\frac{1}{3}(-a+b+c+1)",
+    "note": "對數與代數式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 3=-\\\\frac{1}{3}a+\\\\frac{1}{3}b+\\\\frac{1}{3}c+\\\\frac{1}{3}=\\\\frac{1}{3}(-a+b+c+1)\",\"note\":\"對數與代數式等式\"}\n",
+    "ts": "2026-05-05T10:31:15.089116+00:00",
+    "engine": "codex"
+  },
+  "image_93f860150bb050.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T10:31:17.366109+00:00",
+    "engine": "codex"
+  },
+  "image_9687d4de79f9b3.png": {
+    "classification": "formula",
+    "latex": "\\log 2=\\frac{1}{3}(2a+b-2c+1)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2=\\\\frac{1}{3}(2a+b-2c+1)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:31:17.914237+00:00",
+    "engine": "codex"
+  },
+  "image_958406c5bd0228.png": {
+    "classification": "formula",
+    "latex": "\\log b",
+    "note": "對數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log b\",\"note\":\"對數式\"}\n",
+    "ts": "2026-05-05T10:31:17.994550+00:00",
+    "engine": "codex"
+  },
+  "image_9aae2fa49dbc39.png": {
+    "classification": "formula",
+    "latex": "\\log 4<0.6336<\\log 5",
+    "note": "對數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 4<0.6336<\\\\log 5\",\"note\":\"對數不等式\"}\n",
+    "ts": "2026-05-05T10:31:20.018592+00:00",
+    "engine": "codex"
+  },
+  "image_a0b3cef4e7998c.png": {
+    "classification": "formula",
+    "latex": "3^4",
+    "note": "冪次表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^4\",\"note\":\"冪次表示式\"}\n",
+    "ts": "2026-05-05T10:31:22.395065+00:00",
+    "engine": "codex"
+  },
+  "image_9d43ec82e76f89.png": {
+    "classification": "formula",
+    "latex": "c=\\log 21-\\log 10=\\log 3+\\log 7-1\\cdots\\cdots",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\log 21-\\\\log 10=\\\\log 3+\\\\log 7-1\\\\cdots\\\\cdots\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T10:31:22.524673+00:00",
+    "engine": "codex"
+  },
+  "image_9d66693b8d9c36.png": {
+    "classification": "formula",
+    "latex": "b=3^{16}",
+    "note": "指數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=3^{16}\",\"note\":\"指數等式\"}\n",
+    "ts": "2026-05-05T10:31:23.713054+00:00",
+    "engine": "codex"
+  },
+  "image_a0b9b6d9a57a83.png": {
+    "classification": "formula",
+    "latex": "\\log(a\\times b)=\\log a+\\log b",
+    "note": "對數乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log(a\\\\times b)=\\\\log a+\\\\log b\",\"note\":\"對數乘法公式\"}\n",
+    "ts": "2026-05-05T10:31:24.865125+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T10:31:27.109888+00:00",
+    "engine": "codex"
+  },
+  "image_a8ffd39fccb945.png": {
+    "classification": "formula",
+    "latex": "3^6",
+    "note": "冪次表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^6\",\"note\":\"冪次表示式\"}\n",
+    "ts": "2026-05-05T10:31:28.982221+00:00",
+    "engine": "codex"
+  },
+  "image_a16b236d0e8617.png": {
+    "classification": "formula",
+    "latex": "= \\log 4 = 2\\log 2",
+    "note": "對數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\log 4 = 2\\\\log 2\",\"note\":\"對數運算式\"}\n",
+    "ts": "2026-05-05T10:31:30.176609+00:00",
+    "engine": "codex"
+  },
+  "image_a3bd0beaafb130.png": {
+    "classification": "formula",
+    "latex": "3^{27}",
+    "note": "指數式：3的27次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{27}\",\"note\":\"指數式：3的27次方\"}\n",
+    "ts": "2026-05-05T10:31:30.269580+00:00",
+    "engine": "codex"
+  },
+  "image_a92bca9ed04cf4.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T10:31:32.858628+00:00",
+    "engine": "codex"
+  },
+  "image_acb435886578d4.png": {
+    "classification": "formula",
+    "latex": "\\log 3=\\frac{1}{3}(-a+b+c+1)",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 3=\\\\frac{1}{3}(-a+b+c+1)\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T10:31:33.998113+00:00",
+    "engine": "codex"
+  },
+  "image_afeb1503a6bcc4.png": {
+    "classification": "formula",
+    "latex": "x=3^{27}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=3^{27}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-05T10:31:34.366952+00:00",
+    "engine": "codex"
+  },
+  "image_b1b443a29dc276.png": {
+    "classification": "formula",
+    "latex": "3^{7}",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^{7}\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:31:37.262384+00:00",
+    "engine": "codex"
+  },
+  "image_b4c361a895c477.png": {
+    "classification": "formula",
+    "latex": "c=\\log 2.1",
+    "note": "對數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=\\\\log 2.1\",\"note\":\"對數公式\"}\n",
+    "ts": "2026-05-05T10:31:38.883594+00:00",
+    "engine": "codex"
+  },
+  "image_ae5179b43bac8e.png": {
+    "classification": "formula",
+    "latex": "b=\\log 18-\\log 10=\\log 2+2\\log 3-1\\cdots",
+    "note": "對數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=\\\\log 18-\\\\log 10=\\\\log 2+2\\\\log 3-1\\\\cdots\",\"note\":\"對數等式\"}\n",
+    "ts": "2026-05-05T10:31:39.328605+00:00",
+    "engine": "codex"
+  },
+  "image_beb36993100092.png": {
+    "classification": "formula",
+    "latex": "12",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"12\",\"note\":\"純數字\"}\n",
+    "ts": "2026-05-05T10:31:43.076537+00:00",
+    "engine": "codex"
+  },
+  "image_bb83dfd07d7cb4.png": {
+    "classification": "formula",
+    "latex": "\\log 7=\\frac{1}{3}(a-b+2c+2)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 7=\\\\frac{1}{3}(a-b+2c+2)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:31:43.261316+00:00",
+    "engine": "codex"
+  },
+  "image_bebec53afcd8fa.png": {
+    "classification": "formula",
+    "latex": "2^{30}-1",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2^{30}-1\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:31:43.418221+00:00",
+    "engine": "codex"
+  },
+  "image_be552092dd7620.png": {
+    "classification": "formula",
+    "latex": "=\\log 10^{2x}+\\log(2+10^{-x})^2-\\log(\\frac{1}{4}+10^x+10^{2x})",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\log 10^{2x}+\\\\log(2+10^{-x})^2-\\\\log(\\\\frac{1}{4}+10^x+10^{2x})\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:31:46.350093+00:00",
+    "engine": "codex"
+  },
+  "image_c195baffd2460d.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T10:31:47.274235+00:00",
+    "engine": "codex"
+  },
+  "image_c7de9104af5845.png": {
+    "classification": "formula",
+    "latex": "a=2^{26}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=2^{26}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:31:47.277108+00:00",
+    "engine": "codex"
+  },
+  "image_d0670a5939b4c4.png": {
+    "classification": "formula",
+    "latex": "\\log 2 \\approx 0.3010",
+    "note": "對數近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2 \\\\approx 0.3010\",\"note\":\"對數近似值\"}\n",
+    "ts": "2026-05-05T10:31:47.866944+00:00",
+    "engine": "codex"
+  },
+  "image_d0798041ed6e00.png": {
+    "classification": "formula",
+    "latex": "0.8817 \\approx \\log 7 \\cdots",
+    "note": "對數近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.8817 \\\\approx \\\\log 7 \\\\cdots\",\"note\":\"對數近似值\"}\n",
+    "ts": "2026-05-05T10:31:52.402189+00:00",
+    "engine": "codex"
+  },
+  "image_d4723b332dca7c.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-05-05T10:31:52.843102+00:00",
+    "engine": "codex"
+  },
+  "image_d6ea09d0370af3.png": {
+    "classification": "formula",
+    "latex": "1+2+2^2+2^3+\\cdots+2^{29}",
+    "note": "等比級數求和式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1+2+2^2+2^3+\\\\cdots+2^{29}\",\"note\":\"等比級數求和式\"}\n",
+    "ts": "2026-05-05T10:31:53.369282+00:00",
+    "engine": "codex"
+  },
+  "image_d34324f0990c61.png": {
+    "classification": "formula",
+    "latex": "\\log 7 < 0.8817 < \\log 8",
+    "note": "對數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 7 < 0.8817 < \\\\log 8\",\"note\":\"對數不等式\"}\n",
+    "ts": "2026-05-05T10:31:54.825353+00:00",
+    "engine": "codex"
+  },
+  "image_db334587c070e0.png": {
+    "classification": "formula",
+    "latex": "15",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"15\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-05T10:31:56.183628+00:00",
+    "engine": "codex"
+  },
+  "image_dde32db6a5bb8b.png": {
+    "classification": "formula",
+    "latex": "\\log 3 \\approx 0.4771",
+    "note": "常用對數近似值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\log 3 \\approx 0.4771\",\"note\":\"常用對數近似值\"}\n",
+    "ts": "2026-05-05T10:31:57.392637+00:00",
+    "engine": "codex"
+  },
+  "image_e1a7899c8ce6c5.png": {
+    "classification": "formula",
+    "latex": "\\log 42=\\frac{1}{3}(2a+b+c+4)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 42=\\\\frac{1}{3}(2a+b+c+4)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:32:00.283106+00:00",
+    "engine": "codex"
+  },
+  "image_e10b56be134209.png": {
+    "classification": "formula",
+    "latex": "b\\times 10^n",
+    "note": "科學記號的一般形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\\\\times 10^n\",\"note\":\"科學記號的一般形式\"}\n",
+    "ts": "2026-05-05T10:32:00.670440+00:00",
+    "engine": "codex"
+  },
+  "image_e687d8865dde97.png": {
+    "classification": "formula",
+    "latex": "x \\approx 7.\\cdots \\times 10^{12}",
+    "note": "近似值的科學記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x \\\\approx 7.\\\\cdots \\\\times 10^{12}\",\"note\":\"近似值的科學記號\"}\n",
+    "ts": "2026-05-05T10:32:03.393722+00:00",
+    "engine": "codex"
+  },
+  "image_e59d0d06db49e7.png": {
+    "classification": "formula",
+    "latex": "\\log x",
+    "note": "對數函數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log x\",\"note\":\"對數函數符號\"}\n",
+    "ts": "2026-05-05T10:32:03.655498+00:00",
+    "engine": "codex"
+  },
+  "image_e7df5a6423cd32.png": {
+    "classification": "formula",
+    "latex": "\\log 2=\\frac{1}{3}(2a+b-2c+1)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log 2=\\\\frac{1}{3}(2a+b-2c+1)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-05T10:32:05.464084+00:00",
+    "engine": "codex"
+  },
+  "image_e8e56fd6b851ed.png": {
+    "classification": "formula",
+    "latex": "=15.4596",
+    "note": "純數值等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=15.4596\",\"note\":\"純數值等式\"}\n",
+    "ts": "2026-05-05T10:32:06.214693+00:00",
+    "engine": "codex"
+  },
+  "image_f09fa87697cdb1.png": {
+    "classification": "formula",
+    "latex": "14",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"14\",\"note\":\"純數字\"}\n",
+    "ts": "2026-05-05T10:32:07.527464+00:00",
+    "engine": "codex"
+  },
+  "image_fe647111732ca9.png": {
+    "classification": "formula",
+    "latex": "3^2",
+    "note": "指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^2\",\"note\":\"指數式\"}\n",
+    "ts": "2026-05-05T10:32:09.832325+00:00",
+    "engine": "codex"
+  },
+  "image_ff4e28ca852a60.png": {
+    "classification": "formula",
+    "latex": "13",
+    "note": "number 13",
+    "raw": "{\"class\":\"formula\",\"latex\":\"13\",\"note\":\"number 13\"}\n",
+    "ts": "2026-05-05T10:32:12.141856+00:00",
+    "engine": "codex"
+  },
+  "image_f0f830eb5757f1.png": {
+    "classification": "formula",
+    "latex": "\\log x \\approx 12+\\log 7\\cdots=\\log 7\\cdots\\times 10^{12}",
+    "note": "對數近似等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log x \\\\approx 12+\\\\log 7\\\\cdots=\\\\log 7\\\\cdots\\\\times 10^{12}\",\"note\":\"對數近似等式\"}\n",
+    "ts": "2026-05-05T10:32:12.392304+00:00",
+    "engine": "codex"
+  }
+}

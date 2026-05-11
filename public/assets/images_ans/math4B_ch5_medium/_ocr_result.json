@@ -1,0 +1,1394 @@
+{
+  "image_04ac4b25651d8f.png": {
+    "classification": "formula",
+    "latex": "280",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"280\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T00:42:30.642136+00:00",
+    "engine": "codex"
+  },
+  "image_0213f497b47a8d.png": {
+    "classification": "formula",
+    "latex": "\\frac{35}{38}",
+    "note": "分數35/38",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{35}{38}\",\"note\":\"分數35/38\"}\n",
+    "ts": "2026-04-29T00:42:32.034618+00:00",
+    "engine": "codex"
+  },
+  "image_0698b562f1373b.png": {
+    "classification": "formula",
+    "latex": "45",
+    "note": "純數字表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"45\",\"note\":\"純數字表達式\"}\n",
+    "ts": "2026-04-29T00:42:34.695880+00:00",
+    "engine": "codex"
+  },
+  "image_0154a98a52698a.png": {
+    "classification": "formula",
+    "latex": "P(\\text{中一發})=\\frac{1}{2}\\times\\frac{2}{3}\\times\\frac{3}{4}+\\frac{1}{2}\\times\\frac{1}{3}\\times\\frac{3}{4}+\\frac{1}{2}\\times\\frac{2}{3}\\times\\frac{1}{4}=\\frac{11}{24}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{中一發})=\\\\frac{1}{2}\\\\times\\\\frac{2}{3}\\\\times\\\\frac{3}{4}+\\\\frac{1}{2}\\\\times\\\\frac{1}{3}\\\\times\\\\frac{3}{4}+\\\\frac{1}{2}\\\\times\\\\frac{2}{3}\\\\times\\\\frac{1}{4}=\\\\frac{11}{24}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-29T00:42:35.269030+00:00",
+    "engine": "codex"
+  },
+  "image_002821a3be7f34.png": {
+    "classification": "formula",
+    "latex": "A_1",
+    "note": "字母A下標1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_1\",\"note\":\"字母A下標1\"}\n",
+    "ts": "2026-04-29T00:42:36.633960+00:00",
+    "engine": "codex"
+  },
+  "image_06da1fb99cb71a.png": {
+    "classification": "formula",
+    "latex": "\\frac{0.5\\times0.6}{0.5\\times1+0.5\\times0.6}=\\frac{0.3}{0.5+0.3}=\\frac{3}{8}<0.5",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{0.5\\\\times0.6}{0.5\\\\times1+0.5\\\\times0.6}=\\\\frac{0.3}{0.5+0.3}=\\\\frac{3}{8}<0.5\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-29T00:42:39.562323+00:00",
+    "engine": "codex"
+  },
+  "image_08f5e57d4e2f35.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(\\text{甲}\\cap \\text{乙}')}{P(\\text{甲})}=\\frac{\\frac{3}{10}\\times\\frac{7}{9}}{\\frac{3}{10}}=\\frac{7}{9}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(\\\\text{甲}\\\\cap \\\\text{乙}')}{P(\\\\text{甲})}=\\\\frac{\\\\frac{3}{10}\\\\times\\\\frac{7}{9}}{\\\\frac{3}{10}}=\\\\frac{7}{9}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:42:41.357661+00:00",
+    "engine": "codex"
+  },
+  "image_0c035e329cf3d2.png": {
+    "classification": "formula",
+    "latex": "\\frac{x}{280}=\\frac{120-x}{220}\\times 3.5",
+    "note": "代數比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x}{280}=\\\\frac{120-x}{220}\\\\times 3.5\",\"note\":\"代數比例式\"}\n",
+    "ts": "2026-04-29T00:42:42.068891+00:00",
+    "engine": "codex"
+  },
+  "image_0c9d6d49a23589.png": {
+    "classification": "formula",
+    "latex": "0.2\\%",
+    "note": "百分數 0.2%",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.2\\\\%\",\"note\":\"百分數 0.2%\"}\n",
+    "ts": "2026-04-29T00:42:44.020536+00:00",
+    "engine": "codex"
+  },
+  "image_0ce2a633b10f86.png": {
+    "classification": "formula",
+    "latex": "0.2\\times 0.03+0.8\\times 0.15=0.126",
+    "note": "加權平均計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.2\\\\times 0.03+0.8\\\\times 0.15=0.126\",\"note\":\"加權平均計算式\"}\n",
+    "ts": "2026-04-29T00:42:45.716350+00:00",
+    "engine": "codex"
+  },
+  "image_106a75458ea24c.png": {
+    "classification": "formula",
+    "latex": "0.4",
+    "note": "小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.4\",\"note\":\"小數\"}\n",
+    "ts": "2026-04-29T00:42:46.728047+00:00",
+    "engine": "codex"
+  },
+  "image_111f912917953a.png": {
+    "classification": "formula",
+    "latex": "\\frac{80}{10000}",
+    "note": "分數：80除以10000",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{80}{10000}\",\"note\":\"分數：80除以10000\"}\n",
+    "ts": "2026-04-29T00:42:48.422859+00:00",
+    "engine": "codex"
+  },
+  "image_0df5c7033a2173.png": {
+    "classification": "formula",
+    "latex": "\\frac{12}{100}",
+    "note": "分數 12 over 100",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{12}{100}\",\"note\":\"分數 12 over 100\"}\n",
+    "ts": "2026-04-29T00:42:48.596636+00:00",
+    "engine": "codex"
+  },
+  "image_12d9f0785d258a.png": {
+    "classification": "formula",
+    "latex": "0.12\\times0.03+0.48\\times0.15+0.4\\times0.05=0.0956<0.11",
+    "note": "機率加權計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.12\\\\times0.03+0.48\\\\times0.15+0.4\\\\times0.05=0.0956<0.11\",\"note\":\"機率加權計算式\"}\n",
+    "ts": "2026-04-29T00:42:54.401291+00:00",
+    "engine": "codex"
+  },
+  "image_13f1306f352b37.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{7}{10}\\times\\frac{6}{9}\\times\\frac{3}{8}}{\\frac{3}{10}\\times\\frac{7}{9}\\times\\frac{6}{8}+\\frac{7}{10}\\times\\frac{3}{9}\\times\\frac{6}{8}+\\frac{7}{10}\\times\\frac{6}{9}\\times\\frac{3}{8}}=\\frac{1}{3}",
+    "note": "純數學分式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{7}{10}\\\\times\\\\frac{6}{9}\\\\times\\\\frac{3}{8}}{\\\\frac{3}{10}\\\\times\\\\frac{7}{9}\\\\times\\\\frac{6}{8}+\\\\frac{7}{10}\\\\times\\\\frac{3}{9}\\\\times\\\\frac{6}{8}+\\\\frac{7}{10}\\\\times\\\\frac{6}{9}\\\\times\\\\frac{3}{8}}=\\\\frac{1}{3}\",\"note\":\"純數學分式運算\"}\n",
+    "ts": "2026-04-29T00:42:55.090980+00:00",
+    "engine": "codex"
+  },
+  "image_15a83dde30152c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-29T00:42:55.184839+00:00",
+    "engine": "codex"
+  },
+  "image_17509baace14bd.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{24}",
+    "note": "分數一二十四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{24}\",\"note\":\"分數一二十四\"}\n",
+    "ts": "2026-04-29T00:42:59.476383+00:00",
+    "engine": "codex"
+  },
+  "image_16406c83899fd4.png": {
+    "classification": "formula",
+    "latex": "P(A_2)=0.5",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A_2)=0.5\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-29T00:43:02.042093+00:00",
+    "engine": "codex"
+  },
+  "image_1e350df75b69dd.png": {
+    "classification": "formula",
+    "latex": "x=9",
+    "note": "線性方程解",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=9\",\"note\":\"線性方程解\"}\n",
+    "ts": "2026-04-29T00:43:03.861004+00:00",
+    "engine": "codex"
+  },
+  "image_1509910bae2d74.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{15}",
+    "note": "分數十五分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{15}\",\"note\":\"分數十五分之一\"}\n",
+    "ts": "2026-04-29T00:43:04.687700+00:00",
+    "engine": "codex"
+  },
+  "image_2199d7a77eb416.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{10}",
+    "note": "分數三分之十",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{10}\",\"note\":\"分數三分之十\"}\n",
+    "ts": "2026-04-29T00:43:08.522655+00:00",
+    "engine": "codex"
+  },
+  "image_15dbe2d56d541e.png": {
+    "classification": "formula",
+    "latex": "P(\\text{中一發})=\\frac{1}{3}\\times\\frac{3}{4}+\\frac{2}{3}\\times\\frac{1}{4}=\\frac{5}{12}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{中一發})=\\\\frac{1}{3}\\\\times\\\\frac{3}{4}+\\\\frac{2}{3}\\\\times\\\\frac{1}{4}=\\\\frac{5}{12}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-29T00:43:10.229580+00:00",
+    "engine": "codex"
+  },
+  "image_2264180061d0ba.png": {
+    "classification": "formula",
+    "latex": "P(\\text{女性}\\mid\\text{未中獎})=\\frac{120}{320}=\\frac{3}{8}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{女性}\\\\mid\\\\text{未中獎})=\\\\frac{120}{320}=\\\\frac{3}{8}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:43:10.418480+00:00",
+    "engine": "codex"
+  },
+  "image_22e340dce96952.png": {
+    "classification": "formula",
+    "latex": "b+d=400",
+    "note": "線性等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b+d=400\",\"note\":\"線性等式\"}\n",
+    "ts": "2026-04-29T00:43:12.657861+00:00",
+    "engine": "codex"
+  },
+  "image_24b0f164b90976.png": {
+    "classification": "formula",
+    "latex": "50-59",
+    "note": "數字範圍或減法式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"50-59\",\"note\":\"數字範圍或減法式\"}\n",
+    "ts": "2026-04-29T00:43:15.693932+00:00",
+    "engine": "codex"
+  },
+  "image_1f0ca46a0abe9b.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(\\text{恰一人}\\cap\\text{丙})}{P(\\text{恰一人})}=\\frac{P(\\text{甲}'\\cap\\text{乙}'\\cap\\text{丙})}{P(\\text{甲}\\cap\\text{乙}'\\cap\\text{丙}')+P(\\text{甲}'\\cap\\text{乙}\\cap\\text{丙}')+P(\\text{甲}'\\cap\\text{乙}'\\cap\\text{丙})}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(\\\\text{恰一人}\\\\cap\\\\text{丙})}{P(\\\\text{恰一人})}=\\\\frac{P(\\\\text{甲}'\\\\cap\\\\text{乙}'\\\\cap\\\\text{丙})}{P(\\\\text{甲}\\\\cap\\\\text{乙}'\\\\cap\\\\text{丙}')+P(\\\\text{甲}'\\\\cap\\\\text{乙}\\\\cap\\\\text{丙}')+P(\\\\text{甲}'\\\\cap\\\\text{乙}'\\\\cap\\\\text{丙})}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:43:16.023660+00:00",
+    "engine": "codex"
+  },
+  "image_2531137cbedd23.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A_2)=0.6",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A_2)=0.6\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:43:16.377281+00:00",
+    "engine": "codex"
+  },
+  "image_267aa63124c896.png": {
+    "classification": "formula",
+    "latex": "a=320-120=200",
+    "note": "純文字數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=320-120=200\",\"note\":\"純文字數學等式\"}\n",
+    "ts": "2026-04-29T00:43:17.570349+00:00",
+    "engine": "codex"
+  },
+  "image_2b3350dd1a4a74.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-29T00:43:20.969905+00:00",
+    "engine": "codex"
+  },
+  "image_2d1129a922a0f1.png": {
+    "classification": "formula",
+    "latex": "\\frac{16}{40}=\\frac{y}{25}=\\frac{\\beta}{15}",
+    "note": "連比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{16}{40}=\\\\frac{y}{25}=\\\\frac{\\\\beta}{15}\",\"note\":\"連比例式\"}\n",
+    "ts": "2026-04-29T00:43:22.322239+00:00",
+    "engine": "codex"
+  },
+  "image_2ed805e7cad320.png": {
+    "classification": "formula",
+    "latex": "\\frac{22}{37}",
+    "note": "分數22/37",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{22}{37}\",\"note\":\"分數22/37\"}\n",
+    "ts": "2026-04-29T00:43:23.259448+00:00",
+    "engine": "codex"
+  },
+  "image_2bf64cff41ab8d.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第二類}\\mid\\text{失敗})=\\frac{1-p}{p(1-q)+(1-p)}=\\frac{1-p}{1-pq}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第二類}\\\\mid\\\\text{失敗})=\\\\frac{1-p}{p(1-q)+(1-p)}=\\\\frac{1-p}{1-pq}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:43:25.734072+00:00",
+    "engine": "codex"
+  },
+  "image_307dade369b342.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{12}",
+    "note": "分數一十二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{12}\",\"note\":\"分數一十二分之一\"}\n",
+    "ts": "2026-04-29T00:43:26.206329+00:00",
+    "engine": "codex"
+  },
+  "image_3393e0b8f96dda.png": {
+    "classification": "formula",
+    "latex": "\\approx 0.288",
+    "note": "近似值算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\approx 0.288\",\"note\":\"近似值算式\"}\n",
+    "ts": "2026-04-29T00:43:28.027257+00:00",
+    "engine": "codex"
+  },
+  "image_34bb0329e3a1fd.png": {
+    "classification": "formula",
+    "latex": "x=98",
+    "note": "純文字數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=98\",\"note\":\"純文字數學等式\"}\n",
+    "ts": "2026-04-29T00:43:30.368648+00:00",
+    "engine": "codex"
+  },
+  "image_386f0f642277c1.png": {
+    "classification": "formula",
+    "latex": "0.25",
+    "note": "小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.25\",\"note\":\"小數\"}\n",
+    "ts": "2026-04-29T00:43:31.604343+00:00",
+    "engine": "codex"
+  },
+  "image_39024d7356a309.png": {
+    "classification": "formula",
+    "latex": "P(A_1)=0.5",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A_1)=0.5\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-29T00:43:31.733181+00:00",
+    "engine": "codex"
+  },
+  "image_3b3e95412fbbf2.png": {
+    "classification": "formula",
+    "latex": "q",
+    "note": "單一變數 q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"q\",\"note\":\"單一變數 q\"}\n",
+    "ts": "2026-04-29T00:43:33.929507+00:00",
+    "engine": "codex"
+  },
+  "image_3f03f3d081dbe5.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{1}{12}}{\\frac{3}{4}}=\\frac{1}{9}",
+    "note": "分數除法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{1}{12}}{\\\\frac{3}{4}}=\\\\frac{1}{9}\",\"note\":\"分數除法算式\"}\n",
+    "ts": "2026-04-29T00:43:35.808249+00:00",
+    "engine": "codex"
+  },
+  "image_447d13cadec7e8.png": {
+    "classification": "formula",
+    "latex": "(1-p)(1-q)",
+    "note": "機率代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1-p)(1-q)\",\"note\":\"機率代數式\"}\n",
+    "ts": "2026-04-29T00:43:38.355033+00:00",
+    "engine": "codex"
+  },
+  "image_4549815d74cf69.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數六分之一\"}\n",
+    "ts": "2026-04-29T00:43:39.052456+00:00",
+    "engine": "codex"
+  },
+  "image_42cfaddaecbdce.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{2}{1000}\\times 1}{\\frac{2}{1000}\\times 1+\\frac{998}{1000}\\times\\frac{4}{100}}=\\frac{25}{524}",
+    "note": "機率分數化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{2}{1000}\\\\times 1}{\\\\frac{2}{1000}\\\\times 1+\\\\frac{998}{1000}\\\\times\\\\frac{4}{100}}=\\\\frac{25}{524}\",\"note\":\"機率分數化簡\"}\n",
+    "ts": "2026-04-29T00:43:41.203041+00:00",
+    "engine": "codex"
+  },
+  "image_456903f9c40bc1.png": {
+    "classification": "formula",
+    "latex": "(1-\\frac{1}{2})\\times(1-\\frac{1}{3})\\times\\frac{1}{4}=\\frac{1}{12}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1-\\\\frac{1}{2})\\\\times(1-\\\\frac{1}{3})\\\\times\\\\frac{1}{4}=\\\\frac{1}{12}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T00:43:43.632532+00:00",
+    "engine": "codex"
+  },
+  "image_46abf50892947e.png": {
+    "classification": "formula",
+    "latex": "=P(A\\mid B)=\\frac{P(A\\cap B)}{P(B)}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P(A\\\\mid B)=\\\\frac{P(A\\\\cap B)}{P(B)}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:43:44.972460+00:00",
+    "engine": "codex"
+  },
+  "image_46ea87a89bb090.png": {
+    "classification": "formula",
+    "latex": "P(\\text{甲}\\mid\\text{不良})=\\frac{0.5\\times0.03}{0.037}=\\frac{15}{37}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{甲}\\\\mid\\\\text{不良})=\\\\frac{0.5\\\\times0.03}{0.037}=\\\\frac{15}{37}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:43:47.243537+00:00",
+    "engine": "codex"
+  },
+  "image_4c1cee4a8bd641.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第二次成功}\\mid \\text{第一次失敗})",
+    "note": "條件機率表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第二次成功}\\\\mid \\\\text{第一次失敗})\",\"note\":\"條件機率表示式\"}\n",
+    "ts": "2026-04-29T00:43:49.832310+00:00",
+    "engine": "codex"
+  },
+  "image_4906a95b9cbfca.png": {
+    "classification": "formula",
+    "latex": "B_1",
+    "note": "字母B下标1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B_1\",\"note\":\"字母B下标1\"}\n",
+    "ts": "2026-04-29T00:43:50.385394+00:00",
+    "engine": "codex"
+  },
+  "image_4d8fec7d3784d5.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\frac{30}{100}\\times\\frac{1}{100}}{\\frac{30}{100}\\times\\frac{1}{100}+\\frac{70}{100}\\times\\frac{5}{100}}",
+    "note": "分數機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\frac{30}{100}\\\\times\\\\frac{1}{100}}{\\\\frac{30}{100}\\\\times\\\\frac{1}{100}+\\\\frac{70}{100}\\\\times\\\\frac{5}{100}}\",\"note\":\"分數機率計算式\"}\n",
+    "ts": "2026-04-29T00:43:51.165821+00:00",
+    "engine": "codex"
+  },
+  "image_4f63343d7071ea.png": {
+    "classification": "formula",
+    "latex": "(1-q)q",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1-q)q\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T00:43:56.446392+00:00",
+    "engine": "codex"
+  },
+  "image_4e704ae3ebfe55.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{5}",
+    "note": "分數二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{5}\",\"note\":\"分數二分之五\"}\n",
+    "ts": "2026-04-29T00:43:56.468124+00:00",
+    "engine": "codex"
+  },
+  "image_4ee4bf05c2c937.png": {
+    "classification": "formula",
+    "latex": "=\\frac{40\\%\\times 2\\%}{40\\%\\times 2\\%+60\\%\\times 5\\%}=\\frac{4}{19}",
+    "note": "百分比乘積分式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{40\\\\%\\\\times 2\\\\%}{40\\\\%\\\\times 2\\\\%+60\\\\%\\\\times 5\\\\%}=\\\\frac{4}{19}\",\"note\":\"百分比乘積分式計算\"}\n",
+    "ts": "2026-04-29T00:43:56.757938+00:00",
+    "engine": "codex"
+  },
+  "image_4ed8f8582a7333.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{1}{12}}{\\frac{1}{2}}=\\frac{1}{6}",
+    "note": "分數除法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{1}{12}}{\\\\frac{1}{2}}=\\\\frac{1}{6}\",\"note\":\"分數除法算式\"}\n",
+    "ts": "2026-04-29T00:43:56.779497+00:00",
+    "engine": "codex"
+  },
+  "image_4fa51a2cb8b599.png": {
+    "classification": "formula",
+    "latex": "60",
+    "note": "數字60",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60\",\"note\":\"數字60\"}\n",
+    "ts": "2026-04-29T00:44:01.157053+00:00",
+    "engine": "codex"
+  },
+  "image_525dda4a7496b1.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-29T00:44:01.336921+00:00",
+    "engine": "codex"
+  },
+  "image_4f9d56d7c64b4f.png": {
+    "classification": "formula",
+    "latex": "\\alpha+\\beta=15+6=21",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\alpha+\\\\beta=15+6=21\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T00:44:04.700322+00:00",
+    "engine": "codex"
+  },
+  "image_4fedee8e68f518.png": {
+    "classification": "formula",
+    "latex": "75\\%",
+    "note": "百分比數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"75\\\\%\",\"note\":\"百分比數值\"}\n",
+    "ts": "2026-04-29T00:44:05.203876+00:00",
+    "engine": "codex"
+  },
+  "image_559d709cb28767.png": {
+    "classification": "formula",
+    "latex": "500",
+    "note": "數字500",
+    "raw": "{\"class\":\"formula\",\"latex\":\"500\",\"note\":\"數字500\"}\n",
+    "ts": "2026-04-29T00:44:05.931413+00:00",
+    "engine": "codex"
+  },
+  "image_56f00e5af60193.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹圖，顯示甲乙與答對答錯機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹圖，顯示甲乙與答對答錯機率\"}\n",
+    "ts": "2026-04-29T00:44:08.484127+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一字母變數B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一字母變數B\"}\n",
+    "ts": "2026-04-29T00:44:10.542178+00:00",
+    "engine": "codex"
+  },
+  "image_583e8d70d4ea13.png": {
+    "classification": "formula",
+    "latex": "0.45",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.45\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T00:44:12.910681+00:00",
+    "engine": "codex"
+  },
+  "image_5715dcdf61be8e.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(\\text{第一次失敗}\\cap\\text{第二次成功})}{P(\\text{第一次失敗})}",
+    "note": "條件機率公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(\\\\text{第一次失敗}\\\\cap\\\\text{第二次成功})}{P(\\\\text{第一次失敗})}\",\"note\":\"條件機率公式的一部分\"}\n",
+    "ts": "2026-04-29T00:44:12.974227+00:00",
+    "engine": "codex"
+  },
+  "image_5a1a38ceeed6ff.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{25}",
+    "note": "分數四分之二十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{25}\",\"note\":\"分數四分之二十五\"}\n",
+    "ts": "2026-04-29T00:44:15.785096+00:00",
+    "engine": "codex"
+  },
+  "image_5d4325a2a760ef.png": {
+    "classification": "formula",
+    "latex": "A_1",
+    "note": "變數 A 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_1\",\"note\":\"變數 A 下標 1\"}\n",
+    "ts": "2026-04-29T00:44:17.879217+00:00",
+    "engine": "codex"
+  },
+  "image_5fd18ab5f9f9fa.png": {
+    "classification": "formula",
+    "latex": "\\frac{9}{25}",
+    "note": "分數九分之二十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{9}{25}\",\"note\":\"分數九分之二十五\"}\n",
+    "ts": "2026-04-29T00:44:18.023432+00:00",
+    "engine": "codex"
+  },
+  "image_5d874ee3cd1a82.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T00:44:19.317433+00:00",
+    "engine": "codex"
+  },
+  "image_622b3eb2e1cfa9.png": {
+    "classification": "formula",
+    "latex": "A_2",
+    "note": "字母A下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_2\",\"note\":\"字母A下標2\"}\n",
+    "ts": "2026-04-29T00:44:23.446255+00:00",
+    "engine": "codex"
+  },
+  "image_628dd017ef6391.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{10}\\times\\frac{2}{9}=\\frac{1}{15}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{10}\\\\times\\\\frac{2}{9}=\\\\frac{1}{15}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-29T00:44:24.092015+00:00",
+    "engine": "codex"
+  },
+  "image_60fba2ffed0a40.png": {
+    "classification": "formula",
+    "latex": "P(\\text{失敗})=p(1-q)+(1-p)=1-pq",
+    "note": "失敗機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{失敗})=p(1-q)+(1-p)=1-pq\",\"note\":\"失敗機率公式\"}\n",
+    "ts": "2026-04-29T00:44:25.106340+00:00",
+    "engine": "codex"
+  },
+  "image_62ec438cd0028b.png": {
+    "classification": "formula",
+    "latex": "\\frac{60\\%\\times 2\\%}{60\\%\\times 2\\%+30\\%\\times 3\\%+10\\%\\times 4\\%}=\\frac{12}{25}",
+    "note": "百分比加權分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{60\\\\%\\\\times 2\\\\%}{60\\\\%\\\\times 2\\\\%+30\\\\%\\\\times 3\\\\%+10\\\\%\\\\times 4\\\\%}=\\\\frac{12}{25}\",\"note\":\"百分比加權分數等式\"}\n",
+    "ts": "2026-04-29T00:44:29.190532+00:00",
+    "engine": "codex"
+  },
+  "image_67b363a36a5294.png": {
+    "classification": "formula",
+    "latex": "75",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"75\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T00:44:29.683517+00:00",
+    "engine": "codex"
+  },
+  "image_66d6da692d2f3f.png": {
+    "classification": "formula",
+    "latex": "0.6\\times0.15+0.4\\times0.05=0.11=11\\%",
+    "note": "機率加權計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.6\\\\times0.15+0.4\\\\times0.05=0.11=11\\\\%\",\"note\":\"機率加權計算式\"}\n",
+    "ts": "2026-04-29T00:44:31.786782+00:00",
+    "engine": "codex"
+  },
+  "image_68216bf48976b3.png": {
+    "classification": "formula",
+    "latex": "A_1",
+    "note": "變數 A 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_1\",\"note\":\"變數 A 下標 1\"}\n",
+    "ts": "2026-04-29T00:44:35.425339+00:00",
+    "engine": "codex"
+  },
+  "image_679be0dbeeb2ff.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\times\\frac{1}{3}\\times\\frac{1}{4}=\\frac{1}{24}",
+    "note": "分數連乘等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\times\\\\frac{1}{3}\\\\times\\\\frac{1}{4}=\\\\frac{1}{24}\",\"note\":\"分數連乘等式\"}\n",
+    "ts": "2026-04-29T00:44:35.557323+00:00",
+    "engine": "codex"
+  },
+  "image_67eb016077120e.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}P(\\text{做一次成功})=q\\\\P(\\text{做二次才成功})=(1-q)q\\end{cases}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}P(\\\\text{做一次成功})=q\\\\\\\\P(\\\\text{做二次才成功})=(1-q)q\\\\end{cases}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-29T00:44:38.139200+00:00",
+    "engine": "codex"
+  },
+  "image_69e3677a7c70f4.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{9}\\times\\frac{3}{8}=\\frac{1}{6}",
+    "note": "分數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{9}\\\\times\\\\frac{3}{8}=\\\\frac{1}{6}\",\"note\":\"分數乘法等式\"}\n",
+    "ts": "2026-04-29T00:44:39.792752+00:00",
+    "engine": "codex"
+  },
+  "image_6ac27fffb60e34.png": {
+    "classification": "formula",
+    "latex": "b+d=396",
+    "note": "線性等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b+d=396\",\"note\":\"線性等式\"}\n",
+    "ts": "2026-04-29T00:44:42.449748+00:00",
+    "engine": "codex"
+  },
+  "image_6bb7d91c4f2413.png": {
+    "classification": "formula",
+    "latex": "d=32+120=152",
+    "note": "純文字數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=32+120=152\",\"note\":\"純文字數學等式\"}\n",
+    "ts": "2026-04-29T00:44:47.072284+00:00",
+    "engine": "codex"
+  },
+  "image_69e81642dd37f7.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{19}",
+    "note": "分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10}{19}\",\"note\":\"分數\"}\n",
+    "ts": "2026-04-29T00:44:47.186972+00:00",
+    "engine": "codex"
+  },
+  "image_6c1ba4e220816e.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹狀圖，含A/B/C與熊大、皮卡丘分支機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹狀圖，含A/B/C與熊大、皮卡丘分支機率\"}\n",
+    "ts": "2026-04-29T00:44:47.341416+00:00",
+    "engine": "codex"
+  },
+  "image_69ffab1dd35ced.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(甲)\\times P(乙')\\times P(丙')}{\\frac{11}{24}}=\\frac{\\frac{1}{2}\\times\\frac{2}{3}\\times\\frac{3}{4}}{\\frac{11}{24}}=\\frac{6}{11}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(甲)\\\\times P(乙')\\\\times P(丙')}{\\\\frac{11}{24}}=\\\\frac{\\\\frac{1}{2}\\\\times\\\\frac{2}{3}\\\\times\\\\frac{3}{4}}{\\\\frac{11}{24}}=\\\\frac{6}{11}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:44:49.135825+00:00",
+    "engine": "codex"
+  },
+  "image_70a4b30a6caef6.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A_1)=1",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A_1)=1\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:44:52.297763+00:00",
+    "engine": "codex"
+  },
+  "image_6f8631743af273.png": {
+    "classification": "formula",
+    "latex": "P(\\text{中獎})=\\frac{80}{400}=\\frac{1}{5}",
+    "note": "中獎機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{中獎})=\\\\frac{80}{400}=\\\\frac{1}{5}\",\"note\":\"中獎機率計算式\"}\n",
+    "ts": "2026-04-29T00:44:52.991074+00:00",
+    "engine": "codex"
+  },
+  "image_6d49be732f6992.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 2400x = 280 \\times 120 \\times 7",
+    "note": "等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 2400x = 280 \\\\times 120 \\\\times 7\",\"note\":\"等式推導\"}\n",
+    "ts": "2026-04-29T00:44:53.320794+00:00",
+    "engine": "codex"
+  },
+  "image_72f837f5e93e7a.png": {
+    "classification": "formula",
+    "latex": "\\frac{6}{11}",
+    "note": "分數6/11",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{6}{11}\",\"note\":\"分數6/11\"}\n",
+    "ts": "2026-04-29T00:44:55.133269+00:00",
+    "engine": "codex"
+  },
+  "image_742577826dffe6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數五分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數五分之一\"}\n",
+    "ts": "2026-04-29T00:44:56.721949+00:00",
+    "engine": "codex"
+  },
+  "image_76e18250f5ff0d.png": {
+    "classification": "formula",
+    "latex": "A_2",
+    "note": "下標為2的A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_2\",\"note\":\"下標為2的A\"}\n",
+    "ts": "2026-04-29T00:44:58.963609+00:00",
+    "engine": "codex"
+  },
+  "image_799cd6f29bccb0.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"四分之一\"}\n",
+    "ts": "2026-04-29T00:44:59.275334+00:00",
+    "engine": "codex"
+  },
+  "image_7d77e0e4c25883.png": {
+    "classification": "formula",
+    "latex": "\\frac{7}{30}",
+    "note": "分數七分之三十",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7}{30}\",\"note\":\"分數七分之三十\"}\n",
+    "ts": "2026-04-29T00:45:00.976329+00:00",
+    "engine": "codex"
+  },
+  "image_7fe119f26bbbd4.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{18}",
+    "note": "分數五分之十八",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{18}\",\"note\":\"分數五分之十八\"}\n",
+    "ts": "2026-04-29T00:45:03.121300+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-29T00:45:04.634176+00:00",
+    "engine": "codex"
+  },
+  "image_846ad1b4bc1162.png": {
+    "classification": "formula",
+    "latex": "\\frac{16}{25}",
+    "note": "分數十六分之二十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{16}{25}\",\"note\":\"分數十六分之二十五\"}\n",
+    "ts": "2026-04-29T00:45:05.829016+00:00",
+    "engine": "codex"
+  },
+  "image_8cdb37d13a7a07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T00:45:08.835338+00:00",
+    "engine": "codex"
+  },
+  "image_891719da15bdd0.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{3}{10}\\times\\frac{2}{9}\\times\\frac{7}{8}}{\\frac{3}{10}\\times\\frac{2}{9}\\times\\frac{7}{8}+\\frac{3}{10}\\times\\frac{7}{9}\\times\\frac{2}{8}+\\frac{7}{10}\\times\\frac{3}{9}\\times\\frac{2}{8}}=\\frac{1}{3}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{3}{10}\\\\times\\\\frac{2}{9}\\\\times\\\\frac{7}{8}}{\\\\frac{3}{10}\\\\times\\\\frac{2}{9}\\\\times\\\\frac{7}{8}+\\\\frac{3}{10}\\\\times\\\\frac{7}{9}\\\\times\\\\frac{2}{8}+\\\\frac{7}{10}\\\\times\\\\frac{3}{9}\\\\times\\\\frac{2}{8}}=\\\\frac{1}{3}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T00:45:10.430673+00:00",
+    "engine": "codex"
+  },
+  "image_8de3b6a123c097.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{9}",
+    "note": "分數四分之九",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{9}\",\"note\":\"分數四分之九\"}\n",
+    "ts": "2026-04-29T00:45:11.555862+00:00",
+    "engine": "codex"
+  },
+  "image_894d90fe725e0c.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_1^{45}C_1^{75}}{C_2^{120}}=\\frac{45\\times75}{\\frac{120\\times119}{2}}=2\\times\\frac{45}{120}\\times\\frac{75}{119}",
+    "note": "組合數公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_1^{45}C_1^{75}}{C_2^{120}}=\\\\frac{45\\\\times75}{\\\\frac{120\\\\times119}{2}}=2\\\\times\\\\frac{45}{120}\\\\times\\\\frac{75}{119}\",\"note\":\"組合數公式化簡\"}\n",
+    "ts": "2026-04-29T00:45:12.414591+00:00",
+    "engine": "codex"
+  },
+  "image_8ed6ef85f74a6a.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-29T00:45:15.417305+00:00",
+    "engine": "codex"
+  },
+  "image_8fca93301339f0.png": {
+    "classification": "formula",
+    "latex": "q>(1-q)q",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"q>(1-q)q\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-29T00:45:16.014624+00:00",
+    "engine": "codex"
+  },
+  "image_93d48c9b19f061.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\times\\frac{2}{3}\\times\\frac{3}{4}=\\frac{1}{4}",
+    "note": "連乘分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\times\\\\frac{2}{3}\\\\times\\\\frac{3}{4}=\\\\frac{1}{4}\",\"note\":\"連乘分數等式\"}\n",
+    "ts": "2026-04-29T00:45:18.748861+00:00",
+    "engine": "codex"
+  },
+  "image_916f397dd6fa61.png": {
+    "classification": "formula",
+    "latex": "4\\%",
+    "note": "百分比數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\\\\%\",\"note\":\"百分比數值\"}\n",
+    "ts": "2026-04-29T00:45:21.089679+00:00",
+    "engine": "codex"
+  },
+  "image_948f6986a61448.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 440x=280\\times120\\times7-1960x",
+    "note": "代數等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 440x=280\\\\times120\\\\times7-1960x\",\"note\":\"代數等式推導\"}\n",
+    "ts": "2026-04-29T00:45:23.192745+00:00",
+    "engine": "codex"
+  },
+  "image_960e37a9e1aee9.png": {
+    "classification": "formula",
+    "latex": "1-pq",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-pq\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T00:45:23.377976+00:00",
+    "engine": "codex"
+  },
+  "image_9545839e527082.png": {
+    "classification": "formula",
+    "latex": "0.35",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.35\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T00:45:24.718248+00:00",
+    "engine": "codex"
+  },
+  "image_997ab519a5bc0c.png": {
+    "classification": "formula",
+    "latex": "b=48+200=248",
+    "note": "純文字數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=48+200=248\",\"note\":\"純文字數學等式\"}\n",
+    "ts": "2026-04-29T00:45:28.127481+00:00",
+    "engine": "codex"
+  },
+  "image_9619ddf7c477da.png": {
+    "classification": "formula",
+    "latex": "\\frac{500-120}{500}=\\frac{380}{500}=76\\%",
+    "note": "百分比計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{500-120}{500}=\\\\frac{380}{500}=76\\\\%\",\"note\":\"百分比計算式\"}\n",
+    "ts": "2026-04-29T00:45:28.581475+00:00",
+    "engine": "codex"
+  },
+  "image_984b24375f5fe0.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{4}",
+    "note": "分數三分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{4}\",\"note\":\"分數三分之四\"}\n",
+    "ts": "2026-04-29T00:45:28.995212+00:00",
+    "engine": "codex"
+  },
+  "image_9b12bfe66a8850.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹狀圖，含成功與失敗分支",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹狀圖，含成功與失敗分支\"}\n",
+    "ts": "2026-04-29T00:45:32.870433+00:00",
+    "engine": "codex"
+  },
+  "image_9ac496e64b2fee.png": {
+    "classification": "formula",
+    "latex": "P(C\\mid \\text{皮卡丘})=\\frac{P(C\\cap \\text{皮卡丘})}{P(\\text{皮卡丘})",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(C\\\\mid \\\\text{皮卡丘})=\\\\frac{P(C\\\\cap \\\\text{皮卡丘})}{P(\\\\text{皮卡丘})\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:45:33.723986+00:00",
+    "engine": "codex"
+  },
+  "image_9db2337d667e6c.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{19}",
+    "note": "分數四十九分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{19}\",\"note\":\"分數四十九分之四\"}\n",
+    "ts": "2026-04-29T00:45:34.820856+00:00",
+    "engine": "codex"
+  },
+  "image_a17b5936ded13a.png": {
+    "classification": "formula",
+    "latex": "c=80-48=32",
+    "note": "等式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=80-48=32\",\"note\":\"等式計算\"}\n",
+    "ts": "2026-04-29T00:45:38.136479+00:00",
+    "engine": "codex"
+  },
+  "image_9fc6c271528921.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{38}",
+    "note": "分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{38}\",\"note\":\"分數\"}\n",
+    "ts": "2026-04-29T00:45:40.139094+00:00",
+    "engine": "codex"
+  },
+  "image_9e21ff7caf1bc2.png": {
+    "classification": "formula",
+    "latex": "P(\\text{乙或丙}\\mid\\text{不良})=\\frac{0.3\\times0.04+0.2\\times0.05}{0.037}=\\frac{22}{37}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{乙或丙}\\\\mid\\\\text{不良})=\\\\frac{0.3\\\\times0.04+0.2\\\\times0.05}{0.037}=\\\\frac{22}{37}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:45:42.824595+00:00",
+    "engine": "codex"
+  },
+  "image_a5dd201a0ded80.png": {
+    "classification": "formula",
+    "latex": "e=400-80=320",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"e=400-80=320\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T00:45:44.500263+00:00",
+    "engine": "codex"
+  },
+  "image_a3b3f8b69c712c.png": {
+    "classification": "formula",
+    "latex": "A_2",
+    "note": "字母A下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_2\",\"note\":\"字母A下標2\"}\n",
+    "ts": "2026-04-29T00:45:44.583442+00:00",
+    "engine": "codex"
+  },
+  "image_a5ebade5c46c64.png": {
+    "classification": "formula",
+    "latex": "120",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"120\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T00:45:44.773751+00:00",
+    "engine": "codex"
+  },
+  "image_a8fe352e2ce903.png": {
+    "classification": "formula",
+    "latex": "\\frac{0.03}{0.15}=\\frac{1}{5}",
+    "note": "小數分數化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{0.03}{0.15}=\\\\frac{1}{5}\",\"note\":\"小數分數化簡\"}\n",
+    "ts": "2026-04-29T00:45:48.795255+00:00",
+    "engine": "codex"
+  },
+  "image_aaa6df1a5381b2.png": {
+    "classification": "formula",
+    "latex": "0.3",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.3\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-29T00:45:49.667763+00:00",
+    "engine": "codex"
+  },
+  "image_add2073d9cbef6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-29T00:45:52.436264+00:00",
+    "engine": "codex"
+  },
+  "image_ad869d7745bdae.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}\\times\\frac{1}{4}=\\frac{1}{12}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\\\\times\\\\frac{1}{4}=\\\\frac{1}{12}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-29T00:45:52.455094+00:00",
+    "engine": "codex"
+  },
+  "image_b091bdc7d0e482.png": {
+    "classification": "formula",
+    "latex": "a=200",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=200\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T00:45:53.756311+00:00",
+    "engine": "codex"
+  },
+  "image_b1a29d863b9829.png": {
+    "classification": "formula",
+    "latex": "=\\frac{49}{170}",
+    "note": "等於四十九分之一百七十",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{49}{170}\",\"note\":\"等於四十九分之一百七十\"}\n",
+    "ts": "2026-04-29T00:45:55.923521+00:00",
+    "engine": "codex"
+  },
+  "image_b3c19a258eadc3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-29T00:45:57.953347+00:00",
+    "engine": "codex"
+  },
+  "image_b2607a355aea58.png": {
+    "classification": "formula",
+    "latex": "\\frac{24}{40}=\\frac{a}{25}=\\frac{x}{15}",
+    "note": "連比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{24}{40}=\\\\frac{a}{25}=\\\\frac{x}{15}\",\"note\":\"連比例式\"}\n",
+    "ts": "2026-04-29T00:46:00.259566+00:00",
+    "engine": "codex"
+  },
+  "image_b7bdb6f0540ef6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數一分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數一分之五\"}\n",
+    "ts": "2026-04-29T00:46:02.912030+00:00",
+    "engine": "codex"
+  },
+  "image_b46ae496b95d52.png": {
+    "classification": "formula",
+    "latex": "c+e=352",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c+e=352\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-04-29T00:46:03.124741+00:00",
+    "engine": "codex"
+  },
+  "image_b57230ec2e6045.png": {
+    "classification": "formula",
+    "latex": "\\alpha+\\beta=20",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\alpha+\\\\beta=20\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T00:46:03.139204+00:00",
+    "engine": "codex"
+  },
+  "image_b7ea8d6fe64294.png": {
+    "classification": "formula",
+    "latex": "\\beta=6",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\beta=6\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T00:46:06.083554+00:00",
+    "engine": "codex"
+  },
+  "image_bad1b67c5978a6.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-29T00:46:09.816753+00:00",
+    "engine": "codex"
+  },
+  "image_ba499770b7efae.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_2^{220}}{C_2^{500}}=\\frac{220\\times219}{500\\times499}=\\frac{220}{500}\\times\\frac{219}{499}<\\frac{1}{2}\\times\\frac{1}{2}=\\frac{1}{4}=0.25",
+    "note": "組合數比值估算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_2^{220}}{C_2^{500}}=\\\\frac{220\\\\times219}{500\\\\times499}=\\\\frac{220}{500}\\\\times\\\\frac{219}{499}<\\\\frac{1}{2}\\\\times\\\\frac{1}{2}=\\\\frac{1}{4}=0.25\",\"note\":\"組合數比值估算\"}\n",
+    "ts": "2026-04-29T00:46:11.191955+00:00",
+    "engine": "codex"
+  },
+  "image_b8bb9da8480eb7.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(甲\\cap 乙')}{P(甲)}=\\frac{\\frac{4}{9}\\times\\frac{5}{8}}{\\frac{4}{9}}=\\frac{5}{8}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(甲\\\\cap 乙')}{P(甲)}=\\\\frac{\\\\frac{4}{9}\\\\times\\\\frac{5}{8}}{\\\\frac{4}{9}}=\\\\frac{5}{8}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:46:13.711275+00:00",
+    "engine": "codex"
+  },
+  "image_be7e66634693a2.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{9}",
+    "note": "分數九分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{9}\",\"note\":\"分數九分之一\"}\n",
+    "ts": "2026-04-29T00:46:14.276288+00:00",
+    "engine": "codex"
+  },
+  "image_c0457c302f7f1e.png": {
+    "classification": "formula",
+    "latex": "0.05",
+    "note": "小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.05\",\"note\":\"小數\"}\n",
+    "ts": "2026-04-29T00:46:17.624658+00:00",
+    "engine": "codex"
+  },
+  "image_c108b6a2595bad.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{10}",
+    "note": "分數一十分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{10}\",\"note\":\"分數一十分之一\"}\n",
+    "ts": "2026-04-29T00:46:18.922080+00:00",
+    "engine": "codex"
+  },
+  "image_c12d64da884a54.png": {
+    "classification": "formula",
+    "latex": "\\frac{13}{24}",
+    "note": "分數十三分之二十四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{13}{24}\",\"note\":\"分數十三分之二十四\"}\n",
+    "ts": "2026-04-29T00:46:20.473049+00:00",
+    "engine": "codex"
+  },
+  "image_c2a92a75c12ace.png": {
+    "classification": "formula",
+    "latex": "90",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"90\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T00:46:22.288602+00:00",
+    "engine": "codex"
+  },
+  "image_bdc5142202f126.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(\\text{恰二人}\\cap\\text{甲與乙})}{P(\\text{恰二人})}=\\frac{P(\\text{甲}\\cap\\text{乙}\\cap\\overline{\\text{丙}})}{P(\\text{甲}\\cap\\text{乙}\\cap\\overline{\\text{丙}})+P(\\text{甲}\\cap\\overline{\\text{乙}}\\cap\\text{丙})+P(\\overline{\\text{甲}}\\cap\\text{乙}\\cap\\text{丙})}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(\\\\text{恰二人}\\\\cap\\\\text{甲與乙})}{P(\\\\text{恰二人})}=\\\\frac{P(\\\\text{甲}\\\\cap\\\\text{乙}\\\\cap\\\\overline{\\\\text{丙}})}{P(\\\\text{甲}\\\\cap\\\\text{乙}\\\\cap\\\\overline{\\\\text{丙}})+P(\\\\text{甲}\\\\cap\\\\overline{\\\\text{乙}}\\\\cap\\\\text{丙})+P(\\\\overline{\\\\text{甲}}\\\\cap\\\\text{乙}\\\\cap\\\\text{丙})}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-29T00:46:23.053881+00:00",
+    "engine": "codex"
+  },
+  "image_c3716f29fb8128.png": {
+    "classification": "formula",
+    "latex": "P(乙\\mid 不良)=\\frac{0.3\\times 0.04}{0.037}=\\frac{12}{37}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(乙\\\\mid 不良)=\\\\frac{0.3\\\\times 0.04}{0.037}=\\\\frac{12}{37}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:46:25.352488+00:00",
+    "engine": "codex"
+  },
+  "image_c39b8ba59ffe4d.png": {
+    "classification": "formula",
+    "latex": "0<q<1",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0<q<1\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T00:46:27.852675+00:00",
+    "engine": "codex"
+  },
+  "image_c47093cb49e9e2.png": {
+    "classification": "formula",
+    "latex": "\\frac{0.6\\times 0.15}{0.11}=\\frac{9}{11}<90\\%",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{0.6\\\\times 0.15}{0.11}=\\\\frac{9}{11}<90\\\\%\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T00:46:28.834599+00:00",
+    "engine": "codex"
+  },
+  "image_c47a4392947e44.png": {
+    "classification": "formula",
+    "latex": "\\frac{1-p}{1-pq}",
+    "note": "分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1-p}{1-pq}\",\"note\":\"分式\"}\n",
+    "ts": "2026-04-29T00:46:30.331135+00:00",
+    "engine": "codex"
+  },
+  "image_c5f0514ec9edd5.png": {
+    "classification": "formula",
+    "latex": "y=10",
+    "note": "純文字方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=10\",\"note\":\"純文字方程式\"}\n",
+    "ts": "2026-04-29T00:46:32.166306+00:00",
+    "engine": "codex"
+  },
+  "image_c5c362e82ad7b2.png": {
+    "classification": "formula",
+    "latex": "\\frac{\\frac{70}{100}\\times\\frac{5}{100}}{\\frac{30}{100}\\times\\frac{1}{100}+\\frac{70}{100}\\times\\frac{5}{100}}",
+    "note": "分數機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{\\\\frac{70}{100}\\\\times\\\\frac{5}{100}}{\\\\frac{30}{100}\\\\times\\\\frac{1}{100}+\\\\frac{70}{100}\\\\times\\\\frac{5}{100}}\",\"note\":\"分數機率公式\"}\n",
+    "ts": "2026-04-29T00:46:33.804174+00:00",
+    "engine": "codex"
+  },
+  "image_c61358050f22ac.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{9}",
+    "note": "分數五分之九",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{9}\",\"note\":\"分數五分之九\"}\n",
+    "ts": "2026-04-29T00:46:36.934645+00:00",
+    "engine": "codex"
+  },
+  "image_c8c1589afdbb8c.png": {
+    "classification": "formula",
+    "latex": "\\frac{280}{500}=56\\%<60\\%",
+    "note": "分數化為百分率並比較",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{280}{500}=56\\\\%<60\\\\%\",\"note\":\"分數化為百分率並比較\"}\n",
+    "ts": "2026-04-29T00:46:37.682266+00:00",
+    "engine": "codex"
+  },
+  "image_cb7db2a93912a1.png": {
+    "classification": "formula",
+    "latex": "c+e=350",
+    "note": "線性等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c+e=350\",\"note\":\"線性等式\"}\n",
+    "ts": "2026-04-29T00:46:37.769157+00:00",
+    "engine": "codex"
+  },
+  "image_cbb33474d401be.png": {
+    "classification": "formula",
+    "latex": "3.5",
+    "note": "小數數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3.5\",\"note\":\"小數數字\"}\n",
+    "ts": "2026-04-29T00:46:37.946334+00:00",
+    "engine": "codex"
+  },
+  "image_d2d6dae823dfd6.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹狀圖，顯示A/B與被竊/未竊機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹狀圖，顯示A/B與被竊/未竊機率\"}\n",
+    "ts": "2026-04-29T00:46:42.573451+00:00",
+    "engine": "codex"
+  },
+  "image_ccdb37f235a57d.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹狀圖，顯示A改、A原、B與被竊機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹狀圖，顯示A改、A原、B與被竊機率\"}\n",
+    "ts": "2026-04-29T00:46:44.471090+00:00",
+    "engine": "codex"
+  },
+  "image_cf6282a2ba2b49.png": {
+    "classification": "formula",
+    "latex": "\\approx 4.77\\%",
+    "note": "約等於百分之4.77",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\approx 4.77\\\\%\",\"note\":\"約等於百分之4.77\"}\n",
+    "ts": "2026-04-29T00:46:44.828870+00:00",
+    "engine": "codex"
+  },
+  "image_cfb0321bf539de.png": {
+    "classification": "formula",
+    "latex": "p",
+    "note": "單一變數 p",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p\",\"note\":\"單一變數 p\"}\n",
+    "ts": "2026-04-29T00:46:45.550025+00:00",
+    "engine": "codex"
+  },
+  "image_d41a79adb6a221.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{1}{3}\\times\\frac{1}{2}}{\\frac{1}{3}\\times\\frac{1}{4}+\\frac{1}{3}\\times\\frac{2}{5}+\\frac{1}{3}\\times\\frac{1}{2}}=\\frac{10}{23}",
+    "note": "純數學分式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{1}{3}\\\\times\\\\frac{1}{2}}{\\\\frac{1}{3}\\\\times\\\\frac{1}{4}+\\\\frac{1}{3}\\\\times\\\\frac{2}{5}+\\\\frac{1}{3}\\\\times\\\\frac{1}{2}}=\\\\frac{10}{23}\",\"note\":\"純數學分式計算\"}\n",
+    "ts": "2026-04-29T00:46:51.352842+00:00",
+    "engine": "codex"
+  },
+  "image_d57560e2a74afe.png": {
+    "classification": "formula",
+    "latex": "\\frac{30}{10000}",
+    "note": "分數 30/10000",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{30}{10000}\",\"note\":\"分數 30/10000\"}\n",
+    "ts": "2026-04-29T00:46:51.906215+00:00",
+    "engine": "codex"
+  },
+  "image_d9904f20292f53.png": {
+    "classification": "formula",
+    "latex": "\\frac{12}{25}",
+    "note": "分數十二分之二十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{12}{25}\",\"note\":\"分數十二分之二十五\"}\n",
+    "ts": "2026-04-29T00:46:51.970482+00:00",
+    "engine": "codex"
+  },
+  "image_dbc3a3bbcb481c.png": {
+    "classification": "formula",
+    "latex": "\\alpha = 15",
+    "note": "希臘字母 alpha 等於 15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\alpha = 15\",\"note\":\"希臘字母 alpha 等於 15\"}\n",
+    "ts": "2026-04-29T00:46:56.194496+00:00",
+    "engine": "codex"
+  },
+  "image_dd049fd796864c.png": {
+    "classification": "formula",
+    "latex": "0<p<1",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0<p<1\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-29T00:46:57.036065+00:00",
+    "engine": "codex"
+  },
+  "image_e09877816e234b.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-29T00:46:58.283752+00:00",
+    "engine": "codex"
+  },
+  "image_e30221d34416b2.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{x}{280}=\\frac{120-x}{220}\\times\\frac{7}{2}",
+    "note": "比例方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{x}{280}=\\\\frac{120-x}{220}\\\\times\\\\frac{7}{2}\",\"note\":\"比例方程式\"}\n",
+    "ts": "2026-04-29T00:47:01.807118+00:00",
+    "engine": "codex"
+  },
+  "image_e57cb3e193cb11.png": {
+    "classification": "formula",
+    "latex": "220",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"220\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-29T00:47:02.283517+00:00",
+    "engine": "codex"
+  },
+  "image_e622471d1b2d43.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(A_1\\cap B)}{P(A_1\\cap B)+P(A_2\\cap B)}",
+    "note": "條件機率分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(A_1\\\\cap B)}{P(A_1\\\\cap B)+P(A_2\\\\cap B)}\",\"note\":\"條件機率分式\"}\n",
+    "ts": "2026-04-29T00:47:05.631851+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一大寫變數A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一大寫變數A\"}\n",
+    "ts": "2026-04-29T00:47:12.783213+00:00",
+    "engine": "codex"
+  },
+  "image_e843fae2b974ac.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{5}{9}\\times\\frac{4}{8}\\times\\frac{4}{7}}{\\frac{4}{9}\\times\\frac{5}{8}\\times\\frac{4}{7}+\\frac{5}{9}\\times\\frac{4}{8}\\times\\frac{4}{7}+\\frac{5}{9}\\times\\frac{4}{8}\\times\\frac{4}{7}}=\\frac{1}{3}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{5}{9}\\\\times\\\\frac{4}{8}\\\\times\\\\frac{4}{7}}{\\\\frac{4}{9}\\\\times\\\\frac{5}{8}\\\\times\\\\frac{4}{7}+\\\\frac{5}{9}\\\\times\\\\frac{4}{8}\\\\times\\\\frac{4}{7}+\\\\frac{5}{9}\\\\times\\\\frac{4}{8}\\\\times\\\\frac{4}{7}}=\\\\frac{1}{3}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-29T00:47:13.393621+00:00",
+    "engine": "codex"
+  },
+  "image_edb0d112c19d67.png": {
+    "classification": "formula",
+    "latex": "\\frac{350}{1000}",
+    "note": "分數：350 over 1000",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{350}{1000}\",\"note\":\"分數：350 over 1000\"}\n",
+    "ts": "2026-04-29T00:47:13.592623+00:00",
+    "engine": "codex"
+  },
+  "image_d69dc9c757d255.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(\\text{甲})\\times P(\\text{乙}')}{\\frac{5}{12}}=\\frac{\\frac{1}{3}\\times\\frac{3}{4}}{\\frac{5}{12}}=\\frac{3}{5}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(\\\\text{甲})\\\\times P(\\\\text{乙}')}{\\\\frac{5}{12}}=\\\\frac{\\\\frac{1}{3}\\\\times\\\\frac{3}{4}}{\\\\frac{5}{12}}=\\\\frac{3}{5}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:47:18.397834+00:00",
+    "engine": "codex"
+  },
+  "image_edba0006fc25a8.png": {
+    "classification": "formula",
+    "latex": "=\\frac{0.18}{0.50}=\\frac{9}{25}",
+    "note": "小數分數化簡為9/25",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{0.18}{0.50}=\\\\frac{9}{25}\",\"note\":\"小數分數化簡為9/25\"}\n",
+    "ts": "2026-04-29T00:47:18.883482+00:00",
+    "engine": "codex"
+  },
+  "image_ef4b6e9b977ca8.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{23}",
+    "note": "分數 10/23",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10}{23}\",\"note\":\"分數 10/23\"}\n",
+    "ts": "2026-04-29T00:47:19.949168+00:00",
+    "engine": "codex"
+  },
+  "image_f2de41004b9a9a.png": {
+    "classification": "formula",
+    "latex": "P(\\text{丙}\\mid\\text{不良})=\\frac{0.2\\times0.05}{0.037}=\\frac{10}{37}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{丙}\\\\mid\\\\text{不良})=\\\\frac{0.2\\\\times0.05}{0.037}=\\\\frac{10}{37}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-29T00:47:20.122590+00:00",
+    "engine": "codex"
+  },
+  "image_f4806d52a01739.png": {
+    "classification": "formula",
+    "latex": "B_2",
+    "note": "字母B下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B_2\",\"note\":\"字母B下標2\"}\n",
+    "ts": "2026-04-29T00:47:23.735875+00:00",
+    "engine": "codex"
+  },
+  "image_f70225370c281b.png": {
+    "classification": "formula",
+    "latex": "\\frac{15}{100}",
+    "note": "分數十五分之一百",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{15}{100}\",\"note\":\"分數十五分之一百\"}\n",
+    "ts": "2026-04-29T00:47:24.283904+00:00",
+    "engine": "codex"
+  },
+  "image_f66ad0fbd95e65.png": {
+    "classification": "formula",
+    "latex": "2\\times\\left(\\frac{45}{120}\\right)\\left(\\frac{75}{119}\\right)",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\times\\\\left(\\\\frac{45}{120}\\\\right)\\\\left(\\\\frac{75}{119}\\\\right)\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-29T00:47:26.928269+00:00",
+    "engine": "codex"
+  },
+  "image_f8b660095a0373.png": {
+    "classification": "formula",
+    "latex": "=\\frac{70\\%\\times30\\%\\times70\\%}{70\\%\\times30\\%+30\\%\\times100\\%}",
+    "note": "百分比乘法分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{70\\\\%\\\\times30\\\\%\\\\times70\\\\%}{70\\\\%\\\\times30\\\\%+30\\\\%\\\\times100\\\\%}\",\"note\":\"百分比乘法分式\"}\n",
+    "ts": "2026-04-29T00:47:27.330557+00:00",
+    "engine": "codex"
+  },
+  "image_fbef8095e7093e.png": {
+    "classification": "formula",
+    "latex": "\\frac{350}{10000}",
+    "note": "分數：350除以10000",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{350}{10000}\",\"note\":\"分數：350除以10000\"}\n",
+    "ts": "2026-04-29T00:47:30.043577+00:00",
+    "engine": "codex"
+  },
+  "image_fd154eb0197df7.png": {
+    "classification": "formula",
+    "latex": "60\\%",
+    "note": "百分比數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60\\\\%\",\"note\":\"百分比數值\"}\n",
+    "ts": "2026-04-29T00:47:32.328305+00:00",
+    "engine": "codex"
+  },
+  "image_fbdcd34a9b6f4f.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{P(A\\cap B)}{P(A)}=\\frac{P(B)P(A\\mid B)}{P(B)P(A\\mid B)+P(B^{\\prime})P(A\\mid B^{\\prime})}=\\frac{0.6\\times0.3}{0.4\\times0.8+0.6\\times0.3}",
+    "note": "貝氏定理公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{P(B)P(A\\\\mid B)}{P(B)P(A\\\\mid B)+P(B^{\\\\prime})P(A\\\\mid B^{\\\\prime})}=\\\\frac{0.6\\\\times0.3}{0.4\\\\times0.8+0.6\\\\times0.3}\",\"note\":\"貝氏定理公式\"}\n",
+    "ts": "2026-04-29T00:47:33.066381+00:00",
+    "engine": "codex"
+  },
+  "image_fe25f9e6f13cb0.png": {
+    "classification": "formula",
+    "latex": "=\\frac{60\\%\\times 5\\%}{40\\%\\times 2\\%+60\\%\\times 5\\%}=\\frac{15}{19}",
+    "note": "百分比乘法分式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{60\\\\%\\\\times 5\\\\%}{40\\\\%\\\\times 2\\\\%+60\\\\%\\\\times 5\\\\%}=\\\\frac{15}{19}\",\"note\":\"百分比乘法分式化簡\"}\n",
+    "ts": "2026-04-29T00:47:34.765988+00:00",
+    "engine": "codex"
+  },
+  "image_fe93788823b9ed.png": {
+    "classification": "formula",
+    "latex": "\\frac{12}{25}",
+    "note": "分數十二分之二十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{12}{25}\",\"note\":\"分數十二分之二十五\"}\n",
+    "ts": "2026-04-29T00:47:35.822479+00:00",
+    "engine": "codex"
+  }
+}

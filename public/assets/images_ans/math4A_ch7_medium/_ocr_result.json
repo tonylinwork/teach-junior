@@ -1,0 +1,1754 @@
+{
+  "image_02583990015055.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-28T09:00:28.220630+00:00",
+    "engine": "codex"
+  },
+  "image_026a1e664d3fab.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(A\\cap B)}{P(B)}",
+    "note": "條件機率公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(A\\\\cap B)}{P(B)}\",\"note\":\"條件機率公式的一部分\"}\n",
+    "ts": "2026-04-28T09:00:28.683982+00:00",
+    "engine": "codex"
+  },
+  "image_048d6c7d565642.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹狀圖：A、B與良品/不良品機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹狀圖：A、B與良品/不良品機率\"}\n",
+    "ts": "2026-04-28T09:00:28.997753+00:00",
+    "engine": "codex"
+  },
+  "image_025d899f3297e3.png": {
+    "classification": "formula",
+    "latex": "\\begin{matrix}30\\\\91\\end{matrix}",
+    "note": "上下排列的兩個數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{matrix}30\\\\\\\\91\\\\end{matrix}\",\"note\":\"上下排列的兩個數字\"}\n",
+    "ts": "2026-04-28T09:00:31.973250+00:00",
+    "engine": "codex"
+  },
+  "image_0662e575dc8353.png": {
+    "classification": "formula",
+    "latex": "-3",
+    "note": "負數 -3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-3\",\"note\":\"負數 -3\"}\n",
+    "ts": "2026-04-28T09:00:32.860138+00:00",
+    "engine": "codex"
+  },
+  "image_08bb9f2c948507.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=P(A)P(B)",
+    "note": "獨立事件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=P(A)P(B)\",\"note\":\"獨立事件機率公式\"}\n",
+    "ts": "2026-04-28T09:00:36.173965+00:00",
+    "engine": "codex"
+  },
+  "image_08841c23d7388e.png": {
+    "classification": "formula",
+    "latex": "P(A'\\mid B)=\\frac{1}{2}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'\\\\mid B)=\\\\frac{1}{2}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:00:36.367518+00:00",
+    "engine": "codex"
+  },
+  "image_072570593c848a.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{8}+\\frac{3}{4}-\\frac{7}{8}=\\frac{1}{4}",
+    "note": "分數加減算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{8}+\\\\frac{3}{4}-\\\\frac{7}{8}=\\\\frac{1}{4}\",\"note\":\"分數加減算式\"}\n",
+    "ts": "2026-04-28T09:00:38.194754+00:00",
+    "engine": "codex"
+  },
+  "image_0d3ec33b55886d.png": {
+    "classification": "formula",
+    "latex": "A_1",
+    "note": "單一數學符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_1\",\"note\":\"單一數學符號\"}\n",
+    "ts": "2026-04-28T09:00:40.537656+00:00",
+    "engine": "codex"
+  },
+  "image_0a0da036e57ef8.png": {
+    "classification": "formula",
+    "latex": "P(2\\text{紅}1\\text{黑})=\\frac{5}{15}\\times\\frac{4}{14}\\times\\frac{6}{13}\\times\\frac{3!}{2!}=\\frac{12}{91}",
+    "note": "抽取2紅1黑的機率計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(2\\\\text{紅}1\\\\text{黑})=\\\\frac{5}{15}\\\\times\\\\frac{4}{14}\\\\times\\\\frac{6}{13}\\\\times\\\\frac{3!}{2!}=\\\\frac{12}{91}\",\"note\":\"抽取2紅1黑的機率計算\"}\n",
+    "ts": "2026-04-28T09:00:40.741638+00:00",
+    "engine": "codex"
+  },
+  "image_0ba2ba256e7751.png": {
+    "classification": "formula",
+    "latex": "=1-\\frac{1}{5}=\\frac{4}{5}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1-\\\\frac{1}{5}=\\\\frac{4}{5}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-28T09:00:42.655941+00:00",
+    "engine": "codex"
+  },
+  "image_0e27fb8f13ad6e.png": {
+    "classification": "formula",
+    "latex": "P(B)=\\frac{2}{6}\\times\\frac{1}{5}+\\frac{3}{6}\\times\\frac{2}{5}+\\frac{1}{6}\\times\\frac{2}{5}=\\frac{10}{30}=\\frac{1}{3}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=\\\\frac{2}{6}\\\\times\\\\frac{1}{5}+\\\\frac{3}{6}\\\\times\\\\frac{2}{5}+\\\\frac{1}{6}\\\\times\\\\frac{2}{5}=\\\\frac{10}{30}=\\\\frac{1}{3}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:00:45.816826+00:00",
+    "engine": "codex"
+  },
+  "image_10894e53b5a183.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(A' \\cap B')}{P(B')}",
+    "note": "條件機率公式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(A' \\\\cap B')}{P(B')}\",\"note\":\"條件機率公式片段\"}\n",
+    "ts": "2026-04-28T09:00:47.565984+00:00",
+    "engine": "codex"
+  },
+  "image_0f9b58338ceab9.png": {
+    "classification": "formula",
+    "latex": "=1-\\frac{7}{12}=\\frac{5}{12}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1-\\\\frac{7}{12}=\\\\frac{5}{12}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-28T09:00:48.097209+00:00",
+    "engine": "codex"
+  },
+  "image_11f77d8c42d069.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A_1)=1",
+    "note": "條件機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A_1)=1\",\"note\":\"條件機率等式\"}\n",
+    "ts": "2026-04-28T09:00:49.457252+00:00",
+    "engine": "codex"
+  },
+  "image_10b7aef48f5509.png": {
+    "classification": "formula",
+    "latex": "\\begin{array}{c|cccccc}\\text{點數}&1&2&3&4&5&6\\\\\\hline\\text{坐標}&0&1&-2&2&-4&3\\end{array}",
+    "note": "點數與坐標對照表",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{array}{c|cccccc}\\\\text{點數}&1&2&3&4&5&6\\\\\\\\\\\\hline\\\\text{坐標}&0&1&-2&2&-4&3\\\\end{array}\",\"note\":\"點數與坐標對照表\"}\n",
+    "ts": "2026-04-28T09:00:50.280232+00:00",
+    "engine": "codex"
+  },
+  "image_134d3e5c927de4.png": {
+    "classification": "formula",
+    "latex": "P(A\\text{抽到乙})=\\frac{1}{4}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\text{抽到乙})=\\\\frac{1}{4}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:00:53.612192+00:00",
+    "engine": "codex"
+  },
+  "image_137f84e9e1f902.png": {
+    "classification": "formula",
+    "latex": "p_3 > p_1 > p_2",
+    "note": "不等式鏈",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_3 > p_1 > p_2\",\"note\":\"不等式鏈\"}\n",
+    "ts": "2026-04-28T09:00:55.169476+00:00",
+    "engine": "codex"
+  },
+  "image_14c42e2532b83e.png": {
+    "classification": "formula",
+    "latex": "P(A\\text{生產}\\mid \\text{不良品})",
+    "note": "條件機率表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\text{生產}\\\\mid \\\\text{不良品})\",\"note\":\"條件機率表示式\"}\n",
+    "ts": "2026-04-28T09:00:55.925793+00:00",
+    "engine": "codex"
+  },
+  "image_15257030711e95.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{6}\\times(0+1-2+2-4+3)=0",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{6}\\\\times(0+1-2+2-4+3)=0\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-28T09:01:01.897849+00:00",
+    "engine": "codex"
+  },
+  "image_1631e8bf524841.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}=\\frac{7}{12}+P(B)-\\frac{7}{12}P(B)",
+    "note": "機率方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}=\\\\frac{7}{12}+P(B)-\\\\frac{7}{12}P(B)\",\"note\":\"機率方程式\"}\n",
+    "ts": "2026-04-28T09:01:03.271304+00:00",
+    "engine": "codex"
+  },
+  "image_1809f759404eb7.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(B'\\cap A)}{P(A)}",
+    "note": "條件機率公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(B'\\\\cap A)}{P(A)}\",\"note\":\"條件機率公式的一部分\"}\n",
+    "ts": "2026-04-28T09:01:03.746008+00:00",
+    "engine": "codex"
+  },
+  "image_19e259f7ca2983.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "數字4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"數字4\"}\n",
+    "ts": "2026-04-28T09:01:08.765334+00:00",
+    "engine": "codex"
+  },
+  "image_18e74e3bf9b09d.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=P(A)+P(B)-P(A\\cap B)",
+    "note": "機率加法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=P(A)+P(B)-P(A\\\\cap B)\",\"note\":\"機率加法公式\"}\n",
+    "ts": "2026-04-28T09:01:10.451455+00:00",
+    "engine": "codex"
+  },
+  "image_16743ed9c0b5be.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{6}=\\frac{2}{3}",
+    "note": "分數等值式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{6}=\\\\frac{2}{3}\",\"note\":\"分數等值式\"}\n",
+    "ts": "2026-04-28T09:01:13.188501+00:00",
+    "engine": "codex"
+  },
+  "image_18ff067de8169d.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{3}{8}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{3}{8}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:01:13.439396+00:00",
+    "engine": "codex"
+  },
+  "image_1a5f3c80bc40f5.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "集合S中A與B的文氏圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"集合S中A與B的文氏圖\"}\n",
+    "ts": "2026-04-28T09:01:14.887968+00:00",
+    "engine": "codex"
+  },
+  "image_1a3fce247c5a7e.png": {
+    "classification": "formula",
+    "latex": "P(A' \\cap B)=\\frac{1}{12}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A' \\\\cap B)=\\\\frac{1}{12}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:01:14.943413+00:00",
+    "engine": "codex"
+  },
+  "image_1c47d2a068498a.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{6}\\times\\frac{4}{5}\\times\\frac{1}{4}=\\frac{1}{15}",
+    "note": "分數連乘約分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{6}\\\\times\\\\frac{4}{5}\\\\times\\\\frac{1}{4}=\\\\frac{1}{15}\",\"note\":\"分數連乘約分\"}\n",
+    "ts": "2026-04-28T09:01:20.872874+00:00",
+    "engine": "codex"
+  },
+  "image_1df1a8fab2d6bf.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A')=\\frac{P(A'\\cap B')}{P(A')}=\\frac{\\frac{1}{8}}{1-\\frac{3}{8}}=\\frac{1}{5}",
+    "note": "條件機率公式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A')=\\\\frac{P(A'\\\\cap B')}{P(A')}=\\\\frac{\\\\frac{1}{8}}{1-\\\\frac{3}{8}}=\\\\frac{1}{5}\",\"note\":\"條件機率公式推導\"}\n",
+    "ts": "2026-04-28T09:01:23.292709+00:00",
+    "engine": "codex"
+  },
+  "image_1a99126855e3d7.png": {
+    "classification": "formula",
+    "latex": "\\begin{matrix}4\\\\9\\end{matrix}",
+    "note": "上下排列的數字4與9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{matrix}4\\\\\\\\9\\\\end{matrix}\",\"note\":\"上下排列的數字4與9\"}\n",
+    "ts": "2026-04-28T09:01:24.379127+00:00",
+    "engine": "codex"
+  },
+  "image_1c4de2d675e7ea.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)=\\frac{5}{12}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)=\\\\frac{5}{12}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:01:25.215870+00:00",
+    "engine": "codex"
+  },
+  "image_1e174fa2a57fcf.png": {
+    "classification": "formula",
+    "latex": "p_1=0.1",
+    "note": "機率參數等於0.1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_1=0.1\",\"note\":\"機率參數等於0.1\"}\n",
+    "ts": "2026-04-28T09:01:25.348386+00:00",
+    "engine": "codex"
+  },
+  "image_2079ad2f47f2cc.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)",
+    "note": "條件機率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)\",\"note\":\"條件機率符號\"}\n",
+    "ts": "2026-04-28T09:01:28.970029+00:00",
+    "engine": "codex"
+  },
+  "image_1e2fa5912233b9.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第一、二皆紅}) \\ne",
+    "note": "機率事件不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第一、二皆紅}) \\\\ne\",\"note\":\"機率事件不等式\"}\n",
+    "ts": "2026-04-28T09:01:29.356577+00:00",
+    "engine": "codex"
+  },
+  "image_21d5d3b0aeb327.png": {
+    "classification": "formula",
+    "latex": "P(A'\\mid B)=\\frac{1}{2}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'\\\\mid B)=\\\\frac{1}{2}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:01:30.821571+00:00",
+    "engine": "codex"
+  },
+  "image_20f3759ccda8e4.png": {
+    "classification": "formula",
+    "latex": "\\begin{matrix}61\\\\91\\end{matrix}",
+    "note": "上下排列的兩個數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{matrix}61\\\\\\\\91\\\\end{matrix}\",\"note\":\"上下排列的兩個數字\"}\n",
+    "ts": "2026-04-28T09:01:31.079246+00:00",
+    "engine": "codex"
+  },
+  "image_2608985b2d70a7.png": {
+    "classification": "formula",
+    "latex": "\\frac{15}{17}",
+    "note": "分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{15}{17}\",\"note\":\"分數\"}\n",
+    "ts": "2026-04-28T09:01:35.599274+00:00",
+    "engine": "codex"
+  },
+  "image_27b4c790f6b1a0.png": {
+    "classification": "formula",
+    "latex": "P(B)=\\frac{3}{4}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=\\\\frac{3}{4}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:01:36.228018+00:00",
+    "engine": "codex"
+  },
+  "image_2861ba5dfae82e.png": {
+    "classification": "formula",
+    "latex": "(3,6),(6,3),(2,2),(4,4),",
+    "note": "座標點列表",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,6),(6,3),(2,2),(4,4),\",\"note\":\"座標點列表\"}\n",
+    "ts": "2026-04-28T09:01:37.126911+00:00",
+    "engine": "codex"
+  },
+  "image_27ba66f7729111.png": {
+    "classification": "formula",
+    "latex": "(1,6), (6,1), (2,4), (4,2),",
+    "note": "ordered pairs",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,6), (6,1), (2,4), (4,2),\",\"note\":\"ordered pairs\"}\n",
+    "ts": "2026-04-28T09:01:38.363727+00:00",
+    "engine": "codex"
+  },
+  "image_290495d16fb0e9.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{1}{2}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{1}{2}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:01:40.111007+00:00",
+    "engine": "codex"
+  },
+  "image_2b9aeaf8771134.png": {
+    "classification": "formula",
+    "latex": "P(A'\\cap B)=\\frac{1}{6}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'\\\\cap B)=\\\\frac{1}{6}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:01:43.292934+00:00",
+    "engine": "codex"
+  },
+  "image_2a67c5476f27a5.png": {
+    "classification": "formula",
+    "latex": "P(A'|B)=\\frac{P(A'\\cap B)}{P(B)}=\\frac{P(A')P(B)}{P(B)}=\\frac{1}{2}",
+    "note": "條件機率公式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'|B)=\\\\frac{P(A'\\\\cap B)}{P(B)}=\\\\frac{P(A')P(B)}{P(B)}=\\\\frac{1}{2}\",\"note\":\"條件機率公式推導\"}\n",
+    "ts": "2026-04-28T09:01:43.402329+00:00",
+    "engine": "codex"
+  },
+  "image_2cdc7491d678ff.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-28T09:01:45.199688+00:00",
+    "engine": "codex"
+  },
+  "image_2dd9560dfe55ba.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A)=\\frac{2}{3}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A)=\\\\frac{2}{3}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:01:45.454160+00:00",
+    "engine": "codex"
+  },
+  "image_2e762277fe64fa.png": {
+    "classification": "formula",
+    "latex": "=1-P(A\\cup B)=\\frac{1}{8}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1-P(A\\\\cup B)=\\\\frac{1}{8}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:01:49.295196+00:00",
+    "engine": "codex"
+  },
+  "image_3043e88192d8b3.png": {
+    "classification": "formula",
+    "latex": "p_{3}>p_{2}>p_{1}",
+    "note": "不等式：p3大於p2大於p1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_{3}>p_{2}>p_{1}\",\"note\":\"不等式：p3大於p2大於p1\"}\n",
+    "ts": "2026-04-28T09:01:51.168586+00:00",
+    "engine": "codex"
+  },
+  "image_30080bd4225b18.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-28T09:01:52.735626+00:00",
+    "engine": "codex"
+  },
+  "image_30017aefc761de.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)",
+    "note": "機率表示式：A與B交集的機率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)\",\"note\":\"機率表示式：A與B交集的機率\"}\n",
+    "ts": "2026-04-28T09:01:53.697013+00:00",
+    "engine": "codex"
+  },
+  "image_33e1fb56ccd5c8.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{15}",
+    "note": "分數四十五分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{15}\",\"note\":\"分數四十五分之四\"}\n",
+    "ts": "2026-04-28T09:01:55.900762+00:00",
+    "engine": "codex"
+  },
+  "image_34cb165cb3ccea.png": {
+    "classification": "formula",
+    "latex": "P(\\text{小明命中}\\mid\\text{恰有一人命中})",
+    "note": "條件機率式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{小明命中}\\\\mid\\\\text{恰有一人命中})\",\"note\":\"條件機率式\"}\n",
+    "ts": "2026-04-28T09:01:58.216487+00:00",
+    "engine": "codex"
+  },
+  "image_368147fcd679bc.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{200}=\\frac{1}{20}",
+    "note": "分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10}{200}=\\\\frac{1}{20}\",\"note\":\"分數等式\"}\n",
+    "ts": "2026-04-28T09:01:59.184416+00:00",
+    "engine": "codex"
+  },
+  "image_3747c063c2cee7.png": {
+    "classification": "formula",
+    "latex": "0.15",
+    "note": "decimal number",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.15\",\"note\":\"decimal number\"}\n",
+    "ts": "2026-04-28T09:02:00.441467+00:00",
+    "engine": "codex"
+  },
+  "image_3571e885deafd0.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A)=1-P(B\\mid A)=\\frac{1}{3}",
+    "note": "條件機率補事件公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A)=1-P(B\\\\mid A)=\\\\frac{1}{3}\",\"note\":\"條件機率補事件公式\"}\n",
+    "ts": "2026-04-28T09:02:04.596133+00:00",
+    "engine": "codex"
+  },
+  "image_37fc6842a39882.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}P(B)=\\frac{1}{6}",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}P(B)=\\\\frac{1}{6}\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-28T09:02:06.739225+00:00",
+    "engine": "codex"
+  },
+  "image_376a66844df3c5.png": {
+    "classification": "formula",
+    "latex": "(6,6)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(6,6)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-28T09:02:06.943405+00:00",
+    "engine": "codex"
+  },
+  "image_3784d5f7f83e4d.png": {
+    "classification": "formula",
+    "latex": "P(B)=\\frac{1}{3}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=\\\\frac{1}{3}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:02:07.274284+00:00",
+    "engine": "codex"
+  },
+  "image_38055e98f9a57a.png": {
+    "classification": "formula",
+    "latex": "E(\\text{坐標})",
+    "note": "期望值函數表示坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E(\\\\text{坐標})\",\"note\":\"期望值函數表示坐標\"}\n",
+    "ts": "2026-04-28T09:02:09.340340+00:00",
+    "engine": "codex"
+  },
+  "image_3dda5afe5508db.png": {
+    "classification": "formula",
+    "latex": "P(D\\text{ 抽到甲})=\\frac{3}{4}\\times 1\\times \\frac{1}{2}\\times 1=\\frac{3}{8}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(D\\\\text{ 抽到甲})=\\\\frac{3}{4}\\\\times 1\\\\times \\\\frac{1}{2}\\\\times 1=\\\\frac{3}{8}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-28T09:02:13.985773+00:00",
+    "engine": "codex"
+  },
+  "image_3a35232099167e.png": {
+    "classification": "formula",
+    "latex": "P(A'\\mid B')",
+    "note": "條件機率表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'\\\\mid B')\",\"note\":\"條件機率表示式\"}\n",
+    "ts": "2026-04-28T09:02:14.018229+00:00",
+    "engine": "codex"
+  },
+  "image_3d8ff454a177bc.png": {
+    "classification": "formula",
+    "latex": "P(\\text{前三皆白})=\\frac{3}{6}\\times\\frac{2}{5}\\times\\frac{1}{4}=\\frac{1}{20}",
+    "note": "機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{前三皆白})=\\\\frac{3}{6}\\\\times\\\\frac{2}{5}\\\\times\\\\frac{1}{4}=\\\\frac{1}{20}\",\"note\":\"機率乘法公式\"}\n",
+    "ts": "2026-04-28T09:02:14.704931+00:00",
+    "engine": "codex"
+  },
+  "image_3f80f9eb285929.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{30}{1000}}{\\frac{34}{1000}}=\\frac{30}{34}=\\frac{15}{17}",
+    "note": "分數化簡算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{30}{1000}}{\\\\frac{34}{1000}}=\\\\frac{30}{34}=\\\\frac{15}{17}\",\"note\":\"分數化簡算式\"}\n",
+    "ts": "2026-04-28T09:02:19.556927+00:00",
+    "engine": "codex"
+  },
+  "image_4029807101fd63.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1+12+6}{216}=\\frac{19}{216}",
+    "note": "分數加總化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1+12+6}{216}=\\\\frac{19}{216}\",\"note\":\"分數加總化簡\"}\n",
+    "ts": "2026-04-28T09:02:20.240190+00:00",
+    "engine": "codex"
+  },
+  "image_40deafc8da799a.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{6}\\right)^3",
+    "note": "分數的三次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{6}\\\\right)^3\",\"note\":\"分數的三次方\"}\n",
+    "ts": "2026-04-28T09:02:21.374865+00:00",
+    "engine": "codex"
+  },
+  "image_41494bfdd7baea.png": {
+    "classification": "formula",
+    "latex": "P(A)=P(B)",
+    "note": "機率相等公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=P(B)\",\"note\":\"機率相等公式\"}\n",
+    "ts": "2026-04-28T09:02:24.059529+00:00",
+    "engine": "codex"
+  },
+  "image_4126a0156baa83.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{1}{3}\\times\\frac{2}{5}}{\\frac{8}{15}}=\\frac{2}{8}=\\frac{1}{4}",
+    "note": "分數除法化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{1}{3}\\\\times\\\\frac{2}{5}}{\\\\frac{8}{15}}=\\\\frac{2}{8}=\\\\frac{1}{4}\",\"note\":\"分數除法化簡式\"}\n",
+    "ts": "2026-04-28T09:02:24.614942+00:00",
+    "engine": "codex"
+  },
+  "image_4239f9dc45438c.png": {
+    "classification": "formula",
+    "latex": "P(\\text{前三皆白})<",
+    "note": "機率事件前三皆白的不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{前三皆白})<\",\"note\":\"機率事件前三皆白的不等式\"}\n",
+    "ts": "2026-04-28T09:02:25.917468+00:00",
+    "engine": "codex"
+  },
+  "image_4803f943639d82.png": {
+    "classification": "formula",
+    "latex": "P(\\text{不良品})",
+    "note": "機率表示不良品事件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{不良品})\",\"note\":\"機率表示不良品事件\"}\n",
+    "ts": "2026-04-28T09:02:30.225075+00:00",
+    "engine": "codex"
+  },
+  "image_431dbdd728580e.png": {
+    "classification": "formula",
+    "latex": "=\\frac{17}{500}",
+    "note": "純數學分數等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{17}{500}\",\"note\":\"純數學分數等式片段\"}\n",
+    "ts": "2026-04-28T09:02:30.409435+00:00",
+    "engine": "codex"
+  },
+  "image_4907b5ccfca632.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=\\frac{7}{8}",
+    "note": "機率聯集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=\\\\frac{7}{8}\",\"note\":\"機率聯集公式\"}\n",
+    "ts": "2026-04-28T09:02:31.276400+00:00",
+    "engine": "codex"
+  },
+  "image_498dbb73b10d3f.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{36}",
+    "note": "分數五分之三十六",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{36}\",\"note\":\"分數五分之三十六\"}\n",
+    "ts": "2026-04-28T09:02:32.047295+00:00",
+    "engine": "codex"
+  },
+  "image_4b757a9ef89d90.png": {
+    "classification": "formula",
+    "latex": "=\\frac{10}{30}=\\frac{1}{3}",
+    "note": "分數約分等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{10}{30}=\\\\frac{1}{3}\",\"note\":\"分數約分等式\"}\n",
+    "ts": "2026-04-28T09:02:35.593292+00:00",
+    "engine": "codex"
+  },
+  "image_4d801bdb379e79.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-28T09:02:35.924800+00:00",
+    "engine": "codex"
+  },
+  "image_4d52b98c01f98e.png": {
+    "classification": "formula",
+    "latex": "P(A'\\mid B')=\\frac{7}{12}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'\\\\mid B')=\\\\frac{7}{12}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:02:36.623632+00:00",
+    "engine": "codex"
+  },
+  "image_4e7baa20496a9f.png": {
+    "classification": "formula",
+    "latex": "A_2",
+    "note": "字母A下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_2\",\"note\":\"字母A下標2\"}\n",
+    "ts": "2026-04-28T09:02:36.871783+00:00",
+    "engine": "codex"
+  },
+  "image_568b9e269ce8ec.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數字母B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數字母B\"}\n",
+    "ts": "2026-04-28T09:02:41.218573+00:00",
+    "engine": "codex"
+  },
+  "image_50300c9818fb64.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{6}",
+    "note": "機率交集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{6}\",\"note\":\"機率交集公式\"}\n",
+    "ts": "2026-04-28T09:02:42.121542+00:00",
+    "engine": "codex"
+  },
+  "image_4fe923d9f96940.png": {
+    "classification": "formula",
+    "latex": "P(A' \\cap B)=P(A')P(B)",
+    "note": "機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A' \\\\cap B)=P(A')P(B)\",\"note\":\"機率乘法公式\"}\n",
+    "ts": "2026-04-28T09:02:42.534526+00:00",
+    "engine": "codex"
+  },
+  "image_579ab4399df7e3.png": {
+    "classification": "formula",
+    "latex": "\\frac{8}{15}",
+    "note": "分數八分之十五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{8}{15}\",\"note\":\"分數八分之十五\"}\n",
+    "ts": "2026-04-28T09:02:45.408942+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數字母B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數字母B\"}\n",
+    "ts": "2026-04-28T09:02:46.916485+00:00",
+    "engine": "codex"
+  },
+  "image_576be8713ec520.png": {
+    "classification": "formula",
+    "latex": "P(B\\text{抽到乙})=\\underset{A\\text{抽到甲}}{\\left(\\frac{1}{4}\\times\\frac{1}{3}\\right)}+\\underset{A\\text{沒抽到甲}}{\\left(\\frac{2}{4}\\times\\frac{1}{2}\\right)}=\\frac{1}{3}",
+    "note": "機率加法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\text{抽到乙})=\\\\underset{A\\\\text{抽到甲}}{\\\\left(\\\\frac{1}{4}\\\\times\\\\frac{1}{3}\\\\right)}+\\\\underset{A\\\\text{沒抽到甲}}{\\\\left(\\\\frac{2}{4}\\\\times\\\\frac{1}{2}\\\\right)}=\\\\frac{1}{3}\",\"note\":\"機率加法公式\"}\n",
+    "ts": "2026-04-28T09:02:47.566058+00:00",
+    "engine": "codex"
+  },
+  "image_59d933f4523841.png": {
+    "classification": "formula",
+    "latex": "\\frac{30}{600}=\\frac{1}{20}=5\\%",
+    "note": "分數化簡為百分率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{30}{600}=\\\\frac{1}{20}=5\\\\%\",\"note\":\"分數化簡為百分率\"}\n",
+    "ts": "2026-04-28T09:02:49.342585+00:00",
+    "engine": "codex"
+  },
+  "image_5cccd849a4e5f2.png": {
+    "classification": "formula",
+    "latex": "P(A' \\cap B)=P(A')P(B)=\\frac{1}{2}\\times\\frac{1}{3}=\\frac{1}{6}",
+    "note": "機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A' \\\\cap B)=P(A')P(B)=\\\\frac{1}{2}\\\\times\\\\frac{1}{3}=\\\\frac{1}{6}\",\"note\":\"機率乘法公式\"}\n",
+    "ts": "2026-04-28T09:02:51.291830+00:00",
+    "engine": "codex"
+  },
+  "image_5d8b1ccbe08c47.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{91}",
+    "note": "分數四分之九十一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{91}\",\"note\":\"分數四分之九十一\"}\n",
+    "ts": "2026-04-28T09:02:53.461405+00:00",
+    "engine": "codex"
+  },
+  "image_6059afbab27d08.png": {
+    "classification": "formula",
+    "latex": "p_3",
+    "note": "變數 p 的下標 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_3\",\"note\":\"變數 p 的下標 3\"}\n",
+    "ts": "2026-04-28T09:02:56.122854+00:00",
+    "engine": "codex"
+  },
+  "image_5e513839245a8f.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第一、二皆白})",
+    "note": "機率事件：第一、二皆白",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第一、二皆白})\",\"note\":\"機率事件：第一、二皆白\"}\n",
+    "ts": "2026-04-28T09:02:56.555893+00:00",
+    "engine": "codex"
+  },
+  "image_637348d0f057f7.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{2}{6}=\\frac{1}{3}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{2}{6}=\\\\frac{1}{3}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:02:57.643059+00:00",
+    "engine": "codex"
+  },
+  "image_6684d0106b79ce.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A')=\\frac{1}{5}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A')=\\\\frac{1}{5}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:03:00.253686+00:00",
+    "engine": "codex"
+  },
+  "image_68b93c369f695f.png": {
+    "classification": "formula",
+    "latex": "A_3",
+    "note": "字母A下標3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A_3\",\"note\":\"字母A下標3\"}\n",
+    "ts": "2026-04-28T09:03:01.165547+00:00",
+    "engine": "codex"
+  },
+  "image_669546ed1bbc6d.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap C)=\\frac{2}{6}\\times\\frac{4}{5}=\\frac{4}{15}\\ne 0",
+    "note": "機率交集計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap C)=\\\\frac{2}{6}\\\\times\\\\frac{4}{5}=\\\\frac{4}{15}\\\\ne 0\",\"note\":\"機率交集計算式\"}\n",
+    "ts": "2026-04-28T09:03:03.420094+00:00",
+    "engine": "codex"
+  },
+  "image_68e07cb52c72d5.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{12}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{12}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:03:06.464562+00:00",
+    "engine": "codex"
+  },
+  "image_68ebc98c4faca6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-28T09:03:08.474848+00:00",
+    "engine": "codex"
+  },
+  "image_6972b1aebc4034.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A)",
+    "note": "條件機率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A)\",\"note\":\"條件機率符號\"}\n",
+    "ts": "2026-04-28T09:03:08.767438+00:00",
+    "engine": "codex"
+  },
+  "image_6b636ec76fc6d6.png": {
+    "classification": "formula",
+    "latex": "P(3\\text{白球})=\\frac{4}{15}\\times\\frac{3}{14}\\times\\frac{2}{13}=\\frac{4}{455}",
+    "note": "抽到3顆白球的機率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(3\\\\text{白球})=\\\\frac{4}{15}\\\\times\\\\frac{3}{14}\\\\times\\\\frac{2}{13}=\\\\frac{4}{455}\",\"note\":\"抽到3顆白球的機率\"}\n",
+    "ts": "2026-04-28T09:03:13.459398+00:00",
+    "engine": "codex"
+  },
+  "image_6bade75a707254.png": {
+    "classification": "formula",
+    "latex": "n(A)=3\\times3\\times2=18",
+    "note": "集合A的元素個數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(A)=3\\\\times3\\\\times2=18\",\"note\":\"集合A的元素個數計算\"}\n",
+    "ts": "2026-04-28T09:03:15.287500+00:00",
+    "engine": "codex"
+  },
+  "image_6a7bf49bf5aee1.png": {
+    "classification": "formula",
+    "latex": "P(B\\text{生產}\\mid \\text{不良品})",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\text{生產}\\\\mid \\\\text{不良品})\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:03:15.312844+00:00",
+    "engine": "codex"
+  },
+  "image_6bc14dde777851.png": {
+    "classification": "formula",
+    "latex": "P(B\\text{ 抽到丙})=P(B\\text{ 抽到乙})=\\frac{1}{3}",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\text{ 抽到丙})=P(B\\\\text{ 抽到乙})=\\\\frac{1}{3}\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-28T09:03:17.336595+00:00",
+    "engine": "codex"
+  },
+  "image_6bcd28cfc68168.png": {
+    "classification": "formula",
+    "latex": "p_2",
+    "note": "字母p下標2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_2\",\"note\":\"字母p下標2\"}\n",
+    "ts": "2026-04-28T09:03:18.262230+00:00",
+    "engine": "codex"
+  },
+  "image_6bdad64a8ed18b.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{12}=\\frac{5}{12}P(B)",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{12}=\\\\frac{5}{12}P(B)\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-28T09:03:21.060146+00:00",
+    "engine": "codex"
+  },
+  "image_6bfadc5804bc13.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}=\\frac{1}{2}+P(B)-\\frac{1}{2}P(B)",
+    "note": "機率方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}=\\\\frac{1}{2}+P(B)-\\\\frac{1}{2}P(B)\",\"note\":\"機率方程式\"}\n",
+    "ts": "2026-04-28T09:03:21.877436+00:00",
+    "engine": "codex"
+  },
+  "image_6f3586f5307ffd.png": {
+    "classification": "formula",
+    "latex": "0.1",
+    "note": "小數0.1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0.1\",\"note\":\"小數0.1\"}\n",
+    "ts": "2026-04-28T09:03:22.570829+00:00",
+    "engine": "codex"
+  },
+  "image_743704a250c17f.png": {
+    "classification": "formula",
+    "latex": "P(A_1)=0.3",
+    "note": "機率表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A_1)=0.3\",\"note\":\"機率表示式\"}\n",
+    "ts": "2026-04-28T09:03:23.989295+00:00",
+    "engine": "codex"
+  },
+  "image_75f5c99d7cfb10.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)=\\frac{1}{3}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)=\\\\frac{1}{3}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:03:27.671559+00:00",
+    "engine": "codex"
+  },
+  "image_77f018422ef64e.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數字母 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數字母 C\"}\n",
+    "ts": "2026-04-28T09:03:28.731342+00:00",
+    "engine": "codex"
+  },
+  "image_768191b6fabe7f.png": {
+    "classification": "formula",
+    "latex": "P(\\text{紅紅黑})=\\frac{5}{15}\\times\\frac{4}{14}\\times\\frac{6}{13}=\\frac{4}{91}",
+    "note": "機率乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{紅紅黑})=\\\\frac{5}{15}\\\\times\\\\frac{4}{14}\\\\times\\\\frac{6}{13}=\\\\frac{4}{91}\",\"note\":\"機率乘法算式\"}\n",
+    "ts": "2026-04-28T09:03:31.043107+00:00",
+    "engine": "codex"
+  },
+  "image_743a6874de420b.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)",
+    "note": "機率聯集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)\",\"note\":\"機率聯集公式\"}\n",
+    "ts": "2026-04-28T09:03:32.608525+00:00",
+    "engine": "codex"
+  },
+  "image_78d79d73aec3b0.png": {
+    "classification": "formula",
+    "latex": "=P(B')=\\frac{2}{3}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P(B')=\\\\frac{2}{3}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:03:33.914256+00:00",
+    "engine": "codex"
+  },
+  "image_79ddf68b6ef4d1.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{17}",
+    "note": "分數二分之十七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{17}\",\"note\":\"分數二分之十七\"}\n",
+    "ts": "2026-04-28T09:03:36.210963+00:00",
+    "engine": "codex"
+  },
+  "image_7a3b48a2b6d89a.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=\\frac{2}{3}",
+    "note": "集合聯集機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=\\\\frac{2}{3}\",\"note\":\"集合聯集機率公式\"}\n",
+    "ts": "2026-04-28T09:03:38.000831+00:00",
+    "engine": "codex"
+  },
+  "image_7854ec753213ae.png": {
+    "classification": "formula",
+    "latex": "P(A|B)=\\frac{P(A\\cap B)}{P(B)}=\\frac{P(A)P(B)}{P(B)}=\\frac{1}{2}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A|B)=\\\\frac{P(A\\\\cap B)}{P(B)}=\\\\frac{P(A)P(B)}{P(B)}=\\\\frac{1}{2}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:03:38.002047+00:00",
+    "engine": "codex"
+  },
+  "image_7a49f0297a02ce.png": {
+    "classification": "formula",
+    "latex": "P\\left(\\text{前三皆異色}\\right)=\\frac{3\\times2\\times1}{6\\times5\\times4}\\times3!=\\frac{3}{10}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\\\\left(\\\\text{前三皆異色}\\\\right)=\\\\frac{3\\\\times2\\\\times1}{6\\\\times5\\\\times4}\\\\times3!=\\\\frac{3}{10}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:03:41.685596+00:00",
+    "engine": "codex"
+  },
+  "image_7c1cfcd26d6612.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T09:03:44.344446+00:00",
+    "engine": "codex"
+  },
+  "image_7bfbfb0873bd9c.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第一、二皆白})=\\frac{3}{6}\\times\\frac{2}{5}=\\frac{1}{5}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第一、二皆白})=\\\\frac{3}{6}\\\\times\\\\frac{2}{5}=\\\\frac{1}{5}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-28T09:03:45.231085+00:00",
+    "engine": "codex"
+  },
+  "image_7d63a01e59741a.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數一六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數一六分之一\"}\n",
+    "ts": "2026-04-28T09:03:46.905753+00:00",
+    "engine": "codex"
+  },
+  "image_7ceebc999c0fa3.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{2}{3}\\times\\frac{3}{5}}{\\frac{8}{15}}=\\frac{6}{8}=\\frac{3}{4}",
+    "note": "分數除法化簡算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{2}{3}\\\\times\\\\frac{3}{5}}{\\\\frac{8}{15}}=\\\\frac{6}{8}=\\\\frac{3}{4}\",\"note\":\"分數除法化簡算式\"}\n",
+    "ts": "2026-04-28T09:03:46.978875+00:00",
+    "engine": "codex"
+  },
+  "image_7dd60ed7d098c9.png": {
+    "classification": "formula",
+    "latex": "\\frac{29}{30}",
+    "note": "分數29/30",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{29}{30}\",\"note\":\"分數29/30\"}\n",
+    "ts": "2026-04-28T09:03:50.641262+00:00",
+    "engine": "codex"
+  },
+  "image_7e60d0586aa89d.png": {
+    "classification": "formula",
+    "latex": "P(B)=1-\\left(\\frac{5}{6}\\right)^3=\\frac{91}{216}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=1-\\\\left(\\\\frac{5}{6}\\\\right)^3=\\\\frac{91}{216}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:03:52.010723+00:00",
+    "engine": "codex"
+  },
+  "image_7d714044e5c376.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(B')P(A)}{P(A)}",
+    "note": "條件機率相關代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(B')P(A)}{P(A)}\",\"note\":\"條件機率相關代數式\"}\n",
+    "ts": "2026-04-28T09:03:52.316104+00:00",
+    "engine": "codex"
+  },
+  "image_7f2471f50d8fce.png": {
+    "classification": "formula",
+    "latex": "p_3=0.1\\times0.15=0.015",
+    "note": "機率乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_3=0.1\\\\times0.15=0.015\",\"note\":\"機率乘法算式\"}\n",
+    "ts": "2026-04-28T09:03:54.908060+00:00",
+    "engine": "codex"
+  },
+  "image_7dd6eac845fd57.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(A')P(B')}{P(B')}",
+    "note": "條件機率化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(A')P(B')}{P(B')}\",\"note\":\"條件機率化簡式\"}\n",
+    "ts": "2026-04-28T09:03:55.400026+00:00",
+    "engine": "codex"
+  },
+  "image_8644e95c9d9c26.png": {
+    "classification": "formula",
+    "latex": "=\\frac{P(A)P(B)}{P(B)}=\\frac{7}{12}",
+    "note": "條件機率化簡公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{P(A)P(B)}{P(B)}=\\\\frac{7}{12}\",\"note\":\"條件機率化簡公式\"}\n",
+    "ts": "2026-04-28T09:03:58.382843+00:00",
+    "engine": "codex"
+  },
+  "image_8367c452d51225.png": {
+    "classification": "formula",
+    "latex": "=\\frac{4}{10}\\times\\frac{1}{100}+\\frac{6}{10}\\times\\frac{5}{100}=\\frac{34}{1000}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{4}{10}\\\\times\\\\frac{1}{100}+\\\\frac{6}{10}\\\\times\\\\frac{5}{100}=\\\\frac{34}{1000}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-28T09:04:00.381057+00:00",
+    "engine": "codex"
+  },
+  "image_8bfbb94824bdf7.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{30}{216}",
+    "note": "機率交集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{30}{216}\",\"note\":\"機率交集公式\"}\n",
+    "ts": "2026-04-28T09:04:04.616583+00:00",
+    "engine": "codex"
+  },
+  "image_8bba2c858de3f6.png": {
+    "classification": "formula",
+    "latex": "P(C\\text{抽到乙})=P(C\\text{抽到}\\overline{\\text{丙}})=\\frac{5}{24}",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(C\\\\text{抽到乙})=P(C\\\\text{抽到}\\\\overline{\\\\text{丙}})=\\\\frac{5}{24}\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-28T09:04:05.274891+00:00",
+    "engine": "codex"
+  },
+  "image_8e99741d27309c.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{7}{12}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{7}{12}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:04:10.155694+00:00",
+    "engine": "codex"
+  },
+  "image_8cbb8aa3648b12.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)=\\frac{1}{4}",
+    "note": "條件機率等於四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)=\\\\frac{1}{4}\",\"note\":\"條件機率等於四分之一\"}\n",
+    "ts": "2026-04-28T09:04:11.172330+00:00",
+    "engine": "codex"
+  },
+  "image_8eb0e5019e905b.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T09:04:13.075284+00:00",
+    "engine": "codex"
+  },
+  "image_8a4351e9faabd4.png": {
+    "classification": "formula",
+    "latex": "P(\\text{小華命中}\\mid \\text{恰有一人命中})",
+    "note": "條件機率表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{小華命中}\\\\mid \\\\text{恰有一人命中})\",\"note\":\"條件機率表達式\"}\n",
+    "ts": "2026-04-28T09:04:13.751816+00:00",
+    "engine": "codex"
+  },
+  "image_8f627218e660e5.png": {
+    "classification": "formula",
+    "latex": "P(B' \\mid A)=\\frac{P(B' \\cap A)}{P(A)}=\\frac{P(B')P(A)}{P(A)}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B' \\\\mid A)=\\\\frac{P(B' \\\\cap A)}{P(A)}=\\\\frac{P(B')P(A)}{P(A)}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:04:17.854927+00:00",
+    "engine": "codex"
+  },
+  "image_90d456fab9d141.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一英文字母變數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一英文字母變數\"}\n",
+    "ts": "2026-04-28T09:04:18.048223+00:00",
+    "engine": "codex"
+  },
+  "image_8eb81df619a680.png": {
+    "classification": "formula",
+    "latex": "=\\frac{4}{6}\\times\\frac{2}{5}+\\frac{2}{6}\\times\\frac{1}{5}",
+    "note": "分數乘法加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{4}{6}\\\\times\\\\frac{2}{5}+\\\\frac{2}{6}\\\\times\\\\frac{1}{5}\",\"note\":\"分數乘法加法算式\"}\n",
+    "ts": "2026-04-28T09:04:19.539465+00:00",
+    "engine": "codex"
+  },
+  "image_915944caba30ed.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=\\frac{5}{12}",
+    "note": "機率聯集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=\\\\frac{5}{12}\",\"note\":\"機率聯集公式\"}\n",
+    "ts": "2026-04-28T09:04:19.864121+00:00",
+    "engine": "codex"
+  },
+  "image_923e4d63966b7e.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T09:04:22.056439+00:00",
+    "engine": "codex"
+  },
+  "image_9624221e6c423a.png": {
+    "classification": "formula",
+    "latex": "P(A' \\cap B')=\\frac{1}{8}",
+    "note": "事件補集交集的機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A' \\\\cap B')=\\\\frac{1}{8}\",\"note\":\"事件補集交集的機率公式\"}\n",
+    "ts": "2026-04-28T09:04:24.428673+00:00",
+    "engine": "codex"
+  },
+  "image_92ef4a397831b6.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A_3)=0.4",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A_3)=0.4\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:04:24.728378+00:00",
+    "engine": "codex"
+  },
+  "image_951e158e69f246.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{1000}",
+    "note": "分數：4除以1000",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{1000}\",\"note\":\"分數：4除以1000\"}\n",
+    "ts": "2026-04-28T09:04:30.084068+00:00",
+    "engine": "codex"
+  },
+  "image_9f98fd5f73cbcb.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}\\times\\frac{3}{5}=\\frac{1}{5}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\\\\times\\\\frac{3}{5}=\\\\frac{1}{5}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-28T09:04:30.449746+00:00",
+    "engine": "codex"
+  },
+  "image_97ab507a724ab4.png": {
+    "classification": "formula",
+    "latex": "P(B)=\\frac{1}{3}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=\\\\frac{1}{3}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:04:31.683225+00:00",
+    "engine": "codex"
+  },
+  "image_9a25ace7d81a83.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{P(A\\cap B)}{P(A)}=\\frac{\\frac{1}{6}}{\\frac{1}{4}}=\\frac{2}{3}",
+    "note": "條件機率公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{\\\\frac{1}{6}}{\\\\frac{1}{4}}=\\\\frac{2}{3}\",\"note\":\"條件機率公式計算\"}\n",
+    "ts": "2026-04-28T09:04:32.234251+00:00",
+    "engine": "codex"
+  },
+  "image_a06f78b30cd1b4.png": {
+    "classification": "formula",
+    "latex": "P(A_3)=0.2",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A_3)=0.2\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:04:36.077973+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T09:04:36.842733+00:00",
+    "engine": "codex"
+  },
+  "image_a38e6352fdded0.png": {
+    "classification": "formula",
+    "latex": "P(白_1)P(紅_2 \\mid 白_1)+P(紅_1)P(紅_2 \\mid 紅_1)",
+    "note": "條件機率加法表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(白_1)P(紅_2 \\\\mid 白_1)+P(紅_1)P(紅_2 \\\\mid 紅_1)\",\"note\":\"條件機率加法表示式\"}\n",
+    "ts": "2026-04-28T09:04:37.069579+00:00",
+    "engine": "codex"
+  },
+  "image_a4a76cd1be6676.png": {
+    "classification": "formula",
+    "latex": "p_2 > p_1 > p_3",
+    "note": "不等式關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_2 > p_1 > p_3\",\"note\":\"不等式關係\"}\n",
+    "ts": "2026-04-28T09:04:38.921259+00:00",
+    "engine": "codex"
+  },
+  "image_a5cf34696d9db5.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{6}=\\frac{1}{3}",
+    "note": "分數等值式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{6}=\\\\frac{1}{3}\",\"note\":\"分數等值式\"}\n",
+    "ts": "2026-04-28T09:04:43.225799+00:00",
+    "engine": "codex"
+  },
+  "image_a55172704e923e.png": {
+    "classification": "formula",
+    "latex": "\\left(2,6\\right),\\ \\left(6,2\\right),\\ \\left(4,6\\right),\\ \\left(6,4\\right),",
+    "note": "有序數對列表",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(2,6\\\\right),\\\\ \\\\left(6,2\\\\right),\\\\ \\\\left(4,6\\\\right),\\\\ \\\\left(6,4\\\\right),\",\"note\":\"有序數對列表\"}\n",
+    "ts": "2026-04-28T09:04:43.476457+00:00",
+    "engine": "codex"
+  },
+  "image_a6dfc2ddbbde2e.png": {
+    "classification": "formula",
+    "latex": "P(C\\text{ 抽到甲})=\\frac{3}{4}\\times1\\times\\frac{1}{2}=\\frac{3}{8}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(C\\\\text{ 抽到甲})=\\\\frac{3}{4}\\\\times1\\\\times\\\\frac{1}{2}=\\\\frac{3}{8}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-28T09:04:43.751105+00:00",
+    "engine": "codex"
+  },
+  "image_a78fcb159fad03.png": {
+    "classification": "formula",
+    "latex": "S",
+    "note": "單一變數 S",
+    "raw": "{\"class\":\"formula\",\"latex\":\"S\",\"note\":\"單一變數 S\"}\n",
+    "ts": "2026-04-28T09:04:43.837017+00:00",
+    "engine": "codex"
+  },
+  "image_a8fa2c7017ac2e.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{1}{4}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{1}{4}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:04:49.093369+00:00",
+    "engine": "codex"
+  },
+  "image_a7fa0567a6cfcf.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{P(A\\cap B)}{P(A)}=\\frac{\\frac{30}{216}}{\\frac{91}{216}}=\\frac{30}{91}",
+    "note": "條件機率公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{\\\\frac{30}{216}}{\\\\frac{91}{216}}=\\\\frac{30}{91}\",\"note\":\"條件機率公式計算\"}\n",
+    "ts": "2026-04-28T09:04:50.714421+00:00",
+    "engine": "codex"
+  },
+  "image_a907fc1b42dff5.png": {
+    "classification": "formula",
+    "latex": "=\\frac{\\frac{4}{1000}}{\\frac{34}{1000}}=\\frac{4}{34}=\\frac{2}{17}",
+    "note": "分數化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{\\\\frac{4}{1000}}{\\\\frac{34}{1000}}=\\\\frac{4}{34}=\\\\frac{2}{17}\",\"note\":\"分數化簡\"}\n",
+    "ts": "2026-04-28T09:04:51.909847+00:00",
+    "engine": "codex"
+  },
+  "image_ab57aaa25a7796.png": {
+    "classification": "formula",
+    "latex": "p=\\frac{1+3!\\times2+\\frac{3!}{2!}\\times2}{216}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p=\\\\frac{1+3!\\\\times2+\\\\frac{3!}{2!}\\\\times2}{216}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:04:55.428012+00:00",
+    "engine": "codex"
+  },
+  "image_a7fb3012b7d45b.png": {
+    "classification": "formula",
+    "latex": "P(C\\text{抽到丙})=\\underset{A\\text{抽到甲}}{\\left(\\frac{1}{4}\\times\\frac{2}{3}\\times\\frac{1}{2}\\right)}+\\underset{A\\text{沒抽到甲}}{\\left(\\frac{2}{4}\\times\\frac{1}{2}\\times\\frac{1}{2}\\right)}=\\frac{5}{24}",
+    "note": "機率公式，分A抽到甲與未抽到甲兩情形",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(C\\\\text{抽到丙})=\\\\underset{A\\\\text{抽到甲}}{\\\\left(\\\\frac{1}{4}\\\\times\\\\frac{2}{3}\\\\times\\\\frac{1}{2}\\\\right)}+\\\\underset{A\\\\text{沒抽到甲}}{\\\\left(\\\\frac{2}{4}\\\\times\\\\frac{1}{2}\\\\times\\\\frac{1}{2}\\\\right)}=\\\\frac{5}{24}\",\"note\":\"機率公式，分A抽到甲與未抽到甲兩情形\"}\n",
+    "ts": "2026-04-28T09:04:55.833367+00:00",
+    "engine": "codex"
+  },
+  "image_abe8f30d42209a.png": {
+    "classification": "formula",
+    "latex": "=\\frac{5}{12}\\times\\frac{1}{5}=\\frac{1}{12}",
+    "note": "分數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{5}{12}\\\\times\\\\frac{1}{5}=\\\\frac{1}{12}\",\"note\":\"分數乘法等式\"}\n",
+    "ts": "2026-04-28T09:04:56.717619+00:00",
+    "engine": "codex"
+  },
+  "image_b1b75b93f52709.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T09:05:00.408216+00:00",
+    "engine": "codex"
+  },
+  "image_ad48f231ae35ab.png": {
+    "classification": "formula",
+    "latex": "P(A'\\cap B')=P\\left((A\\cup B)'\\right)",
+    "note": "機率與德摩根律公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'\\\\cap B')=P\\\\left((A\\\\cup B)'\\\\right)\",\"note\":\"機率與德摩根律公式\"}\n",
+    "ts": "2026-04-28T09:05:02.766967+00:00",
+    "engine": "codex"
+  },
+  "image_b14d337ef97cc8.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)",
+    "note": "條件機率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)\",\"note\":\"條件機率符號\"}\n",
+    "ts": "2026-04-28T09:05:03.284628+00:00",
+    "engine": "codex"
+  },
+  "image_b2aa4792dd764f.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第三次取到白球})=\\frac{4}{15}",
+    "note": "第三次取到白球的機率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第三次取到白球})=\\\\frac{4}{15}\",\"note\":\"第三次取到白球的機率\"}\n",
+    "ts": "2026-04-28T09:05:05.205818+00:00",
+    "engine": "codex"
+  },
+  "image_b3b8d921629154.png": {
+    "classification": "formula",
+    "latex": "=P(A)+P(B)-P(A\\cap B)",
+    "note": "集合聯集機率公式右半部",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P(A)+P(B)-P(A\\\\cap B)\",\"note\":\"集合聯集機率公式右半部\"}\n",
+    "ts": "2026-04-28T09:05:07.277702+00:00",
+    "engine": "codex"
+  },
+  "image_b40c26a02c0d12.png": {
+    "classification": "formula",
+    "latex": "P(A\\text{抽到甲})=\\frac{1}{4}",
+    "note": "機率表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\text{抽到甲})=\\\\frac{1}{4}\",\"note\":\"機率表達式\"}\n",
+    "ts": "2026-04-28T09:05:08.925805+00:00",
+    "engine": "codex"
+  },
+  "image_b3c19a258eadc3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-28T09:05:09.415302+00:00",
+    "engine": "codex"
+  },
+  "image_b6be287f0de546.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "機率樹狀圖，含甲乙丙與答對答錯機率",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"機率樹狀圖，含甲乙丙與答對答錯機率\"}\n",
+    "ts": "2026-04-28T09:05:10.038002+00:00",
+    "engine": "codex"
+  },
+  "image_b964d99152566a.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)",
+    "note": "條件機率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)\",\"note\":\"條件機率符號\"}\n",
+    "ts": "2026-04-28T09:05:11.859469+00:00",
+    "engine": "codex"
+  },
+  "image_b96ef7783a5588.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{5}",
+    "note": "分數二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{2}{5}\",\"note\":\"分數二分之五\"}\n",
+    "ts": "2026-04-28T09:05:14.337619+00:00",
+    "engine": "codex"
+  },
+  "image_be4e8684499ba9.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{1}{3}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{1}{3}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:05:14.460661+00:00",
+    "engine": "codex"
+  },
+  "image_bf43c66c10803a.png": {
+    "classification": "formula",
+    "latex": "A'",
+    "note": "字母A加撇號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A'\",\"note\":\"字母A加撇號\"}\n",
+    "ts": "2026-04-28T09:05:18.636831+00:00",
+    "engine": "codex"
+  },
+  "image_be9ff5da99ef1e.png": {
+    "classification": "formula",
+    "latex": "P(A\\text{廠}\\mid \\text{不良品})=\\frac{\\frac{1}{6}\\times\\frac{1}{10}}{\\frac{1}{20}}=\\frac{1}{3}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\text{廠}\\\\mid \\\\text{不良品})=\\\\frac{\\\\frac{1}{6}\\\\times\\\\frac{1}{10}}{\\\\frac{1}{20}}=\\\\frac{1}{3}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-28T09:05:21.745970+00:00",
+    "engine": "codex"
+  },
+  "image_c197351e546007.png": {
+    "classification": "formula",
+    "latex": "P(A_2)=0.5",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A_2)=0.5\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-28T09:05:23.855327+00:00",
+    "engine": "codex"
+  },
+  "image_bf27bc7be1c320.png": {
+    "classification": "formula",
+    "latex": "P(A'|B)=1-P(A|B)=1-\\frac{1}{2}=\\frac{1}{2}",
+    "note": "條件機率的補事件公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A'|B)=1-P(A|B)=1-\\\\frac{1}{2}=\\\\frac{1}{2}\",\"note\":\"條件機率的補事件公式\"}\n",
+    "ts": "2026-04-28T09:05:25.635540+00:00",
+    "engine": "codex"
+  },
+  "image_baaad642e077a0.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第一、二皆紅})=P(A\\cap B)=\\frac{1}{15}",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第一、二皆紅})=P(A\\\\cap B)=\\\\frac{1}{15}\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-28T09:05:28.726296+00:00",
+    "engine": "codex"
+  },
+  "image_c40020b75b878c.png": {
+    "classification": "formula",
+    "latex": "= \\frac{1}{3}\\times\\frac{2}{5}+\\frac{2}{3}\\times\\frac{3}{5}=\\frac{8}{15}",
+    "note": "分數乘加等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\frac{1}{3}\\\\times\\\\frac{2}{5}+\\\\frac{2}{3}\\\\times\\\\frac{3}{5}=\\\\frac{8}{15}\",\"note\":\"分數乘加等式\"}\n",
+    "ts": "2026-04-28T09:05:30.388145+00:00",
+    "engine": "codex"
+  },
+  "image_c42fa36580ed57.png": {
+    "classification": "formula",
+    "latex": "P(B)=\\frac{1}{5}",
+    "note": "機率表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=\\\\frac{1}{5}\",\"note\":\"機率表達式\"}\n",
+    "ts": "2026-04-28T09:05:30.481781+00:00",
+    "engine": "codex"
+  },
+  "image_c749ce024005b5.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數五分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數五分之一\"}\n",
+    "ts": "2026-04-28T09:05:36.107505+00:00",
+    "engine": "codex"
+  },
+  "image_c6ac7e005fdcba.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{P(A\\cap B)}{P(A)}=\\frac{\\frac{1}{4}}{\\frac{3}{8}}=\\frac{2}{3}",
+    "note": "條件機率公式與計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{\\\\frac{1}{4}}{\\\\frac{3}{8}}=\\\\frac{2}{3}\",\"note\":\"條件機率公式與計算\"}\n",
+    "ts": "2026-04-28T09:05:36.312488+00:00",
+    "engine": "codex"
+  },
+  "image_c7b317a3c32a7d.png": {
+    "classification": "formula",
+    "latex": "=1-\\frac{2}{3}\\times\\frac{2}{5}=\\frac{11}{15}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1-\\\\frac{2}{3}\\\\times\\\\frac{2}{5}=\\\\frac{11}{15}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-28T09:05:37.659574+00:00",
+    "engine": "codex"
+  },
+  "image_c8512df6b8b2b8.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "方格數字排列示例，含3!/2!與4×3!標籤",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"方格數字排列示例，含3!/2!與4×3!標籤\"}\n",
+    "ts": "2026-04-28T09:05:41.999132+00:00",
+    "engine": "codex"
+  },
+  "image_c45b0482223c28.png": {
+    "classification": "formula",
+    "latex": "\\frac{0.5\\times 0.8}{0.3\\times 1+0.5\\times 0.8+0.2\\times 0.4}=\\frac{0.4}{0.3+0.4+0.08}=\\frac{40}{78}>0.5",
+    "note": "機率分式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{0.5\\\\times 0.8}{0.3\\\\times 1+0.5\\\\times 0.8+0.2\\\\times 0.4}=\\\\frac{0.4}{0.3+0.4+0.08}=\\\\frac{40}{78}>0.5\",\"note\":\"機率分式計算\"}\n",
+    "ts": "2026-04-28T09:05:42.246187+00:00",
+    "engine": "codex"
+  },
+  "image_c98280f4faef85.png": {
+    "classification": "formula",
+    "latex": "P(\\text{第一次取到黑球})=\\frac{6}{15}=\\frac{2}{5}",
+    "note": "機率算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{第一次取到黑球})=\\\\frac{6}{15}=\\\\frac{2}{5}\",\"note\":\"機率算式\"}\n",
+    "ts": "2026-04-28T09:05:43.180469+00:00",
+    "engine": "codex"
+  },
+  "image_cac77a565bf695.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{100}=\\frac{1}{10}",
+    "note": "分數約分等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10}{100}=\\\\frac{1}{10}\",\"note\":\"分數約分等式\"}\n",
+    "ts": "2026-04-28T09:05:46.273656+00:00",
+    "engine": "codex"
+  },
+  "image_cbb84eb1b71315.png": {
+    "classification": "formula",
+    "latex": "=\\frac{n(A\\cap B)}{n(A)}",
+    "note": "集合交集計數比值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{n(A\\\\cap B)}{n(A)}\",\"note\":\"集合交集計數比值\"}\n",
+    "ts": "2026-04-28T09:05:47.995394+00:00",
+    "engine": "codex"
+  },
+  "image_cca1a7d5fbf972.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{6}\\times\\frac{3}{5}\\times\\frac{2}{4}=\\frac{1}{5}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{6}\\\\times\\\\frac{3}{5}\\\\times\\\\frac{2}{4}=\\\\frac{1}{5}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-28T09:05:48.066468+00:00",
+    "engine": "codex"
+  },
+  "image_d2faa0331e9d41.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{4}",
+    "note": "機率交集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{4}\",\"note\":\"機率交集公式\"}\n",
+    "ts": "2026-04-28T09:05:51.420016+00:00",
+    "engine": "codex"
+  },
+  "image_d49b271ba12850.png": {
+    "classification": "formula",
+    "latex": "=P(A)+P(B)-P(A\\cap B)",
+    "note": "機率加法公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P(A)+P(B)-P(A\\\\cap B)\",\"note\":\"機率加法公式的一部分\"}\n",
+    "ts": "2026-04-28T09:05:53.034316+00:00",
+    "engine": "codex"
+  },
+  "image_d1b8d432d68ed4.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{15}\\ne\\frac{1}{3}\\times\\frac{1}{3}=P(A)\\times P(B)",
+    "note": "機率乘法不成立的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{15}\\\\ne\\\\frac{1}{3}\\\\times\\\\frac{1}{3}=P(A)\\\\times P(B)\",\"note\":\"機率乘法不成立的公式\"}\n",
+    "ts": "2026-04-28T09:05:54.495065+00:00",
+    "engine": "codex"
+  },
+  "image_d331ffa729594a.png": {
+    "classification": "formula",
+    "latex": "p_2=0.15",
+    "note": "機率參數等於0.15",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_2=0.15\",\"note\":\"機率參數等於0.15\"}\n",
+    "ts": "2026-04-28T09:05:55.225059+00:00",
+    "engine": "codex"
+  },
+  "image_d51abc31e3cbd3.png": {
+    "classification": "formula",
+    "latex": "P(A)=1-P(\\text{三次都沒有6點})=1-\\left(\\frac{5}{6}\\right)^3=\\frac{91}{216}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=1-P(\\\\text{三次都沒有6點})=1-\\\\left(\\\\frac{5}{6}\\\\right)^3=\\\\frac{91}{216}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:05:57.671917+00:00",
+    "engine": "codex"
+  },
+  "image_d8fee122e8c917.png": {
+    "classification": "formula",
+    "latex": "P_1",
+    "note": "單一變數P下標1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_1\",\"note\":\"單一變數P下標1\"}\n",
+    "ts": "2026-04-28T09:05:59.121463+00:00",
+    "engine": "codex"
+  },
+  "image_d800acf9321c11.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}+\\frac{1}{15}+\\frac{1}{15}=\\frac{5}{15}=\\frac{1}{3}",
+    "note": "分數加法化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}+\\\\frac{1}{15}+\\\\frac{1}{15}=\\\\frac{5}{15}=\\\\frac{1}{3}\",\"note\":\"分數加法化簡\"}\n",
+    "ts": "2026-04-28T09:05:59.573600+00:00",
+    "engine": "codex"
+  },
+  "image_d89a5b9c17bd47.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{2}{3}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{2}{3}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:06:01.310782+00:00",
+    "engine": "codex"
+  },
+  "image_db8b036ff21360.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一字母變數C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一字母變數C\"}\n",
+    "ts": "2026-04-28T09:06:03.331504+00:00",
+    "engine": "codex"
+  },
+  "image_d97287726ff1d8.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{5}",
+    "note": "分數四分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{5}\",\"note\":\"分數四分之五\"}\n",
+    "ts": "2026-04-28T09:06:03.347397+00:00",
+    "engine": "codex"
+  },
+  "image_de6113aa60f786.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-28T09:06:08.109547+00:00",
+    "engine": "codex"
+  },
+  "image_df514bc810ca1e.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-28T09:06:08.374985+00:00",
+    "engine": "codex"
+  },
+  "image_dfe4c86e95061b.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{455}",
+    "note": "分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{455}\",\"note\":\"分數\"}\n",
+    "ts": "2026-04-28T09:06:10.559777+00:00",
+    "engine": "codex"
+  },
+  "image_def483e8acdd11.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A_2)=0.8",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A_2)=0.8\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:06:11.810189+00:00",
+    "engine": "codex"
+  },
+  "image_e0970e4283260e.png": {
+    "classification": "formula",
+    "latex": "p_1>p_2>p_3",
+    "note": "不等式鏈",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_1>p_2>p_3\",\"note\":\"不等式鏈\"}\n",
+    "ts": "2026-04-28T09:06:12.681513+00:00",
+    "engine": "codex"
+  },
+  "image_e0879a8a900189.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A)=\\frac{2}{3}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A)=\\\\frac{2}{3}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:06:15.758293+00:00",
+    "engine": "codex"
+  },
+  "image_e12714f60b1059.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{4}+\\frac{1}{3}-\\frac{5}{12}=\\frac{2}{12}=\\frac{1}{6}",
+    "note": "分數加減運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{4}+\\\\frac{1}{3}-\\\\frac{5}{12}=\\\\frac{2}{12}=\\\\frac{1}{6}\",\"note\":\"分數加減運算式\"}\n",
+    "ts": "2026-04-28T09:06:16.385717+00:00",
+    "engine": "codex"
+  },
+  "image_e46a7be322ea76.png": {
+    "classification": "formula",
+    "latex": "P(C\\text{抽到甲})=\\frac{3}{8}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(C\\\\text{抽到甲})=\\\\frac{3}{8}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-28T09:06:18.944771+00:00",
+    "engine": "codex"
+  },
+  "image_e5c17140cb907a.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{2}{6}\\times\\frac{1}{5}=\\frac{1}{15}",
+    "note": "機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{2}{6}\\\\times\\\\frac{1}{5}=\\\\frac{1}{15}\",\"note\":\"機率乘法公式\"}\n",
+    "ts": "2026-04-28T09:06:19.032447+00:00",
+    "engine": "codex"
+  },
+  "image_e7ef3815c8bd17.png": {
+    "classification": "formula",
+    "latex": "(2,2,3),\\ (2,5,6)",
+    "note": "兩個三元數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,2,3),\\\\ (2,5,6)\",\"note\":\"兩個三元數組\"}\n",
+    "ts": "2026-04-28T09:06:19.590608+00:00",
+    "engine": "codex"
+  },
+  "image_e90d251ff5e2bc.png": {
+    "classification": "formula",
+    "latex": "-4",
+    "note": "負整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-4\",\"note\":\"負整數\"}\n",
+    "ts": "2026-04-28T09:06:20.978398+00:00",
+    "engine": "codex"
+  },
+  "image_ea2836efcffac7.png": {
+    "classification": "formula",
+    "latex": "(1,1,1),\\ (1,3,4),\\ (4,4,5),",
+    "note": "三個有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,1,1),\\\\ (1,3,4),\\\\ (4,4,5),\",\"note\":\"三個有序三元組\"}\n",
+    "ts": "2026-04-28T09:06:25.509085+00:00",
+    "engine": "codex"
+  },
+  "image_e9ba5cf6317571.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{6}\\times\\frac{2}{5}\\times\\frac{1}{4}=\\frac{1}{15}",
+    "note": "分數連乘約分算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{6}\\\\times\\\\frac{2}{5}\\\\times\\\\frac{1}{4}=\\\\frac{1}{15}\",\"note\":\"分數連乘約分算式\"}\n",
+    "ts": "2026-04-28T09:06:26.259056+00:00",
+    "engine": "codex"
+  },
+  "image_eaf8341a48446f.png": {
+    "classification": "formula",
+    "latex": "= \\frac{8}{18} = \\frac{4}{9}",
+    "note": "分數約分等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= \\\\frac{8}{18} = \\\\frac{4}{9}\",\"note\":\"分數約分等式\"}\n",
+    "ts": "2026-04-28T09:06:27.228099+00:00",
+    "engine": "codex"
+  },
+  "image_eb09ffb6d6fb6e.png": {
+    "classification": "formula",
+    "latex": "p_1=p_2>p_3",
+    "note": "機率大小關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p_1=p_2>p_3\",\"note\":\"機率大小關係\"}\n",
+    "ts": "2026-04-28T09:06:29.591543+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一斜體大寫字母A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一斜體大寫字母A\"}\n",
+    "ts": "2026-04-28T09:06:30.676365+00:00",
+    "engine": "codex"
+  },
+  "image_ebe94c425d7a38.png": {
+    "classification": "formula",
+    "latex": "S",
+    "note": "單一變數 S",
+    "raw": "{\"class\":\"formula\",\"latex\":\"S\",\"note\":\"單一變數 S\"}\n",
+    "ts": "2026-04-28T09:06:31.126178+00:00",
+    "engine": "codex"
+  },
+  "image_ece054900c22b8.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A)=1-P(B\\mid A)=1-\\frac{2}{3}=\\frac{1}{3}",
+    "note": "條件機率補事件公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A)=1-P(B\\\\mid A)=1-\\\\frac{2}{3}=\\\\frac{1}{3}\",\"note\":\"條件機率補事件公式\"}\n",
+    "ts": "2026-04-28T09:06:32.724499+00:00",
+    "engine": "codex"
+  },
+  "image_ee07600aa418f3.png": {
+    "classification": "formula",
+    "latex": "-5",
+    "note": "負數 -5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-5\",\"note\":\"負數 -5\"}\n",
+    "ts": "2026-04-28T09:06:34.129119+00:00",
+    "engine": "codex"
+  },
+  "image_ee44b4981d72ee.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)=\\frac{P(A\\cap B)}{P(B)}=\\frac{\\frac{1}{6}}{\\frac{1}{3}}=\\frac{1}{2}",
+    "note": "條件機率公式與數值計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)=\\\\frac{P(A\\\\cap B)}{P(B)}=\\\\frac{\\\\frac{1}{6}}{\\\\frac{1}{3}}=\\\\frac{1}{2}\",\"note\":\"條件機率公式與數值計算\"}\n",
+    "ts": "2026-04-28T09:06:37.161480+00:00",
+    "engine": "codex"
+  },
+  "image_f17ff127d32623.png": {
+    "classification": "formula",
+    "latex": "(1,2), (2,1), (1,4), (4,1),",
+    "note": "ordered pairs",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2), (2,1), (1,4), (4,1),\",\"note\":\"ordered pairs\"}\n",
+    "ts": "2026-04-28T09:06:38.963403+00:00",
+    "engine": "codex"
+  },
+  "image_f1ff1328dc26e6.png": {
+    "classification": "formula",
+    "latex": "=P(A)+P(B)-P(A\\cup B)",
+    "note": "機率加法公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P(A)+P(B)-P(A\\\\cup B)\",\"note\":\"機率加法公式的一部分\"}\n",
+    "ts": "2026-04-28T09:06:40.291672+00:00",
+    "engine": "codex"
+  },
+  "image_f73076de47ef63.png": {
+    "classification": "formula",
+    "latex": "=1-\\left(\\text{靶心都沒有被命中}\\right)",
+    "note": "機率補事件公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1-\\\\left(\\\\text{靶心都沒有被命中}\\\\right)\",\"note\":\"機率補事件公式\"}\n",
+    "ts": "2026-04-28T09:06:42.306489+00:00",
+    "engine": "codex"
+  },
+  "image_f9581261d09ce6.png": {
+    "classification": "formula",
+    "latex": "P(B'\\mid A)=\\frac{1}{2}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B'\\\\mid A)=\\\\frac{1}{2}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-28T09:06:43.667184+00:00",
+    "engine": "codex"
+  },
+  "image_f748798c6264f3.png": {
+    "classification": "formula",
+    "latex": "\\frac{10}{300}=\\frac{1}{30}",
+    "note": "分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{10}{300}=\\\\frac{1}{30}\",\"note\":\"分數等式\"}\n",
+    "ts": "2026-04-28T09:06:46.514768+00:00",
+    "engine": "codex"
+  },
+  "image_fab67bc05487bc.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "集合S中A與B的文氏圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"集合S中A與B的文氏圖\"}\n",
+    "ts": "2026-04-28T09:06:48.531641+00:00",
+    "engine": "codex"
+  },
+  "image_f9fab65a6f8d3d.png": {
+    "classification": "formula",
+    "latex": "=P(A)+P(B)-P(A\\cup B)",
+    "note": "機率加法公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=P(A)+P(B)-P(A\\\\cup B)\",\"note\":\"機率加法公式的一部分\"}\n",
+    "ts": "2026-04-28T09:06:48.706871+00:00",
+    "engine": "codex"
+  },
+  "image_fb8d7f513700e6.png": {
+    "classification": "formula",
+    "latex": "P(\\text{前三皆異色})",
+    "note": "機率事件：前三皆異色",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{前三皆異色})\",\"note\":\"機率事件：前三皆異色\"}\n",
+    "ts": "2026-04-28T09:06:50.936839+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "image_074f53b9984c20.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何立體示意圖，類似斜放圓錐",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何立體示意圖，類似斜放圓錐\"}\n",
+    "ts": "2026-04-29T01:04:58.986364+00:00",
+    "engine": "codex"
+  },
+  "image_09ffccd2d1bee4.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{\\sin\\theta}",
+    "note": "分式：3 除以 sin theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{\\\\sin\\\\theta}\",\"note\":\"分式：3 除以 sin theta\"}\n",
+    "ts": "2026-04-29T01:04:59.024330+00:00",
+    "engine": "codex"
+  },
+  "image_06aa4cafebb8ea.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=7",
+    "note": "線段AB長度為7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=7\",\"note\":\"線段AB長度為7\"}\n",
+    "ts": "2026-04-29T01:04:59.485270+00:00",
+    "engine": "codex"
+  },
+  "image_03b5573f02908d.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓錐示意圖，標有高1與半徑1",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓錐示意圖，標有高1與半徑1\"}\n",
+    "ts": "2026-04-29T01:04:59.672686+00:00",
+    "engine": "codex"
+  },
+  "image_0d0e2089fa889c.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一變數 E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一變數 E\"}\n",
+    "ts": "2026-04-29T01:05:03.623123+00:00",
+    "engine": "codex"
+  },
+  "image_1e6c80fd6c0487.png": {
+    "classification": "formula",
+    "latex": "V",
+    "note": "單一變數 V",
+    "raw": "{\"class\":\"formula\",\"latex\":\"V\",\"note\":\"單一變數 V\"}\n",
+    "ts": "2026-04-29T01:05:04.670970+00:00",
+    "engine": "codex"
+  },
+  "image_159e52574721df.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{\\overline{PV}}=\\sin\\theta",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{\\\\overline{PV}}=\\\\sin\\\\theta\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T01:05:04.895766+00:00",
+    "engine": "codex"
+  },
+  "image_135d0f2e096507.png": {
+    "classification": "formula",
+    "latex": "O",
+    "note": "單一字母 O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O\",\"note\":\"單一字母 O\"}\n",
+    "ts": "2026-04-29T01:05:05.042104+00:00",
+    "engine": "codex"
+  },
+  "image_2068fd3cd54676.png": {
+    "classification": "formula",
+    "latex": "L",
+    "note": "單一斜體字母 L",
+    "raw": "{\"class\":\"formula\",\"latex\":\"L\",\"note\":\"單一斜體字母 L\"}\n",
+    "ts": "2026-04-29T01:05:08.880578+00:00",
+    "engine": "codex"
+  },
+  "image_258fcfb35d5764.png": {
+    "classification": "formula",
+    "latex": "30^\\circ",
+    "note": "角度標示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30^\\\\circ\",\"note\":\"角度標示\"}\n",
+    "ts": "2026-04-29T01:05:09.956360+00:00",
+    "engine": "codex"
+  },
+  "image_2291fe05309903.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何示意圖，含虛線角度標記與圖二標籤",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何示意圖，含虛線角度標記與圖二標籤\"}\n",
+    "ts": "2026-04-29T01:05:10.064356+00:00",
+    "engine": "codex"
+  },
+  "image_2f1e4762531b6d.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何示意圖，含 L、M、θ 標記",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何示意圖，含 L、M、θ 標記\"}\n",
+    "ts": "2026-04-29T01:05:10.395379+00:00",
+    "engine": "codex"
+  },
+  "image_2fcd66b8ceef98.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何立體圖，含圓錐、平面與點標記M,N,E",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何立體圖，含圓錐、平面與點標記M,N,E\"}\n",
+    "ts": "2026-04-29T01:05:14.009750+00:00",
+    "engine": "codex"
+  },
+  "image_3ab390dab836eb.png": {
+    "classification": "formula",
+    "latex": "\\theta=90^\\circ-30^\\circ=60^\\circ",
+    "note": "角度計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta=90^\\\\circ-30^\\\\circ=60^\\\\circ\",\"note\":\"角度計算式\"}\n",
+    "ts": "2026-04-29T01:05:14.490535+00:00",
+    "engine": "codex"
+  },
+  "image_37de045083da5c.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "希臘字母theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"希臘字母theta\"}\n",
+    "ts": "2026-04-29T01:05:14.584408+00:00",
+    "engine": "codex"
+  },
+  "image_401a093f8a4130.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{3}",
+    "note": "根號3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{3}\",\"note\":\"根號3\"}\n",
+    "ts": "2026-04-29T01:05:17.205121+00:00",
+    "engine": "codex"
+  },
+  "image_5750abd21af991.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "希臘字母 theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"希臘字母 theta\"}\n",
+    "ts": "2026-04-29T01:05:18.942070+00:00",
+    "engine": "codex"
+  },
+  "image_43abf19bbfb0d9.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓錐曲線與平面截交示意圖，含點與線標記",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓錐曲線與平面截交示意圖，含點與線標記\"}\n",
+    "ts": "2026-04-29T01:05:19.211691+00:00",
+    "engine": "codex"
+  },
+  "image_49279f1c608b33.png": {
+    "classification": "formula",
+    "latex": "\\overline{AV}=5",
+    "note": "線段AV長度為5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AV}=5\",\"note\":\"線段AV長度為5\"}\n",
+    "ts": "2026-04-29T01:05:19.991845+00:00",
+    "engine": "codex"
+  },
+  "image_5c353e187d3875.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "頁面邊框與檯燈插圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"頁面邊框與檯燈插圖\"}\n",
+    "ts": "2026-04-29T01:05:23.284131+00:00",
+    "engine": "codex"
+  },
+  "image_5a9738a9139da1.png": {
+    "classification": "formula",
+    "latex": "0^\\circ<\\theta<60^\\circ",
+    "note": "角度範圍不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0^\\\\circ<\\\\theta<60^\\\\circ\",\"note\":\"角度範圍不等式\"}\n",
+    "ts": "2026-04-29T01:05:23.614095+00:00",
+    "engine": "codex"
+  },
+  "image_64d337ecde5cb5.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓錐光束示意，標有\\sqrt{3}, 1, \\theta",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓錐光束示意，標有\\\\sqrt{3}, 1, \\\\theta\"}\n",
+    "ts": "2026-04-29T01:05:26.767330+00:00",
+    "engine": "codex"
+  },
+  "image_666e930468e6e2.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "燈泡照射形成圓錐光束，底部標示A、B",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"燈泡照射形成圓錐光束，底部標示A、B\"}\n",
+    "ts": "2026-04-29T01:05:28.130901+00:00",
+    "engine": "codex"
+  },
+  "image_64e3f3cec731de.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，標示點V、A、B、O",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，標示點V、A、B、O\"}\n",
+    "ts": "2026-04-29T01:05:28.300051+00:00",
+    "engine": "codex"
+  },
+  "image_5d5df279633b5f.png": {
+    "classification": "formula",
+    "latex": "\\overline{PV}=\\frac{3}{\\sin\\theta}",
+    "note": "線段PV與三角函數關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{PV}=\\\\frac{3}{\\\\sin\\\\theta}\",\"note\":\"線段PV與三角函數關係式\"}\n",
+    "ts": "2026-04-29T01:05:28.713937+00:00",
+    "engine": "codex"
+  },
+  "image_7f218fa9111755.png": {
+    "classification": "formula",
+    "latex": "\\overline{VO}",
+    "note": "線段VO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{VO}\",\"note\":\"線段VO\"}\n",
+    "ts": "2026-04-29T01:05:32.522071+00:00",
+    "engine": "codex"
+  },
+  "image_6f3ce898ad3fe3.png": {
+    "classification": "formula",
+    "latex": "2\\theta=120^\\circ",
+    "note": "角度方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\theta=120^\\\\circ\",\"note\":\"角度方程式\"}\n",
+    "ts": "2026-04-29T01:05:32.547467+00:00",
+    "engine": "codex"
+  },
+  "image_8074e4ff59d2f7.png": {
+    "classification": "formula",
+    "latex": "M",
+    "note": "單一斜體變數 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\",\"note\":\"單一斜體變數 M\"}\n",
+    "ts": "2026-04-29T01:05:33.466944+00:00",
+    "engine": "codex"
+  },
+  "image_69c8884b0f8455.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形，含點標記 M、N、E",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形，含點標記 M、N、E\"}\n",
+    "ts": "2026-04-29T01:05:34.529931+00:00",
+    "engine": "codex"
+  },
+  "image_a555dc7c228daa.png": {
+    "classification": "formula",
+    "latex": "\\overline{BV}=8",
+    "note": "線段BV長度為8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{BV}=8\",\"note\":\"線段BV長度為8\"}\n",
+    "ts": "2026-04-29T01:05:38.419969+00:00",
+    "engine": "codex"
+  },
+  "image_a71627604f5535.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "Greek letter theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"Greek letter theta\"}\n",
+    "ts": "2026-04-29T01:05:40.375596+00:00",
+    "engine": "codex"
+  },
+  "image_83c549a853bc4e.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "幾何圖形含虛線與扇形陰影",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"幾何圖形含虛線與扇形陰影\"}\n",
+    "ts": "2026-04-29T01:05:40.535404+00:00",
+    "engine": "codex"
+  },
+  "image_8fdf3649717fd0.png": {
+    "classification": "formula",
+    "latex": "2\\theta=90^\\circ",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\\\\theta=90^\\\\circ\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-29T01:05:40.792898+00:00",
+    "engine": "codex"
+  },
+  "image_aaa247422e1b42.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "聚光燈照射的幾何示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"聚光燈照射的幾何示意圖\"}\n",
+    "ts": "2026-04-29T01:05:44.648841+00:00",
+    "engine": "codex"
+  },
+  "image_b34633fb9eec16.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓錐示意圖，標示L、M、N、V、α與長度1",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓錐示意圖，標示L、M、N、V、α與長度1\"}\n",
+    "ts": "2026-04-29T01:05:45.183380+00:00",
+    "engine": "codex"
+  },
+  "image_a90008cfbec551.png": {
+    "classification": "formula",
+    "latex": "\\alpha = 45^{\\circ}",
+    "note": "角度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\alpha = 45^{\\\\circ}\",\"note\":\"角度等式\"}\n",
+    "ts": "2026-04-29T01:05:45.699500+00:00",
+    "engine": "codex"
+  },
+  "image_ac951805051f56.png": {
+    "classification": "formula",
+    "latex": "N",
+    "note": "單一變數 N",
+    "raw": "{\"class\":\"formula\",\"latex\":\"N\",\"note\":\"單一變數 N\"}\n",
+    "ts": "2026-04-29T01:05:46.263336+00:00",
+    "engine": "codex"
+  },
+  "image_c48cdb2a5f0b7a.png": {
+    "classification": "formula",
+    "latex": "\\theta=60^{\\circ}",
+    "note": "角度條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta=60^{\\\\circ}\",\"note\":\"角度條件\"}\n",
+    "ts": "2026-04-29T01:05:49.945734+00:00",
+    "engine": "codex"
+  },
+  "image_be702c22221f51.png": {
+    "classification": "formula",
+    "latex": "\\angle AVO \\ne \\angle BVO",
+    "note": "角AVO不等於角BVO",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle AVO \\\\ne \\\\angle BVO\",\"note\":\"角AVO不等於角BVO\"}\n",
+    "ts": "2026-04-29T01:05:49.950681+00:00",
+    "engine": "codex"
+  },
+  "image_ca26417c149120.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立體幾何示意圖，含平面與懸掛物體",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立體幾何示意圖，含平面與懸掛物體\"}\n",
+    "ts": "2026-04-29T01:05:50.626398+00:00",
+    "engine": "codex"
+  },
+  "image_b8f0abe9798b75.png": {
+    "classification": "formula",
+    "latex": "60^\\circ",
+    "note": "角度標示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60^\\\\circ\",\"note\":\"角度標示\"}\n",
+    "ts": "2026-04-29T01:05:50.782651+00:00",
+    "engine": "codex"
+  },
+  "image_ccf00689acd914.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{\\cos\\theta}",
+    "note": "分式：3除以cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{\\\\cos\\\\theta}\",\"note\":\"分式：3除以cos theta\"}\n",
+    "ts": "2026-04-29T01:05:54.542587+00:00",
+    "engine": "codex"
+  },
+  "image_d7ae97e4b14646.png": {
+    "classification": "formula",
+    "latex": "\\angle AVB=60^{\\circ}",
+    "note": "角AVB等於60度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle AVB=60^{\\\\circ}\",\"note\":\"角AVB等於60度\"}\n",
+    "ts": "2026-04-29T01:05:56.056629+00:00",
+    "engine": "codex"
+  },
+  "image_d68ba4fc1a6c05.png": {
+    "classification": "formula",
+    "latex": "\\theta=45^\\circ",
+    "note": "角度等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta=45^\\\\circ\",\"note\":\"角度等式\"}\n",
+    "ts": "2026-04-29T01:05:58.436805+00:00",
+    "engine": "codex"
+  },
+  "image_d935bf382b428d.png": {
+    "classification": "formula",
+    "latex": "\\theta<45^\\circ",
+    "note": "角度不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta<45^\\\\circ\",\"note\":\"角度不等式\"}\n",
+    "ts": "2026-04-29T01:05:58.629611+00:00",
+    "engine": "codex"
+  },
+  "image_e08b089b7dcb91.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "圓錐與平面交線的幾何示意圖",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"圓錐與平面交線的幾何示意圖\"}\n",
+    "ts": "2026-04-29T01:05:59.983948+00:00",
+    "engine": "codex"
+  },
+  "image_eaeea9529bbc6d.png": {
+    "classification": "formula",
+    "latex": "3\\sin\\theta",
+    "note": "三倍正弦θ",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\sin\\\\theta\",\"note\":\"三倍正弦θ\"}\n",
+    "ts": "2026-04-29T01:06:02.267078+00:00",
+    "engine": "codex"
+  },
+  "image_f4c33b1f5b57a8.png": {
+    "classification": "formula",
+    "latex": "3\\cos\\theta",
+    "note": "純數學式：3 cos theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\\\\cos\\\\theta\",\"note\":\"純數學式：3 cos theta\"}\n",
+    "ts": "2026-04-29T01:06:06.176246+00:00",
+    "engine": "codex"
+  },
+  "image_f7ccb9df964fd2.png": {
+    "classification": "formula",
+    "latex": "M",
+    "note": "單一變數 M",
+    "raw": "{\"class\":\"formula\",\"latex\":\"M\",\"note\":\"單一變數 M\"}\n",
+    "ts": "2026-04-29T01:06:06.832991+00:00",
+    "engine": "codex"
+  },
+  "image_f9cf1d92f62b77.png": {
+    "classification": "formula",
+    "latex": "\\angle AVB",
+    "note": "角AVB",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\angle AVB\",\"note\":\"角AVB\"}\n",
+    "ts": "2026-04-29T01:06:07.872305+00:00",
+    "engine": "codex"
+  },
+  "image_f7116db83642c8.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}^{2}=5^{2}+8^{2}-2\\times5\\times8\\times\\cos60^\\circ=49",
+    "note": "餘弦定理計算線段AB平方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}^{2}=5^{2}+8^{2}-2\\\\times5\\\\times8\\\\times\\\\cos60^\\\\circ=49\",\"note\":\"餘弦定理計算線段AB平方\"}\n",
+    "ts": "2026-04-29T01:06:09.945588+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "image_00c547e872ef1a.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{6}\\times\\left|3\\times(-2)\\times(-6)\\right|=6",
+    "note": "絕對值乘法計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{6}\\\\times\\\\left|3\\\\times(-2)\\\\times(-6)\\\\right|=6\",\"note\":\"絕對值乘法計算式\"}\n",
+    "ts": "2026-05-06T00:18:01.476467+00:00",
+    "engine": "codex"
+  },
+  "image_03ca95dd03292f.png": {
+    "classification": "formula",
+    "latex": "C\\to C'",
+    "note": "C maps to C prime",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\\\\to C'\",\"note\":\"C maps to C prime\"}\n",
+    "ts": "2026-05-06T00:18:01.970754+00:00",
+    "engine": "codex"
+  },
+  "image_032caf0543b1ab.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{(x+5)^2+(y-1)^2+(z-3)^2}\\ge d(P,\\,2x-6y+3z-7=0)=\\frac{|-10-6+9-7|}{7}=2",
+    "note": "點到平面距離與根式不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{(x+5)^2+(y-1)^2+(z-3)^2}\\\\ge d(P,\\\\,2x-6y+3z-7=0)=\\\\frac{|-10-6+9-7|}{7}=2\",\"note\":\"點到平面距離與根式不等式\"}\n",
+    "ts": "2026-05-06T00:18:03.230011+00:00",
+    "engine": "codex"
+  },
+  "image_05cef3f7ff4f75.png": {
+    "classification": "formula",
+    "latex": "x-2y-2z=1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-2y-2z=1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:18:06.982611+00:00",
+    "engine": "codex"
+  },
+  "image_05a4137d525667.png": {
+    "classification": "formula",
+    "latex": "(1,2)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-05-06T00:18:07.639711+00:00",
+    "engine": "codex"
+  },
+  "image_0065c52f32a999.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\times\\overrightarrow{AC}=\\left(\\begin{vmatrix}-2&1\\\\-3&3\\end{vmatrix},\\begin{vmatrix}1&-2\\\\3&0\\end{vmatrix},\\begin{vmatrix}-2&-2\\\\0&-3\\end{vmatrix}\\right)=(-3,6,6)",
+    "note": "向量外積的行列式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}=\\\\left(\\\\begin{vmatrix}-2&1\\\\\\\\-3&3\\\\end{vmatrix},\\\\begin{vmatrix}1&-2\\\\\\\\3&0\\\\end{vmatrix},\\\\begin{vmatrix}-2&-2\\\\\\\\0&-3\\\\end{vmatrix}\\\\right)=(-3,6,6)\",\"note\":\"向量外積的行列式計算\"}\n",
+    "ts": "2026-05-06T00:18:09.593252+00:00",
+    "engine": "codex"
+  },
+  "image_0d0e2089fa889c.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一變數 E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一變數 E\"}\n",
+    "ts": "2026-05-06T00:18:12.030853+00:00",
+    "engine": "codex"
+  },
+  "image_090ed7b58dc296.png": {
+    "classification": "formula",
+    "latex": "(a,0,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a,0,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:18:12.670946+00:00",
+    "engine": "codex"
+  },
+  "image_0fe890d1c78eba.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^2}=6",
+    "note": "分式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^2}=6\",\"note\":\"分式方程\"}\n",
+    "ts": "2026-05-06T00:18:13.102972+00:00",
+    "engine": "codex"
+  },
+  "image_1927ae87a86bab.png": {
+    "classification": "formula",
+    "latex": "\\vec{n}_1=(0,1,0)",
+    "note": "向量 n_1 的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n}_1=(0,1,0)\",\"note\":\"向量 n_1 的座標\"}\n",
+    "ts": "2026-05-06T00:18:15.110164+00:00",
+    "engine": "codex"
+  },
+  "image_194f024e294092.png": {
+    "classification": "formula",
+    "latex": "x=1",
+    "note": "一元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=1\",\"note\":\"一元一次方程式\"}\n",
+    "ts": "2026-05-06T00:18:15.402983+00:00",
+    "engine": "codex"
+  },
+  "image_1b3360d2f62389.png": {
+    "classification": "formula",
+    "latex": "\\theta_4",
+    "note": "希臘字母theta下標4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_4\",\"note\":\"希臘字母theta下標4\"}\n",
+    "ts": "2026-05-06T00:18:17.857615+00:00",
+    "engine": "codex"
+  },
+  "image_1bd2cca2b721a8.png": {
+    "classification": "formula",
+    "latex": "1,-1,-\\sqrt{6}",
+    "note": "有序三元數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1,-1,-\\\\sqrt{6}\",\"note\":\"有序三元數組\"}\n",
+    "ts": "2026-05-06T00:18:20.645066+00:00",
+    "engine": "codex"
+  },
+  "image_1c7231c13aef05.png": {
+    "classification": "formula",
+    "latex": "a-3b=0\\Rightarrow a=3b",
+    "note": "線性等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a-3b=0\\\\Rightarrow a=3b\",\"note\":\"線性等式化簡\"}\n",
+    "ts": "2026-05-06T00:18:20.880145+00:00",
+    "engine": "codex"
+  },
+  "image_1b5b7f570b5ea0.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}\\left|\\overrightarrow{AB}\\times\\overrightarrow{AC}\\right|=\\frac{1}{2}\\sqrt{2^2+3^2+6^2}=\\frac{7}{2}",
+    "note": "向量叉積面積公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\\\\left|\\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}\\\\right|=\\\\frac{1}{2}\\\\sqrt{2^2+3^2+6^2}=\\\\frac{7}{2}\",\"note\":\"向量叉積面積公式\"}\n",
+    "ts": "2026-05-06T00:18:21.022484+00:00",
+    "engine": "codex"
+  },
+  "image_1d9e3d89dca7fa.png": {
+    "classification": "formula",
+    "latex": "2x+2y-z=0",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+2y-z=0\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:18:21.997813+00:00",
+    "engine": "codex"
+  },
+  "image_1e37e74e563347.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AP}=(a,b,c)",
+    "note": "向量 AP 的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AP}=(a,b,c)\",\"note\":\"向量 AP 的坐標表示\"}\n",
+    "ts": "2026-05-06T00:18:25.069800+00:00",
+    "engine": "codex"
+  },
+  "image_221b47bf8297c3.png": {
+    "classification": "formula",
+    "latex": "60^\\circ",
+    "note": "角度數值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60^\\\\circ\",\"note\":\"角度數值\"}\n",
+    "ts": "2026-05-06T00:18:25.960705+00:00",
+    "engine": "codex"
+  },
+  "image_2198cb34c79e95.png": {
+    "classification": "formula",
+    "latex": "(1,2,0)\\cdot(2,-1,c)=0",
+    "note": "向量內積等於零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,0)\\\\cdot(2,-1,c)=0\",\"note\":\"向量內積等於零\"}\n",
+    "ts": "2026-05-06T00:18:27.766782+00:00",
+    "engine": "codex"
+  },
+  "image_1fa178beb8df37.png": {
+    "classification": "formula",
+    "latex": "F:x-y-2=0",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"F:x-y-2=0\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-06T00:18:28.213056+00:00",
+    "engine": "codex"
+  },
+  "image_25e571e469c423.png": {
+    "classification": "formula",
+    "latex": "y=0\\Rightarrow",
+    "note": "純數學式：y 等於 0 推得",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=0\\\\Rightarrow\",\"note\":\"純數學式：y 等於 0 推得\"}\n",
+    "ts": "2026-05-06T00:18:30.561326+00:00",
+    "engine": "codex"
+  },
+  "image_24fd9088875ba4.png": {
+    "classification": "formula",
+    "latex": "z=-1",
+    "note": "複數變數等於負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z=-1\",\"note\":\"複數變數等於負一\"}\n",
+    "ts": "2026-05-06T00:18:32.332668+00:00",
+    "engine": "codex"
+  },
+  "image_28268b37a4babf.png": {
+    "classification": "formula",
+    "latex": "\\vec{n}_1=(1,2,0)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n}_1=(1,2,0)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:18:34.138486+00:00",
+    "engine": "codex"
+  },
+  "image_26d8c109a4af83.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC的記號\"}\n",
+    "ts": "2026-05-06T00:18:34.450463+00:00",
+    "engine": "codex"
+  },
+  "image_2a2ae36bbee33c.png": {
+    "classification": "formula",
+    "latex": "\\overline{xz}",
+    "note": "線段xz",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{xz}\",\"note\":\"線段xz\"}\n",
+    "ts": "2026-05-06T00:18:35.829953+00:00",
+    "engine": "codex"
+  },
+  "image_2b3350dd1a4a74.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-05-06T00:18:36.132523+00:00",
+    "engine": "codex"
+  },
+  "image_2cd498cb0cae58.png": {
+    "classification": "formula",
+    "latex": "a=0",
+    "note": "變數 a 等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=0\",\"note\":\"變數 a 等於 0\"}\n",
+    "ts": "2026-05-06T00:18:38.213469+00:00",
+    "engine": "codex"
+  },
+  "image_31a9549347f310.png": {
+    "classification": "formula",
+    "latex": "\\triangle ABC",
+    "note": "三角形ABC的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle ABC\",\"note\":\"三角形ABC的記號\"}\n",
+    "ts": "2026-05-06T00:18:42.551528+00:00",
+    "engine": "codex"
+  },
+  "image_32e43f0c5925d9.png": {
+    "classification": "formula",
+    "latex": "A(1,-1,0)",
+    "note": "點A座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(1,-1,0)\",\"note\":\"點A座標\"}\n",
+    "ts": "2026-05-06T00:18:43.300002+00:00",
+    "engine": "codex"
+  },
+  "image_321ae9e3a34ff1.png": {
+    "classification": "formula",
+    "latex": "(-2,1,1)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-2,1,1)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:18:43.872511+00:00",
+    "engine": "codex"
+  },
+  "image_30333eb7e60700.png": {
+    "classification": "formula",
+    "latex": "E:\\frac{x}{1}+\\frac{y}{-1}+\\frac{z}{a}=1",
+    "note": "平面方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E:\\\\frac{x}{1}+\\\\frac{y}{-1}+\\\\frac{z}{a}=1\",\"note\":\"平面方程式\"}\n",
+    "ts": "2026-05-06T00:18:45.904786+00:00",
+    "engine": "codex"
+  },
+  "image_3422116704301d.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-05-06T00:18:47.332891+00:00",
+    "engine": "codex"
+  },
+  "image_37de045083da5c.png": {
+    "classification": "formula",
+    "latex": "\\theta",
+    "note": "希臘字母theta",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta\",\"note\":\"希臘字母theta\"}\n",
+    "ts": "2026-05-06T00:18:48.859482+00:00",
+    "engine": "codex"
+  },
+  "image_34e4c16aadf385.png": {
+    "classification": "formula",
+    "latex": "60^\\circ",
+    "note": "角度標示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60^\\\\circ\",\"note\":\"角度標示\"}\n",
+    "ts": "2026-05-06T00:18:49.249762+00:00",
+    "engine": "codex"
+  },
+  "image_387c17898b512e.png": {
+    "classification": "formula",
+    "latex": "B(0,1,-1)",
+    "note": "點 B 的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(0,1,-1)\",\"note\":\"點 B 的三維座標\"}\n",
+    "ts": "2026-05-06T00:18:51.838056+00:00",
+    "engine": "codex"
+  },
+  "image_3ab282ca3ac433.png": {
+    "classification": "formula",
+    "latex": "y=1",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=1\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-06T00:18:53.086052+00:00",
+    "engine": "codex"
+  },
+  "image_390b7a04de8b55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-06T00:18:53.101234+00:00",
+    "engine": "codex"
+  },
+  "image_394798e552f7ca.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a}=\\pm\\sqrt{6}",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a}=\\\\pm\\\\sqrt{6}\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-06T00:18:54.038061+00:00",
+    "engine": "codex"
+  },
+  "image_3bff7400497350.png": {
+    "classification": "formula",
+    "latex": "B(0,-1,0)",
+    "note": "點B的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(0,-1,0)\",\"note\":\"點B的三維座標\"}\n",
+    "ts": "2026-05-06T00:18:57.086792+00:00",
+    "engine": "codex"
+  },
+  "image_42fd6f29181121.png": {
+    "classification": "formula",
+    "latex": "=(3,3,3)=3(1,1,1)",
+    "note": "向量倍數表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(3,3,3)=3(1,1,1)\",\"note\":\"向量倍數表示\"}\n",
+    "ts": "2026-05-06T00:18:59.319183+00:00",
+    "engine": "codex"
+  },
+  "image_40dbc21476eb32.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{2}=\\frac{b}{3}=\\frac{c}{1}",
+    "note": "比例式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{2}=\\\\frac{b}{3}=\\\\frac{c}{1}\",\"note\":\"比例式\"}\n",
+    "ts": "2026-05-06T00:18:59.457792+00:00",
+    "engine": "codex"
+  },
+  "image_430753bc3cb6a1.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{2\\left(\\frac{1}{a^2}+2\\right)}=\\frac{1}{4}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{2\\\\left(\\\\frac{1}{a^2}+2\\\\right)}=\\\\frac{1}{4}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-06T00:19:02.552061+00:00",
+    "engine": "codex"
+  },
+  "image_45f11d3628fa38.png": {
+    "classification": "formula",
+    "latex": "\\theta_3",
+    "note": "希臘字母theta下標3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_3\",\"note\":\"希臘字母theta下標3\"}\n",
+    "ts": "2026-05-06T00:19:04.011658+00:00",
+    "engine": "codex"
+  },
+  "image_3d8087b83d2d0a.png": {
+    "classification": "formula",
+    "latex": "(1,2,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:19:05.652742+00:00",
+    "engine": "codex"
+  },
+  "image_4529f5f98d6d40.png": {
+    "classification": "formula",
+    "latex": "(-1,-1,1)",
+    "note": "三維坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,-1,1)\",\"note\":\"三維坐標\"}\n",
+    "ts": "2026-05-06T00:19:06.045411+00:00",
+    "engine": "codex"
+  },
+  "image_4828dce6d8d976.png": {
+    "classification": "formula",
+    "latex": "\\sqrt{(x+5)^2+(y-1)^2+(z-3)^2}",
+    "note": "三維距離公式的一部分",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sqrt{(x+5)^2+(y-1)^2+(z-3)^2}\",\"note\":\"三維距離公式的一部分\"}\n",
+    "ts": "2026-05-06T00:19:09.632605+00:00",
+    "engine": "codex"
+  },
+  "image_4836756a5975f5.png": {
+    "classification": "formula",
+    "latex": "\\triangle A'B'C'",
+    "note": "三角形A'B'C'",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle A'B'C'\",\"note\":\"三角形A'B'C'\"}\n",
+    "ts": "2026-05-06T00:19:10.113736+00:00",
+    "engine": "codex"
+  },
+  "image_4c7c7d7d0db7f4.png": {
+    "classification": "formula",
+    "latex": "h=\\frac{6}{7}",
+    "note": "等式：h等於六分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"h=\\\\frac{6}{7}\",\"note\":\"等式：h等於六分之七\"}\n",
+    "ts": "2026-05-06T00:19:10.914217+00:00",
+    "engine": "codex"
+  },
+  "image_4cdf16a6110675.png": {
+    "classification": "formula",
+    "latex": "C(-1,0,1)",
+    "note": "點 C 的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C(-1,0,1)\",\"note\":\"點 C 的座標\"}\n",
+    "ts": "2026-05-06T00:19:13.836399+00:00",
+    "engine": "codex"
+  },
+  "image_4b444a75289c09.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\times\\overrightarrow{AC}=(2,3,6)",
+    "note": "向量外積等於座標向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}=(2,3,6)\",\"note\":\"向量外積等於座標向量\"}\n",
+    "ts": "2026-05-06T00:19:14.471641+00:00",
+    "engine": "codex"
+  },
+  "image_4d1e2e88b5b358.png": {
+    "classification": "formula",
+    "latex": "E\\cdot x+3y=0",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\\\\cdot x+3y=0\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:19:17.031561+00:00",
+    "engine": "codex"
+  },
+  "image_4d801bdb379e79.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-06T00:19:17.799819+00:00",
+    "engine": "codex"
+  },
+  "image_4cdf3595fdaf28.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}\\times\\overrightarrow{AC}=(-1,2,-1)\\times(-2,1,1)",
+    "note": "向量外積算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}=(-1,2,-1)\\\\times(-2,1,1)\",\"note\":\"向量外積算式\"}\n",
+    "ts": "2026-05-06T00:19:17.849230+00:00",
+    "engine": "codex"
+  },
+  "image_4e1923e9a5f778.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{n_E}=(2,3,6)",
+    "note": "向量座標式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{n_E}=(2,3,6)\",\"note\":\"向量座標式\"}\n",
+    "ts": "2026-05-06T00:19:20.922755+00:00",
+    "engine": "codex"
+  },
+  "image_53b9d7f1edff2b.png": {
+    "classification": "formula",
+    "latex": "=\\triangle ABC",
+    "note": "三角形ABC的符號表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\triangle ABC\",\"note\":\"三角形ABC的符號表示\"}\n",
+    "ts": "2026-05-06T00:19:21.752174+00:00",
+    "engine": "codex"
+  },
+  "image_55dd712348d622.png": {
+    "classification": "formula",
+    "latex": "E",
+    "note": "單一變數 E",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E\",\"note\":\"單一變數 E\"}\n",
+    "ts": "2026-05-06T00:19:22.817290+00:00",
+    "engine": "codex"
+  },
+  "image_551b3b6cc6806b.png": {
+    "classification": "formula",
+    "latex": "t",
+    "note": "單一變數 t",
+    "raw": "{\"class\":\"formula\",\"latex\":\"t\",\"note\":\"單一變數 t\"}\n",
+    "ts": "2026-05-06T00:19:23.994090+00:00",
+    "engine": "codex"
+  },
+  "image_568b9e269ce8ec.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一變數字母 B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一變數字母 B\"}\n",
+    "ts": "2026-05-06T00:19:26.341758+00:00",
+    "engine": "codex"
+  },
+  "image_5617e8025a1017.png": {
+    "classification": "formula",
+    "latex": "\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{c}=1",
+    "note": "三變數分式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x}{a}+\\\\frac{y}{b}+\\\\frac{z}{c}=1\",\"note\":\"三變數分式方程\"}\n",
+    "ts": "2026-05-06T00:19:26.864335+00:00",
+    "engine": "codex"
+  },
+  "image_57893b08a6bfc2.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{2},\\frac{1}{2},-1\\right)",
+    "note": "三元有序數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{2},\\\\frac{1}{2},-1\\\\right)\",\"note\":\"三元有序數組\"}\n",
+    "ts": "2026-05-06T00:19:29.587619+00:00",
+    "engine": "codex"
+  },
+  "image_59fa38d4cccec7.png": {
+    "classification": "formula",
+    "latex": "\\frac{6}{7}",
+    "note": "分數六分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{6}{7}\",\"note\":\"分數六分之七\"}\n",
+    "ts": "2026-05-06T00:19:30.630706+00:00",
+    "engine": "codex"
+  },
+  "image_5ad0a5ee43b09e.png": {
+    "classification": "formula",
+    "latex": "A(1,0,0)",
+    "note": "點A的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(1,0,0)\",\"note\":\"點A的三維座標\"}\n",
+    "ts": "2026-05-06T00:19:30.824022+00:00",
+    "engine": "codex"
+  },
+  "image_5cf0d59650fc9f.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{n_1}=\\left(1,-1,\\frac{1}{a}\\right)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{n_1}=\\\\left(1,-1,\\\\frac{1}{a}\\\\right)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:19:34.457666+00:00",
+    "engine": "codex"
+  },
+  "image_625f57a6ca45af.png": {
+    "classification": "formula",
+    "latex": "ab=0",
+    "note": "乘積為零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ab=0\",\"note\":\"乘積為零\"}\n",
+    "ts": "2026-05-06T00:19:35.373292+00:00",
+    "engine": "codex"
+  },
+  "image_629162ba717bdb.png": {
+    "classification": "formula",
+    "latex": "R(0,-1,1)",
+    "note": "三維座標點標記",
+    "raw": "{\"class\":\"formula\",\"latex\":\"R(0,-1,1)\",\"note\":\"三維座標點標記\"}\n",
+    "ts": "2026-05-06T00:19:35.839140+00:00",
+    "engine": "codex"
+  },
+  "image_63518a7b756a5e.png": {
+    "classification": "formula",
+    "latex": "1,-1,\\sqrt{2}",
+    "note": "三元有序數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1,-1,\\\\sqrt{2}\",\"note\":\"三元有序數組\"}\n",
+    "ts": "2026-05-06T00:19:37.434002+00:00",
+    "engine": "codex"
+  },
+  "image_67fbe61636ab4a.png": {
+    "classification": "formula",
+    "latex": "c",
+    "note": "變數 c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c\",\"note\":\"變數 c\"}\n",
+    "ts": "2026-05-06T00:19:39.893424+00:00",
+    "engine": "codex"
+  },
+  "image_6c461a9f2ea500.png": {
+    "classification": "formula",
+    "latex": "2x+3y+6z-6=0",
+    "note": "三元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+3y+6z-6=0\",\"note\":\"三元一次方程式\"}\n",
+    "ts": "2026-05-06T00:19:39.963413+00:00",
+    "engine": "codex"
+  },
+  "image_649da9abdf9c2c.png": {
+    "classification": "formula",
+    "latex": "x+2y+2z=1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+2y+2z=1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:19:40.384459+00:00",
+    "engine": "codex"
+  },
+  "image_6d3be2ed30f2a9.png": {
+    "classification": "formula",
+    "latex": "x=-1",
+    "note": "一元一次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x=-1\",\"note\":\"一元一次方程式\"}\n",
+    "ts": "2026-05-06T00:19:41.313747+00:00",
+    "engine": "codex"
+  },
+  "image_71958c26e68f7c.png": {
+    "classification": "formula",
+    "latex": "C(1,-1,1)",
+    "note": "點C的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C(1,-1,1)\",\"note\":\"點C的座標\"}\n",
+    "ts": "2026-05-06T00:19:44.090255+00:00",
+    "engine": "codex"
+  },
+  "image_7428cd579a68fa.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+y+z=0\\\\y=-1\\\\z=1\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+y+z=0\\\\\\\\y=-1\\\\\\\\z=1\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:19:45.783705+00:00",
+    "engine": "codex"
+  },
+  "image_6ea05c9d059d17.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AC}=(-3,0,1)",
+    "note": "向量 AC 的坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AC}=(-3,0,1)\",\"note\":\"向量 AC 的坐標表示\"}\n",
+    "ts": "2026-05-06T00:19:47.089614+00:00",
+    "engine": "codex"
+  },
+  "image_743afa72126555.png": {
+    "classification": "formula",
+    "latex": "(1,1,1)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,1,1)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:19:47.564033+00:00",
+    "engine": "codex"
+  },
+  "image_77f018422ef64e.png": {
+    "classification": "formula",
+    "latex": "C",
+    "note": "單一變數 C",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C\",\"note\":\"單一變數 C\"}\n",
+    "ts": "2026-05-06T00:19:52.524899+00:00",
+    "engine": "codex"
+  },
+  "image_7b7087313d578f.png": {
+    "classification": "formula",
+    "latex": "P(1,0,-1)",
+    "note": "點P的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(1,0,-1)\",\"note\":\"點P的三維座標\"}\n",
+    "ts": "2026-05-06T00:19:53.412151+00:00",
+    "engine": "codex"
+  },
+  "image_76459981e11d48.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{n}_{xy\\text{平面}}=(0,0,1)",
+    "note": "xy平面的法向量",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{n}_{xy\\\\text{平面}}=(0,0,1)\",\"note\":\"xy平面的法向量\"}\n",
+    "ts": "2026-05-06T00:19:55.323613+00:00",
+    "engine": "codex"
+  },
+  "image_7915403176d2a6.png": {
+    "classification": "formula",
+    "latex": "(-1,1,0)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,1,0)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-05-06T00:19:55.948218+00:00",
+    "engine": "codex"
+  },
+  "image_7c1cfcd26d6612.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-06T00:19:57.974903+00:00",
+    "engine": "codex"
+  },
+  "image_8153d1cee92e09.png": {
+    "classification": "formula",
+    "latex": "B(-1,0,-1)",
+    "note": "點B的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(-1,0,-1)\",\"note\":\"點B的三維座標\"}\n",
+    "ts": "2026-05-06T00:19:59.265040+00:00",
+    "engine": "codex"
+  },
+  "image_8035d6ce008f55.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{3}\\left(\\left(\\frac{1}{2}ab\\right)c\\right)=\\frac{1}{6}abc=\\frac{1}{6}\\times3\\times2\\times1=1",
+    "note": "體積計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{3}\\\\left(\\\\left(\\\\frac{1}{2}ab\\\\right)c\\\\right)=\\\\frac{1}{6}abc=\\\\frac{1}{6}\\\\times3\\\\times2\\\\times1=1\",\"note\":\"體積計算公式\"}\n",
+    "ts": "2026-05-06T00:20:01.321385+00:00",
+    "engine": "codex"
+  },
+  "image_8328ca38babb69.png": {
+    "classification": "formula",
+    "latex": "\\equiv",
+    "note": "恆等號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\equiv\",\"note\":\"恆等號\"}\n",
+    "ts": "2026-05-06T00:20:03.710165+00:00",
+    "engine": "codex"
+  },
+  "image_887d3abe3f00b9.png": {
+    "classification": "formula",
+    "latex": "(0,0,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:20:04.339253+00:00",
+    "engine": "codex"
+  },
+  "image_8841a2cde1ccd8.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta_3=\\frac{(1,-2,1)\\cdot(1,2,2)}{\\sqrt{1^2+(-2)^2+1^2}\\times\\sqrt{1^2+2^2+2^2}}=\\frac{1}{3\\sqrt{6}}",
+    "note": "向量夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta_3=\\\\frac{(1,-2,1)\\\\cdot(1,2,2)}{\\\\sqrt{1^2+(-2)^2+1^2}\\\\times\\\\sqrt{1^2+2^2+2^2}}=\\\\frac{1}{3\\\\sqrt{6}}\",\"note\":\"向量夾角餘弦公式\"}\n",
+    "ts": "2026-05-06T00:20:05.258186+00:00",
+    "engine": "codex"
+  },
+  "image_898879695e3a30.png": {
+    "classification": "formula",
+    "latex": "\\left(1,2,-2\\right)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,2,-2\\\\right)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:20:09.083101+00:00",
+    "engine": "codex"
+  },
+  "image_8d9d298276e4c0.png": {
+    "classification": "formula",
+    "latex": "=\\frac{1}{2}\\left|\\overrightarrow{AB}\\times\\overrightarrow{AC}\\right|=\\frac{1}{2}\\times\\sqrt{(-3)^2+6^2+6^2}=\\frac{9}{2}",
+    "note": "向量叉積面積計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=\\\\frac{1}{2}\\\\left|\\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}\\\\right|=\\\\frac{1}{2}\\\\times\\\\sqrt{(-3)^2+6^2+6^2}=\\\\frac{9}{2}\",\"note\":\"向量叉積面積計算式\"}\n",
+    "ts": "2026-05-06T00:20:11.910891+00:00",
+    "engine": "codex"
+  },
+  "image_8eb0e5019e905b.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-05-06T00:20:12.961271+00:00",
+    "engine": "codex"
+  },
+  "image_8e6d13980c34b6.png": {
+    "classification": "formula",
+    "latex": "(0,b,0)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,b,0)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:20:13.189800+00:00",
+    "engine": "codex"
+  },
+  "image_8c671fef7bb7df.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta_4=\\left|\\frac{(1,-2,1)\\cdot(2,-2,-1)}{\\sqrt{1^2+(-2)^2+1^2}\\times\\sqrt{2^2+(-2)^2+(-1)^2}}\\right|=\\frac{5}{3\\sqrt{6}}",
+    "note": "向量夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta_4=\\\\left|\\\\frac{(1,-2,1)\\\\cdot(2,-2,-1)}{\\\\sqrt{1^2+(-2)^2+1^2}\\\\times\\\\sqrt{2^2+(-2)^2+(-1)^2}}\\\\right|=\\\\frac{5}{3\\\\sqrt{6}}\",\"note\":\"向量夾角餘弦公式\"}\n",
+    "ts": "2026-05-06T00:20:13.576312+00:00",
+    "engine": "codex"
+  },
+  "image_8ece201b66e023.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}\\times\\frac{7}{2}\\times h=1",
+    "note": "分數乘法方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\\\\times\\\\frac{7}{2}\\\\times h=1\",\"note\":\"分數乘法方程式\"}\n",
+    "ts": "2026-05-06T00:20:16.310646+00:00",
+    "engine": "codex"
+  },
+  "image_939715909cf6aa.png": {
+    "classification": "formula",
+    "latex": "2x-y+cz=4",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-y+cz=4\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:20:17.659109+00:00",
+    "engine": "codex"
+  },
+  "image_90d456fab9d141.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數A\"}\n",
+    "ts": "2026-05-06T00:20:18.129630+00:00",
+    "engine": "codex"
+  },
+  "image_8f8f14d8118b1a.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{a^2}+2=8",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{a^2}+2=8\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-06T00:20:18.264563+00:00",
+    "engine": "codex"
+  },
+  "image_94331109f9a5ab.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AB}=(-3,2,0)",
+    "note": "向量AB的坐標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AB}=(-3,2,0)\",\"note\":\"向量AB的坐標\"}\n",
+    "ts": "2026-05-06T00:20:21.184364+00:00",
+    "engine": "codex"
+  },
+  "image_94d13679a0a927.png": {
+    "classification": "formula",
+    "latex": "x-2y+z=-3",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-2y+z=-3\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:20:22.131561+00:00",
+    "engine": "codex"
+  },
+  "image_99b40fbddc2490.png": {
+    "classification": "formula",
+    "latex": "2x-y+2z=3",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-y+2z=3\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:20:22.520807+00:00",
+    "engine": "codex"
+  },
+  "image_9834fb36d21b00.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+y+z=0\\\\x=-1\\\\y=1\\end{cases}",
+    "note": "聯立方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+y+z=0\\\\\\\\x=-1\\\\\\\\y=1\\\\end{cases}\",\"note\":\"聯立方程式\"}\n",
+    "ts": "2026-05-06T00:20:24.120637+00:00",
+    "engine": "codex"
+  },
+  "image_9bf94d2d048852.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}ab=3",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}ab=3\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-05-06T00:20:26.977635+00:00",
+    "engine": "codex"
+  },
+  "image_9abcff6eca3727.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{n_E}=(2,-3,-1)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{n_E}=(2,-3,-1)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:20:27.478363+00:00",
+    "engine": "codex"
+  },
+  "image_9a23be799c8a62.png": {
+    "classification": "formula",
+    "latex": "\\times |\\cos \\theta| = \\frac{9}{2} \\times \\frac{2}{3} = 3",
+    "note": "三角函數絕對值與分數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\times |\\\\cos \\\\theta| = \\\\frac{9}{2} \\\\times \\\\frac{2}{3} = 3\",\"note\":\"三角函數絕對值與分數乘法等式\"}\n",
+    "ts": "2026-05-06T00:20:29.399735+00:00",
+    "engine": "codex"
+  },
+  "image_9c0c7aee5b5b2f.png": {
+    "classification": "formula",
+    "latex": "(3,-1,2)",
+    "note": "ordered triple",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(3,-1,2)\",\"note\":\"ordered triple\"}\n",
+    "ts": "2026-05-06T00:20:32.523743+00:00",
+    "engine": "codex"
+  },
+  "image_9f4c9fc9333165.png": {
+    "classification": "formula",
+    "latex": "1\\times 2+2\\times 1+0\\times t=4",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\\\\times 2+2\\\\times 1+0\\\\times t=4\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-05-06T00:20:34.115651+00:00",
+    "engine": "codex"
+  },
+  "image_9f3dbff4c35ce6.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\cos\\theta=\\left|\\frac{\\vec{n}_E\\cdot\\vec{n}_{\\text{xy平面}}}{|\\vec{n}_E|\\,|\\vec{n}_{\\text{xy平面}}|}\\right|=\\left|\\frac{6}{\\sqrt{4+9+36}\\times\\sqrt{0+0+1}}\\right|=\\frac{6}{7}",
+    "note": "向量夾角餘弦公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\cos\\\\theta=\\\\left|\\\\frac{\\\\vec{n}_E\\\\cdot\\\\vec{n}_{\\\\text{xy平面}}}{|\\\\vec{n}_E|\\\\,|\\\\vec{n}_{\\\\text{xy平面}}|}\\\\right|=\\\\left|\\\\frac{6}{\\\\sqrt{4+9+36}\\\\times\\\\sqrt{0+0+1}}\\\\right|=\\\\frac{6}{7}\",\"note\":\"向量夾角餘弦公式計算\"}\n",
+    "ts": "2026-05-06T00:20:35.288756+00:00",
+    "engine": "codex"
+  },
+  "image_a32371c74c7835.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{a}+\\frac{-1}{b}+\\frac{2}{2}=1\\Rightarrow\\frac{3}{a}-\\frac{1}{b}=0\\Rightarrow a-3b=0",
+    "note": "代數分式化簡推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{a}+\\\\frac{-1}{b}+\\\\frac{2}{2}=1\\\\Rightarrow\\\\frac{3}{a}-\\\\frac{1}{b}=0\\\\Rightarrow a-3b=0\",\"note\":\"代數分式化簡推導\"}\n",
+    "ts": "2026-05-06T00:20:36.317633+00:00",
+    "engine": "codex"
+  },
+  "image_a3e21a2b4897da.png": {
+    "classification": "formula",
+    "latex": "\\begin{cases}x+y+z=0\\\\x=1\\\\z=-1\\end{cases}",
+    "note": "三元一次方程組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\begin{cases}x+y+z=0\\\\\\\\x=1\\\\\\\\z=-1\\\\end{cases}\",\"note\":\"三元一次方程組\"}\n",
+    "ts": "2026-05-06T00:20:39.413543+00:00",
+    "engine": "codex"
+  },
+  "image_a43f1332238eda.png": {
+    "classification": "formula",
+    "latex": "\\triangle A'B'C'",
+    "note": "三角形A'B'C'",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\triangle A'B'C'\",\"note\":\"三角形A'B'C'\"}\n",
+    "ts": "2026-05-06T00:20:41.423118+00:00",
+    "engine": "codex"
+  },
+  "image_a788aef978de32.png": {
+    "classification": "formula",
+    "latex": "(0,-1,-1)",
+    "note": "有序三元組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,-1,-1)\",\"note\":\"有序三元組\"}\n",
+    "ts": "2026-05-06T00:20:42.721946+00:00",
+    "engine": "codex"
+  },
+  "image_a48e0f8546bab3.png": {
+    "classification": "formula",
+    "latex": "\\cos60^\\circ=\\left|\\frac{\\overrightarrow{n_1}\\cdot\\overrightarrow{n_2}}{\\left|\\overrightarrow{n_1}\\right|\\left|\\overrightarrow{n_2}\\right|}\\right|\\Rightarrow\\left|\\frac{2}{\\sqrt{\\frac{1}{a^2}+2\\times\\sqrt{2}}}\\right|=\\frac{1}{2}",
+    "note": "向量夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos60^\\\\circ=\\\\left|\\\\frac{\\\\overrightarrow{n_1}\\\\cdot\\\\overrightarrow{n_2}}{\\\\left|\\\\overrightarrow{n_1}\\\\right|\\\\left|\\\\overrightarrow{n_2}\\\\right|}\\\\right|\\\\Rightarrow\\\\left|\\\\frac{2}{\\\\sqrt{\\\\frac{1}{a^2}+2\\\\times\\\\sqrt{2}}}\\\\right|=\\\\frac{1}{2}\",\"note\":\"向量夾角餘弦公式\"}\n",
+    "ts": "2026-05-06T00:20:46.746940+00:00",
+    "engine": "codex"
+  },
+  "image_a9c3422b915a65.png": {
+    "classification": "formula",
+    "latex": "x-2y-2z=1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-2y-2z=1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:20:46.934134+00:00",
+    "engine": "codex"
+  },
+  "image_a9b61c130934af.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "3D coordinate geometry diagram with point labels",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"3D coordinate geometry diagram with point labels\"}\n",
+    "ts": "2026-05-06T00:20:47.737995+00:00",
+    "engine": "codex"
+  },
+  "image_a96b516a7bf86b.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta=\\left|\\frac{\\overrightarrow{n_1}\\cdot\\overrightarrow{n_2}}{\\left|\\overrightarrow{n_1}\\right|\\left|\\overrightarrow{n_2}\\right|}\\right|=\\frac{2}{5}<\\frac{1}{2}\\Rightarrow\\theta>60^\\circ",
+    "note": "向量夾角餘弦判斷",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta=\\\\left|\\\\frac{\\\\overrightarrow{n_1}\\\\cdot\\\\overrightarrow{n_2}}{\\\\left|\\\\overrightarrow{n_1}\\\\right|\\\\left|\\\\overrightarrow{n_2}\\\\right|}\\\\right|=\\\\frac{2}{5}<\\\\frac{1}{2}\\\\Rightarrow\\\\theta>60^\\\\circ\",\"note\":\"向量夾角餘弦判斷\"}\n",
+    "ts": "2026-05-06T00:20:48.011996+00:00",
+    "engine": "codex"
+  },
+  "image_ada08d01da95ea.png": {
+    "classification": "formula",
+    "latex": "ABC",
+    "note": "三個斜體字母",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABC\",\"note\":\"三個斜體字母\"}\n",
+    "ts": "2026-05-06T00:20:51.401192+00:00",
+    "engine": "codex"
+  },
+  "image_b007c5e4495554.png": {
+    "classification": "formula",
+    "latex": "B\\to B'",
+    "note": "點B映至B'",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\\\\to B'\",\"note\":\"點B映至B'\"}\n",
+    "ts": "2026-05-06T00:20:52.340350+00:00",
+    "engine": "codex"
+  },
+  "image_abe37ad3e9c8ea.png": {
+    "classification": "formula",
+    "latex": "(2,1,t)",
+    "note": "三元有序數組",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,1,t)\",\"note\":\"三元有序數組\"}\n",
+    "ts": "2026-05-06T00:20:53.236319+00:00",
+    "engine": "codex"
+  },
+  "image_adf32aec338164.png": {
+    "classification": "formula",
+    "latex": "\\vec{n}\\ //\\ \\overrightarrow{AB}\\times\\overrightarrow{AC}",
+    "note": "向量平行於兩向量外積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n}\\\\ //\\\\ \\\\overrightarrow{AB}\\\\times\\\\overrightarrow{AC}\",\"note\":\"向量平行於兩向量外積\"}\n",
+    "ts": "2026-05-06T00:20:53.637862+00:00",
+    "engine": "codex"
+  },
+  "image_b7cb9de87637ad.png": {
+    "classification": "formula",
+    "latex": "2x-2y-z=1",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-2y-z=1\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:20:57.839961+00:00",
+    "engine": "codex"
+  },
+  "image_b8f52e582b4501.png": {
+    "classification": "formula",
+    "latex": "A\\to A'",
+    "note": "點A映至A'的記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\to A'\",\"note\":\"點A映至A'的記號\"}\n",
+    "ts": "2026-05-06T00:20:58.739471+00:00",
+    "engine": "codex"
+  },
+  "image_b2c6e9d5b94734.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta_1=\\left|\\frac{(1,-2,1)\\cdot(2,2,-1)}{\\sqrt{1^2+(-2)^2+1^2}\\times\\sqrt{2^2+2^2+(-1)^2}}\\right|=\\frac{3}{3\\sqrt{6}}",
+    "note": "向量夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta_1=\\\\left|\\\\frac{(1,-2,1)\\\\cdot(2,2,-1)}{\\\\sqrt{1^2+(-2)^2+1^2}\\\\times\\\\sqrt{2^2+2^2+(-1)^2}}\\\\right|=\\\\frac{3}{3\\\\sqrt{6}}\",\"note\":\"向量夾角餘弦公式\"}\n",
+    "ts": "2026-05-06T00:20:59.779672+00:00",
+    "engine": "codex"
+  },
+  "image_ba103116457445.png": {
+    "classification": "formula",
+    "latex": "x+y+z=0",
+    "note": "三變數線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x+y+z=0\",\"note\":\"三變數線性方程式\"}\n",
+    "ts": "2026-05-06T00:21:01.465336+00:00",
+    "engine": "codex"
+  },
+  "image_b8958f626fde03.png": {
+    "classification": "formula",
+    "latex": "\\left(1,-1,\\sqrt{6}\\right)",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(1,-1,\\\\sqrt{6}\\\\right)\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-05-06T00:21:01.821651+00:00",
+    "engine": "codex"
+  },
+  "image_c0293572d0c47c.png": {
+    "classification": "formula",
+    "latex": "z=1",
+    "note": "單一方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"z=1\",\"note\":\"單一方程式\"}\n",
+    "ts": "2026-05-06T00:21:04.959053+00:00",
+    "engine": "codex"
+  },
+  "image_bdfbfc596f25ee.png": {
+    "classification": "formula",
+    "latex": "\\sin\\theta=\\sqrt{1-\\cos^2\\theta}=\\frac{\\sqrt{5}}{3}",
+    "note": "三角函數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin\\\\theta=\\\\sqrt{1-\\\\cos^2\\\\theta}=\\\\frac{\\\\sqrt{5}}{3}\",\"note\":\"三角函數恆等式\"}\n",
+    "ts": "2026-05-06T00:21:07.462275+00:00",
+    "engine": "codex"
+  },
+  "image_c397855f539803.png": {
+    "classification": "formula",
+    "latex": "E:\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{2}=1",
+    "note": "平面方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E:\\\\frac{x}{a}+\\\\frac{y}{b}+\\\\frac{z}{2}=1\",\"note\":\"平面方程式\"}\n",
+    "ts": "2026-05-06T00:21:07.882091+00:00",
+    "engine": "codex"
+  },
+  "image_bd023cbc81b23f.png": {
+    "classification": "formula",
+    "latex": "\\underline{Q}",
+    "note": "帶底線的 Q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\underline{Q}\",\"note\":\"帶底線的 Q\"}\n",
+    "ts": "2026-05-06T00:21:09.876797+00:00",
+    "engine": "codex"
+  },
+  "image_c7d7e2c93cf23e.png": {
+    "classification": "formula",
+    "latex": "R",
+    "note": "單一變數 R",
+    "raw": "{\"class\":\"formula\",\"latex\":\"R\",\"note\":\"單一變數 R\"}\n",
+    "ts": "2026-05-06T00:21:10.253200+00:00",
+    "engine": "codex"
+  },
+  "image_c971543fe4450c.png": {
+    "classification": "formula",
+    "latex": "\\vec{n}_2=(2,0,-1)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n}_2=(2,0,-1)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:21:14.614985+00:00",
+    "engine": "codex"
+  },
+  "image_c8fc87f1c4b135.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{AP}\\right|",
+    "note": "向量AP的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{AP}\\\\right|\",\"note\":\"向量AP的長度\"}\n",
+    "ts": "2026-05-06T00:21:14.683981+00:00",
+    "engine": "codex"
+  },
+  "image_cabeb780ff2a7e.png": {
+    "classification": "formula",
+    "latex": "b=0",
+    "note": "變數 b 等於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=0\",\"note\":\"變數 b 等於 0\"}\n",
+    "ts": "2026-05-06T00:21:15.281016+00:00",
+    "engine": "codex"
+  },
+  "image_caa06bac8504f6.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta_5=\\left|\\frac{(1,-2,1)\\cdot(1,-2,-2)}{\\sqrt{1^2+(-2)^2+1^2}\\times\\sqrt{1^2+(-2)^2+(-2)^2}}\\right|=\\frac{3}{3\\sqrt{6}}",
+    "note": "向量夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta_5=\\\\left|\\\\frac{(1,-2,1)\\\\cdot(1,-2,-2)}{\\\\sqrt{1^2+(-2)^2+1^2}\\\\times\\\\sqrt{1^2+(-2)^2+(-2)^2}}\\\\right|=\\\\frac{3}{3\\\\sqrt{6}}\",\"note\":\"向量夾角餘弦公式\"}\n",
+    "ts": "2026-05-06T00:21:18.363445+00:00",
+    "engine": "codex"
+  },
+  "image_cc7cd803a2989e.png": {
+    "classification": "formula",
+    "latex": "2x+4y=3",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x+4y=3\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:21:19.405038+00:00",
+    "engine": "codex"
+  },
+  "image_d5e14ff279ffac.png": {
+    "classification": "formula",
+    "latex": "A(1,2,-2)",
+    "note": "點A的三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(1,2,-2)\",\"note\":\"點A的三維座標\"}\n",
+    "ts": "2026-05-06T00:21:19.604276+00:00",
+    "engine": "codex"
+  },
+  "image_d459f9fe5dad9b.png": {
+    "classification": "formula",
+    "latex": "\\overline{AB}=(-2,-2,1)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{AB}=(-2,-2,1)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:21:22.240509+00:00",
+    "engine": "codex"
+  },
+  "image_d7a0c627fe658e.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{7}",
+    "note": "分數三分之七",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{7}\",\"note\":\"分數三分之七\"}\n",
+    "ts": "2026-05-06T00:21:22.392765+00:00",
+    "engine": "codex"
+  },
+  "image_d92d8b125f70b2.png": {
+    "classification": "formula",
+    "latex": "\\theta_1",
+    "note": "希臘字母 theta 下標 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_1\",\"note\":\"希臘字母 theta 下標 1\"}\n",
+    "ts": "2026-05-06T00:21:26.587316+00:00",
+    "engine": "codex"
+  },
+  "image_d87fda65e763be.png": {
+    "classification": "formula",
+    "latex": "E:x+2y=4",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E:x+2y=4\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-06T00:21:27.232130+00:00",
+    "engine": "codex"
+  },
+  "image_d8aebac0702127.png": {
+    "classification": "formula",
+    "latex": "\\cos\\theta=\\pm\\frac{\\overrightarrow{n}\\cdot\\overrightarrow{n_1}}{|\\overrightarrow{n}|\\cdot|\\overrightarrow{n_1}|}=\\pm\\frac{-2}{3\\times1}=\\pm\\frac{2}{3}",
+    "note": "向量夾角餘弦公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos\\\\theta=\\\\pm\\\\frac{\\\\overrightarrow{n}\\\\cdot\\\\overrightarrow{n_1}}{|\\\\overrightarrow{n}|\\\\cdot|\\\\overrightarrow{n_1}|}=\\\\pm\\\\frac{-2}{3\\\\times1}=\\\\pm\\\\frac{2}{3}\",\"note\":\"向量夾角餘弦公式\"}\n",
+    "ts": "2026-05-06T00:21:28.055399+00:00",
+    "engine": "codex"
+  },
+  "image_dd3474cbd48c7d.png": {
+    "classification": "formula",
+    "latex": "\\underline{Q}(-1,1,0)",
+    "note": "點Q的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\underline{Q}(-1,1,0)\",\"note\":\"點Q的座標\"}\n",
+    "ts": "2026-05-06T00:21:29.164651+00:00",
+    "engine": "codex"
+  },
+  "image_de6ef9f7ac0658.png": {
+    "classification": "formula",
+    "latex": "E:x+y+z=0",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"E:x+y+z=0\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-06T00:21:31.449909+00:00",
+    "engine": "codex"
+  },
+  "image_df8efb165548d9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數六分之一\"}\n",
+    "ts": "2026-05-06T00:21:31.976703+00:00",
+    "engine": "codex"
+  },
+  "image_de96df6bb684f2.png": {
+    "classification": "formula",
+    "latex": "\\vec{n}=(1,-2,-2)",
+    "note": "向量 n 的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n}=(1,-2,-2)\",\"note\":\"向量 n 的座標\"}\n",
+    "ts": "2026-05-06T00:21:33.412673+00:00",
+    "engine": "codex"
+  },
+  "image_e081d9a7c38221.png": {
+    "classification": "formula",
+    "latex": "y=-1",
+    "note": "直線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-1\",\"note\":\"直線方程式\"}\n",
+    "ts": "2026-05-06T00:21:33.844106+00:00",
+    "engine": "codex"
+  },
+  "image_e0fb6731e7ff5b.png": {
+    "classification": "formula",
+    "latex": "P",
+    "note": "單一變數 P",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P\",\"note\":\"單一變數 P\"}\n",
+    "ts": "2026-05-06T00:21:34.877724+00:00",
+    "engine": "codex"
+  },
+  "image_e1a98773bcc796.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}bc=1",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}bc=1\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-05-06T00:21:36.225710+00:00",
+    "engine": "codex"
+  },
+  "image_e3bdf8f121f5b0.png": {
+    "classification": "formula",
+    "latex": "x-2y-2z=3",
+    "note": "線性方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x-2y-2z=3\",\"note\":\"線性方程式\"}\n",
+    "ts": "2026-05-06T00:21:37.122525+00:00",
+    "engine": "codex"
+  },
+  "image_e4926556721360.png": {
+    "classification": "formula",
+    "latex": "\\frac{a}{2}=\\frac{b}{-3}=\\frac{c}{-1}",
+    "note": "連等式比例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{a}{2}=\\\\frac{b}{-3}=\\\\frac{c}{-1}\",\"note\":\"連等式比例\"}\n",
+    "ts": "2026-05-06T00:21:37.861889+00:00",
+    "engine": "codex"
+  },
+  "image_e5df6fc083175f.png": {
+    "classification": "formula",
+    "latex": "ab \\ne 0",
+    "note": "不等於零的代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ab \\\\ne 0\",\"note\":\"不等於零的代數式\"}\n",
+    "ts": "2026-05-06T00:21:39.229369+00:00",
+    "engine": "codex"
+  },
+  "image_e64d6492602d9a.png": {
+    "classification": "formula",
+    "latex": "2x-z=1",
+    "note": "linear equation",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2x-z=1\",\"note\":\"linear equation\"}\n",
+    "ts": "2026-05-06T00:21:40.552311+00:00",
+    "engine": "codex"
+  },
+  "image_e6d47ebcf11be8.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}ca=\\frac{3}{2}",
+    "note": "純數學等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}ca=\\\\frac{3}{2}\",\"note\":\"純數學等式\"}\n",
+    "ts": "2026-05-06T00:21:43.325847+00:00",
+    "engine": "codex"
+  },
+  "image_e68a650113952d.png": {
+    "classification": "formula",
+    "latex": "\\frac{x}{3}+\\frac{y}{2}+\\frac{z}{1}=1",
+    "note": "三變數分式方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{x}{3}+\\\\frac{y}{2}+\\\\frac{z}{1}=1\",\"note\":\"三變數分式方程\"}\n",
+    "ts": "2026-05-06T00:21:44.016021+00:00",
+    "engine": "codex"
+  },
+  "image_e7f30949b18005.png": {
+    "classification": "formula",
+    "latex": "\\theta_2",
+    "note": "希臘字母 theta 加下標 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_2\",\"note\":\"希臘字母 theta 加下標 2\"}\n",
+    "ts": "2026-05-06T00:21:46.982149+00:00",
+    "engine": "codex"
+  },
+  "image_e89fb1ecb0cf6d.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow",
+    "note": "右雙線箭頭符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow\",\"note\":\"右雙線箭頭符號\"}\n",
+    "ts": "2026-05-06T00:21:48.588965+00:00",
+    "engine": "codex"
+  },
+  "image_ea2b86e8b51292.png": {
+    "classification": "formula",
+    "latex": "(0,0,2)",
+    "note": "三維座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0,2)\",\"note\":\"三維座標點\"}\n",
+    "ts": "2026-05-06T00:21:50.099860+00:00",
+    "engine": "codex"
+  },
+  "image_ea903052a18f09.png": {
+    "classification": "formula",
+    "latex": "\\sin \\theta = \\frac{2}{3}",
+    "note": "正弦值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\sin \\\\theta = \\\\frac{2}{3}\",\"note\":\"正弦值公式\"}\n",
+    "ts": "2026-05-06T00:21:50.228747+00:00",
+    "engine": "codex"
+  },
+  "image_edcd1bf313e167.png": {
+    "classification": "formula",
+    "latex": "\\vec{n}_2=(1,-1,0)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\vec{n}_2=(1,-1,0)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:21:53.829754+00:00",
+    "engine": "codex"
+  },
+  "image_f00d03e8e27d68.png": {
+    "classification": "formula",
+    "latex": "O",
+    "note": "單一英文字母 O",
+    "raw": "{\"class\":\"formula\",\"latex\":\"O\",\"note\":\"單一英文字母 O\"}\n",
+    "ts": "2026-05-06T00:21:54.910786+00:00",
+    "engine": "codex"
+  },
+  "image_eafd7bdba7c1fc.png": {
+    "classification": "formula",
+    "latex": "\\cos \\theta_2=\\left|\\frac{(1,-2,1)\\cdot(2,-1,2)}{\\sqrt{1^2+(-2)^2+1^2}\\times\\sqrt{2^2+(-1)^2+2^2}}\\right|=\\frac{6}{3\\sqrt{6}}",
+    "note": "向量夾角餘弦公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\cos \\\\theta_2=\\\\left|\\\\frac{(1,-2,1)\\\\cdot(2,-1,2)}{\\\\sqrt{1^2+(-2)^2+1^2}\\\\times\\\\sqrt{2^2+(-1)^2+2^2}}\\\\right|=\\\\frac{6}{3\\\\sqrt{6}}\",\"note\":\"向量夾角餘弦公式計算\"}\n",
+    "ts": "2026-05-06T00:21:54.912010+00:00",
+    "engine": "codex"
+  },
+  "image_ee9280d7b32305.png": {
+    "classification": "formula",
+    "latex": "\\left|\\overrightarrow{AP}\\right|",
+    "note": "向量AP的長度",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left|\\\\overrightarrow{AP}\\\\right|\",\"note\":\"向量AP的長度\"}\n",
+    "ts": "2026-05-06T00:21:55.416232+00:00",
+    "engine": "codex"
+  },
+  "image_f61c6441f7f5c4.png": {
+    "classification": "formula",
+    "latex": "\\overrightarrow{AC}=(0,-3,3)",
+    "note": "向量座標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overrightarrow{AC}=(0,-3,3)\",\"note\":\"向量座標表示\"}\n",
+    "ts": "2026-05-06T00:21:58.676439+00:00",
+    "engine": "codex"
+  },
+  "image_f789f3cab83363.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{2}",
+    "note": "分數三分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{2}\",\"note\":\"分數三分之二\"}\n",
+    "ts": "2026-05-06T00:21:59.563728+00:00",
+    "engine": "codex"
+  },
+  "image_f78fb5ee132953.png": {
+    "classification": "formula",
+    "latex": "\\theta_5",
+    "note": "希臘字母theta下標5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\theta_5\",\"note\":\"希臘字母theta下標5\"}\n",
+    "ts": "2026-05-06T00:22:00.046957+00:00",
+    "engine": "codex"
+  },
+  "image_f68dcb33122495.png": {
+    "classification": "formula",
+    "latex": "1,1,-1",
+    "note": "三維座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1,1,-1\",\"note\":\"三維座標\"}\n",
+    "ts": "2026-05-06T00:22:02.404777+00:00",
+    "engine": "codex"
+  },
+  "image_fcb3807771beba.png": {
+    "classification": "formula",
+    "latex": "\\overline{xz}",
+    "note": "線段xz",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\overline{xz}\",\"note\":\"線段xz\"}\n",
+    "ts": "2026-05-06T00:22:03.198438+00:00",
+    "engine": "codex"
+  },
+  "image_fdcddb8dbeb932.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "立方體座標圖，標示A、B、C點座標",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"立方體座標圖，標示A、B、C點座標\"}\n",
+    "ts": "2026-05-06T00:22:05.707392+00:00",
+    "engine": "codex"
+  }
+}

@@ -1,0 +1,1226 @@
+{
+  "image_0357d3def06755.png": {
+    "classification": "formula",
+    "latex": "-7",
+    "note": "負數整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-7\",\"note\":\"負數整數\"}\n",
+    "ts": "2026-04-30T06:45:38.785847+00:00",
+    "engine": "codex"
+  },
+  "image_0364216a3785bf.png": {
+    "classification": "formula",
+    "latex": "-1",
+    "note": "負一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-1\",\"note\":\"負一\"}\n",
+    "ts": "2026-04-30T06:45:39.218582+00:00",
+    "engine": "codex"
+  },
+  "image_05a4137d525667.png": {
+    "classification": "formula",
+    "latex": "(1,2)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:45:39.914001+00:00",
+    "engine": "codex"
+  },
+  "image_06f223d13cba1d.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow -a-p+3=-2",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow -a-p+3=-2\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:45:41.597197+00:00",
+    "engine": "codex"
+  },
+  "image_071d117d2f9593.png": {
+    "classification": "formula",
+    "latex": "f(-1)=8",
+    "note": "函數值公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-1)=8\",\"note\":\"函數值公式\"}\n",
+    "ts": "2026-04-30T06:45:42.537314+00:00",
+    "engine": "codex"
+  },
+  "image_0c003e14f46ed8.png": {
+    "classification": "formula",
+    "latex": "y=(1-x)^3=-(x-1)^3",
+    "note": "純代數函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(1-x)^3=-(x-1)^3\",\"note\":\"純代數函數式\"}\n",
+    "ts": "2026-04-30T06:45:43.409083+00:00",
+    "engine": "codex"
+  },
+  "image_0ca43c8bba3a58.png": {
+    "classification": "formula",
+    "latex": "f(2.01)",
+    "note": "函數值表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(2.01)\",\"note\":\"函數值表示式\"}\n",
+    "ts": "2026-04-30T06:45:43.855093+00:00",
+    "engine": "codex"
+  },
+  "image_135242a463f168.png": {
+    "classification": "formula",
+    "latex": "y=(x+3)^3-4(x+3)-1",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(x+3)^3-4(x+3)-1\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-04-30T06:45:46.654974+00:00",
+    "engine": "codex"
+  },
+  "image_0ce91b6d773670.png": {
+    "classification": "formula",
+    "latex": "f(x)=-2(x+2)^3+7(x+2)+3",
+    "note": "三次函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-2(x+2)^3+7(x+2)+3\",\"note\":\"三次函數表達式\"}\n",
+    "ts": "2026-04-30T06:45:48.413528+00:00",
+    "engine": "codex"
+  },
+  "image_161a081bd40db9.png": {
+    "classification": "formula",
+    "latex": "(a,b)",
+    "note": "有序對或坐標表示",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a,b)\",\"note\":\"有序對或坐標表示\"}\n",
+    "ts": "2026-04-30T06:45:49.080528+00:00",
+    "engine": "codex"
+  },
+  "image_1babe1c236af67.png": {
+    "classification": "formula",
+    "latex": "c+d=0",
+    "note": "線性等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c+d=0\",\"note\":\"線性等式\"}\n",
+    "ts": "2026-04-30T06:45:50.399845+00:00",
+    "engine": "codex"
+  },
+  "image_1c76cde9b976ad.png": {
+    "classification": "formula",
+    "latex": "-4",
+    "note": "負四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-4\",\"note\":\"負四\"}\n",
+    "ts": "2026-04-30T06:45:52.124260+00:00",
+    "engine": "codex"
+  },
+  "image_16ac25de625ac7.png": {
+    "classification": "formula",
+    "latex": "p=7",
+    "note": "變數 p 等於 7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"p=7\",\"note\":\"變數 p 等於 7\"}\n",
+    "ts": "2026-04-30T06:45:53.020631+00:00",
+    "engine": "codex"
+  },
+  "image_20dad0adff39ec.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-30T06:45:54.295731+00:00",
+    "engine": "codex"
+  },
+  "image_212f0a393bab03.png": {
+    "classification": "formula",
+    "latex": "g(x)=-(x+1)^3+3(x+1)+2",
+    "note": "純函數多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(x)=-(x+1)^3+3(x+1)+2\",\"note\":\"純函數多項式表達式\"}\n",
+    "ts": "2026-04-30T06:45:55.313912+00:00",
+    "engine": "codex"
+  },
+  "image_22345bad5ffd23.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三次函數圖像，標示 y=f(x)=ax^3,a>0",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三次函數圖像，標示 y=f(x)=ax^3,a>0\"}\n",
+    "ts": "2026-04-30T06:45:57.566614+00:00",
+    "engine": "codex"
+  },
+  "image_24345ef32cc32f.png": {
+    "classification": "formula",
+    "latex": "(2,-10)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,-10)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:45:58.860214+00:00",
+    "engine": "codex"
+  },
+  "image_29439f3d8c8302.png": {
+    "classification": "formula",
+    "latex": "y=x^3+3x^2+3x-6",
+    "note": "多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^3+3x^2+3x-6\",\"note\":\"多項式函數\"}\n",
+    "ts": "2026-04-30T06:46:00.420667+00:00",
+    "engine": "codex"
+  },
+  "image_2953d2e8cf6be4.png": {
+    "classification": "formula",
+    "latex": "=-\\left(x^3-4x\\right)=-f(x)",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=-\\\\left(x^3-4x\\\\right)=-f(x)\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:46:01.230604+00:00",
+    "engine": "codex"
+  },
+  "image_29ead2a995af82.png": {
+    "classification": "formula",
+    "latex": "d>0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d>0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:46:02.923945+00:00",
+    "engine": "codex"
+  },
+  "image_2bbc0e1110fc04.png": {
+    "classification": "formula",
+    "latex": "c",
+    "note": "單一變數 c",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c\",\"note\":\"單一變數 c\"}\n",
+    "ts": "2026-04-30T06:46:03.941502+00:00",
+    "engine": "codex"
+  },
+  "image_2bd35e930bf750.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{1}{2},f\\left(\\frac{1}{2}\\right)\\right)=\\left(\\frac{1}{2},2\\right)",
+    "note": "函數值點座標等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{1}{2},f\\\\left(\\\\frac{1}{2}\\\\right)\\\\right)=\\\\left(\\\\frac{1}{2},2\\\\right)\",\"note\":\"函數值點座標等式\"}\n",
+    "ts": "2026-04-30T06:46:07.166600+00:00",
+    "engine": "codex"
+  },
+  "image_31dd217dd75ed5.png": {
+    "classification": "formula",
+    "latex": "f(-x)=-x^3+4x=-f(x)",
+    "note": "函數奇偶性計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-x)=-x^3+4x=-f(x)\",\"note\":\"函數奇偶性計算式\"}\n",
+    "ts": "2026-04-30T06:46:07.899979+00:00",
+    "engine": "codex"
+  },
+  "image_3251a943565583.png": {
+    "classification": "formula",
+    "latex": "-10.17",
+    "note": "負小數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-10.17\",\"note\":\"負小數\"}\n",
+    "ts": "2026-04-30T06:46:08.226611+00:00",
+    "engine": "codex"
+  },
+  "image_2eb1469b4b9640.png": {
+    "classification": "formula",
+    "latex": "(0,0)",
+    "note": "座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0)\",\"note\":\"座標原點\"}\n",
+    "ts": "2026-04-30T06:46:08.599237+00:00",
+    "engine": "codex"
+  },
+  "image_33396eed846d85.png": {
+    "classification": "formula",
+    "latex": "y=x^3",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^3\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:46:11.336095+00:00",
+    "engine": "codex"
+  },
+  "image_361744cd668b82.png": {
+    "classification": "formula",
+    "latex": "y=x^3-4x",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^3-4x\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-04-30T06:46:12.335330+00:00",
+    "engine": "codex"
+  },
+  "image_3606c255c66c74.png": {
+    "classification": "formula",
+    "latex": "-x,-y",
+    "note": "有序對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-x,-y\",\"note\":\"有序對座標\"}\n",
+    "ts": "2026-04-30T06:46:13.984055+00:00",
+    "engine": "codex"
+  },
+  "image_38aedc5051ba42.png": {
+    "classification": "formula",
+    "latex": "B(-3,-2)",
+    "note": "點 B 的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B(-3,-2)\",\"note\":\"點 B 的座標\"}\n",
+    "ts": "2026-04-30T06:46:15.436049+00:00",
+    "engine": "codex"
+  },
+  "image_3a38ce3e2cab14.png": {
+    "classification": "formula",
+    "latex": "y=(x-2)^3-9(x-2)+1",
+    "note": "三次函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(x-2)^3-9(x-2)+1\",\"note\":\"三次函數式\"}\n",
+    "ts": "2026-04-30T06:46:16.603472+00:00",
+    "engine": "codex"
+  },
+  "image_43356ec4785350.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow",
+    "note": "右雙線箭頭",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow\",\"note\":\"右雙線箭頭\"}\n",
+    "ts": "2026-04-30T06:46:18.202051+00:00",
+    "engine": "codex"
+  },
+  "image_481253a5788b84.png": {
+    "classification": "formula",
+    "latex": "f(x)=ax^3+bx^2+cx+d",
+    "note": "三次多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=ax^3+bx^2+cx+d\",\"note\":\"三次多項式函數\"}\n",
+    "ts": "2026-04-30T06:46:21.056218+00:00",
+    "engine": "codex"
+  },
+  "image_4645276a7fde77.png": {
+    "classification": "formula",
+    "latex": "A(0,1)",
+    "note": "點A的座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(0,1)\",\"note\":\"點A的座標\"}\n",
+    "ts": "2026-04-30T06:46:23.291760+00:00",
+    "engine": "codex"
+  },
+  "image_43d19152862d68.png": {
+    "classification": "formula",
+    "latex": "(-1,-4)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,-4)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:46:25.334780+00:00",
+    "engine": "codex"
+  },
+  "image_48743837590537.png": {
+    "classification": "formula",
+    "latex": "f(2.01)=-2×(0.01)^3-9×(0.01)^2",
+    "note": "函數值的代入計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(2.01)=-2×(0.01)^3-9×(0.01)^2\",\"note\":\"函數值的代入計算式\"}\n",
+    "ts": "2026-04-30T06:46:28.528226+00:00",
+    "engine": "codex"
+  },
+  "image_48851fd11eaa2e.png": {
+    "classification": "formula",
+    "latex": "(a,b)",
+    "note": "ordered pair",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a,b)\",\"note\":\"ordered pair\"}\n",
+    "ts": "2026-04-30T06:46:28.789379+00:00",
+    "engine": "codex"
+  },
+  "image_4a2d17c5b0bb34.png": {
+    "classification": "formula",
+    "latex": "(2,8)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,8)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:46:29.434170+00:00",
+    "engine": "codex"
+  },
+  "image_4cba0a44ad93c3.png": {
+    "classification": "formula",
+    "latex": "\\left(-a,-b\\right)",
+    "note": "有序對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(-a,-b\\\\right)\",\"note\":\"有序對座標\"}\n",
+    "ts": "2026-04-30T06:46:30.658453+00:00",
+    "engine": "codex"
+  },
+  "image_5403508a23a7fe.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標示x、y軸與截點(±√3,0)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標示x、y軸與截點(±√3,0)\"}\n",
+    "ts": "2026-04-30T06:46:33.799323+00:00",
+    "engine": "codex"
+  },
+  "image_51a57cc8555c4d.png": {
+    "classification": "formula",
+    "latex": "(0,0)",
+    "note": "座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0)\",\"note\":\"座標原點\"}\n",
+    "ts": "2026-04-30T06:46:34.593360+00:00",
+    "engine": "codex"
+  },
+  "image_4dc6fd2910bab2.png": {
+    "classification": "formula",
+    "latex": "(0,0)",
+    "note": "座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0)\",\"note\":\"座標原點\"}\n",
+    "ts": "2026-04-30T06:46:35.076412+00:00",
+    "engine": "codex"
+  },
+  "image_57a569732ccbc7.png": {
+    "classification": "formula",
+    "latex": "=2(x-2)^3+4(x-2)+3",
+    "note": "多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=2(x-2)^3+4(x-2)+3\",\"note\":\"多項式表達式\"}\n",
+    "ts": "2026-04-30T06:46:36.751061+00:00",
+    "engine": "codex"
+  },
+  "image_5b249308449f43.png": {
+    "classification": "formula",
+    "latex": "y=(x-3)^2-4(x-3)-1",
+    "note": "二次函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(x-3)^2-4(x-3)-1\",\"note\":\"二次函數式\"}\n",
+    "ts": "2026-04-30T06:46:38.031400+00:00",
+    "engine": "codex"
+  },
+  "image_5ca4e6f5330cb2.png": {
+    "classification": "formula",
+    "latex": "f(x)=a(x+4)^3-2",
+    "note": "三次函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=a(x+4)^3-2\",\"note\":\"三次函數式\"}\n",
+    "ts": "2026-04-30T06:46:39.912383+00:00",
+    "engine": "codex"
+  },
+  "image_5b2c7317293565.png": {
+    "classification": "formula",
+    "latex": "g(x)=-(x-1)^3+3(x-1)+2",
+    "note": "三次函數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(x)=-(x-1)^3+3(x-1)+2\",\"note\":\"三次函數表達式\"}\n",
+    "ts": "2026-04-30T06:46:40.719655+00:00",
+    "engine": "codex"
+  },
+  "image_5fb4decd9db272.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 4a+p=-1",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 4a+p=-1\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:46:42.183364+00:00",
+    "engine": "codex"
+  },
+  "image_60591484a6edde.png": {
+    "classification": "formula",
+    "latex": "y=(x+2)^3",
+    "note": "三次函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(x+2)^3\",\"note\":\"三次函數式\"}\n",
+    "ts": "2026-04-30T06:46:43.333662+00:00",
+    "engine": "codex"
+  },
+  "image_5f6a1018e49dd6.png": {
+    "classification": "formula",
+    "latex": "f(x)=-(x-1)^3+7(x-1)+2",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-(x-1)^3+7(x-1)+2\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-04-30T06:46:45.905992+00:00",
+    "engine": "codex"
+  },
+  "image_60cad4f8494129.png": {
+    "classification": "formula",
+    "latex": "a=-1",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-1\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T06:46:46.875238+00:00",
+    "engine": "codex"
+  },
+  "image_62edea4eaf41d7.png": {
+    "classification": "formula",
+    "latex": "f(x)=x(x-2)(x+2)=x^3-4x",
+    "note": "多項式函數展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=x(x-2)(x+2)=x^3-4x\",\"note\":\"多項式函數展開式\"}\n",
+    "ts": "2026-04-30T06:46:47.055362+00:00",
+    "engine": "codex"
+  },
+  "image_6767d37cc5c443.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=ax^3",
+    "note": "三次函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=ax^3\",\"note\":\"三次函數公式\"}\n",
+    "ts": "2026-04-30T06:46:48.712404+00:00",
+    "engine": "codex"
+  },
+  "image_678a167ab80ed8.png": {
+    "classification": "formula",
+    "latex": "y=-x^3+1",
+    "note": "三次函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-x^3+1\",\"note\":\"三次函數方程式\"}\n",
+    "ts": "2026-04-30T06:46:50.041151+00:00",
+    "engine": "codex"
+  },
+  "image_686728c1c50be3.png": {
+    "classification": "formula",
+    "latex": "(2,8)",
+    "note": "ordered pair",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2,8)\",\"note\":\"ordered pair\"}\n",
+    "ts": "2026-04-30T06:46:50.726778+00:00",
+    "engine": "codex"
+  },
+  "image_67ef34bb44d6cf.png": {
+    "classification": "formula",
+    "latex": "q",
+    "note": "單一變數 q",
+    "raw": "{\"class\":\"formula\",\"latex\":\"q\",\"note\":\"單一變數 q\"}\n",
+    "ts": "2026-04-30T06:46:50.814279+00:00",
+    "engine": "codex"
+  },
+  "image_6da1b8d2b6f239.png": {
+    "classification": "formula",
+    "latex": "(x,y)",
+    "note": "ordered pair coordinates",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y)\",\"note\":\"ordered pair coordinates\"}\n",
+    "ts": "2026-04-30T06:46:54.614035+00:00",
+    "engine": "codex"
+  },
+  "image_6aaae5439c5ffd.png": {
+    "classification": "formula",
+    "latex": "(-a,-b)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-a,-b)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:46:55.020919+00:00",
+    "engine": "codex"
+  },
+  "image_6cda965b683490.png": {
+    "classification": "formula",
+    "latex": "f(x)=-x^3+3x^2+4x-4",
+    "note": "函數多項式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-x^3+3x^2+4x-4\",\"note\":\"函數多項式\"}\n",
+    "ts": "2026-04-30T06:46:55.523518+00:00",
+    "engine": "codex"
+  },
+  "image_6eab765f2d4f29.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=x(x-2)(x+2)",
+    "note": "函數多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=x(x-2)(x+2)\",\"note\":\"函數多項式表達式\"}\n",
+    "ts": "2026-04-30T06:46:57.511854+00:00",
+    "engine": "codex"
+  },
+  "image_722bc3cf3de2c2.png": {
+    "classification": "formula",
+    "latex": "y=-17x+24",
+    "note": "一次函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-17x+24\",\"note\":\"一次函數方程式\"}\n",
+    "ts": "2026-04-30T06:46:58.931747+00:00",
+    "engine": "codex"
+  },
+  "image_748a885e158277.png": {
+    "classification": "formula",
+    "latex": "d",
+    "note": "單一變數 d",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d\",\"note\":\"單一變數 d\"}\n",
+    "ts": "2026-04-30T06:46:59.906502+00:00",
+    "engine": "codex"
+  },
+  "image_7720efde4d6121.png": {
+    "classification": "formula",
+    "latex": "y=f(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-30T06:47:01.216326+00:00",
+    "engine": "codex"
+  },
+  "image_7286f9b444cccd.png": {
+    "classification": "formula",
+    "latex": "\\Gamma: y=f(x)=x^3-4x=x(x^2-4)",
+    "note": "函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma: y=f(x)=x^3-4x=x(x^2-4)\",\"note\":\"函數方程式\"}\n",
+    "ts": "2026-04-30T06:47:01.945331+00:00",
+    "engine": "codex"
+  },
+  "image_77852bd496442f.png": {
+    "classification": "formula",
+    "latex": "= -x\\left(x+\\sqrt{3}\\right)\\left(x-\\sqrt{3}\\right)",
+    "note": "多項式因式分解式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= -x\\\\left(x+\\\\sqrt{3}\\\\right)\\\\left(x-\\\\sqrt{3}\\\\right)\",\"note\":\"多項式因式分解式\"}\n",
+    "ts": "2026-04-30T06:47:05.328539+00:00",
+    "engine": "codex"
+  },
+  "image_79f690fd5b43d1.png": {
+    "classification": "formula",
+    "latex": "\\approx -10.17",
+    "note": "近似值 -10.17",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\approx -10.17\",\"note\":\"近似值 -10.17\"}\n",
+    "ts": "2026-04-30T06:47:06.026852+00:00",
+    "engine": "codex"
+  },
+  "image_78687d7e42a0e8.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標平面上的曲線Γ，含x、y軸與原點O",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標平面上的曲線Γ，含x、y軸與原點O\"}\n",
+    "ts": "2026-04-30T06:47:06.864233+00:00",
+    "engine": "codex"
+  },
+  "image_7c4cb60699149a.png": {
+    "classification": "formula",
+    "latex": "y=(x+2)^3-9(x+2)+1",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(x+2)^3-9(x+2)+1\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-04-30T06:47:07.020096+00:00",
+    "engine": "codex"
+  },
+  "image_7c57b9bb4b5832.png": {
+    "classification": "formula",
+    "latex": "y = g(x) = x(x-2)(x+2)+0.001",
+    "note": "純文字數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y = g(x) = x(x-2)(x+2)+0.001\",\"note\":\"純文字數學函數式\"}\n",
+    "ts": "2026-04-30T06:47:10.553135+00:00",
+    "engine": "codex"
+  },
+  "image_7dcb655700a927.png": {
+    "classification": "formula",
+    "latex": "y=2x^3+4x",
+    "note": "多項式函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2x^3+4x\",\"note\":\"多項式函數式\"}\n",
+    "ts": "2026-04-30T06:47:11.377981+00:00",
+    "engine": "codex"
+  },
+  "image_7f4f1386885b72.png": {
+    "classification": "formula",
+    "latex": "f(x)=-2x^3+3x^2-5x+4",
+    "note": "三次多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-2x^3+3x^2-5x+4\",\"note\":\"三次多項式函數\"}\n",
+    "ts": "2026-04-30T06:47:11.821737+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T06:47:13.913081+00:00",
+    "engine": "codex"
+  },
+  "image_800fc2120cd2d5.png": {
+    "classification": "formula",
+    "latex": "\\Gamma: y=f(x)=x^3-9x",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma: y=f(x)=x^3-9x\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-04-30T06:47:14.495839+00:00",
+    "engine": "codex"
+  },
+  "image_80d87f66915e0b.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-30T06:47:15.115127+00:00",
+    "engine": "codex"
+  },
+  "image_84b0225eea7690.png": {
+    "classification": "formula",
+    "latex": "\\Gamma: y=x(x^2-9)=x(x-3)(x+3)",
+    "note": "三次函數的因式分解式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma: y=x(x^2-9)=x(x-3)(x+3)\",\"note\":\"三次函數的因式分解式\"}\n",
+    "ts": "2026-04-30T06:47:17.476528+00:00",
+    "engine": "codex"
+  },
+  "image_84ce8a7f5bb1c7.png": {
+    "classification": "formula",
+    "latex": "b",
+    "note": "單一變數 b",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b\",\"note\":\"單一變數 b\"}\n",
+    "ts": "2026-04-30T06:47:18.046648+00:00",
+    "engine": "codex"
+  },
+  "image_85ed8e2a32a135.png": {
+    "classification": "formula",
+    "latex": "f(x)=2x^3+4x",
+    "note": "純函數多項式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=2x^3+4x\",\"note\":\"純函數多項式公式\"}\n",
+    "ts": "2026-04-30T06:47:18.637834+00:00",
+    "engine": "codex"
+  },
+  "image_869a97ab516154.png": {
+    "classification": "formula",
+    "latex": "y=f(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-30T06:47:21.206963+00:00",
+    "engine": "codex"
+  },
+  "image_86594ebf9bd5ea.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow a+p+2=8\\Rightarrow a+p=6",
+    "note": "代數等式推導",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow a+p+2=8\\\\Rightarrow a+p=6\",\"note\":\"代數等式推導\"}\n",
+    "ts": "2026-04-30T06:47:21.553966+00:00",
+    "engine": "codex"
+  },
+  "image_878af1163bd65c.png": {
+    "classification": "formula",
+    "latex": "=x(x-2)(x+2)",
+    "note": "純代數因式分解式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=x(x-2)(x+2)\",\"note\":\"純代數因式分解式\"}\n",
+    "ts": "2026-04-30T06:47:22.740839+00:00",
+    "engine": "codex"
+  },
+  "image_8793835021ac3c.png": {
+    "classification": "formula",
+    "latex": "\\Gamma: y=2x^3+4x=2x(x^2+2)",
+    "note": "曲線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma: y=2x^3+4x=2x(x^2+2)\",\"note\":\"曲線方程式\"}\n",
+    "ts": "2026-04-30T06:47:25.153711+00:00",
+    "engine": "codex"
+  },
+  "image_8cdbdf23ed6592.png": {
+    "classification": "formula",
+    "latex": "(x,y)",
+    "note": "ordered pair coordinates",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x,y)\",\"note\":\"ordered pair coordinates\"}\n",
+    "ts": "2026-04-30T06:47:27.664508+00:00",
+    "engine": "codex"
+  },
+  "image_8ee38b78ee80e2.png": {
+    "classification": "formula",
+    "latex": "(-1,-4)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,-4)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:47:27.838358+00:00",
+    "engine": "codex"
+  },
+  "image_8fe3f9b2e57ee0.png": {
+    "classification": "formula",
+    "latex": "-5",
+    "note": "負五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-5\",\"note\":\"負五\"}\n",
+    "ts": "2026-04-30T06:47:28.856901+00:00",
+    "engine": "codex"
+  },
+  "image_8b034f1902102a.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow f(-x)=2\\times(-x)^3+4\\times(-x)",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow f(-x)=2\\\\times(-x)^3+4\\\\times(-x)\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:47:30.238315+00:00",
+    "engine": "codex"
+  },
+  "image_90a41be57ae404.png": {
+    "classification": "formula",
+    "latex": "a>0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a>0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-30T06:47:31.139305+00:00",
+    "engine": "codex"
+  },
+  "image_9276f790ef0d1c.png": {
+    "classification": "formula",
+    "latex": "y=(1-x)^3",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=(1-x)^3\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:47:32.804805+00:00",
+    "engine": "codex"
+  },
+  "image_9469aeb996afa0.png": {
+    "classification": "formula",
+    "latex": "y=g(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=g(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-30T06:47:34.571834+00:00",
+    "engine": "codex"
+  },
+  "image_96395174163582.png": {
+    "classification": "formula",
+    "latex": "c<0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c<0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:47:36.021428+00:00",
+    "engine": "codex"
+  },
+  "image_9ab2c7a810ff07.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，含座標標示(-3,0)、(3,0)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，含座標標示(-3,0)、(3,0)\"}\n",
+    "ts": "2026-04-30T06:47:37.412033+00:00",
+    "engine": "codex"
+  },
+  "image_9b75ae33029162.png": {
+    "classification": "formula",
+    "latex": "y=x\\left(x^2+9\\right)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x\\\\left(x^2+9\\\\right)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:47:38.570848+00:00",
+    "engine": "codex"
+  },
+  "image_9765d8c0a57007.png": {
+    "classification": "formula",
+    "latex": "-y=x^3+9x\\Rightarrow y=-x^3-9x",
+    "note": "純數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-y=x^3+9x\\\\Rightarrow y=-x^3-9x\",\"note\":\"純數學式\"}\n",
+    "ts": "2026-04-30T06:47:39.046143+00:00",
+    "engine": "codex"
+  },
+  "image_9b9633e0726f54.png": {
+    "classification": "formula",
+    "latex": "y=f(x)=-x(x^2-3)",
+    "note": "函數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=f(x)=-x(x^2-3)\",\"note\":\"函數公式\"}\n",
+    "ts": "2026-04-30T06:47:40.965919+00:00",
+    "engine": "codex"
+  },
+  "image_9bbe68cb8b625c.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-30T06:47:42.621445+00:00",
+    "engine": "codex"
+  },
+  "image_9bbf33e2e5b200.png": {
+    "classification": "formula",
+    "latex": "(-2,3)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-2,3)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:47:43.958835+00:00",
+    "engine": "codex"
+  },
+  "image_9c0a6a93a9d1b3.png": {
+    "classification": "formula",
+    "latex": "(-a,-b)",
+    "note": "有序數對",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-a,-b)\",\"note\":\"有序數對\"}\n",
+    "ts": "2026-04-30T06:47:45.885967+00:00",
+    "engine": "codex"
+  },
+  "image_9f607b7053f481.png": {
+    "classification": "formula",
+    "latex": "y=2(x-2)^3+4(x-2)+3",
+    "note": "三次函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2(x-2)^3+4(x-2)+3\",\"note\":\"三次函數式\"}\n",
+    "ts": "2026-04-30T06:47:47.175956+00:00",
+    "engine": "codex"
+  },
+  "image_a0bdc56843c99f.png": {
+    "classification": "formula",
+    "latex": "y=x^3+9x",
+    "note": "純數學函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^3+9x\",\"note\":\"純數學函數式\"}\n",
+    "ts": "2026-04-30T06:47:48.284555+00:00",
+    "engine": "codex"
+  },
+  "image_9ff43affcdd0e6.png": {
+    "classification": "formula",
+    "latex": "\\left(x,-y\\right)",
+    "note": "有序對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(x,-y\\\\right)\",\"note\":\"有序對座標\"}\n",
+    "ts": "2026-04-30T06:47:48.599265+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T06:47:49.540608+00:00",
+    "engine": "codex"
+  },
+  "image_a626e14064845f.png": {
+    "classification": "formula",
+    "latex": "a<0",
+    "note": "不等式條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a<0\",\"note\":\"不等式條件\"}\n",
+    "ts": "2026-04-30T06:47:52.215103+00:00",
+    "engine": "codex"
+  },
+  "image_a426ad2514e100.png": {
+    "classification": "formula",
+    "latex": "(-1,-2)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,-2)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:47:52.627447+00:00",
+    "engine": "codex"
+  },
+  "image_a5adc996d3166b.png": {
+    "classification": "formula",
+    "latex": "A(0,1)\\Rightarrow 8a+2p+3=1",
+    "note": "代入點A座標得到方程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A(0,1)\\\\Rightarrow 8a+2p+3=1\",\"note\":\"代入點A座標得到方程\"}\n",
+    "ts": "2026-04-30T06:47:53.683698+00:00",
+    "engine": "codex"
+  },
+  "image_a95de5e41c80ef.png": {
+    "classification": "formula",
+    "latex": "f(x-2)+3",
+    "note": "函數平移式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x-2)+3\",\"note\":\"函數平移式\"}\n",
+    "ts": "2026-04-30T06:47:53.800689+00:00",
+    "engine": "codex"
+  },
+  "image_aa5cb55ed380e4.png": {
+    "classification": "formula",
+    "latex": "x",
+    "note": "單一變數 x",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x\",\"note\":\"單一變數 x\"}\n",
+    "ts": "2026-04-30T06:47:56.133282+00:00",
+    "engine": "codex"
+  },
+  "image_aae915367aa0e7.png": {
+    "classification": "formula",
+    "latex": "\\Gamma",
+    "note": "大寫希臘字母 Gamma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma\",\"note\":\"大寫希臘字母 Gamma\"}\n",
+    "ts": "2026-04-30T06:47:58.448330+00:00",
+    "engine": "codex"
+  },
+  "image_ab00e2f4a682e8.png": {
+    "classification": "formula",
+    "latex": "f(x)=-2x^3-12x^2-17x+1",
+    "note": "三次多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-2x^3-12x^2-17x+1\",\"note\":\"三次多項式函數\"}\n",
+    "ts": "2026-04-30T06:47:59.092568+00:00",
+    "engine": "codex"
+  },
+  "image_aaed3380ee8bad.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標示(-2,0)、(2,0)與Γ",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標示(-2,0)、(2,0)與Γ\"}\n",
+    "ts": "2026-04-30T06:47:59.802894+00:00",
+    "engine": "codex"
+  },
+  "image_ac6daea8533557.png": {
+    "classification": "formula",
+    "latex": "a(x-2)^3+b(x-2)^2+c(x-2)+d",
+    "note": "三次多項式的平移形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a(x-2)^3+b(x-2)^2+c(x-2)+d\",\"note\":\"三次多項式的平移形式\"}\n",
+    "ts": "2026-04-30T06:48:01.754451+00:00",
+    "engine": "codex"
+  },
+  "image_ad252dc139ff13.png": {
+    "classification": "formula",
+    "latex": "-17",
+    "note": "負整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-17\",\"note\":\"負整數\"}\n",
+    "ts": "2026-04-30T06:48:03.841267+00:00",
+    "engine": "codex"
+  },
+  "image_ae06b0c86a94e2.png": {
+    "classification": "formula",
+    "latex": "y=x^3+3x^2+3x-6=(x+1)^3-7",
+    "note": "多項式改寫為平移形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=x^3+3x^2+3x-6=(x+1)^3-7\",\"note\":\"多項式改寫為平移形式\"}\n",
+    "ts": "2026-04-30T06:48:03.993202+00:00",
+    "engine": "codex"
+  },
+  "image_b0b325a4e17fb3.png": {
+    "classification": "formula",
+    "latex": "y=2x^3",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2x^3\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:48:04.672383+00:00",
+    "engine": "codex"
+  },
+  "image_b11755fb68b70c.png": {
+    "classification": "formula",
+    "latex": "b=-12<0",
+    "note": "不等式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b=-12<0\",\"note\":\"不等式表達式\"}\n",
+    "ts": "2026-04-30T06:48:04.994614+00:00",
+    "engine": "codex"
+  },
+  "image_bb1a6f03287a26.png": {
+    "classification": "formula",
+    "latex": "\\Gamma",
+    "note": "希臘大寫字母Gamma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma\",\"note\":\"希臘大寫字母Gamma\"}\n",
+    "ts": "2026-04-30T06:48:08.037377+00:00",
+    "engine": "codex"
+  },
+  "image_bc19e50597aec2.png": {
+    "classification": "formula",
+    "latex": "=-(2x^{3}+4x)",
+    "note": "純代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=-(2x^{3}+4x)\",\"note\":\"純代數式\"}\n",
+    "ts": "2026-04-30T06:48:09.178139+00:00",
+    "engine": "codex"
+  },
+  "image_c02b298daa2d9c.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow -8a-2p+2=-4\\Rightarrow 4a+p=3",
+    "note": "代數等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow -8a-2p+2=-4\\\\Rightarrow 4a+p=3\",\"note\":\"代數等式化簡\"}\n",
+    "ts": "2026-04-30T06:48:09.834227+00:00",
+    "engine": "codex"
+  },
+  "image_b8373fd26699e1.png": {
+    "classification": "formula",
+    "latex": "\\Gamma",
+    "note": "大寫希臘字母 Gamma",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma\",\"note\":\"大寫希臘字母 Gamma\"}\n",
+    "ts": "2026-04-30T06:48:09.872079+00:00",
+    "engine": "codex"
+  },
+  "image_c1b473578be3ec.png": {
+    "classification": "formula",
+    "latex": "\\frac{-3}{3\\times(-2)}=\\frac{1}{2}",
+    "note": "分數與等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{-3}{3\\\\times(-2)}=\\\\frac{1}{2}\",\"note\":\"分數與等式\"}\n",
+    "ts": "2026-04-30T06:48:14.287379+00:00",
+    "engine": "codex"
+  },
+  "image_c0cd8461d0817a.png": {
+    "classification": "formula",
+    "latex": "b>0",
+    "note": "不等式 b 大於 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b>0\",\"note\":\"不等式 b 大於 0\"}\n",
+    "ts": "2026-04-30T06:48:14.677988+00:00",
+    "engine": "codex"
+  },
+  "image_c1209f55d79e1d.png": {
+    "classification": "formula",
+    "latex": "g(-x) \\ne -g(x)",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"g(-x) \\\\ne -g(x)\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:48:14.704303+00:00",
+    "engine": "codex"
+  },
+  "image_c26d21b20eba47.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow a+p=5",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow a+p=5\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:48:17.839374+00:00",
+    "engine": "codex"
+  },
+  "image_c783ea19bbe096.png": {
+    "classification": "formula",
+    "latex": "-10",
+    "note": "負數整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-10\",\"note\":\"負數整數\"}\n",
+    "ts": "2026-04-30T06:48:18.602029+00:00",
+    "engine": "codex"
+  },
+  "image_c3bb01ae6afc97.png": {
+    "classification": "formula",
+    "latex": "y=g(x)",
+    "note": "函數表示式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=g(x)\",\"note\":\"函數表示式\"}\n",
+    "ts": "2026-04-30T06:48:19.457672+00:00",
+    "engine": "codex"
+  },
+  "image_c4b7ed3256999c.png": {
+    "classification": "formula",
+    "latex": "c=-4>0",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"c=-4>0\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-30T06:48:21.324677+00:00",
+    "engine": "codex"
+  },
+  "image_cb79af6962d598.png": {
+    "classification": "formula",
+    "latex": "b-3>0",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"b-3>0\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T06:48:22.479881+00:00",
+    "engine": "codex"
+  },
+  "image_ccdea623b2fa86.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數符號\"}\n",
+    "ts": "2026-04-30T06:48:23.522639+00:00",
+    "engine": "codex"
+  },
+  "image_c794b631919c43.png": {
+    "classification": "formula",
+    "latex": "(a,b)",
+    "note": "有序數對",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a,b)\",\"note\":\"有序數對\"}\n",
+    "ts": "2026-04-30T06:48:23.658062+00:00",
+    "engine": "codex"
+  },
+  "image_cddd812efcafd1.png": {
+    "classification": "formula",
+    "latex": "\\Gamma: y=f(x)=-x^3+3x",
+    "note": "函數曲線方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Gamma: y=f(x)=-x^3+3x\",\"note\":\"函數曲線方程式\"}\n",
+    "ts": "2026-04-30T06:48:26.062881+00:00",
+    "engine": "codex"
+  },
+  "image_d54d64dbc1742a.png": {
+    "classification": "formula",
+    "latex": "y=-17(x-2)-10=-17x+24",
+    "note": "一次函數等式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-17(x-2)-10=-17x+24\",\"note\":\"一次函數等式化簡\"}\n",
+    "ts": "2026-04-30T06:48:27.060382+00:00",
+    "engine": "codex"
+  },
+  "image_d71410ffde61ce.png": {
+    "classification": "formula",
+    "latex": "f(x)=-2(x-2)^3-9(x-2)^2-17(x-2)-10",
+    "note": "多項式函數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=-2(x-2)^3-9(x-2)^2-17(x-2)-10\",\"note\":\"多項式函數\"}\n",
+    "ts": "2026-04-30T06:48:30.547776+00:00",
+    "engine": "codex"
+  },
+  "image_d9c089f904ed7e.png": {
+    "classification": "formula",
+    "latex": "-2",
+    "note": "負二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-2\",\"note\":\"負二\"}\n",
+    "ts": "2026-04-30T06:48:31.354921+00:00",
+    "engine": "codex"
+  },
+  "image_d96304138de530.png": {
+    "classification": "formula",
+    "latex": "(-a,-b)",
+    "note": "有序數對座標",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-a,-b)\",\"note\":\"有序數對座標\"}\n",
+    "ts": "2026-04-30T06:48:31.877115+00:00",
+    "engine": "codex"
+  },
+  "image_d642084044fcac.png": {
+    "classification": "formula",
+    "latex": "(1,2)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1,2)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:48:32.361359+00:00",
+    "engine": "codex"
+  },
+  "image_db1d31b0991d9e.png": {
+    "classification": "formula",
+    "latex": "(0,0)",
+    "note": "座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0)\",\"note\":\"座標原點\"}\n",
+    "ts": "2026-04-30T06:48:36.237801+00:00",
+    "engine": "codex"
+  },
+  "image_de61e4c9c8367b.png": {
+    "classification": "formula",
+    "latex": "a=-2",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-2\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T06:48:37.542892+00:00",
+    "engine": "codex"
+  },
+  "image_dbf9848c9addd2.png": {
+    "classification": "formula",
+    "latex": "-9",
+    "note": "負九",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-9\",\"note\":\"負九\"}\n",
+    "ts": "2026-04-30T06:48:37.557574+00:00",
+    "engine": "codex"
+  },
+  "image_db286d9c62e9a0.png": {
+    "classification": "formula",
+    "latex": "(a,b,c,d)=(-2,-9,-17,-10)",
+    "note": "有序四元組等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(a,b,c,d)=(-2,-9,-17,-10)\",\"note\":\"有序四元組等式\"}\n",
+    "ts": "2026-04-30T06:48:38.212945+00:00",
+    "engine": "codex"
+  },
+  "image_e0aa7fae13745f.png": {
+    "classification": "formula",
+    "latex": "f(x)=a(x-1)^3+p(x-1)+2",
+    "note": "函數多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=a(x-1)^3+p(x-1)+2\",\"note\":\"函數多項式表達式\"}\n",
+    "ts": "2026-04-30T06:48:41.531002+00:00",
+    "engine": "codex"
+  },
+  "image_e20ecd66829c3f.png": {
+    "classification": "formula",
+    "latex": "-14",
+    "note": "純數字負數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-14\",\"note\":\"純數字負數表達式\"}\n",
+    "ts": "2026-04-30T06:48:41.936536+00:00",
+    "engine": "codex"
+  },
+  "image_e171093038f5c9.png": {
+    "classification": "formula",
+    "latex": "(0,0)",
+    "note": "座標原點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(0,0)\",\"note\":\"座標原點\"}\n",
+    "ts": "2026-04-30T06:48:44.897882+00:00",
+    "engine": "codex"
+  },
+  "image_e351e534261628.png": {
+    "classification": "formula",
+    "latex": "(-1,8)",
+    "note": "座標點",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(-1,8)\",\"note\":\"座標點\"}\n",
+    "ts": "2026-04-30T06:48:45.797747+00:00",
+    "engine": "codex"
+  },
+  "image_e40d4fd755029c.png": {
+    "classification": "formula",
+    "latex": "y=-2x^3",
+    "note": "三次函數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-2x^3\",\"note\":\"三次函數式\"}\n",
+    "ts": "2026-04-30T06:48:46.138738+00:00",
+    "engine": "codex"
+  },
+  "image_e39dda00d1d6a8.png": {
+    "classification": "formula",
+    "latex": "=-f(x)",
+    "note": "純文字數學式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=-f(x)\",\"note\":\"純文字數學式\"}\n",
+    "ts": "2026-04-30T06:48:46.407012+00:00",
+    "engine": "codex"
+  },
+  "image_e5a2e9a9a38ff8.png": {
+    "classification": "formula",
+    "latex": "y=2x^3",
+    "note": "純數學公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=2x^3\",\"note\":\"純數學公式\"}\n",
+    "ts": "2026-04-30T06:48:48.191467+00:00",
+    "engine": "codex"
+  },
+  "image_e5f3debe7d6d8d.png": {
+    "classification": "formula",
+    "latex": "a=-1<0",
+    "note": "純數學不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a=-1<0\",\"note\":\"純數學不等式\"}\n",
+    "ts": "2026-04-30T06:48:49.276044+00:00",
+    "engine": "codex"
+  },
+  "image_eab9717cafe4ed.png": {
+    "classification": "formula",
+    "latex": "f(-x)=(-x)^3-4(-x)=-x^3+4x",
+    "note": "函數代入 -x 的化簡式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(-x)=(-x)^3-4(-x)=-x^3+4x\",\"note\":\"函數代入 -x 的化簡式\"}\n",
+    "ts": "2026-04-30T06:48:51.818438+00:00",
+    "engine": "codex"
+  },
+  "image_e8df15007b4993.png": {
+    "classification": "formula",
+    "latex": "-17\\times(0.01)-10",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"-17\\\\times(0.01)-10\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T06:48:52.240586+00:00",
+    "engine": "codex"
+  },
+  "image_eb0ae7f149942d.png": {
+    "classification": "formula",
+    "latex": "f(x)=a(x-4)^3-2",
+    "note": "三次函數平移形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=a(x-4)^3-2\",\"note\":\"三次函數平移形式\"}\n",
+    "ts": "2026-04-30T06:48:53.261171+00:00",
+    "engine": "codex"
+  },
+  "image_eb1d9ffc5d4e6f.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標示 y=f(x) 與截距",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標示 y=f(x) 與截距\"}\n",
+    "ts": "2026-04-30T06:48:54.969969+00:00",
+    "engine": "codex"
+  },
+  "image_ed0d613df4b7c1.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "坐標軸上的曲線圖，標有x、y、O與Γ",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"坐標軸上的曲線圖，標有x、y、O與Γ\"}\n",
+    "ts": "2026-04-30T06:48:56.673066+00:00",
+    "engine": "codex"
+  },
+  "image_ee79b3a6660ac5.png": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "函數圖形，標示 y=f(x)=ax^3, a<0",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"函數圖形，標示 y=f(x)=ax^3, a<0\"}\n",
+    "ts": "2026-04-30T06:48:56.978392+00:00",
+    "engine": "codex"
+  },
+  "image_f50a31d3234541.png": {
+    "classification": "formula",
+    "latex": "d=-4<0",
+    "note": "判別式小於0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"d=-4<0\",\"note\":\"判別式小於0\"}\n",
+    "ts": "2026-04-30T06:48:57.144044+00:00",
+    "engine": "codex"
+  },
+  "image_f909f93302c1c9.png": {
+    "classification": "formula",
+    "latex": "y=-x^3-9x",
+    "note": "三次函數方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"y=-x^3-9x\",\"note\":\"三次函數方程式\"}\n",
+    "ts": "2026-04-30T06:49:00.028421+00:00",
+    "engine": "codex"
+  },
+  "image_fc1b20d4846176.png": {
+    "classification": "formula",
+    "latex": "f(x)=a(x+2)^3+p(x+2)+3",
+    "note": "函數多項式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)=a(x+2)^3+p(x+2)+3\",\"note\":\"函數多項式表達式\"}\n",
+    "ts": "2026-04-30T06:49:01.071827+00:00",
+    "engine": "codex"
+  },
+  "image_fd9af5a3b68b42.png": {
+    "classification": "formula",
+    "latex": "f(x)",
+    "note": "函數記號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"f(x)\",\"note\":\"函數記號\"}\n",
+    "ts": "2026-04-30T06:49:01.712966+00:00",
+    "engine": "codex"
+  }
+}

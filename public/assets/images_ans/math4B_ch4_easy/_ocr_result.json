@@ -1,0 +1,1082 @@
+{
+  "image_03dc2bb9260f8a.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{6}=P(A)P(B)",
+    "note": "機率乘法關係式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{6}=P(A)P(B)\",\"note\":\"機率乘法關係式\"}\n",
+    "ts": "2026-04-30T01:12:00.601949+00:00",
+    "engine": "codex"
+  },
+  "image_04a983d892f36d.png": {
+    "classification": "formula",
+    "latex": "B=\\{1,2\\}",
+    "note": "集合B等於{1,2}",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=\\\\{1,2\\\\}\",\"note\":\"集合B等於{1,2}\"}\n",
+    "ts": "2026-04-30T01:12:00.778914+00:00",
+    "engine": "codex"
+  },
+  "image_065c3b429c5e66.png": {
+    "classification": "formula",
+    "latex": "\\frac{4}{5}",
+    "note": "分數四分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{4}{5}\",\"note\":\"分數四分之五\"}\n",
+    "ts": "2026-04-30T01:12:01.716952+00:00",
+    "engine": "codex"
+  },
+  "image_02583990015055.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-30T01:12:03.997475+00:00",
+    "engine": "codex"
+  },
+  "image_096aa78ace93c1.png": {
+    "classification": "formula",
+    "latex": "52",
+    "note": "純數字頁碼或題號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"52\",\"note\":\"純數字頁碼或題號\"}\n",
+    "ts": "2026-04-30T01:12:05.475509+00:00",
+    "engine": "codex"
+  },
+  "image_0c1b7b182adeff.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)\\ne P(A)P(B)",
+    "note": "機率事件不獨立的判斷式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)\\\\ne P(A)P(B)\",\"note\":\"機率事件不獨立的判斷式\"}\n",
+    "ts": "2026-04-30T01:12:06.688241+00:00",
+    "engine": "codex"
+  },
+  "image_0971c5fb620166.png": {
+    "classification": "formula",
+    "latex": "ca\\quad 1\\quad 25.42",
+    "note": "純文字數學標記",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ca\\\\quad 1\\\\quad 25.42\",\"note\":\"純文字數學標記\"}\n",
+    "ts": "2026-04-30T01:12:11.099527+00:00",
+    "engine": "codex"
+  },
+  "image_0eacfe737ad8be.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(A\\cap B)}{P(A)}=\\frac{\\frac{2}{36}}{\\frac{6}{36}}=\\frac{2}{6}=\\frac{1}{3}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{\\\\frac{2}{36}}{\\\\frac{6}{36}}=\\\\frac{2}{6}=\\\\frac{1}{3}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-30T01:12:11.501251+00:00",
+    "engine": "codex"
+  },
+  "image_128fb499e93b69.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-30T01:12:12.355090+00:00",
+    "engine": "codex"
+  },
+  "image_0f9908d94fed31.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{12}=\\frac{11}{12}",
+    "note": "分數等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{12}=\\\\frac{11}{12}\",\"note\":\"分數等式\"}\n",
+    "ts": "2026-04-30T01:12:13.490499+00:00",
+    "engine": "codex"
+  },
+  "image_138eef5fddf5ba.png": {
+    "classification": "formula",
+    "latex": "\\log\\left(\\frac{6}{5}\\right)^n \\ge \\log 3",
+    "note": "對數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\log\\\\left(\\\\frac{6}{5}\\\\right)^n \\\\ge \\\\log 3\",\"note\":\"對數不等式\"}\n",
+    "ts": "2026-04-30T01:12:17.414001+00:00",
+    "engine": "codex"
+  },
+  "image_170f7257d03ab5.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{1}{2}=\\frac{1}{4}+P(B)-\\frac{1}{4}P(B)=\\frac{1}{4}+\\frac{3}{4}P(B)",
+    "note": "機率代數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{1}{2}=\\\\frac{1}{4}+P(B)-\\\\frac{1}{4}P(B)=\\\\frac{1}{4}+\\\\frac{3}{4}P(B)\",\"note\":\"機率代數式\"}\n",
+    "ts": "2026-04-30T01:12:19.119543+00:00",
+    "engine": "codex"
+  },
+  "image_15a83dde30152c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-30T01:12:20.681265+00:00",
+    "engine": "codex"
+  },
+  "image_1850f52442062f.png": {
+    "classification": "formula",
+    "latex": "1-P(A\\cup B)=(1-P(A))(1-P(B))",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-P(A\\\\cup B)=(1-P(A))(1-P(B))\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:12:22.257641+00:00",
+    "engine": "codex"
+  },
+  "image_19891aa2ae510b.png": {
+    "classification": "formula",
+    "latex": "A'",
+    "note": "A prime",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A'\",\"note\":\"A prime\"}\n",
+    "ts": "2026-04-30T01:12:23.739420+00:00",
+    "engine": "codex"
+  },
+  "image_182694bd51b31e.png": {
+    "classification": "formula",
+    "latex": "A\\cap B \\ne \\varnothing",
+    "note": "集合交集非空",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B \\\\ne \\\\varnothing\",\"note\":\"集合交集非空\"}\n",
+    "ts": "2026-04-30T01:12:23.824147+00:00",
+    "engine": "codex"
+  },
+  "image_2056b231673bf3.png": {
+    "classification": "formula",
+    "latex": "A=\\{1,2,3\\}",
+    "note": "集合A列出三個元素",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\{1,2,3\\\\}\",\"note\":\"集合A列出三個元素\"}\n",
+    "ts": "2026-04-30T01:12:28.130897+00:00",
+    "engine": "codex"
+  },
+  "image_20f45868316dae.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=P(A)P(B)=\\frac{1}{4}P(B)",
+    "note": "機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=P(A)P(B)=\\\\frac{1}{4}P(B)\",\"note\":\"機率乘法公式\"}\n",
+    "ts": "2026-04-30T01:12:28.974946+00:00",
+    "engine": "codex"
+  },
+  "image_253bf56f97297d.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(A\\cap B)}{P(A)}=\\frac{\\frac{2}{36}}{\\frac{6}{36}}=\\frac{2}{6}=\\frac{1}{3}",
+    "note": "條件機率公式化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{\\\\frac{2}{36}}{\\\\frac{6}{36}}=\\\\frac{2}{6}=\\\\frac{1}{3}\",\"note\":\"條件機率公式化簡\"}\n",
+    "ts": "2026-04-30T01:12:30.154226+00:00",
+    "engine": "codex"
+  },
+  "image_22170fd83d0db8.png": {
+    "classification": "formula",
+    "latex": "P(B) \\neq 0",
+    "note": "條件機率中事件B機率非零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B) \\\\neq 0\",\"note\":\"條件機率中事件B機率非零\"}\n",
+    "ts": "2026-04-30T01:12:30.661479+00:00",
+    "engine": "codex"
+  },
+  "image_2548d89ea8fa94.png": {
+    "classification": "formula",
+    "latex": "A\\cap B=\\{1\\}",
+    "note": "集合交集等於單元素集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B=\\\\{1\\\\}\",\"note\":\"集合交集等於單元素集合\"}\n",
+    "ts": "2026-04-30T01:12:32.835182+00:00",
+    "engine": "codex"
+  },
+  "image_2b3350dd1a4a74.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-30T01:12:35.571651+00:00",
+    "engine": "codex"
+  },
+  "image_2a3c6ed64731e5.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B\\cap C)=0\\ne P(A)P(B)P(C)",
+    "note": "機率交集與乘積不相等",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B\\\\cap C)=0\\\\ne P(A)P(B)P(C)\",\"note\":\"機率交集與乘積不相等\"}\n",
+    "ts": "2026-04-30T01:12:36.310023+00:00",
+    "engine": "codex"
+  },
+  "image_2cdc7491d678ff.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-30T01:12:37.298114+00:00",
+    "engine": "codex"
+  },
+  "image_28b788aa3a4a5d.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{6}{5}\\right)^n \\ge 3",
+    "note": "指數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{6}{5}\\\\right)^n \\\\ge 3\",\"note\":\"指數不等式\"}\n",
+    "ts": "2026-04-30T01:12:37.775231+00:00",
+    "engine": "codex"
+  },
+  "image_2f3e3b8f12c4df.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數一六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數一六分之一\"}\n",
+    "ts": "2026-04-30T01:12:41.479477+00:00",
+    "engine": "codex"
+  },
+  "image_3232de10298a02.png": {
+    "classification": "formula",
+    "latex": "A\\cap B=\\varnothing",
+    "note": "集合交集為空集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B=\\\\varnothing\",\"note\":\"集合交集為空集合\"}\n",
+    "ts": "2026-04-30T01:12:42.360995+00:00",
+    "engine": "codex"
+  },
+  "image_2d7eafe35fcafc.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T01:12:42.532514+00:00",
+    "engine": "codex"
+  },
+  "image_2d7639ea2bf912.png": {
+    "classification": "formula",
+    "latex": "A=\\varnothing",
+    "note": "集合A為空集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\varnothing\",\"note\":\"集合A為空集合\"}\n",
+    "ts": "2026-04-30T01:12:46.868916+00:00",
+    "engine": "codex"
+  },
+  "image_397841d14e739d.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)",
+    "note": "條件機率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)\",\"note\":\"條件機率符號\"}\n",
+    "ts": "2026-04-30T01:12:47.271545+00:00",
+    "engine": "codex"
+  },
+  "image_3d6b62f9a8f2c3.png": {
+    "classification": "formula",
+    "latex": "\\left(\\frac{5}{6}\\right)^n \\le \\frac{1}{3}",
+    "note": "不等式公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(\\\\frac{5}{6}\\\\right)^n \\\\le \\\\frac{1}{3}\",\"note\":\"不等式公式\"}\n",
+    "ts": "2026-04-30T01:12:49.416367+00:00",
+    "engine": "codex"
+  },
+  "image_37008b1759007a.png": {
+    "classification": "formula",
+    "latex": "P(A)=0",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=0\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:12:49.673870+00:00",
+    "engine": "codex"
+  },
+  "image_41cdf87f524dc3.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)",
+    "note": "條件機率符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)\",\"note\":\"條件機率符號\"}\n",
+    "ts": "2026-04-30T01:12:53.376509+00:00",
+    "engine": "codex"
+  },
+  "image_45fe35432b44a2.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{12}",
+    "note": "分數五分之十二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{12}\",\"note\":\"分數五分之十二\"}\n",
+    "ts": "2026-04-30T01:12:53.764639+00:00",
+    "engine": "codex"
+  },
+  "image_407e3805f9d948.png": {
+    "classification": "formula",
+    "latex": "P(B\\cap C)=\\frac{1}{6}=P(B)P(C)",
+    "note": "機率乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\cap C)=\\\\frac{1}{6}=P(B)P(C)\",\"note\":\"機率乘法等式\"}\n",
+    "ts": "2026-04-30T01:12:54.246190+00:00",
+    "engine": "codex"
+  },
+  "image_4549815d74cf69.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數\"}\n",
+    "ts": "2026-04-30T01:12:55.000501+00:00",
+    "engine": "codex"
+  },
+  "image_4bb88bcf4b58f1.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T01:12:58.222460+00:00",
+    "engine": "codex"
+  },
+  "image_46bf82e6ebbe5c.png": {
+    "classification": "formula",
+    "latex": "P=\\frac{6!}{6^6}=\\frac{5}{324}<\\frac{1}{6}",
+    "note": "機率公式與不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=\\\\frac{6!}{6^6}=\\\\frac{5}{324}<\\\\frac{1}{6}\",\"note\":\"機率公式與不等式\"}\n",
+    "ts": "2026-04-30T01:12:59.444297+00:00",
+    "engine": "codex"
+  },
+  "image_464f6e3ec4c76e.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數三分之二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數三分之二\"}\n",
+    "ts": "2026-04-30T01:12:59.577336+00:00",
+    "engine": "codex"
+  },
+  "image_4c16e1ad2eb6d3.png": {
+    "classification": "formula",
+    "latex": "P(A \\cap B)=P(A)P(B\\mid A)",
+    "note": "條件機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A \\\\cap B)=P(A)P(B\\\\mid A)\",\"note\":\"條件機率乘法公式\"}\n",
+    "ts": "2026-04-30T01:13:02.178238+00:00",
+    "engine": "codex"
+  },
+  "image_51d2455277372b.png": {
+    "classification": "formula",
+    "latex": "P(\\text{甲})=\\frac{3}{10}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{甲})=\\\\frac{3}{10}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:13:02.884412+00:00",
+    "engine": "codex"
+  },
+  "image_55be463596e43d.png": {
+    "classification": "formula",
+    "latex": "B'",
+    "note": "點 B 的像或標記為 B prime",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B'\",\"note\":\"點 B 的像或標記為 B prime\"}\n",
+    "ts": "2026-04-30T01:13:05.893582+00:00",
+    "engine": "codex"
+  },
+  "image_54ac45d29d2139.png": {
+    "classification": "formula",
+    "latex": "A=\\varnothing",
+    "note": "集合A為空集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\varnothing\",\"note\":\"集合A為空集合\"}\n",
+    "ts": "2026-04-30T01:13:06.694964+00:00",
+    "engine": "codex"
+  },
+  "image_58b8c244a99a89.png": {
+    "classification": "formula",
+    "latex": "A \\ne \\varnothing",
+    "note": "集合A不等於空集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A \\\\ne \\\\varnothing\",\"note\":\"集合A不等於空集合\"}\n",
+    "ts": "2026-04-30T01:13:09.569425+00:00",
+    "engine": "codex"
+  },
+  "image_57646e05a16a41.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=P(A)+P(B)-P(A\\cap B)",
+    "note": "機率加法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=P(A)+P(B)-P(A\\\\cap B)\",\"note\":\"機率加法公式\"}\n",
+    "ts": "2026-04-30T01:13:11.720563+00:00",
+    "engine": "codex"
+  },
+  "image_5985fcf7eb6c34.png": {
+    "classification": "formula",
+    "latex": "B",
+    "note": "單一斜體變數B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\",\"note\":\"單一斜體變數B\"}\n",
+    "ts": "2026-04-30T01:13:11.906631+00:00",
+    "engine": "codex"
+  },
+  "image_5b0f09ad356484.png": {
+    "classification": "formula",
+    "latex": "\\ne P(A)+P(B)-P(A)P(B)",
+    "note": "機率公式不等式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\ne P(A)+P(B)-P(A)P(B)\",\"note\":\"機率公式不等式片段\"}\n",
+    "ts": "2026-04-30T01:13:13.746694+00:00",
+    "engine": "codex"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字9\"}\n",
+    "ts": "2026-04-30T01:13:15.858977+00:00",
+    "engine": "codex"
+  },
+  "image_5ea468e7e7a471.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "純數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"純數字\"}\n",
+    "ts": "2026-04-30T01:13:16.412217+00:00",
+    "engine": "codex"
+  },
+  "image_5ed21fa0cacfb6.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{1}{4}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{1}{4}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:13:17.249563+00:00",
+    "engine": "codex"
+  },
+  "image_6179223fcd1266.png": {
+    "classification": "formula",
+    "latex": "\\frac{15}{16}",
+    "note": "分數十五分之十六",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{15}{16}\",\"note\":\"分數十五分之十六\"}\n",
+    "ts": "2026-04-30T01:13:19.590863+00:00",
+    "engine": "codex"
+  },
+  "image_6a21b4f67c455a.png": {
+    "classification": "formula",
+    "latex": "0",
+    "note": "數字 0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"0\",\"note\":\"數字 0\"}\n",
+    "ts": "2026-04-30T01:13:21.670389+00:00",
+    "engine": "codex"
+  },
+  "image_62f9e431cc56f6.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=P(B)",
+    "note": "條件機率等於邊際機率",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=P(B)\",\"note\":\"條件機率等於邊際機率\"}\n",
+    "ts": "2026-04-30T01:13:22.146890+00:00",
+    "engine": "codex"
+  },
+  "image_68ebc98c4faca6.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-30T01:13:23.536232+00:00",
+    "engine": "codex"
+  },
+  "image_6b3b864c2f5925.png": {
+    "classification": "formula",
+    "latex": "A\\cap B=\\emptyset",
+    "note": "集合交集為空集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B=\\\\emptyset\",\"note\":\"集合交集為空集合\"}\n",
+    "ts": "2026-04-30T01:13:23.583875+00:00",
+    "engine": "codex"
+  },
+  "image_718a403f2e065f.png": {
+    "classification": "formula",
+    "latex": "P(B)>0",
+    "note": "機率條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)>0\",\"note\":\"機率條件\"}\n",
+    "ts": "2026-04-30T01:13:27.436596+00:00",
+    "engine": "codex"
+  },
+  "image_799cd6f29bccb0.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{4}",
+    "note": "分數四分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{4}\",\"note\":\"分數四分之一\"}\n",
+    "ts": "2026-04-30T01:13:28.273751+00:00",
+    "engine": "codex"
+  },
+  "image_72a4c6914d9ebc.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(A\\cap B)}{P(A)}=\\frac{\\frac{1}{2}\\times30\\%}{\\frac{1}{2}\\times30\\%+\\frac{1}{2}\\times20\\%}=\\frac{3}{5}",
+    "note": "條件機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(A\\\\cap B)}{P(A)}=\\\\frac{\\\\frac{1}{2}\\\\times30\\\\%}{\\\\frac{1}{2}\\\\times30\\\\%+\\\\frac{1}{2}\\\\times20\\\\%}=\\\\frac{3}{5}\",\"note\":\"條件機率計算式\"}\n",
+    "ts": "2026-04-30T01:13:28.570287+00:00",
+    "engine": "codex"
+  },
+  "image_7d63a01e59741a.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數六分之一\"}\n",
+    "ts": "2026-04-30T01:13:31.727826+00:00",
+    "engine": "codex"
+  },
+  "image_805bfcc07abd35.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{6}",
+    "note": "分數五分之六",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{6}\",\"note\":\"分數五分之六\"}\n",
+    "ts": "2026-04-30T01:13:32.224842+00:00",
+    "engine": "codex"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T01:13:34.371943+00:00",
+    "engine": "codex"
+  },
+  "image_732588047e6582.png": {
+    "classification": "formula",
+    "latex": "P(\\angle)=\\frac{3}{10}\\times\\frac{2}{9}+\\frac{7}{10}\\times\\frac{3}{9}=\\frac{27}{90}=\\frac{3}{10}",
+    "note": "機率計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\angle)=\\\\frac{3}{10}\\\\times\\\\frac{2}{9}+\\\\frac{7}{10}\\\\times\\\\frac{3}{9}=\\\\frac{27}{90}=\\\\frac{3}{10}\",\"note\":\"機率計算公式\"}\n",
+    "ts": "2026-04-30T01:13:34.632190+00:00",
+    "engine": "codex"
+  },
+  "image_845b1517242214.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=\\frac{1}{2}",
+    "note": "機率聯集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=\\\\frac{1}{2}\",\"note\":\"機率聯集公式\"}\n",
+    "ts": "2026-04-30T01:13:38.009553+00:00",
+    "engine": "codex"
+  },
+  "image_888b648b0e64a8.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}\\times\\frac{1}{2}=\\frac{1}{3}",
+    "note": "分數乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\\\\times\\\\frac{1}{2}=\\\\frac{1}{3}\",\"note\":\"分數乘法算式\"}\n",
+    "ts": "2026-04-30T01:13:39.671525+00:00",
+    "engine": "codex"
+  },
+  "image_88c0fe6d962297.png": {
+    "classification": "formula",
+    "latex": "A\\cap B=\\{3,5\\}",
+    "note": "集合交集等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\\\\cap B=\\\\{3,5\\\\}\",\"note\":\"集合交集等式\"}\n",
+    "ts": "2026-04-30T01:13:40.248076+00:00",
+    "engine": "codex"
+  },
+  "image_88b86cbac153b2.png": {
+    "classification": "formula",
+    "latex": "B\\cap C=\\{4\\}",
+    "note": "集合交集等於單元素集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B\\\\cap C=\\\\{4\\\\}\",\"note\":\"集合交集等於單元素集合\"}\n",
+    "ts": "2026-04-30T01:13:41.542516+00:00",
+    "engine": "codex"
+  },
+  "image_88eabfa16b9bac.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)",
+    "note": "機率：A聯集B",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)\",\"note\":\"機率：A聯集B\"}\n",
+    "ts": "2026-04-30T01:13:44.475057+00:00",
+    "engine": "codex"
+  },
+  "image_88c73b61435979.png": {
+    "classification": "formula",
+    "latex": "n \\ge \\frac{0.4771}{0.7781-0.6990}",
+    "note": "不等式分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n \\\\ge \\\\frac{0.4771}{0.7781-0.6990}\",\"note\":\"不等式分式\"}\n",
+    "ts": "2026-04-30T01:13:48.796089+00:00",
+    "engine": "codex"
+  },
+  "image_8b133da3c709c0.png": {
+    "classification": "formula",
+    "latex": "P=\\frac{3}{10}\\times\\frac{2}{9}+\\frac{7}{10}\\times\\frac{3}{9}=\\frac{27}{90}=\\frac{3}{10}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=\\\\frac{3}{10}\\\\times\\\\frac{2}{9}+\\\\frac{7}{10}\\\\times\\\\frac{3}{9}=\\\\frac{27}{90}=\\\\frac{3}{10}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-30T01:13:49.936443+00:00",
+    "engine": "codex"
+  },
+  "image_8cd6a9fb58533b.png": {
+    "classification": "formula",
+    "latex": "C_1^2\\times(\\frac{2}{3})(\\frac{1}{3})=\\frac{4}{9}",
+    "note": "純數學算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^2\\\\times(\\\\frac{2}{3})(\\\\frac{1}{3})=\\\\frac{4}{9}\",\"note\":\"純數學算式\"}\n",
+    "ts": "2026-04-30T01:13:51.418415+00:00",
+    "engine": "codex"
+  },
+  "image_8cdb37d13a7a07.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{2}",
+    "note": "分數二分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{2}\",\"note\":\"分數二分之一\"}\n",
+    "ts": "2026-04-30T01:13:53.134393+00:00",
+    "engine": "codex"
+  },
+  "image_8a5d1c8cb1486b.png": {
+    "classification": "formula",
+    "latex": "P(\\text{二正}\\mid\\text{至少一正})=\\frac{n(\\text{二正}\\cap\\text{至少一正})}{n(\\text{至少一正})}=\\frac{1}{3}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(\\\\text{二正}\\\\mid\\\\text{至少一正})=\\\\frac{n(\\\\text{二正}\\\\cap\\\\text{至少一正})}{n(\\\\text{至少一正})}=\\\\frac{1}{3}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-30T01:13:55.031270+00:00",
+    "engine": "codex"
+  },
+  "image_8f2b891f7710a0.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=0",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=0\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:13:56.098358+00:00",
+    "engine": "codex"
+  },
+  "image_92d56662ec6164.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-30T01:13:57.602370+00:00",
+    "engine": "codex"
+  },
+  "image_8ea61d046d563c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{12}",
+    "note": "分數 1/12",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{12}\",\"note\":\"分數 1/12\"}\n",
+    "ts": "2026-04-30T01:13:57.886589+00:00",
+    "engine": "codex"
+  },
+  "image_97f0d89af89cd0.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數一分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數一分之五\"}\n",
+    "ts": "2026-04-30T01:14:00.670823+00:00",
+    "engine": "codex"
+  },
+  "image_968218bca5c37b.png": {
+    "classification": "formula",
+    "latex": "P(B)=\\frac{1}{5}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B)=\\\\frac{1}{5}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:14:00.732770+00:00",
+    "engine": "codex"
+  },
+  "image_984b24375f5fe0.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{4}",
+    "note": "分數三分之四",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{4}\",\"note\":\"分數三分之四\"}\n",
+    "ts": "2026-04-30T01:14:01.793774+00:00",
+    "engine": "codex"
+  },
+  "image_9986c19c10c06e.png": {
+    "classification": "formula",
+    "latex": "P(A)=\\frac{1}{4}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)=\\\\frac{1}{4}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:14:03.849766+00:00",
+    "engine": "codex"
+  },
+  "image_9ce61da0ce31f2.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{9}",
+    "note": "分數二分之九",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{9}\",\"note\":\"分數二分之九\"}\n",
+    "ts": "2026-04-30T01:14:05.534550+00:00",
+    "engine": "codex"
+  },
+  "image_9f9e576e373ba2.png": {
+    "classification": "formula",
+    "latex": "1-\\left(\\frac{5}{6}\\right)^n \\ge \\frac{2}{3}",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-\\\\left(\\\\frac{5}{6}\\\\right)^n \\\\ge \\\\frac{2}{3}\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T01:14:07.311080+00:00",
+    "engine": "codex"
+  },
+  "image_9d22863c674196.png": {
+    "classification": "formula",
+    "latex": "A \\ne \\varnothing",
+    "note": "集合A不為空集合",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A \\\\ne \\\\varnothing\",\"note\":\"集合A不為空集合\"}\n",
+    "ts": "2026-04-30T01:14:07.491700+00:00",
+    "engine": "codex"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "單一數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"單一數字6\"}\n",
+    "ts": "2026-04-30T01:14:08.169613+00:00",
+    "engine": "codex"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "單一數字",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"單一數字\"}\n",
+    "ts": "2026-04-30T01:14:09.358673+00:00",
+    "engine": "codex"
+  },
+  "image_a646d000348ffb.png": {
+    "classification": "formula",
+    "latex": "B=\\{3,4\\}",
+    "note": "集合B包含3與4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=\\\\{3,4\\\\}\",\"note\":\"集合B包含3與4\"}\n",
+    "ts": "2026-04-30T01:14:11.923602+00:00",
+    "engine": "codex"
+  },
+  "image_a999a2eed3183e.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow A\\cap B=\\{3\\}",
+    "note": "集合交集結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow A\\\\cap B=\\\\{3\\\\}\",\"note\":\"集合交集結果\"}\n",
+    "ts": "2026-04-30T01:14:14.879247+00:00",
+    "engine": "codex"
+  },
+  "image_aaa349259a3a95.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow P(B)=\\frac{1}{3}",
+    "note": "機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow P(B)=\\\\frac{1}{3}\",\"note\":\"機率等式\"}\n",
+    "ts": "2026-04-30T01:14:16.216979+00:00",
+    "engine": "codex"
+  },
+  "image_abc88fa00476ac.png": {
+    "classification": "formula",
+    "latex": "\\frac{5}{6}",
+    "note": "分數五分之六",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{5}{6}\",\"note\":\"分數五分之六\"}\n",
+    "ts": "2026-04-30T01:14:18.288452+00:00",
+    "engine": "codex"
+  },
+  "image_a96d442798153d.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow P(A\\cap B)=P(A)P(B)=\\frac{1}{4}\\times\\frac{1}{3}=\\frac{1}{12}",
+    "note": "機率乘法公式計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow P(A\\\\cap B)=P(A)P(B)=\\\\frac{1}{4}\\\\times\\\\frac{1}{3}=\\\\frac{1}{12}\",\"note\":\"機率乘法公式計算\"}\n",
+    "ts": "2026-04-30T01:14:19.183186+00:00",
+    "engine": "codex"
+  },
+  "image_ae30ab9b19651f.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)=\\frac{P(A\\cap B)}{P(B)}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)=\\\\frac{P(A\\\\cap B)}{P(B)}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-30T01:14:20.900475+00:00",
+    "engine": "codex"
+  },
+  "image_b04d8d37b19419.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{6}",
+    "note": "交集機率等於六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{6}\",\"note\":\"交集機率等於六分之一\"}\n",
+    "ts": "2026-04-30T01:14:22.447652+00:00",
+    "engine": "codex"
+  },
+  "image_b6a4e743eeb01a.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow 1-P(A)-P(B)+P(A\\cap B)",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow 1-P(A)-P(B)+P(A\\\\cap B)\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:14:25.809450+00:00",
+    "engine": "codex"
+  },
+  "image_b96ef7783a5588.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{5}",
+    "note": "分數二分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{5}\",\"note\":\"分數二分之五\"}\n",
+    "ts": "2026-04-30T01:14:26.048153+00:00",
+    "engine": "codex"
+  },
+  "image_bad1b67c5978a6.png": {
+    "classification": "formula",
+    "latex": "\\frac{3}{5}",
+    "note": "分數三分之五",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{3}{5}\",\"note\":\"分數三分之五\"}\n",
+    "ts": "2026-04-30T01:14:26.576091+00:00",
+    "engine": "codex"
+  },
+  "image_b3c19a258eadc3.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{3}",
+    "note": "分數三分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{3}\",\"note\":\"分數三分之一\"}\n",
+    "ts": "2026-04-30T01:14:27.021088+00:00",
+    "engine": "codex"
+  },
+  "image_bff96e807bd7c0.png": {
+    "classification": "formula",
+    "latex": "B=\\{2,3,5\\}",
+    "note": "集合B的元素為2,3,5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"B=\\\\{2,3,5\\\\}\",\"note\":\"集合B的元素為2,3,5\"}\n",
+    "ts": "2026-04-30T01:14:31.466332+00:00",
+    "engine": "codex"
+  },
+  "image_c0433a4b968b6a.png": {
+    "classification": "formula",
+    "latex": "n(\\log 6-\\log 5)\\ge \\log 3",
+    "note": "對數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n(\\\\log 6-\\\\log 5)\\\\ge \\\\log 3\",\"note\":\"對數不等式\"}\n",
+    "ts": "2026-04-30T01:14:31.739723+00:00",
+    "engine": "codex"
+  },
+  "image_c2bf88976f49b9.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{6}",
+    "note": "分數六分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{6}\",\"note\":\"分數六分之一\"}\n",
+    "ts": "2026-04-30T01:14:32.047098+00:00",
+    "engine": "codex"
+  },
+  "image_c42c5096461b78.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{1}{6}=P(A)P(B)",
+    "note": "事件獨立的機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{1}{6}=P(A)P(B)\",\"note\":\"事件獨立的機率等式\"}\n",
+    "ts": "2026-04-30T01:14:33.763099+00:00",
+    "engine": "codex"
+  },
+  "image_c542279c1365ac.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-30T01:14:37.548803+00:00",
+    "engine": "codex"
+  },
+  "image_c61a37cd050246.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}\\times\\frac{1}{2}+\\frac{1}{3}\\times\\frac{2}{2}=\\frac{2}{3}",
+    "note": "分數乘法與加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\\\\times\\\\frac{1}{2}+\\\\frac{1}{3}\\\\times\\\\frac{2}{2}=\\\\frac{2}{3}\",\"note\":\"分數乘法與加法等式\"}\n",
+    "ts": "2026-04-30T01:14:39.016547+00:00",
+    "engine": "codex"
+  },
+  "image_c72b090236d3e3.png": {
+    "classification": "formula",
+    "latex": "n>4",
+    "note": "不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n>4\",\"note\":\"不等式\"}\n",
+    "ts": "2026-04-30T01:14:40.116759+00:00",
+    "engine": "codex"
+  },
+  "image_c77c8a228dc214.png": {
+    "classification": "formula",
+    "latex": "P(A)>0",
+    "note": "機率條件",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)>0\",\"note\":\"機率條件\"}\n",
+    "ts": "2026-04-30T01:14:42.045269+00:00",
+    "engine": "codex"
+  },
+  "image_c7e0b33ae29097.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)",
+    "note": "機率事件交集",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)\",\"note\":\"機率事件交集\"}\n",
+    "ts": "2026-04-30T01:14:43.361576+00:00",
+    "engine": "codex"
+  },
+  "image_c9d3f9ce62667c.png": {
+    "classification": "formula",
+    "latex": "A'",
+    "note": "帶撇號的字母A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A'\",\"note\":\"帶撇號的字母A\"}\n",
+    "ts": "2026-04-30T01:14:45.602077+00:00",
+    "engine": "codex"
+  },
+  "image_cb94b0f1c978cb.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)\\neq 0",
+    "note": "機率條件式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)\\\\neq 0\",\"note\":\"機率條件式\"}\n",
+    "ts": "2026-04-30T01:14:48.319964+00:00",
+    "engine": "codex"
+  },
+  "image_c8490f2d0569ba.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow P(A\\cap B)=P(A)P(B)",
+    "note": "機率乘法公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow P(A\\\\cap B)=P(A)P(B)\",\"note\":\"機率乘法公式\"}\n",
+    "ts": "2026-04-30T01:14:48.565287+00:00",
+    "engine": "codex"
+  },
+  "image_cc379018950023.png": {
+    "classification": "formula",
+    "latex": "1-(P(A)+P(B)-P(A\\cap B))",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-(P(A)+P(B)-P(A\\\\cap B))\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:14:48.887006+00:00",
+    "engine": "codex"
+  },
+  "image_d1083ad8e2031f.png": {
+    "classification": "formula",
+    "latex": "\\frac{11}{12}",
+    "note": "分數十一分之十二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{11}{12}\",\"note\":\"分數十一分之十二\"}\n",
+    "ts": "2026-04-30T01:14:52.724974+00:00",
+    "engine": "codex"
+  },
+  "image_cfcb0696415e19.png": {
+    "classification": "formula",
+    "latex": "\\left(A\\cup B\\right)'=A'\\cap B'",
+    "note": "集合的德摩根律",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\left(A\\\\cup B\\\\right)'=A'\\\\cap B'\",\"note\":\"集合的德摩根律\"}\n",
+    "ts": "2026-04-30T01:14:52.792514+00:00",
+    "engine": "codex"
+  },
+  "image_d36864b7eec2a6.png": {
+    "classification": "formula",
+    "latex": "26",
+    "note": "純數字26",
+    "raw": "{\"class\":\"formula\",\"latex\":\"26\",\"note\":\"純數字26\"}\n",
+    "ts": "2026-04-30T01:14:54.088168+00:00",
+    "engine": "codex"
+  },
+  "image_d10b8115c389fc.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{P(A\\cap B)}{P(A)}",
+    "note": "條件機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{P(A\\\\cap B)}{P(A)}\",\"note\":\"條件機率公式\"}\n",
+    "ts": "2026-04-30T01:14:55.287306+00:00",
+    "engine": "codex"
+  },
+  "image_df514bc810ca1e.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}",
+    "note": "分數二分之三",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\",\"note\":\"分數二分之三\"}\n",
+    "ts": "2026-04-30T01:14:59.248030+00:00",
+    "engine": "codex"
+  },
+  "image_dfe838c4f7a432.png": {
+    "classification": "formula",
+    "latex": "A=\\{1,3,5\\}",
+    "note": "集合A的元素為1、3、5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\{1,3,5\\\\}\",\"note\":\"集合A的元素為1、3、5\"}\n",
+    "ts": "2026-04-30T01:15:01.319986+00:00",
+    "engine": "codex"
+  },
+  "image_d434f4a9ede7b9.png": {
+    "classification": "formula",
+    "latex": "1-\\left(\\frac{1}{2}\\right)^n>\\frac{15}{16}",
+    "note": "指數不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1-\\\\left(\\\\frac{1}{2}\\\\right)^n>\\\\frac{15}{16}\",\"note\":\"指數不等式\"}\n",
+    "ts": "2026-04-30T01:15:01.471470+00:00",
+    "engine": "codex"
+  },
+  "image_d5d89a22807d5c.png": {
+    "classification": "formula",
+    "latex": "\\frac{P(A\\cap B)}{P(A)}=P(B)",
+    "note": "條件機率獨立事件公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{P(A\\\\cap B)}{P(A)}=P(B)\",\"note\":\"條件機率獨立事件公式\"}\n",
+    "ts": "2026-04-30T01:15:01.780764+00:00",
+    "engine": "codex"
+  },
+  "image_dfef880cb10818.png": {
+    "classification": "formula",
+    "latex": "P(A)\\ne 0",
+    "note": "機率不為零",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A)\\\\ne 0\",\"note\":\"機率不為零\"}\n",
+    "ts": "2026-04-30T01:15:03.616722+00:00",
+    "engine": "codex"
+  },
+  "image_e030d8822d6363.png": {
+    "classification": "formula",
+    "latex": "C=\\{4,5,6\\}",
+    "note": "集合C包含4、5、6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C=\\\\{4,5,6\\\\}\",\"note\":\"集合C包含4、5、6\"}\n",
+    "ts": "2026-04-30T01:15:07.302339+00:00",
+    "engine": "codex"
+  },
+  "image_e0e3b79a35f88b.png": {
+    "classification": "formula",
+    "latex": "=(1-P(A))(1-P(B))",
+    "note": "機率公式片段",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(1-P(A))(1-P(B))\",\"note\":\"機率公式片段\"}\n",
+    "ts": "2026-04-30T01:15:08.366831+00:00",
+    "engine": "codex"
+  },
+  "image_e177971387b2e3.png": {
+    "classification": "formula",
+    "latex": "\\frac{2}{3}\\times\\frac{2}{3}+\\frac{1}{3}\\times\\frac{2}{3}=\\frac{2}{3}",
+    "note": "分數乘法與加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{2}{3}\\\\times\\\\frac{2}{3}+\\\\frac{1}{3}\\\\times\\\\frac{2}{3}=\\\\frac{2}{3}\",\"note\":\"分數乘法與加法算式\"}\n",
+    "ts": "2026-04-30T01:15:09.816328+00:00",
+    "engine": "codex"
+  },
+  "image_e2b4601ab6fa56.png": {
+    "classification": "formula",
+    "latex": "P(B\\mid A)=\\frac{P(A\\cap B)}{P(A)}=P(B)\\ne 0",
+    "note": "條件機率與獨立事件公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(B\\\\mid A)=\\\\frac{P(A\\\\cap B)}{P(A)}=P(B)\\\\ne 0\",\"note\":\"條件機率與獨立事件公式\"}\n",
+    "ts": "2026-04-30T01:15:10.795166+00:00",
+    "engine": "codex"
+  },
+  "image_e2bb85863f0aef.png": {
+    "classification": "formula",
+    "latex": "(\\frac{1}{2})^n < \\frac{1}{16}",
+    "note": "不等式指數式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\frac{1}{2})^n < \\\\frac{1}{16}\",\"note\":\"不等式指數式\"}\n",
+    "ts": "2026-04-30T01:15:14.479598+00:00",
+    "engine": "codex"
+  },
+  "image_e455e4634342a2.png": {
+    "classification": "formula",
+    "latex": "P=\\frac{C^{26}_{2}}{C^{52}_{2}}=\\frac{25}{102}",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=\\\\frac{C^{26}_{2}}{C^{52}_{2}}=\\\\frac{25}{102}\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:15:14.770000+00:00",
+    "engine": "codex"
+  },
+  "image_eb590c2cf854dd.png": {
+    "classification": "formula",
+    "latex": "A",
+    "note": "單一變數 A",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A\",\"note\":\"單一變數 A\"}\n",
+    "ts": "2026-04-30T01:15:17.951751+00:00",
+    "engine": "codex"
+  },
+  "image_ecb522ba363565.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{12}",
+    "note": "分數一比十二",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{12}\",\"note\":\"分數一比十二\"}\n",
+    "ts": "2026-04-30T01:15:19.539550+00:00",
+    "engine": "codex"
+  },
+  "image_eb910bfbead252.png": {
+    "classification": "formula",
+    "latex": "P(A\\mid B)=P(B\\mid A)",
+    "note": "條件機率等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\mid B)=P(B\\\\mid A)\",\"note\":\"條件機率等式\"}\n",
+    "ts": "2026-04-30T01:15:20.356640+00:00",
+    "engine": "codex"
+  },
+  "image_f1d53dba877ed4.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{5}",
+    "note": "分數五分之一",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1}{5}\",\"note\":\"分數五分之一\"}\n",
+    "ts": "2026-04-30T01:15:24.064754+00:00",
+    "engine": "codex"
+  },
+  "image_f186bd18b5dd1c.png": {
+    "classification": "formula",
+    "latex": "P(A' \\cap B')=P(A')P(B')",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A' \\\\cap B')=P(A')P(B')\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:15:24.858684+00:00",
+    "engine": "codex"
+  },
+  "image_ed1dc55a1aa703.png": {
+    "classification": "formula",
+    "latex": "P=\\frac{3}{10}\\times\\frac{3}{10}+\\frac{7}{10}\\times\\frac{3}{10}=\\frac{30}{100}=\\frac{3}{10}",
+    "note": "機率計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P=\\\\frac{3}{10}\\\\times\\\\frac{3}{10}+\\\\frac{7}{10}\\\\times\\\\frac{3}{10}=\\\\frac{30}{100}=\\\\frac{3}{10}\",\"note\":\"機率計算式\"}\n",
+    "ts": "2026-04-30T01:15:25.017272+00:00",
+    "engine": "codex"
+  },
+  "image_f4d1902238e9dc.png": {
+    "classification": "formula",
+    "latex": "P(A\\cap B)=\\frac{2}{6}\\ne P(A)P(B)=\\frac{3}{6}\\times\\frac{3}{6}",
+    "note": "機率乘法不相等的公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cap B)=\\\\frac{2}{6}\\\\ne P(A)P(B)=\\\\frac{3}{6}\\\\times\\\\frac{3}{6}\",\"note\":\"機率乘法不相等的公式\"}\n",
+    "ts": "2026-04-30T01:15:30.544217+00:00",
+    "engine": "codex"
+  },
+  "image_f40b3f3fe8f5f7.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_1^2\\times C_1^1}{C_2^3}=\\frac{2}{3}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_1^2\\\\times C_1^1}{C_2^3}=\\\\frac{2}{3}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-30T01:15:31.120496+00:00",
+    "engine": "codex"
+  },
+  "image_f7dba03882d964.png": {
+    "classification": "formula",
+    "latex": "P(A\\cup B)=P(A)+P(B)-P(A)P(B)",
+    "note": "機率聯集公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P(A\\\\cup B)=P(A)+P(B)-P(A)P(B)\",\"note\":\"機率聯集公式\"}\n",
+    "ts": "2026-04-30T01:15:31.598827+00:00",
+    "engine": "codex"
+  },
+  "image_fad4ffb043247c.png": {
+    "classification": "formula",
+    "latex": "=1-P(A)-P(B)+P(A)P(B)",
+    "note": "機率公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=1-P(A)-P(B)+P(A)P(B)\",\"note\":\"機率公式\"}\n",
+    "ts": "2026-04-30T01:15:36.309905+00:00",
+    "engine": "codex"
+  },
+  "image_f87ff281af9b63.png": {
+    "classification": "formula",
+    "latex": "\\frac{0.4\\times0.3}{0.4\\times0.3+0.6\\times0.1}=\\frac{2}{3}",
+    "note": "機率分數計算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{0.4\\\\times0.3}{0.4\\\\times0.3+0.6\\\\times0.1}=\\\\frac{2}{3}\",\"note\":\"機率分數計算式\"}\n",
+    "ts": "2026-04-30T01:15:37.622099+00:00",
+    "engine": "codex"
+  },
+  "image_f317329edcb329.png": {
+    "classification": "formula",
+    "latex": "A=\\{1,3,5\\}",
+    "note": "集合A含1、3、5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"A=\\\\{1,3,5\\\\}\",\"note\":\"集合A含1、3、5\"}\n",
+    "ts": "2026-04-30T01:15:38.497824+00:00",
+    "engine": "codex"
+  }
+}

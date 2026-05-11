@@ -1,0 +1,1262 @@
+{
+  "image_037e0716870d59.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "3x3 方格網格",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"3x3 方格網格\"}\n",
+    "ts": "2026-04-26T13:54:13.237560+00:00"
+  },
+  "image_003de288dfb34c.png": {
+    "classification": "formula",
+    "latex": "405",
+    "note": "數字405",
+    "raw": "{\"class\":\"formula\",\"latex\":\"405\",\"note\":\"數字405\"}\n",
+    "ts": "2026-04-26T13:54:14.439616+00:00"
+  },
+  "image_01410ff06a5eed.png": {
+    "classification": "formula",
+    "latex": "C_1^1",
+    "note": "組合公式 C 1 取 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^1\",\"note\":\"組合公式 C 1 取 1\"}\n",
+    "ts": "2026-04-26T13:54:15.721998+00:00"
+  },
+  "image_006b6d66f54306.png": {
+    "classification": "formula",
+    "latex": "P_4^4 + P_4^5 + P_4^6 + \\cdots + P_4^{20}",
+    "note": "排列數 P 的連加式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_4^4 + P_4^5 + P_4^6 + \\\\cdots + P_4^{20}\",\"note\":\"排列數 P 的連加式\"}\n",
+    "ts": "2026-04-26T13:54:22.266678+00:00"
+  },
+  "image_0a37e4cceb4de8.png": {
+    "classification": "formula",
+    "latex": "C_4^{10}",
+    "note": "組合符號 C，上標 10 下標 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_4^{10}\",\"note\":\"組合符號 C，上標 10 下標 4\"}\n",
+    "ts": "2026-04-26T13:54:23.419010+00:00"
+  },
+  "image_0b53663dddaaca.png": {
+    "classification": "formula",
+    "latex": "2(C_0^9 + C_1^9 + C_2^9 + \\cdots + C_9^9)",
+    "note": "組合數求和公式的兩倍",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2(C_0^9 + C_1^9 + C_2^9 + \\cdots + C_9^9)\",\"note\":\"組合數求和公式的兩倍\"}\n",
+    "ts": "2026-04-26T13:54:28.676998+00:00"
+  },
+  "image_0f19c3999c945a.png": {
+    "classification": "formula",
+    "latex": "a_4 : a_{n-6} = 3 : 2",
+    "note": "数列項的比值",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4 : a_{n-6} = 3 : 2\",\"note\":\"数列項的比值\"}\n",
+    "ts": "2026-04-26T13:54:33.393384+00:00"
+  },
+  "image_0e8f645304402d.png": {
+    "classification": "formula",
+    "latex": "C_k^n = C_k^{n-1} + C_{k-1}^{n-1}",
+    "note": "巴斯卡定理公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_k^n = C_k^{n-1} + C_{k-1}^{n-1}\",\"note\":\"巴斯卡定理公式\"}\n",
+    "ts": "2026-04-26T13:54:34.768471+00:00"
+  },
+  "image_0b12130bbc9003.png": {
+    "classification": "formula",
+    "latex": "C_2^{10} \\times C_2^8 \\times C_2^6 \\times C_2^4 \\times C_2^2",
+    "note": "組合數相乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^{10} \\times C_2^8 \\times C_2^6 \\times C_2^4 \\times C_2^2\",\"note\":\"組合數相乘\"}\n",
+    "ts": "2026-04-26T13:54:38.489673+00:00"
+  },
+  "image_109b203c4b5938.png": {
+    "classification": "formula",
+    "latex": "C_2^5 \\times C_3^6 + C_3^5 \\times C_2^6",
+    "note": "組合數相乘後相加",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^5 \\times C_3^6 + C_3^5 \\times C_2^6\",\"note\":\"組合數相乘後相加\"}\n",
+    "ts": "2026-04-26T13:54:39.213419+00:00"
+  },
+  "image_1101a210cdcdb4.png": {
+    "classification": "formula",
+    "latex": "n^2-9n=0",
+    "note": "n 的二次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n^2-9n=0\",\"note\":\"n 的二次方程式\"}\n",
+    "ts": "2026-04-26T13:54:42.741324+00:00"
+  },
+  "image_12f037455f2d9b.png": {
+    "classification": "formula",
+    "latex": "781",
+    "note": "數字781",
+    "raw": "{\"class\":\"formula\",\"latex\":\"781\",\"note\":\"數字781\"}\n",
+    "ts": "2026-04-26T13:54:44.811072+00:00"
+  },
+  "image_144e8a30351d8c.png": {
+    "classification": "formula",
+    "latex": "C_{6}^{12}",
+    "note": "組合符號 C 12 取 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{6}^{12}\",\"note\":\"組合符號 C 12 取 6\"}\n",
+    "ts": "2026-04-26T13:54:50.708138+00:00"
+  },
+  "image_137c2b2fc497d9.png": {
+    "classification": "formula",
+    "latex": "C_{25}^{50} - C_{25}^{49} = C_{24}^{49}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{25}^{50} - C_{25}^{49} = C_{24}^{49}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-26T13:54:53.112465+00:00"
+  },
+  "image_150995716fd64f.png": {
+    "classification": "formula",
+    "latex": "\\mathbb{Z}",
+    "note": "整數集合符號 Z",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\mathbb{Z}\",\"note\":\"整數集合符號 Z\"}\n",
+    "ts": "2026-04-26T13:54:54.781872+00:00"
+  },
+  "image_15fef2f4ebab4b.png": {
+    "classification": "formula",
+    "latex": "C_5^6 = 6",
+    "note": "組合數運算式 C(6, 5) = 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^6 = 6\",\"note\":\"組合數運算式 C(6, 5) = 6\"}\n",
+    "ts": "2026-04-26T13:54:59.442256+00:00"
+  },
+  "image_17f88cf3e120b0.png": {
+    "classification": "formula",
+    "latex": "x^6 y^4",
+    "note": "數學項 x^6 y^4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^6 y^4\",\"note\":\"數學項 x^6 y^4\"}\n",
+    "ts": "2026-04-26T13:55:04.625135+00:00"
+  },
+  "image_16a6183cf3ad5a.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_4^{10} \\times C_2^6 \\times C_2^4 \\times C_2^2}{3!}",
+    "note": "包含組合數與階乘的除法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{C_4^{10} \\times C_2^6 \\times C_2^4 \\times C_2^2}{3!}\",\"note\":\"包含組合數與階乘的除法算式\"}\n",
+    "ts": "2026-04-26T13:55:07.379940+00:00"
+  },
+  "image_1679112665af44.png": {
+    "classification": "formula",
+    "latex": "(2x+1)^4 = C_0^4 \\times (2x)^4 + C_1^4(2x)^3 + C_2^4(2x)^2 + C_3^4(2x) + C_4^4 \\times 1^4",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(2x+1)^4 = C_0^4 \\times (2x)^4 + C_1^4(2x)^3 + C_2^4(2x)^2 + C_3^4(2x) + C_4^4 \\times 1^4\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-26T13:55:07.697081+00:00"
+  },
+  "image_186ecba22430c3.png": {
+    "classification": "formula",
+    "latex": "= C_{5}^{16}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_{5}^{16}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-26T13:55:11.583340+00:00"
+  },
+  "image_1e122827b24922.png": {
+    "classification": "formula",
+    "latex": "C_{19}^{n} x^{19}",
+    "note": "組合數與x的19次方項",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{19}^{n} x^{19}\",\"note\":\"組合數與x的19次方項\"}\n",
+    "ts": "2026-04-26T13:55:18.605614+00:00"
+  },
+  "image_1c602ebf2f5c98.png": {
+    "classification": "formula",
+    "latex": "=(1\\times 2!\\times 2!)\\times C_{1}^{3}\\times C_{1}^{3}=36",
+    "note": "階乘與組合數乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=(1\\times 2!\\times 2!)\\times C_{1}^{3}\\times C_{1}^{3}=36\",\"note\":\"階乘與組合數乘法運算\"}\n",
+    "ts": "2026-04-26T13:55:19.629630+00:00"
+  },
+  "image_19fa17cfde7213.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_3^{10}C_3^7C_2^4C_2^2}{2!2!}",
+    "note": "組合數的階乘分配運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_3^{10}C_3^7C_2^4C_2^2}{2!2!}\",\"note\":\"組合數的階乘分配運算\"}\n",
+    "ts": "2026-04-26T13:55:21.308487+00:00"
+  },
+  "image_1e24881c097dc4.png": {
+    "classification": "formula",
+    "latex": "3^5 = 243",
+    "note": "3的5次方等於243",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3^5 = 243\",\"note\":\"3的5次方等於243\"}\n",
+    "ts": "2026-04-26T13:55:21.864179+00:00"
+  },
+  "image_20f29265a2f088.png": {
+    "classification": "formula",
+    "latex": "C_3^6 C_1^3 C_2^2 = 60",
+    "note": "組合數乘積等於60",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^6 C_1^3 C_2^2 = 60\",\"note\":\"組合數乘積等於60\"}\n",
+    "ts": "2026-04-26T13:55:29.285632+00:00"
+  },
+  "image_2509378f0aa825.png": {
+    "classification": "formula",
+    "latex": "C_4^{10} = C_6^{10}",
+    "note": "組合數公式 C(10,4) = C(10,6)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_4^{10} = C_6^{10}\",\"note\":\"組合數公式 C(10,4) = C(10,6)\"}\n",
+    "ts": "2026-04-26T13:55:31.620991+00:00"
+  },
+  "image_251e4336f7a1af.png": {
+    "classification": "formula",
+    "latex": "C_3^{18}",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^{18}\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-26T13:55:31.845047+00:00"
+  },
+  "image_252c5d027cc7a2.png": {
+    "classification": "formula",
+    "latex": "C^{12}_{8} = C^{12}_{4}",
+    "note": "組合數性質示例",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{12}_{8} = C^{12}_{4}\",\"note\":\"組合數性質示例\"}\n",
+    "ts": "2026-04-26T13:55:35.368375+00:00"
+  },
+  "image_26e2e6928b351e.png": {
+    "classification": "formula",
+    "latex": "4^5 = 1024",
+    "note": "4的5次方等於1024",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4^5 = 1024\",\"note\":\"4的5次方等於1024\"}\n",
+    "ts": "2026-04-26T13:55:40.182421+00:00"
+  },
+  "image_2a60d902833b9c.jpeg": {
+    "classification": "mixed",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形內接三角形，附標籤(ii)",
+    "raw": "{\"class\":\"mixed\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形內接三角形，附標籤(ii)\"}\n",
+    "ts": "2026-04-26T13:55:42.826162+00:00"
+  },
+  "image_2d7eafe35fcafc.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字 3\"}\n",
+    "ts": "2026-04-26T13:55:45.024313+00:00"
+  },
+  "image_2c744cf46c470e.png": {
+    "classification": "formula",
+    "latex": "3 \\times C_{n-6}^n = 2 \\times C_4^n",
+    "note": "組合公式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3 \\times C_{n-6}^n = 2 \\times C_4^n\",\"note\":\"組合公式等式\"}\n",
+    "ts": "2026-04-26T13:55:45.746494+00:00"
+  },
+  "image_312bdc92f523a6.png": {
+    "classification": "formula",
+    "latex": "a_4 : a_{n-6} = C^n_4 : C^n_{n-6} = 3 : 2",
+    "note": "數列與組合比例公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"a_4 : a_{n-6} = C^n_4 : C^n_{n-6} = 3 : 2\",\"note\":\"數列與組合比例公式\"}\n",
+    "ts": "2026-04-26T13:55:52.797868+00:00"
+  },
+  "image_3415370f971485.png": {
+    "classification": "formula",
+    "latex": "20 + 80 = 100",
+    "note": "加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"20 + 80 = 100\",\"note\":\"加法算式\"}\n",
+    "ts": "2026-04-26T13:55:56.558106+00:00"
+  },
+  "image_3405e51361f183.png": {
+    "classification": "formula",
+    "latex": "C_{r}^{120}(\\sqrt{2})^{120-r}(\\sqrt[4]{3})^{r}=C_{r}^{120} \\times 2^{60-\\frac{r}{2}} \\times 3^{\\frac{r}{4}}",
+    "note": "二項式定理展開項的化簡",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{r}^{120}(\\sqrt{2})^{120-r}(\\sqrt[4]{3})^{r}=C_{r}^{120} \\times 2^{60-\\frac{r}{2}} \\times 3^{\\frac{r}{4}}\",\"note\":\"二項式定理展開項的化簡\"}\n",
+    "ts": "2026-04-26T13:55:58.378661+00:00"
+  },
+  "image_313891780e8cf1.png": {
+    "classification": "formula",
+    "latex": "C_0^{12} < C_1^{12} < C_2^{12} < \\cdots < C_6^{12}",
+    "note": "組合數的大小關係",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{12} < C_1^{12} < C_2^{12} < \\cdots < C_6^{12}\",\"note\":\"組合數的大小關係\"}\n",
+    "ts": "2026-04-26T13:55:59.207300+00:00"
+  },
+  "image_3564d23c053f5a.png": {
+    "classification": "formula",
+    "latex": "(1+x)^n = a_0 + a_1x + a_2x^2 + \\cdots + a_nx^n",
+    "note": "二項式展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(1+x)^n = a_0 + a_1x + a_2x^2 + \\cdots + a_nx^n\",\"note\":\"二項式展開式\"}\n",
+    "ts": "2026-04-26T13:56:07.601092+00:00"
+  },
+  "image_3750397461af7d.png": {
+    "classification": "formula",
+    "latex": "ABC",
+    "note": "数学字符ABC",
+    "raw": "{\"class\":\"formula\",\"latex\":\"ABC\",\"note\":\"数学字符ABC\"}\n",
+    "ts": "2026-04-26T13:56:08.902409+00:00"
+  },
+  "image_3614ab529b07c9.png": {
+    "classification": "formula",
+    "latex": "P^n_k = C^n_k \\times k!",
+    "note": "排列與組合的關係公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P^n_k = C^n_k \\\\times k!\",\"note\":\"排列與組合的關係公式\"}\n",
+    "ts": "2026-04-26T13:56:09.753977+00:00"
+  },
+  "image_3b374f1f8e17cc.png": {
+    "classification": "formula",
+    "latex": "C_3^9",
+    "note": "組合數 C 9 取 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^9\",\"note\":\"組合數 C 9 取 3\"}\n",
+    "ts": "2026-04-26T13:56:16.713806+00:00"
+  },
+  "image_3d2d6f50003528.png": {
+    "classification": "formula",
+    "latex": "C_{20}^{100} = C_{80}^{100}",
+    "note": "組合數相等公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{20}^{100} = C_{80}^{100}\",\"note\":\"組合數相等公式\"}\n",
+    "ts": "2026-04-26T13:56:20.977899+00:00"
+  },
+  "image_3c0bffe60da75f.png": {
+    "classification": "formula",
+    "latex": "(C_0^4 \\times 2^4)(C_5^5 \\times 2^5) + (C_1^4 \\times 2^3) \\times (C_4^5 \\times 2^4)",
+    "note": "組合與冪次的運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(C_0^4 \\times 2^4)(C_5^5 \\times 2^5) + (C_1^4 \\times 2^3) \\times (C_4^5 \\times 2^4)\",\"note\":\"組合與冪次的運算式\"}\n",
+    "ts": "2026-04-26T13:56:22.096609+00:00"
+  },
+  "image_3e43536a5efcde.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_4^{10}C_2^6C_2^4C_2^2}{3!}",
+    "note": "組合數與階乘的除法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_4^{10}C_2^6C_2^4C_2^2}{3!}\",\"note\":\"組合數與階乘的除法算式\"}\n",
+    "ts": "2026-04-26T13:56:25.221491+00:00"
+  },
+  "image_3fbde2eb172b31.png": {
+    "classification": "formula",
+    "latex": "C_0^9 + C_1^9 + C_2^9 + \\cdots + C_9^9",
+    "note": "組合數的級數和",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^9 + C_1^9 + C_2^9 + \\cdots + C_9^9\",\"note\":\"組合數的級數和\"}\n",
+    "ts": "2026-04-26T13:56:27.836286+00:00"
+  },
+  "image_42dd33bc8a7259.png": {
+    "classification": "formula",
+    "latex": "C_k^n",
+    "note": "組合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_k^n\",\"note\":\"組合符號\"}\n",
+    "ts": "2026-04-26T13:56:30.670485+00:00"
+  },
+  "image_465a57f72e09c8.png": {
+    "classification": "formula",
+    "latex": "C_3^7 = \\frac{7!}{3! \\times 4!}",
+    "note": "组合数公式计算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^7 = \\frac{7!}{3! \\times 4!}\",\"note\":\"组合数公式计算\"}\n",
+    "ts": "2026-04-26T13:56:33.364777+00:00"
+  },
+  "image_4bb88bcf4b58f1.png": {
+    "classification": "formula",
+    "latex": "5",
+    "note": "數字 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5\",\"note\":\"數字 5\"}\n",
+    "ts": "2026-04-26T13:56:41.619319+00:00"
+  },
+  "image_4aa800e21cff0d.png": {
+    "classification": "formula",
+    "latex": "C_3^7 \\times 3! = \\frac{7!}{4!}",
+    "note": "組合與階乘的計算等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^7 \\\\times 3! = \\\\frac{7!}{4!}\",\"note\":\"組合與階乘的計算等式\"}\n",
+    "ts": "2026-04-26T13:56:49.122897+00:00"
+  },
+  "image_4e69d2f5375e64.png": {
+    "classification": "formula",
+    "latex": "C_{50}^{99} + C_{49}^{99} = C_{50}^{100} \\neq C_{49}^{100}",
+    "note": "組合數的巴斯卡定理與不等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{50}^{99} + C_{49}^{99} = C_{50}^{100} \\neq C_{49}^{100}\",\"note\":\"組合數的巴斯卡定理與不等式\"}\n",
+    "ts": "2026-04-26T13:56:50.348878+00:00"
+  },
+  "image_4ef4ee965aea5f.png": {
+    "classification": "formula",
+    "latex": "C_{0}^{12}",
+    "note": "组合数 C(12, 0)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{0}^{12}\",\"note\":\"组合数 C(12, 0)\"}\n",
+    "ts": "2026-04-26T13:56:52.263661+00:00"
+  },
+  "image_47dcdadef69680.png": {
+    "classification": "formula",
+    "latex": "= C_{50}^{1000} + C_{49}^{999} + C_{48}^{998} + \\cdots + C_1^{951} + C_0^{950}",
+    "note": "組合數連加式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_{50}^{1000} + C_{49}^{999} + C_{48}^{998} + \\cdots + C_1^{951} + C_0^{950}\",\"note\":\"組合數連加式\"}\n",
+    "ts": "2026-04-26T13:56:56.695796+00:00"
+  },
+  "image_4fa51a2cb8b599.png": {
+    "classification": "formula",
+    "latex": "60",
+    "note": "數字 60",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60\",\"note\":\"數字 60\"}\n",
+    "ts": "2026-04-26T13:56:58.449782+00:00"
+  },
+  "image_502ba3c994a5fc.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形ABC，每條邊上有兩個點",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形ABC，每條邊上有兩個點\"}\n",
+    "ts": "2026-04-26T13:57:03.965579+00:00"
+  },
+  "image_4fb494649e091d.png": {
+    "classification": "formula",
+    "latex": "\\frac{7!}{3! \\times 4!}",
+    "note": "階乘的分式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{7!}{3! \\\\times 4!}\",\"note\":\"階乘的分式運算\"}\n",
+    "ts": "2026-04-26T13:57:06.365905+00:00"
+  },
+  "image_51f4df60bba214.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_2^{10}C_2^8C_2^6C_2^4C_2^2}{5!}",
+    "note": "組合數連續相乘後除以階乘的算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{C_2^{10}C_2^8C_2^6C_2^4C_2^2}{5!}\",\"note\":\"組合數連續相乘後除以階乘的算式\"}\n",
+    "ts": "2026-04-26T13:57:13.348903+00:00"
+  },
+  "image_5113b858fa21d5.png": {
+    "classification": "formula",
+    "latex": "C_2^6 \\times C_3^5 \\times 5! = 18000",
+    "note": "組合與階乘的乘積運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^6 \\times C_3^5 \\times 5! = 18000\",\"note\":\"組合與階乘的乘積運算\"}\n",
+    "ts": "2026-04-26T13:57:15.896548+00:00"
+  },
+  "image_5490c03f9fcf77.png": {
+    "classification": "formula",
+    "latex": "x^{14}y^5",
+    "note": "x^14 y^5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{14}y^5\",\"note\":\"x^14 y^5\"}\n",
+    "ts": "2026-04-26T13:57:16.281410+00:00"
+  },
+  "image_53b59b3fcbb668.png": {
+    "classification": "formula",
+    "latex": "P_5^{21}",
+    "note": "排列符號 P_5^{21}",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_5^{21}\",\"note\":\"排列符號 P_5^{21}\"}\n",
+    "ts": "2026-04-26T13:57:16.642355+00:00"
+  },
+  "image_54e16cab63d731.png": {
+    "classification": "formula",
+    "latex": "= 781",
+    "note": "等於 781",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 781\",\"note\":\"等於 781\"}\n",
+    "ts": "2026-04-26T13:57:23.526040+00:00"
+  },
+  "image_55fe6167a37171.png": {
+    "classification": "formula",
+    "latex": "(x+y)^{10}",
+    "note": "(x+y)的10次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+y)^{10}\",\"note\":\"(x+y)的10次方\"}\n",
+    "ts": "2026-04-26T13:57:27.167786+00:00"
+  },
+  "image_59d39d455a022c.png": {
+    "classification": "formula",
+    "latex": "n^2 - 9n + 20 = 20",
+    "note": "n的二次方程式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n^2 - 9n + 20 = 20\",\"note\":\"n的二次方程式\"}\n",
+    "ts": "2026-04-26T13:57:34.825030+00:00"
+  },
+  "image_5b15869c6074e9.png": {
+    "classification": "formula",
+    "latex": "24 \\times C^{21}_{4}",
+    "note": "24 乘以組合數 C(21, 4)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"24 \\times C^{21}_{4}\",\"note\":\"24 乘以組合數 C(21, 4)\"}\n",
+    "ts": "2026-04-26T13:57:36.484130+00:00"
+  },
+  "image_5750229b7ce0ba.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{18} = \\frac{18 \\times 17 \\times 16}{3 \\times 2 \\times 1} = 816",
+    "note": "組合數 C(18, 3) 的計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{18} = \\\\frac{18 \\\\times 17 \\\\times 16}{3 \\\\times 2 \\\\times 1} = 816\",\"note\":\"組合數 C(18, 3) 的計算\"}\n",
+    "ts": "2026-04-26T13:57:41.041266+00:00"
+  },
+  "image_5b1ff1e4555505.png": {
+    "classification": "formula",
+    "latex": "C_0^{10} + C_1^{11} + C_2^{12} + C_3^{13} + C_4^{14} + C_5^{15} = C_5^{16}",
+    "note": "組合數恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{10} + C_1^{11} + C_2^{12} + C_3^{13} + C_4^{14} + C_5^{15} = C_5^{16}\",\"note\":\"組合數恆等式\"}\n",
+    "ts": "2026-04-26T13:57:42.226736+00:00"
+  },
+  "image_5d9bd3849dde55.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字 9\"}\n",
+    "ts": "2026-04-26T13:57:44.264340+00:00"
+  },
+  "image_61d9b75a6c7007.png": {
+    "classification": "formula",
+    "latex": "C^6_3",
+    "note": "組合公式 C 6 取 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^6_3\",\"note\":\"組合公式 C 6 取 3\"}\n",
+    "ts": "2026-04-26T13:57:47.497862+00:00"
+  },
+  "image_64c55337a87a38.png": {
+    "classification": "formula",
+    "latex": "C_0^{10} = C_0^{11}",
+    "note": "組合符號等式 C_0^{10} = C_0^{11}",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{10} = C_0^{11}\",\"note\":\"組合符號等式 C_0^{10} = C_0^{11}\"}\n",
+    "ts": "2026-04-26T13:57:53.345277+00:00"
+  },
+  "image_67079a209bcd84.png": {
+    "classification": "formula",
+    "latex": "2 \\times 3 = 6",
+    "note": "乘法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2 \\times 3 = 6\",\"note\":\"乘法算式\"}\n",
+    "ts": "2026-04-26T13:57:54.422489+00:00"
+  },
+  "image_66cfc0738455ef.png": {
+    "classification": "formula",
+    "latex": "C_0^{11} + C_1^{11} + C_2^{12} + C_3^{13} + C_4^{14} + C_5^{15} = C_1^{12} + C_2^{12} + C_3^{13} + C_4^{14} + C_5^{15}",
+    "note": "組合數恆等式計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{11} + C_1^{11} + C_2^{12} + C_3^{13} + C_4^{14} + C_5^{15} = C_1^{12} + C_2^{12} + C_3^{13} + C_4^{14} + C_5^{15}\",\"note\":\"組合數恆等式計算過程\"}\n",
+    "ts": "2026-04-26T13:57:55.559160+00:00"
+  },
+  "image_6a1c78bbd53be1.png": {
+    "classification": "formula",
+    "latex": "C_{r}^{12}(x^{2})^{12-r}y^{r}=C_{r}^{12}x^{24-2r}y^{r}",
+    "note": "二項式定理展開項的化簡過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{r}^{12}(x^{2})^{12-r}y^{r}=C_{r}^{12}x^{24-2r}y^{r}\",\"note\":\"二項式定理展開項的化簡過程\"}\n",
+    "ts": "2026-04-26T13:57:58.684459+00:00"
+  },
+  "image_6a3f753a87d325.png": {
+    "classification": "formula",
+    "latex": "C_1^5 \\times C_4^6 = 5 \\times 15 = 75",
+    "note": "組合數計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^5 \\times C_4^6 = 5 \\times 15 = 75\",\"note\":\"組合數計算過程\"}\n",
+    "ts": "2026-04-26T13:58:04.051995+00:00"
+  },
+  "image_6c1c741b6a8b52.png": {
+    "classification": "formula",
+    "latex": "C_1^{10}",
+    "note": "組合公式 C 10 取 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^{10}\",\"note\":\"組合公式 C 10 取 1\"}\n",
+    "ts": "2026-04-26T13:58:10.462648+00:00"
+  },
+  "image_6be51001dd1fbd.png": {
+    "classification": "formula",
+    "latex": "C^{10}_{4}C^{6}_{3}C^{3}_{2}C^{1}_{1}",
+    "note": "連續組合的乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{10}_{4}C^{6}_{3}C^{3}_{2}C^{1}_{1}\",\"note\":\"連續組合的乘積\"}\n",
+    "ts": "2026-04-26T13:58:12.972046+00:00"
+  },
+  "image_6d987bf4a8a362.png": {
+    "classification": "formula",
+    "latex": "x^{12}y^6",
+    "note": "x的12次方乘以y的6次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{12}y^6\",\"note\":\"x的12次方乘以y的6次方\"}\n",
+    "ts": "2026-04-26T13:58:14.634129+00:00"
+  },
+  "image_6b8ac23d7e8f00.png": {
+    "classification": "formula",
+    "latex": "n = 0",
+    "note": "n=0",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n = 0\",\"note\":\"n=0\"}\n",
+    "ts": "2026-04-26T13:58:18.961151+00:00"
+  },
+  "image_70449dc9340b4a.png": {
+    "classification": "formula",
+    "latex": "1024",
+    "note": "數字 1024",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1024\",\"note\":\"數字 1024\"}\n",
+    "ts": "2026-04-26T13:58:23.882313+00:00"
+  },
+  "image_6ff7ed5e2fefa4.png": {
+    "classification": "formula",
+    "latex": "(\\sqrt{2} + \\sqrt[4]{3})^{120}",
+    "note": "包含四次方根的根式次方公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(\\\\sqrt{2} + \\\\sqrt[4]{3})^{120}\",\"note\":\"包含四次方根的根式次方公式\"}\n",
+    "ts": "2026-04-26T13:58:28.753397+00:00"
+  },
+  "image_6fb2cdc8088049.png": {
+    "classification": "formula",
+    "latex": "C^{10}_{4} = \\frac{10 \\times 9 \\times 8 \\times 7}{4 \\times 3 \\times 2 \\times 1} = 210",
+    "note": "組合數計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{10}_{4} = \\\\frac{10 \\\\times 9 \\\\times 8 \\\\times 7}{4 \\\\times 3 \\\\times 2 \\\\times 1} = 210\",\"note\":\"組合數計算過程\"}\n",
+    "ts": "2026-04-26T13:58:29.359740+00:00"
+  },
+  "image_78de1a14a60493.png": {
+    "classification": "formula",
+    "latex": "10",
+    "note": "數字 10",
+    "raw": "{\"class\":\"formula\",\"latex\":\"10\",\"note\":\"數字 10\"}\n",
+    "ts": "2026-04-26T13:58:33.878526+00:00"
+  },
+  "image_710273934d9b06.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "對稱的階梯狀線條圖形",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"對稱的階梯狀線條圖形\"}\n",
+    "ts": "2026-04-26T13:58:36.385769+00:00"
+  },
+  "image_797bf8ba51d83a.png": {
+    "classification": "formula",
+    "latex": "C^2_2 = 1",
+    "note": "組合數公式 C2取2等於1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^2_2 = 1\",\"note\":\"組合數公式 C2取2等於1\"}\n",
+    "ts": "2026-04-26T13:58:38.943542+00:00"
+  },
+  "image_7ab6ccd3d5868d.png": {
+    "classification": "formula",
+    "latex": "7",
+    "note": "數字 7",
+    "raw": "{\"class\":\"formula\",\"latex\":\"7\",\"note\":\"數字 7\"}\n",
+    "ts": "2026-04-26T13:58:39.415474+00:00"
+  },
+  "image_7cef80a282d131.png": {
+    "classification": "formula",
+    "latex": "(x^2 + y)^{12}",
+    "note": "(x^2 + y) 的 12 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x^2 + y)^{12}\",\"note\":\"(x^2 + y) 的 12 次方\"}\n",
+    "ts": "2026-04-26T13:58:47.697343+00:00"
+  },
+  "image_7cac17ef163cb5.png": {
+    "classification": "formula",
+    "latex": "C_k^n = C_{n-k}^n",
+    "note": "組合公式 C_k^n = C_{n-k}^n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_k^n = C_{n-k}^n\",\"note\":\"組合公式 C_k^n = C_{n-k}^n\"}\n",
+    "ts": "2026-04-26T13:58:49.547729+00:00"
+  },
+  "image_8075f06558403a.png": {
+    "classification": "formula",
+    "latex": "2",
+    "note": "數字 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"2\",\"note\":\"數字 2\"}\n",
+    "ts": "2026-04-26T13:58:58.092152+00:00"
+  },
+  "image_80a94488d23f4e.png": {
+    "classification": "formula",
+    "latex": "x^{24}",
+    "note": "x 的 24 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{24}\",\"note\":\"x 的 24 次方\"}\n",
+    "ts": "2026-04-26T13:58:59.367990+00:00"
+  },
+  "image_7e71a0775579e5.png": {
+    "classification": "formula",
+    "latex": "\\mathbb{N}",
+    "note": "自然數集合符號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\mathbb{N}\",\"note\":\"自然數集合符號\"}\n",
+    "ts": "2026-04-26T13:59:12.209357+00:00"
+  },
+  "image_822e3f87cd62dc.png": {
+    "classification": "formula",
+    "latex": "C_2^{10}",
+    "note": "組合符號 C 10 取 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^{10}\",\"note\":\"組合符號 C 10 取 2\"}\n",
+    "ts": "2026-04-26T13:59:15.168325+00:00"
+  },
+  "image_80411ffb4b4287.png": {
+    "classification": "formula",
+    "latex": "C_4^6 = 15",
+    "note": "組合數計算結果",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_4^6 = 15\",\"note\":\"組合數計算結果\"}\n",
+    "ts": "2026-04-26T13:59:17.145193+00:00"
+  },
+  "image_824e8afbfb179f.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "數字4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"數字4\"}\n",
+    "ts": "2026-04-26T13:59:22.158721+00:00"
+  },
+  "image_84ba947100ba5c.png": {
+    "classification": "formula",
+    "latex": "24 \\times C_{5}^{21}",
+    "note": "24乘以組合數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"24 \\times C_{5}^{21}\",\"note\":\"24乘以組合數\"}\n",
+    "ts": "2026-04-26T13:59:26.698429+00:00"
+  },
+  "image_8579b56ecdc82b.png": {
+    "classification": "formula",
+    "latex": "C_1^6 C_3^5 C_2^2 = 60",
+    "note": "組合數乘積計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^6 C_3^5 C_2^2 = 60\",\"note\":\"組合數乘積計算\"}\n",
+    "ts": "2026-04-26T13:59:28.240398+00:00"
+  },
+  "image_85c3d8a37a3eb2.png": {
+    "classification": "formula",
+    "latex": "C_7^{12} = C_5^{12}",
+    "note": "組合數性質公式 C(12,7) = C(12,5)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_7^{12} = C_5^{12}\",\"note\":\"組合數性質公式 C(12,7) = C(12,5)\"}\n",
+    "ts": "2026-04-26T13:59:34.499981+00:00"
+  },
+  "image_8186d8a35f4e6a.png": {
+    "classification": "formula",
+    "latex": "C^{99}_{50} + C^{99}_{49} = C^{100}_{49}",
+    "note": "組合數 C 的加法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{99}_{50} + C^{99}_{49} = C^{100}_{49}\",\"note\":\"組合數 C 的加法等式\"}\n",
+    "ts": "2026-04-26T13:59:36.448017+00:00"
+  },
+  "image_87848d11cbcc3e.png": {
+    "classification": "formula",
+    "latex": "125",
+    "note": "數字 125",
+    "raw": "{\"class\":\"formula\",\"latex\":\"125\",\"note\":\"數字 125\"}\n",
+    "ts": "2026-04-26T13:59:36.936738+00:00"
+  },
+  "image_88a61e08de5c74.png": {
+    "classification": "formula",
+    "latex": "4",
+    "note": "數字 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"4\",\"note\":\"數字 4\"}\n",
+    "ts": "2026-04-26T13:59:38.257766+00:00"
+  },
+  "image_8cc3c0a1e01e17.png": {
+    "classification": "formula",
+    "latex": "C_2^{10} + C_2^{10} = 45 + 45 = 90",
+    "note": "組合數相加計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^{10} + C_2^{10} = 45 + 45 = 90\",\"note\":\"組合數相加計算\"}\n",
+    "ts": "2026-04-26T13:59:46.677683+00:00"
+  },
+  "image_8e236799cf6521.png": {
+    "classification": "formula",
+    "latex": "C_1^2 \\times C_2^3 = 6",
+    "note": "組合數乘法計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^2 \\times C_2^3 = 6\",\"note\":\"組合數乘法計算\"}\n",
+    "ts": "2026-04-26T13:59:50.837238+00:00"
+  },
+  "image_8e2e84edf179d6.png": {
+    "classification": "formula",
+    "latex": "C_1^5 \\times 3^4 = 5 \\times 81 = 405",
+    "note": "組合與乘法運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^5 \\times 3^4 = 5 \\times 81 = 405\",\"note\":\"組合與乘法運算式\"}\n",
+    "ts": "2026-04-26T13:59:56.042650+00:00"
+  },
+  "image_8e80f37042b9f0.png": {
+    "classification": "formula",
+    "latex": "625",
+    "note": "數字625",
+    "raw": "{\"class\":\"formula\",\"latex\":\"625\",\"note\":\"數字625\"}\n",
+    "ts": "2026-04-26T13:59:56.644867+00:00"
+  },
+  "image_91516a89d989ff.png": {
+    "classification": "formula",
+    "latex": "C_4^4=1",
+    "note": "組合數公式 C(4,4)=1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_4^4=1\",\"note\":\"組合數公式 C(4,4)=1\"}\n",
+    "ts": "2026-04-26T14:00:02.415750+00:00"
+  },
+  "image_937b2a30dc2ec3.png": {
+    "classification": "formula",
+    "latex": "= C_{3}^{14} + C_{4}^{14} + C_{5}^{15}",
+    "note": "組合數的加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_{3}^{14} + C_{4}^{14} + C_{5}^{15}\",\"note\":\"組合數的加法算式\"}\n",
+    "ts": "2026-04-26T14:00:07.581682+00:00"
+  },
+  "image_95215b4e258da2.png": {
+    "classification": "formula",
+    "latex": "C_5^{21}",
+    "note": "組合數公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^{21}\",\"note\":\"組合數公式\"}\n",
+    "ts": "2026-04-26T14:00:08.013082+00:00"
+  },
+  "image_8d8f4f08dea3d3.png": {
+    "classification": "formula",
+    "latex": "C_6^{10} \\times 4! = P_4^{10}",
+    "note": "排列組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_6^{10} \\times 4! = P_4^{10}\",\"note\":\"排列組合公式\"}\n",
+    "ts": "2026-04-26T14:00:12.023264+00:00"
+  },
+  "image_954648e14725f0.png": {
+    "classification": "formula",
+    "latex": "= C_{4}^{15} + C_{5}^{15}",
+    "note": "組合數相加運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_{4}^{15} + C_{5}^{15}\",\"note\":\"組合數相加運算\"}\n",
+    "ts": "2026-04-26T14:00:14.902922+00:00"
+  },
+  "image_963a9c3c14542f.png": {
+    "classification": "formula",
+    "latex": "P_2^9",
+    "note": "排列符號 P，下標 2 上標 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_2^9\",\"note\":\"排列符號 P，下標 2 上標 9\"}\n",
+    "ts": "2026-04-26T14:00:18.412017+00:00"
+  },
+  "image_99b7664a823461.jpeg": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "三角形分割圖形與點，標記為(i)",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"三角形分割圖形與點，標記為(i)\"}\n",
+    "ts": "2026-04-26T14:00:19.828341+00:00"
+  },
+  "image_9aa6207491e1be.png": {
+    "classification": "formula",
+    "latex": "C_{5}^{11}-C_{5}^{6}=462-6=456",
+    "note": "組合數相減運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{5}^{11}-C_{5}^{6}=462-6=456\",\"note\":\"組合數相減運算\"}\n",
+    "ts": "2026-04-26T14:00:23.056565+00:00"
+  },
+  "image_9fa1ec15e04add.png": {
+    "classification": "formula",
+    "latex": "6",
+    "note": "數字6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"6\",\"note\":\"數字6\"}\n",
+    "ts": "2026-04-26T14:00:25.422120+00:00"
+  },
+  "image_a224c2f54a800a.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-26T14:00:29.117629+00:00"
+  },
+  "image_a42d62ea299403.png": {
+    "classification": "formula",
+    "latex": "(n-4)(n-5)",
+    "note": "数学表达式 (n-4)(n-5)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(n-4)(n-5)\",\"note\":\"数学表达式 (n-4)(n-5)\"}\n",
+    "ts": "2026-04-26T14:00:33.045282+00:00"
+  },
+  "image_a5ebade5c46c64.png": {
+    "classification": "formula",
+    "latex": "120",
+    "note": "數字120",
+    "raw": "{\"class\":\"formula\",\"latex\":\"120\",\"note\":\"數字120\"}\n",
+    "ts": "2026-04-26T14:00:35.175081+00:00"
+  },
+  "image_a92bca9ed04cf4.png": {
+    "classification": "formula",
+    "latex": "3",
+    "note": "數字3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3\",\"note\":\"數字3\"}\n",
+    "ts": "2026-04-26T14:00:42.409287+00:00"
+  },
+  "image_a3c6a46839f32b.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字 8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字 8\"}\n",
+    "ts": "2026-04-26T14:00:45.494859+00:00"
+  },
+  "image_a9e5c659a3f3cb.png": {
+    "classification": "formula",
+    "latex": "C_4^{10}",
+    "note": "組合符號 C 10 取 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_4^{10}\",\"note\":\"組合符號 C 10 取 4\"}\n",
+    "ts": "2026-04-26T14:00:47.641951+00:00"
+  },
+  "image_a7485aa3d13cc9.png": {
+    "classification": "formula",
+    "latex": "= C_1^{952} + C_2^{952} + \\cdots + C_{49}^{999} + C_{50}^{1000} = C_{50}^{1001} = \\frac{1001!}{50! \\times 951!}",
+    "note": "組合數級數求和及其階乘形式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_1^{952} + C_2^{952} + \\cdots + C_{49}^{999} + C_{50}^{1000} = C_{50}^{1001} = \\frac{1001!}{50! \\times 951!}\",\"note\":\"組合數級數求和及其階乘形式\"}\n",
+    "ts": "2026-04-26T14:00:58.096699+00:00"
+  },
+  "image_aa0dcf775be647.png": {
+    "classification": "formula",
+    "latex": "\\frac{1001!}{51! \\times 950!}",
+    "note": "階乘分數運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1001!}{51! \\\\times 950!}\",\"note\":\"階乘分數運算\"}\n",
+    "ts": "2026-04-26T14:00:58.248360+00:00"
+  },
+  "image_ac6c19ea85176d.png": {
+    "classification": "formula",
+    "latex": "C_5^7 - C_5^5 = 21 - 1 = 20",
+    "note": "組合數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^7 - C_5^5 = 21 - 1 = 20\",\"note\":\"組合數計算公式\"}\n",
+    "ts": "2026-04-26T14:00:58.758717+00:00"
+  },
+  "image_ab71bc4f7ebef0.png": {
+    "classification": "formula",
+    "latex": "C_2^{99} + C_3^{99} + C_4^{100} = C_3^{100} + C_4^{100} = C_4^{101}",
+    "note": "巴斯卡定理組合公式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^{99} + C_3^{99} + C_4^{100} = C_3^{100} + C_4^{100} = C_4^{101}\",\"note\":\"巴斯卡定理組合公式運算\"}\n",
+    "ts": "2026-04-26T14:01:00.160855+00:00"
+  },
+  "image_ad5ddbf1aeb673.png": {
+    "classification": "formula",
+    "latex": "C^5_3",
+    "note": "組合符號 C 5 取 3",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^5_3\",\"note\":\"組合符號 C 5 取 3\"}\n",
+    "ts": "2026-04-26T14:01:13.394583+00:00"
+  },
+  "image_ae1ab1cb64e474.png": {
+    "classification": "formula",
+    "latex": "C_5^7 - C_3^5 = 21 - 10 = 11",
+    "note": "組合數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_5^7 - C_3^5 = 21 - 10 = 11\",\"note\":\"組合數計算\"}\n",
+    "ts": "2026-04-26T14:01:15.714439+00:00"
+  },
+  "image_af8dd32c7667df.png": {
+    "classification": "formula",
+    "latex": "C_0^8 + C_1^8 x + C_2^8 x^2 + \\cdots + C_8^8 x^8",
+    "note": "二項式定理的展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^8 + C_1^8 x + C_2^8 x^2 + \\cdots + C_8^8 x^8\",\"note\":\"二項式定理的展開式\"}\n",
+    "ts": "2026-04-26T14:01:17.313129+00:00"
+  },
+  "image_ae640b96aa2863.png": {
+    "classification": "formula",
+    "latex": "(x+2)^5 = C_0^5 x^5 + C_1^5 x^4 \\times 2 + C_2^5 x^3 \\times 2^2 + C_3^5 x^2 \\times 2^3 + C_4^5 x \\times 2^4 + C_5^5 \\times 2^5",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"(x+2)^5 = C_0^5 x^5 + C_1^5 x^4 \\times 2 + C_2^5 x^3 \\times 2^2 + C_3^5 x^2 \\times 2^3 + C_4^5 x \\times 2^4 + C_5^5 \\times 2^5\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-26T14:01:24.670884+00:00"
+  },
+  "image_b4f44e840df8ba.png": {
+    "classification": "formula",
+    "latex": "P_6^{10} = C_6^{10} \\times 6!",
+    "note": "排列組合公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"P_6^{10} = C_6^{10} \\times 6!\",\"note\":\"排列組合公式\"}\n",
+    "ts": "2026-04-26T14:01:29.468161+00:00"
+  },
+  "image_b6dbf4b3d8c669.png": {
+    "classification": "formula",
+    "latex": "C^5_4",
+    "note": "組合數 C 5 取 4",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^5_4\",\"note\":\"組合數 C 5 取 4\"}\n",
+    "ts": "2026-04-26T14:01:33.805385+00:00"
+  },
+  "image_b3791a248e8aa2.png": {
+    "classification": "formula",
+    "latex": "C_6^{10}",
+    "note": "組合數 C 10 取 6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_6^{10}\",\"note\":\"組合數 C 10 取 6\"}\n",
+    "ts": "2026-04-26T14:01:36.593304+00:00"
+  },
+  "image_b9507254aea488.png": {
+    "classification": "formula",
+    "latex": "5^4 = 625",
+    "note": "5的4次方等於625",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5^4 = 625\",\"note\":\"5的4次方等於625\"}\n",
+    "ts": "2026-04-26T14:01:39.840841+00:00"
+  },
+  "image_b9a0b5104010ed.png": {
+    "classification": "formula",
+    "latex": "= 1024 - 243",
+    "note": "數學等式：1024 減 243",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 1024 - 243\",\"note\":\"數學等式：1024 減 243\"}\n",
+    "ts": "2026-04-26T14:01:44.287493+00:00"
+  },
+  "image_bae179930892ff.png": {
+    "classification": "formula",
+    "latex": "C_3^7 = \\frac{7!}{(7-3)! \\times 3!} = \\frac{7!}{4! \\times 3!}",
+    "note": "組合數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^7 = \\frac{7!}{(7-3)! \\times 3!} = \\frac{7!}{4! \\times 3!}\",\"note\":\"組合數計算公式\"}\n",
+    "ts": "2026-04-26T14:01:48.012992+00:00"
+  },
+  "image_b79594f06931bc.png": {
+    "classification": "formula",
+    "latex": "3 \\times \\frac{n!}{(n-6)! \\times 6!} = 2 \\times \\frac{n!}{4! \\times (n-4)!}",
+    "note": "組合數階乘公式化簡過程中的約分示意",
+    "raw": "{\"class\":\"formula\",\"latex\":\"3 \\times \\frac{n!}{(n-6)! \\times 6!} = 2 \\times \\frac{n!}{4! \\times (n-4)!}\",\"note\":\"組合數階乘公式化簡過程中的約分示意\"}\n",
+    "ts": "2026-04-26T14:01:48.561848+00:00"
+  },
+  "image_be1b2105a5adcc.png": {
+    "classification": "formula",
+    "latex": "C^8_3 = \\frac{8 \\times 7 \\times 6}{1 \\times 2 \\times 3} = 56",
+    "note": "組合數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^8_3 = \\\\frac{8 \\times 7 \\times 6}{1 \\times 2 \\times 3} = 56\",\"note\":\"組合數計算\"}\n",
+    "ts": "2026-04-26T14:01:59.423829+00:00"
+  },
+  "image_c0632c36b28b98.png": {
+    "classification": "formula",
+    "latex": "=120",
+    "note": "等於 120",
+    "raw": "{\"class\":\"formula\",\"latex\":\"=120\",\"note\":\"等於 120\"}\n",
+    "ts": "2026-04-26T14:02:00.407967+00:00"
+  },
+  "image_c13c93bad8cd8b.png": {
+    "classification": "formula",
+    "latex": "24 \\times P^{20}_{5}",
+    "note": "24乘以排列數P(20, 5)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"24 \\times P^{20}_{5}\",\"note\":\"24乘以排列數P(20, 5)\"}\n",
+    "ts": "2026-04-26T14:02:02.986953+00:00"
+  },
+  "image_bdb27d383fbdfa.png": {
+    "classification": "formula",
+    "latex": "\\frac{1000!}{49! \\times 952!}",
+    "note": "階乘的分式表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1000!}{49! \\\\times 952!}\",\"note\":\"階乘的分式表達式\"}\n",
+    "ts": "2026-04-26T14:02:07.871716+00:00"
+  },
+  "image_c195baffd2460d.png": {
+    "classification": "formula",
+    "latex": "8",
+    "note": "數字 8",
+    "raw": "{\"class\":\"formula\",\"latex\":\"8\",\"note\":\"數字 8\"}\n",
+    "ts": "2026-04-26T14:02:09.847277+00:00"
+  },
+  "image_c756b97a789eb1.png": {
+    "classification": "formula",
+    "latex": "x^8 y^8",
+    "note": "x的8次方乘以y的8次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^8 y^8\",\"note\":\"x的8次方乘以y的8次方\"}\n",
+    "ts": "2026-04-26T14:02:18.106391+00:00"
+  },
+  "image_c25e7d69d62160.png": {
+    "classification": "formula",
+    "latex": "C_0^{10} \\times C_3^8 + C_1^{10} \\times C_2^8 + C_2^{10} \\times C_1^8 + C_3^{10} \\times C_0^8 = C_3^{18}",
+    "note": "組合數乘積之和的恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_0^{10} \\times C_3^8 + C_1^{10} \\times C_2^8 + C_2^{10} \\times C_1^8 + C_3^{10} \\times C_0^8 = C_3^{18}\",\"note\":\"組合數乘積之和的恆等式\"}\n",
+    "ts": "2026-04-26T14:02:20.694681+00:00"
+  },
+  "image_c5ae1f7fcb3095.png": {
+    "classification": "formula",
+    "latex": "C_2^5 \\times C_1^3 \\times C_1^2 \\times C_1^1 = 60",
+    "note": "組合數連乘算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_2^5 \\times C_1^3 \\times C_1^2 \\times C_1^1 = 60\",\"note\":\"組合數連乘算式\"}\n",
+    "ts": "2026-04-26T14:02:24.659355+00:00"
+  },
+  "image_c9a7918895480f.png": {
+    "classification": "formula",
+    "latex": "n",
+    "note": "變數 n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"n\",\"note\":\"變數 n\"}\n",
+    "ts": "2026-04-26T14:02:30.571169+00:00"
+  },
+  "image_c9915438379ed0.png": {
+    "classification": "formula",
+    "latex": "= (全部的分法) - (甲不得)",
+    "note": "數學減法公式，包含中文標籤",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= (全部的分法) - (甲不得)\",\"note\":\"數學減法公式，包含中文標籤\"}\n",
+    "ts": "2026-04-26T14:02:31.424891+00:00"
+  },
+  "image_c98ef986bff077.png": {
+    "classification": "formula",
+    "latex": "= C_{0}^{951} + C_{1}^{951} + C_{2}^{952} + \\cdots + C_{49}^{999} + C_{50}^{1000}",
+    "note": "組合數連加公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_{0}^{951} + C_{1}^{951} + C_{2}^{952} + \\\\cdots + C_{49}^{999} + C_{50}^{1000}\",\"note\":\"組合數連加公式\"}\n",
+    "ts": "2026-04-26T14:02:33.173363+00:00"
+  },
+  "image_cea72d79d48ce6.png": {
+    "classification": "formula",
+    "latex": "60+60+20=140",
+    "note": "加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"60+60+20=140\",\"note\":\"加法算式\"}\n",
+    "ts": "2026-04-26T14:02:40.954812+00:00"
+  },
+  "image_ce8f27a682e39c.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_2^{10} \\times C_2^8 \\times C_2^6 \\times C_2^4 \\times C_2^2}{5!}",
+    "note": "組合數與階乘的運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{C_2^{10} \\times C_2^8 \\times C_2^6 \\times C_2^4 \\times C_2^2}{5!}\",\"note\":\"組合數與階乘的運算式\"}\n",
+    "ts": "2026-04-26T14:02:41.344904+00:00"
+  },
+  "image_cfa2d42f60be17.png": {
+    "classification": "formula",
+    "latex": "C_1^{18}=18",
+    "note": "組合公式 C_1^18 = 18",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^{18}=18\",\"note\":\"組合公式 C_1^18 = 18\"}\n",
+    "ts": "2026-04-26T14:02:43.872730+00:00"
+  },
+  "image_d2b26905b71525.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{6} \\times C_{3}^{5} = 150",
+    "note": "組合數乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{6} \\times C_{3}^{5} = 150\",\"note\":\"組合數乘法運算\"}\n",
+    "ts": "2026-04-26T14:02:44.847407+00:00"
+  },
+  "image_d5a5a0d29246ef.png": {
+    "classification": "formula",
+    "latex": "30+7=37",
+    "note": "加法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30+7=37\",\"note\":\"加法算式\"}\n",
+    "ts": "2026-04-26T14:02:53.121394+00:00"
+  },
+  "image_d33e3b99184abd.png": {
+    "classification": "formula",
+    "latex": "C_9^n x^9",
+    "note": "組合數與變數的乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_9^n x^9\",\"note\":\"組合數與變數的乘積\"}\n",
+    "ts": "2026-04-26T14:02:55.977704+00:00"
+  },
+  "image_d84ac2fcd11159.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{18} \\times C_{1}^{2} = 306",
+    "note": "組合數乘法運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{18} \\times C_{1}^{2} = 306\",\"note\":\"組合數乘法運算\"}\n",
+    "ts": "2026-04-26T14:03:06.169750+00:00"
+  },
+  "image_d6b50427ef26df.png": {
+    "classification": "formula",
+    "latex": "\\Rightarrow \\frac{r}{2} \\in \\mathbb{Z} 且 \\frac{r}{4} \\in \\mathbb{Z}",
+    "note": "r/2屬於整數且r/4屬於整數",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\Rightarrow \\\\frac{r}{2} \\\\in \\\\mathbb{Z} 且 \\\\frac{r}{4} \\\\in \\\\mathbb{Z}\",\"note\":\"r/2屬於整數且r/4屬於整數\"}\n",
+    "ts": "2026-04-26T14:03:06.523987+00:00"
+  },
+  "image_d6b6c767c917f8.png": {
+    "classification": "formula",
+    "latex": "C_1^2 \\times C_1^2 \\times C_1^2 = 8",
+    "note": "組合數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^2 \\times C_1^2 \\times C_1^2 = 8\",\"note\":\"組合數乘法等式\"}\n",
+    "ts": "2026-04-26T14:03:09.660692+00:00"
+  },
+  "image_d8d2a35056eb1f.png": {
+    "classification": "formula",
+    "latex": "C_{0}^{10} + C_{1}^{10}x + C_{2}^{10}x^{2} + \\cdots + C_{10}^{10}x^{10}",
+    "note": "二項式定理展開式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{0}^{10} + C_{1}^{10}x + C_{2}^{10}x^{2} + \\cdots + C_{10}^{10}x^{10}\",\"note\":\"二項式定理展開式\"}\n",
+    "ts": "2026-04-26T14:03:10.055173+00:00"
+  },
+  "image_e019377b48ae1d.png": {
+    "classification": "formula",
+    "latex": "9",
+    "note": "數字 9",
+    "raw": "{\"class\":\"formula\",\"latex\":\"9\",\"note\":\"數字 9\"}\n",
+    "ts": "2026-04-26T14:03:19.058457+00:00"
+  },
+  "image_ddcf767a796021.png": {
+    "classification": "formula",
+    "latex": "\\times",
+    "note": "乘號",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\times\",\"note\":\"乘號\"}\n",
+    "ts": "2026-04-26T14:03:19.925145+00:00"
+  },
+  "image_e052d4f49442fb.png": {
+    "classification": "formula",
+    "latex": "30",
+    "note": "數字 30",
+    "raw": "{\"class\":\"formula\",\"latex\":\"30\",\"note\":\"數字 30\"}\n",
+    "ts": "2026-04-26T14:03:20.578924+00:00"
+  },
+  "image_dee9852befbce4.png": {
+    "classification": "formula",
+    "latex": "\\frac{1001!}{50! \\times 951!}",
+    "note": "階乘分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1001!}{50! \\\\times 951!}\",\"note\":\"階乘分式\"}\n",
+    "ts": "2026-04-26T14:03:23.505079+00:00"
+  },
+  "image_e5b720f0aaf9e6.png": {
+    "classification": "formula",
+    "latex": "= 5",
+    "note": "等於 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= 5\",\"note\":\"等於 5\"}\n",
+    "ts": "2026-04-26T14:03:30.977084+00:00"
+  },
+  "image_e69532e091cdb6.png": {
+    "classification": "formula",
+    "latex": "C^{12}_{5}",
+    "note": "組合符號 C 12 取 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{12}_{5}\",\"note\":\"組合符號 C 12 取 5\"}\n",
+    "ts": "2026-04-26T14:03:35.894185+00:00"
+  },
+  "image_e12b9749c2314e.png": {
+    "classification": "formula",
+    "latex": "C_{3}^{20} = \\frac{20 \\times 19 \\times 18}{3 \\times 2 \\times 1} = 1140",
+    "note": "組合數計算公式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{3}^{20} = \\\\frac{20 \\\\times 19 \\\\times 18}{3 \\\\times 2 \\\\times 1} = 1140\",\"note\":\"組合數計算公式\"}\n",
+    "ts": "2026-04-26T14:03:37.668676+00:00"
+  },
+  "image_e459e776971cbf.png": {
+    "classification": "formula",
+    "latex": "C_3^6 C_3^3 = 20",
+    "note": "組合數計算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_3^6 C_3^3 = 20\",\"note\":\"組合數計算\"}\n",
+    "ts": "2026-04-26T14:03:43.166875+00:00"
+  },
+  "image_e69fee4cee5d35.png": {
+    "classification": "formula",
+    "latex": "C_{2}^{99} + C_{3}^{99} + C_{4}^{100} = C_{4}^{101}",
+    "note": "組合恆等式運算",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{2}^{99} + C_{3}^{99} + C_{4}^{100} = C_{4}^{101}\",\"note\":\"組合恆等式運算\"}\n",
+    "ts": "2026-04-26T14:03:43.773827+00:00"
+  },
+  "image_e7b9b212fc89c1.png": {
+    "classification": "formula",
+    "latex": "x^4 y^6",
+    "note": "x^4 y^6",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^4 y^6\",\"note\":\"x^4 y^6\"}\n",
+    "ts": "2026-04-26T14:03:46.198321+00:00"
+  },
+  "image_e850674108af0d.png": {
+    "classification": "formula",
+    "latex": "C^5_4 = 5",
+    "note": "組合公式 C 5 取 4 等於 5",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^5_4 = 5\",\"note\":\"組合公式 C 5 取 4 等於 5\"}\n",
+    "ts": "2026-04-26T14:03:49.915036+00:00"
+  },
+  "image_e86194d684101c.png": {
+    "classification": "formula",
+    "latex": "\\frac{1000!}{50! \\times 950!}",
+    "note": "階乘的分數表達式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1000!}{50! \\\\times 950!}\",\"note\":\"階乘的分數表達式\"}\n",
+    "ts": "2026-04-26T14:03:52.506278+00:00"
+  },
+  "image_ebc3ba400f6f96.png": {
+    "classification": "formula",
+    "latex": "1",
+    "note": "數字 1",
+    "raw": "{\"class\":\"formula\",\"latex\":\"1\",\"note\":\"數字 1\"}\n",
+    "ts": "2026-04-26T14:03:53.796122+00:00"
+  },
+  "image_ef86c98ca1d195.png": {
+    "classification": "formula",
+    "latex": "C^3_2",
+    "note": "組合公式 C 3 取 2",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^3_2\",\"note\":\"組合公式 C 3 取 2\"}\n",
+    "ts": "2026-04-26T14:03:57.548760+00:00"
+  },
+  "image_f369b003a2bd5a.png": {
+    "classification": "formula",
+    "latex": "5!",
+    "note": "5 的階乘",
+    "raw": "{\"class\":\"formula\",\"latex\":\"5!\",\"note\":\"5 的階乘\"}\n",
+    "ts": "2026-04-26T14:04:03.533292+00:00"
+  },
+  "image_f224b45a3c537d.png": {
+    "classification": "formula",
+    "latex": "C_1^2 \\times C_1^3 = 6",
+    "note": "組合數乘法等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_1^2 \\times C_1^3 = 6\",\"note\":\"組合數乘法等式\"}\n",
+    "ts": "2026-04-26T14:04:06.851858+00:00"
+  },
+  "image_f36e64dff57018.png": {
+    "classification": "formula",
+    "latex": "C^{11}_{5}=\\frac{11\\times 10\\times 9\\times 8\\times 7}{5\\times 4\\times 3\\times 2\\times 1}=462",
+    "note": "組合數計算過程",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C^{11}_{5}=\\\\frac{11\\\\times 10\\\\times 9\\\\times 8\\\\times 7}{5\\\\times 4\\\\times 3\\\\times 2\\\\times 1}=462\",\"note\":\"組合數計算過程\"}\n",
+    "ts": "2026-04-26T14:04:13.611631+00:00"
+  },
+  "image_f3b1a2d13a1403.png": {
+    "classification": "formula",
+    "latex": "C_{30}^{37} = C_7^{37}",
+    "note": "組合數性質：C(37, 30) = C(37, 7)",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{30}^{37} = C_7^{37}\",\"note\":\"組合數性質：C(37, 30) = C(37, 7)\"}\n",
+    "ts": "2026-04-26T14:04:18.412823+00:00"
+  },
+  "image_f52215186e4574.png": {
+    "classification": "formula",
+    "latex": "C_{25}^{49} + C_{24}^{49} = C_{25}^{50}",
+    "note": "組合公式恆等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{25}^{49} + C_{24}^{49} = C_{25}^{50}\",\"note\":\"組合公式恆等式\"}\n",
+    "ts": "2026-04-26T14:04:18.734120+00:00"
+  },
+  "image_efd39750f1f2ff.png": {
+    "classification": "formula",
+    "latex": "+(C_2^4 \\times 2^2)(C_3^5 \\times 2^3) + (C_3^4 \\times 2)(C_2^5 \\times 2^2) + (C_4^4 \\times 1^4)(C_1^5 \\times 2)",
+    "note": "包含組合數與冪次的級數運算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"+(C_2^4 \\times 2^2)(C_3^5 \\times 2^3) + (C_3^4 \\times 2)(C_2^5 \\times 2^2) + (C_4^4 \\times 1^4)(C_1^5 \\times 2)\",\"note\":\"包含組合數與冪次的級數運算式\"}\n",
+    "ts": "2026-04-26T14:04:21.156635+00:00"
+  },
+  "image_f67ed4281bc6bd.png": {
+    "classification": "formula",
+    "latex": "\\frac{1000!}{49! \\times 951!}",
+    "note": "階乘分式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\\\frac{1000!}{49! \\\\times 951!}\",\"note\":\"階乘分式\"}\n",
+    "ts": "2026-04-26T14:04:26.738876+00:00"
+  },
+  "image_fad56b1db90921.png": {
+    "classification": "formula",
+    "latex": "\\frac{1}{10} = \\frac{2}{(n-4)(n-5)}",
+    "note": "包含 n 的分式等式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{1}{10} = \\frac{2}{(n-4)(n-5)}\",\"note\":\"包含 n 的分式等式\"}\n",
+    "ts": "2026-04-26T14:04:31.263873+00:00"
+  },
+  "image_f8673a325d7efd.png": {
+    "classification": "formula",
+    "latex": "x^{10}y^{7}",
+    "note": "x 的 10 次方乘以 y 的 7 次方",
+    "raw": "{\"class\":\"formula\",\"latex\":\"x^{10}y^{7}\",\"note\":\"x 的 10 次方乘以 y 的 7 次方\"}\n",
+    "ts": "2026-04-26T14:04:36.513525+00:00"
+  },
+  "image_faec000459e319.png": {
+    "classification": "formula",
+    "latex": "C_{4}^{10} \\times C_{3}^{6} \\times C_{2}^{3} \\times C_{1}^{1}",
+    "note": "組合數乘積",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_{4}^{10} \\times C_{3}^{6} \\times C_{2}^{3} \\times C_{1}^{1}\",\"note\":\"組合數乘積\"}\n",
+    "ts": "2026-04-26T14:04:38.718073+00:00"
+  },
+  "image_fbddf3dc907bae.png": {
+    "classification": "formula",
+    "latex": "\\frac{C_3^{10} \\times C_3^7 \\times C_2^4 \\times C_2^2}{2!2!}",
+    "note": "組合與階乘的除法算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\frac{C_3^{10} \\times C_3^7 \\times C_2^4 \\times C_2^2}{2!2!}\",\"note\":\"組合與階乘的除法算式\"}\n",
+    "ts": "2026-04-26T14:04:45.428900+00:00"
+  },
+  "image_fdd8494e9895a4.png": {
+    "classification": "formula",
+    "latex": "\\underline{4!}",
+    "note": "4的階乘帶底線",
+    "raw": "{\"class\":\"formula\",\"latex\":\"\\underline{4!}\",\"note\":\"4的階乘帶底線\"}\n",
+    "ts": "2026-04-26T14:04:46.238055+00:00"
+  },
+  "image_ff1aa6649c29a6.png": {
+    "classification": "diagram",
+    "latex": "[KEEP_AS_IMAGE]",
+    "note": "插排法圖示，6個圓圈與7個可插入位置",
+    "raw": "{\"class\":\"diagram\",\"latex\":\"[KEEP_AS_IMAGE]\",\"note\":\"插排法圖示，6個圓圈與7個可插入位置\"}\n",
+    "ts": "2026-04-26T14:04:49.266688+00:00"
+  },
+  "image_ff2ac27239dbaf.png": {
+    "classification": "formula",
+    "latex": "= C_{2}^{13} + C_{3}^{13} + C_{4}^{14} + C_{5}^{15}",
+    "note": "組合數相加的算式",
+    "raw": "{\"class\":\"formula\",\"latex\":\"= C_{2}^{13} + C_{3}^{13} + C_{4}^{14} + C_{5}^{15}\",\"note\":\"組合數相加的算式\"}\n",
+    "ts": "2026-04-26T14:04:59.073128+00:00"
+  },
+  "image_fec56e06ad56f8.png": {
+    "classification": "formula",
+    "latex": "C_9^n = C_{19}^n",
+    "note": "組合公式 C_9^n = C_{19}^n",
+    "raw": "{\"class\":\"formula\",\"latex\":\"C_9^n = C_{19}^n\",\"note\":\"組合公式 C_9^n = C_{19}^n\"}\n",
+    "ts": "2026-04-26T14:05:11.625848+00:00"
+  }
+}
