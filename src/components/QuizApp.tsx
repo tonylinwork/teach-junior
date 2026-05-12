@@ -229,15 +229,15 @@ export function QuizApp({ onBack }: QuizAppProps) {
                             )}
                         </div>
 
-                        <div className="mb-12 flex flex-col items-center md:flex-row md:justify-between gap-6 relative">
-                            <div className="flex-1 text-center md:text-left">
+                        <div className="mb-12 space-y-6">
+                            <div className="max-w-4xl text-center md:text-left">
                                 <div className="flex items-center gap-3 mb-2 justify-center md:justify-start">
                                     <span className="flex items-center gap-1.5 rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-blue-600 border border-blue-100 uppercase tracking-wider">
                                         <Library className="h-3.5 w-3.5" />
                                         精選教材
                                     </span>
                                 </div>
-                                <h1 className="text-5xl font-black tracking-tight lg:text-7xl mb-6 text-slate-800 font-sans">
+                                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-normal leading-tight mb-4 text-slate-800 font-sans break-words">
                                     {quizData?.title || (isLoading ? '正在讀取...' : '尚無教材')}
                                 </h1>
                                 <p className="text-lg text-slate-500 max-w-2xl">
@@ -245,10 +245,9 @@ export function QuizApp({ onBack }: QuizAppProps) {
                                 </p>
                             </div>
 
-                            <div className="flex flex-wrap items-center gap-3">
-                                <FontSizeControl />
-
-                                <div className="flex items-center gap-2">
+                            <div className="flex flex-col gap-4 rounded-3xl border border-white/70 bg-white/75 p-4 shadow-sm backdrop-blur lg:flex-row lg:items-center lg:justify-between">
+                                <div className="flex min-w-0 flex-wrap items-center gap-3">
+                                    <FontSizeControl />
                                     {/* Chapter Selection from chapters.json */}
                                     <div className="relative group">
                                         <select
@@ -304,6 +303,7 @@ export function QuizApp({ onBack }: QuizAppProps) {
                                         </>
                                     )}
                                 </div>
+                                <div className="flex flex-wrap items-center gap-3">
                                 <button
                                     onClick={() => window.open('/#summary', '_blank')}
                                     className="flex items-center gap-2 rounded-2xl border border-slate-200 bg-white px-6 py-3 text-sm font-black text-slate-700 hover:border-indigo-400 hover:text-indigo-600 transition-all shadow-sm active:scale-95"
@@ -320,6 +320,7 @@ export function QuizApp({ onBack }: QuizAppProps) {
                                         匯入新章節
                                     </button>
                                 )}
+                                </div>
                             </div>
                         </div>
 
