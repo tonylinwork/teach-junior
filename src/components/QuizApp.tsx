@@ -12,6 +12,7 @@ import { MathRenderer } from '@/components/quiz/MathRenderer';
 
 interface QuizAppProps {
     onBack?: () => void;
+    initialBook?: string;
 }
 
 type ChapterOption = {
@@ -31,7 +32,7 @@ const parseChapterTitle = (chapter: { id: string; title: string }): ChapterOptio
     };
 };
 
-export function QuizApp({ onBack }: QuizAppProps) {
+export function QuizApp({ onBack, initialBook }: QuizAppProps) {
     const [chapters, setChapters] = useState<{ id: string, title: string }[]>([]);
     const [currentChapterId, setCurrentChapterId] = useState<string>('');
 
@@ -39,6 +40,15 @@ export function QuizApp({ onBack }: QuizAppProps) {
     const [isLoading, setIsLoading] = useState(true);
     const [answers, setAnswers] = useState<AnswerState>({});
     const [isImportOpen, setIsImportOpen] = useState(false);
+
+    const pickInitialChapter = (chaptersArray: { id: string, title: string }[]) => {
+        if (chaptersArray.length === 0) return '';
+        if (initialBook) {
+            const match = chaptersArray.find(ch => parseChapterTitle(ch).book === initialBook);
+            if (match) return match.id;
+        }
+        return chaptersArray[0].id;
+    };
 
     const fetchChapters = async () => {
         try {
@@ -48,7 +58,7 @@ export function QuizApp({ onBack }: QuizAppProps) {
             const chaptersArray = Array.isArray(data) ? data : [];
             setChapters(chaptersArray);
             if (chaptersArray.length > 0 && !currentChapterId) {
-                setCurrentChapterId(chaptersArray[0].id);
+                setCurrentChapterId(pickInitialChapter(chaptersArray));
             }
         } catch (err) {
             console.log('Falling back to static chapters.json');
@@ -57,7 +67,7 @@ export function QuizApp({ onBack }: QuizAppProps) {
                 const chaptersArray = (module.default || []) as { id: string, title: string }[];
                 setChapters(chaptersArray);
                 if (chaptersArray.length > 0 && !currentChapterId) {
-                    setCurrentChapterId(chaptersArray[0].id);
+                    setCurrentChapterId(pickInitialChapter(chaptersArray));
                 }
             } catch (staticErr) {
                 console.error('Failed to load static chapters:', staticErr);

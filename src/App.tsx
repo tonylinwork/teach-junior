@@ -8,6 +8,7 @@ const ChallengePage = lazy(() => import('@/components/ChallengePage').then(modul
 function App() {
     // Default to Landing Page
     const [view, setView] = useState<'landing' | 'app' | 'challenge'>('landing');
+    const [initialBook, setInitialBook] = useState<string | undefined>(undefined);
     const [hash, setHash] = useState(window.location.hash);
 
     useEffect(() => {
@@ -26,11 +27,11 @@ function App() {
         }} />;
     } else if (view === 'app') {
         // Simple router
-        content = <QuizApp onBack={() => setView('landing')} />;
+        content = <QuizApp onBack={() => setView('landing')} initialBook={initialBook} />;
     } else if (view === 'challenge') {
         content = <ChallengePage onBack={() => setView('landing')} />;
     } else {
-        content = <LandingPage onStart={() => setView('app')} onChallenge={() => setView('challenge')} />;
+        content = <LandingPage onStart={(book) => { setInitialBook(book); setView('app'); }} onChallenge={() => setView('challenge')} />;
     }
 
     return (

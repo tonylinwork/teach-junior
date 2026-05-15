@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { ArrowRight, BarChart3, BookOpen, ClipboardCheck, GraduationCap, Trophy, Zap } from 'lucide-react';
 
 interface LandingPageProps {
-    onStart: () => void;
+    onStart: (book?: string) => void;
     onChallenge: () => void;
 }
 
@@ -122,7 +122,7 @@ export function LandingPage({ onStart, onChallenge }: LandingPageProps) {
                                 {books.map(book => (
                                     <button
                                         key={book}
-                                        onClick={onStart}
+                                        onClick={() => onStart(book)}
                                         className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-left font-black text-slate-700 transition hover:border-indigo-200 hover:bg-indigo-50 hover:text-indigo-700"
                                     >
                                         {book}
