@@ -64,7 +64,7 @@
           "id": "g3a_ch2_2_q7",
           "number": 7,
           "type": "single_choice",
-          "content": "<p>直徑 AB 所對圓周角 ∠ACB 為？</p><p>A. 90°</p><p>B. 45°</p><p>C. 60°</p><p>D. 180°</p>",
+          "content": "<p>直徑 $\\overline{AB}$ 所對圓周角 $\\angle ACB$ 為？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 220\" width=\"280\" height=\"195\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"直徑所對圓周角示意圖\"><rect width=\"320\" height=\"220\" fill=\"#fff\"/><circle cx=\"160\" cy=\"130\" r=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"90\" y1=\"130\" x2=\"230\" y2=\"130\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"90\" y1=\"130\" x2=\"195\" y2=\"69\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"130\" x2=\"195\" y2=\"69\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"130\" r=\"2.5\" fill=\"#111\"/><circle cx=\"90\" cy=\"130\" r=\"3\" fill=\"#111\"/><circle cx=\"230\" cy=\"130\" r=\"3\" fill=\"#111\"/><circle cx=\"195\" cy=\"69\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"78\" y=\"146\">A</text><text x=\"234\" y=\"146\">B</text><text x=\"199\" y=\"64\">C</text><text x=\"164\" y=\"146\">O</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#b91c1c\"><text x=\"186\" y=\"90\">?</text></g></svg></div><p>A. 90°</p><p>B. 45°</p><p>C. 60°</p><p>D. 180°</p>",
           "answer": "A",
           "explanation": "<p>直徑所對圓周角為直角。</p>"
         },
