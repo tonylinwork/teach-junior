@@ -12,7 +12,7 @@
           "type": "true_false",
           "content": "<p>矩形的對角線等長且互相垂直。</p>",
           "answer": "╳",
-          "explanation": "<p>錯誤。矩形的對角線<strong>等長</strong>（AC = BD），但不垂直。對角線垂直是<strong>菱形</strong>（或正方形）的特性，矩形不具備。</p>"
+          "explanation": "<p>錯誤。矩形的對角線<strong>等長</strong>（$\\overline{AC} = \\overline{BD}$），但不垂直。對角線垂直是<strong>菱形</strong>（或正方形）的特性，矩形不具備。</p>"
         },
         {
           "id": "g2b_ch4_3_q2",
@@ -44,7 +44,7 @@
           "type": "true_false",
           "content": "<p>等腰梯形的對角線等長。</p>",
           "answer": "○",
-          "explanation": "<p>正確。等腰梯形（兩腰相等）的兩條對角線等長（AC = BD）。這是等腰梯形的重要性質，可利用全等三角形證明。</p>"
+          "explanation": "<p>正確。等腰梯形（兩腰相等）的兩條對角線等長（$\\overline{AC} = \\overline{BD}$）。這是等腰梯形的重要性質，可利用全等三角形證明。</p>"
         }
       ]
     },
@@ -56,17 +56,17 @@
           "id": "g2b_ch4_3_q6",
           "number": 6,
           "type": "single_choice",
-          "content": "<p>矩形 ABCD 中，AB = 6，BC = 8，求對角線 AC 的長。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 220 220\" width=\"220\" height=\"220\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"矩形對角線示意圖\"><rect width=\"220\" height=\"220\" fill=\"#fff\"/><rect x=\"50\" y=\"30\" width=\"120\" height=\"160\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"190\" x2=\"170\" y2=\"30\" stroke=\"#b91c1c\" stroke-width=\"1.6\"/><rect x=\"160\" y=\"180\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#111\" stroke-width=\"1\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"36\" y=\"206\">A</text><text x=\"176\" y=\"206\">B</text><text x=\"176\" y=\"28\">C</text><text x=\"36\" y=\"28\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#444\"><text x=\"102\" y=\"208\">6</text><text x=\"178\" y=\"115\">8</text><text x=\"90\" y=\"100\">?</text></g></svg></div><p>A. 7</p><p>B. 8</p><p>C. 10</p><p>D. 14</p>",
+          "content": "<p>矩形 ABCD 中，$\\overline{AB} = 6$，$\\overline{BC} = 8$，求對角線 $\\overline{AC}$ 的長。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 220 220\" width=\"220\" height=\"220\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"矩形對角線示意圖\"><rect width=\"220\" height=\"220\" fill=\"#fff\"/><rect x=\"50\" y=\"30\" width=\"120\" height=\"160\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"190\" x2=\"170\" y2=\"30\" stroke=\"#b91c1c\" stroke-width=\"1.6\"/><rect x=\"160\" y=\"180\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#111\" stroke-width=\"1\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"36\" y=\"206\">A</text><text x=\"176\" y=\"206\">B</text><text x=\"176\" y=\"28\">C</text><text x=\"36\" y=\"28\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#444\"><text x=\"102\" y=\"208\">6</text><text x=\"178\" y=\"115\">8</text><text x=\"90\" y=\"100\">?</text></g></svg></div><p>A. 7</p><p>B. 8</p><p>C. 10</p><p>D. 14</p>",
           "answer": "C",
-          "explanation": "<p>矩形四角皆 90°，故 △ABC 為直角三角形（∠B = 90°）。<br>由畢氏定理：$AC = \\sqrt{AB^2 + BC^2} = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = $ <strong>10</strong>。答案（C）。</p>"
+          "explanation": "<p>矩形四角皆 90°，故 $\\triangle ABC$ 為直角三角形（$\\angle B = 90°$）。<br>由畢氏定理：$\\overline{AC} = \\sqrt{\\overline{AB}^2 + \\overline{BC}^2} = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = $ <strong>10</strong>。答案（C）。</p>"
         },
         {
           "id": "g2b_ch4_3_q7",
           "number": 7,
           "type": "single_choice",
-          "content": "<p>矩形 ABCD 的對角線交於 O，已知 AC = 10，求 OB = ？</p><p>A. 5</p><p>B. 7</p><p>C. 10</p><p>D. 20</p>",
+          "content": "<p>矩形 ABCD 的對角線交於 $O$，已知 $\\overline{AC} = 10$，求 $\\overline{OB} = $？</p><p>A. 5</p><p>B. 7</p><p>C. 10</p><p>D. 20</p>",
           "answer": "A",
-          "explanation": "<p>矩形的對角線等長且互相平分，故 BD = AC = 10，OB = $\\dfrac{BD}{2} = \\dfrac{10}{2} = $ <strong>5</strong>。答案（A）。</p>"
+          "explanation": "<p>矩形的對角線等長且互相平分，故 $\\overline{BD} = \\overline{AC} = 10$，$\\overline{OB} = \\dfrac{\\overline{BD}}{2} = \\dfrac{10}{2} = $ <strong>5</strong>。答案（A）。</p>"
         },
         {
           "id": "g2b_ch4_3_q8",
@@ -112,17 +112,17 @@
           "id": "g2b_ch4_3_q13",
           "number": 13,
           "type": "single_choice",
-          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，∠A = 70°，求 ∠B = ？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"280\" height=\"175\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"等腰梯形底角示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,160 260,160 220,60 100,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M 84,160 A 24,24 0 0,0 69,144\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"1.4\"/><path d=\"M 236,160 A 24,24 0 0,1 251,144\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"1.4\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"176\">A</text><text x=\"266\" y=\"176\">B</text><text x=\"226\" y=\"56\">C</text><text x=\"86\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#b91c1c\"><text x=\"76\" y=\"140\">70°</text><text x=\"232\" y=\"140\">?</text></g></svg></div><p>A. 70°</p><p>B. 110°</p><p>C. 140°</p><p>D. 無法確定</p>",
+          "content": "<p>等腰梯形 ABCD 中，$\\overline{AB} \\parallel \\overline{CD}$，$\\angle A = 70°$，求 $\\angle B = $？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"280\" height=\"175\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"等腰梯形底角示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,160 260,160 220,60 100,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M 84,160 A 24,24 0 0,0 69,144\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"1.4\"/><path d=\"M 236,160 A 24,24 0 0,1 251,144\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"1.4\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"176\">A</text><text x=\"266\" y=\"176\">B</text><text x=\"226\" y=\"56\">C</text><text x=\"86\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#b91c1c\"><text x=\"76\" y=\"140\">70°</text><text x=\"232\" y=\"140\">?</text></g></svg></div><p>A. 70°</p><p>B. 110°</p><p>C. 140°</p><p>D. 無法確定</p>",
           "answer": "A",
-          "explanation": "<p>等腰梯形兩底角（同底）相等，∠A 與 ∠B 同在下底 AB，故 ∠B = ∠A = <strong>70°</strong>。答案（A）。</p>"
+          "explanation": "<p>等腰梯形兩底角（同底）相等，$\\angle A$ 與 $\\angle B$ 同在下底 $\\overline{AB}$，故 $\\angle B = \\angle A = $ <strong>70°</strong>。答案（A）。</p>"
         },
         {
           "id": "g2b_ch4_3_q14",
           "number": 14,
           "type": "single_choice",
-          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，對角線 AC = 10。因等腰梯形對角線等長，求 BD = ？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"280\" height=\"175\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"等腰梯形對角線示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,160 260,160 220,60 100,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"160\" x2=\"220\" y2=\"60\" stroke=\"#b91c1c\" stroke-width=\"1.6\"/><line x1=\"260\" y1=\"160\" x2=\"100\" y2=\"60\" stroke=\"#1e3a8a\" stroke-width=\"1.6\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"176\">A</text><text x=\"266\" y=\"176\">B</text><text x=\"226\" y=\"56\">C</text><text x=\"86\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\"><text x=\"96\" y=\"118\" fill=\"#b91c1c\">AC = 10</text><text x=\"196\" y=\"118\" fill=\"#1e3a8a\">BD = ?</text></g></svg></div><p>A. 6</p><p>B. 8</p><p>C. 10</p><p>D. 12</p>",
+          "content": "<p>等腰梯形 ABCD 中，$\\overline{AB} \\parallel \\overline{CD}$，對角線 $\\overline{AC} = 10$。因等腰梯形對角線等長，求 $\\overline{BD} = $？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"280\" height=\"175\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"等腰梯形對角線示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,160 260,160 220,60 100,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"160\" x2=\"220\" y2=\"60\" stroke=\"#b91c1c\" stroke-width=\"1.6\"/><line x1=\"260\" y1=\"160\" x2=\"100\" y2=\"60\" stroke=\"#1e3a8a\" stroke-width=\"1.6\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"176\">A</text><text x=\"266\" y=\"176\">B</text><text x=\"226\" y=\"56\">C</text><text x=\"86\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\"><text x=\"96\" y=\"118\" fill=\"#b91c1c\">AC = 10</text><text x=\"196\" y=\"118\" fill=\"#1e3a8a\">BD = ?</text></g></svg></div><p>A. 6</p><p>B. 8</p><p>C. 10</p><p>D. 12</p>",
           "answer": "C",
-          "explanation": "<p>等腰梯形的兩條對角線等長，故 BD = AC = <strong>10</strong>。答案（C）。</p>"
+          "explanation": "<p>等腰梯形的兩條對角線等長，故 $\\overline{BD} = \\overline{AC} = $ <strong>10</strong>。答案（C）。</p>"
         }
       ]
     },
@@ -166,9 +166,9 @@
           "id": "g2b_ch4_3_q19",
           "number": 19,
           "type": "multi_choice",
-          "content": "<p>矩形 ABCD 中，AB = 8，BC = 6，對角線交於 O，下列哪些計算正確？（多選）</p><p>A. 對角線 AC = 10（利用畢氏定理：$\\sqrt{8^2+6^2}=10$）</p><p>B. OA = OC = 5（對角線互相平分）</p><p>C. OB = OD = 5（對角線等長且互相平分：BD = AC = 10）</p><p>D. AC ⊥ BD（矩形對角線互相垂直）</p><p>E. △AOB ≅ △COD（對頂角相等，OA = OC，OB = OD）</p>",
+          "content": "<p>矩形 ABCD 中，$\\overline{AB} = 8$，$\\overline{BC} = 6$，對角線交於 $O$，下列哪些計算正確？（多選）</p><p>A. 對角線 $\\overline{AC} = 10$</p><p>B. $\\overline{OA} = \\overline{OC} = 5$</p><p>C. $\\overline{OB} = \\overline{OD} = 5$</p><p>D. $\\overline{AC} \\perp \\overline{BD}$</p><p>E. $\\triangle AOB \\cong \\triangle COD$</p>",
           "answer": "ABCE",
-          "explanation": "<p><strong>A ○</strong>：矩形 ∠B = 90°，由畢氏定理 $AC = \\sqrt{8^2+6^2} = \\sqrt{64+36} = \\sqrt{100} = 10$。</p><p><strong>B ○</strong>：矩形對角線互相平分，$OA = OC = \\dfrac{AC}{2} = 5$。</p><p><strong>C ○</strong>：矩形對角線等長，BD = AC = 10，故 $OB = OD = \\dfrac{BD}{2} = 5$。</p><p><strong>D ╳</strong>：矩形對角線<strong>不垂直</strong>。對角線垂直是菱形（或正方形）的性質，不是矩形的性質。</p><p><strong>E ○</strong>：在 △AOB 與 △COD 中，OA = OC（對角線平分），OB = OD（對角線平分），∠AOB = ∠COD（對頂角），由 SAS 全等，故 △AOB ≅ △COD。</p>"
+          "explanation": "<p><strong>A ○</strong>：矩形 $\\angle B = 90°$，由畢氏定理 $\\overline{AC} = \\sqrt{\\overline{AB}^2+\\overline{BC}^2} = \\sqrt{8^2+6^2} = \\sqrt{64+36} = \\sqrt{100} = 10$。</p><p><strong>B ○</strong>：矩形對角線互相平分，$\\overline{OA} = \\overline{OC} = \\dfrac{\\overline{AC}}{2} = 5$。</p><p><strong>C ○</strong>：矩形對角線等長，$\\overline{BD} = \\overline{AC} = 10$，故 $\\overline{OB} = \\overline{OD} = \\dfrac{\\overline{BD}}{2} = 5$。</p><p><strong>D ╳</strong>：矩形對角線<strong>不垂直</strong>。對角線垂直是菱形（或正方形）的性質，不是矩形的性質。</p><p><strong>E ○</strong>：在 $\\triangle AOB$ 與 $\\triangle COD$ 中，$\\overline{OA} = \\overline{OC}$（對角線平分），$\\overline{OB} = \\overline{OD}$（對角線平分），$\\angle AOB = \\angle COD$（對頂角），由 SAS 全等，故 $\\triangle AOB \\cong \\triangle COD$。</p>"
         }
       ]
     }
