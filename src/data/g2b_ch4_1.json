@@ -88,7 +88,7 @@
           "id": "g2b_ch4_1_q10",
           "number": 10,
           "type": "single_choice",
-          "content": "<p>如圖，$L \\parallel M$，折線折點在兩平行線之間，左側兩個角分別為 $40°$ 和 $50°$，求右側轉折角的度數。</p><p>A. $80°$</p><p>B. $85°$</p><p>C. $90°$</p><p>D. $100°$</p>",
+          "content": "<p>如圖，$L \\parallel M$，折線折點在兩平行線之間，左側兩個角分別為 $40°$ 和 $50°$，求右側轉折角的度數。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 240\" width=\"300\" height=\"225\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"閃電型折線示意圖\"><rect width=\"320\" height=\"240\" fill=\"#fff\"/><line x1=\"20\" y1=\"50\" x2=\"300\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"20\" y1=\"190\" x2=\"300\" y2=\"190\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"50\" x2=\"129\" y2=\"108\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"129\" y1=\"108\" x2=\"60\" y2=\"190\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"50\" r=\"3\" fill=\"#111\"/><circle cx=\"129\" cy=\"108\" r=\"3\" fill=\"#111\"/><circle cx=\"60\" cy=\"190\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"305\" y=\"46\">L</text><text x=\"305\" y=\"186\">M</text></g><g font-family=\"sans-serif\" font-size=\"14\" fill=\"#b91c1c\"><text x=\"78\" y=\"62\">40°</text><text x=\"78\" y=\"178\">50°</text><text x=\"140\" y=\"114\">?</text></g></svg></div><p>A. $80°$</p><p>B. $85°$</p><p>C. $90°$</p><p>D. $100°$</p>",
           "answer": "C",
           "explanation": "<p>閃電型（Z 型）公式：右側轉折角 = 左側兩角之和。<br>轉折角 $= 40° + 50° = $ <strong>$90°$</strong>。<br>（亦可過折點作第三條平行線，利用內錯角分別得 $40°$ 與 $50°$ 相加驗證。）答案（C）。</p>"
         },
