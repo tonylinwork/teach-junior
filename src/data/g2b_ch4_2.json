@@ -36,7 +36,7 @@
           "type": "true_false",
           "content": "<p>平行四邊形的兩條對角線互相平分（即各自平分對方）。</p>",
           "answer": "○",
-          "explanation": "<p>正確。平行四邊形 ABCD 的對角線 AC 與 BD 交於 O，則 AO = OC、BO = OD，即兩對角線互相平分對方。</p>"
+          "explanation": "<p>正確。平行四邊形 ABCD 的對角線 $\\overline{AC}$ 與 $\\overline{BD}$ 交於 $O$，則 $\\overline{AO} = \\overline{OC}$、$\\overline{BO} = \\overline{OD}$，即兩對角線互相平分對方。</p>"
         },
         {
           "id": "g2b_ch4_2_q5",
@@ -106,7 +106,7 @@
           "type": "single_choice",
           "content": "<p>平行四邊形三個頂點的座標為 $A(1, 2)$、$B(5, 2)$、$C(6, 5)$，求第四頂點 $D$ 的座標（以 AC 和 BD 為對角線）。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 280 220\" width=\"280\" height=\"220\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"座標平面三點示意圖\"><rect width=\"280\" height=\"220\" fill=\"#fff\"/><g stroke=\"#e5e7eb\" stroke-width=\"1\"><line x1=\"60\" y1=\"190\" x2=\"60\" y2=\"30\"/><line x1=\"85\" y1=\"190\" x2=\"85\" y2=\"30\"/><line x1=\"110\" y1=\"190\" x2=\"110\" y2=\"30\"/><line x1=\"135\" y1=\"190\" x2=\"135\" y2=\"30\"/><line x1=\"160\" y1=\"190\" x2=\"160\" y2=\"30\"/><line x1=\"185\" y1=\"190\" x2=\"185\" y2=\"30\"/><line x1=\"210\" y1=\"190\" x2=\"210\" y2=\"30\"/><line x1=\"235\" y1=\"190\" x2=\"235\" y2=\"30\"/><line x1=\"60\" y1=\"190\" x2=\"245\" y2=\"190\"/><line x1=\"60\" y1=\"165\" x2=\"245\" y2=\"165\"/><line x1=\"60\" y1=\"140\" x2=\"245\" y2=\"140\"/><line x1=\"60\" y1=\"115\" x2=\"245\" y2=\"115\"/><line x1=\"60\" y1=\"90\" x2=\"245\" y2=\"90\"/><line x1=\"60\" y1=\"65\" x2=\"245\" y2=\"65\"/><line x1=\"60\" y1=\"40\" x2=\"245\" y2=\"40\"/></g><line x1=\"40\" y1=\"190\" x2=\"260\" y2=\"190\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"210\" x2=\"60\" y2=\"25\" stroke=\"#111\" stroke-width=\"1.5\"/><polygon points=\"260,190 254,186 254,194\" fill=\"#111\"/><polygon points=\"60,25 56,31 64,31\" fill=\"#111\"/><circle cx=\"85\" cy=\"140\" r=\"3.5\" fill=\"#b91c1c\"/><circle cx=\"185\" cy=\"140\" r=\"3.5\" fill=\"#b91c1c\"/><circle cx=\"210\" cy=\"65\" r=\"3.5\" fill=\"#b91c1c\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"15\" fill=\"#111\"><text x=\"72\" y=\"135\">A</text><text x=\"190\" y=\"135\">B</text><text x=\"215\" y=\"63\">C</text></g><g font-family=\"sans-serif\" font-size=\"11\" fill=\"#555\"><text x=\"82\" y=\"205\">1</text><text x=\"132\" y=\"205\">3</text><text x=\"182\" y=\"205\">5</text><text x=\"207\" y=\"205\">6</text><text x=\"46\" y=\"144\">2</text><text x=\"46\" y=\"69\">5</text><text x=\"48\" y=\"204\">O</text><text x=\"252\" y=\"204\">x</text><text x=\"52\" y=\"22\">y</text></g></svg></div><p>A. $(2, 3)$</p><p>B. $(2, 5)$</p><p>C. $(0, 5)$</p><p>D. $(3, 3)$</p>",
           "answer": "B",
-          "explanation": "<p>平行四邊形對角線互相平分，故 AC 中點 = BD 中點。<br>AC 中點 $= \\left(\\dfrac{1+6}{2}, \\dfrac{2+5}{2}\\right) = (3.5,\\ 3.5)$<br>設 $D = (x, y)$，BD 中點 $= \\left(\\dfrac{5+x}{2}, \\dfrac{2+y}{2}\\right) = (3.5,\\ 3.5)$<br>解得 $x = 2$，$y = 5$，故 $D = $ <strong>$(2, 5)$</strong>。答案（B）。</p>"
+          "explanation": "<p>平行四邊形對角線互相平分，故 $\\overline{AC}$ 中點 $=$ $\\overline{BD}$ 中點。<br>$\\overline{AC}$ 中點 $= \\left(\\dfrac{1+6}{2}, \\dfrac{2+5}{2}\\right) = (3.5,\\ 3.5)$<br>設 $D = (x, y)$，$\\overline{BD}$ 中點 $= \\left(\\dfrac{5+x}{2}, \\dfrac{2+y}{2}\\right) = (3.5,\\ 3.5)$<br>解得 $x = 2$，$y = 5$，故 $D = $ <strong>$(2, 5)$</strong>。答案（B）。</p>"
         },
         {
           "id": "g2b_ch4_2_q13",
@@ -120,7 +120,7 @@
           "id": "g2b_ch4_2_q14",
           "number": 14,
           "type": "single_choice",
-          "content": "<p>平行四邊形底邊 $\\overline{AB} = 12$，底邊到對邊 CD 的垂直距離（高）$= 7$，求平行四邊形的面積。</p><p>A. 42</p><p>B. 84</p><p>C. 96</p><p>D. 168</p>",
+          "content": "<p>平行四邊形底邊 $\\overline{AB} = 12$，底邊到對邊 $\\overline{CD}$ 的垂直距離（高）$= 7$，求平行四邊形的面積。</p><p>A. 42</p><p>B. 84</p><p>C. 96</p><p>D. 168</p>",
           "answer": "B",
           "explanation": "<p>平行四邊形面積 $=$ 底 $\\times$ 高 $= 12 \\times 7 = $ <strong>84</strong>。答案（B）。</p>"
         }
@@ -160,7 +160,7 @@
           "type": "multi_choice",
           "content": "<p>平行四邊形 ABCD 內有一點 P，關於內部點面積性質，下列哪些敘述正確？（多選）</p><p>A. $\\triangle PAB + \\triangle PCD = $ 平行四邊形面積的 $\\dfrac{1}{2}$</p><p>B. $\\triangle PAD + \\triangle PBC = $ 平行四邊形面積的 $\\dfrac{1}{2}$</p><p>C. 四個三角形 $\\triangle PAB$、$\\triangle PBC$、$\\triangle PCD$、$\\triangle PAD$ 的面積均相等</p><p>D. $\\triangle PAB + \\triangle PCD = \\triangle PAD + \\triangle PBC$</p><p>E. 若平行四邊形面積 $= 48$，$\\triangle PAB$ 面積 $= 10$，則 $\\triangle PCD$ 面積 $= 14$</p>",
           "answer": "ABDE",
-          "explanation": "<p><strong>A ○</strong>：內部點性質：P 到 AB 和 CD 的高之和等於兩底間距離（平行四邊形的高），故 $\\triangle PAB + \\triangle PCD = \\dfrac{1}{2} \\times $ 底 $\\times$ 高 $=$ 全面積的 $\\dfrac{1}{2}$。</p><p><strong>B ○</strong>：同理，AD 和 BC 方向也成立，$\\triangle PAD + \\triangle PBC = $ 全面積的 $\\dfrac{1}{2}$。</p><p><strong>C ╳</strong>：只有當 P 在對角線交點（中心）時四個三角形才等積，一般情況下不一定相等。</p><p><strong>D ○</strong>：由 A 和 B，兩組都等於全面積的 $\\dfrac{1}{2}$，故兩組相等。</p><p><strong>E ○</strong>：$\\triangle PCD = \\dfrac{48}{2} - \\triangle PAB = 24 - 10 = 14$。</p>"
+          "explanation": "<p><strong>A ○</strong>：內部點性質：$P$ 到 $\\overline{AB}$ 和 $\\overline{CD}$ 的高之和等於兩底間距離（平行四邊形的高），故 $\\triangle PAB + \\triangle PCD = \\dfrac{1}{2} \\times $ 底 $\\times$ 高 $=$ 全面積的 $\\dfrac{1}{2}$。</p><p><strong>B ○</strong>：同理，$\\overline{AD}$ 和 $\\overline{BC}$ 方向也成立，$\\triangle PAD + \\triangle PBC = $ 全面積的 $\\dfrac{1}{2}$。</p><p><strong>C ╳</strong>：只有當 P 在對角線交點（中心）時四個三角形才等積，一般情況下不一定相等。</p><p><strong>D ○</strong>：由 A 和 B，兩組都等於全面積的 $\\dfrac{1}{2}$，故兩組相等。</p><p><strong>E ○</strong>：$\\triangle PCD = \\dfrac{48}{2} - \\triangle PAB = 24 - 10 = 14$。</p>"
         },
         {
           "id": "g2b_ch4_2_q19",
