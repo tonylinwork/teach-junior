@@ -56,7 +56,7 @@
           "id": "g2b_ch4_3_q6",
           "number": 6,
           "type": "single_choice",
-          "content": "<p>矩形 ABCD 中，AB = 6，BC = 8，求對角線 AC 的長。</p><p>A. 7</p><p>B. 8</p><p>C. 10</p><p>D. 14</p>",
+          "content": "<p>矩形 ABCD 中，AB = 6，BC = 8，求對角線 AC 的長。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 220 220\" width=\"220\" height=\"220\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"矩形對角線示意圖\"><rect width=\"220\" height=\"220\" fill=\"#fff\"/><rect x=\"50\" y=\"30\" width=\"120\" height=\"160\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"190\" x2=\"170\" y2=\"30\" stroke=\"#b91c1c\" stroke-width=\"1.6\"/><rect x=\"160\" y=\"180\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#111\" stroke-width=\"1\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"36\" y=\"206\">A</text><text x=\"176\" y=\"206\">B</text><text x=\"176\" y=\"28\">C</text><text x=\"36\" y=\"28\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#444\"><text x=\"102\" y=\"208\">6</text><text x=\"178\" y=\"115\">8</text><text x=\"90\" y=\"100\">?</text></g></svg></div><p>A. 7</p><p>B. 8</p><p>C. 10</p><p>D. 14</p>",
           "answer": "C",
           "explanation": "<p>矩形四角皆 90°，故 △ABC 為直角三角形（∠B = 90°）。<br>由畢氏定理：$AC = \\sqrt{AB^2 + BC^2} = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = $ <strong>10</strong>。答案（C）。</p>"
         },
@@ -88,7 +88,7 @@
           "id": "g2b_ch4_3_q10",
           "number": 10,
           "type": "single_choice",
-          "content": "<p>梯形的上底 = 5，下底 = 11，求中線長。</p><p>A. 6</p><p>B. 8</p><p>C. 9</p><p>D. 16</p>",
+          "content": "<p>梯形的上底 = 5，下底 = 11，求中線長。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"300\" height=\"187\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"梯形中線示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"50,160 270,160 210,60 110,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"80\" y1=\"110\" x2=\"240\" y2=\"110\" stroke=\"#b91c1c\" stroke-width=\"1.6\" stroke-dasharray=\"5 3\"/><circle cx=\"80\" cy=\"110\" r=\"2.5\" fill=\"#b91c1c\"/><circle cx=\"240\" cy=\"110\" r=\"2.5\" fill=\"#b91c1c\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"36\" y=\"176\">A</text><text x=\"276\" y=\"176\">B</text><text x=\"214\" y=\"56\">C</text><text x=\"98\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#444\"><text x=\"152\" y=\"178\">11</text><text x=\"156\" y=\"56\">5</text><text x=\"152\" y=\"104\">?</text></g></svg></div><p>A. 6</p><p>B. 8</p><p>C. 9</p><p>D. 16</p>",
           "answer": "B",
           "explanation": "<p>梯形中線長 $= \\dfrac{\\text{上底}+\\text{下底}}{2} = \\dfrac{5+11}{2} = \\dfrac{16}{2} = $ <strong>8</strong>。答案（B）。</p>"
         },
@@ -112,7 +112,7 @@
           "id": "g2b_ch4_3_q13",
           "number": 13,
           "type": "single_choice",
-          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，∠A = 70°，求 ∠B = ？</p><p>A. 70°</p><p>B. 110°</p><p>C. 140°</p><p>D. 無法確定</p>",
+          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，∠A = 70°，求 ∠B = ？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"280\" height=\"175\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"等腰梯形底角示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,160 260,160 220,60 100,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M 84,160 A 24,24 0 0,0 69,144\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"1.4\"/><path d=\"M 236,160 A 24,24 0 0,1 251,144\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"1.4\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"176\">A</text><text x=\"266\" y=\"176\">B</text><text x=\"226\" y=\"56\">C</text><text x=\"86\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\" fill=\"#b91c1c\"><text x=\"76\" y=\"140\">70°</text><text x=\"232\" y=\"140\">?</text></g></svg></div><p>A. 70°</p><p>B. 110°</p><p>C. 140°</p><p>D. 無法確定</p>",
           "answer": "A",
           "explanation": "<p>等腰梯形兩底角（同底）相等，∠A 與 ∠B 同在下底 AB，故 ∠B = ∠A = <strong>70°</strong>。答案（A）。</p>"
         },
@@ -120,7 +120,7 @@
           "id": "g2b_ch4_3_q14",
           "number": 14,
           "type": "single_choice",
-          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，對角線 AC = 10。因等腰梯形對角線等長，求 BD = ？</p><p>A. 6</p><p>B. 8</p><p>C. 10</p><p>D. 12</p>",
+          "content": "<p>等腰梯形 ABCD 中，AB ∥ CD，對角線 AC = 10。因等腰梯形對角線等長，求 BD = ？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 200\" width=\"280\" height=\"175\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"等腰梯形對角線示意圖\"><rect width=\"320\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,160 260,160 220,60 100,60\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"160\" x2=\"220\" y2=\"60\" stroke=\"#b91c1c\" stroke-width=\"1.6\"/><line x1=\"260\" y1=\"160\" x2=\"100\" y2=\"60\" stroke=\"#1e3a8a\" stroke-width=\"1.6\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"176\">A</text><text x=\"266\" y=\"176\">B</text><text x=\"226\" y=\"56\">C</text><text x=\"86\" y=\"56\">D</text></g><g font-family=\"sans-serif\" font-size=\"13\"><text x=\"96\" y=\"118\" fill=\"#b91c1c\">AC = 10</text><text x=\"196\" y=\"118\" fill=\"#1e3a8a\">BD = ?</text></g></svg></div><p>A. 6</p><p>B. 8</p><p>C. 10</p><p>D. 12</p>",
           "answer": "C",
           "explanation": "<p>等腰梯形的兩條對角線等長，故 BD = AC = <strong>10</strong>。答案（C）。</p>"
         }

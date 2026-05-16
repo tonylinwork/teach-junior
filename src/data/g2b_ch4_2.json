@@ -80,7 +80,7 @@
           "id": "g2b_ch4_2_q9",
           "number": 9,
           "type": "single_choice",
-          "content": "<p>平行四邊形 ABCD 的對角線 AC 與 BD 交於 O，已知 $\\overline{AO} = 6$，$\\overline{BD} = 10$，求 $\\overline{OC} + \\overline{OB} = $？</p><p>A. 8</p><p>B. 10</p><p>C. 11</p><p>D. 16</p>",
+          "content": "<p>平行四邊形 ABCD 的對角線 AC 與 BD 交於 O，已知 $\\overline{AO} = 6$，$\\overline{BD} = 10$，求 $\\overline{OC} + \\overline{OB} = $？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 360 260\" width=\"320\" height=\"231\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"平行四邊形對角線交於 O 示意圖\"><rect width=\"360\" height=\"260\" fill=\"#fff\"/><polygon points=\"60,200 260,200 310,80 110,80\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"200\" x2=\"310\" y2=\"80\" stroke=\"#b91c1c\" stroke-width=\"1.5\"/><line x1=\"260\" y1=\"200\" x2=\"110\" y2=\"80\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/><circle cx=\"185\" cy=\"140\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"46\" y=\"216\">A</text><text x=\"264\" y=\"216\">B</text><text x=\"316\" y=\"76\">C</text><text x=\"98\" y=\"76\">D</text><text x=\"190\" y=\"130\">O</text></g><g font-family=\"sans-serif\" font-size=\"13\"><text x=\"128\" y=\"186\" fill=\"#b91c1c\">6</text><text x=\"165\" y=\"120\" fill=\"#1e3a8a\">10</text></g></svg></div><p>A. 8</p><p>B. 10</p><p>C. 11</p><p>D. 16</p>",
           "answer": "C",
           "explanation": "<p>對角線互相平分，故 $\\overline{OC} = \\overline{AO} = 6$，$\\overline{OB} = \\dfrac{\\overline{BD}}{2} = \\dfrac{10}{2} = 5$。<br>$\\overline{OC} + \\overline{OB} = 6 + 5 = $ <strong>11</strong>。答案（C）。</p>"
         },
