@@ -80,9 +80,9 @@
           "id": "g1b_ch4_2_q9",
           "number": 9,
           "type": "single_choice",
-          "content": "<p>解不等式 $\\dfrac{2x-1}{5} - \\dfrac{x+3}{10} \\leq \\dfrac{x}{2}$，$x$ 的範圍為何？</p><p>A. $x \\geq \\dfrac{23}{5}$</p><p>B. $x \\leq \\dfrac{23}{5}$</p><p>C. $x \\geq -\\dfrac{23}{5}$</p><p>D. $x \\leq -\\dfrac{23}{5}$</p>",
+          "content": "<p>解不等式 $\\dfrac{2x-1}{5} - \\dfrac{x+3}{10} \\leq \\dfrac{x}{2}$，$x$ 的範圍為何？</p><p>A. $x \\geq -\\dfrac{5}{2}$</p><p>B. $x \\leq -\\dfrac{5}{2}$</p><p>C. $x \\geq \\dfrac{5}{2}$</p><p>D. $x \\leq \\dfrac{5}{2}$</p>",
           "answer": "A",
-          "explanation": "<p>兩邊乘以 10：$2(2x-1) - (x+3) \\leq 5x$，展開：$4x-2-x-3 \\leq 5x$，整理：$-5x \\leq 5\\cdot\\frac{1}{1}$，$3x - 5 \\leq 5x$，$-2x \\leq 5$，除以 $-2$ 方向改變：$x \\geq -\\dfrac{5}{2}$。（依題目數字，兩邊同乘10後化簡，得 $x \\geq \\dfrac{23}{5}$。）</p>"
+          "explanation": "<p>兩邊同乘 10：$2(2x-1) - (x+3) \\leq 5x$，展開得 $4x-2-x-3 \\leq 5x$，整理得 $3x-5 \\leq 5x$。移項：$-5 \\leq 2x$，即 $x \\geq -\\dfrac{5}{2}$。</p>"
         },
         {
           "id": "g1b_ch4_2_q10",
