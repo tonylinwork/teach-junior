@@ -23,7 +23,7 @@ type ChapterOption = {
 };
 
 const parseChapterTitle = (chapter: { id: string; title: string }): ChapterOption => {
-    const match = chapter.title.match(/^(國[一二三][上下])\s+(.+)$/);
+    const match = chapter.title.match(/^(國[一二三][上下]|歷屆會考)\s+(.+)$/);
 
     return {
         ...chapter,

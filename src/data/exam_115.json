@@ -1,0 +1,234 @@
+{
+  "title": "歷屆會考 115 年國中教育會考 數學科",
+  "notice": "本卷為 115 年（2026 年）國中教育會考數學科正式試題。第一部分共 25 題選擇題（其中第 23～25 題為閱讀選文題組），第二部分共 2 題非選擇題。解析整理自劉昕老師即時解析逐字稿。",
+  "sections": [
+    {
+      "type": "single_choice",
+      "name": "第一部分：選擇題（共 25 題）",
+      "questions": [
+        {
+          "id": "exam_115_q1",
+          "number": 1,
+          "type": "single_choice",
+          "content": "<p>解二元一次聯立方程式 $\\begin{cases} x + 2y = 5 \\\\ 2x - 2y = 1 \\end{cases}$，得 $x$ 值為何？</p><p>A. $-4$</p><p>B. $-2$</p><p>C. $2$</p><p>D. $4$</p>",
+          "answer": "C",
+          "explanation": "<p>將兩式相加消去 $y$：$(x + 2y) + (2x - 2y) = 5 + 1$，得 $3x = 6$，所以 $x = 2$。</p>"
+        },
+        {
+          "id": "exam_115_q2",
+          "number": 2,
+          "type": "single_choice",
+          "content": "<p>如圖（一），直角柱 $ABCDEF$ 的底面為正三角形，圖中標示各頂點名稱。判斷此角柱中的 $\\angle ABC$、$\\angle BCF$ 的度數分別為何？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 260 280\" width=\"230\" height=\"248\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"直角柱 ABCDEF\"><rect width=\"260\" height=\"280\" fill=\"#fff\"/><polygon points=\"180,40 60,80 200,100\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"200\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"80\" x2=\"60\" y2=\"240\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"200\" y1=\"100\" x2=\"200\" y2=\"260\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"180,200 60,240 200,260\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"186\" y=\"34\">A</text><text x=\"40\" y=\"82\">B</text><text x=\"208\" y=\"112\">C</text><text x=\"186\" y=\"194\">D</text><text x=\"40\" y=\"248\">E</text><text x=\"208\" y=\"272\">F</text></g></svg></div><p>A. $\\angle ABC = 90°$，$\\angle BCF = 90°$</p><p>B. $\\angle ABC = 60°$，$\\angle BCF = 60°$</p><p>C. $\\angle ABC = 90°$，$\\angle BCF = 60°$</p><p>D. $\\angle ABC = 60°$，$\\angle BCF = 90°$</p>",
+          "answer": "D",
+          "explanation": "<p>底面 $\\triangle ABC$ 為正三角形，故 $\\angle ABC = 60°$。$\\overline{BC}$ 在底面、$\\overline{CF}$ 是側稜，直角柱的側稜垂直於底面，所以 $\\angle BCF = 90°$。</p>"
+        },
+        {
+          "id": "exam_115_q3",
+          "number": 3,
+          "type": "single_choice",
+          "content": "<p>若 $\\sqrt{504}$ 的最簡根式為 $a\\sqrt{b}$，則 $a + b$ 之值為何？</p><p>A. $13$</p><p>B. $19$</p><p>C. $20$</p><p>D. $50$</p>",
+          "answer": "C",
+          "explanation": "<p>$504 = 36 \\times 14$，而 $36 = 6^2$ 為完全平方數，所以 $\\sqrt{504} = 6\\sqrt{14}$。即 $a = 6$、$b = 14$，故 $a + b = 20$。</p>"
+        },
+        {
+          "id": "exam_115_q4",
+          "number": 4,
+          "type": "single_choice",
+          "content": "<p>已知甲袋中有三顆球，球上分別標記 $2$、$3$、$4$；乙袋中有三顆球，球上分別標記 $3$、$4$、$5$。阿翰打算從甲、乙兩袋中各抽出一球，若甲袋中每顆球被抽出的機會相等，乙袋中每顆球被抽出的機會相等，則抽出的兩球上的數字，總和為多少的機率最大？</p><p>A. $6$</p><p>B. $7$</p><p>C. $8$</p><p>D. $9$</p>",
+          "answer": "B",
+          "explanation": "<p>共有 $3 \\times 3 = 9$ 種抽法。列出所有總和：</p><p>$2+3=5$、$2+4=6$、$2+5=7$、$3+3=6$、$3+4=7$、$3+5=8$、$4+3=7$、$4+4=8$、$4+5=9$。</p><p>總和為 $7$ 的有 $3$ 種，是出現次數最多的情形，機率最大。</p>"
+        },
+        {
+          "id": "exam_115_q5",
+          "number": 5,
+          "type": "single_choice",
+          "content": "<p>算式 $2.45 \\times 98.7 - (-0.55) \\times 98.7$ 之值介於下列哪兩個數之間？</p><p>A. $150$、$200$</p><p>B. $200$、$250$</p><p>C. $250$、$300$</p><p>D. $300$、$350$</p>",
+          "answer": "C",
+          "explanation": "<p>提出公因數 $98.7$：</p><p>$2.45 \\times 98.7 - (-0.55) \\times 98.7 = (2.45 + 0.55) \\times 98.7 = 3 \\times 98.7 = 296.1$</p><p>$296.1$ 介於 $250$ 與 $300$ 之間。</p>"
+        },
+        {
+          "id": "exam_115_q6",
+          "number": 6,
+          "type": "single_choice",
+          "content": "<p>小彭的農園將收成的文旦根據每顆的重量分為小果、中果、大果，再根據每顆的品質分為良級、優級、特級，分類後各類別的總重量如表（一）所示。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><table style=\"border-collapse:collapse;font-size:0.95em;\"><thead><tr><th style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;background:#f1f5f9;\"></th><th style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;background:#f1f5f9;\">良級</th><th style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;background:#f1f5f9;\">優級</th><th style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;background:#f1f5f9;\">特級</th><th style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;background:#f1f5f9;\">合計</th></tr></thead><tbody><tr><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;\">小果</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">50</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">180</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">270</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">500</td></tr><tr><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;\">中果</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">20</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">100</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">80</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">200</td></tr><tr><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;\">大果</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">10</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">40</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">50</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">100</td></tr><tr><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;\">合計</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">80</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">320</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">400</td><td style=\"border:1px solid #94a3b8;padding:0.4em 0.8em;text-align:center;\">800</td></tr></tbody></table></div><p style=\"text-align:center;color:#64748b;font-size:0.85em;\">表（一）（單位：公斤）</p><p>因為被分類為良級或大果的文旦不受喜愛，所以小彭僅將其餘的文旦都包裝成禮盒販售，求包裝成禮盒販售的文旦總共有多少公斤？</p><p>A. $620$</p><p>B. $630$</p><p>C. $700$</p><p>D. $720$</p>",
+          "answer": "B",
+          "explanation": "<p>用排容原理：從合計 $800$ 公斤中，扣掉良級全部（$80$）與大果全部（$100$），但「良級的大果」（$10$ 公斤）被重複扣了一次，要加回來。</p><p>$800 - 80 - 100 + 10 = 630$ 公斤。</p><p>或直接相加保留的部分：中果優級 $100$ + 中果特級 $80$ + 小果優級 $180$ + 小果特級 $270 = 630$ 公斤。</p>"
+        },
+        {
+          "id": "exam_115_q7",
+          "number": 7,
+          "type": "single_choice",
+          "content": "<p>計算多項式 $4x^2 - 3x - 5$ 除以 $x + 2$ 後，所得商式與餘式兩者之和為何？</p><p>A. $4x + 6$</p><p>B. $4x + 10$</p><p>C. $-7x - 5$</p><p>D. $-11x - 1$</p>",
+          "answer": "A",
+          "explanation": "<p>用長除法：</p><p>$4x^2 - 3x - 5 \\div (x + 2)$。先放 $4x$，得 $4x(x+2) = 4x^2 + 8x$，相減得 $-11x - 5$。再放 $-11$，得 $-11(x+2) = -11x - 22$，相減得餘式 $17$。</p><p>所以商式 $= 4x - 11$，餘式 $= 17$。</p><p>兩者之和 $= (4x - 11) + 17 = 4x + 6$。</p>"
+        },
+        {
+          "id": "exam_115_q8",
+          "number": 8,
+          "type": "single_choice",
+          "content": "<p>有一培養皿上均勻分布細菌，圖（二）是培養皿與其俯視圖，生物學家在培養皿上選定四個圓形區域，區域面積越大所含細菌數越多。若圖中甲、乙、丙三個區域細菌的數量分別為 $4.4 \\times 10^5$ 個、$7.3 \\times 10^6$ 個、$5.4 \\times 10^7$ 個，則下列何者可能是丁區域細菌的數量？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 220\" width=\"300\" height=\"206\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"培養皿俯視圖中四個圓形區域\"><rect width=\"320\" height=\"220\" fill=\"#fff\"/><ellipse cx=\"50\" cy=\"180\" rx=\"38\" ry=\"12\" fill=\"#e2e8f0\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"50\" y1=\"168\" x2=\"50\" y2=\"175\" stroke=\"#111\" stroke-width=\"1\"/><text x=\"36\" y=\"205\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#475569\">培養皿</text><polygon points=\"95,180 130,140\" fill=\"none\"/><line x1=\"95\" y1=\"180\" x2=\"130\" y2=\"140\" stroke=\"#475569\" stroke-width=\"1\"/><polygon points=\"125,138 130,140 127,134\" fill=\"#475569\"/><circle cx=\"210\" cy=\"105\" r=\"75\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"185\" cy=\"95\" r=\"38\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><circle cx=\"248\" cy=\"75\" r=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><circle cx=\"232\" cy=\"140\" r=\"20\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><circle cx=\"260\" cy=\"150\" r=\"8\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><g font-family=\"sans-serif\" font-size=\"15\" fill=\"#111\"><text x=\"180\" y=\"100\">丙</text><text x=\"243\" y=\"80\">乙</text><text x=\"227\" y=\"144\">丁</text><text x=\"255\" y=\"154\">甲</text></g><text x=\"280\" y=\"205\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#475569\">圖（二）</text></svg></div><p>A. $1.7 \\times 10^5$ 個</p><p>B. $1.7 \\times 10^6$ 個</p><p>C. $1.7 \\times 10^7$ 個</p><p>D. $1.7 \\times 10^8$ 個</p>",
+          "answer": "C",
+          "explanation": "<p>由圖中觀察，丁區域的面積介於乙與丙之間，因此細菌數量也應介於兩者之間：</p><p>$7.3 \\times 10^6 < \\text{丁} < 5.4 \\times 10^7$</p><p>四個選項中只有 $1.7 \\times 10^7$ 落在此範圍內（$0.73 \\times 10^7 < 1.7 \\times 10^7 < 5.4 \\times 10^7$），故選 C。</p>"
+        },
+        {
+          "id": "exam_115_q9",
+          "number": 9,
+          "type": "single_choice",
+          "content": "<p>已知一元二次方程式 $2x(x + 7) - 10(x + 7) = 0$ 的兩根為 $a$、$b$，且 $a > b$，求 $a + 2b$ 之值為何？</p><p>A. $-13$</p><p>B. $-9$</p><p>C. $-4$</p><p>D. $-3$</p>",
+          "answer": "B",
+          "explanation": "<p>提出共同因式 $(x + 7)$：</p><p>$2x(x + 7) - 10(x + 7) = (x + 7)(2x - 10) = 0$</p><p>所以 $x = -7$ 或 $x = 5$。因為 $a > b$，所以 $a = 5$、$b = -7$。</p><p>$a + 2b = 5 + 2 \\times (-7) = 5 - 14 = -9$。</p>"
+        },
+        {
+          "id": "exam_115_q10",
+          "number": 10,
+          "type": "single_choice",
+          "content": "<p>某書店舉辦優惠活動，購買的書原價合計滿 $1100$ 元折扣 $200$ 元，圖（三）為兄妹兩人的對話情形。</p><div style=\"display:grid;grid-template-columns:1fr 1fr;gap:0.75em;margin:1em auto;max-width:580px;\"><div style=\"padding:0.75em 1em;border:2px solid #94a3b8;border-radius:0.75em;background:#fff;font-size:0.95em;\"><div style=\"font-size:0.8em;color:#64748b;margin-bottom:0.3em;\">👦 兄</div>我要買的書原價只有 $720$ 元，沒辦法折扣。</div><div style=\"padding:0.75em 1em;border:2px solid #94a3b8;border-radius:0.75em;background:#fff;font-size:0.95em;\"><div style=\"font-size:0.8em;color:#64748b;margin-bottom:0.3em;\">👧 妹</div>我要買的書原價也不到 $1100$ 元。我們一起買的話，就能折扣 $200$ 元。</div><div style=\"padding:0.75em 1em;border:2px solid #94a3b8;border-radius:0.75em;background:#fff;font-size:0.95em;\"><div style=\"font-size:0.8em;color:#64748b;margin-bottom:0.3em;\">👦 兄</div>那就一起買吧！依我們要買的書原價的比，來分攤折扣後的總金額。</div><div style=\"padding:0.75em 1em;border:2px solid #94a3b8;border-radius:0.75em;background:#fff;font-size:0.95em;\"><div style=\"font-size:0.8em;color:#64748b;margin-bottom:0.3em;\">👧 妹</div>這樣的話，哥哥你要分攤 $600$ 元。</div></div><p>根據圖中的對話計算，妹妹要買的書原價為多少元？</p><p>A. $360$</p><p>B. $380$</p><p>C. $460$</p><p>D. $480$</p>",
+          "answer": "D",
+          "explanation": "<p>設兩人合計的原價為 $S$ 元，則折扣後合計 $= S - 200$ 元。兩人依原價的比例來分攤折扣後的金額。</p><p>哥哥原價 $720$ 元，分攤 $600$ 元；妹妹原價 $S - 720$ 元，分攤 $(S - 200) - 600 = S - 800$ 元。</p><p>由比例相等：$\\dfrac{720}{600} = \\dfrac{S}{S - 200}$</p><p>交叉相乘：$720(S - 200) = 600S$，$720S - 144000 = 600S$，$120S = 144000$，$S = 1200$。</p><p>妹妹原價 $= 1200 - 720 = 480$ 元。</p>"
+        },
+        {
+          "id": "exam_115_q11",
+          "number": 11,
+          "type": "single_choice",
+          "content": "<p>$A(a)$、$B(b)$、$P(a + b)$ 三點在數線上的位置如圖（四）所示。若要在數線上標示點 $Q(b - a)$，則關於 $Q$ 點的位置，下列敘述何者正確？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 90\" width=\"300\" height=\"84\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"數線上 P、A、B 三點\"><rect width=\"320\" height=\"90\" fill=\"#fff\"/><line x1=\"20\" y1=\"50\" x2=\"305\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"305,50 293,45 293,55\" fill=\"#111\"/><circle cx=\"70\" cy=\"50\" r=\"3\" fill=\"#111\"/><circle cx=\"170\" cy=\"50\" r=\"3\" fill=\"#111\"/><circle cx=\"250\" cy=\"50\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"65\" y=\"38\">P</text><text x=\"166\" y=\"38\">A</text><text x=\"246\" y=\"38\">B</text></g><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"14\" fill=\"#1e3a8a\"><text x=\"54\" y=\"74\">a+b</text><text x=\"166\" y=\"74\">a</text><text x=\"246\" y=\"74\">b</text></g></svg></div><p>A. 在 $B$ 的右邊</p><p>B. 介於 $A$、$B$ 之間</p><p>C. 介於 $P$、$A$ 之間</p><p>D. 在 $P$ 的左邊</p>",
+          "answer": "A",
+          "explanation": "<p>由圖知 $a + b < a < b$。</p><p>由 $a + b < a$，得 $b < 0$；再由 $a < b$，得 $a < b < 0$，所以 $a$、$b$ 皆為負數，且 $a$ 比 $b$ 更負。</p><p>因 $a < 0$，所以 $-a > 0$，故 $b - a = b + (-a) > b$。由於 $b < 0 < b - a$，$Q$ 在 $0$ 的右邊，當然也在 $B$（$b < 0$）的右邊。</p>"
+        },
+        {
+          "id": "exam_115_q12",
+          "number": 12,
+          "type": "single_choice",
+          "content": "<p>$\\triangle ABC$ 的邊上有三點 $D$、$E$、$F$，各點位置如圖（五）所示。若 $\\overline{BE} = \\overline{AF}$，$\\angle BED = \\angle AFC$，$\\overline{ED} = \\overline{FC}$，則根據圖中標示的長度，求四邊形 $ADEF$ 周長為何？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 340 240\" width=\"320\" height=\"226\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"△ABC 與內點 D、E、F\"><rect width=\"340\" height=\"240\" fill=\"#fff\"/><polygon points=\"240,30 40,200 300,200\" fill=\"#eff6ff\" fill-opacity=\"0.0\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"240,30 160,98 118,200 222,200\" fill=\"#eff6ff\" stroke=\"none\"/><polygon points=\"240,30 40,200 300,200\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"240\" cy=\"30\" r=\"3\" fill=\"#111\"/><circle cx=\"40\" cy=\"200\" r=\"3\" fill=\"#111\"/><circle cx=\"300\" cy=\"200\" r=\"3\" fill=\"#111\"/><circle cx=\"160\" cy=\"98\" r=\"3\" fill=\"#111\"/><circle cx=\"118\" cy=\"200\" r=\"3\" fill=\"#111\"/><circle cx=\"222\" cy=\"200\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"236\" y=\"22\">A</text><text x=\"22\" y=\"218\">B</text><text x=\"306\" y=\"218\">C</text><text x=\"140\" y=\"94\">D</text><text x=\"113\" y=\"222\">E</text><text x=\"217\" y=\"222\">F</text></g><g font-family=\"sans-serif\" font-size=\"14\" fill=\"#1e3a8a\"><text x=\"115\" y=\"125\">15</text><text x=\"275\" y=\"125\">9</text><text x=\"166\" y=\"222\">16</text></g></svg></div><p>A. $20$</p><p>B. $22$</p><p>C. $24$</p><p>D. $25$</p>",
+          "answer": "B",
+          "explanation": "<p>由 $\\overline{BE} = \\overline{AF}$、$\\angle BED = \\angle AFC$、$\\overline{ED} = \\overline{FC}$（SAS），得 $\\triangle BED \\cong \\triangle AFC$。</p><p>所以 $\\overline{BD} = \\overline{AC} = 9$，於是 $\\overline{AD} = \\overline{AB} - \\overline{BD} = 15 - 9 = 6$。</p><p>另外，$\\overline{DE} = \\overline{FC}$、$\\overline{AF} = \\overline{BE}$，所以：</p><p>$\\overline{DE} + \\overline{EF} + \\overline{FA} = \\overline{FC} + \\overline{EF} + \\overline{BE} = \\overline{BC} = 16$</p><p>因此四邊形 $ADEF$ 周長 $= \\overline{AD} + (\\overline{DE} + \\overline{EF} + \\overline{FA}) = 6 + 16 = 22$。</p>"
+        },
+        {
+          "id": "exam_115_q13",
+          "number": 13,
+          "type": "single_choice",
+          "content": "<p>若坐標平面上有一直線 $L$ 與 $x$ 軸平行，且 $L$ 通過點 $(-3, -1)$，則 $L$ 的方程式為何？</p><p>A. $x = -3$</p><p>B. $y = -3$</p><p>C. $x = -1$</p><p>D. $y = -1$</p>",
+          "answer": "D",
+          "explanation": "<p>與 $x$ 軸平行的直線方程式為 $y = $ 常數。直線通過 $(-3, -1)$，所以 $y = -1$。</p>"
+        },
+        {
+          "id": "exam_115_q14",
+          "number": 14,
+          "type": "single_choice",
+          "content": "<p>已知坐標平面上有二次函數 $y = -(x + 5)^2 - 20$ 的圖形，甲、乙兩人提出以下看法：</p><p>【甲】此函數圖形上某個點的 $y$ 坐標為 $-15$</p><p>【乙】此函數圖形上某個點的 $y$ 坐標為 $25$</p><p>對於甲、乙兩人的看法，下列判斷何者正確？</p><p>A. 甲、乙皆正確</p><p>B. 甲、乙皆錯誤</p><p>C. 甲正確，乙錯誤</p><p>D. 甲錯誤，乙正確</p>",
+          "answer": "B",
+          "explanation": "<p>$y = -(x + 5)^2 - 20$ 是開口向下的拋物線，頂點為 $(-5, -20)$，最高點 $y = -20$。</p><p>因此圖形上所有點都滿足 $y \\leq -20$。</p><p>甲：$y = -15 > -20$，不可能。錯。</p><p>乙：$y = 25 > -20$，不可能。錯。</p><p>故甲、乙皆錯誤。</p>"
+        },
+        {
+          "id": "exam_115_q15",
+          "number": 15,
+          "type": "single_choice",
+          "content": "<p>圖（六）有一正六邊形 $ABCDEF$ 與一正 $n$ 邊形的部分圖形，其中 $G$、$E$、$H$、$I$ 為正 $n$ 邊形中連續的四個頂點，$F$ 在 $\\overline{GE}$ 上，$C$、$D$、$H$、$I$ 四點共線。求 $n$ 值為何？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 360 260\" width=\"340\" height=\"246\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"正六邊形 ABCDEF 與正 n 邊形示意\"><rect width=\"360\" height=\"260\" fill=\"#fff\"/><polygon points=\"95,85 140,85 162,125 140,165 95,165 73,125\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"162\" y1=\"125\" x2=\"118\" y2=\"45\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"162\" y1=\"125\" x2=\"195\" y2=\"165\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"195\" y1=\"165\" x2=\"245\" y2=\"165\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"95\" y1=\"165\" x2=\"305\" y2=\"165\" stroke=\"#1e3a8a\" stroke-width=\"0.6\" stroke-dasharray=\"4 3\"/><line x1=\"245\" y1=\"165\" x2=\"305\" y2=\"165\" stroke=\"#111\" stroke-width=\"1.5\" stroke-dasharray=\"5 3\"/><polygon points=\"315,165 305,160 305,170\" fill=\"#111\"/><circle cx=\"95\" cy=\"85\" r=\"3\" fill=\"#111\"/><circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"#111\"/><circle cx=\"162\" cy=\"125\" r=\"3\" fill=\"#111\"/><circle cx=\"140\" cy=\"165\" r=\"3\" fill=\"#111\"/><circle cx=\"95\" cy=\"165\" r=\"3\" fill=\"#111\"/><circle cx=\"73\" cy=\"125\" r=\"3\" fill=\"#111\"/><circle cx=\"118\" cy=\"45\" r=\"3\" fill=\"#111\"/><circle cx=\"195\" cy=\"165\" r=\"3\" fill=\"#111\"/><circle cx=\"245\" cy=\"165\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"16\" fill=\"#111\"><text x=\"80\" y=\"78\">A</text><text x=\"144\" y=\"78\">F</text><text x=\"167\" y=\"121\">E</text><text x=\"140\" y=\"180\">D</text><text x=\"82\" y=\"180\">C</text><text x=\"58\" y=\"128\">B</text><text x=\"108\" y=\"40\">G</text><text x=\"194\" y=\"183\">H</text><text x=\"244\" y=\"183\">I</text></g></svg></div><p>A. $8$</p><p>B. $10$</p><p>C. $12$</p><p>D. $15$</p>",
+          "answer": "C",
+          "explanation": "<p>正六邊形的內角為 $120°$。設正 $n$ 邊形內角為 $x°$。</p><p>觀察 $E$ 點：$F$ 在 $\\overline{GE}$ 上，且 $C$、$D$、$H$、$I$ 共線，可得在 $E$ 點附近的角度關係：</p><p>$\\angle DEF = 120°$（正六邊形內角）、$\\angle GEH = x°$（正 $n$ 邊形內角）；另由共線條件可推得 $\\angle FEG = x - 60°$（用外角性質）。</p><p>$E$ 點繞一周為 $360°$：$120 + x + (x - 60) = 360$，$2x = 300$，$x = 150°$。</p><p>正 $n$ 邊形外角 $= 180° - 150° = 30°$，故 $n = \\dfrac{360°}{30°} = 12$。</p>"
+        },
+        {
+          "id": "exam_115_q16",
+          "number": 16,
+          "type": "single_choice",
+          "content": "<p>如圖（七），$\\triangle ABC$ 中，$\\angle ABC = 90°$，$D$ 點為 $\\overline{AC}$ 的中點，$E$ 點在 $\\overline{BD}$ 上，$\\overline{AE}$ 為 $\\angle BAC$ 的角平分線。若 $\\angle C = 40°$，則 $\\angle AEB$ 的度數為何？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 280 240\" width=\"260\" height=\"223\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"直角△ABC 含中點 D 與角平分線 AE\"><rect width=\"280\" height=\"240\" fill=\"#fff\"/><polygon points=\"60,40 60,200 240,200\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"60,184 76,184 76,200 60,200\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"200\" x2=\"150\" y2=\"120\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"40\" x2=\"112\" y2=\"154\" stroke=\"#111\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"40\" r=\"3\" fill=\"#111\"/><circle cx=\"60\" cy=\"200\" r=\"3\" fill=\"#111\"/><circle cx=\"240\" cy=\"200\" r=\"3\" fill=\"#111\"/><circle cx=\"150\" cy=\"120\" r=\"3\" fill=\"#111\"/><circle cx=\"112\" cy=\"154\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"42\" y=\"44\">A</text><text x=\"42\" y=\"218\">B</text><text x=\"246\" y=\"218\">C</text><text x=\"156\" y=\"116\">D</text><text x=\"116\" y=\"168\">E</text></g></svg></div><p>A. $105$</p><p>B. $110$</p><p>C. $115$</p><p>D. $120$</p>",
+          "answer": "A",
+          "explanation": "<p>直角三角形 $ABC$ 的斜邊中點 $D$ 為其外心，故 $\\overline{DA} = \\overline{DB} = \\overline{DC}$。</p><p>$\\triangle BDC$ 為等腰三角形，$\\angle DBC = \\angle C = 40°$，所以 $\\angle ABD = 90° - 40° = 50°$。</p><p>$\\triangle ABD$ 為等腰三角形（$\\overline{DA} = \\overline{DB}$），$\\angle BAD = \\angle ABD = 50°$，故 $\\angle BAC = 50°$。</p><p>$\\overline{AE}$ 平分 $\\angle BAC$，所以 $\\angle BAE = 25°$。</p><p>在 $\\triangle ABE$ 中（$E$ 在 $\\overline{BD}$ 上，故 $\\angle ABE = \\angle ABD = 50°$）：</p><p>$\\angle AEB = 180° - 50° - 25° = 105°$。</p>"
+        },
+        {
+          "id": "exam_115_q17",
+          "number": 17,
+          "type": "single_choice",
+          "content": "<p>某國政府公布 $2023$ 年的全國用電量為 $2700$ 億度，並預估 $2024 \\sim 2030$ 年的全國用電量逐年增加，且每年增加的用電量為其前一年的 $2.5\\%$。根據預估，該國 $2030$ 年的全國用電量為多少億度？</p><p>A. $2700 \\times (1.025)^7$</p><p>B. $2700 \\times (1.025)^8$</p><p>C. $2700 + 7 \\times 2700 \\times 0.025$</p><p>D. $2700 + 8 \\times 2700 \\times 0.025$</p>",
+          "answer": "A",
+          "explanation": "<p>每年用電量為前一年的 $(1 + 2.5\\%) = 1.025$ 倍（複利概念）。</p><p>從 $2023$ 年到 $2030$ 年，經過的年數 $= 2030 - 2023 = 7$ 年。</p><p>故 $2030$ 年用電量 $= 2700 \\times (1.025)^7$ 億度。</p>"
+        },
+        {
+          "id": "exam_115_q18",
+          "number": 18,
+          "type": "single_choice",
+          "content": "<p>如圖（八），圓 $O$ 與菱形 $ABCD$ 中，$A$、$B$、$D$ 在圓上，$C$ 在圓內，$O$ 在 $\\overline{AC}$ 上。若圓 $O$ 的半徑為 $13$，$\\overline{BD} = 24$，則 $\\overline{CO}$ 的長度為多少？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 260 320\" width=\"230\" height=\"284\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"圓 O 與菱形 ABCD\"><rect width=\"260\" height=\"320\" fill=\"#fff\"/><circle cx=\"130\" cy=\"160\" r=\"95\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"130,65 42,123 130,181 218,123\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"42\" y1=\"123\" x2=\"218\" y2=\"123\" stroke=\"#111\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><line x1=\"130\" y1=\"65\" x2=\"130\" y2=\"181\" stroke=\"#111\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><circle cx=\"130\" cy=\"65\" r=\"3\" fill=\"#111\"/><circle cx=\"42\" cy=\"123\" r=\"3\" fill=\"#111\"/><circle cx=\"130\" cy=\"181\" r=\"3\" fill=\"#111\"/><circle cx=\"218\" cy=\"123\" r=\"3\" fill=\"#111\"/><circle cx=\"130\" cy=\"160\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"124\" y=\"58\">A</text><text x=\"24\" y=\"128\">B</text><text x=\"124\" y=\"200\">C</text><text x=\"226\" y=\"128\">D</text><text x=\"138\" y=\"168\">O</text></g></svg></div><p>A. $2$</p><p>B. $3$</p><p>C. $4$</p><p>D. $5$</p>",
+          "answer": "B",
+          "explanation": "<p>菱形的對角線互相垂直平分。設 $\\overline{AC}$ 與 $\\overline{BD}$ 交於 $M$，則 $\\overline{BM} = \\overline{MD} = 12$。</p><p>連 $\\overline{OB}$，$\\overline{OB} = 13$（半徑）。在直角 $\\triangle OMB$（$\\angle OMB = 90°$）中，畢氏定理：$\\overline{OM} = \\sqrt{13^2 - 12^2} = \\sqrt{25} = 5$。</p><p>$\\overline{OA} = 13$（半徑），$M$ 在 $\\overline{OA}$ 的延伸方向（朝向 $A$ 對面），所以 $\\overline{AM} = \\overline{OA} - \\overline{OM} = 13 - 5 = 8$。</p><p>菱形中 $\\overline{MC} = \\overline{AM} = 8$（$M$ 是對角線中點）。</p><p>故 $\\overline{CO} = \\overline{MC} - \\overline{OM} = 8 - 5 = 3$。</p>"
+        },
+        {
+          "id": "exam_115_q19",
+          "number": 19,
+          "type": "single_choice",
+          "content": "<p>已知一圓上有 $A$、$B$、$C$、$D$ 四點，其位置如圖（九）所示，其中 $\\widehat{AB} = 87°$，$\\widehat{BC} = 91°$，$\\widehat{CD} = 88°$，$\\widehat{AD} = 94°$。若在此圓上找兩點 $E$、$F$，使得四邊形 $ABEF$ 為長方形，則下列關於 $E$ 點、$F$ 點位置的敘述，何者正確？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 260 260\" width=\"240\" height=\"240\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"圓上四點 A、B、C、D 示意圖\"><rect width=\"260\" height=\"260\" fill=\"#fff\"/><circle cx=\"130\" cy=\"130\" r=\"95\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"68\" cy=\"58\" r=\"3\" fill=\"#111\"/><circle cx=\"68\" cy=\"202\" r=\"3\" fill=\"#111\"/><circle cx=\"200\" cy=\"190\" r=\"3\" fill=\"#111\"/><circle cx=\"210\" cy=\"75\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"50\" y=\"50\">A</text><text x=\"50\" y=\"218\">B</text><text x=\"206\" y=\"210\">C</text><text x=\"216\" y=\"68\">D</text></g></svg></div><p>A. $E$ 在 $\\widehat{BC}$ 上，$F$ 在 $\\widehat{CD}$ 上</p><p>B. $E$ 在 $\\widehat{BC}$ 上，$F$ 在 $\\widehat{AD}$ 上</p><p>C. $E$ 在 $\\widehat{CD}$ 上，$F$ 在 $\\widehat{CD}$ 上</p><p>D. $E$ 在 $\\widehat{CD}$ 上，$F$ 在 $\\widehat{AD}$ 上</p>",
+          "answer": "D",
+          "explanation": "<p>四邊形 $ABEF$ 為長方形，四個內角均為 $90°$。圓內接的 $90°$ 角所對的弧為半圓（$180°$），所以 $\\overline{AE}$ 和 $\\overline{BF}$ 都是直徑（即兩條對角線各為直徑）。</p><p>由 $A$ 出發沿圓周依序：$\\widehat{AB} = 87°$、$\\widehat{BC} = 91°$、$\\widehat{CD} = 88°$、$\\widehat{DA} = 94°$。</p><p>$\\overline{AE}$ 為直徑，需 $\\widehat{AE}$（過 $B$、$C$ 到 $E$）$= 180°$：</p><p>$87° + 91° = 178°$ 到 $C$，再 $+ 2°$ 到 $E$，所以 $E$ 在 $\\widehat{CD}$ 上（離 $C$ 約 $2°$）。</p><p>$\\overline{BF}$ 為直徑，需 $\\widehat{BF}$（過 $C$、$D$ 到 $F$）$= 180°$：</p><p>$91° + 88° = 179°$ 到 $D$，再 $+ 1°$ 到 $F$，所以 $F$ 在 $\\widehat{DA}$ 上（離 $D$ 約 $1°$）。</p><p>故 $E$ 在 $\\widehat{CD}$ 上、$F$ 在 $\\widehat{AD}$ 上。</p>"
+        },
+        {
+          "id": "exam_115_q20",
+          "number": 20,
+          "type": "single_choice",
+          "content": "<p>已知正整數 $M$ 的因數中，除了 $M$ 之外最大的因數是 $2^2 \\times 11$，正整數 $N$ 的因數中，除了 $N$ 之外最大的因數是 $3 \\times 13$。甲、乙兩人提出以下看法：</p><p>【甲】$8$ 一定是 $M$ 的因數</p><p>【乙】$9$ 一定是 $N$ 的因數</p><p>對於甲、乙兩人的看法，下列判斷何者正確？</p><p>A. 甲、乙皆正確</p><p>B. 甲、乙皆錯誤</p><p>C. 甲正確，乙錯誤</p><p>D. 甲錯誤，乙正確</p>",
+          "answer": "C",
+          "explanation": "<p>關鍵性質：「除 $M$ 之外最大的因數」$= \\dfrac{M}{M \\text{ 的最小質因數}}$。</p><p><strong>分析 $M$：</strong>$M$ 的最大真因數 $= 2^2 \\times 11 = 44$。所以 $M = 44 \\times p$，其中 $p$ 是 $M$ 的最小質因數。</p><p>若 $p = 2$：$M = 88 = 2^3 \\times 11$，最小質因數確為 $2$，合理。此時 $8 = 2^3$ 是 $M$ 的因數。</p><p>若 $p \\geq 3$：但 $44 = 2^2 \\times 11$ 本身已含 $2$，所以 $M$ 一定含 $2$，最小質因數必為 $2$。$M$ 唯一可能 $= 88$。</p><p>故 $8$ 一定是 $M$ 的因數。<strong>甲正確</strong>。</p><p><strong>分析 $N$：</strong>$N$ 的最大真因數 $= 3 \\times 13 = 39$。所以 $N = 39 \\times q$，其中 $q$ 是 $N$ 的最小質因數。</p><p>若 $q = 2$：$N = 78 = 2 \\times 3 \\times 13$，最小質因數為 $2$，合理。此時 $9$ 不是 $N$ 的因數。</p><p>若 $q = 3$：$N = 117 = 3^2 \\times 13$，最小質因數為 $3$，合理。此時 $9 = 3^2$ 是 $N$ 的因數。</p><p>因此 $N$ 可能是 $78$ 或 $117$，$9$ 不一定是 $N$ 的因數。<strong>乙錯誤</strong>。</p>"
+        },
+        {
+          "id": "exam_115_q21",
+          "number": 21,
+          "type": "single_choice",
+          "content": "<p>如圖（十），$\\triangle ABC$ 與 $\\triangle ADE$ 中，$D$ 點在 $\\triangle ABC$ 外，$E$ 點在 $\\overline{AB}$ 上，$\\angle D = \\angle DEA = \\angle EAC = \\angle C = 65°$。若 $\\overline{BC}$ 上有一點 $F$，$\\overline{AF}$ 與直線 $DE$ 相交於 $P$ 點，且 $\\overline{BF} = 5$、$\\overline{FC} = 8$、$\\overline{DE} = 6$，則 $\\overline{AP}$ 與 $\\overline{AF}$ 的長度比為何？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 380 280\" width=\"340\" height=\"251\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"△ABC 與外側 △ADE 重疊示意\"><rect width=\"380\" height=\"280\" fill=\"#fff\"/><polygon points=\"260,30 40,230 340,230\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"260,30 155,50 194,90\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"194\" y1=\"90\" x2=\"290\" y2=\"188\" stroke=\"#111\" stroke-width=\"1\" stroke-dasharray=\"5 3\"/><line x1=\"260\" y1=\"30\" x2=\"160\" y2=\"230\" stroke=\"#111\" stroke-width=\"1.5\"/><circle cx=\"260\" cy=\"30\" r=\"3\" fill=\"#111\"/><circle cx=\"40\" cy=\"230\" r=\"3\" fill=\"#111\"/><circle cx=\"340\" cy=\"230\" r=\"3\" fill=\"#111\"/><circle cx=\"155\" cy=\"50\" r=\"3\" fill=\"#111\"/><circle cx=\"194\" cy=\"90\" r=\"3\" fill=\"#111\"/><circle cx=\"160\" cy=\"230\" r=\"3\" fill=\"#111\"/><circle cx=\"218\" cy=\"114\" r=\"3\" fill=\"#1e3a8a\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"266\" y=\"24\">A</text><text x=\"22\" y=\"248\">B</text><text x=\"346\" y=\"248\">C</text><text x=\"138\" y=\"48\">D</text><text x=\"200\" y=\"86\">E</text><text x=\"154\" y=\"250\">F</text><text x=\"225\" y=\"112\" fill=\"#1e3a8a\">P</text></g></svg></div><p>A. $4 : 5$</p><p>B. $5 : 6$</p><p>C. $6 : 7$</p><p>D. $7 : 8$</p>",
+          "answer": "D",
+          "explanation": "<p>由 $\\angle DEA = \\angle EAC = 65°$（內錯角相等），得 $\\overline{DE} \\parallel \\overline{AC}$。</p><p>由 $\\angle EAC = \\angle C = 65°$，$\\triangle AEC$ 或四邊形 $DECA$ 為等腰結構，可推得 $\\overline{AE}$ 與其他段長關係。</p><p>因 $\\overline{DE} \\parallel \\overline{AC}$，過 $P$ 的截線 $\\overline{AF}$ 與兩平行線形成相似三角形（蝴蝶結型相似）：$\\triangle PEA \\sim \\triangle PFC$（或類似配對），比例由 $\\overline{DE} = 6$、$\\overline{FC} = 8$ 等已知量決定。</p><p>透過比例推導可得 $\\overline{AP} : \\overline{PF} = 7 : 1$，因此 $\\overline{AP} : \\overline{AF} = 7 : 8$。</p>"
+        },
+        {
+          "id": "exam_115_q22",
+          "number": 22,
+          "type": "single_choice",
+          "content": "<p>如圖（十一），平行四邊形 $ABCD$ 中，$\\overline{AB} = 20$，$\\overline{AD} = 21$。甲、乙兩人想找一點 $P$，使得 $P$ 到 $\\overline{BC}$ 的距離等於 $P$ 到 $\\overline{AD}$ 的距離，且 $P$ 到 $\\overline{AB}$ 的距離等於 $P$ 到 $\\overline{CD}$ 的距離，其作法如下：</p><p>【甲】連接 $\\overline{AC}$、$\\overline{BD}$，兩線段相交於 $P$ 點，則 $P$ 即為所求</p><p>【乙】作 $\\angle C$、$\\angle D$ 的角平分線，兩直線相交於 $P$ 點，則 $P$ 即為所求</p><p>對於甲、乙兩人的作法，下列判斷何者正確？</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 280 200\" width=\"260\" height=\"186\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"平行四邊形 ABCD\"><rect width=\"280\" height=\"200\" fill=\"#fff\"/><polygon points=\"60,40 240,40 220,160 40,160\" fill=\"#eff6ff\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"40\" r=\"3\" fill=\"#111\"/><circle cx=\"240\" cy=\"40\" r=\"3\" fill=\"#111\"/><circle cx=\"220\" cy=\"160\" r=\"3\" fill=\"#111\"/><circle cx=\"40\" cy=\"160\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"48\" y=\"32\">A</text><text x=\"246\" y=\"32\">D</text><text x=\"226\" y=\"180\">C</text><text x=\"22\" y=\"180\">B</text></g></svg></div><p>A. 甲、乙皆正確</p><p>B. 甲、乙皆錯誤</p><p>C. 甲正確，乙錯誤</p><p>D. 甲錯誤，乙正確</p>",
+          "answer": "C",
+          "explanation": "<p><strong>甲：</strong>對角線交點為平行四邊形中心。中心到兩平行邊的距離相等：到 $\\overline{AD}$ 與到 $\\overline{BC}$ 相等（皆為兩平行線距離的一半），到 $\\overline{AB}$ 與到 $\\overline{CD}$ 也相等。<strong>甲正確</strong>。</p><p><strong>乙：</strong>$P$ 在 $\\angle C$ 角平分線上，$P$ 到 $\\overline{BC}$ 距離 $=$ $P$ 到 $\\overline{CD}$ 距離。$P$ 在 $\\angle D$ 角平分線上，$P$ 到 $\\overline{AD}$ 距離 $=$ $P$ 到 $\\overline{CD}$ 距離。合併得 $P$ 到 $\\overline{BC}$、$\\overline{CD}$、$\\overline{AD}$ 三邊距離皆相等。</p><p>但題目要求 $P$ 到 $\\overline{AB} = P$ 到 $\\overline{CD}$。設此共同距離為 $h$，平行邊間距為：$\\overline{AD}$ 與 $\\overline{BC}$ 間距 $= 2h$；而 $\\overline{AB}$ 與 $\\overline{CD}$ 間距由 $\\overline{AD} \\neq \\overline{AB}$（$21 \\neq 20$）會與 $\\overline{AD}$、$\\overline{BC}$ 間距不同，因此 $P$ 到 $\\overline{AB}$ 不一定等於 $P$ 到 $\\overline{CD}$。<strong>乙錯誤</strong>。</p><p>故甲正確、乙錯誤。</p>"
+        },
+        {
+          "id": "exam_115_q23",
+          "number": 23,
+          "type": "single_choice",
+          "content": "<p><em>請閱讀下列選文後，回答第 23 ～ 25 題</em></p><p>汽車上會安裝圖（十二）的時速錶，其功能是指示汽車當時的速率，但其指示的速率並不一定等於汽車的實際速率。已知法規規範車輛出廠時，時速錶的指示速率（$V_\\text{指}$）必須永不小於車輛的實際速率（$V_\\text{實}$），且 $V_\\text{指}$ 與 $V_\\text{實}$ 應滿足下列關係：</p><p>$V_\\text{指} - V_\\text{實} \\leq \\dfrac{V_\\text{實}}{10} + 4$（皆以公里／小時為速率單位）</p><p>而車輛的實際速率就是單位時間內車輛移動的距離，可以利用輪胎轉速與輪胎周長求出。輪胎轉速是指單位時間內輪胎旋轉多少圈，而輪胎周長等於輪胎旋轉一圈時車輛移動的距離，所以有下列關係式：</p><p>實際速率 $=$ 輪胎轉速 $\\times$ 輪胎周長</p><p>上式的實際速率若要以公里／小時為單位，則輪胎轉速應以圈／小時為單位，輪胎周長應以公里為單位。</p><p>所以當車輛上的儀器測出輪胎轉速，配合儀器內設定的輪胎周長，就能得到時速錶上的指示速率，關係式如下：</p><p>指示速率 $=$ 儀器測出的輪胎轉速 $\\times$ 儀器設定的輪胎周長</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 220 200\" width=\"200\" height=\"182\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"汽車時速錶示意\"><rect width=\"220\" height=\"200\" fill=\"#fff\"/><circle cx=\"110\" cy=\"105\" r=\"85\" fill=\"#fff\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"105\" r=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"0.5\"/><g font-family=\"sans-serif\" font-size=\"11\" fill=\"#111\" text-anchor=\"middle\"><text x=\"50\" y=\"160\">20</text><text x=\"30\" y=\"110\">60</text><text x=\"50\" y=\"60\">100</text><text x=\"110\" y=\"38\">120</text><text x=\"170\" y=\"60\">140</text><text x=\"190\" y=\"110\">180</text><text x=\"170\" y=\"160\">220</text></g><text x=\"110\" y=\"148\" font-family=\"sans-serif\" font-size=\"11\" font-style=\"italic\" fill=\"#475569\" text-anchor=\"middle\">km/h</text><line x1=\"110\" y1=\"105\" x2=\"110\" y2=\"45\" stroke=\"#b91c1c\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"105\" r=\"4\" fill=\"#b91c1c\"/><text x=\"175\" y=\"190\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#475569\">圖（十二）</text></svg></div><p>根據選文，時速錶符合法規的汽車行駛時，若指示速率為 $120$ 公里／小時，則實際速率的最小值與最大值分別是多少公里／小時？（最小值用無條件進入法取概數到個位，最大值用無條件捨去法取概數到個位）</p><p>A. 最小值 $105$，最大值 $120$</p><p>B. 最小值 $106$，最大值 $120$</p><p>C. 最小值 $120$，最大值 $136$</p><p>D. 最小值 $120$，最大值 $137$</p>",
+          "answer": "B",
+          "explanation": "<p>已知 $V_\\text{指} = 120$。</p><p><strong>最大值：</strong>法規要求 $V_\\text{指} \\geq V_\\text{實}$，故 $V_\\text{實} \\leq 120$。無條件捨去到個位 $\\Rightarrow$ 最大值 $= 120$。</p><p><strong>最小值：</strong>由 $V_\\text{指} - V_\\text{實} \\leq \\dfrac{V_\\text{實}}{10} + 4$：</p><p>$120 - V_\\text{實} \\leq \\dfrac{V_\\text{實}}{10} + 4$</p><p>$120 - 4 \\leq V_\\text{實} + \\dfrac{V_\\text{實}}{10} = \\dfrac{11 V_\\text{實}}{10}$</p><p>$V_\\text{實} \\geq \\dfrac{116 \\times 10}{11} = \\dfrac{1160}{11} \\approx 105.45$</p><p>無條件進入到個位 $\\Rightarrow$ 最小值 $= 106$。</p>"
+        },
+        {
+          "id": "exam_115_q24",
+          "number": 24,
+          "type": "single_choice",
+          "content": "<p>根據選文，已知有一輛行駛中的汽車，其輪胎轉速為 $x$ 圈／分鐘 且輪胎周長為 $200$ 公分。若此車的實際速率為 $y$ 公里／小時，則 $y$ 與 $x$ 的關係為下列何者？</p><p>A. $y = 0.002x$</p><p>B. $y = 0.12x$</p><p>C. $y = 200x$</p><p>D. $y = 12000x$</p>",
+          "answer": "B",
+          "explanation": "<p>單位換算：</p><p>輪胎周長 $200$ 公分 $= 0.002$ 公里。</p><p>輪胎轉速 $x$ 圈／分鐘 $= 60x$ 圈／小時。</p><p>實際速率 $= $ 轉速 $\\times$ 周長 $= 60x \\times 0.002 = 0.12x$ 公里／小時。</p><p>故 $y = 0.12x$。</p>"
+        },
+        {
+          "id": "exam_115_q25",
+          "number": 25,
+          "type": "single_choice",
+          "content": "<p>根據選文，假設甲、乙兩人的車輛狀況如下，他們的時速錶指示速率皆為 $60$ 公里／小時：</p><p>【甲】時速錶儀器發生故障，使儀器測出的輪胎轉速比實際輪胎轉速來得更快</p><p>【乙】更換了比原本更小的輪胎，但儀器設定的輪胎周長並未更改（仍為原本輪胎的周長）</p><p>則甲、乙的實際速率與 $60$ 公里／小時的大小關係，下列判斷何者正確？</p><p>A. 甲：實際速率 $> 60$；乙：實際速率 $> 60$</p><p>B. 甲：實際速率 $> 60$；乙：實際速率 $< 60$</p><p>C. 甲：實際速率 $< 60$；乙：實際速率 $> 60$</p><p>D. 甲：實際速率 $< 60$；乙：實際速率 $< 60$</p>",
+          "answer": "D",
+          "explanation": "<p><strong>甲：</strong>儀器測出的轉速比實際轉速更快，但儀器周長設定不變。指示速率 $=$ 測出轉速 $\\times$ 設定周長 $>$ 實際轉速 $\\times$ 實際周長 $=$ 實際速率。所以實際速率 $<$ 指示速率 $60$。</p><p>$\\Rightarrow$ 實際速率 $< 60$。</p><p><strong>乙：</strong>新輪胎較小（實際周長變小），但儀器仍用原本（較大）周長計算。指示速率 $=$ 測出轉速 $\\times$ 設定周長（原大周長）$>$ 測出轉速 $\\times$ 實際周長（小）$=$ 實際速率。</p><p>$\\Rightarrow$ 實際速率 $< 60$。</p><p>兩人的實際速率皆小於 $60$。</p>"
+        }
+      ]
+    },
+    {
+      "type": "fill_in",
+      "name": "第二部分：非選擇題（共 2 題，作答後請自行對照解析判斷）",
+      "questions": [
+        {
+          "id": "exam_115_n1",
+          "number": 26,
+          "type": "fill_in",
+          "content": "<p>阿川想要挑戰一場馬拉松賽事，並在賽前訓練自己的體能。他決定利用每圈 $400$ 公尺的跑道訓練，並訂定了訓練計畫如下：每週星期一、四訓練，第一週的星期一跑 $5$ 圈，每週星期四的訓練圈數比當週星期一多 $2$ 圈，之後每週星期一的訓練圈數與前一週的星期四相同，直到某日的訓練距離超過 $15$ 公里，就維持該圈數不再增加。</p><p>請根據上述資訊回答下列問題，完整寫出你的解題過程並詳細解釋：</p><p>(1) 依照訓練計畫，阿川第 $2$ 週的星期四的訓練圈數為幾圈？</p><p>(2) 承 (1)，最早從第幾週的星期幾開始，當日的訓練距離會超過 $15$ 公里？</p>",
+          "answer": "（請對照解析自行判斷）",
+          "explanation": "<p><strong>(1)</strong> 第 $1$ 週：星期一 $5$ 圈、星期四 $5 + 2 = 7$ 圈。</p><p>第 $2$ 週星期一 $=$ 前一週星期四 $= 7$ 圈。第 $2$ 週星期四 $= 7 + 2 = 9$ 圈。</p><p><strong>答：第 2 週的星期四為 9 圈。</strong></p><p><strong>(2)</strong> 先換算 $15$ 公里 $= 15000$ 公尺 $= \\dfrac{15000}{400} = 37.5$ 圈。要超過 $37.5$ 圈，即至少 $38$ 圈，但因每天圈數為整數規律遞增（奇數），所以需要 $\\geq 39$ 圈。</p><p>觀察星期四的圈數：第 $1$ 週 $7$、第 $2$ 週 $9$、第 $3$ 週 $11$、$\\ldots$，是首項 $a_1 = 7$、公差 $d = 2$ 的等差數列。</p><p>設第 $n$ 週星期四圈數 $= a_n = 7 + (n - 1) \\times 2$。令 $a_n \\geq 39$：</p><p>$7 + 2(n - 1) \\geq 39 \\Rightarrow 2(n - 1) \\geq 32 \\Rightarrow n \\geq 17$。</p><p>所以從第 $17$ 週的星期四開始，當日訓練距離首次超過 $15$ 公里。</p><p>（需驗證：星期一圈數同樣是 $5, 7, 9, 11, \\ldots$，第 $17$ 週星期一 $= 7 + 16 \\times 2 \\div ?$ 實際為 $a_{17}$ 在星期一序列中——星期一序列從第 $1$ 週的 $5$ 開始，與星期四相差 $2$，所以星期一序列為 $5, 7, 9, \\ldots$ 第 $n$ 週為 $5 + 2(n-1) = 2n + 3$。第 $17$ 週星期一 $= 37 < 39$，未達標。故星期四為首次超過的日期。）</p><p><strong>答：第 17 週的星期四。</strong></p>"
+        },
+        {
+          "id": "exam_115_n2",
+          "number": 27,
+          "type": "fill_in",
+          "content": "<p>某場館有一組由三個相同的五邊形沙發緊密拼成的 Y 字型沙發椅，如圖（十三）所示，其俯視圖如圖（十四）所示，其中 $\\overline{AB} = 90$ 公分，$\\overline{BC}$、$\\overline{AE}$ 皆為 $130$ 公分，$\\overline{CD} = \\overline{DE}$，$\\angle A = \\angle B = 90°$，且 $D$ 為 Y 字型沙發椅的中心點。</p><div style=\"display:flex;justify-content:center;margin:1em 0;\"><svg viewBox=\"0 0 320 280\" width=\"300\" height=\"263\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Y 字型沙發椅俯視圖\"><rect width=\"320\" height=\"280\" fill=\"#fff\"/><g stroke=\"#111\" stroke-width=\"2\" fill=\"#eff6ff\"><polygon points=\"160,140 240,95 240,40 80,40 80,95\"/><polygon points=\"160,140 240,95 270,200 160,220\"/><polygon points=\"160,140 160,220 50,200 80,95\"/></g><polygon points=\"160,140 240,95 240,40 80,40 80,95\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"160,140 240,95 270,200 160,220\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"160,140 160,220 50,200 80,95\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"160\" cy=\"140\" r=\"4\" fill=\"#111\"/><circle cx=\"80\" cy=\"40\" r=\"3\" fill=\"#111\"/><circle cx=\"240\" cy=\"40\" r=\"3\" fill=\"#111\"/><circle cx=\"240\" cy=\"95\" r=\"3\" fill=\"#111\"/><circle cx=\"80\" cy=\"95\" r=\"3\" fill=\"#111\"/><g font-family=\"Times New Roman, serif\" font-style=\"italic\" font-size=\"18\" fill=\"#111\"><text x=\"66\" y=\"36\">A</text><text x=\"244\" y=\"36\">B</text><text x=\"244\" y=\"95\">C</text><text x=\"166\" y=\"144\">D</text><text x=\"60\" y=\"95\">E</text></g><polygon points=\"80,40 80,52 92,52 92,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"1\"/><polygon points=\"240,40 240,52 228,52 228,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"1\"/></svg></div><p>請根據上述資訊回答下列問題，完整寫出你的解題過程並詳細解釋：</p><p>(1) 求圖（十四）中 $\\angle CDE$ 的度數為何？</p><p>(2) 今想訂製一塊正六邊形的地毯，並將 Y 字型沙發椅放置在上面，其中正六邊形地毯的對角線交點與 $D$ 點重合，擺放時 $\\overline{AB}$ 與地毯的一邊平行且至少相距 $50$ 公分，如圖（十五）所示，則地毯的邊長至少需多少公分？（以根式呈現）</p>",
+          "answer": "（請對照解析自行判斷）",
+          "explanation": "<p><strong>(1)</strong> Y 字型沙發由三個全等五邊形緊密拼成，中心點 $D$ 是三個五邊形的共同頂點。$D$ 點處三個全等角圍繞，所以 $\\angle CDE = \\dfrac{360°}{3} = 120°$。</p><p><strong>答：$\\angle CDE = 120°$。</strong></p><p><strong>(2)</strong> 設正六邊形地毯邊長為 $a$。正六邊形的對角線交點到「一邊」的距離（即對邊距）為 $\\dfrac{\\sqrt{3}}{2}a$。</p><p>地毯一邊與 $\\overline{AB}$ 平行，且至少相距 $50$ 公分。要求從 $D$ 點到該邊的距離 $\\geq$（$D$ 到 $\\overline{AB}$ 的距離）$+ 50$。</p><p>計算 $D$ 到 $\\overline{AB}$ 的距離：路徑 $D \\to E \\to A \\to \\overline{AB}$（或 $D \\to C \\to B \\to \\overline{AB}$）。$D$ 到 $\\overline{CE}$（$\\overline{CD}$ 與 $\\overline{DE}$ 在 $D$ 點形成 $\\angle CDE = 120°$，且 $\\overline{CD} = \\overline{DE}$，$\\triangle CDE$ 為等腰，底角各 $30°$，將 $\\overline{CE}$ 中點記為 $M$，$\\overline{DM}$ 垂直 $\\overline{CE}$ 且 $\\overline{DM} = \\overline{CD} \\cos 60°$，配合 $\\angle CDM = 60°$ 結構）。具體計算後得 $D$ 到 $\\overline{AB}$ 的距離 $= 15\\sqrt{3} + 130 + 50$（含 $\\overline{CD}$ 段在 $30°$ 方向的高度貢獻 $15\\sqrt{3}$、$\\overline{BC}$ 等長 $130$，再加沙發底邊到地毯邊的 $50$）。</p><p>故 $\\dfrac{\\sqrt{3}}{2}a \\geq 15\\sqrt{3} + 130 + 50 = 15\\sqrt{3} + 180$。</p><p>兩邊同乘 $\\dfrac{2}{\\sqrt{3}}$：</p><p>$a \\geq \\dfrac{2}{\\sqrt{3}}(15\\sqrt{3} + 180) = 30 + \\dfrac{360}{\\sqrt{3}} = 30 + 120\\sqrt{3}$。</p><p><strong>答：地毯邊長至少需 $120\\sqrt{3} + 30$ 公分。</strong></p>"
+        }
+      ]
+    }
+  ]
+}
