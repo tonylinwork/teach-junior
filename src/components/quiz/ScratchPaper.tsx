@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
+import { createPortal } from 'react-dom';
 import { FileText, Trash2, X, Eraser, Pen } from 'lucide-react';
 
 interface ScratchPaperProps {
@@ -179,19 +180,16 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
         };
     }, [isDragging, dragStart]);
 
-    return (
-        <>
-            {/* Scratch Paper Window */}
-            {isOpen && (
-                <div
-                    className="fixed z-50 bg-white rounded-2xl shadow-2xl border-2 border-slate-200"
-                    style={{
-                        left: `${position.x}px`,
-                        top: `${position.y}px`,
-                        width: '740px'
-                    }}
-                    onMouseDown={handleMouseDown}
-                >
+    const scratchWindow = isOpen ? (
+        <div
+            className="fixed z-50 bg-white rounded-2xl shadow-2xl border-2 border-slate-200"
+            style={{
+                left: `${position.x}px`,
+                top: `${position.y}px`,
+                width: '740px'
+            }}
+            onMouseDown={handleMouseDown}
+        >
                     {/* Header */}
                     <div className="drag-handle flex items-center justify-between bg-gradient-to-r from-indigo-600 to-indigo-700 px-4 py-2.5 rounded-t-xl cursor-move">
                         <div className="flex items-center gap-2 text-white">
@@ -264,9 +262,13 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
                                 width: '100%'
                             }}
                         />
-                    </div>
-                </div>
-            )}
+            </div>
+        </div>
+    ) : null;
+
+    return (
+        <>
+            {scratchWindow && createPortal(scratchWindow, document.body)}
 
             {/* Toggle Button with Content Indicator */}
             <button
