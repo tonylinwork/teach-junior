@@ -104,6 +104,16 @@
   .quiz-content .katex {
     font-size: 1.2em !important;
   }
+
+  /* Inline displaystyle fractions (\dfrac) extend beyond the default line box.
+     Give paragraphs that contain such tall katex elements extra vertical
+     breathing room so options stacked in separate <p> tags don't overlap. */
+  .quiz-content p:has(.katex .mfrac),
+  .quiz-content li:has(.katex .mfrac) {
+    line-height: 2.4;
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+  }
 }
 
 /* Scrollbar styling */
