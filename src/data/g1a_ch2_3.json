@@ -136,7 +136,7 @@
           "type": "multi_choice",
           "content": "<p>下列哪些是<strong>最簡分數</strong>？（多選）</p><p>A. $\\frac{9}{16}$</p><p>B. $\\frac{14}{21}$</p><p>C. $\\frac{11}{15}$</p><p>D. $\\frac{12}{18}$</p><p>E. $\\frac{7}{12}$</p>",
           "answer": "ACE",
-          "explanation": "<p><strong>A ○</strong>：$\\gcd(9,16)=1$，是最簡分數。<br><strong>B ╳</strong>：$\\gcd(14,21)=7$，可約成 $\\frac{2}{3}$。<br><strong>C ○</strong>：$\\gcd(11,15)=1$，是最簡分數。<br><strong>D ╳</strong>：$\\gcd(12,18)=6$，可約成 $\\frac{2}{3}$。<br><strong>E ○</strong>：$\\gcd(7,12)=1$，是最簡分數。</p>"
+          "explanation": "<p><strong>A ○</strong>：$(9,16)=1$，是最簡分數。<br><strong>B ╳</strong>：$(14,21)=7$，可約成 $\\frac{2}{3}$。<br><strong>C ○</strong>：$(11,15)=1$，是最簡分數。<br><strong>D ╳</strong>：$(12,18)=6$，可約成 $\\frac{2}{3}$。<br><strong>E ○</strong>：$(7,12)=1$，是最簡分數。</p>"
         },
         {
           "id": "g1a_ch2_3_q16",
