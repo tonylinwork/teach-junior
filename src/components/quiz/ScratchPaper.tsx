@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { FileText, Trash2, X, Eraser, Pen } from 'lucide-react';
+import { useIsNarrow } from '@/lib/useIsNarrow';
 
 interface ScratchPaperProps {
     questionId: string;
@@ -27,6 +28,9 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
     const [resizeStart, setResizeStart] = useState({ x: 0, y: 0, width: 0, height: 0 });
 
     const storageKey = `scratch-${chapterId}-${questionId}`;
+
+    // Phones: scratch paper becomes a full-width panel (no drag / resize), canvas scaled to fit
+    const isNarrow = useIsNarrow();
 
     // Keep latest canvasSize in a ref so other effects can read it without re-running on every resize tick.
     const canvasSizeRef = useRef(canvasSize);
@@ -93,7 +97,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
         setHasContent(true);
     };
 
-    const getCanvasCoordinates = (e: React.MouseEvent<HTMLCanvasElement>) => {
+    const getCanvasCoordinates = (e: React.PointerEvent<HTMLCanvasElement>) => {
         const canvas = canvasRef.current;
         if (!canvas) return { x: 0, y: 0 };
 
@@ -110,7 +114,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
         return { x, y };
     };
 
-    const startDrawing = (e: React.MouseEvent<HTMLCanvasElement>) => {
+    const startDrawing = (e: React.PointerEvent<HTMLCanvasElement>) => {
         const canvas = canvasRef.current;
         if (!canvas) return;
 
@@ -134,7 +138,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
         setIsDrawing(true);
     };
 
-    const draw = (e: React.MouseEvent<HTMLCanvasElement>) => {
+    const draw = (e: React.PointerEvent<HTMLCanvasElement>) => {
         if (!isDrawing) return;
 
         const canvas = canvasRef.current;
@@ -266,12 +270,12 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
 
     const scratchWindow = isOpen ? (
         <div
-            className="fixed z-50 bg-white rounded-2xl shadow-2xl border-2 border-slate-200"
-            style={{
+            className="fixed z-[60] bg-white rounded-2xl shadow-2xl border-2 border-slate-200"
+            style={isNarrow ? { left: '8px', right: '8px', top: '72px' } : {
                 left: `${position.x}px`,
                 top: `${position.y}px`,
             }}
-            onMouseDown={handleMouseDown}
+            onMouseDown={isNarrow ? undefined : handleMouseDown}
         >
             {/* Header */}
             <div className="drag-handle flex items-center justify-between bg-gradient-to-r from-indigo-600 to-indigo-700 px-4 py-2.5 rounded-t-xl cursor-move">
@@ -283,24 +287,24 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
                 </div>
                 <button
                     onClick={() => setIsOpen(false)}
-                    className="p-1.5 hover:bg-white/20 rounded-lg transition-colors"
+                    className="p-2.5 -mr-2 sm:mr-0 sm:p-1.5 hover:bg-white/20 rounded-lg transition-colors"
                     title="關閉"
                 >
-                    <X className="h-3.5 w-3.5 text-white" />
+                    <X className="h-5 w-5 sm:h-3.5 sm:w-3.5 text-white" />
                 </button>
             </div>
 
             {/* Content */}
-            <div className="p-4">
+            <div className="p-3 sm:p-4">
                 <div className="mb-3 flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                        <p className="text-xs text-slate-500">在下方空白處進行計算或草稿</p>
+                        <p className="hidden sm:block text-xs text-slate-500">在下方空白處進行計算或草稿</p>
 
                         {/* Pen/Eraser Toggle */}
                         <div className="flex items-center gap-1 rounded-lg bg-slate-100 p-1">
                             <button
                                 onClick={() => setIsEraser(false)}
-                                className={`flex items-center gap-1 px-2 py-1 text-xs font-bold rounded-md transition-all ${!isEraser
+                                className={`flex items-center gap-1 px-3 py-2 sm:px-2 sm:py-1 text-sm sm:text-xs font-bold rounded-md transition-all ${!isEraser
                                     ? 'bg-white text-slate-900 shadow-sm'
                                     : 'text-slate-500 hover:text-slate-700'
                                     }`}
@@ -311,7 +315,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
                             </button>
                             <button
                                 onClick={() => setIsEraser(true)}
-                                className={`flex items-center gap-1 px-2 py-1 text-xs font-bold rounded-md transition-all ${isEraser
+                                className={`flex items-center gap-1 px-3 py-2 sm:px-2 sm:py-1 text-sm sm:text-xs font-bold rounded-md transition-all ${isEraser
                                     ? 'bg-white text-slate-900 shadow-sm'
                                     : 'text-slate-500 hover:text-slate-700'
                                     }`}
@@ -325,7 +329,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
 
                     <button
                         onClick={clearCanvas}
-                        className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold text-red-600 hover:bg-red-50 rounded-lg transition-colors"
+                        className="flex items-center gap-1.5 px-3 py-2.5 sm:py-1.5 text-sm sm:text-xs font-bold text-red-600 hover:bg-red-50 rounded-lg transition-colors"
                     >
                         <Trash2 className="h-3.5 w-3.5" />
                         清除全部
@@ -333,23 +337,24 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
                 </div>
                 <canvas
                     ref={canvasRef}
-                    onMouseDown={startDrawing}
-                    onMouseMove={draw}
-                    onMouseUp={stopDrawing}
-                    onMouseLeave={stopDrawing}
+                    onPointerDown={startDrawing}
+                    onPointerMove={draw}
+                    onPointerUp={stopDrawing}
+                    onPointerLeave={stopDrawing}
+                    onPointerCancel={stopDrawing}
                     className={`border-2 border-slate-200 rounded-lg bg-white shadow-inner ${isEraser ? 'cursor-cell' : 'cursor-crosshair'
                         }`}
                     style={{
                         touchAction: 'none',
                         display: 'block',
-                        width: `${canvasSize.width}px`,
-                        height: `${canvasSize.height}px`,
+                        width: isNarrow ? '100%' : `${canvasSize.width}px`,
+                        height: isNarrow ? 'auto' : `${canvasSize.height}px`,
                     }}
                 />
             </div>
 
             {/* Resize handle */}
-            <div
+            {!isNarrow && <div
                 onMouseDown={handleResizeStart}
                 className="absolute bottom-1 right-1 cursor-se-resize text-slate-400 hover:text-slate-600 transition-colors"
                 title="拖曳改變大小"
@@ -359,7 +364,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
                     <line x1="7" y1="12" x2="12" y2="7" />
                     <line x1="11" y1="12" x2="12" y2="11" />
                 </svg>
-            </div>
+            </div>}
         </div>
     ) : null;
 
@@ -370,7 +375,7 @@ export function ScratchPaper({ questionId, questionNumber, chapterId = 'default'
             {/* Toggle Button with Content Indicator */}
             <button
                 onClick={() => setIsOpen(!isOpen)}
-                className={`relative flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-lg transition-colors border ${hasContent
+                className={`relative flex items-center gap-1.5 px-3 py-2.5 sm:py-1.5 text-sm sm:text-xs font-bold rounded-lg transition-colors border ${hasContent
                     ? 'text-indigo-700 bg-indigo-50 border-indigo-300 hover:bg-indigo-100'
                     : 'text-indigo-600 bg-white border-indigo-200 hover:bg-indigo-50'
                     }`}

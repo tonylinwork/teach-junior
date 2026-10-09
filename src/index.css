@@ -116,6 +116,32 @@
   }
 }
 
+/* Mobile: long display formulas / tables scroll inside their box instead of overflowing the page */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+}
+
+@media (max-width: 639px) {
+  .prose table {
+    display: block;
+    overflow-x: auto;
+    max-width: 100%;
+  }
+
+  .prose img,
+  .prose svg {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* No hover lift on touch screens (sticky :hover after tap) */
+  .premium-clay-card:hover {
+    transform: none;
+  }
+}
+
 /* Scrollbar styling */
 ::-webkit-scrollbar {
   width: 10px;

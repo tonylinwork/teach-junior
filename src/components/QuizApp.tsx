@@ -223,15 +223,15 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
 
     return (
         <QuizLayout title={quizData?.title}>
-            <div className="mx-auto max-w-[1800px] px-4 sm:px-6 lg:px-8 pb-32">
-                <div className="flex flex-col lg:flex-row gap-12 pt-8">
+            <div className="mx-auto max-w-[1800px] px-0 sm:px-6 lg:px-8 pb-40 sm:pb-32">
+                <div className="flex flex-col lg:flex-row gap-12 pt-2 sm:pt-8">
                     {/* Main Content Area */}
                     <div className="flex-1 min-w-0">
-                        <div className="mb-4">
+                        <div className="mb-2 sm:mb-4">
                             {onBack && (
                                 <button
                                     onClick={onBack}
-                                    className="flex items-center gap-2 text-slate-500 hover:text-blue-600 transition-colors mb-4 px-3 py-2 rounded-xl hover:bg-blue-50 w-fit"
+                                    className="flex items-center gap-2 text-slate-500 hover:text-blue-600 transition-colors mb-2 sm:mb-4 px-3 py-2.5 sm:py-2 rounded-xl hover:bg-blue-50 w-fit"
                                 >
                                     <ArrowLeft className="h-5 w-5" />
                                     <span className="font-bold">回到首頁</span>
@@ -239,7 +239,7 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                             )}
                         </div>
 
-                        <div className="mb-12 space-y-6">
+                        <div className="mb-8 sm:mb-12 space-y-6">
                             <div className="max-w-4xl text-center md:text-left">
                                 <div className="flex items-center gap-3 mb-2 justify-center md:justify-start">
                                     <span className="flex items-center gap-1.5 rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-blue-600 border border-blue-100 uppercase tracking-wider">
@@ -250,12 +250,12 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                 <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-normal leading-tight mb-4 text-slate-800 font-sans break-words">
                                     {quizData?.title || (isLoading ? '正在讀取...' : '尚無教材')}
                                 </h1>
-                                <p className="text-lg text-slate-500 max-w-2xl">
+                                <p className="text-base sm:text-lg text-slate-500 max-w-2xl">
                                     {quizData ? '請認真完成下列題目，點擊「檢查答案」即可確認詳細解析與正確答案。' : '目前尚未上傳任何教學投影片或題目。'}
                                 </p>
                             </div>
 
-                            <div className="flex flex-col gap-4 rounded-3xl border border-white/70 bg-white/75 p-4 shadow-sm backdrop-blur lg:flex-row lg:items-center lg:justify-between">
+                            <div className="flex flex-col gap-4 rounded-3xl border border-white/70 bg-white/75 p-3 sm:p-4 shadow-sm backdrop-blur lg:flex-row lg:items-center lg:justify-between">
                                 <div className="flex min-w-0 flex-wrap items-center gap-3">
                                     <FontSizeControl />
                                     {/* Chapter Selection from chapters.json */}
@@ -263,7 +263,7 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                         <select
                                             value={selectedBook}
                                             onChange={(e) => handleBookChange(e.target.value)}
-                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm min-w-[112px]"
+                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2.5 sm:py-2 text-base sm:text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm min-w-[112px]"
                                         >
                                             {bookOptions.length === 0 && (
                                                 <option value="">無冊別資料</option>
@@ -276,11 +276,11 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                             <ChevronDown className="h-4 w-4" />
                                         </div>
                                     </div>
-                                    <div className="relative group">
+                                    <div className="relative group w-full sm:w-auto">
                                         <select
                                             value={currentChapterId}
                                             onChange={(e) => setCurrentChapterId(e.target.value)}
-                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2 text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm max-w-[300px]"
+                                            className="appearance-none rounded-xl border border-slate-200 bg-white pl-4 pr-10 py-2.5 sm:py-2 text-base sm:text-sm font-bold text-slate-700 hover:border-blue-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 transition-all cursor-pointer shadow-sm w-full sm:w-auto sm:max-w-[300px]"
                                         >
                                             {chaptersInSelectedBook.length === 0 && (
                                                 <option value="">無章節資料</option>
@@ -299,7 +299,7 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                             <button
                                                 onClick={handleReset}
                                                 title="重置作答"
-                                                className="p-2 text-slate-400 hover:text-indigo-500 hover:bg-indigo-50 rounded-xl transition-all border border-transparent hover:border-indigo-100"
+                                                className="p-3 sm:p-2 text-slate-400 hover:text-indigo-500 hover:bg-indigo-50 rounded-xl transition-all border border-transparent hover:border-indigo-100"
                                             >
                                                 <RotateCcw className="h-4 w-4" />
                                             </button>
@@ -307,7 +307,7 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                                 <button
                                                     onClick={handleDeleteChapter}
                                                     title="刪除此章節"
-                                                    className="p-2 text-slate-400 hover:text-red-500 hover:bg-red-50 rounded-xl transition-all border border-transparent hover:border-red-100"
+                                                    className="p-3 sm:p-2 text-slate-400 hover:text-red-500 hover:bg-red-50 rounded-xl transition-all border border-transparent hover:border-red-100"
                                                 >
                                                     <Trash2 className="h-4 w-4" />
                                                 </button>
@@ -362,15 +362,15 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                 )}
 
                                 {quizData.summary && (
-                                    <div className="clay-card border-none bg-amber-50/50 p-8 relative overflow-hidden">
+                                    <div className="clay-card border-none bg-amber-50/50 p-4 sm:p-8 relative overflow-hidden">
                                         <div className="absolute top-0 right-0 p-4 opacity-10 pointer-events-none">
                                             <div className="h-32 w-32 rounded-full bg-amber-400 blur-3xl" />
                                         </div>
-                                        <h3 className="text-2xl font-black text-amber-900 mb-6 flex items-center gap-4 relative z-10">
+                                        <h3 className="text-xl sm:text-2xl font-black text-amber-900 mb-4 sm:mb-6 flex items-center gap-3 sm:gap-4 relative z-10">
                                             <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-amber-50 text-2xl shadow-inner-soft border border-amber-100">💡</span>
                                             本章重點精華
                                         </h3>
-                                        <div className="bg-white/50 rounded-2xl p-6 shadow-inner-soft backdrop-blur-sm relative z-10 border border-amber-100">
+                                        <div className="bg-white/50 rounded-2xl p-4 sm:p-6 shadow-inner-soft backdrop-blur-sm relative z-10 border border-amber-100">
                                             <MathRenderer
                                                 className="prose prose-amber max-w-none text-slate-700 leading-relaxed font-bold"
                                                 content={quizData.summary}
@@ -380,7 +380,7 @@ export function QuizApp({ onBack, initialBook }: QuizAppProps) {
                                 )}
 
                                 {quizData.warmup && (
-                                    <div className="clay-card border-none bg-teal-50/50 p-8 relative overflow-hidden">
+                                    <div className="clay-card border-none bg-teal-50/50 p-4 sm:p-8 relative overflow-hidden">
                                         <div className="absolute top-0 right-0 p-4 opacity-10 pointer-events-none">
                                             <div className="h-32 w-32 rounded-full bg-teal-400 blur-3xl" />
                                         </div>

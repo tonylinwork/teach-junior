@@ -20,33 +20,33 @@ export function LandingPage({ onStart, onChallenge }: LandingPageProps) {
 
     return (
         <div className="min-h-screen bg-slate-100 font-sans text-slate-800 selection:bg-indigo-100 selection:text-indigo-900 overflow-x-hidden">
-            <nav className="sticky top-4 z-50 mx-auto mt-4 flex w-[92%] max-w-7xl items-center justify-between gap-4 rounded-2xl border border-white/70 bg-white/80 px-4 py-3 shadow-sm backdrop-blur md:px-6">
-                <button onClick={onStart} className="flex items-center gap-3 text-left">
-                    <div className="rounded-xl bg-indigo-600 p-2.5 shadow-sm">
-                        <GraduationCap className="h-6 w-6 text-white" />
+            <nav className="sticky top-4 z-50 mx-auto mt-4 flex w-[92%] max-w-7xl items-center justify-between gap-2 sm:gap-4 rounded-2xl border border-white/70 bg-white/80 px-4 py-3 shadow-sm backdrop-blur md:px-6">
+                <button onClick={onStart} className="flex min-w-0 items-center gap-2 sm:gap-3 text-left">
+                    <div className="shrink-0 rounded-xl bg-indigo-600 p-2 sm:p-2.5 shadow-sm">
+                        <GraduationCap className="h-5 w-5 sm:h-6 sm:w-6 text-white" />
                     </div>
-                    <span className="text-lg font-black tracking-tight sm:text-xl">
+                    <span className="whitespace-nowrap text-base font-black tracking-tight sm:text-xl">
                         林哲數學 <span className="text-indigo-600">Junior</span>
                     </span>
                 </button>
-                <div className="flex items-center gap-2">
+                <div className="flex shrink-0 items-center gap-2">
                     <button
                         onClick={onStart}
-                        className="rounded-xl bg-white px-4 py-2 text-sm font-black text-slate-700 shadow-sm ring-1 ring-slate-200 transition hover:text-indigo-600"
+                        className="whitespace-nowrap rounded-xl bg-white px-3 py-2.5 sm:px-4 sm:py-2 text-sm font-black text-slate-700 shadow-sm ring-1 ring-slate-200 transition hover:text-indigo-600"
                     >
-                        題庫練習
+                        <span className="sm:hidden">題庫</span><span className="hidden sm:inline">題庫練習</span>
                     </button>
                     <button
                         onClick={onChallenge}
-                        className="rounded-xl bg-slate-900 px-4 py-2 text-sm font-black text-white shadow-sm transition hover:bg-slate-800"
+                        className="whitespace-nowrap rounded-xl bg-slate-900 px-3 py-2.5 sm:px-4 sm:py-2 text-sm font-black text-white shadow-sm transition hover:bg-slate-800"
                     >
-                        挑戰模式
+                        <span className="sm:hidden">挑戰</span><span className="hidden sm:inline">挑戰模式</span>
                     </button>
                 </div>
             </nav>
 
             <main>
-                <section className="px-6 pb-16 pt-20 md:pt-24">
+                <section className="px-5 sm:px-6 pb-16 pt-10 sm:pt-20 md:pt-24">
                     <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[minmax(0,1fr)_420px] lg:items-start">
                         <motion.div
                             initial="hidden"

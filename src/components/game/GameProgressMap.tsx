@@ -1,19 +1,23 @@
 import { motion, AnimatePresence } from 'framer-motion';
 import { Gift, Check, Zap } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { useIsNarrow } from '@/lib/useIsNarrow';
 
 interface GameProgressMapProps {
     currentLevel: number;
     maxVisibleLevels?: number;
 }
 
-export function GameProgressMap({ currentLevel, maxVisibleLevels = 10 }: GameProgressMapProps) {
+export function GameProgressMap({ currentLevel, maxVisibleLevels: maxVisibleProp = 10 }: GameProgressMapProps) {
+    // 手機寬度放不下 10 格，只顯示 6 格
+    const isNarrow = useIsNarrow();
+    const maxVisibleLevels = isNarrow ? Math.min(6, maxVisibleProp) : maxVisibleProp;
     // 決定地圖顯示的範圍（始終讓玩家處於視野中）
     const startLevel = Math.max(1, currentLevel - 2);
     const levels = Array.from({ length: maxVisibleLevels }, (_, i) => startLevel + i);
 
     return (
-        <div className="relative w-full pt-16 pb-8 mb-8">
+        <div className="relative w-full pt-14 sm:pt-16 pb-8 mb-6 sm:mb-8">
             {/* 地圖背景軌道 */}
             <div className="absolute top-1/2 left-0 right-0 h-1.5 bg-slate-800/50 -translate-y-1/2 rounded-full overflow-hidden">
                 <motion.div

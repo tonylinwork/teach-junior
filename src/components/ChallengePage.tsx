@@ -50,7 +50,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                     >
                         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-indigo-900/40 via-slate-950 to-slate-950 -z-10" />
 
-                        <div className="max-w-2xl w-full text-center space-y-12">
+                        <div className="max-w-2xl w-full text-center space-y-8 sm:space-y-12">
                             <motion.div
                                 initial={{ y: 20, opacity: 0 }}
                                 animate={{ y: 0, opacity: 1 }}
@@ -64,7 +64,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                                 initial={{ y: 20, opacity: 0 }}
                                 animate={{ y: 0, opacity: 1 }}
                                 transition={{ delay: 0.1 }}
-                                className="text-6xl sm:text-8xl font-black tracking-tighter leading-none"
+                                className="text-5xl sm:text-8xl font-black tracking-tighter leading-none"
                             >
                                 極限 <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-fuchsia-400">連擊挑戰</span>
                             </motion.h1>
@@ -82,7 +82,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                                 initial={{ y: 20, opacity: 0 }}
                                 animate={{ y: 0, opacity: 1 }}
                                 transition={{ delay: 0.3 }}
-                                className="grid grid-cols-3 gap-6 py-8"
+                                className="grid grid-cols-3 gap-6 py-4 sm:py-8"
                             >
                                 <div className="space-y-2">
                                     <div className="text-2xl font-black text-white">3</div>
@@ -127,7 +127,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                 <>
                     <GameHeader gameState={gameState} onExit={finishGame} />
 
-                    <main className="mx-auto max-w-[1800px] px-6 py-12 pb-32">
+                    <main className="mx-auto max-w-[1800px] px-3 sm:px-6 py-4 sm:py-12 pb-32">
                         <GameProgressMap currentLevel={gameState.currentLevel} />
 
                         <AnimatePresence mode="wait">
@@ -151,7 +151,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                     </main>
 
                     {/* Footer Tips */}
-                    <footer className="fixed bottom-0 inset-x-0 h-20 bg-gradient-to-t from-slate-950 to-transparent flex items-center justify-center pointer-events-none">
+                    <footer className="fixed bottom-0 inset-x-0 h-20 bg-gradient-to-t from-slate-950 to-transparent hidden sm:flex items-center justify-center pointer-events-none">
                         <div className="flex gap-8 text-[10px] font-black text-slate-600 uppercase tracking-[0.3em]">
                             <div className="flex items-center gap-2">
                                 <Zap className="h-3 w-3" />
@@ -189,7 +189,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                         exit={{ opacity: 0, y: 30 }}
                         className="fixed inset-0 z-[110] bg-slate-950 overflow-y-auto"
                     >
-                        <header className="sticky top-0 z-50 glass-card bg-slate-900/90 border-slate-800 p-6">
+                        <header className="sticky top-0 z-50 glass-card bg-slate-900/90 border-slate-800 p-4 sm:p-6">
                             <div className="max-w-[1800px] mx-auto flex items-center justify-between">
                                 <div className="flex items-center gap-4">
                                     <button
@@ -213,7 +213,7 @@ export function ChallengePage({ onBack }: ChallengePageProps) {
                             </div>
                         </header>
 
-                        <main className="max-w-[1800px] mx-auto px-6 py-12 space-y-12">
+                        <main className="max-w-[1800px] mx-auto px-5 sm:px-6 py-6 sm:py-12 space-y-8 sm:space-y-12">
                             {gameState.history.map((item, idx) => (
                                 <div key={idx} className="relative">
                                     <div className={`absolute -left-4 top-0 bottom-0 w-1 rounded-full ${item.isCorrect ? 'bg-green-500/50' : 'bg-red-500/50'}`} />

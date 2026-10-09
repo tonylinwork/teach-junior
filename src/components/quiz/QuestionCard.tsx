@@ -231,11 +231,11 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
     return (
         <div
             id={question.id}
-            className="mb-12 premium-clay-card border-none overflow-hidden scroll-mt-28 transition-all hover:-translate-y-1.5"
+            className="mb-8 sm:mb-12 premium-clay-card border-none overflow-hidden scroll-mt-28 transition-all sm:hover:-translate-y-1.5"
         >
-            <div className="p-6 sm:p-8">
+            <div className="p-4 sm:p-8">
                 <div className="flex items-start justify-between">
-                    <div className="flex-1">
+                    <div className="flex-1 min-w-0">
                         <div className="mb-4 flex items-center justify-between">
                             <div className="flex items-center gap-2">
                                 <span className="inline-block rounded-lg bg-slate-100/50 px-3 py-1 text-xs font-extrabold text-slate-500 tracking-wider">
@@ -246,7 +246,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                             {!import.meta.env.PROD && !isEditing && (
                                 <button
                                     onClick={handleStartEdit}
-                                    className="p-2 text-slate-300 hover:text-indigo-500 transition-colors rounded-full hover:bg-indigo-50"
+                                    className="p-3 sm:p-2 text-slate-300 hover:text-indigo-500 transition-colors rounded-full hover:bg-indigo-50"
                                     title="編輯題目"
                                 >
                                     <Edit2 className="h-4 w-4" />
@@ -328,7 +328,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                             </div>
                         ) : (
                             <MathRenderer
-                                className="quiz-content prose prose-slate max-w-none prose-p:my-2 mb-8 text-slate-700 font-medium leading-relaxed"
+                                className="quiz-content prose prose-slate max-w-none prose-p:my-2 mb-6 sm:mb-8 text-slate-700 font-medium leading-relaxed"
                                 content={question.content}
                             />
                         )}
@@ -337,7 +337,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                         {!isSubmitted ? (
                             <div className="space-y-6">
                                 {isTrueFalse && (
-                                    <div className="grid grid-cols-2 gap-4">
+                                    <div className="grid grid-cols-2 gap-3 sm:gap-4">
                                         {['○', '╳'].map(opt => (
                                             <button
                                                 key={opt}
@@ -367,7 +367,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                                 )}
 
                                 {(isSingleChoice) && (
-                                    <div className="grid grid-cols-5 gap-4">
+                                    <div className="grid grid-cols-5 gap-2 sm:gap-4">
                                         {['A', 'B', 'C', 'D', 'E'].map(opt => (
                                             <button
                                                 key={opt}
@@ -399,7 +399,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                                 )}
 
                                 {(isMultiChoice) && (
-                                    <div className="grid grid-cols-5 gap-4">
+                                    <div className="grid grid-cols-5 gap-2 sm:gap-4">
                                         {['A', 'B', 'C', 'D', 'E'].map(opt => {
                                             const isSelected = userAnswer.includes(opt);
                                             return (
@@ -487,7 +487,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                                     disabled={!userAnswer}
                                     onClick={() => handleCheck()}
                                     className={cn(
-                                        "w-full rounded-[1.5rem] py-5 text-lg font-black text-white transition-all active:scale-[0.98] disabled:opacity-50 disabled:cursor-not-allowed group overflow-hidden relative",
+                                        "w-full rounded-[1.5rem] py-4 sm:py-5 text-lg font-black text-white transition-all active:scale-[0.98] disabled:opacity-50 disabled:cursor-not-allowed group overflow-hidden relative",
                                         userAnswer ? "bg-indigo-600 shadow-xl shadow-indigo-100" : "bg-slate-200 text-slate-400"
                                     )}
                                 >
@@ -503,7 +503,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                                 initial={{ opacity: 0, scale: 0.98 }}
                                 animate={{ opacity: 1, scale: 1 }}
                                 className={cn(
-                                    "rounded-2xl p-6 flex flex-col md:flex-row md:items-center justify-between gap-4 border-2 transition-all premium-shadow",
+                                    "rounded-2xl p-4 sm:p-6 flex flex-col md:flex-row md:items-center justify-between gap-4 border-2 transition-all premium-shadow",
                                     isManualCheck
                                         ? "bg-amber-50/80 text-amber-800 border-amber-200/50 shadow-amber-100"
                                         : isCorrect
@@ -579,10 +579,10 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                 </div>
             </div>
 
-            <div className="bg-slate-50/50 px-6 py-4 border-t border-slate-100">
+            <div className="bg-slate-50/50 px-4 sm:px-6 py-1 sm:py-4 border-t border-slate-100">
                 <button
                     onClick={() => setShowAnswer(!showAnswer)}
-                    className="flex w-full items-center justify-between text-xs font-bold text-slate-400 hover:text-indigo-600 focus:outline-none transition-colors uppercase tracking-widest group"
+                    className="flex w-full min-h-11 sm:min-h-0 items-center justify-between text-sm sm:text-xs font-bold text-slate-400 hover:text-indigo-600 focus:outline-none transition-colors uppercase tracking-widest group"
                 >
                     <span className="flex items-center gap-2">
                         <div className={cn(
@@ -604,7 +604,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                         transition={{ duration: 0.2 }}
                         className="overflow-hidden"
                     >
-                        <div className="border-t border-slate-100 bg-slate-50/50 p-6 pt-2">
+                        <div className="border-t border-slate-100 bg-slate-50/50 p-4 sm:p-6 pt-2">
                             <div className="mb-4">
                                 <h4 className="flex items-center text-sm font-bold text-green-700 mb-2">
                                     <CheckCircle className="mr-2 h-4 w-4" />
@@ -625,7 +625,7 @@ export function QuestionCard({ question, chapterId, onAnswer, onUpdateQuestion, 
                                         解析
                                     </h4>
                                     <MathRenderer
-                                        className="quiz-content prose prose-sm prose-slate max-w-none bg-white p-4 rounded-md border text-slate-600"
+                                        className="quiz-content prose prose-base sm:prose-sm prose-slate max-w-none bg-white p-3 sm:p-4 rounded-md border text-slate-600"
                                         content={question.explanation}
                                     />
                                 </div>

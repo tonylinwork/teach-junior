@@ -12,8 +12,8 @@ interface QuizSectionProps {
 
 export function QuizSection({ section, chapterId, onAnswer, onUpdateQuestion, answers }: QuizSectionProps) {
     return (
-        <div className="mb-12">
-            <div className="mb-8 flex items-center justify-between px-2">
+        <div className="mb-8 sm:mb-12">
+            <div className="mb-5 sm:mb-8 flex items-center justify-between px-2">
                 <div className="flex items-center gap-4">
                     <div className="h-10 w-2 bg-gradient-to-b from-violet-500 to-fuchsia-500 rounded-full shadow-lg shadow-violet-200" />
                     <div>
